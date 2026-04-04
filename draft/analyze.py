@@ -27,14 +27,42 @@ Sources:
 import argparse
 import time
 import warnings
+from collections import deque
 from datetime import datetime, date
 from pathlib import Path
 
 import pandas as pd
 
-RATE_LIMIT_DELAY_DAILY     = 4   # s giữa mỗi mã — daily  (~7 calls/mã)
-RATE_LIMIT_DELAY_QUARTERLY = 7   # s giữa mỗi mã — quarterly (~9 calls/mã)
-RATE_LIMIT_RETRY_WAIT      = 65  # s chờ khi bị rate limit
+# ── Rate limiting ──────────────────────────────────────────────────────────────────────────────
+# Thấp hơn giới hạn thực tế 2 req — tăng lên nếu có API key cao hơn:
+#   Guest: 20/phút  → đặt 18
+#   Community (miễn phí sau đăng ký): 60/phút → đặt 57
+#   Sponsor: 180-600/phút → đặt tương ứng
+API_CALLS_PER_MIN = 18  # ← điều chỉnh theo gói của bạn
+
+RATE_LIMIT_RETRY_WAIT = 65  # s — chẹ nếu vẫn bị bắt sau khi throttle
+
+_CALL_LOG: deque = deque()   # rolling window timestamps
+_WINDOW_SEC: float = 62.0    # một chút lớn hơn 60s để an toàn
+
+
+def _throttle() -> None:
+    """
+    Chủ động đợi nếu sắp vượt API_CALLS_PER_MIN trong 60s.
+    Thay thế việc chờ cứng sau khi bị giới hạn.
+    """
+    now = time.monotonic()
+    while _CALL_LOG and now - _CALL_LOG[0] > _WINDOW_SEC:
+        _CALL_LOG.popleft()
+    if len(_CALL_LOG) >= API_CALLS_PER_MIN:
+        wait = _WINDOW_SEC - (now - _CALL_LOG[0]) + 0.5
+        if wait > 0:
+            print(f"  [PACE] Chủ {wait:.0f}s — đã dùng {len(_CALL_LOG)}/{API_CALLS_PER_MIN} req/phút...")
+            time.sleep(wait)
+        now = time.monotonic()
+        while _CALL_LOG and now - _CALL_LOG[0] > _WINDOW_SEC:
+            _CALL_LOG.popleft()
+    _CALL_LOG.append(time.monotonic())
 
 warnings.filterwarnings("ignore")
 
@@ -78,7 +106,13 @@ def read_tickers(csv_path: Path) -> list[str]:
 
 
 def safe_call(func, *args, max_retries: int = 2, **kwargs) -> pd.DataFrame:
-    """Gọi hàm vnstock. Tự chờ + retry khi rate limit (sys.exit). Trả về DataFrame rỗng nếu lỗi."""
+    """
+    Gọi hàm vnstock.
+    - _throttle() trước mỗi call — chủ động trước khi bị giới hạn.
+    - SystemExit = rate limit bị bắt qua: chờ RATE_LIMIT_RETRY_WAIT rồi retry.
+    - Trả về DataFrame rỗng nếu lỗi.
+    """
+    _throttle()
     for attempt in range(max_retries + 1):
         try:
             result = func(*args, **kwargs)
@@ -763,7 +797,6 @@ def run_pipeline(mode: str) -> None:
     print(f"\nMode: [{mode.upper()}]  |  Mã ({len(tickers)}): {tickers}\n")
 
     subdir, xlsx_path, summary_md = _setup_run_paths(mode)
-    delay = RATE_LIMIT_DELAY_DAILY if mode == "daily" else RATE_LIMIT_DELAY_QUARTERLY
 
     vs          = Vnstock()
     detail_map: dict                    = {}
@@ -796,12 +829,6 @@ def run_pipeline(mode: str) -> None:
             print(f"\n[{ticker}] *** TICKER MỚI — chạy FULL mode ***")
         else:
             print(f"\n[{ticker}]")
-
-        if i > 0:
-            # delay depends on heaviest fetch needed for this ticker
-            d = RATE_LIMIT_DELAY_QUARTERLY if effective_mode in ("quarterly", "full") else RATE_LIMIT_DELAY_DAILY
-            print(f"  (chờ {d}s...)")
-            time.sleep(d)
 
         frames: dict = {}
         kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
