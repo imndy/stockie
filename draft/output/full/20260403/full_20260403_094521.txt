@@ -1,0 +1,827 @@
+======================================================================
+  BÁO CÁO PHÂN TÍCH CỔ PHIẾU
+  Ngày tạo: 03/04/2026 09:50:26
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: HPG
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange              ev  ceiling  floor  ref_price  open  match_price  close_price  price_change  price_change_pct  high   low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   HPG     HOSE 209923991134250    29050  25250      27150 27000        27350        27350           200          0.007366 27500 26750      50053298          30850         17749           0.540907           -0.098847         4894273    3760978268             34803283            1697356867               0.221141               0.49
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date         revenue  revenue_growth     net_profit  net_profit_growth  ebit_margin      roe     roic      roa        pe       pb         eps  current_ratio  cash_ratio  quick_ratio  interest_coverage       ae      fae  net_profit_margin  gross_margin              ev  issue_share       ps       pcf         bvps  ev_per_ebitda       at      fat       acp        dso       dpo     eps_ttm  charter_capital     rtq4  charter_capital_ratio    rtq10  dividend         ebitda           ebit       le       de        ccc    rtq17
+   HPG         2025              5 1774892291083 158332317934212        0.126428 15453174006223           0.285467     0.130849 0.126906 0.091442 0.064069 13.584523 1.625038 2013.320663       1.100579    0.088133     0.247841          -6.558127 1.965395 1.018199           0.098985       0.15692 209923991134250   7675465855 1.344666 12.088316 16830.378838      10.166592 0.647262 1.553113 17.913678 137.389195 63.438758 2013.320663   76754658550000 0.209413               1.709603 0.965395         0 28898303373941 20427620113785 0.911853 0.965395 218.741631 2.656686
+
+  >> Tin tức
+                                                                                                                                         head  article_id                                                                       title            publish_time                                                                                                  url
+Tập đoàn Hòa Phát (HOSE: HPG) vừa đưa nhà máy ống thép ở Tây Ninh vào hoạt động ngay khi Việt Nam đang đẩy mạnh các dự án hạ tầng trọng điểm.     1411336 Hòa Phát đưa nhà máy sản xuất ống thép công suất 400 ngàn tấn vào hoạt động 2026-03-12T11:23:06.277 /2026/03/hoa-phat-dua-nha-may-san-xuat-ong-thep-cong-suat-400-ngan-tan-vao-hoat-dong-737-1411336.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close   volume
+   HPG 2025-03-14 23.08 23.21 22.96  22.96 18298151
+   HPG 2025-03-17 23.25 23.46 23.12  23.21 19738337
+   HPG 2025-03-18 23.25 23.37 23.00  23.00 18761045
+   HPG 2025-03-19 23.00 23.00 22.58  22.71 37953539
+   HPG 2025-03-20 22.75 22.87 22.54  22.62 25038597
+   HPG 2025-03-21 22.58 22.71 22.54  22.62 18921643
+   HPG 2025-03-24 22.62 22.71 22.42  22.62 16247689
+   HPG 2025-03-25 22.71 22.83 22.58  22.67 20115102
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   HPG 2026-04-03 09:42:37+07:00  27.25     300       Sell 458803662
+   HPG 2026-04-03 09:42:44+07:00  27.25     200       Sell 458803832
+   HPG 2026-04-03 09:42:44+07:00  27.25     300       Sell 458803833
+   HPG 2026-04-03 09:42:48+07:00  27.25     800       Sell 458803962
+   HPG 2026-04-03 09:42:49+07:00  27.25   17300       Sell 458804017
+   HPG 2026-04-03 09:42:53+07:00  27.25     500       Sell 458804114
+   HPG 2026-04-03 09:43:02+07:00  27.25    4100       Sell 458804331
+   HPG 2026-04-03 09:43:03+07:00  27.25     600       Sell 458804401
+
+  >> Tổng quan
+                                                                                                                                                                                                                                                                                                                                                    business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume              ceo_name  ceo_position        inspector_name inspector_position establishment_license business_code     tax_id auditor    company_type                                          address             phone               fax                          email                     website                                                                                                                                 branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Sản xuất thép xây dựng, thép cuộn cán nóng.\n- Buôn bán và xuất nhập khẩu sắt thép, vật tư thiết bị luyện, cán thép.\n- Sản xuất cán kéo thép, sản xuất tôn lợp, tôn mạ kẽm, tôn mạ lạnh, tôn mạ màu.\n- Sản xuất ống thép không mạ và có mạ.\n- Sản xuất và mua bán kim loại màu các loại, phế liệu kim loại màu.\n- Luyện gang, thép; Đúc gang, sắt, thép...    HPG                         76755                32780   15/11/2007      10000     HOSE         127000           7675 Mr. Nguyễn Việt Thắng Tổng Giám đốc Mr. Nguyễn Việt Thắng      Tổng Giám đốc                  None    0900189284 0900189284    KPMG Công ty cổ phần KCN Phố Nối A - X. Nguyễn Văn Linh - T. Hưng Yên (84.24) 6284 8666 (84.24) 6283 3456 hoaphatgroup@hoaphat.com.vn    https://www.hoaphat.com.vn/ Tại Lào: Phòng 7 - Tầng 4 Vientiane Commercial Bank Building - Phố Lanxang - Vientiane.\r\nTel: 00856. 207612525\r\nFax: 00856. 21240313 \n- Năm 1992: Thành lập Công ty TNHH Thiết bị Phụ tùng Hòa Phát; Công ty đầu tiên mang thương hiệu Hòa Phát.\n- Năm 1995: Thành lập Công ty CP Nội thất Hòa Phát. .\n- Năm 1996: Thành lập Công ty TNHH Ống thép Hòa Phát.\n- Năm 2000: Thành lập Công ty CP Thép Hòa Phát, nay là Công ty TNHH Một thành viên Thép Hòa Phát.\n- Tháng 7/2001: Thành lập Công ty TNHH Điện lạnh Hòa Phát.\n- Tháng 9/2001: Thành lập Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát.\n- Năm 2004: Thành lập Công ty TNHH Thương mại Hòa Phát.\n- Tháng 1/2007: Tái cấu trúc theo mô hình Tập đoàn, với Công ty mẹ là Công ty CP Tập đoàn Hòa Phát và các Công ty thành viên.\n- Tháng 6/2007: Thành lập Công ty CP Khoáng sản Hòa Phát.\n- Tháng 8/2007: Thành lập Công ty CP Thép Hòa Phát, triển khai Khu liên hợp sản xuất gang thép tại Kinh Môn, Hải Dương.\n- 15/11/2007: Niêm yết cổ phiếu mã HPG trên thị trường chứng khoán Việt Nam.\n- Tháng 6/2009: Mua lại Công ty CP Đầu tư khoáng sản An Thông.\n- Tháng 6/2009: Mua lại Công ty CP Năng lượng Hòa Phát.\n- Tháng 12/2009: KLH Gang thép Hòa Phát hoàn thành đầu tư giai đoạn 1.\n- Tháng 7/2010: Công ty CP Golden Gain Việt Nam trở thành Công ty thành viên.\n- Tháng 1/2011: Cấu trúc mô hình hoạt động Công ty mẹ với việc tách mảng sản xuất và kinh doanh thép.\n- Tháng 1/2012: Triển khai giai đoạn 2 Khu liên hợp sản xuất gang thép tại Kinh Môn, Hải Dương.\n- Tháng 8/2012: Tập đoàn Hòa Phát tròn 20 năm hình thành và phát triển.\n- Ngày 25/02/2015: Tăng vốn điều lệ lên 4,886 tỷ đồng.\n- Ngày 26/04/2017: Tăng vốn điều lệ lên 12,642,554,170,000 đồng.\n- Ngày 10/07/2018: Tăng vốn điều lệ lên 21,239,071,660,000 đồng.\n- Ngày 04/07/2019: Tăng vốn điều lệ lên 27,610,741,150,000 đồng.\n- Ngày 01/09/2020: Tăng vốn điều lệ lên 33,132,826,590,000 đồng.\n- Ngày 30/06/2021: Tăng vốn điều lệ lên 44,729,227,060,000 đồng.\n- Ngày 17/06/2022: Tăng vốn điều lệ lên 58,147,857,000,000 đồng.\n- Ngày 18/12/2024: Tăng vốn điều lệ lên 63,962,502,000,000 đồng.\n- Ngày 11/08/2025: Tăng vốn điều lệ lên 76,754,658,550,000 đồng.         76754658550000       10000          7675465855 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+          name         update_date  shares_owned  ownership_percentage
+Trần Đình Long 2025-06-30T00:00:00    1980000000                 25.80
+   Vũ Thị Hiền 2025-06-30T00:00:00     528000000                  8.25
+
+  >> Ban lãnh đạo
+ from_date   position                  name                       position_en owner_code
+      1992     CTHĐQT    Ông Trần Đình Long          CTHĐQT (Chairman of BOD)     CTHĐQT
+      1992 Phó CTHĐQT   Ông Trần Tuấn Dương Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      1999 Phó CTHĐQT    Ông Doãn Gia Cường Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      1996 Phó CTHĐQT  Ông Nguyễn Mạnh Tuấn Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      1992     TVHĐQT Ông Nguyễn Ngọc Quang            TVHĐQT (Member of BOD)     TVHĐQT
+      2001     TVHĐQT  Ông Hoàng Quang Việt            TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập     TVHĐQT      Ông Chu Quang Vũ            TVHĐQT (Member of BOD)     TVHĐQT
+      2003 TGĐ/TVHĐQT Ông Nguyễn Việt Thắng                         TGĐ (CEO)        TGĐ
+
+  >> Công ty con
+        update_date                                  name  charter_capital  ownership_percent currency        type
+2024-12-31T00:00:00               CTCP Gang thép Hòa Phát   61610000000000              99.99      VND công ty con
+2024-12-31T00:00:00           CTCP Sản phẩm thép Hòa Phát    8380000000000              99.99      VND công ty con
+2024-12-31T00:00:00  CTCP Phát triển Nông nghiệp Hòa Phát    2800000000000              99.99      VND công ty con
+2024-12-31T00:00:00 CTCP Phát triển Bất động sản Hòa Phát    6800000000000              99.97      VND công ty con
+2024-12-31T00:00:00       CTCP Điện máy gia dụng Hòa Phát    1000000000000              99.90      VND công ty con
+
+  >> Công ty liên kết
+  (Không có dữ liệu)
+
+  >> Kết quả kinh doanh
+                                              item                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+        1. Doanh thu bán hàng và cung cấp dịch vụ                 n_1.revenue 4.730162e+10 3.679387e+10 3.628619e+10 3.795064e+10
+                   2. Các khoản giảm trừ doanh thu n_2.deduction_from_revenue 1.125139e+09 3.864570e+08 3.756667e+08 3.289609e+08
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ            n_3.net_revenue 4.617648e+10 3.640742e+10 3.591052e+10 3.762167e+10
+                              4. Giá vốn hàng bán      n_4.cost_of_goods_sold 3.977983e+10 3.032016e+10 2.932080e+10 3.219752e+10
+  5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ           n_5.gross_profit 6.396650e+09 6.087261e+09 6.589722e+09 5.424154e+09
+                  6.Doanh thu hoạt động tài chính        n_6.financial_income 4.373360e+08 7.119034e+08 4.981837e+08 4.380572e+08
+                             7. Chi phí tài chính      n_7.financial_expenses 1.584024e+09 1.073211e+09 9.794621e+08 9.705696e+08
+                         Trong đó :Chi phí lãi vay of_which_interest_expenses 1.236525e+09 8.121941e+08 4.391126e+08 6.270244e+08
+
+  >> Bảng cân đối kế toán
+                                           item                                                                item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                       TÀI SẢN                                                                  assets          NaN          NaN          NaN          NaN
+                            A. TÀI SẢN NGẮN HẠN                                                    a.short_term_assets 1.036820e+11 9.542599e+10 9.760608e+10 8.891420e+10
+          I. Tiền và các khoản tương đương tiền                                            i.cash_and_cash_equivalents 8.300890e+09 9.092563e+09 1.068802e+10 7.459036e+09
+                                        1. Tiền                                                               n_1.cash 4.602048e+09 2.690507e+09 3.313840e+09 3.098951e+09
+                  2. Các khoản tương đương tiền                                                   n_2.cash_equivalents 3.698843e+09 6.402056e+09 7.374184e+09 4.360085e+09
+                 II.  Đầu tư tài chính ngắn hạn                                    ii.short_term_financial_investments 1.948441e+10 1.890395e+10 1.758403e+10 1.621251e+10
+                      1. Chứng khoán kinh doanh                                      n_1.available_for_sale_securities          NaN          NaN          NaN          NaN
+2. Dự phòng giảm giá chứng khoán kinh doanh (*) n_2.provision_for_diminution_in_value_of_available_for_sale_securities          NaN          NaN          NaN          NaN
+
+  >> Lưu chuyển tiền tệ
+                                                                                    item                                                                                         item_id 2025-Q4 2025-Q3 2025-Q2      2025-Q1
+                                              I. Lưu chuyển tiền từ hoạt động kinh doanh                                                          i_cash_flows_from_operating_activities    None    None    None          NaN
+                                                                 1. Lợi nhuận trước thuế                                                                           n_1.profit_before_tax    None    None    None 3839765349.0
+                                                             2. Điều chỉnh cho các khoản                                                                             n_2_adjustments_for    None    None    None          NaN
+                                                                  Khấu hao TSCĐ và BĐSĐT                                          depreciation_of_fixed_assets_and_properties_investment    None    None    None 1801603135.0
+                                                                      Các khoản dự phòng                                                               reversal_of_provisions_provisions    None    None    None   11289113.0
+Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies    None    None    None  132616470.0
+                                                             Lãi, lỗ từ hoạt động đầu tư                                                          loss_profit_from_investment_activities    None    None    None -244726802.0
+                                                                         Chi phí lãi vay                                                                                interest_expense    None    None    None  627024361.0
+
+  >> Chỉ số tài chính
+                                                               item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+                 Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  2203.18  2157.16  2099.79  1983.64
+                                Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 17096.00 16613.00 19130.00 18448.00
+                          Chỉ số giá thị trường trên thu nhập (P/E)                       p_e    11.98    13.05    10.81    13.49
+                   Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     1.54     1.69     1.19     1.45
+                   Chỉ số giá thị trường trên doanh thu thuần (P/S)                       p_s     4.39     5.93     4.04     4.55
+                                                     Tỷ suất cổ tức            dividend_yield     0.00     0.00     0.00     0.00
+                                                               Beta                      beta     1.07     1.14     1.11     1.21
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)                   ev_ebit    49.44    56.22    41.75    56.64
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: MBB
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange              ev  ceiling  floor  ref_price  open  match_price  close_price  price_change  price_change_pct  high   low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   MBB     HOSE 211846497370000    28350  24650      26500 26500        26300        26300          -200         -0.007547 26550 25900      23789670          29500         14599           0.696786           -0.093103         7867493    1871587283             16328187            1870174055               0.232176           0.232351
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date        revenue  revenue_growth     net_profit  net_profit_growth  ebit_margin      roe  roic      roa       pe       pb         eps  current_ratio  cash_ratio  quick_ratio interest_coverage        ae      fae  net_profit_margin  gross_margin              ev  issue_share       ps      pcf         bvps  ev_per_ebitda  at  fat  acp  dso  dpo     eps_ttm  charter_capital  rtq4  charter_capital_ratio  rtq10  dividend  ebitda  ebit  le  de  ccc  rtq17
+   MBB         2025              5 1773244767157 89088116000000        0.289975 26778939000000           0.183142            0 0.211385     0 0.019954 7.910937 1.556138 3324.511401              0           0            0              None 11.376815 0.039547            0.51887             0 211846497370000   8054999909 3.129518 1.542301 16900.810886              0   0    0 None    0    0 3324.511401   80549999090000     0                1.76316      0         0       0     0   0   0 None      0
+
+  >> Tin tức
+head  article_id                                                                    title        publish_time                                                                                              url
+         1418056 MBB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Bắc Nghệ An 2026-03-27T18:52:16 /2026/03/mbb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-bac-nghe-an-737-1418056.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close   volume
+   MBB 2025-03-14 18.20 18.35 18.13  18.24 19743519
+   MBB 2025-03-17 18.31 18.35 18.09  18.24 25621471
+   MBB 2025-03-18 18.31 18.31 17.94  17.94 26639648
+   MBB 2025-03-19 17.94 18.01 17.79  17.90 20405442
+   MBB 2025-03-20 18.01 18.28 17.94  18.20 21162940
+   MBB 2025-03-21 18.24 18.39 18.16  18.24 15582503
+   MBB 2025-03-24 18.24 18.31 17.98  18.31 15587493
+   MBB 2025-03-25 18.39 18.43 18.13  18.16 12754653
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   MBB 2026-04-03 09:43:03+07:00   26.2     100       Sell 458804391
+   MBB 2026-04-03 09:43:03+07:00   26.2    2300       Sell 458804395
+   MBB 2026-04-03 09:43:03+07:00   26.2     300       Sell 458804392
+   MBB 2026-04-03 09:43:03+07:00   26.2     500       Sell 458804393
+   MBB 2026-04-03 09:43:03+07:00   26.2     100       Sell 458804394
+   MBB 2026-04-03 09:43:05+07:00   26.2     300       Sell 458804506
+   MBB 2026-04-03 09:43:06+07:00   26.2    9000       Sell 458804527
+   MBB 2026-04-03 09:43:15+07:00   26.2     100       Sell 458804827
+
+  >> Tổng quan
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume           ceo_name  ceo_position        inspector_name inspector_position establishment_license business_code     tax_id auditor company_type                                      address             phone               fax              email                    website branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Cho khách hàng cá nhân: Tiền gửi, ngân hàng số, dịch vụ thẻ, chuyển tiền & thanh toán, bảo hiểm nhân thọ và các dịch vụ khác.\n- Cho khách hàng doanh nghiệp: Tiền gửi & đầu tư, ngân hàng số, các dịch vụ thu hộ/trả lương/nộp thuế điện tử, tín dụng & bảo lãnh, thanh toán quốc tế & tài trợ thương mại, và tài khoản & gói tài khoản.\n- Các sản phẩm chuyên biệt cho doanh nghiệp lớn và định chế: Gồm thị trường tiền tệ & vốn, sản phẩm ngoại hối & ngân hàng đầu tư, sản phẩm & chính sách cho khách hàng FDI, cùng với thư tín dụng, bảo lãnh, nhờ thu, cấp tín dụng và hợp vốn.    MBB   14/09/1994            80550                18639   01/11/2011      10000     HOSE          13800           8055 Mr. Lưu Trung Thái Chủ tịch HĐQT Ms. Vũ Thị Hải Phượng  Phó Chủ tịch HĐQT            0054/NH-GP    0100283873 0100283873    KPMG    Ngân hàng Số 18 Lê Văn Lương - P. Yên Hòa - Tp. Hà Nội (84.24) 6266 1088 (84.24) 6266 1080 info@mbbank.com.vn https://www.mbbank.com.vn/          \n- Ngày 04/11/1994: Ngân hàng Thương mại Cổ phần Quân đội được thành lập với vốn điều lệ ban đầu là 20 tỷ đồng.\n- Năm 2008: Tăng vốn điều lệ lên 3,400 tỷ đồng.\n- Năm 2009: Tăng vốn điều lệ lên 5,300 tỷ đồng.\n- Năm 2010: Tăng vốn điều lệ lên 7,300 tỷ đồng.\n- Ngày 01/11/2011: Ngày giao dịch đầu tiên trên Sàn HOSE với giá tham chiếu là 13,800 đồng/CP.\n- Năm 2012: Tăng vốn điều lệ lên 10,000 tỷ đồng.\n- Tháng 12/2013: Tăng vốn điều lệ lên 11,256.25 tỷ đồng.\n- Tháng 12/2014: Tăng vốn điều lệ lên 11,593.93 tỷ đồng.\n- Tháng 09/2015: Tăng vốn điều lệ lên 16,000 tỷ đồng.\n- Tháng 04/2016: Tăng vốn điều lệ lên 16,311.81 tỷ đồng.\n- Tháng 11/2016: Tăng vốn điều lệ lên 17,127.4 tỷ đồng.\n- Ngày 31/08/2017: Tăng vốn điều lệ lên 18,155.05 tỷ đồng.\n- Ngày 31/07/2018: Tăng vốn điều lệ lên 21,604.51 tỷ đồng.\n- Ngày 05/12/2019: Tăng vốn điều lệ lên 23,727.32 tỷ đồng.\n- Ngày 01/04/2020: Tăng vốn điều lệ lên 24,370.42 tỷ đồng.\n- Ngày 18/11/2020: Tăng vốn điều lệ lên 27,987.56 tỷ đồng.\n- Ngày 10/08/2021: Tăng vốn điều lệ lên 37,783.21 tỷ đồng.\n- Ngày 08/11/2022: Tăng vốn điều lệ lên 45,339.86 tỷ đồng.\n- Ngày 25/08/2023: Tăng vốn điều lệ lên 52,140.84 tỷ đồng.\n- Ngày 25/11/2024: Tăng vốn điều lệ lên 53,063.24 tỷ đồng.\n- Tháng 02/2025: Tăng vốn điều lệ lên 61,022.72 tỷ đồng.\n- Tháng 09/2025: Tăng vốn điều lệ lên 80,549.99 tỷ đồng.         80549999090000       10000          8054999909 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+                                                             name         update_date  shares_owned  ownership_percentage
+             Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) 2025-06-30T00:00:00     897158687                 14.70
+                   Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước 2025-06-30T00:00:00     599639123                  9.83
+                  Tổng Công ty Trực thăng Việt Nam - Công ty TNHH 2025-06-30T00:00:00     491233597                  8.05
+                 Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn 2025-06-30T00:00:00     432369242                  7.09
+ Công ty TNHH Một thành viên thương mại và xuất nhập khẩu Viettel 2025-06-30T00:00:00     262430109                  4.30
+                             Ngân hàng TMCP Ngoại thương Việt Nam 2024-10-24T00:00:00     227000041                  4.28
+                                             UBS AG London Branch 2025-02-28T00:00:00     129982350                  2.13
+              Công ty TNHH Bảo hiểm Nhân thọ Prudiential Việt Nam 2024-12-31T00:00:00      54847306                  1.03
+
+  >> Ban lãnh đạo
+ from_date   position                  name                       position_en owner_code
+      1997     CTHĐQT    Ông Lưu Trung Thái          CTHĐQT (Chairman of BOD)     CTHĐQT
+      2024 Phó CTHĐQT  Bà Nguyễn Thị Hải Lý Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      2015 Phó CTHĐQT    Ông Vũ Thành Trung Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      1994 Phó CTHĐQT  Bà Vũ Thị Hải Phượng Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      2024     TVHĐQT Bà Hoàng Thị Thu Hiền            TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập     TVHĐQT     Ông Hoàng Văn Sâm            TVHĐQT (Member of BOD)     TVHĐQT
+      1996     TVHĐQT       Ông Lê Viết Hải            TVHĐQT (Member of BOD)     TVHĐQT
+      2024     TVHĐQT   Ông Phạm Doãn Cương            TVHĐQT (Member of BOD)     TVHĐQT
+
+  >> Công ty con
+        update_date                                                                  name  charter_capital  ownership_percent currency             type
+2024-12-31T00:00:00 Công ty TNHH Quản lý nợ & Khai thác tài sản NH TMCP Quân đội (MB AMC)     665900000000             100.00      VND      công ty con
+2024-12-31T00:00:00                    Ngân hàng Đại chúng TNHH MB Campuchia (MBCambodia)         76552197             100.00      USD      công ty con
+2024-12-31T00:00:00                                  Ngân hàng TNHH MTV Việt Nam Hiện đại               -1             100.00               công ty con
+2024-12-31T00:00:00                                            CTCP Quản lý Quỹ đầu tư MB     356170000000              90.77      VND      công ty con
+2024-12-31T00:00:00                                                   CTCP Chứng khoán MB    5728130000000              76.35      VND      công ty con
+2024-12-31T00:00:00                                Tổng Công ty cổ phần Bảo hiểm Quân Đội    1726700000000              68.37      VND      công ty con
+2024-12-31T00:00:00                               Công ty TNHH Bảo hiểm nhân thọ MB Ageas    1500000000000              61.00      VND      công ty con
+2024-12-31T00:00:00   Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei    1600000000000              50.00      VND công ty liên kết
+
+  >> Công ty liên kết
+        update_date                                                                name  charter_capital  ownership_percent currency             type
+2024-12-31T00:00:00 Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei    1600000000000               50.0      VND công ty liên kết
+
+  >> Kết quả kinh doanh
+                                                       item                                                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+             1. Thu nhập lãi và các khoản thu nhập tương tự                     n_1.interest_income_and_similar_income 2.613278e+10 2.226590e+10 2.109913e+10 1.959031e+10
+                     2. Chi phí lãi và các chi phí tương tự                  n_2.interest_expense_and_similar_expenses 1.157749e+10 9.275373e+09 8.727009e+09 7.898128e+09
+                                      I. Thu nhập lãi thuần                                      i.net_interest_income 1.455529e+10 1.299052e+10 1.237212e+10 1.169218e+10
+                           3. Thu nhập từ hoạt động dịch vụ                              n_3.fee_and_commission_income 5.602200e+09 4.234200e+09 4.613875e+09 3.611961e+09
+                               4. Chi phí hoạt động dịch vụ                            n_4.fee_and_commission_expenses 3.501033e+09 2.907645e+09 2.698332e+09 2.376545e+09
+                      II. Lãi/lỗ thuần từ hoạt động dịch vụ                           ii.net_fee_and_commission_income 2.101167e+09 1.326555e+09 1.915543e+09 1.235416e+09
+III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối và vàng iii.net_gain_loss_from_foreign_currencies_and_gold_trading 2.603930e+08 4.246080e+08 5.341210e+08 5.378000e+08
+         IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh                   iv.net_gain_loss_from_trading_securities 8.026200e+07 1.724220e+08 2.469820e+08 1.687180e+08
+
+  >> Bảng cân đối kế toán
+                                                          item                                                  item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                                    A. TÀI SẢN                                                   assets          NaN          NaN          NaN          NaN
+                                 I. Tiền mặt, vàng bạc, đá quý                   i.cash_gold_and_silver_precious_stones 4.965786e+09 4.421466e+09 5.262525e+09 4.223983e+09
+                                         II. Tiền gửi tại NHNN               ii.balances_with_the_state_bank_of_vietnam 6.849443e+10 1.750751e+10 1.525154e+10 1.552198e+10
+III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác iii.placements_at_and_loans_to_other_credit_institutions 1.829237e+11 1.083248e+11 9.608134e+10 6.433855e+10
+                           1. Tiền, vàng gửi tại các TCTD khác              n_1.placements_at_other_credit_institutions 1.829237e+11 1.083248e+11 9.608134e+10 6.433855e+10
+                                      2. Cho vay các TCTD khác                   n_2.loans_to_other_credit_institutions          NaN          NaN          NaN          NaN
+                     3. Dự phòng rủi ro cho vay các TCTD khác                       n_3.provisions_for_losses_and_risks          NaN          NaN          NaN          NaN
+                                    IV. Chứng khoán kinh doanh                                    iv.trading_securities 4.653229e+09 3.172173e+09 4.585676e+09 1.248124e+10
+
+  >> Lưu chuyển tiền tệ
+                                                                                             item                                                                               item_id 2025-Q4 2025-Q3 2025-Q2       2025-Q1
+                                                          Lưu chuyển tiền từ hoạt động kinh doanh                                                i.cash_flows_from_operating_activities    None    None    None           NaN
+                                         1. Thu nhập lãi và các khoản thu nhập tương tự nhận được                                         n_1.receipts_from_interest_and_similar_income    None    None    None  1.818669e+10
+                                                   2. Chi phí lãi và các chi phí tương tự đã trả                                         n_2.payments_for_interest_and_similar_expenses    None    None    None -6.535062e+09
+                                                       3. Thu nhập từ hoạt động dịch vụ nhận được                                           n_3.receipts_from_fee_and_commission_income    None    None    None  1.235416e+09
+4- Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán) n_4.net_cash_inflow_from_trading_activities_in_foreign_currencies_gold_and_securities    None    None    None  1.274291e+09
+                                                                                 5. Thu nhập khác                                                        n_5.receipts_from_other_income    None    None    None  1.756470e+08
+                             6. Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro     n_6.receipts_from_collection_of_debts_written_off_debts_accounted_for_by_reserves    None    None    None  1.003397e+09
+                                     7. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ                                    n_7.payments_for_staff_costs_and_operating_expenses    None    None    None -4.694751e+09
+
+  >> Chỉ số tài chính
+                                                  item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+    Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  3980.45  4050.73  4331.22  4516.14
+                   Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 17631.60 16522.75 20943.62 20267.29
+             Chỉ số giá thị trường trên thu nhập (P/E)                       p_e     6.36     6.47     5.96     5.34
+      Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     1.43     1.59     1.23     1.19
+                                        Tỷ suất cổ tức            dividend_yield     0.01     0.01     0.00     0.02
+                                                  Beta                      beta     1.17     1.20     1.01     1.11
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)                       roe     6.37     4.27     4.67     5.46
+   Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)                       roa     0.60     0.43     0.48     0.57
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: VHM
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange              ev  ceiling  floor  ref_price   open  match_price  close_price  price_change  price_change_pct   high    low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   VHM     HOSE 484263875271600   117900 102500     110200 117900       117900       117900          7700          0.069873 117900 116100      17568074         150900         45600           1.508511           -0.211371        10111515    2053706002              4760366             342390668               0.083359                0.5
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date         revenue  revenue_growth     net_profit  net_profit_growth  ebit_margin      roe     roic      roa        pe       pb          eps  current_ratio  cash_ratio  quick_ratio  interest_coverage       ae      fae  net_profit_margin  gross_margin              ev  issue_share       ps       pcf         bvps  ev_per_ebitda       at      fat       acp        dso       dpo      eps_ttm  charter_capital     rtq4  charter_capital_ratio    rtq10  dividend         ebitda           ebit       le       de        ccc    rtq17
+   VHM         2025              5 1774373334580 153270923000000         0.49791 41895255000000           0.317409      0.24959 0.190124 0.096716 0.061972 11.558919 2.034046 10199.915421       1.448278    0.145623     0.786708          -3.411418 3.161334 0.089707           0.273341      0.302357 484263874800000   4107412004 3.159529 11.757076 57963.278824      14.317652 0.226721 8.289708 50.957207 317.923108 68.135909 10199.915421   41074120040000 0.413078               6.067487 2.161334         0 40553070000000 38254929000000 1.000208 2.161334 437.016224 1.148076
+
+  >> Tin tức
+                                                                                                                                                                                                                                                                                                                                                                                                                                head  article_id                                                       title          publish_time                                                                                url
+Ngày 20/03/2026, Vinhomes công bố chính sách siêu ưu đãi “5 năm không lo lãi suất”, đảm bảo khách hàng được vay với lãi suất 3.3%/năm cho năm đầu, tối đa 7.8%/năm trong 3 năm đầu và trả trần lãi suất tối đa chỉ 9%/năm cho 2 năm tiếp theo. Đây là giải pháp hỗ trợ tài chính chưa từng có trên thị trường, khẳng định nhất quán tư duy đồng hành dài hạn cùng khách hàng, cũng như tầm vóc và tiềm lực vượt trội của chủ đầu tư.     1414478 Vinhomes tung chính sách đặc biệt “5 năm không lo lãi suất” 2026-03-20T17:38:08.4 /2026/03/vinhomes-tung-chinh-sach-dac-biet-5-nam-khong-lo-lai-suat-737-1414478.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close   volume
+   VHM 2025-03-14 47.70 48.90 47.70  47.90 16861700
+   VHM 2025-03-17 47.95 48.00 46.80  47.80 11017800
+   VHM 2025-03-18 47.60 48.75 46.80  47.30 12239500
+   VHM 2025-03-19 46.80 47.90 46.25  47.35 13442500
+   VHM 2025-03-20 47.35 48.20 46.95  47.35 13458400
+   VHM 2025-03-21 47.10 48.40 47.10  48.25 13695700
+   VHM 2025-03-24 48.45 51.40 48.35  51.30 15552100
+   VHM 2025-03-25 51.90 52.50 51.10  51.50 12918800
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   VHM 2026-04-03 09:43:48+07:00  123.2     100        Buy 458806052
+   VHM 2026-04-03 09:43:48+07:00  123.2    1000        Buy 458806053
+   VHM 2026-04-03 09:44:02+07:00  123.2     100       Sell 458806411
+   VHM 2026-04-03 09:44:07+07:00  123.4    1000        Buy 458806554
+   VHM 2026-04-03 09:44:08+07:00  123.4    1000        Buy 458806573
+   VHM 2026-04-03 09:44:10+07:00  123.2     400       Sell 458806601
+   VHM 2026-04-03 09:44:10+07:00  123.4     500        Buy 458806611
+   VHM 2026-04-03 09:44:20+07:00  123.5   10000        Buy 458807066
+
+  >> Tổng quan
+                                                                                                                   business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume           ceo_name  ceo_position     inspector_name inspector_position establishment_license business_code     tax_id auditor    company_type                                                                                                    address             phone               fax            email              website branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Phát triển và kinh doanh bất động sản, cho thuê văn phòng.\n- Cung cấp dịch vụ quản lý bất động sản và các dịch vụ liên quan.    VHM                         41074                11815   17/05/2018      10000     HOSE          92100           4107 Mr. Phạm Thiếu Hoa Chủ tịch HĐQT Mr. Phạm Thiếu Hoa      Chủ tịch HĐQT                  None    0102671977 0102671977    None Công ty cổ phần Tòa nhà văn phòng Symphony - Đường Chu Huy Mân -  Khu đô thị Vinhomes Riverside - P. Phúc Lợi - Tp. Hà Nội (84.24) 3974 9350 (84.24) 3974 9351 info@vinhomes.vn https://vinhomes.vn/          \n- Năm 2002: Thành lập Công ty Cổ phần Vincom, tiền thân của Tập đoàn Vingroup – Công ty CP, công ty mẹ của Vinhomes.\n- Năm 2008: Tiền thân Công ty Cổ phần Đô thị BIDV-PP được thành lập với vốn điều lệ ban đầu là 300 tỷ đồng.\n- Tháng 03/2009: Đổi tên thành Công ty Cổ phần Phát triển Đô thị Nam Hà Nội.\n- Ngày 26/06/2009: Tăng vốn điều lệ lên 500 tỷ đồng.\n- Ngày 05/08/2010: Tăng vốn điều lệ lên 2,000 tỷ đồng.\n- Ngày 28/10/2011: Trở thành công ty đại chúng theo Công văn số 3585/UBCK-QLPH của Ủy ban chứng khoán Nhà nước.\n- Ngày 03/11/2011: Công ty nhận được Quyết định về việc chấp thuận đăng ký giao dịch cổ phiếu tại Sở Giao dịch Chứng khoán Hà Nội (UPCoM) với mã chứng khoán là NHN.\n- Ngày 14/07/2017: Hủy đăng ký giao dịch trên thị trường UPCoM.\n- Ngày 01/02/2018: Tăng vốn điều lệ lên 28,365 tỷ đồng.\n- Ngày 02/02/2018: Đổi tên thành Công ty Cổ phần Vinhomes.\n- Ngày 12/02/2018: Giảm vốn điều lệ xuống 26,796 tỷ đồng.\n- Ngày 07/05/2018: Niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).\n- Ngày 17/05/2018: Là ngày giao dịch đầu tiên trên sàn HOSE với giá tham chiếu là 110,500 đ/CP.\n- Ngày 08/11/2018: Tăng vốn điều lệ lên 33,495 tỷ đồng.\n- Tháng 10/2021: Tăng vốn điều lệ lên 43,543 tỷ đồng.\n- Tháng 12/2024: Giảm vốn điều lệ xuống 41,071 tỷ đồng.         41074120040000       10000          4107412004 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+                    name         update_date  shares_owned  ownership_percentage
+Tập đoàn Vingroup - CTCP 2024-04-02T00:00:00    3019227680                  69.3
+
+  >> Ban lãnh đạo
+ from_date   position                name              position_en owner_code
+      2011     CTHĐQT  Ông Phạm Thiếu Hoa CTHĐQT (Chairman of BOD)     CTHĐQT
+       N/A TGĐ/TVHĐQT  Bà Nguyễn Thu Hằng                TGĐ (CEO)        TGĐ
+      2018     TVHĐQT    Bà Cao Thị Hà An   TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập     TVHĐQT   Ông Hoang D. Quan   TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập     TVHĐQT     Ông Mueen Udden   TVHĐQT (Member of BOD)     TVHĐQT
+      2018     TVHĐQT Bà Nguyễn Diệu Linh   TVHĐQT (Member of BOD)     TVHĐQT
+      2018     TVHĐQT Ông Phạm Nhật Vượng   TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập     TVHĐQT     Ông Varun Kapur   TVHĐQT (Member of BOD)     TVHĐQT
+
+  >> Công ty con
+        update_date                                                     name  charter_capital  ownership_percent currency        type
+2024-12-31T00:00:00           CTCP Đầu tư Khu công nghiệp Vinhomes Hải Phòng   15160000000000              100.0      VND công ty con
+2024-12-31T00:00:00                            CTCP Đầu tư Xây dựng Thái Sơn   13500000000000              100.0      VND công ty con
+2024-12-31T00:00:00                           CTCP Phát triển Thành Phố Xanh    6690000000000              100.0      VND công ty con
+2024-12-31T00:00:00                        CTCP Bất động sản SV Tây Hà Nội 2    4100000000000              100.0      VND công ty con
+2024-12-31T00:00:00         Công ty TNHH Phát triển Bất động sản Vịnh Xanh 1    3881626463629              100.0      VND công ty con
+2024-12-31T00:00:00                                     CTCP Đầu tư Cam Ranh    3750000000000              100.0      VND công ty con
+2024-12-31T00:00:00                              CTCP Đầu tư Xây dựng Đại An    3500000000000              100.0      VND công ty con
+2024-12-31T00:00:00 Công ty TNHH Đầu tư Phát triển Bất động sản LightHouse 2    3053680000000              100.0      VND công ty con
+
+  >> Công ty liên kết
+  (Không có dữ liệu)
+
+  >> Kết quả kinh doanh
+                                              item                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+        1. Doanh thu bán hàng và cung cấp dịch vụ                 n_1.revenue 1.030095e+11 1.641997e+10 1.902222e+10 1.569792e+10
+                   2. Các khoản giảm trừ doanh thu n_2.deduction_from_revenue          NaN          NaN          NaN          NaN
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ            n_3.net_revenue 1.030095e+11 1.641997e+10 1.902222e+10 1.569792e+10
+                              4. Giá vốn hàng bán      n_4.cost_of_goods_sold 6.938704e+10 1.395431e+10 1.449838e+10 1.053999e+10
+  5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ           n_5.gross_profit 3.362249e+10 2.465661e+09 4.523840e+09 5.157929e+09
+                  6.Doanh thu hoạt động tài chính        n_6.financial_income 7.587191e+09 7.899526e+09 9.151125e+09 4.640393e+09
+                             7. Chi phí tài chính      n_7.financial_expenses 5.837944e+09 3.447484e+09 3.385789e+09 3.859512e+09
+                         Trong đó :Chi phí lãi vay of_which_interest_expenses 2.788122e+09 2.699135e+09 2.808098e+09 3.641519e+09
+
+  >> Bảng cân đối kế toán
+                                           item                                                                item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                       TÀI SẢN                                                                  assets          NaN          NaN          NaN          NaN
+                            A. TÀI SẢN NGẮN HẠN                                                    a.short_term_assets 5.008347e+11 4.364366e+11 3.798349e+11 2.598601e+11
+          I. Tiền và các khoản tương đương tiền                                            i.cash_and_cash_equivalents 4.994851e+10 4.876761e+10 4.867212e+10 2.149271e+10
+                                        1. Tiền                                                               n_1.cash 1.872852e+10 3.370913e+10 3.337299e+10 2.076050e+10
+                  2. Các khoản tương đương tiền                                                   n_2.cash_equivalents 3.121999e+10 1.505848e+10 1.529914e+10 7.322100e+08
+                 II.  Đầu tư tài chính ngắn hạn                                    ii.short_term_financial_investments 2.259178e+09 2.116747e+09 3.437044e+09 3.346766e+09
+                      1. Chứng khoán kinh doanh                                      n_1.available_for_sale_securities          NaN          NaN 1.500000e+09 1.500000e+09
+2. Dự phòng giảm giá chứng khoán kinh doanh (*) n_2.provision_for_diminution_in_value_of_available_for_sale_securities          NaN          NaN          NaN          NaN
+
+  >> Lưu chuyển tiền tệ
+                                                                                    item                                                                                         item_id 2025-Q4 2025-Q3 2025-Q2       2025-Q1
+                                              I. Lưu chuyển tiền từ hoạt động kinh doanh                                                          i_cash_flows_from_operating_activities    None    None    None           NaN
+                                                                 1. Lợi nhuận trước thuế                                                                           n_1.profit_before_tax    None    None    None  3.839479e+09
+                                                             2. Điều chỉnh cho các khoản                                                                             n_2_adjustments_for    None    None    None           NaN
+                                                                  Khấu hao TSCĐ và BĐSĐT                                          depreciation_of_fixed_assets_and_properties_investment    None    None    None  4.885180e+08
+                                                                      Các khoản dự phòng                                                               reversal_of_provisions_provisions    None    None    None  1.574280e+08
+Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies    None    None    None  4.827600e+07
+                                                             Lãi, lỗ từ hoạt động đầu tư                                                          loss_profit_from_investment_activities    None    None    None -4.079207e+09
+                                                                         Chi phí lãi vay                                                                                interest_expense    None    None    None  3.641519e+09
+
+  >> Chỉ số tài chính
+                                                               item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+                 Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps 10019.10  6259.08  7039.05  7695.53
+                                Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 60356.00 57197.00 56145.00 54389.00
+                          Chỉ số giá thị trường trên thu nhập (P/E)                       p_e    12.38    16.46    10.90     6.67
+                   Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     2.05     1.80     1.37     0.94
+                   Chỉ số giá thị trường trên doanh thu thuần (P/S)                       p_s     4.94    25.77    16.56    13.42
+                                                     Tỷ suất cổ tức            dividend_yield     0.00     0.00     0.00     0.00
+                                                               Beta                      beta     1.35     1.00     0.90     0.92
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)                   ev_ebit    17.26    65.70    31.45    39.47
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: ACB
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange              ev  ceiling  floor  ref_price  open  match_price  close_price  price_change  price_change_pct  high   low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   ACB     HOSE 121225095736400    25450  22150      23800 23700        23600        23600          -200         -0.008403 23700 23300       9777011          29500         17337           0.295714           -0.198642         2072992    1540996979             11227812            1409196401               0.274341                0.3
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date        revenue  revenue_growth     net_profit  net_profit_growth  ebit_margin      roe  roic      roa       pe       pb         eps  current_ratio  cash_ratio  quick_ratio interest_coverage        ae      fae  net_profit_margin  gross_margin              ev  issue_share       ps      pcf         bvps  ev_per_ebitda  at  fat  acp  dso  dpo     eps_ttm  charter_capital  rtq4  charter_capital_ratio  rtq10  dividend  ebitda  ebit  le  de  ccc  rtq17
+   ACB         2025              5 1772209454280 58755829000000        0.154276 15624699000000          -0.069392            0 0.175577     0 0.016535 7.758556 1.282538 3041.803301              0           0            0              None 10.853292 0.057539           0.580721             0 121225095760000   5136656599 3.586766 4.304857 18401.019644              0   0    0 None    0    0 3041.803301   51366565990000     0               1.840102      0         0       0     0   0   0 None      0
+
+  >> Tin tức
+                                                                                                                                                         head  article_id                                       title        publish_time                                                                  url
+Sau đà bứt phá trong tháng đầu năm, nhóm cổ phiếu ngân hàng quốc doanh đã “đạp phanh” trong tháng 2, qua đó khiến toàn ngành hụt hơi so với thị trường chung.     1407539 Cổ phiếu ngân hàng quốc doanh đứt mạch tăng 2026-03-03T21:02:00 /2026/03/co-phieu-ngan-hang-quoc-doanh-dut-mach-tang-830-1407539.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close   volume
+   ACB 2025-03-14 21.89 21.89 21.64  21.72 11556328
+   ACB 2025-03-17 21.81 21.93 21.72  21.89  5668733
+   ACB 2025-03-18 21.97 22.18 21.93  21.97  6013116
+   ACB 2025-03-19 21.97 21.97 21.76  21.89  7918115
+   ACB 2025-03-20 22.06 22.10 21.85  21.93  4867372
+   ACB 2025-03-21 21.93 21.97 21.81  21.81  4134448
+   ACB 2025-03-24 21.93 22.02 21.76  22.02  7892882
+   ACB 2025-03-25 22.06 22.10 21.85  21.97  5602227
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   ACB 2026-04-03 09:41:46+07:00  23.45    8400       Sell 458801956
+   ACB 2026-04-03 09:41:46+07:00  23.45    8300       Sell 458801957
+   ACB 2026-04-03 09:41:46+07:00  23.45    8300       Sell 458801959
+   ACB 2026-04-03 09:41:48+07:00  23.50     100        Buy 458802058
+   ACB 2026-04-03 09:41:53+07:00  23.50     100        Buy 458802245
+   ACB 2026-04-03 09:42:05+07:00  23.45     100       Sell 458802670
+   ACB 2026-04-03 09:42:12+07:00  23.45   10000       Sell 458802898
+   ACB 2026-04-03 09:42:15+07:00  23.45     500       Sell 458802965
+
+  >> Tổng quan
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume         ceo_name  ceo_position   inspector_name inspector_position establishment_license business_code     tax_id auditor company_type                                                   address                         phone               fax          email                website                                                                                                                                                                                                                                                                                                                                                                                                                                                              branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Huy động vốn ngắn hạn, trung hạn và dài hạn, tiếp nhận vốn ủy thác đầu tư và phát triển của các tổ chức trong nước, vay vốn của các TCTD khác.\n- Cho vay ngắn hạn, trung hạn, dài hạn; chiết khấu thương phiếu, trái phiếu và giấy tờ có giá; góp vốn và liên doanh theo luật định.\n- Làm dịch vụ thanh toán giữa các khách hàng.\n- Kinh doanh ngoại tệ, vàng bạc và thanh toán quốc tế, huy động các loại vốn từ nước ngoài và các dịch vụ ngân hàng khác trong quan hệ với nước ngoài khi được NHNN cho phép.    ACB   24/04/1993            51367                13229   09/12/2020      10000     HOSE          26400           5137 Mr. Từ Tiến Phát Tổng Giám đốc Mr. Đàm Văn Tuấn  Phó Tổng Giám đốc            0032/NH-GP        059067 0301452948    KPMG    Ngân hàng Số 442 Nguyễn Thị Minh Khai - P. Bàn Cờ - Tp. Hồ Chí Minh (84.28) 3833 4085 - 3839 5179 (84.28) 3839 9885 acb@acb.com.vn https://www.acb.com.vn -Tại TP. Hồ Chí Minh: Sở giao dịch, 25 chi nhánh và 16 phòng giao dịch. \r\n-Tại khu vực phía Bắc (Hà Nội, Hải Phòng, Hưng Yên, Bắc Ninh): 6 chi nhánh và 8 phòng giao dịch. \r\n-Tại khu vực miền Trung (Đà Nẵng, Daklak, Khánh Hòa, Hội An, Huế): 5 chi nhánh và 1 phòng giao dịch. \r\n-Tại khu vực miền Tây (Long An, Cần Thơ, An Giang, Cà Mau): 4 chi nhánh. \r\n-Tại khu vực miền Đông (Đồng Nai, Bình Dương, Vũng Tàu): 3 chi nhánh và 1 phòng giao dịch.\r\n \n- Ngày 24/04/1993: Ngân hàng Thương mại Cổ phần Á Châu (ACB) được thành lập với vốn điều lệ ban đầu là 20 tỷ đồng.\n- Ngày 17/02/1996: Tăng vốn điều lệ lên 341 tỷ đồng.\n- Tháng 12/2004: Tăng vốn điều lệ lên 481.13 tỷ đồng.\n- Năm 2005: Tăng vốn điều lệ lên 948.32 tỷ đồng.\n- Ngày 14/02/2006: Tăng vốn điều lệ lên lên 1,100 tỷ đồng.\n- Ngày 31/10/2006: Niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX).\n- Ngày 21/11/2006: Giao dịch trên Sở Giao dịch Chứng khoán Hà Nội (HNX).\n- Ngày 25/05/2007: Tăng vốn điều lệ lên 2,530 tỷ đồng.\n- Tháng 12/2007: Tăng vốn điều lệ lên 2,630 tỷ đồng.\n- Tháng 10/2008: Tăng vốn điều lệ lên 3,180 tỷ đồng.\n- Tháng 11/2008: Tăng vốn điều lệ lên 4,651.61 tỷ đồng.\n- Tháng 12/2008: Tăng vốn điều lệ lên 6,355.81 tỷ đồng.\n- Tháng 09/2009: Tăng vốn điều lệ lên 7,705.74 tỷ đồng.\n- Tháng 11/2009: Tăng vốn điều lệ lên 7,814.13 tỷ đồng.\n- Tháng 03/2011: Tăng vốn điều lệ lên 9,376.96 tỷ đồng.\n- Ngày 09/01/2017: Tăng vốn điều lệ lên 10,273.23 tỷ đồng.\n- Ngày 30/11/2018: Tăng vốn điều lệ lên 12,885.87 tỷ đồng.\n- Ngày 15/11/2019: Tăng vốn điều lệ lên 16,627.37 tỷ đồng.\n- Ngày 19/10/2020: Tăng vốn điều lệ lên 21,615.58 tỷ đồng.\n- Ngày 20/11/2020: Niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).\n- Ngày 02/12/2020: Hủy niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX).\n- Ngày 09/12/2020: Ngày giao dịch đầu tiên trên Sàn HOSE với giá 26,400 đ/CP .\n- Ngày 02/07/2021: Tăng vốn điều lệ lên 27,019.48 tỷ đồng.\n- Tháng 07/2022: Tăng vốn điều lệ lên 33,774.35 tỷ đồng.\n- Tháng 06/2023: Tăng vốn điều lệ lên 38,840.5 tỷ đồng.\n- Tháng 04/2024: Tăng vốn điều lệ lên 44,666.5 tỷ đồng.\n- Tháng 06/2025: Tăng vốn điều lệ lên 51,366.5 tỷ đồng.         51366565990000       10000          5136656599 2025-12-31T00:00:00
+
+  >> Cổ đông lớn
+                                               name         update_date  shares_owned  ownership_percentage
+                                      Trần Hùng Huy 2025-06-30T00:00:00     176021482                  3.43
+                           SMALLCAP World Fund, Inc 2024-07-30T00:00:00     112118905                  2.51
+                            Boardwalk South Limited 2024-07-30T00:00:00      82268294                  1.84
+                   CTCP Đầu tư Thương mại Giang Sen 2025-06-30T00:00:00      92341027                  1.80
+                           VOF PE Holding 5 Limited 2024-07-30T00:00:00      76619537                  1.72
+Công ty TNHH Bảo hiểm Nhân thọ Prudiential Việt Nam 2024-07-30T00:00:00      69465590                  1.56
+                           Nguyễn Thiên Hương Jenny 2025-04-29T00:00:00      63232810                  1.42
+             CTCP Làng giáo dục quốc tế Thiên Hương 2024-09-10T00:00:00      58575494                  1.31
+
+  >> Ban lãnh đạo
+from_date       position                  name                       position_en owner_code
+     2002         CTHĐQT     Ông Trần Hùng Huy          CTHĐQT (Chairman of BOD)     CTHĐQT
+     2012     Phó CTHĐQT Ông Nguyễn Thành Long Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+     2018         TVHĐQT       Ông Hiep Van Vo            TVHĐQT (Member of BOD)     TVHĐQT
+     1994 TVHĐQT/Phó TGĐ      Ông Đàm Văn Tuấn            TVHĐQT (Member of BOD)     TVHĐQT
+     1993         TVHĐQT      Bà Đặng Thu Thủy            TVHĐQT (Member of BOD)     TVHĐQT
+     2012         TVHĐQT       Bà Đinh Thị Hoa            TVHĐQT (Member of BOD)     TVHĐQT
+     2023         TVHĐQT      Ông Đỗ Minh Toàn            TVHĐQT (Member of BOD)     TVHĐQT
+     1995 TVHĐQT/Phó TGĐ    Ông Nguyễn Văn Hòa            TVHĐQT (Member of BOD)     TVHĐQT
+
+  >> Công ty con
+        update_date                                                    name  charter_capital  ownership_percent currency        type
+2025-12-31T00:00:00                            Công ty TNHH Chứng khoán ACB   11000000000000                100      VND công ty con
+2025-12-31T00:00:00                        Công ty TNHH MTV Quản lý Quỹ ACB    1050000000000                100      VND công ty con
+2025-12-31T00:00:00 Công ty TNHH Quản lý nợ và Khai thác tài sản ACB (ACBA)     505000000000                100      VND công ty con
+2025-12-31T00:00:00          Công ty TNHH MTV Cho thuê tài chính ACB (ACBL)     500000000000                100      VND công ty con
+
+  >> Công ty liên kết
+  (Không có dữ liệu)
+
+  >> Kết quả kinh doanh
+                                                       item                                                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+             1. Thu nhập lãi và các khoản thu nhập tương tự                     n_1.interest_income_and_similar_income 1.608042e+10 1.504940e+10 1.429870e+10 1.332731e+10
+                     2. Chi phí lãi và các chi phí tương tự                  n_2.interest_expense_and_similar_expenses 8.987152e+09 8.279694e+09 7.614847e+09 6.968441e+09
+                                      I. Thu nhập lãi thuần                                      i.net_interest_income 7.093272e+09 6.769710e+09 6.683848e+09 6.358865e+09
+                           3. Thu nhập từ hoạt động dịch vụ                              n_3.fee_and_commission_income 1.381930e+09 1.317755e+09 1.102158e+09 1.394280e+09
+                               4. Chi phí hoạt động dịch vụ                            n_4.fee_and_commission_expenses 4.876590e+08 5.223300e+08 5.174270e+08 5.219670e+08
+                      II. Lãi/lỗ thuần từ hoạt động dịch vụ                           ii.net_fee_and_commission_income 8.942710e+08 7.954250e+08 5.847310e+08 8.723130e+08
+III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối và vàng iii.net_gain_loss_from_foreign_currencies_and_gold_trading 1.371410e+08 4.491500e+08 6.700050e+08 4.755900e+08
+         IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh                   iv.net_gain_loss_from_trading_securities 4.656100e+07 3.673660e+08 3.659000e+07 2.379900e+07
+
+  >> Bảng cân đối kế toán
+                                                          item                                                  item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                                    A. TÀI SẢN                                                   assets          NaN          NaN          NaN          NaN
+                                 I. Tiền mặt, vàng bạc, đá quý                   i.cash_gold_and_silver_precious_stones 8.624548e+09 6.785568e+09 6.666091e+09 5.857654e+09
+                                         II. Tiền gửi tại NHNN               ii.balances_with_the_state_bank_of_vietnam 1.657496e+10 1.519747e+10 5.439937e+09 1.345751e+10
+III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác iii.placements_at_and_loans_to_other_credit_institutions 1.499907e+11 1.049259e+11 1.254473e+11 1.293475e+11
+                           1. Tiền, vàng gửi tại các TCTD khác              n_1.placements_at_other_credit_institutions 1.499907e+11 1.049259e+11 1.254473e+11 1.293475e+11
+                                      2. Cho vay các TCTD khác                   n_2.loans_to_other_credit_institutions          NaN          NaN          NaN          NaN
+                     3. Dự phòng rủi ro cho vay các TCTD khác                       n_3.provisions_for_losses_and_risks          NaN          NaN          NaN          NaN
+                                    IV. Chứng khoán kinh doanh                                    iv.trading_securities 6.544882e+09 5.918486e+09 4.958406e+09 4.307534e+09
+
+  >> Lưu chuyển tiền tệ
+                                                                                             item                                                                               item_id 2025-Q4 2025-Q3 2025-Q2       2025-Q1
+                                                          Lưu chuyển tiền từ hoạt động kinh doanh                                                i.cash_flows_from_operating_activities    None    None    None           NaN
+                                         1. Thu nhập lãi và các khoản thu nhập tương tự nhận được                                         n_1.receipts_from_interest_and_similar_income    None    None    None  1.252587e+10
+                                                   2. Chi phí lãi và các chi phí tương tự đã trả                                         n_2.payments_for_interest_and_similar_expenses    None    None    None -6.108286e+09
+                                                       3. Thu nhập từ hoạt động dịch vụ nhận được                                           n_3.receipts_from_fee_and_commission_income    None    None    None  7.306460e+08
+4- Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán) n_4.net_cash_inflow_from_trading_activities_in_foreign_currencies_gold_and_securities    None    None    None  5.220840e+08
+                                                                                 5. Thu nhập khác                                                        n_5.receipts_from_other_income    None    None    None  1.183710e+08
+                             6. Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro     n_6.receipts_from_collection_of_debts_written_off_debts_accounted_for_by_reserves    None    None    None  6.314600e+07
+                                     7. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ                                    n_7.payments_for_staff_costs_and_operating_expenses    None    None    None -3.197274e+09
+
+  >> Chỉ số tài chính
+                                                  item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+    Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  3229.59  3730.45  3782.19  3797.57
+                   Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 18401.02 17796.69 16978.09 19494.35
+             Chỉ số giá thị trường trên thu nhập (P/E)                       p_e     7.43     6.84     5.63     6.85
+      Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     1.30     1.43     1.25     1.33
+                                        Tỷ suất cổ tức            dividend_yield     0.04     0.04     0.05     0.04
+                                                  Beta                      beta     0.84     0.91     0.85     0.82
+Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)                       roe     3.00     4.79     5.60     4.31
+   Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)                       roa     0.28     0.45     0.53     0.42
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: MSN
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange              ev  ceiling  floor  ref_price  open  match_price  close_price  price_change  price_change_pct  high   low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   MSN     HOSE 115709441200000    82200  71600      76900 76600        76100        76100          -800         -0.010403 76700 75300       5466409          94000         50300           0.512922           -0.140113         2226136    1520491927              5949001             364852587               0.252333                  1
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date        revenue  revenue_growth    net_profit  net_profit_growth  ebit_margin      roe     roic      roa        pe       pb         eps  current_ratio  cash_ratio  quick_ratio  interest_coverage       ae      fae  net_profit_margin  gross_margin              ev  issue_share       ps       pcf        bvps  ev_per_ebitda       at      fat      acp       dso       dpo     eps_ttm  charter_capital     rtq4  charter_capital_ratio    rtq10  dividend         ebitda          ebit       le       de        ccc   rtq17
+   MSN         2025              5 1773653330403 81927677000000       -0.018318 4108306000000            1.05512     0.093901 0.125272 0.069703 0.029711 28.164757 3.273422 2701.958313       0.900069    0.395601     0.535682          -1.414556 2.860848 0.787163           0.050334      0.313406 115709441200000   1445915457 1.417637 84.485964 23247.84083      15.188396 0.590287 2.250568 5.762343 73.003945 50.674129 2701.958313   15204919270000 0.899455               2.964741 1.860848         0 11092993000000 7664287000000 2.338654 1.860848 129.440416 4.99973
+
+  >> Tin tức
+                                                                                                                       head  article_id                                              title        publish_time                                                                        url
+Ông Danny Le - Tổng Giám đốc CTCP tập đoàn Masan (HOSE: MSN) vừa đăng ký mua 5 triệu cp MSN trong thời gian từ 16/03-14/04.     1410625 Tổng Giám đốc Danny Le đăng ký mua 5 triệu cp MSN  2026-03-11T10:15:00 /2026/03/tong-giam-doc-danny-le-dang-ky-mua-5-trieu-cp-msn-739-1410625.htm
+
+  >> Lịch sử giá
+ticker       time  open  high  low  close  volume
+   MSN 2025-03-14  70.5  71.9 70.4   71.1 7301100
+   MSN 2025-03-17  71.4  71.4 70.3   70.5 4528900
+   MSN 2025-03-18  70.7  71.3 69.6   69.6 6175200
+   MSN 2025-03-19  69.5  69.6 68.5   68.5 6651600
+   MSN 2025-03-20  68.5  69.1 68.2   68.4 3437000
+   MSN 2025-03-21  68.6  68.6 67.5   67.9 3804100
+   MSN 2025-03-24  67.8  68.8 67.8   68.5 2426900
+   MSN 2025-03-25  68.5  69.0 68.1   68.5 2767600
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   MSN 2026-04-03 09:41:41+07:00   76.6     100        Buy 458801774
+   MSN 2026-04-03 09:41:41+07:00   76.6     100        Buy 458801776
+   MSN 2026-04-03 09:41:42+07:00   76.6     100        Buy 458801805
+   MSN 2026-04-03 09:41:56+07:00   76.5     200       Sell 458802388
+   MSN 2026-04-03 09:41:58+07:00   76.5    1000       Sell 458802438
+   MSN 2026-04-03 09:41:58+07:00   76.5     100       Sell 458802458
+   MSN 2026-04-03 09:41:58+07:00   76.5     100       Sell 458802457
+   MSN 2026-04-03 09:41:58+07:00   76.5     300       Sell 458802456
+
+  >> Tổng quan
+                                                                                           business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume              ceo_name   ceo_position      inspector_name                 inspector_position establishment_license business_code     tax_id auditor    company_type                                                              address             phone               fax                 email                       website branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Nghiên cứu thị trường.\n- Hoạt động tư vấn quản lý, tư vấn đầu tư (trừ tư vấn tài chính \n- kế toán).    MSN   01/11/2004            15205                33713   05/11/2009      10000     HOSE          43200           1446 Mr. Nguyễn Đăng Quang Chủ tịch HĐQT  Mr. Trần Phương Bắc Luật sư trưởng - Giám đốc Tuân Thủ                  None    0303576603 0303576603    KPMG Công ty cổ phần Lầu 18 - Masan Tower - Số 23 Lê Duẩn - P.  Sài Gòn - Tp. Hồ Chí Minh (84.28) 6256 3862 (84.28) 3827 4115 pr@msn.masangroup.com https://www.masangroup.com/vi          \n- Năm 2004: Thành lập Công ty Cổ phần Hàng hải Ma San (MSC) với vốn điều lệ ban đầu là 3.2 tỷ đồng. MSC hoạt động trong lĩnh vực vận tải biển.\n- Năm 2005: MSC tăng vốn từ 3.2 tỷ đồng lên 32 tỷ đồng thông qua việc phát hành riêng lẻ cho các cổ đông hiện hữu.\n- Năm 2009: MSC được chuyển giao toàn bộ cho Công ty Cổ phần Tập đoàn Ma San. MSC tăng vốn từ 32 tỷ đồng lên 100 tỷ đồng thông qua việc phát hành riêng lẻ cho Công ty Cổ phần Tập đoàn Ma San.\n- Năm 2009: Công ty Cổ phần Tập đoàn Ma San chính thức đổi tên thành Công ty Cổ phần Ma San. Masan Group tăng vốn lên 4,764 tỷ và chính thức là Công ty đại chúng.\n- Năm 2011: KKR, công ty hàng đầu toàn cầu chuyên đầu tư vào các công ty chưa niêm yết, đã đầu tư 159 triệu đô la Mỹ vào Masan Consumer. Các ngân hàng J.P. Morgan và Standard Chartered đã dành cho Masan Consumer khoản vay 108 triệu đô la Mỹ.\n- Năm 2012: Vốn điều lệ của Công ty là 6,872 tỷ đồng.\n- Năm 2013: KKR tiếp tục rót thêm 200 triệu USD đầu tư vào Masan Consumer. Thay đổi đăng ký kinh doanh, vốn điều lệ 7,349.113 tỷ đồng.\n- Năm 2014: Masan Group chuyển nhượng toàn bộ vốn góp, tương đương 100% vốn điều lệ của công ty Masan Brewey sang cho công ty Masan Consumer Holdings và bán công ty Masan Agri.\n- Ngày 23/02/2017: Tăng vốn điều lệ lên 11,474,963,740,000 đồng.\n- Ngày 31/08/2017: Tăng vốn điều lệ lên 11,573,739,740,000 đồng.\n- Ngày 25/06/2018: Tăng vốn điều lệ lên 11,631,495,480,000 đồng.\n- Ngày 17/07/2019: Tăng vốn điều lệ lên 11,689,464,470,000 đồng.\n- Ngày 07/09/2020: Tăng vốn điều lệ lên 11,746,832,460,000 đồng.\n- Ngày 17/06/2021: Tăng vốn điều lệ lên 11,805,346,920,000 đồng.\n- Tháng 05/2022: Tăng vốn điều lệ lên 14,166,416,000,000 đồng.\n- Tháng 06/2022: Tăng vốn điều lệ lên 14,237,248,000,000 đồng.\n- Năm 2023: Tăng vốn điều lệ lên 14,308,434,060,000 đồng.\n- Tháng 05/2024: Tăng vốn điều lệ lên 15,054,198,760,000 đồng.\n- Tháng 06/2024: Tăng vốn điều lệ lên 15,129,280,870,000 đồng.\n- Tháng 08/2025: Tăng vốn điều lệ lên 15,204,919,270,000 đồng.         15204919270000       10000          1520491927 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+                                     name         update_date  shares_owned  ownership_percentage
+                               CTCP Masan 2024-12-31T00:00:00     446278464                  29.5
+Công ty TNHH MTV Xây dựng Hoa Hướng Dương 2024-04-24T00:00:00     189081487                  12.5
+
+  >> Ban lãnh đạo
+ from_date                         position                    name              position_en owner_code
+      2004                           CTHĐQT   Ông Nguyễn Đăng Quang CTHĐQT (Chairman of BOD)     CTHĐQT
+TV Độc lập TVHĐQT/Chủ tịch Ủy ban Kiểm toán    Ông Nguyễn Đoan Hùng   TVHĐQT (Member of BOD)     TVHĐQT
+       N/A       TVHĐQT/TV Ủy ban Kiểm toán    Bà Nguyễn Thị Thu Hà   TVHĐQT (Member of BOD)     TVHĐQT
+      2004                   TVHĐQT/Phó TGĐ    Ông Nguyễn Thiều Nam   TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập                           TVHĐQT  Ông David Tan Wei Ming   TVHĐQT (Member of BOD)     TVHĐQT
+      2004                           TVHĐQT     Bà Nguyễn Hoàng Yến   TVHĐQT (Member of BOD)     TVHĐQT
+      2020                              TGĐ            Ông Danny Le                TGĐ (CEO)        TGĐ
+       N/A                          Phó TGĐ Ông Michael Hung Nguyen     Phó TGĐ (Deputy CEO)    Phó TGĐ
+
+  >> Công ty con
+        update_date                              name  charter_capital  ownership_percent currency             type
+2024-12-31T00:00:00           Công ty TNHH The SHERPA               -1              100.0               công ty con
+2024-12-31T00:00:00     Công ty TNHH Zenith Invesment               -1              100.0               công ty con
+2024-12-31T00:00:00 Ngân hàng TMCP Kỹ thương Việt Nam               -1               19.8          công ty liên kết
+
+  >> Công ty liên kết
+        update_date                              name  charter_capital  ownership_percent currency             type
+2024-12-31T00:00:00 Ngân hàng TMCP Kỹ thương Việt Nam               -1               19.8          công ty liên kết
+
+  >> Kết quả kinh doanh
+                                              item                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+        1. Doanh thu bán hàng và cung cấp dịch vụ                 n_1.revenue 2.330056e+10 2.125566e+10 1.842506e+10 1.894640e+10
+                   2. Các khoản giảm trừ doanh thu n_2.deduction_from_revenue 5.473500e+07 9.183700e+07 1.099190e+08 4.985700e+07
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ            n_3.net_revenue 2.324582e+10 2.116383e+10 1.831514e+10 1.889654e+10
+                              4. Giá vốn hàng bán      n_4.cost_of_goods_sold 1.599039e+10 1.472232e+10 1.262571e+10 1.270230e+10
+  5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ           n_5.gross_profit 7.255437e+09 6.441502e+09 5.689428e+09 6.194243e+09
+                  6.Doanh thu hoạt động tài chính        n_6.financial_income 3.209320e+08 8.291310e+08 3.674270e+08 5.767580e+08
+                             7. Chi phí tài chính      n_7.financial_expenses 1.604397e+09 2.041610e+09 1.387959e+09 1.882532e+09
+                         Trong đó :Chi phí lãi vay of_which_interest_expenses 1.231475e+09 1.682274e+09 1.111787e+09 1.392622e+09
+
+  >> Bảng cân đối kế toán
+                                           item                                                                item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                       TÀI SẢN                                                                  assets          NaN          NaN          NaN          NaN
+                            A. TÀI SẢN NGẮN HẠN                                                    a.short_term_assets 3.623450e+10 3.221410e+10 3.265092e+10 4.855132e+10
+          I. Tiền và các khoản tương đương tiền                                            i.cash_and_cash_equivalents 1.210185e+10 1.326632e+10 1.055274e+10 1.276910e+10
+                                        1. Tiền                                                               n_1.cash 1.013866e+09 1.606804e+09 1.949724e+09 2.555199e+09
+                  2. Các khoản tương đương tiền                                                   n_2.cash_equivalents 1.108798e+10 1.165951e+10 8.603018e+09 1.021391e+10
+                 II.  Đầu tư tài chính ngắn hạn                                    ii.short_term_financial_investments 5.379753e+09 1.463311e+09 8.947550e+08 4.041930e+08
+                      1. Chứng khoán kinh doanh                                      n_1.available_for_sale_securities 3.824067e+09 4.467250e+08 6.821200e+07          NaN
+2. Dự phòng giảm giá chứng khoán kinh doanh (*) n_2.provision_for_diminution_in_value_of_available_for_sale_securities          NaN          NaN          NaN          NaN
+
+  >> Lưu chuyển tiền tệ
+                                                                                    item                                                                                         item_id 2025-Q4 2025-Q3 2025-Q2       2025-Q1
+                                              I. Lưu chuyển tiền từ hoạt động kinh doanh                                                          i_cash_flows_from_operating_activities    None    None    None           NaN
+                                                                 1. Lợi nhuận trước thuế                                                                           n_1.profit_before_tax    None    None    None  1.222369e+09
+                                                             2. Điều chỉnh cho các khoản                                                                             n_2_adjustments_for    None    None    None           NaN
+                                                                  Khấu hao TSCĐ và BĐSĐT                                          depreciation_of_fixed_assets_and_properties_investment    None    None    None  8.799080e+08
+                                                                      Các khoản dự phòng                                                               reversal_of_provisions_provisions    None    None    None  1.155750e+08
+Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies    None    None    None  6.365000e+06
+                                                             Lãi, lỗ từ hoạt động đầu tư                                                          loss_profit_from_investment_activities    None    None    None -1.399366e+09
+                                                                         Chi phí lãi vay                                                                                interest_expense    None    None    None  1.531673e+09
+
+  >> Chỉ số tài chính
+                                                               item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+                 Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  2756.20  2264.03  1945.29  1592.62
+                                Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 29647.00 28263.00 27525.00 30124.00
+                          Chỉ số giá thị trường trên thu nhập (P/E)                       p_e    27.94    35.78    39.48    41.94
+                   Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     2.60     2.87     2.79     2.22
+                   Chỉ số giá thị trường trên doanh thu thuần (P/S)                       p_s     5.04     5.82     6.34     5.08
+                                                     Tỷ suất cổ tức            dividend_yield     0.00     0.00     0.00     0.00
+                                                               Beta                      beta     1.07     1.24     1.30     1.20
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)                   ev_ebit    46.06    46.97    59.35    60.12
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: SAB
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange             ev  ceiling  floor  ref_price  open  match_price  close_price  price_change  price_change_pct  high   low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   SAB     HOSE 56689256842400    47600  41400      44500 44700        44200        44200          -300         -0.006742 44700 44100        516632          57100         37442           0.149999           -0.176909          145027    1282562372               619198             749204862               0.584147                  1
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date        revenue  revenue_growth    net_profit  net_profit_growth  ebit_margin      roe     roic      roa       pe      pb         eps  current_ratio  cash_ratio  quick_ratio  interest_coverage       ae      fae  net_profit_margin  gross_margin             ev  issue_share       ps       pcf         bvps  ev_per_ebitda       at      fat      acp       dso       dpo     eps_ttm  charter_capital     rtq4  charter_capital_ratio    rtq10  dividend        ebitda          ebit       le       de        ccc    rtq17
+   SAB         2025              5 1774602001257 26249006889260       -0.183908 4423539822535           0.021576     0.165892 0.199102 0.183255 0.133972 12.81536 2.67999 3448.986123       2.493274    0.452337     0.554003        -125.039502 1.417288 0.220361           0.170871      0.359259 56689256842400   1282562372 2.189773 14.539865 16492.596736      10.568936 0.784054 5.977752 8.054858 45.688753 55.517694 3448.986123   12825623720000 0.007302               1.793271 0.417288  0.045249 5024904531235 4294632063801 0.026237 0.417288 109.261305 7.988837
+
+  >> Tin tức
+head  article_id                                                        title        publish_time                                                                                  url
+         1401571 SAB: Thông báo nhận được Quyết định xử phạt của Cơ quan thuế 2026-02-06T17:56:28 /2026/02/sab-thong-bao-nhan-duoc-quyet-dinh-xu-phat-cua-co-quan-thue-830-1401571.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close  volume
+   SAB 2025-03-14 46.28 47.28 46.19  46.55 1389247
+   SAB 2025-03-17 46.92 47.01 46.37  46.55  739736
+   SAB 2025-03-18 46.55 46.83 46.10  46.10 1621031
+   SAB 2025-03-19 46.28 46.28 45.83  45.83 2189365
+   SAB 2025-03-20 45.92 46.10 45.56  45.65 1385485
+   SAB 2025-03-21 45.83 45.83 45.38  45.38 1205632
+   SAB 2025-03-24 45.38 45.47 45.02  45.02 1550897
+   SAB 2025-03-25 45.20 45.29 44.71  44.71 1606302
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   SAB 2026-04-03 09:24:41+07:00  44.60    1000        Buy 458768215
+   SAB 2026-04-03 09:24:41+07:00  44.60     900        Buy 458768216
+   SAB 2026-04-03 09:25:00+07:00  44.60    1000        Buy 458768847
+   SAB 2026-04-03 09:25:01+07:00  44.60     600        Buy 458768869
+   SAB 2026-04-03 09:25:01+07:00  44.65     100        Buy 458768872
+   SAB 2026-04-03 09:25:05+07:00  44.70     100        Buy 458769035
+   SAB 2026-04-03 09:25:32+07:00  44.65     100        Buy 458769968
+   SAB 2026-04-03 09:26:09+07:00  44.60     500       Sell 458771262
+
+  >> Tổng quan
+                                                                                                                                                                                                                                                                                                                                                                                                                                        business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume          ceo_name   ceo_position     inspector_name inspector_position establishment_license business_code     tax_id auditor    company_type                                             address                                     phone               fax                email               website branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Sản xuất và kinh doanh bia, rượu, nước giải khát và các sản phẩm liên quan, bao gồm vật liệu và bao bì.\n- Chưng, tinh cất và pha chế các loại rượu mạnh; sản xuất rượu vang; sản xuất bia và mạch nha ủ men bia; sản xuất đồ uống không cồn, nước khoáng.\n- Cung cấp dịch vụ vận tải, hậu cần và kho bãi.\n- Sản xuất sản phẩm cơ khí, xây dựng kết cấu thép và cung cấp dịch vụ cơ khí lắp đặt.\n- Xây dựng và cung cấp dịch vụ bất động sản...    SAB   11/05/2004            12826                 7829   06/12/2016          0     HOSE         110000           1283 Mr. Koh Poh Tiong Chủ Tịch HĐQT  Mr. Koo Liang Kwee            Phó TGĐ        37/2004/QĐ-BCN    0300583659 0300583659    None Công ty cổ phần 187 Nguyễn Chí Thanh - P. Chợ Lớn - Tp. Hồ Chí Minh (84.28) 3829 4083 - 3829 6342 - 3829 4081 (84.28) 3829 6856 sabeco@sabeco.com.vn https://sabeco.com.vn          \n- Năm 1875: Tiền thân của Bia Sài Gòn là một xưởng bia nhỏ do ông Victor Larue, một người Pháp lập ra tại Sài Gòn.\n- Năm 1910: Phát triển thành một nhà máy sản xuất bia, rượu, nước giải khát.\n- Tháng 9/1927: Sáp nhập nhà máy vào hãng BGI của Pháp.\n- Ngày 01/06/1977: Công ty Rượu Bia miền Nam nhận quyền quản lý nhà máy từ hãng BGI, hình thành Nhà máy Bia Sài Gòn.\n- Năm 1993: Nhà máy Bia Sài Gòn trở thành Công ty Bia Sài Gòn sau khi sáp nhập lần lượt các Nhà máy Nước đá Sài Gòn, Nhà máy Cơ khí Rượu Bia và Nhà máy nước khoáng Đa Kai.\n- Ngày 06/05/2003: Công ty Bia Sài Gòn tiếp nhận thêm các công ty khác và thành lập Tổng công ty Bia \n- Rượu \n- Nước Giải khát Sài Gòn (SABECO).\n- Ngày 11/05/2004: Tổng công ty chuyển đổi mô hình hoạt động sang công ty mẹ \n- công ty con.\n- Ngày 17/04/2008: Chính thức chuyển sang hoạt động theo mô hình công ty cổ phần với vốn điều lệ 6,413 tỷ đồng.\n- Ngày 06/12/2016: giao dịch đầu tiên trên HOSE với giá tham chiếu 132,000 đ/cp.\n- Tháng 11/2023: Vốn điều lệ của công ty là 12,826 tỷ đồng.         12825623720000           0          1282562372 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+                                          name         update_date  shares_owned  ownership_percentage
+                 Công ty TNHH Vietnam Beverage 2024-12-31T00:00:00     687285174                 53.59
+Tổng công ty Đầu tư và Kinh doanh vốn Nhà nước 2024-12-31T00:00:00     461753094                 36.00
+
+  >> Ban lãnh đạo
+ from_date                         position                      name              position_en owner_code
+       N/A                           CTHĐQT         Ông Koh Poh Tiong CTHĐQT (Chairman of BOD)     CTHĐQT
+TV Độc lập TVHĐQT/Chủ tịch Ủy ban Kiểm toán   Ông Pramoad Phornprapha   TVHĐQT (Member of BOD)     TVHĐQT
+       N/A       TVHĐQT/TV Ủy ban Kiểm toán  Ông Michael Chye Hin Fah   TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập       TVHĐQT/TV Ủy ban Kiểm toán        Ông Nguyễn Tiến Vỵ   TVHĐQT (Member of BOD)     TVHĐQT
+       N/A                           TVHĐQT          Bà Lê Thanh Tuấn   TVHĐQT (Member of BOD)     TVHĐQT
+      2021                           TVHĐQT          Bà Ngô Minh Châu   TVHĐQT (Member of BOD)     TVHĐQT
+       N/A                           TVHĐQT           Bà Trần Kim Nga   TVHĐQT (Member of BOD)     TVHĐQT
+      2023                              TGĐ Ông Tan Teck Chuan Lester                TGĐ (CEO)        TGĐ
+
+  >> Công ty con
+        update_date                                     name  charter_capital  ownership_percent currency        type
+2024-12-31T00:00:00  Công ty TNHH MTV Thương mại Bia Sài Gòn     700000000000             100.00      VND công ty con
+2024-12-31T00:00:00 Công ty TNHH MTV Bia Sài Gòn - Sóc Trăng     200000000000             100.00      VND công ty con
+2024-12-31T00:00:00   Công ty TNHH MTV Bia Sài Gòn - Hà Tĩnh     120000000000             100.00      VND công ty con
+2024-12-31T00:00:00           Công ty TNHH MTV Cơ Khí SABECO      59365663690             100.00      VND công ty con
+2024-12-31T00:00:00    Công ty TNHH MTV Tập đoàn Bia Sài Gòn      40000000000             100.00      VND công ty con
+2024-12-31T00:00:00             Công ty TNHH MTV Bia Sài Gòn         60000000             100.00      VND công ty con
+2024-12-31T00:00:00 CTCP Thương mại Bia Sài Gòn Bắc Trung Bộ      40000000000              95.07      VND công ty con
+2024-12-31T00:00:00    CTCP Thương mại Bia Sài Gòn Trung Tâm      90000000000              94.47      VND công ty con
+
+  >> Công ty liên kết
+        update_date                                            name  charter_capital  ownership_percent currency             type
+2024-12-31T00:00:00      Công ty TNHH Sản xuất rượu và cồn Việt Nam      65461973000              45.00      VND công ty liên kết
+2024-12-31T00:00:00 Công ty TNHH Bao bì San Miguel Yamamura Phú Thọ      51882792000              35.00      VND công ty liên kết
+2024-12-31T00:00:00      CTCP Bia - Nước giải khát Sài Gòn - Tây Đô      20000000000              34.92      VND công ty liên kết
+2024-12-31T00:00:00                      CTCP Bia Sài Gòn - Phú Thọ     125000000000              33.85      VND công ty liên kết
+2024-12-31T00:00:00                   CTCP Bia Sài Gòn - Miền Trung     298466480000              32.41      VND công ty liên kết
+2024-12-31T00:00:00          Công ty TNHH Thủy tinh Malaya Việt Nam     322209160000              30.00      VND công ty liên kết
+2024-12-31T00:00:00           Công ty Liên doanh TNHH Crown Sài Gòn     256369900000              30.00      VND công ty liên kết
+2024-12-31T00:00:00        Công ty TNHH Đầu tư Thương mại Tân Thành     250000000000              29.00      VND công ty liên kết
+
+  >> Kết quả kinh doanh
+                                              item                    item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+        1. Doanh thu bán hàng và cung cấp dịch vụ                 n_1.revenue 6972989928.0 6509183599.0 6867333007.0 5899500355.0
+                   2. Các khoản giảm trừ doanh thu n_2.deduction_from_revenue  136438234.0   72606021.0   62998692.0   88771714.0
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ            n_3.net_revenue 6836551694.0 6436577578.0 6804334315.0 5810728641.0
+                              4. Giá vốn hàng bán      n_4.cost_of_goods_sold 4242463707.0 4050234333.0 4356268929.0 3938664434.0
+  5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ           n_5.gross_profit 2594087987.0 2386343245.0 2448065386.0 1872064207.0
+                  6.Doanh thu hoạt động tài chính        n_6.financial_income  256707772.0  251611133.0  255243028.0  243085542.0
+                             7. Chi phí tài chính      n_7.financial_expenses   -1785166.0  -78186630.0   15117681.0   91111026.0
+                         Trong đó :Chi phí lãi vay of_which_interest_expenses    7381679.0    7297682.0    8765781.0   10901060.0
+
+  >> Bảng cân đối kế toán
+                                           item                                                                item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                       TÀI SẢN                                                                  assets          NaN          NaN          NaN          NaN
+                            A. TÀI SẢN NGẮN HẠN                                                    a.short_term_assets 2.214098e+10 2.047935e+10 2.510297e+10 2.359600e+10
+          I. Tiền và các khoản tương đương tiền                                            i.cash_and_cash_equivalents 4.016882e+09 2.910495e+09 6.502904e+09 3.998217e+09
+                                        1. Tiền                                                               n_1.cash 1.174863e+09 1.930648e+09 1.890718e+09 1.999121e+09
+                  2. Các khoản tương đương tiền                                                   n_2.cash_equivalents 2.842019e+09 9.798475e+08 4.612185e+09 1.999096e+09
+                 II.  Đầu tư tài chính ngắn hạn                                    ii.short_term_financial_investments 1.498549e+10 1.477213e+10 1.568249e+10 1.626395e+10
+                      1. Chứng khoán kinh doanh                                      n_1.available_for_sale_securities          NaN          NaN          NaN          NaN
+2. Dự phòng giảm giá chứng khoán kinh doanh (*) n_2.provision_for_diminution_in_value_of_available_for_sale_securities          NaN          NaN          NaN          NaN
+
+  >> Lưu chuyển tiền tệ
+                                                                                    item                                                                                         item_id 2025-Q4 2025-Q3 2025-Q2      2025-Q1
+                                              I. Lưu chuyển tiền từ hoạt động kinh doanh                                                          i_cash_flows_from_operating_activities    None    None    None          NaN
+                                                                 1. Lợi nhuận trước thuế                                                                           n_1.profit_before_tax    None    None    None 1022209929.0
+                                                             2. Điều chỉnh cho các khoản                                                                             n_2_adjustments_for    None    None    None          NaN
+                                                                  Khấu hao TSCĐ và BĐSĐT                                          depreciation_of_fixed_assets_and_properties_investment    None    None    None  177369748.0
+                                                                      Các khoản dự phòng                                                               reversal_of_provisions_provisions    None    None    None   -1975993.0
+Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies    None    None    None      63729.0
+                                                             Lãi, lỗ từ hoạt động đầu tư                                                          loss_profit_from_investment_activities    None    None    None -209009993.0
+                                                                         Chi phí lãi vay                                                                                interest_expense    None    None    None   10901060.0
+
+  >> Chỉ số tài chính
+                                                               item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+                 Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  3448.99  3373.41  3185.16  3216.96
+                                Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 17933.00 19104.00 17835.00 19965.00
+                          Chỉ số giá thị trường trên thu nhập (P/E)                       p_e    14.21    13.40    14.76    15.20
+                   Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     2.73     2.37     2.64     2.45
+                   Chỉ số giá thị trường trên doanh thu thuần (P/S)                       p_s     9.19     9.01     8.86    10.79
+                                                     Tỷ suất cổ tức            dividend_yield     0.06     0.11     0.15     0.08
+                                                               Beta                      beta     0.68     0.87     1.00     0.92
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)                   ev_ebit    44.29    33.59    35.43    58.96
+
+──────────────────────────────────────────────────────────────────────
+  CHI TIẾT: VIC
+──────────────────────────────────────────────────────────────────────
+
+  >> Thống kê giao dịch
+symbol exchange               ev  ceiling  floor  ref_price   open  match_price  close_price  price_change  price_change_pct   high    low  total_volume  high_price_1y  low_price_1y  pct_low_change_1y  pct_high_change_1y  foreign_volume  foreign_room  avg_match_volume_2w  foreign_holding_room  current_holding_ratio  max_holding_ratio
+   VIC     HOSE 1081915516810000   150800 131200     141000 142800       139900       139900         -1100         -0.007801 142800 137800       5392223         190000         26050            4.07804           -0.218436         2549238    3713436895              3987533             266561414               0.034591           0.480176
+
+  >> Tóm tắt chỉ số
+symbol  year_report  length_report   update_date         revenue  revenue_growth     net_profit  net_profit_growth  ebit_margin      roe     roic     roa        pe       pb         eps  current_ratio  cash_ratio  quick_ratio  interest_coverage       ae      fae  net_profit_margin  gross_margin               ev  issue_share       ps       pcf         bvps  ev_per_ebitda       at      fat       acp        dso       dpo     eps_ttm  charter_capital     rtq4  charter_capital_ratio    rtq10  dividend         ebitda          ebit       le       de        ccc    rtq17
+   VIC         2025              5 1774539195927 331874704000000        0.755109 11349934000000          -0.046467     0.010936 0.079659 0.007453 0.01161 95.323507 7.331723 1467.633786       1.121402    0.127884     0.582744          -0.124449 7.384187 1.289825           0.034203      0.158761 1081915516810000   7706031024 3.260377 15.624482 19081.463317      38.074114 0.339436 1.754188 36.995275 222.627309 67.220161 1467.633786   77334918960000 1.461621               1.958868 6.384187         0 35294140000000 3628893000000 3.675775 6.384187 326.842745 1.639511
+
+  >> Tin tức
+                                                                                                                                                                                            head  article_id                                                                           title            publish_time                                                                                                    url
+Lựa chọn VinFast VF 3 từ nhu cầu rất giản dị là đưa đón con, đi làm trong phố đông đúc, sau gần một năm, chiếc xe với chị Lưu Ly (Hà Nội) không chỉ là phương tiện mà là một phần của nhịp sống.     1410991 Chủ xe kể về VinFast VF 3: “Chiếc xe nhỏ nhưng thay đổi cả thói quen di chuyển” 2026-03-11T17:28:35.267 /2026/03/chu-xe-ke-ve-vinfast-vf-3-chiec-xe-nho-nhung-thay-doi-ca-thoi-quen-di-chuyen-4264-1410991.htm
+
+  >> Lịch sử giá
+ticker       time  open  high   low  close   volume
+   VIC 2025-03-14 25.90 26.40 25.70  26.10  8435598
+   VIC 2025-03-17 26.25 26.35 25.40  26.05  6510552
+   VIC 2025-03-18 26.05 26.35 25.55  25.65  6023007
+   VIC 2025-03-19 25.40 26.25 24.60  25.95 10353591
+   VIC 2025-03-20 26.00 26.60 25.35  25.75  6636052
+   VIC 2025-03-21 25.80 26.50 25.50  26.50  7491853
+   VIC 2025-03-24 26.50 28.35 26.35  28.35 11915870
+   VIC 2025-03-25 28.85 29.60 28.30  28.45  7951232
+
+  >> Giao dịch trong ngày
+ticker                      time  price  volume match_type        id
+   VIC 2026-04-03 09:47:35+07:00  144.7    1000        Buy 458814533
+   VIC 2026-04-03 09:47:35+07:00  144.7     400        Buy 458814536
+   VIC 2026-04-03 09:47:35+07:00  144.7     500        Buy 458814534
+   VIC 2026-04-03 09:47:35+07:00  144.7     900        Buy 458814535
+   VIC 2026-04-03 09:47:40+07:00  144.8    1100        Buy 458814684
+   VIC 2026-04-03 09:47:40+07:00  144.7    1200       Sell 458814688
+   VIC 2026-04-03 09:47:43+07:00  144.8     200        Buy 458814765
+   VIC 2026-04-03 09:47:44+07:00  144.9     100        Buy 458814787
+
+  >> Tổng quan
+                                                                                                                                                                                                                                                                                        business_model symbol founded_date  charter_capital  number_of_employees listing_date  par_value exchange  listing_price  listed_volume              ceo_name  ceo_position       inspector_name inspector_position establishment_license business_code     tax_id       auditor    company_type                                                                            address                         phone               fax             email                   website branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          history  free_float_percentage  free_float  outstanding_shares          as_of_date
+\n- Kinh doanh BĐS.\n- Dịch vụ cho thuê văn phòng, nhà ở, máy móc thiết bị công trình.\n- Kinh doanh khách sạn, Dịch vụ vui chơi giải trí, làm đẹp, ăn uống.\n- Hoạt động sáng tác, nghệ thuật và giải trí.\n- Hoạt động tư vấn quản lý.\n- Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu.    VIC   03/05/2002            77335                67300   19/09/2007      10000     HOSE         125000           7706 Mr. Nguyễn Việt Quang Tổng giám đốc Ms. Nguyễn Diệu Linh  Phó Chủ tịch HĐQT                  None   0103001016  0101245486 Ernst & Young Công ty cổ phần Số 07 đường Bằng Lăng 1 - Khu đô thị Vinhomes Riverside - P. Phúc Lợi - Tp. Hà Nội (84.24) 3974 9999 - 3974 9999 (84.24) 3974 8888 info@vingroup.net https://www.vingroup.net/          \n- Ngày 03/05/2002: Tiền thân là Công ty Cổ phần Thương mại Tổng hợp Việt Nam (được thành lập với vốn điều lệ ban đầu là 196 tỷ VNĐ).\n- Tháng 12/2006: Tăng vốn điều lệ lên 313.5 tỷ đồng.\n- Ngày 22/06/2007: Tăng vốn điều lệ lên 800 tỷ đồng.\n- Ngày 07/09/2007: Niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).\n- Ngày 19/09/2007: Giao dịch trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).\n- Tháng 03/2008 : Tăng vốn điều lệ lên 1,199.83 tỷ đồng.\n- Tháng 10/2009: Tăng vốn điều lệ lên 1,996.27 tỷ đồng.\n- Tháng 06/2010: Tăng vốn điều lệ lên 3,196.33 tỷ đồng.\n- Tháng 06/2011: Tăng vốn điều lệ lên 3,911.49 tỷ đồng.\n- Tháng 06/2012: Tăng vốn điều lệ lên 7,004.62 tỷ đồng.\n- Năm 2012: Chuyển đổi thành Tập đoàn Vingroup \n- Công ty Cổ phần trên cơ sở sáp nhập Công ty Cổ phần Vinpearl vào Công ty Cổ phần Vincom.\n- Tháng 03/2013: Tăng vốn điều lệ lên 9,281.1 tỷ đồng.\n- Tháng 07/2013: Tăng vốn điều lệ lên 9,286 tỷ đồng.\n- Tháng 11/2013: Phát hành thành công 200 triệu USD trái phiếu quốc tế.\n- Tháng 12/2013: Phát hành thêm cổ phần để sáp nhập CTCP Đầu tư và Thương mại PFV.\n- Tháng 05/2014: Tăng vốn điều lệ lên 14,545.55 tỷ đồng.\n- Tháng 07/2015: Tăng vốn điều lệ lên 18,427.03 tỷ đồng.\n- Tháng 11/2015: Tăng vốn điều lệ lên 18,620.52 tỷ đồng.\n- Tháng 12/2015: Tăng vốn điều lệ lên 18,639.4 tỷ đồng.\n- Tháng 03/2016: Tăng vốn điều lệ lên 19,398.54 tỷ đồng.\n- Tháng 08/2016: Tăng vốn điều lệ lên 21,532.34 tỷ đồng.\n- Tháng 11/2016: Tăng vốn điều lệ lên 26,377.08 tỷ đồng.\n- Ngày 18/07/2018: Tăng vốn điều lệ lên 31,916.21 tỷ đồng.\n- Ngày 29/08/2018: Tăng vốn điều lệ lên 32,756.21 tỷ đồng.\n- Ngày 10/06/2019: Tăng vốn điều lệ lên 34,299.35 tỷ đồng.\n- Ngày 18/12/2019: Tăng vốn điều lệ lên 34,309.14 tỷ đồng.\n- Ngày 31/01/2020: Tăng vốn điều lệ lên 34,447.69 tỷ đồng.\n- Ngày 10/09/2021: Tăng vốn điều lệ lên 38,675.53 tỷ đồng.\n- Tháng 08/2022: Tăng vốn điều lệ lên 38,688.57 tỷ đồng.\n- Tháng 01/2024: Tăng vốn điều lệ lên 38,785.83 tỷ đồng.\n- Tháng 08/2025: Tăng vốn điều lệ lên 38,804.76 tỷ đồng.\n- Tháng 12/2025: Tăng vốn điều lệ lên 77,334.91 tỷ đồng.         77334918960000       10000          7733491896 2024-12-31T00:00:00
+
+  >> Cổ đông lớn
+                                                name         update_date  shares_owned  ownership_percentage
+                       CTCP Tập đoàn Đầu tư Việt Nam 2023-12-31T00:00:00    1260132658                 32.49
+CTCP Đầu tư và Phát triển Đường sắt Cao tốc Vinspeed 2025-12-24T00:00:00     455103183                 11.73
+                                     Phạm Nhật Vượng 2025-12-24T00:00:00     703848781                  9.10
+                      CTCP Quản lý và Đầu tư BĐS VMI 2023-12-31T00:00:00     243462578                  6.28
+
+  >> Ban lãnh đạo
+ from_date       position                         name                       position_en owner_code
+      2001         CTHĐQT          Ông Phạm Nhật Vượng          CTHĐQT (Chairman of BOD)     CTHĐQT
+      2017 TGĐ/Phó CTHĐQT        Ông Nguyễn Việt Quang                         TGĐ (CEO)        TGĐ
+      2008     Phó CTHĐQT          Bà Nguyễn Diệu Linh Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      2001     Phó CTHĐQT            Bà Phạm Thu Hương Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+      2001     Phó CTHĐQT            Bà Phạm Thúy Hằng Phó CTHĐQT (Vice Chairman of BOD) Phó CTHĐQT
+TV Độc lập         TVHĐQT               Ông Adil Ahmad            TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập         TVHĐQT      Ông Chin Michael Jaewuk            TVHĐQT (Member of BOD)     TVHĐQT
+TV Độc lập         TVHĐQT Ông Ronaldo Dy-Liacco Ibasco            TVHĐQT (Member of BOD)     TVHĐQT
+
+  >> Công ty con
+        update_date                                                       name  charter_capital  ownership_percent currency        type
+2024-12-31T00:00:00                Công ty TNHH Giáo dục và Đào tạo VinAcademy               -1              100.0          công ty con
+2024-12-31T00:00:00                             Công ty TNHH Metropolis Hà Nội               -1              100.0          công ty con
+2024-12-31T00:00:00                         Công ty TNHH Dịch vụ Bảo vệ Vincom               -1              100.0          công ty con
+2024-12-31T00:00:00                        CTCP Đầu tư và phát triển Sinh Thái               -1              100.0          công ty con
+2024-12-31T00:00:00 Công ty TNHH Thương mại Đầu tư và Phát triển Thiên Niên Kỷ               -1              100.0          công ty con
+2024-12-31T00:00:00                              CTCP Đầu tư Xây dựng Thái Sơn               -1              100.0          công ty con
+2024-12-31T00:00:00          Công ty TNHH Đầu tư và Phát triển Du lịch Phúc An               -1              100.0          công ty con
+2024-12-31T00:00:00                      CTCP Bệnh viện Đa khoa Quốc tế Vinmec               -1              100.0          công ty con
+
+  >> Công ty liên kết
+  (Không có dữ liệu)
+
+  >> Kết quả kinh doanh
+                                              item                    item_id      2025-Q4       2025-Q3      2025-Q2      2025-Q1
+        1. Doanh thu bán hàng và cung cấp dịch vụ                 n_1.revenue 1.631727e+11  3.914302e+10 4.632527e+10 8.405760e+10
+                   2. Các khoản giảm trừ doanh thu n_2.deduction_from_revenue 1.327200e+07  7.920000e+06 1.299900e+07 4.249000e+06
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ            n_3.net_revenue 1.631594e+11  3.913510e+10 4.631227e+10 8.405335e+10
+                              4. Giá vốn hàng bán      n_4.cost_of_goods_sold 1.261517e+11  4.642508e+10 4.339464e+10 6.484813e+10
+  5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ           n_5.gross_profit 3.700768e+10 -7.289975e+09 2.917635e+09 1.920522e+10
+                  6.Doanh thu hoạt động tài chính        n_6.financial_income 1.060490e+10  3.350520e+10 2.537077e+09 3.881715e+09
+                             7. Chi phí tài chính      n_7.financial_expenses 1.651784e+10  1.178744e+10 1.123098e+10 7.903431e+09
+                         Trong đó :Chi phí lãi vay of_which_interest_expenses 8.221721e+09  9.027158e+09 7.733613e+09 6.102357e+09
+
+  >> Bảng cân đối kế toán
+                                           item                                                                item_id      2025-Q4      2025-Q3      2025-Q2      2025-Q1
+                                       TÀI SẢN                                                                  assets          NaN          NaN          NaN          NaN
+                            A. TÀI SẢN NGẮN HẠN                                                    a.short_term_assets 6.609248e+11 5.906419e+11 5.284755e+11 3.721839e+11
+          I. Tiền và các khoản tương đương tiền                                            i.cash_and_cash_equivalents 7.352650e+10 7.215072e+10 7.476002e+10 3.249194e+10
+                                        1. Tiền                                                               n_1.cash 3.597365e+10 5.245198e+10 4.708552e+10 3.077660e+10
+                  2. Các khoản tương đương tiền                                                   n_2.cash_equivalents 3.755284e+10 1.969874e+10 2.767450e+10 1.715343e+09
+                 II.  Đầu tư tài chính ngắn hạn                                    ii.short_term_financial_investments 8.253330e+09 7.918430e+09 9.589777e+09 7.480260e+09
+                      1. Chứng khoán kinh doanh                                      n_1.available_for_sale_securities          NaN          NaN 1.999420e+09 1.500000e+09
+2. Dự phòng giảm giá chứng khoán kinh doanh (*) n_2.provision_for_diminution_in_value_of_available_for_sale_securities          NaN          NaN          NaN          NaN
+
+  >> Lưu chuyển tiền tệ
+                                                                                    item                                                                                         item_id 2025-Q4 2025-Q3 2025-Q2       2025-Q1
+                                              I. Lưu chuyển tiền từ hoạt động kinh doanh                                                          i_cash_flows_from_operating_activities    None    None    None           NaN
+                                                                 1. Lợi nhuận trước thuế                                                                           n_1.profit_before_tax    None    None    None  7.381863e+09
+                                                             2. Điều chỉnh cho các khoản                                                                             n_2_adjustments_for    None    None    None           NaN
+                                                                  Khấu hao TSCĐ và BĐSĐT                                          depreciation_of_fixed_assets_and_properties_investment    None    None    None  7.049131e+09
+                                                                      Các khoản dự phòng                                                               reversal_of_provisions_provisions    None    None    None  4.909756e+09
+Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies    None    None    None  4.086060e+08
+                                                             Lãi, lỗ từ hoạt động đầu tư                                                          loss_profit_from_investment_activities    None    None    None -3.818552e+09
+                                                                         Chi phí lãi vay                                                                                interest_expense    None    None    None  6.102357e+09
+
+  >> Chỉ số tài chính
+                                                               item                   item_id  2025-Q4  2025-Q3  2025-Q2  2025-Q1
+                 Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              trailing_eps  1785.27  2335.45  3536.70  2808.89
+                                Giá trị sổ sách của cổ phiếu (BVPS) book_value_per_share_bvps 19584.00 41723.00 40896.00 41178.00
+                          Chỉ số giá thị trường trên thu nhập (P/E)                       p_e    49.13    74.21    26.70    20.36
+                   Chỉ số giá thị trường trên giá trị sổ sách (P/B)                       p_b     8.66     4.19     2.34     1.41
+                   Chỉ số giá thị trường trên doanh thu thuần (P/S)                       p_s     8.04    17.34     8.01     2.64
+                                                     Tỷ suất cổ tức            dividend_yield     0.00     0.00     0.00     0.00
+                                                               Beta                      beta     1.12     1.18     1.01     0.96
+Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)                   ev_ebit    81.51    72.38    51.67    33.38

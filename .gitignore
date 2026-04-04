@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel outputs (lớn, không cần thiết trong git)
+*.xlsx
+
+# Logs
+*.log

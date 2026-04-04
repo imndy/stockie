@@ -1,0 +1,1 @@
+Truy cập link này để lấy data cập nhật cho từng ticker: "https://1drv.ms/f/c/4e694c5cab60d23f/IgC8BXdwQJBbRLBja1aonAUEAU1R73DqN1Xhx3S8s0AHhOg?e=jAyjeJ"
