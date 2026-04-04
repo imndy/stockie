@@ -34,11 +34,11 @@ from pathlib import Path
 import pandas as pd
 
 # ── Rate limiting ──────────────────────────────────────────────────────────────────────────────
-# Thấp hơn giới hạn thực tế 2 req — tăng lên nếu có API key cao hơn:
+# Thấp hơn giới hạn thực tế 3 req — tăng lên nếu có API key cao hơn:
 #   Guest: 20/phút  → đặt 18
-#   Community (miễn phí sau đăng ký): 60/phút → đặt 57
+#   Community (miễn phí sau đăng ký): 60/phút → đặt 57  ← hiện tại
 #   Sponsor: 180-600/phút → đặt tương ứng
-API_CALLS_PER_MIN = 18  # ← điều chỉnh theo gói của bạn
+API_CALLS_PER_MIN = 57  # ← Community 60/min
 
 RATE_LIMIT_RETRY_WAIT = 65  # s — chẹ nếu vẫn bị bắt sau khi throttle
 
