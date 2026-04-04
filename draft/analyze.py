@@ -20,7 +20,8 @@ Nếu ticker chưa có file → tự động run FULL
 
 Sources:
   KBS  → company info + financials
-  VCI  → price history, price board, ratio_summary, trading_stats
+  VCI  → price history, price board, ratio_summary, trading_stats,
+          news (10 items), events (calendar)
 """
 
 import argparse
@@ -31,7 +32,7 @@ from pathlib import Path
 
 import pandas as pd
 
-RATE_LIMIT_DELAY_DAILY     = 4   # s giữa mỗi mã — daily  (~5 calls/mã)
+RATE_LIMIT_DELAY_DAILY     = 4   # s giữa mỗi mã — daily  (~7 calls/mã)
 RATE_LIMIT_DELAY_QUARTERLY = 7   # s giữa mỗi mã — quarterly (~9 calls/mã)
 RATE_LIMIT_RETRY_WAIT      = 65  # s chờ khi bị rate limit
 
@@ -108,8 +109,65 @@ def fetch_ratio_summary(stock_vci) -> pd.DataFrame:
     return safe_call(stock_vci.company.ratio_summary)
 
 
-def fetch_news(stock_kbs) -> pd.DataFrame:
-    return safe_call(stock_kbs.company.news)
+def fetch_news(stock_vci) -> pd.DataFrame:
+    """Top 10 tin tức gần nhất — VCI source (trả về 10 bản ghi)."""
+    return safe_call(stock_vci.company.news)
+
+
+def fetch_events(stock_vci) -> pd.DataFrame:
+    """Lịch sự kiện sắp tới (±90 ngày) — VCI source."""
+    from datetime import timedelta
+    ev = safe_call(stock_vci.company.events)
+    if ev.empty:
+        return ev
+    cutoff_past   = (date.today() - timedelta(days=90)).strftime("%Y-%m-%d")
+    cutoff_future = (date.today() + timedelta(days=180)).strftime("%Y-%m-%d")
+    mask = (ev["public_date"] >= cutoff_past) & (ev["public_date"] <= cutoff_future)
+    ev = ev[mask].sort_values("public_date", ascending=False)
+    keep = [c for c in ["event_title", "event_list_name", "public_date",
+                        "record_date", "exright_date", "ratio", "value"] if c in ev.columns]
+    return ev[keep].head(15)
+
+
+def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
+    """Tính EMA20, EMA50, RSI(14) từ lịch sử giá; trả về 1-row summary DataFrame."""
+    if hist.empty or "close" not in hist.columns or len(hist) < 5:
+        return pd.DataFrame()
+    close = hist["close"].astype(float)
+    ema20 = close.ewm(span=20, adjust=False).mean()
+    ema50 = close.ewm(span=50, adjust=False).mean()
+    # RSI(14) — Wilder smoothing (com = span-1)
+    delta    = close.diff()
+    gain     = delta.clip(lower=0)
+    loss     = (-delta).clip(lower=0)
+    avg_gain = gain.ewm(com=13, adjust=False).mean()
+    avg_loss = loss.ewm(com=13, adjust=False).mean()
+    rs       = avg_gain / avg_loss.replace(0, float("nan"))
+    rsi      = 100 - 100 / (1 + rs)
+
+    last_close = round(float(close.iloc[-1]), 2)
+    e20        = round(float(ema20.iloc[-1]), 2)
+    e50        = round(float(ema50.iloc[-1]), 2)
+    rsi_val    = round(float(rsi.iloc[-1]), 1)
+
+    signal = "TRUNG TÍNH"
+    if last_close > e20 > e50:
+        signal = "TĂNG (giá > EMA20 > EMA50)"
+    elif last_close < e20 < e50:
+        signal = "GIẢM (giá < EMA20 < EMA50)"
+    elif last_close > e20 and e20 < e50:
+        signal = "Vừa vượt EMA20 (chú ý)"
+
+    return pd.DataFrame([{
+        "Giá đóng cửa": last_close,
+        "EMA20":        e20,
+        "EMA50":        e50,
+        "RSI(14)":      rsi_val,
+        "RSI nhận xét": "Quá mua" if rsi_val > 70 else ("Quá bán" if rsi_val < 30 else "Bình thường"),
+        "Tín hiệu EMA": signal,
+        "Giá vs EMA20": "Trên" if last_close > e20 else "Dưới",
+        "Giá vs EMA50": "Trên" if last_close > e50 else "Dưới",
+    }])
 
 
 def fetch_price_history(stock_vci, ticker: str) -> pd.DataFrame:
@@ -274,6 +332,7 @@ def write_markdown_summary(
     price_board: pd.DataFrame,
     path: Path,
     mode: str,
+    industry_map: dict | None = None,
 ) -> None:
     today_str = datetime.now().strftime("%d/%m/%Y %H:%M")
     lines: list[str] = [
@@ -341,6 +400,35 @@ def write_markdown_summary(
     if not price_board.empty:
         lines += ["", "---", "", "## Bảng giá", "", _df_to_md(price_board, max_rows=100)]
 
+    # ── Sector comparison ──────────────────────────────────────────────────
+    if industry_map:
+        sector_rows = []
+        for ticker, frames in detail_map.items():
+            rs = frames.get("Tóm tắt chỉ số", pd.DataFrame())
+            if rs.empty:
+                continue
+            r = rs.iloc[0]
+            def _g(keys):
+                for k in keys:
+                    m = [c for c in rs.columns if k.lower() in c.lower()]
+                    if m: return r[m[0]]
+                return "—"
+            sector_rows.append({
+                "Mã":       ticker,
+                "Ngành":    industry_map.get(ticker, "—"),
+                "P/E":      _g(["pe"]),
+                "P/B":      _g(["pb"]),
+                "ROE":      _g(["roe"]),
+                "ROA":      _g(["roa"]),
+                "EPS":      _g(["eps"]),
+                "Biên LN":  _g(["net_profit_margin"]),
+                "Tăng DT":  _g(["revenue_growth"]),
+                "Tăng LN":  _g(["net_profit_growth"]),
+            })
+        if sector_rows:
+            df_sector = pd.DataFrame(sector_rows).sort_values(["Ngành", "P/E"])
+            lines += ["", "---", "", "## So sánh nội ngành (P/E, P/B, ROE)", "", _df_to_md(df_sector, max_rows=50)]
+
     lines += ["", "---", "", "## Chi tiết từng mã", ""]
     for ticker in detail_map:
         lines.append(f"- [{ticker}](per_ticker/{ticker}.md)")
@@ -358,26 +446,65 @@ END_QUARTERLY   = "<!-- END:QUARTERLY -->"
 
 def _build_daily_block(frames: dict) -> str:
     """Trả về nội dung block DAILY (không bao gồm sentinel)."""
-    ts_kv = frames.get("Thống kê giao dịch", pd.DataFrame())
-    rs_kv = frames.get("Tóm tắt chỉ số",     pd.DataFrame())
-    news  = frames.get("Tin tức",            pd.DataFrame())
-    hist  = frames.get("Lịch sử giá",        pd.DataFrame())
-    intra = frames.get("Giao dịch trong ngày", pd.DataFrame())
+    ts_kv  = frames.get("Thống kê giao dịch",   pd.DataFrame())
+    rs_kv  = frames.get("Tóm tắt chỉ số",       pd.DataFrame())
+    tech   = frames.get("Chỉ báo kỹ thuật",      pd.DataFrame())
+    news   = frames.get("Tin tức",               pd.DataFrame())
+    hist   = frames.get("Lịch sử giá",           pd.DataFrame())
+    intra  = frames.get("Giao dịch trong ngày",  pd.DataFrame())
+    events = frames.get("Sự kiện",               pd.DataFrame())
 
     hist_tail = hist.tail(20) if not hist.empty else pd.DataFrame()
+
+    # ── Dòng tiền khối ngoại từ trading_stats ──────────────────────────────
+    foreign_lines: list[str] = []
+    if not ts_kv.empty:
+        row = ts_kv.iloc[0]
+        fv  = row.get("foreign_volume",        row.get("foreignVolume",        "—"))
+        fr  = row.get("foreign_room",          row.get("foreignRoom",          "—"))
+        hr  = row.get("current_holding_ratio", row.get("currentHoldingRatio",  "—"))
+        mr  = row.get("max_holding_ratio",     row.get("maxHoldingRatio",      "—"))
+        foreign_lines = [
+            "| Chỉ tiêu | Giá trị |",
+            "| --- | --- |",
+            f"| KL khớp NN hôm nay | {fv} |",
+            f"| Room NN còn lại | {fr} |",
+            f"| Tỷ lệ sở hữu NN hiện tại | {hr} |",
+            f"| Tỷ lệ sở hữu NN tối đa | {mr} |",
+        ]
+
+    # ── News: dùng news_title (VCI) hoặc title (KBS) ──────────────────────
+    title_col = next((c for c in news.columns if "title" in c.lower()), None) if not news.empty else None
+    date_col  = next((c for c in news.columns if "date" in c.lower() or "time" in c.lower()), None) if not news.empty else None
+    if title_col and not news.empty:
+        news_display = news[[c for c in [title_col, date_col, "news_source_link", "url"] if c and c in news.columns]].head(10)
+    else:
+        news_display = news
 
     lines = [
         "## Thống kê giao dịch",
         "",
         _df_to_md_kv(ts_kv),
         "",
+        "## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)",
+        "",
+        _df_to_md_kv(tech) if not tech.empty else "_Không đủ dữ liệu lịch sử giá_",
+        "",
+        "## Dòng tiền khối ngoại (snapshot hôm nay)",
+        "",
+        ("\n".join(foreign_lines)) if foreign_lines else "_Không có dữ liệu_",
+        "",
         "## Tóm tắt chỉ số tài chính",
         "",
         _df_to_md_kv(rs_kv),
         "",
-        "## Tin tức gần nhất",
+        "## Tin tức gần nhất (Top 10)",
         "",
-        _df_to_md(news, max_rows=10),
+        _df_to_md(news_display, max_rows=10),
+        "",
+        "## Lịch sự kiện (±90 ngày)",
+        "",
+        _df_to_md(events, max_rows=15),
         "",
         "## Lịch sử giá (20 phiên gần nhất)",
         "",
@@ -577,6 +704,16 @@ def run_pipeline(mode: str) -> None:
     detail_map: dict                    = {}
     all_sheets: dict[str, pd.DataFrame] = {}
 
+    # ── Industry map (once per run) ────────────────────────────────────────
+    industry_map: dict[str, str] = {}
+    try:
+        from vnstock.api.listing import Listing
+        sym_ind = Listing().symbols_by_industries()
+        industry_map = dict(zip(sym_ind["symbol"], sym_ind["industry_name"]))
+        print(f"  Industry map loaded: {len(industry_map)} symbols")
+    except Exception as exc:
+        print(f"  [WARN] industry_map: {exc}")
+
     # ── Price board — daily + full ──
     price_board = pd.DataFrame()
     if mode in ("daily", "full"):
@@ -609,15 +746,19 @@ def run_pipeline(mode: str) -> None:
         if effective_mode in ("daily", "full"):
             frames["Thống kê giao dịch"]   = fetch_trading_stats(vci)
             frames["Tóm tắt chỉ số"]       = fetch_ratio_summary(vci)
-            frames["Tin tức"]              = fetch_news(kbs)
+            frames["Tin tức"]              = fetch_news(vci)
             frames["Lịch sử giá"]          = fetch_price_history(vci, ticker)
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
+            frames["Sự kiện"]              = fetch_events(vci)
+            frames["Chỉ báo kỹ thuật"]     = compute_technicals(frames["Lịch sử giá"])
 
             all_sheets[f"{ticker}_TradingStats"] = frames["Thống kê giao dịch"]
             all_sheets[f"{ticker}_RatioSum"]     = frames["Tóm tắt chỉ số"]
             all_sheets[f"{ticker}_TinTuc"]       = frames["Tin tức"]
             all_sheets[f"{ticker}_LichSuGia"]    = frames["Lịch sử giá"]
             all_sheets[f"{ticker}_IntraDay"]     = frames["Giao dịch trong ngày"]
+            all_sheets[f"{ticker}_SuKien"]       = frames["Sự kiện"]
+            all_sheets[f"{ticker}_KyThuat"]      = frames["Chỉ báo kỹ thuật"]
 
         # ── Quarterly data ──
         if effective_mode in ("quarterly", "full"):
@@ -655,7 +796,7 @@ def run_pipeline(mode: str) -> None:
     if mode in ("quarterly", "full"):
         txt_path = xlsx_path.with_suffix(".txt")
         write_txt(detail_map, txt_path)
-    write_markdown_summary(detail_map, price_board, summary_md, mode)
+    write_markdown_summary(detail_map, price_board, summary_md, mode, industry_map)
     print(f"\nHoàn tất! → {subdir}\nPer-ticker MD → {PER_TICKER_DIR}")
     git_push(mode)
 
