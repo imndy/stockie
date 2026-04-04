@@ -1,6 +1,6 @@
 # VNM — VNM
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:11  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: —
 
 ---
 
@@ -368,7 +368,7 @@
 | current_holding_ratio | 0.4894011809902483 |
 | max_holding_ratio | 1 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -380,6 +380,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -1.319 |
+| MACD Signal | -1.456 |
+| MACD Histogram | 0.137 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -389,6 +393,12 @@
 | Room NN còn lại | 2089955445 |
 | Tỷ lệ sở hữu NN hiện tại | 0.4894011809902483 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | VNM      |              1699673 |     2089955445 |                0.489401 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -456,9 +466,25 @@
 | VNM: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                                                    | 1770134662000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2436910                                    |
 | VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty TNHH MTV Đầu tư SCIC (SIC) | 1770052935000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-t… |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2025 bằng tiền 2500 đồng/cổ phiếu | 2025-10-07    | 2025-10-17    | 2025-10-16     |    0.25 |    2500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2024 bằng tiền 2000 đồng/cổ phiếu | 2025-05-08    | 2025-05-15    | 2025-05-14     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2024 bằng tiền 500 đồng/cổ phiếu  | 2024-12-12    | 2024-12-27    | 2024-12-26     |    0.05 |     500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1500 đồng/cổ phiếu | 2024-08-30    | 2024-09-25    | 2024-09-24     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2023 bằng tiền 900 đồng/cổ phiếu  | 2024-03-08    | 2024-03-18    | 2024-03-15     |    0.09 |     900 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2023 bằng tiền 500 đồng/cổ phiếu  | 2023-12-14    | 2023-12-28    | 2023-12-27     |    0.05 |     500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1500 đồng/cổ phiếu | 2023-07-26    | 2023-08-04    | 2023-08-03     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1400 đồng/cổ phiếu | 2022-12-12    | 2022-12-23    | 2022-12-22     |    0.14 |    1400 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1500 đồng/cổ phiếu | 2022-06-24    | 2022-07-07    | 2022-07-06     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2, 2021 bằng tiền 1400 VND/CP           | 2021-12-27    | 2022-01-11    | 2022-01-10     |    0.14 |    1400 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3, 2020 bằng tiền 1100 VND/CP           | 2021-05-24    | 2021-06-08    | 2021-06-07     |    0.11 |    1100 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2, 2020 bằng tiền 1000 VND/CP           | 2020-12-17    | 2021-01-06    | 2021-01-05     |    0.1  |    1000 |
+| Niêm yết thêm            | VNM - Niêm yết bổ sung 348.267.652 cổ phiếu                  | 2020-11-03    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1, 2020 bằng tiền 2000 VND/CP           | 2020-08-28    | 2020-09-30    | 2020-09-29     |    0.2  |    2000 |
+| Phát hành cổ phiếu       | VNM- Phát hành cổ phiếu thưởng tỷ lệ 5:1                     | 2020-08-28    | 2020-09-30    | 2020-09-29     |    0.2  |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

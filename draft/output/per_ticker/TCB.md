@@ -1,6 +1,6 @@
 # TCB — TCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:13  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:45  |  🗂 Quarterly: —
 
 ---
 
@@ -365,7 +365,7 @@ _Không có dữ liệu_
 | current_holding_ratio | 0.22537565248911692 |
 | max_holding_ratio | 0.225386 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -377,6 +377,10 @@ _Không có dữ liệu_
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.771 |
+| MACD Signal | -0.953 |
+| MACD Histogram | 0.182 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -386,6 +390,12 @@ _Không có dữ liệu_
 | Room NN còn lại | 1597139381 |
 | Tỷ lệ sở hữu NN hiện tại | 0.22537565248911692 |
 | Tỷ lệ sở hữu NN tối đa | 0.225386 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | TCB      |              2385932 |     1597139381 |                0.225376 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -453,9 +463,25 @@ _Không có dữ liệu_
 | TCB: Nghị quyết HĐQT về việc tăng vốn góp tại CTCP Bảo hiểm Nhân thọ Kỹ thương - Techcom Life                            | 1773164714000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-tang-von-gop-tai-ctcp-bao-hiem-nhan-tho-ky-thuong--techcom-lif… |
 | TCB: Các Quyết định của HĐQT về việc thay đổi tên phòng GD                                                               | 1773164610000 | https://www.hsx.vn/vi/tin-tuc/tcb-cac-quyet-dinh-cua-hdqt-ve-viec-thay-doi-ten-phong-gd/2443242                           |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                                      | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:---------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 21.388.675 cổ phiếu                                       | 2025-11-07    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Trả cổ tức bằng tiền mặt | TCB - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu                    | 2025-09-24    | 2025-10-01    | 2025-09-30     |  0.1    |    1000 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 19.830.117 cổ phiếu                                       | 2025-02-25    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 3,522,510,811 cổ phiếu                                    | 2024-07-26    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | TCB - Phát hành cổ phiếu thưởng tỷ lệ 100%                                       | 2024-06-13    | 2024-06-21    | 2024-06-20     |  1      |       0 |
+| Trả cổ tức bằng tiền mặt | TCB - Trả cổ tức Cả năm năm 2023 bằng tiền 1500 đồng/cổ phiếu                    | 2024-05-10    | 2024-05-22    | 2024-05-21     |  0.15   |    1500 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 5,272,297 cổ phiếu                                        | 2024-01-03    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 6,323,716 cổ phiếu                                        | 2023-01-03    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 6.008.568 cổ phiếu                                        | 2021-11-09    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 4.766.268 cổ phiếu                                        | 2021-01-06    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB-Niêm yết thêm 3.547.802 cổ phiếu                                             | 2019-11-06    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | TCB - Niêm yết bổ sung 2.331.061.440 cổ phiếu                                    | 2018-07-19    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | TCB-Phát hành cổ phiếu thưởng tỷ lệ 1:2                                          | 2018-06-29    | 2018-07-06    | 2018-07-05     |  2      |       0 |
+| Niêm yết mới             | TCB - Chính thức niêm yết trên sàn HOSE                                          | 2018-05-23    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | TCB-Thực hiện quyền mua cổ phiếu phát hành cho cổ đông hiện hữu tỷ lệ 10.000:978 | 2017-09-27    | 2017-10-10    | 2017-10-09     |  0.0978 |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

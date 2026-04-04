@@ -1,6 +1,6 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:09  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.27511451403528014 |
 | max_holding_ratio | 0.3 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.008 |
+| MACD Signal | -0.061 |
+| MACD Histogram | 0.053 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 1540996979 |
 | Tỷ lệ sở hữu NN hiện tại | 0.27511451403528014 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | ACB      |              3000700 |     1540996979 |                0.275115 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | ACB: Báo cáo tình hình quản trị công ty năm 2025                                               | 1770040570000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436170                                     |
 | ACB: Em gái bà Đặng Thu Thuỷ - Thành viên HĐQT đăng ký bán trên 2,2 triệu cổ phiếu             | 1769800260000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-thu-ha/24357… |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 669.998.687 cổ phiếu                   | 2025-06-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2025-05-16    | 2025-05-26    | 2025-05-23     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-05-16    | 2025-05-26    | 2025-05-23     |    0.1  |    1000 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 582,607,554 cổ phiếu                   | 2024-06-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2024-05-24    | 2024-06-03    | 2024-05-31     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-05-24    | 2024-06-03    | 2024-05-31     |    0.1  |    1000 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 506,615,264 cổ phiếu                   | 2023-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-05-25    | 2023-06-02    | 2023-06-01     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-25    | 2023-06-02    | 2023-06-01     |    0.1  |    1000 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 675,487,019 cổ phiếu                   | 2022-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-05-25    | 2022-06-03    | 2022-06-02     |    0.25 |       0 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 440.690 cổ phiếu                       | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 539.842.824 cổ phiếu                   | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | ACB - Niêm yết bổ sung 106.101 cổ phiếu                       | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2021-06-03    | 2021-06-11    | 2021-06-10     |    0.25 |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # VIC — VIC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:14  |  🗂 Quarterly: 03/04/2026 09:50
+> 📅 Daily: 04/04/2026 21:45  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.033451550246445 |
 | max_holding_ratio | 0.48017596 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
+| MACD | -3.592 |
+| MACD Signal | -4.557 |
+| MACD Histogram | 0.965 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 3713436895 |
 | Tỷ lệ sở hữu NN hiện tại | 0.033451550246445 |
 | Tỷ lệ sở hữu NN tối đa | 0.48017596 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | VIC      |              1244918 |     3713436895 |               0.0334516 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | VIC: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769802721000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435785                                     |
 | VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư và Phát triển Đ… | 1767200065000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name    | event_title                                                                               | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------|:------------------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 3.853.015.512 cổ phiếu                                             | 2025-12-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | VIC - Phát hành cổ phiếu thưởng tỷ lệ 100%                                                | 2025-12-02    | 2025-12-08    | 2025-12-05     |    1    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 29.353.951 cổ phiếu                                                | 2025-09-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 9,726,000 cổ phiếu                                                 | 2024-01-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 8.720.770 cổ phiếu                                                 | 2022-02-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 422.784.201 cổ phiếu                                               | 2021-09-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 13.855.034 cổ phiếu                                                | 2020-02-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 22.640.167 cổ phiếu                                                | 2019-12-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 154.314.159 cổ phiếu                                               | 2019-06-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | VIC - Niêm yết bổ sung 553.913.276 cổ phiếu                                               | 2018-07-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu trả cổ tức tỷ lệ 1000:210                                          | 2018-06-25    | 2018-06-29    | 2018-06-28     |    0.21 |       0 |
+| Niêm yết thêm      | VIC-Niêm yết bổ sung 484.473.162 cổ phiếu                                                 | 2016-10-13    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
+| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu thưởng do tăng vốn cổ phần từ nguồn vốn chủ sở hữu tỷ lệ 1.000:225 | 2016-09-09    | 2016-09-16    | 2016-09-15     |  nan    |     nan |
+| Niêm yết thêm      | VIC-Niêm yết bổ sung 213.379.941 cổ phiếu                                                 | 2016-07-26    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
+| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu trả cổ tức năm 2015 và Q1/2016 tỷ lệ 1.000:110                     | 2016-06-17    | 2016-06-28    | 2016-06-27     |  nan    |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

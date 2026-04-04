@@ -1,6 +1,6 @@
 # MBB — MBB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:09  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.23164850354810848 |
 | max_holding_ratio | 0.232351 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.225 |
+| MACD Signal | -0.287 |
+| MACD Histogram | 0.063 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 1871587283 |
 | Tỷ lệ sở hữu NN hiện tại | 0.23164850354810848 |
 | Tỷ lệ sở hữu NN tối đa | 0.232351 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | MBB      |              1775828 |     1871587283 |                0.231649 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | MBB: CBTT Bà Vũ Thái Huyền từ nhiệm thôi vị trí Thành viên HĐQT                                    | 1774888080000 | https://www.hsx.vn/vi/tin-tuc/mbb-cbtt-ba-vu-thai-huyen-tu-nhiem-thoi-vi-tri-thanh-vien-hdqt/2448139                      |
 | MBB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Bắc Nghệ An                           | 1774637116000 | https://www.hsx.vn/vi/tin-tuc/mbb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-bac-nghe-an/2447665             |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |    ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 1.952.727.250 cổ phiếu                | 2025-10-03    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 32%                | 2025-08-08    | 2025-08-14    | 2025-08-13     | 0.32     |       0 |
+| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2024 bằng tiền 300 đồng/cổ phiếu | 2025-08-08    | 2025-08-14    | 2025-08-13     | 0.03     |     300 |
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 795.948.607 cổ phiếu                  | 2025-02-26    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2024-12-31    | 2025-01-08    | 2025-01-07     | 0.15     |       0 |
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 19.240.000 cổ phiếu                   | 2024-12-20    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu | 2024-05-17    | 2024-05-24    | 2024-05-23     | 0.05     |     500 |
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 73,000,000 cổ phiếu                   | 2024-05-17    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 680,097,919 cổ phiếu                  | 2023-08-17    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2023-07-12    | 2023-07-17    | 2023-07-14     | 0.15     |       0 |
+| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu | 2023-06-09    | 2023-06-15    | 2023-06-14     | 0.05     |     500 |
+| Niêm yết thêm            | MBB - Niêm yết bổ sung 755,664,356 cổ phiếu                  | 2022-09-27    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2022-08-16    | 2022-08-23    | 2022-08-22     | 0.2      |       0 |
+| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:35             | 2021-07-06    | 2021-07-13    | 2021-07-12     | 0.35     |       0 |
+| Phát hành cổ phiếu       | MBB - Sử dụng cổ phiếu quỹ chia cho CĐHH tỷ lệ 0.9237%       | 2020-12-31    | 2021-01-07    | 2021-01-06     | 0.009237 |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

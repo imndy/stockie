@@ -1,6 +1,6 @@
 # MSN — MSN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:12  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.2530765842694771 |
 | max_holding_ratio | 1 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.258 |
+| MACD Signal | -0.825 |
+| MACD Histogram | 0.567 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 1520491927 |
 | Tỷ lệ sở hữu NN hiện tại | 0.2530765842694771 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | MSN      |              2277642 |     1520491927 |                0.253077 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | Masan (MSN) đặt mục tiêu tăng trưởng hai chữ số, lợi nhuận kịch bản cao lên tới 7.900 tỷ đồng | 1769683740000 | https://www.tinnhanhchungkhoan.vn/masan-msn-dat-muc-tieu-tang-truong-hai-chu-so-loi-nhuan-kich-ban-cao-len-toi-7900-ty-d… |
 | MSN: Báo cáo tình hình quản trị công ty năm 2025                                              | 1769678464000 | https://www.hsx.vn/vi/tin-tuc/msn-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434595                                     |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                 | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 7.563.840 cổ phiếu                   | 2025-08-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 7,508,211 cổ phiếu                   | 2024-07-05    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 7,118,623 cổ phiếu                   | 2023-08-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 7,083,207 cổ phiếu                   | 2022-06-23    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Trả cổ tức bằng tiền mặt | MSN - Trả cổ tức Đợt 1 năm 2022 bằng tiền 800 đồng/cổ phiếu | 2022-06-22    | 2022-07-05    | 2022-07-04     |   0.08  |     800 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 236,106,884 cổ phiếu                 | 2022-05-09    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | MSN - Phát hành cổ phiếu thưởng tỷ lệ 20%                   | 2022-04-04    | 2022-04-13    | 2022-04-12     |   0.2   |       0 |
+| Trả cổ tức bằng tiền mặt | MSN - Trả cổ tức Đợt 2, 2021 bằng tiền 250 VND/CP           | 2021-12-07    | 2021-12-16    | 2021-12-15     |   0.025 |     250 |
+| Trả cổ tức bằng tiền mặt | MSN - Trả cổ tức Đợt 1, 2021 bằng tiền 950 VND/CP           | 2021-06-22    | 2021-07-02    | 2021-07-01     |   0.095 |     950 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 5.851.446 cổ phiếu                   | 2021-06-18    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Trả cổ tức bằng tiền mặt | MSN - Trả cổ tức Cả năm, 2019 bằng tiền 1000 VND/CP         | 2020-12-10    | 2020-12-18    | 2020-12-17     |   0.1   |    1000 |
+| Niêm yết thêm            | MSN- Niêm yết bổ sung 5.736.799 cổ phiếu                    | 2020-09-03    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN - Niêm yết bổ sung 5.796.899 cổ phiếu                   | 2019-07-16    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN - Niêm yết thêm 5.775.574 cổ phiếu                      | 2018-06-25    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | MSN-Niêm yết bổ sung bổ sung 9.877.600 cổ phiếu             | 2017-08-25    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

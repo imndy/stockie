@@ -1,6 +1,6 @@
 # MWG — MWG
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:13  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:45  |  🗂 Quarterly: —
 
 ---
 
@@ -344,7 +344,7 @@
 | current_holding_ratio | 0.48803709932443945 |
 | max_holding_ratio | 0.49 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -356,6 +356,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -1.583 |
+| MACD Signal | -1.95 |
+| MACD Histogram | 0.367 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -365,6 +369,12 @@
 | Room NN còn lại | 720149656 |
 | Tỷ lệ sở hữu NN hiện tại | 0.48803709932443945 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | MWG      |              3750051 |      720149656 |                0.488037 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -432,9 +442,25 @@
 | MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan    | 1773324180000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan/2443776       |
 | Thế Giới Di Động (MWG): Tự tin đặt mục tiêu lãi ròng năm 2026 tăng 30%            | 1772633100000 | https://tapchicongthuong.vn/the-gioi-di-dong--mwg-tu-tin-dat-muc-tieu-lai-rong-nam-2026-tang-30-468920.htm                |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | MWG - Giảm niêm yết 10.000.000 cổ phiếu                       | 2025-12-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-07-01    | 2025-07-25    | 2025-07-24     |    0.1  |    1000 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 17.449.000 cổ phiếu                    | 2025-05-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu  | 2024-06-19    | 2024-07-01    | 2024-06-28     |    0.05 |     500 |
+| Niêm yết thêm            | MWG - Giảm niêm yết 1,132,539 cổ phiếu                        | 2024-05-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu  | 2023-07-07    | 2023-07-28    | 2023-07-27     |    0.05 |     500 |
+| Niêm yết thêm            | MWG - Giảm niêm yết 502,564 cổ phiếu                          | 2023-05-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | MWG - Giảm niêm yết 232,000 cổ phiếu                          | 2022-08-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 731,854,815 cổ phiếu                   | 2022-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | MWG - Phát hành cổ phiếu trả cổ tức tỷ lệ 100%                | 2022-06-06    | 2022-06-17    | 2022-06-16     |    1    |       0 |
+| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-05-31    | 2022-06-08    | 2022-06-07     |    0.1  |    1000 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 237.634.298 cổ phiếu                   | 2021-09-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.742 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.742 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.744 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

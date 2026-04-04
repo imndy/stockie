@@ -1,6 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:12  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: —
 
 ---
 
@@ -354,7 +354,7 @@
 | current_holding_ratio | 0.3286592753843851 |
 | max_holding_ratio | 0.49 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -366,6 +366,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -3.831 |
+| MACD Signal | -4.389 |
+| MACD Histogram | 0.558 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -375,6 +379,12 @@
 | Room NN còn lại | 834718489 |
 | Tỷ lệ sở hữu NN hiện tại | 0.3286592753843851 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | FPT      |              2335722 |      834718489 |                0.328659 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -442,9 +452,25 @@
 | FPT: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                         | 1770313531000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2437387                          |
 | FPT: Báo cáo tình hình quản trị công ty năm 2025                                                    | 1770023067000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435904                                     |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu | 2025-11-19    | 2025-12-02    | 2025-12-01     |    0.1  |    1000 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 222.176.999 cổ phiếu                  | 2025-09-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | FPT - Phát hành cổ phiếu thưởng tỷ lệ 15%                    | 2025-07-16    | 2025-07-22    | 2025-07-21     |    0.15 |       0 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 10.260.939 cổ phiếu                   | 2025-06-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 2 năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-06-06    | 2025-06-13    | 2025-06-12     |    0.1  |    1000 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 10.621.117 cổ phiếu                   | 2025-01-03    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2024-11-26    | 2024-12-03    | 2024-12-02     |    0.1  |    1000 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 190,479,191 cổ phiếu                  | 2024-07-25    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | FPT - Phát hành cổ phiếu thưởng tỷ lệ 15%                    | 2024-06-07    | 2024-06-13    | 2024-06-12     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 2 năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-06-07    | 2024-06-13    | 2024-06-12     |    0.1  |    1000 |
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2023-08-16    | 2023-08-25    | 2023-08-24     |    0.1  |    1000 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 165,637,253 cổ phiếu                  | 2023-08-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | FPT - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2023-06-27    | 2023-07-06    | 2023-07-05     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | FPT - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-06-27    | 2023-07-06    | 2023-07-05     |    0.1  |    1000 |
+| Niêm yết thêm            | FPT - Niêm yết bổ sung 7,305,050 cổ phiếu                    | 2023-06-01    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

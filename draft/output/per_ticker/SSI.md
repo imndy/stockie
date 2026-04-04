@@ -1,6 +1,6 @@
 # SSI — SSI
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:14  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:45  |  🗂 Quarterly: —
 
 ---
 
@@ -360,7 +360,7 @@
 | current_holding_ratio | 0.31681054398847386 |
 | max_holding_ratio | 1 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -372,6 +372,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.948 |
+| MACD Signal | -1.072 |
+| MACD Histogram | 0.124 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -381,6 +385,12 @@
 | Room NN còn lại | 2493089220 |
 | Tỷ lệ sở hữu NN hiện tại | 0.31681054398847386 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | SSI      |              3399876 |     2493089220 |                0.316811 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -448,11 +458,25 @@
 | SSI: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                 | 1770733260000 | https://www.hsx.vn/vi/tin-tuc/ssi-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet/2438155           |
 | SSI: Quyết định về việc thay đổi đăng ký niêm yết                                                          | 1770406200000 | https://www.hsx.vn/vi/tin-tuc/ssi-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2437705                                    |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_title                                 | event_list_name   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:--------------------------------------------|:------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| SSI - Niêm yết bổ sung 415.182.958 cổ phiếu | Niêm yết thêm     | 2026-02-10    | 1753-01-01    | 1753-01-01     |       0 |       0 |
+| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 415.182.958 cổ phiếu                                  | 2026-02-10    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Phát hành cổ phiếu       | SSI - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 5 : 1 giá 15.000 đồng/cp | 2025-11-28    | 2025-12-09    | 2025-12-08     |     0.2 |       0 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 104.042.344 cổ phiếu                                  | 2025-09-19    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Trả cổ tức bằng tiền mặt | SSI - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu                | 2025-09-17    | 2025-09-26    | 2025-09-25     |     0.1 |    1000 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 10.000.000 cổ phiếu                                   | 2025-07-10    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 150.913.867 cổ phiếu                                  | 2025-01-02    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 301.819.914 cổ phiếu                                  | 2024-10-30    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Trả cổ tức bằng tiền mặt | SSI - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu                | 2024-09-13    | 2024-09-24    | 2024-09-23     |     0.1 |    1000 |
+| Phát hành cổ phiếu       | SSI - Phát hành cổ phiếu thưởng tỷ lệ 20%                                    | 2024-09-13    | 2024-09-24    | 2024-09-23     |     0.2 |       0 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 10,000,000 cổ phiếu                                   | 2024-05-21    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Trả cổ tức bằng tiền mặt | SSI - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu                | 2023-06-09    | 2023-06-21    | 2023-06-20     |     0.1 |    1000 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 10,000,000 cổ phiếu                                   | 2023-04-07    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Niêm yết thêm            | SSI - Niêm yết bổ sung 496,380,115 cổ phiếu                                  | 2022-08-26    | 1753-01-01    | 1753-01-01     |     0   |       0 |
+| Phát hành cổ phiếu       | SSI - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 15.000 đồng/cp | 2022-06-14    | 2022-06-23    | 2022-06-22     |     0.5 |       0 |
+| Trả cổ tức bằng tiền mặt | SSI - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu                | 2022-06-14    | 2022-06-23    | 2022-06-22     |     0.1 |    1000 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

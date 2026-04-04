@@ -1,6 +1,6 @@
 # HPG — HPG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:09  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.22114007137355704 |
 | max_holding_ratio | 0.49 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.079 |
+| MACD Signal | -0.172 |
+| MACD Histogram | 0.093 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 3760978268 |
 | Tỷ lệ sở hữu NN hiện tại | 0.22114007137355704 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | HPG      |             10926613 |     3760978268 |                 0.22114 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | HPG: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 1772124473000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2440351                       |
 | HPG: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026 | 1772124394000 | https://www.hsx.vn/vi/tin-tuc/hpg-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026/2440401       |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | HPG - Niêm yết bổ sung 1.279.215.655 cổ phiếu                | 2025-07-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2025-06-05    | 2025-06-27    | 2025-06-26     |    0.2  |       0 |
+| Niêm yết thêm            | HPG - Niêm yết bổ sung 581,464,500 cổ phiếu                  | 2024-06-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu thưởng tỷ lệ 10%                    | 2024-05-15    | 2024-05-24    | 2024-05-23     |    0.1  |       0 |
+| Niêm yết thêm            | HPG - Niêm yết bổ sung 1,341,862,994 cổ phiếu                | 2022-07-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                | 2022-06-10    | 2022-06-20    | 2022-06-17     |    0.3  |       0 |
+| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu | 2022-06-10    | 2022-06-20    | 2022-06-17     |    0.05 |     500 |
+| Niêm yết thêm            | HPG - Niêm yết bổ sung 1159.640.047 cổ phiếu                 | 2021-06-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm, 2020 bằng tiền 500 VND/CP           | 2021-05-21    | 2021-06-01    | 2021-05-31     |    0.05 |     500 |
+| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 35%                | 2021-05-21    | 2021-06-01    | 2021-05-31     |    0.35 |       0 |
+| Niêm yết thêm            | HPG- Niêm yết bổ sung 552.208.544 cổ phiếu                   | 2020-08-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HPG- Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2020-07-21    | 2020-07-30    | 2020-07-29     |    0.2  |       0 |
+| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP           | 2020-07-21    | 2020-07-30    | 2020-07-29     |    0.05 |     500 |
+| Niêm yết thêm            | HPG - Niêm yết bổ sung 637.166.949 cổ phiếu                  | 2019-06-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HPG-Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                  | 2019-05-29    | 2019-06-05    | 2019-06-04     |    0.3  |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

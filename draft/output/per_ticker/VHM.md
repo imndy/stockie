@@ -1,6 +1,6 @@
 # VHM — VHM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:12  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.08330786750069595 |
 | max_holding_ratio | 0.5 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
+| MACD | 2.73 |
+| MACD Signal | 0.292 |
+| MACD Histogram | 2.438 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 2053706002 |
 | Tỷ lệ sở hữu NN hiện tại | 0.08330786750069595 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | VHM      |              2575523 |     2053706002 |               0.0833079 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,20 @@
 | VHM: Báo cáo tình hình quản trị công ty năm 2025                                                   | 1770021709000 | https://www.hsx.vn/vi/tin-tuc/vhm-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435859                                     |
 | VHM: Nghị quyết HĐQT về việc giao dịch khung với bên liên quan năm 2026                            | 1767197088000 | https://www.hsx.vn/vi/tin-tuc/vhm-nghi-quyet-hdqt-ve-viec-giao-dich-khung-voi-ben-lien-quan-nam-2026/2427736              |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | VHM - Giảm niêm yết 246.955.484 cổ phiếu                      | 2024-12-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | VHM - Trả cổ tức Cả năm năm 2021 bằng tiền 2000 đồng/cổ phiếu | 2022-05-25    | 2022-06-01    | 2022-05-31     |    0.2  |    2000 |
+| Niêm yết thêm            | VHM - Niêm yết bổ sung 1.004.853.570 cổ phiếu                 | 2021-10-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | VHM - Trả cổ tức Cả năm, 2020 bằng tiền 1500 VND/CP           | 2021-09-09    | 2021-09-16    | 2021-09-15     |    0.15 |    1500 |
+| Phát hành cổ phiếu       | VHM - Phát hành cổ phiếu trả cổ tức tỷ lệ 1000:300            | 2021-09-09    | 2021-09-16    | 2021-09-15     |    0.3  |       0 |
+| Trả cổ tức bằng tiền mặt | VHM - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP           | 2019-08-06    | 2019-08-09    | 2019-08-08     |    0.1  |    1000 |
+| Phát hành cổ phiếu       | VHM-Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                   | 2018-10-04    | 2018-10-09    | 2018-10-08     |    0.25 |       0 |
+| Niêm yết mới             | VHM - Chính thức niêm yết trên sàn HOSE                       | 2018-05-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                      | 2014-09-22    | 2014-09-30    | 2014-09-26     |  nan    |     nan |
+| Niêm yết mới             | Niêm yết mới                                                  | 2011-11-09    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

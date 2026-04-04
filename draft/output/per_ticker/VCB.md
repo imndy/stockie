@@ -1,6 +1,6 @@
 # VCB — VCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:11  |  🗂 Quarterly: —
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: —
 
 ---
 
@@ -347,7 +347,7 @@
 | current_holding_ratio | 0.2029829177079776 |
 | max_holding_ratio | 0.3 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -359,6 +359,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -1.395 |
+| MACD Signal | -1.57 |
+| MACD Histogram | 0.176 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -368,6 +372,12 @@
 | Room NN còn lại | 2506702528 |
 | Tỷ lệ sở hữu NN hiện tại | 0.2029829177079776 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | VCB      |              3138413 |     2506702528 |                0.202983 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -435,9 +445,25 @@
 | VCB: Thông báo thay đổi Giấy phép thành lập và hoạt động của VCB                                  | 1771955115000 | https://www.hsx.vn/vi/tin-tuc/vcb-thong-bao-thay-doi-giay-phep-thanh-lap-va-hoat-dong-cua-vcb/2439931                     |
 | VCB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Phùng Nguyễn Hải Yến                     | 1771955059000 | https://www.hsx.vn/vi/tin-tuc/vcb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-phung-nguyen-hai-yen/2439930        |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm năm 2024 bằng tiền 450 đồng/cổ phiếu | 2025-09-30    | 2025-10-06    | 2025-10-03     |   0.045 |     450 |
+| Niêm yết thêm            | VCB - Niêm yết bổ sung 2.766.583.832 cổ phiếu                | 2025-04-25    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | VCB - Phát hành cổ phiếu trả cổ tức tỷ lệ 49,5%              | 2025-03-06    | 2025-03-13    | 2025-03-12     |   0.495 |       0 |
+| Niêm yết thêm            | VCB - Niêm yết bổ sung 856,574,691 cổ phiếu                  | 2023-08-31    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | VCB - Phát hành cổ phiếu trả cổ tức tỷ lệ 18,1%              | 2023-07-13    | 2023-07-26    | 2023-07-25     |   0.181 |       0 |
+| Niêm yết thêm            | VCB - Niêm yết bổ sung 1.023.639.123 cổ phiếu                | 2022-01-28    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | VCB - Phát hành cổ phiếu trả cổ tức tỷ lệ 27.6%              | 2021-12-16    | 2021-12-23    | 2021-12-22     |   0.276 |       0 |
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm, 2020 bằng tiền 1200 VND/CP          | 2021-12-16    | 2021-12-23    | 2021-12-22     |   0.12  |    1200 |
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm, 2019 bằng tiền 800 VND/CP           | 2020-12-15    | 2020-12-22    | 2020-12-21     |   0.08  |     800 |
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm, 2018 bằng tiền 800 VND/CP           | 2019-12-24    | 2019-12-31    | 2019-12-30     |   0.08  |     800 |
+| Niêm yết thêm            | VCB - Niêm yết bổ sung 111.108.873 cổ phiếu                  | 2019-01-28    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm, 2017 bằng tiền 800 VND/CP           | 2018-09-14    | 2018-10-08    | 2018-10-05     |   0.08  |     800 |
+| Trả cổ tức bằng tiền mặt | VCB - Trả cổ tức Cả năm, 2016 bằng tiền 800 VND/CP           | 2017-09-15    | 2017-09-29    | 2017-09-28     |   0.08  |     800 |
+| Niêm yết thêm            | VCB-Niêm yết bổ sung 719.276.804                             | 2016-11-22    | 1753-01-01    | 1753-01-01     | nan     |     nan |
+| Niêm yết thêm            | VCB-Niêm yết bổ sung 213.471.437 cổ phiếu                    | 2016-11-22    | 1753-01-01    | 1753-01-01     | nan     |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 

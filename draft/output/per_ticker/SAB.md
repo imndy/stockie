@@ -1,6 +1,6 @@
 # SAB — SAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 04/04/2026 21:11  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 04/04/2026 21:44  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -34,7 +34,7 @@
 | current_holding_ratio | 0.5842006855632281 |
 | max_holding_ratio | 1 |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
@@ -46,6 +46,10 @@
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
+| MACD | -0.725 |
+| MACD Signal | -0.921 |
+| MACD Histogram | 0.195 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
@@ -55,6 +59,12 @@
 | Room NN còn lại | 1282562372 |
 | Tỷ lệ sở hữu NN hiện tại | 0.5842006855632281 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
+
+## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
+
+| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
+|:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-04 | SAB      |               322428 |     1282562372 |                0.584201 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -122,9 +132,25 @@
 | SAB: Thông báo về ngày đăng ký cuối cùng tạm ứng cổ tức bằng tiền năm 2025                      | 1763385644000 | https://www.hsx.vn/vi/tin-tuc/sab-thong-bao-ve-ngay-dang-ky-cuoi-cung-tam-ung-co-tuc-bang-tien-nam-2025/2418292           |
 | SAB: Nghị quyết HĐQT thông qua việc cho SATRACO thuê lại phần đất nội bộ tại Nhà máy Bia Củ Chi | 1763141715000 | https://www.hsx.vn/vi/tin-tuc/sab-nghi-quyet-hdqt-thong-qua-viec-cho-satraco-thue-lai-phan-dat-noi-bo-tai-nha-may-bia-cu… |
 
-## Lịch sự kiện (±90 ngày)
+## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1 năm 2025 bằng tiền 2000 đồng/cổ phiếu | 2025-11-17    | 2026-01-13    | 2026-01-12     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 2 năm 2024 bằng tiền 3000 đồng/cổ phiếu | 2025-05-08    | 2025-07-01    | 2025-06-30     |    0.3  |    3000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1 năm 2024 bằng tiền 2000 đồng/cổ phiếu | 2024-11-06    | 2024-12-27    | 2024-12-26     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 2 năm 2023 bằng tiền 2000 đồng/cổ phiếu | 2024-06-20    | 2024-07-08    | 2024-07-05     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1500 đồng/cổ phiếu | 2023-12-08    | 2024-01-05    | 2024-01-04     |    0.15 |    1500 |
+| Niêm yết thêm            | SAB - Niêm yết bổ sung 641,281,186 cổ phiếu                  | 2023-10-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | SAB - Phát hành cổ phiếu thưởng tỷ lệ 100%                   | 2023-08-31    | 2023-09-15    | 2023-09-14     |    1    |       0 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 3 năm 2022 bằng tiền 1500 đồng/cổ phiếu | 2023-05-15    | 2023-06-12    | 2023-06-09     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2022-12-07    | 2023-03-03    | 2023-03-02     |    0.1  |    1000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1 năm 2022 bằng tiền 2500 đồng/cổ phiếu | 2022-10-27    | 2022-12-21    | 2022-12-20     |    0.25 |    2500 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 2, 2021 bằng tiền 1500 VND/CP           | 2022-02-22    | 2022-03-03    | 2022-03-02     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1, 2021 bằng tiền 2000 VND/CP           | 2021-12-27    | 2022-01-10    | 2022-01-07     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức đợt 2, năm 2020 bằng tiền 1500 Đồng/cp      | 2021-02-03    | 2021-03-03    | 2021-03-02     |    0.15 |    1500 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1, 2020 bằng tiền 2000 VND/CP           | 2020-11-19    | 2020-12-01    | 2020-11-30     |    0.2  |    2000 |
+| Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1, 2019 bằng tiền 3500 VND/CP           | 2020-01-31    | 2020-02-14    | 2020-02-13     |    0.35 |    3500 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
