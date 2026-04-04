@@ -115,27 +115,29 @@ def fetch_news(stock_vci) -> pd.DataFrame:
 
 
 def fetch_events(stock_vci) -> pd.DataFrame:
-    """Lịch sự kiện sắp tới (±90 ngày) — VCI source."""
-    from datetime import timedelta
+    """
+    Lịch sự kiện — VCI source.
+    VCI chỉ có: AIS (niêm yết thêm), DIV (cổ tức), ISS (phát hành).
+    KHÔNG có ĐHCĐ, chốt quyền từ VCI.
+    Hiển thị 15 sự kiện gần nhất (không lọc theo ngày).
+    """
     ev = safe_call(stock_vci.company.events)
     if ev.empty:
         return ev
-    cutoff_past   = (date.today() - timedelta(days=90)).strftime("%Y-%m-%d")
-    cutoff_future = (date.today() + timedelta(days=180)).strftime("%Y-%m-%d")
-    mask = (ev["public_date"] >= cutoff_past) & (ev["public_date"] <= cutoff_future)
-    ev = ev[mask].sort_values("public_date", ascending=False)
-    keep = [c for c in ["event_title", "event_list_name", "public_date",
+    ev = ev.sort_values("public_date", ascending=False)
+    keep = [c for c in ["event_list_name", "event_title", "public_date",
                         "record_date", "exright_date", "ratio", "value"] if c in ev.columns]
     return ev[keep].head(15)
 
 
 def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
-    """Tính EMA20, EMA50, RSI(14) từ lịch sử giá; trả về 1-row summary DataFrame."""
+    """Tính EMA20, EMA50, RSI(14), MACD từ lịch sử giá; trả về 1-row summary DataFrame."""
     if hist.empty or "close" not in hist.columns or len(hist) < 5:
         return pd.DataFrame()
     close = hist["close"].astype(float)
     ema20 = close.ewm(span=20, adjust=False).mean()
     ema50 = close.ewm(span=50, adjust=False).mean()
+
     # RSI(14) — Wilder smoothing (com = span-1)
     delta    = close.diff()
     gain     = delta.clip(lower=0)
@@ -145,29 +147,87 @@ def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
     rs       = avg_gain / avg_loss.replace(0, float("nan"))
     rsi      = 100 - 100 / (1 + rs)
 
-    last_close = round(float(close.iloc[-1]), 2)
-    e20        = round(float(ema20.iloc[-1]), 2)
-    e50        = round(float(ema50.iloc[-1]), 2)
-    rsi_val    = round(float(rsi.iloc[-1]), 1)
+    # MACD — EMA12 - EMA26, Signal = EMA9(MACD)
+    ema12      = close.ewm(span=12, adjust=False).mean()
+    ema26      = close.ewm(span=26, adjust=False).mean()
+    macd_line  = ema12 - ema26
+    macd_sig   = macd_line.ewm(span=9, adjust=False).mean()
+    macd_hist  = macd_line - macd_sig
 
-    signal = "TRUNG TÍNH"
+    last_close  = round(float(close.iloc[-1]), 2)
+    e20         = round(float(ema20.iloc[-1]), 2)
+    e50         = round(float(ema50.iloc[-1]), 2)
+    rsi_val     = round(float(rsi.iloc[-1]), 1)
+    macd_val    = round(float(macd_line.iloc[-1]), 3)
+    macd_s_val  = round(float(macd_sig.iloc[-1]), 3)
+    macd_h_val  = round(float(macd_hist.iloc[-1]), 3)
+
+    ema_signal = "TRUNG TÍNH"
     if last_close > e20 > e50:
-        signal = "TĂNG (giá > EMA20 > EMA50)"
+        ema_signal = "TĂNG (giá > EMA20 > EMA50)"
     elif last_close < e20 < e50:
-        signal = "GIẢM (giá < EMA20 < EMA50)"
+        ema_signal = "GIẢM (giá < EMA20 < EMA50)"
     elif last_close > e20 and e20 < e50:
-        signal = "Vừa vượt EMA20 (chú ý)"
+        ema_signal = "Vừa vượt EMA20 (chú ý)"
+
+    macd_signal = "MACD > Signal → Đà ĐẦU" if macd_val > macd_s_val else "MACD < Signal → ĐÀ XUỐNG"
+    if abs(macd_h_val) < 0.01 * abs(macd_val + 0.001):
+        macd_signal = "MACD gần cắt Signal (chú ý)"
 
     return pd.DataFrame([{
         "Giá đóng cửa": last_close,
-        "EMA20":        e20,
-        "EMA50":        e50,
-        "RSI(14)":      rsi_val,
+        "EMA20":         e20,
+        "EMA50":         e50,
+        "RSI(14)":       rsi_val,
         "RSI nhận xét": "Quá mua" if rsi_val > 70 else ("Quá bán" if rsi_val < 30 else "Bình thường"),
-        "Tín hiệu EMA": signal,
-        "Giá vs EMA20": "Trên" if last_close > e20 else "Dưới",
-        "Giá vs EMA50": "Trên" if last_close > e50 else "Dưới",
+        "Tín hiệu EMA":  ema_signal,
+        "Giá vs EMA20":  "Trên" if last_close > e20 else "Dưới",
+        "Giá vs EMA50":  "Trên" if last_close > e50 else "Dưới",
+        "MACD":          macd_val,
+        "MACD Signal":   macd_s_val,
+        "MACD Histogram": macd_h_val,
+        "MACD nhận xét": macd_signal,
     }])
+
+
+FOREIGN_FLOW_CSV = BASE_DIR / "output" / "foreign_flow_history.csv"
+
+
+def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
+    """Ghi snapshot dòng tiền NN hôm nay vào CSV tích lũy."""
+    if ts.empty:
+        return
+    r = ts.iloc[0]
+    def _g(k):
+        for c in ts.columns:
+            if k.lower() in c.lower():
+                return r[c]
+        return None
+    row = {
+        "date":                   date.today().isoformat(),
+        "ticker":                 ticker,
+        "foreign_buy_volume":     _g("foreign_volume"),   # VCI: KL khớp NN (net buy)
+        "foreign_room":           _g("foreign_room"),
+        "current_holding_ratio":  _g("current_holding_ratio"),
+    }
+    new_df = pd.DataFrame([row])
+    if FOREIGN_FLOW_CSV.exists():
+        old = pd.read_csv(FOREIGN_FLOW_CSV)
+        # Xóa dòng cùng date+ticker nếu chạy lại trong ngày
+        old = old[~((old["date"] == row["date"]) & (old["ticker"] == ticker))]
+        combined = pd.concat([old, new_df], ignore_index=True)
+    else:
+        combined = new_df
+    combined.to_csv(FOREIGN_FLOW_CSV, index=False)
+
+
+def load_foreign_flow_history(ticker: str, n: int = 10) -> pd.DataFrame:
+    """Đọc n phiên gần nhất của dòng tiền NN từ CSV tích lũy."""
+    if not FOREIGN_FLOW_CSV.exists():
+        return pd.DataFrame()
+    df = pd.read_csv(FOREIGN_FLOW_CSV)
+    df = df[df["ticker"] == ticker].sort_values("date", ascending=False).head(n)
+    return df.reset_index(drop=True)
 
 
 def fetch_price_history(stock_vci, ticker: str) -> pd.DataFrame:
@@ -446,13 +506,14 @@ END_QUARTERLY   = "<!-- END:QUARTERLY -->"
 
 def _build_daily_block(frames: dict) -> str:
     """Trả về nội dung block DAILY (không bao gồm sentinel)."""
-    ts_kv  = frames.get("Thống kê giao dịch",   pd.DataFrame())
-    rs_kv  = frames.get("Tóm tắt chỉ số",       pd.DataFrame())
-    tech   = frames.get("Chỉ báo kỹ thuật",      pd.DataFrame())
-    news   = frames.get("Tin tức",               pd.DataFrame())
-    hist   = frames.get("Lịch sử giá",           pd.DataFrame())
-    intra  = frames.get("Giao dịch trong ngày",  pd.DataFrame())
-    events = frames.get("Sự kiện",               pd.DataFrame())
+    ts_kv    = frames.get("Thống kê giao dịch",    pd.DataFrame())
+    rs_kv    = frames.get("Tóm tắt chỉ số",        pd.DataFrame())
+    tech     = frames.get("Chỉ báo kỹ thuật",       pd.DataFrame())
+    news     = frames.get("Tin tức",                pd.DataFrame())
+    hist     = frames.get("Lịch sử giá",            pd.DataFrame())
+    intra    = frames.get("Giao dịch trong ngày",   pd.DataFrame())
+    events   = frames.get("Sự kiện",                pd.DataFrame())
+    ff_hist  = frames.get("Dòng tiền NN lịch sử",  pd.DataFrame())
 
     hist_tail = hist.tail(20) if not hist.empty else pd.DataFrame()
 
@@ -486,13 +547,17 @@ def _build_daily_block(frames: dict) -> str:
         "",
         _df_to_md_kv(ts_kv),
         "",
-        "## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)",
+        "## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)",
         "",
         _df_to_md_kv(tech) if not tech.empty else "_Không đủ dữ liệu lịch sử giá_",
         "",
         "## Dòng tiền khối ngoại (snapshot hôm nay)",
         "",
         ("\n".join(foreign_lines)) if foreign_lines else "_Không có dữ liệu_",
+        "",
+        "## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)",
+        "",
+        _df_to_md(ff_hist, max_rows=10) if not ff_hist.empty else "_Chưa có dữ liệu (cần chạy pipeline ≥2 lần)_",
         "",
         "## Tóm tắt chỉ số tài chính",
         "",
@@ -502,7 +567,7 @@ def _build_daily_block(frames: dict) -> str:
         "",
         _df_to_md(news_display, max_rows=10),
         "",
-        "## Lịch sự kiện (±90 ngày)",
+        "## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)",
         "",
         _df_to_md(events, max_rows=15),
         "",
@@ -751,6 +816,9 @@ def run_pipeline(mode: str) -> None:
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
             frames["Sự kiện"]              = fetch_events(vci)
             frames["Chỉ báo kỹ thuật"]     = compute_technicals(frames["Lịch sử giá"])
+            # Tích lũy dòng tiền NN hàng ngày
+            record_foreign_flow(ticker, frames["Thống kê giao dịch"])
+            frames["Dòng tiền NN lịch sử"] = load_foreign_flow_history(ticker, n=10)
 
             all_sheets[f"{ticker}_TradingStats"] = frames["Thống kê giao dịch"]
             all_sheets[f"{ticker}_RatioSum"]     = frames["Tóm tắt chỉ số"]
