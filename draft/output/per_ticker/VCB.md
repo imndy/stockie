@@ -1,5 +1,6 @@
 # VCB — VCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
+> 📅 Daily: 04/04/2026 21:11  |  🗂 Quarterly: —
 
 ---
 
@@ -315,3 +316,167 @@
 | Tăng trưởng vốn chủ sở hữu                                      | owners_equity                                           |     14.36 |     17.08 |     17.64 |     18.04 |
 | Tăng trưởng vốn điều lệ                                         | charter_capital                                         |     49.5  |     49.5  |     49.5  |     49.5  |
 | Tăng trưởng dư nợ cho vay                                       | deposits_from_customers                                 |     15.48 |     16.33 |     13.59 |     15.78 |
+
+<!-- BEGIN:DAILY -->
+## Thống kê giao dịch
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCB |
+| exchange | HOSE |
+| ev | 482122453270000 |
+| ceiling | 62200 |
+| floor | 54200 |
+| ref_price | 58200 |
+| open | 58300 |
+| match_price | 57700 |
+| close_price | 57700 |
+| price_change | -500 |
+| price_change_pct | -0.00859107 |
+| high | 58500 |
+| low | 57700 |
+| total_volume | 6057690 |
+| high_price_1y | 78800 |
+| low_price_1y | 51626 |
+| pct_low_change_1y | 0.1070181497 |
+| pct_high_change_1y | -0.2407894737 |
+| foreign_volume | 3138413 |
+| foreign_room | 2506702528 |
+| avg_match_volume_2w | 6591568 |
+| foreign_holding_room | 1696059310 |
+| current_holding_ratio | 0.2029829177079776 |
+| max_holding_ratio | 0.3 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 57.7 |
+| EMA20 | 59.37 |
+| EMA50 | 61.43 |
+| RSI(14) | 39.4 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 3138413 |
+| Room NN còn lại | 2506702528 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2029829177079776 |
+| Tỷ lệ sở hữu NN tối đa | 0.3 |
+
+## Tóm tắt chỉ số tài chính
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCB |
+| year_report | 2025 |
+| length_report | 5 |
+| update_date | 1774868928437 |
+| revenue | 105216484000000 |
+| revenue_growth | 0.12344949686049865 |
+| net_profit | 35177663000000 |
+| net_profit_growth | 0.03979372881737686 |
+| ebit_margin | 0 |
+| roe | 0.1673033542 |
+| roic | 0 |
+| roa | 0.0155462691 |
+| pe | 13.705357666 |
+| pb | 2.1476611697 |
+| eps | 4210.0324125814805 |
+| current_ratio | 0 |
+| cash_ratio | 0 |
+| quick_ratio | 0 |
+| interest_coverage | None |
+| ae | 10.875904087557034 |
+| fae | 0.03635268219325398 |
+| net_profit_margin | 0.5985506047923642 |
+| gross_margin | 0 |
+| ev | 482122453270000 |
+| issue_share | 8355675094 |
+| ps | 6.6541297154 |
+| pcf | 4.1479838917 |
+| bvps | 26866.4353643908 |
+| ev_per_ebitda | 0 |
+| at | 0 |
+| fat | 0 |
+| acp | None |
+| dso | 0 |
+| dpo | 0 |
+| eps_ttm | 4210.0324125815 |
+| charter_capital | 83556750940000 |
+| rtq4 | 0 |
+| charter_capital_ratio | 2.6874994955374696 |
+| rtq10 | 0 |
+| dividend | 0 |
+| ebitda | 0 |
+| ebit | 0 |
+| le | 0 |
+| de | 0 |
+| ccc | None |
+| rtq17 | 0 |
+
+## Tin tức gần nhất (Top 10)
+
+| news_title                                                                                        |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VCB: Nghị quyết HĐQT về việc phê duyệt tài liệu họp ĐHĐCĐ thường niên năm 2026                    | 1775207462000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2450010       |
+| VCB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Sở giao dịch                         | 1774637744000 | https://www.hsx.vn/vi/tin-tuc/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-so-giao-dich/2447674            |
+| VCB: Nghị quyết HĐQT về việc phê duyệt chủ trương thay đổi địa điểm trụ sở Chi nhánh Sở giao dịch | 1773079639000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-thay-doi-dia-diem-tru-so-chi-nhanh-so-gia… |
+| VCB: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                       | 1772816352000 | https://www.hsx.vn/vi/tin-tuc/vcb-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2442473          |
+| VCB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Tuấn Anh                          | 1772646800000 | https://www.hsx.vn/vi/tin-tuc/vcb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-tuan-anh/2441877             |
+| VCB: Đính chính báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Phùng Nguyễn Hải Yến          | 1772559907000 | https://www.hsx.vn/vi/tin-tuc/vcb-dinh-chinh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-phung-nguyen-hai-yen/24… |
+| VCB: Nghị quyết HĐQT về việc phê duyệt tổ chức ĐHĐCĐ thường niên năm 2026                         | 1772558842000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-to-chuc-dhdcd-thuong-nien-nam-2026/2441547            |
+| VCB: Nghị quyết HĐQT về việc phê duyệt chủ trương thay đổi địa điểm trụ sở Chi nhánh VCB Tân Định | 1772206920000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-thay-doi-dia-diem-tru-so-chi-nhanh-vcb-ta… |
+| VCB: Thông báo thay đổi Giấy phép thành lập và hoạt động của VCB                                  | 1771955115000 | https://www.hsx.vn/vi/tin-tuc/vcb-thong-bao-thay-doi-giay-phep-thanh-lap-va-hoat-dong-cua-vcb/2439931                     |
+| VCB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Phùng Nguyễn Hải Yến                     | 1771955059000 | https://www.hsx.vn/vi/tin-tuc/vcb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-phung-nguyen-hai-yen/2439930        |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
+
+## Lịch sử giá (20 phiên gần nhất)
+
+| ticker   | time                |   open |   high |   low |   close |   volume |
+|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
+| VCB      | 2026-03-09 00:00:00 |   57.4 |   59.7 |  57.3 |    57.3 | 29396000 |
+| VCB      | 2026-03-10 00:00:00 |   59.8 |   60.9 |  58.8 |    60.4 | 11524700 |
+| VCB      | 2026-03-11 00:00:00 |   60.5 |   61.2 |  60   |    60.4 |  8789200 |
+| VCB      | 2026-03-12 00:00:00 |   60.2 |   60.3 |  59.5 |    59.8 |  6217000 |
+| VCB      | 2026-03-13 00:00:00 |   59.2 |   60.1 |  58.9 |    59   |  5656900 |
+| VCB      | 2026-03-16 00:00:00 |   59.3 |   59.8 |  58.6 |    58.8 |  3985900 |
+| VCB      | 2026-03-17 00:00:00 |   59.5 |   60.5 |  59.4 |    60.5 |  7148800 |
+| VCB      | 2026-03-18 00:00:00 |   60.9 |   62   |  60   |    60.5 |  8225000 |
+| VCB      | 2026-03-19 00:00:00 |   59.7 |   60   |  59   |    59.8 |  6184000 |
+| VCB      | 2026-03-20 00:00:00 |   59.8 |   59.8 |  58   |    58   |  8322900 |
+| VCB      | 2026-03-23 00:00:00 |   57.8 |   58.3 |  56.5 |    57.6 |  9648600 |
+| VCB      | 2026-03-24 00:00:00 |   59   |   59   |  58   |    58.2 |  4332300 |
+| VCB      | 2026-03-25 00:00:00 |   58.8 |   59.1 |  58   |    58.4 |  8558200 |
+| VCB      | 2026-03-26 00:00:00 |   58.5 |   58.6 |  57.5 |    57.9 |  6217800 |
+| VCB      | 2026-03-27 00:00:00 |   58   |   59   |  57.9 |    58.8 |  6135900 |
+| VCB      | 2026-03-30 00:00:00 |   57.9 |   58.5 |  57.8 |    58   |  5546000 |
+| VCB      | 2026-03-31 00:00:00 |   58.2 |   58.9 |  58   |    58.1 |  5481100 |
+| VCB      | 2026-04-01 00:00:00 |   58.9 |   59.2 |  58.5 |    59   |  8254700 |
+| VCB      | 2026-04-02 00:00:00 |   58.7 |   58.8 |  58.1 |    58.2 |  5664500 |
+| VCB      | 2026-04-03 00:00:00 |   58.3 |   58.5 |  57.7 |    57.7 |  5919600 |
+
+## Giao dịch trong ngày (10 lệnh gần nhất)
+
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      100 | Sell         | 459303920 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      100 | Sell         | 459303923 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      200 | Sell         | 459303924 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      100 | Sell         | 459303925 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      200 | Sell         | 459303926 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |     1000 | Sell         | 459303927 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      700 | Sell         | 459303928 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      900 | Sell         | 459303929 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |     1000 | Sell         | 459303930 |
+| VCB      | 2026-04-03 14:28:56 |    57.8 |      100 | Sell         | 459303931 |
+
+<!-- END:DAILY -->

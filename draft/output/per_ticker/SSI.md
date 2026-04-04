@@ -1,5 +1,6 @@
 # SSI — SSI
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
+> 📅 Daily: 04/04/2026 21:14  |  🗂 Quarterly: —
 
 ---
 
@@ -328,3 +329,169 @@
 | Tăng trưởng lợi nhuận trước thuế                                                | profit_before_tax                                       |     80.83 |     85.98 |     13.05 |     11.08 |
 | Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ                                | profit_after_tax_for_shareholders_of_the_parent_company |     91.11 |     85.66 |     14.26 |     10.43 |
 | Tăng trưởng tổng tài sản                                                        | total_assets                                            |     27.95 |     52.18 |     29.36 |     28.33 |
+
+<!-- BEGIN:DAILY -->
+## Thống kê giao dịch
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| exchange | HOSE |
+| ev | 67259639304000 |
+| ceiling | 29450 |
+| floor | 25650 |
+| ref_price | 27550 |
+| open | 27700 |
+| match_price | 27000 |
+| close_price | 27000 |
+| price_change | -550 |
+| price_change_pct | -0.0199637 |
+| high | 27800 |
+| low | 27000 |
+| total_volume | 27199811 |
+| high_price_1y | 39442 |
+| low_price_1y | 18299 |
+| pct_low_change_1y | 0.475475998 |
+| pct_high_change_1y | -0.2848971199 |
+| foreign_volume | 3399876 |
+| foreign_room | 2493089220 |
+| avg_match_volume_2w | 30949720 |
+| foreign_holding_room | 789836952 |
+| current_holding_ratio | 0.31681054398847386 |
+| max_holding_ratio | 1 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 27.0 |
+| EMA20 | 27.91 |
+| EMA50 | 29.3 |
+| RSI(14) | 41.7 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 3399876 |
+| Room NN còn lại | 2493089220 |
+| Tỷ lệ sở hữu NN hiện tại | 0.31681054398847386 |
+| Tỷ lệ sở hữu NN tối đa | 1 |
+
+## Tóm tắt chỉ số tài chính
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| year_report | 2025 |
+| length_report | 5 |
+| update_date | 1774885922600 |
+| revenue | 12930736690184 |
+| revenue_growth | 0.5160409007305164 |
+| net_profit | 4106090416749 |
+| net_profit_growth | 0.5184002551493939 |
+| ebit_margin | 0.5848841332021881 |
+| roe | 0.1401105184 |
+| roic | 0.0820041577 |
+| roa | 0.0490111843 |
+| pe | 13.6634762949 |
+| pb | 1.7567395524 |
+| eps | 1976.0710537523757 |
+| current_ratio | 1.4429788309 |
+| cash_ratio | 0.676947086 |
+| quick_ratio | 0.7176076663 |
+| interest_coverage | -2.9522130543804153 |
+| ae | 2.9329833891367167 |
+| fae | 0.005835002472265528 |
+| net_profit_margin | 0.317544971731272 |
+| gross_margin | 0.6050364454618458 |
+| ev | 56103469074000 |
+| issue_share | 2493089220 |
+| ps | 4.3387681938 |
+| pcf | -5.3813134874 |
+| bvps | 15369.3812854259 |
+| ev_per_ebitda | 14.7013104861 |
+| at | 0.1543440731 |
+| fat | 61.8018785345 |
+| acp | None |
+| dso | 0 |
+| dpo | 7.0838439711 |
+| eps_ttm | 1976.0710537524 |
+| charter_capital | 24930892200000 |
+| rtq4 | 0 |
+| charter_capital_ratio | 1.2862082192454387 |
+| rtq10 | 1.9329833891 |
+| dividend | 0 |
+| ebitda | 7660370024970 |
+| ebit | 7562982720704 |
+| le | 1.8761274993 |
+| de | 1.9329833891 |
+| ccc | None |
+| rtq17 | 0 |
+
+## Tin tức gần nhất (Top 10)
+
+| news_title                                                                                                 |   public_date | news_source_link                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SSI: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                   | 1775059830000 | https://www.hsx.vn/vi/tin-tuc/ssi-tai-lieu-hop-dhdcd-thuong-nien-2026/2449389                                             |
+| SSI dự trình cổ đông kế hoạch lợi nhuận hơn 5.800 tỷ đồng                                                  | 1774432920000 | https://www.tinnhanhchungkhoan.vn/ssi-du-trinh-co-dong-ke-hoach-loi-nhuan-hon-5800-ty-dong-post387387.html                |
+| SSI: Nghị quyết HĐQT thông qua kế hoạch kinh doanh năm 2026 và chương trình họp ĐHĐCĐ thường niên năm 2026 | 1774373770000 | https://www.hsx.vn/vi/tin-tuc/ssi-nghi-quyet-hdqt-thong-qua-ke-hoach-kinh-doanh-nam-2026-va-chuong-trinh-hop-dhdcd-thuon… |
+| SSI: Thông báo nhận được Đơn xin từ nhiệm thành viên HĐQT                                                  | 1773936120000 | https://www.hsx.vn/vi/tin-tuc/ssi-thong-bao-nhan-duoc-don-xin-tu-nhiem-thanh-vien-hdqt/2445222                            |
+| SSI: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 36                                              | 1772128561000 | https://www.hsx.vn/vi/tin-tuc/ssi-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-36/2440418                        |
+| SSI: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                | 1770998330000 | https://www.hsx.vn/vi/tin-tuc/ssi-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2439185          |
+| SSI: Nghị quyết HĐQT về ngày ĐKCC và thời gian tổ chức ĐHĐCĐTN 2026                                        | 1770830468000 | https://www.hsx.vn/vi/tin-tuc/ssi-nghi-quyet-hdqt-ve-ngay-dkcc-va-thoi-gian-to-chuc-dhdcdtn-2026/2438511                  |
+| SSI: Nghị quyết HĐQT thông qua cập nhật Giấy chứng nhận đăng ký doanh nghiệp theo vốn điều lệ mới          | 1770741637000 | https://www.hsx.vn/vi/tin-tuc/ssi-nghi-quyet-hdqt-thong-qua-cap-nhat-giay-chung-nhan-dang-ky-doanh-nghiep-theo-von-dieu-… |
+| SSI: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                 | 1770733260000 | https://www.hsx.vn/vi/tin-tuc/ssi-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet/2438155           |
+| SSI: Quyết định về việc thay đổi đăng ký niêm yết                                                          | 1770406200000 | https://www.hsx.vn/vi/tin-tuc/ssi-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2437705                                    |
+
+## Lịch sự kiện (±90 ngày)
+
+| event_title                                 | event_list_name   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:--------------------------------------------|:------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| SSI - Niêm yết bổ sung 415.182.958 cổ phiếu | Niêm yết thêm     | 2026-02-10    | 1753-01-01    | 1753-01-01     |       0 |       0 |
+
+## Lịch sử giá (20 phiên gần nhất)
+
+| ticker   | time                |   open |   high |   low |   close |   volume |
+|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
+| SSI      | 2026-03-09 00:00:00 |  29.3  |  29.45 | 29.3  |   29.3  | 33530000 |
+| SSI      | 2026-03-10 00:00:00 |  30    |  30.5  | 29    |   29.65 | 81041100 |
+| SSI      | 2026-03-11 00:00:00 |  29.8  |  30.8  | 29.4  |   30.25 | 39065300 |
+| SSI      | 2026-03-12 00:00:00 |  29.7  |  30.1  | 28.9  |   29.15 | 44112200 |
+| SSI      | 2026-03-13 00:00:00 |  28.75 |  29.2  | 28.2  |   28.4  | 54940600 |
+| SSI      | 2026-03-16 00:00:00 |  28.45 |  29.25 | 28.3  |   28.4  | 26040700 |
+| SSI      | 2026-03-17 00:00:00 |  28.8  |  29.45 | 28.65 |   28.65 | 29267400 |
+| SSI      | 2026-03-18 00:00:00 |  28.8  |  28.9  | 27.7  |   28    | 42490600 |
+| SSI      | 2026-03-19 00:00:00 |  27.4  |  27.6  | 26.6  |   27    | 60356700 |
+| SSI      | 2026-03-20 00:00:00 |  26.8  |  27.3  | 26.65 |   26.95 | 34786500 |
+| SSI      | 2026-03-23 00:00:00 |  26.1  |  26.35 | 25.2  |   25.4  | 50940700 |
+| SSI      | 2026-03-24 00:00:00 |  26.25 |  26.5  | 25.85 |   25.9  | 28152600 |
+| SSI      | 2026-03-25 00:00:00 |  26.4  |  27.25 | 26.3  |   26.85 | 30401000 |
+| SSI      | 2026-03-26 00:00:00 |  26.85 |  26.85 | 26.35 |   26.35 | 23402600 |
+| SSI      | 2026-03-27 00:00:00 |  26.35 |  27.2  | 26.35 |   27.05 | 23305300 |
+| SSI      | 2026-03-30 00:00:00 |  26.35 |  26.9  | 26    |   26.55 | 25942100 |
+| SSI      | 2026-03-31 00:00:00 |  26.7  |  27.3  | 26.55 |   26.95 | 34450800 |
+| SSI      | 2026-04-01 00:00:00 |  27.7  |  28.5  | 27.6  |   27.9  | 40298800 |
+| SSI      | 2026-04-02 00:00:00 |  27.65 |  27.95 | 27.35 |   27.55 | 25165800 |
+| SSI      | 2026-04-03 00:00:00 |  27.7  |  27.8  | 27    |   27    | 27134200 |
+
+## Giao dịch trong ngày (10 lệnh gần nhất)
+
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      500 | Sell         | 459307368 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |     1000 | Sell         | 459307386 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      200 | Sell         | 459307372 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      300 | Sell         | 459307373 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |     1000 | Sell         | 459307374 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      200 | Sell         | 459307376 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      100 | Sell         | 459307377 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |     1000 | Sell         | 459307371 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      500 | Sell         | 459307379 |
+| SSI      | 2026-04-03 14:29:32 |   27.05 |      300 | Sell         | 459307378 |
+
+<!-- END:DAILY -->

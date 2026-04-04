@@ -1,39 +1,60 @@
 # SAB — SAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 03/04/2026 09:48  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 04/04/2026 21:11  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SAB |
 | exchange | HOSE |
-| ev | 56689256842400 |
-| ceiling | 47600 |
-| floor | 41400 |
-| ref_price | 44500 |
-| open | 44700 |
-| match_price | 44200 |
-| close_price | 44200 |
-| price_change | -300 |
-| price_change_pct | -0.00674157 |
-| high | 44700 |
+| ev | 56561000605200 |
+| ceiling | 47250 |
+| floor | 41150 |
+| ref_price | 44200 |
+| open | 44600 |
+| match_price | 44100 |
+| close_price | 44100 |
+| price_change | -100 |
+| price_change_pct | -0.00226244 |
+| high | 44750 |
 | low | 44100 |
-| total_volume | 516632 |
+| total_volume | 610721 |
 | high_price_1y | 57100 |
 | low_price_1y | 37442 |
-| pct_low_change_1y | 0.1499994568 |
-| pct_high_change_1y | -0.1769087523 |
-| foreign_volume | 145027 |
+| pct_low_change_1y | 0.1473976481 |
+| pct_high_change_1y | -0.1787709497 |
+| foreign_volume | 322428 |
 | foreign_room | 1282562372 |
-| avg_match_volume_2w | 619198 |
-| foreign_holding_room | 749204862 |
-| current_holding_ratio | 0.5841469220960429 |
+| avg_match_volume_2w | 571490 |
+| foreign_holding_room | 749273817 |
+| current_holding_ratio | 0.5842006855632281 |
 | max_holding_ratio | 1 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 44.1 |
+| EMA20 | 44.67 |
+| EMA50 | 45.98 |
+| RSI(14) | 43.6 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 322428 |
+| Room NN còn lại | 1282562372 |
+| Tỷ lệ sở hữu NN hiện tại | 0.5842006855632281 |
+| Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -51,8 +72,8 @@
 | roe | 0.1991020316 |
 | roic | 0.1832545605 |
 | roa | 0.1339720429 |
-| pe | 12.8153603487 |
-| pb | 2.679990344 |
+| pe | 12.7863663207 |
+| pb | 2.6739270174 |
 | eps | 3448.986122707645 |
 | current_ratio | 2.4932744299 |
 | cash_ratio | 0.4523372141 |
@@ -62,12 +83,12 @@
 | fae | 0.22036092031233687 |
 | net_profit_margin | 0.170870943152606 |
 | gross_margin | 0.35925879809750805 |
-| ev | 56689256842400 |
+| ev | 56561000605200 |
 | issue_share | 1282562372 |
-| ps | 2.1897727096 |
-| pcf | 14.5398654217 |
+| ps | 2.1848184727 |
+| pcf | 14.5069697985 |
 | bvps | 16492.5967359855 |
-| ev_per_ebitda | 10.5689362013 |
+| ev_per_ebitda | 10.5434120871 |
 | at | 0.7840539794 |
 | fat | 5.9777520279 |
 | acp | 8.054858409414555 |
@@ -78,7 +99,7 @@
 | rtq4 | 0.0073016191 |
 | charter_capital_ratio | 1.793270688324388 |
 | rtq10 | 0.4172876397 |
-| dividend | 0.0452488688 |
+| dividend | 0.0453514739 |
 | ebitda | 5024904531235 |
 | ebit | 4294632063801 |
 | le | 0.0262374319 |
@@ -86,11 +107,24 @@
 | ccc | 109.26130542601456 |
 | rtq17 | 7.9888369301 |
 
-## Tin tức gần nhất
+## Tin tức gần nhất (Top 10)
 
-| head   |   article_id | title                                                        | publish_time        | url                                                                                  |
-|:-------|-------------:|:-------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------|
-|        |      1401571 | SAB: Thông báo nhận được Quyết định xử phạt của Cơ quan thuế | 2026-02-06T17:56:28 | /2026/02/sab-thong-bao-nhan-duoc-quyet-dinh-xu-phat-cua-co-quan-thue-830-1401571.htm |
+| news_title                                                                                      |   public_date | news_source_link                                                                                                          |
+|:------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| Sabeco (SAB) lên kế hoạch lãi 4.937 tỷ đồng trong năm 2026, tăng 8%                             | 1775113440000 | https://www.tinnhanhchungkhoan.vn/sabeco-sab-len-ke-hoach-lai-4937-ty-dong-trong-nam-2026-tang-8-post387984.html          |
+| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                    | 1775067315000 | https://www.hsx.vn/vi/tin-tuc/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2449555                                         |
+| SAB: Thông báo đơn xin từ nhiệm của Thành viên HĐQT                                             | 1774979820000 | https://www.hsx.vn/vi/tin-tuc/sab-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-hdqt/2448885                                  |
+| SAB: Thông báo nhận được Quyết định xử phạt của Cơ quan thuế                                    | 1770400588000 | https://www.hsx.vn/vi/tin-tuc/sab-thong-bao-nhan-duoc-quyet-dinh-xu-phat-cua-co-quan-thue/2437659                         |
+| SAB: Thông báo ngày ĐKCC tham dự ĐHĐCĐ TN 2026                                                  | 1770215421000 | https://www.hsx.vn/vi/tin-tuc/sab-thong-bao-ngay-dkcc-tham-du-dhdcd-tn-2026/2437063                                       |
+| SAB: Nghị quyết HĐQT và thông báo về việc tổ chức ĐHĐCĐTN 2026                                  | 1769803935000 | https://www.hsx.vn/vi/tin-tuc/sab-nghi-quyet-hdqt-va-thong-bao-ve-viec-to-chuc-dhdcdtn-2026/2435811                       |
+| SAB: Báo cáo tình hình quản trị công ty năm 2025                                                | 1769708166000 | https://www.hsx.vn/vi/tin-tuc/sab-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434918                                     |
+| SAB: Giải trình BCTC HN và Riêng quý 4/2025 so với cùng kỳ năm trước                            | 1769706995000 | https://www.hsx.vn/vi/tin-tuc/sab-giai-trinh-bctc-hn-va-rieng-quy-42025-so-voi-cung-ky-nam-truoc/2434904                  |
+| SAB: Thông báo về ngày đăng ký cuối cùng tạm ứng cổ tức bằng tiền năm 2025                      | 1763385644000 | https://www.hsx.vn/vi/tin-tuc/sab-thong-bao-ve-ngay-dang-ky-cuoi-cung-tam-ung-co-tuc-bang-tien-nam-2025/2418292           |
+| SAB: Nghị quyết HĐQT thông qua việc cho SATRACO thuê lại phần đất nội bộ tại Nhà máy Bia Củ Chi | 1763141715000 | https://www.hsx.vn/vi/tin-tuc/sab-nghi-quyet-hdqt-thong-qua-viec-cho-satraco-thue-lai-phan-dat-noi-bo-tai-nha-may-bia-cu… |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -115,22 +149,22 @@
 | SAB      | 2026-03-31 00:00:00 |  44.25 |  44.65 | 44.15 |   44.3  |   413500 |
 | SAB      | 2026-04-01 00:00:00 |  44.75 |  44.8  | 44.35 |   44.5  |   469200 |
 | SAB      | 2026-04-02 00:00:00 |  44.7  |  44.7  | 44.1  |   44.2  |   401600 |
-| SAB      | 2026-04-03 00:00:00 |  44.6  |  44.75 | 44.45 |   44.45 |    90800 |
+| SAB      | 2026-04-03 00:00:00 |  44.6  |  44.75 | 44.1  |   44.1  |   543600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SAB      | 2026-04-03 09:24:41 |   44.6  |     1000 | Buy          | 458768215 |
-| SAB      | 2026-04-03 09:24:41 |   44.6  |      900 | Buy          | 458768216 |
-| SAB      | 2026-04-03 09:25:00 |   44.6  |     1000 | Buy          | 458768847 |
-| SAB      | 2026-04-03 09:25:01 |   44.6  |      600 | Buy          | 458768869 |
-| SAB      | 2026-04-03 09:25:01 |   44.65 |      100 | Buy          | 458768872 |
-| SAB      | 2026-04-03 09:25:05 |   44.7  |      100 | Buy          | 458769035 |
-| SAB      | 2026-04-03 09:25:32 |   44.65 |      100 | Buy          | 458769968 |
-| SAB      | 2026-04-03 09:26:09 |   44.6  |      500 | Sell         | 458771262 |
-| SAB      | 2026-04-03 09:26:10 |   44.65 |      200 | Buy          | 458771302 |
-| SAB      | 2026-04-03 09:26:22 |   44.65 |      200 | Buy          | 458771631 |
+| SAB      | 2026-04-03 14:18:59 |   44.15 |     3200 | Buy          | 459260002 |
+| SAB      | 2026-04-03 14:18:59 |   44.15 |      100 | Buy          | 459260005 |
+| SAB      | 2026-04-03 14:18:59 |   44.15 |      300 | Buy          | 459260003 |
+| SAB      | 2026-04-03 14:18:59 |   44.15 |      100 | Buy          | 459260004 |
+| SAB      | 2026-04-03 14:19:20 |   44.15 |      100 | Sell         | 459261142 |
+| SAB      | 2026-04-03 14:19:21 |   44.2  |      100 | Buy          | 459261196 |
+| SAB      | 2026-04-03 14:19:21 |   44.15 |      300 | Sell         | 459261204 |
+| SAB      | 2026-04-03 14:19:45 |   44.15 |      100 | Sell         | 459262611 |
+| SAB      | 2026-04-03 14:19:46 |   44.15 |      200 | Sell         | 459262672 |
+| SAB      | 2026-04-03 14:20:01 |   44.15 |      100 | Sell         | 459263596 |
 
 <!-- END:DAILY -->
 

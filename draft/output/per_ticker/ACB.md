@@ -1,39 +1,60 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 03/04/2026 09:47  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 04/04/2026 21:09  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | ACB |
 | exchange | HOSE |
-| ev | 121225095736400 |
-| ceiling | 25450 |
-| floor | 22150 |
-| ref_price | 23800 |
-| open | 23700 |
-| match_price | 23600 |
-| close_price | 23600 |
-| price_change | -200 |
-| price_change_pct | -0.00840336 |
+| ev | 120711430076500 |
+| ceiling | 25250 |
+| floor | 21950 |
+| ref_price | 23600 |
+| open | 23600 |
+| match_price | 23500 |
+| close_price | 23500 |
+| price_change | -100 |
+| price_change_pct | -0.00423729 |
 | high | 23700 |
-| low | 23300 |
-| total_volume | 9777011 |
+| low | 23250 |
+| total_volume | 15396204 |
 | high_price_1y | 29500 |
 | low_price_1y | 17337 |
-| pct_low_change_1y | 0.2957137132 |
-| pct_high_change_1y | -0.1986417657 |
-| foreign_volume | 2072992 |
+| pct_low_change_1y | 0.2902234008 |
+| pct_high_change_1y | -0.2020373514 |
+| foreign_volume | 3000700 |
 | foreign_room | 1540996979 |
-| avg_match_volume_2w | 11227812 |
-| foreign_holding_room | 1409196401 |
-| current_holding_ratio | 0.2743411738433792 |
+| avg_match_volume_2w | 10988721 |
+| foreign_holding_room | 1413168784 |
+| current_holding_ratio | 0.27511451403528014 |
 | max_holding_ratio | 0.3 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 23.5 |
+| EMA20 | 23.53 |
+| EMA50 | 23.72 |
+| RSI(14) | 49.3 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 3000700 |
+| Room NN còn lại | 1540996979 |
+| Tỷ lệ sở hữu NN hiện tại | 0.27511451403528014 |
+| Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -51,8 +72,8 @@
 | roe | 0.1755767655 |
 | roic | 0 |
 | roa | 0.0165353343 |
-| pe | 7.7585555895 |
-| pb | 1.2825376233 |
+| pe | 7.7256803539 |
+| pb | 1.2771031418 |
 | eps | 3041.803300613866 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -62,10 +83,10 @@
 | fae | 0.057538787223859605 |
 | net_profit_margin | 0.580720884556225 |
 | gross_margin | 0 |
-| ev | 121225095760000 |
+| ev | 120711430100000 |
 | issue_share | 5136656599 |
-| ps | 3.5867659451 |
-| pcf | 4.3048571449 |
+| ps | 3.5715677843 |
+| pcf | 4.2866162248 |
 | bvps | 18401.0196437893 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -86,11 +107,24 @@
 | ccc | None |
 | rtq17 | 0 |
 
-## Tin tức gần nhất
+## Tin tức gần nhất (Top 10)
 
-| head                                                                                                                      |   article_id | title                                       | publish_time        | url                                                                  |
-|:--------------------------------------------------------------------------------------------------------------------------|-------------:|:--------------------------------------------|:--------------------|:---------------------------------------------------------------------|
-| Sau đà bứt phá trong tháng đầu năm, nhóm cổ phiếu ngân hàng quốc doanh đã “đạp phanh” trong tháng 2, qua đó khiến toàn n… |      1407539 | Cổ phiếu ngân hàng quốc doanh đứt mạch tăng | 2026-03-03T21:02:00 | /2026/03/co-phieu-ngan-hang-quoc-doanh-dut-mach-tang-830-1407539.htm |
+| news_title                                                                                     |   public_date | news_source_link                                                                                                          |
+|:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| ACB: Nghị quyết HĐQT về việc bổ sung tài liệu ĐHĐCĐTN 2026                                     | 1774029843000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-sung-tai-lieu-dhdcdtn-2026/2445766                           |
+| ACB: Báo cáo thường niên năm 2025                                                              | 1774028907000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-thuong-nien-nam-2025/2445759                                                    |
+| ACB: Nghị quyết HĐQT số 845, 846, 847 ngày 16/03/2026                                          | 1773768995000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-845-846-847-ngay-16032026/2444859                                    |
+| ACB đặt mục tiêu lợi nhuận 2026 ở mức 22.274 tỷ đồng, tăng vốn lên hơn 58.000 tỷ đồng          | 1773658320000 | https://www.tinnhanhchungkhoan.vn/acb-dat-muc-tieu-loi-nhuan-2026-o-muc-22274-ty-dong-tang-von-len-hon-58000-ty-dong-pos… |
+| ACB: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                              | 1773412616000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2444107                                    |
+| ACB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                    | 1770918123000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2438916          |
+| ACB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đặng Thu Hà    | 1770918074000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dang-thu-ha… |
+| ACB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1770385713000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
+| ACB: Báo cáo tình hình quản trị công ty năm 2025                                               | 1770040570000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436170                                     |
+| ACB: Em gái bà Đặng Thu Thuỷ - Thành viên HĐQT đăng ký bán trên 2,2 triệu cổ phiếu             | 1769800260000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-thu-ha/24357… |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -115,22 +149,22 @@
 | ACB      | 2026-03-31 00:00:00 |  23.65 |  23.85 | 23.45 |   23.55 | 13096000 |
 | ACB      | 2026-04-01 00:00:00 |  23.85 |  23.9  | 23.7  |   23.8  |  9883500 |
 | ACB      | 2026-04-02 00:00:00 |  23.7  |  23.7  | 23.3  |   23.6  |  9767900 |
-| ACB      | 2026-04-03 00:00:00 |  23.6  |  23.65 | 23.4  |   23.45 |   908000 |
+| ACB      | 2026-04-03 00:00:00 |  23.6  |  23.7  | 23.25 |   23.5  | 11386300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ACB      | 2026-04-03 09:41:46 |   23.45 |     8400 | Sell         | 458801956 |
-| ACB      | 2026-04-03 09:41:46 |   23.45 |     8300 | Sell         | 458801957 |
-| ACB      | 2026-04-03 09:41:46 |   23.45 |     8300 | Sell         | 458801959 |
-| ACB      | 2026-04-03 09:41:48 |   23.5  |      100 | Buy          | 458802058 |
-| ACB      | 2026-04-03 09:41:53 |   23.5  |      100 | Buy          | 458802245 |
-| ACB      | 2026-04-03 09:42:05 |   23.45 |      100 | Sell         | 458802670 |
-| ACB      | 2026-04-03 09:42:12 |   23.45 |    10000 | Sell         | 458802898 |
-| ACB      | 2026-04-03 09:42:15 |   23.45 |      500 | Sell         | 458802965 |
-| ACB      | 2026-04-03 09:42:22 |   23.45 |    21200 | Sell         | 458803183 |
-| ACB      | 2026-04-03 09:42:25 |   23.45 |     1000 | Sell         | 458803275 |
+| ACB      | 2026-04-03 14:25:06 |   23.25 |      100 | Sell         | 459285349 |
+| ACB      | 2026-04-03 14:25:10 |   23.3  |      100 | Buy          | 459285661 |
+| ACB      | 2026-04-03 14:25:17 |   23.25 |      800 | Sell         | 459286072 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |      600 | Buy          | 459286656 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |      600 | Buy          | 459286651 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |     1000 | Buy          | 459286654 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |     1300 | Buy          | 459286655 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |      100 | Buy          | 459286652 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |     3000 | Buy          | 459286657 |
+| ACB      | 2026-04-03 14:25:24 |   23.3  |      300 | Buy          | 459286658 |
 
 <!-- END:DAILY -->
 

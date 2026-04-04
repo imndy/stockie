@@ -1,5 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
+> 📅 Daily: 04/04/2026 21:12  |  🗂 Quarterly: —
 
 ---
 
@@ -322,3 +323,167 @@
 | ROA bình quân 4 quý gần nhất                                                    | roa_trailling                   |     11.48 |     11.54 |     11.66 |     11.79 |
 | Tăng trưởng  doanh thu thuần                                                    | net_revenue                     |     14.87 |      8.19 |      9.05 |     13.94 |
 | Tăng trưởng  lợi nhuận gộp                                                      | gross_profit                    |      8.88 |      5.84 |      6.54 |     14.35 |
+
+<!-- BEGIN:DAILY -->
+## Thống kê giao dịch
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FPT |
+| exchange | HOSE |
+| ev | 126059526954000 |
+| ceiling | 79900 |
+| floor | 69500 |
+| ref_price | 74700 |
+| open | 74700 |
+| match_price | 74000 |
+| close_price | 74000 |
+| price_change | -700 |
+| price_change_pct | -0.00937082 |
+| high | 75500 |
+| low | 73900 |
+| total_volume | 6387168 |
+| high_price_1y | 111638 |
+| low_price_1y | 71600 |
+| pct_low_change_1y | 0.0123119015 |
+| pct_high_change_1y | -0.3330050637 |
+| foreign_volume | 2335722 |
+| foreign_room | 834718489 |
+| avg_match_volume_2w | 7847038 |
+| foreign_holding_room | 559873416 |
+| current_holding_ratio | 0.3286592753843851 |
+| max_holding_ratio | 0.49 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 74.0 |
+| EMA20 | 77.8 |
+| EMA50 | 84.81 |
+| RSI(14) | 36.2 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 2335722 |
+| Room NN còn lại | 834718489 |
+| Tỷ lệ sở hữu NN hiện tại | 0.3286592753843851 |
+| Tỷ lệ sở hữu NN tối đa | 0.49 |
+
+## Tóm tắt chỉ số tài chính
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FPT |
+| year_report | 2025 |
+| length_report | 5 |
+| update_date | 1774006202640 |
+| revenue | 70207688944553 |
+| revenue_growth | 0.11506879974537464 |
+| net_profit | 9376127629501 |
+| net_profit_growth | 0.19338229837567433 |
+| ebit_margin | 0.15672658259556743 |
+| roe | 0.2829368545 |
+| roic | 0.1695199693 |
+| roa | 0.1170976805 |
+| pe | 13.4447324029 |
+| pb | 3.4555607666 |
+| eps | 5504.014344241183 |
+| current_ratio | 1.400061121 |
+| cash_ratio | 0.2533925055 |
+| quick_ratio | 0.6002207336 |
+| interest_coverage | -13.570130515856718 |
+| ae | 2.014764321521835 |
+| fae | 0.39518436833845066 |
+| net_profit_margin | 0.1337291375156134 |
+| gross_margin | 0.36924099799468557 |
+| ev | 126059526954000 |
+| issue_share | 1703507121 |
+| ps | 1.7979524684 |
+| pcf | 12.4367581672 |
+| bvps | 21414.7587028326 |
+| ev_per_ebitda | 9.8261988072 |
+| at | 0.8756332587 |
+| fat | 4.3677644699 |
+| acp | 60.57480341105619 |
+| dso | 17.6111409415 |
+| dpo | 34.0905697478 |
+| eps_ttm | 5504.0143442412 |
+| charter_capital | 17035071210000 |
+| rtq4 | 0.0435171486 |
+| charter_capital_ratio | 2.5681161063687155 |
+| rtq10 | 1.0147643215 |
+| dividend | 0.0135135135 |
+| ebitda | 13902721834887 |
+| ebit | 10988543474155 |
+| le | 0.5252184346 |
+| de | 1.0147643215 |
+| ccc | 112.2765141003562 |
+| rtq17 | 20.7255169447 |
+
+## Tin tức gần nhất (Top 10)
+
+| news_title                                                                                          |   public_date | news_source_link                                                                                                          |
+|:----------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| FPT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ SCIC              | 1774636390000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-scic/2447… |
+| FPT: Tài liệu họp ĐHĐCĐ thường niên năm 2026 và đơn từ nhiệm thành viên HĐQT                        | 1774026456000 | https://www.hsx.vn/vi/tin-tuc/fpt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-va-don-tu-nhiem-thanh-vien-hdqt/2445686         |
+| FPT: Giải trình biến động lợi nhuận BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 1774025824000 | https://www.hsx.vn/vi/tin-tuc/fpt-giai-trinh-bien-dong-loi-nhuan-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-n… |
+| FPT: Thông báo về việc thay đổi phương pháp hợp nhất đối với FPT Telecom                            | 1773936612000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-ve-viec-thay-doi-phuong-phap-hop-nhat-doi-voi-fpt-telecom/2445318             |
+| FPT: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Khải Hoàn                           | 1771857227000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-khai-hoan/2439462            |
+| FPT: Bổ sung và làm rõ nội dung trong Báo cáo tình hình quản trị năm 2025                           | 1771856776000 | https://www.hsx.vn/vi/tin-tuc/fpt-bo-sung-va-lam-ro-noi-dung-trong-bao-cao-tinh-hinh-quan-tri-nam-2025/2439457            |
+| FPT: Công ty TNHH MTV Đầu tư SCIC (SIC) đăng ký mua 2 triệu cổ phiếu                                | 1770888060000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-tnhh-mt… |
+| FPT:  Ông Nguyễn Khải Hoàn đăng ký bán 300.000 cổ phiếu                                             | 1770801180000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-khai-hoan/2438309                  |
+| FPT: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                         | 1770313531000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2437387                          |
+| FPT: Báo cáo tình hình quản trị công ty năm 2025                                                    | 1770023067000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435904                                     |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
+
+## Lịch sử giá (20 phiên gần nhất)
+
+| ticker   | time                |   open |   high |   low |   close |   volume |
+|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
+| FPT      | 2026-03-09 00:00:00 |   76   |   76.7 |  75.9 |    75.9 | 17633000 |
+| FPT      | 2026-03-10 00:00:00 |   76.4 |   79.6 |  76.4 |    79.5 | 21099200 |
+| FPT      | 2026-03-11 00:00:00 |   80   |   81   |  78.3 |    80.2 | 10652800 |
+| FPT      | 2026-03-12 00:00:00 |   78.8 |   79.2 |  77.5 |    77.7 | 12722400 |
+| FPT      | 2026-03-13 00:00:00 |   77.1 |   78.5 |  76.3 |    77   |  9026000 |
+| FPT      | 2026-03-16 00:00:00 |   77.1 |   79.3 |  77.1 |    78.2 |  8662000 |
+| FPT      | 2026-03-17 00:00:00 |   79.4 |   81.3 |  79.1 |    79.4 |  9218800 |
+| FPT      | 2026-03-18 00:00:00 |   80   |   80.2 |  78.1 |    78.6 |  6352700 |
+| FPT      | 2026-03-19 00:00:00 |   77.7 |   77.8 |  76.6 |    76.8 | 11602900 |
+| FPT      | 2026-03-20 00:00:00 |   76.5 |   76.5 |  73.6 |    74.6 | 21423700 |
+| FPT      | 2026-03-23 00:00:00 |   73.7 |   76.1 |  71.6 |    73.1 | 13156200 |
+| FPT      | 2026-03-24 00:00:00 |   75.5 |   75.9 |  74.1 |    75.4 |  5189700 |
+| FPT      | 2026-03-25 00:00:00 |   76.2 |   77   |  75.6 |    77   |  7429300 |
+| FPT      | 2026-03-26 00:00:00 |   77   |   77   |  74.2 |    74.2 |  9743400 |
+| FPT      | 2026-03-27 00:00:00 |   74.5 |   76.3 |  74   |    76.1 |  9080300 |
+| FPT      | 2026-03-30 00:00:00 |   74.4 |   75.2 |  73.5 |    74   |  7814800 |
+| FPT      | 2026-03-31 00:00:00 |   74.9 |   75.5 |  74.4 |    74.7 |  5639200 |
+| FPT      | 2026-04-01 00:00:00 |   75.9 |   76.3 |  75   |    75.3 |  8534000 |
+| FPT      | 2026-04-02 00:00:00 |   75.2 |   75.2 |  74.2 |    74.7 |  5224400 |
+| FPT      | 2026-04-03 00:00:00 |   74.7 |   75.5 |  73.9 |    74   |  6333100 |
+
+## Giao dịch trong ngày (10 lệnh gần nhất)
+
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| FPT      | 2026-04-03 14:28:06 |    74.1 |     2000 | Sell         | 459299684 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |      200 | Buy          | 459299722 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |     2000 | Buy          | 459299721 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |      400 | Buy          | 459299717 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |     1200 | Buy          | 459299719 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |     1600 | Buy          | 459299720 |
+| FPT      | 2026-04-03 14:28:06 |    74.2 |      200 | Buy          | 459299718 |
+| FPT      | 2026-04-03 14:28:08 |    74.1 |      400 | Sell         | 459299896 |
+| FPT      | 2026-04-03 14:28:08 |    74.2 |     3400 | Buy          | 459299900 |
+| FPT      | 2026-04-03 14:28:14 |    74.1 |      200 | Sell         | 459300393 |
+
+<!-- END:DAILY -->

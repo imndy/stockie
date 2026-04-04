@@ -1,39 +1,60 @@
 # HPG — HPG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 03/04/2026 09:45  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 04/04/2026 21:09  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HPG |
 | exchange | HOSE |
-| ev | 209923991134250 |
-| ceiling | 29050 |
-| floor | 25250 |
-| ref_price | 27150 |
-| open | 27000 |
-| match_price | 27350 |
-| close_price | 27350 |
-| price_change | 200 |
-| price_change_pct | 0.00736648 |
-| high | 27500 |
-| low | 26750 |
-| total_volume | 50053298 |
+| ev | 204551165035750 |
+| ceiling | 29250 |
+| floor | 25450 |
+| ref_price | 27350 |
+| open | 27350 |
+| match_price | 26650 |
+| close_price | 26650 |
+| price_change | -700 |
+| price_change_pct | -0.02559415 |
+| high | 27400 |
+| low | 26600 |
+| total_volume | 32861751 |
 | high_price_1y | 30850 |
 | low_price_1y | 17749 |
-| pct_low_change_1y | 0.5409067067 |
-| pct_high_change_1y | -0.0988467875 |
-| foreign_volume | 4894273 |
+| pct_low_change_1y | 0.5014685094 |
+| pct_high_change_1y | -0.1219110379 |
+| foreign_volume | 10926613 |
 | foreign_room | 3760978268 |
-| avg_match_volume_2w | 34803283 |
-| foreign_holding_room | 1697356867 |
-| current_holding_ratio | 0.2211405664575131 |
+| avg_match_volume_2w | 31851826 |
+| foreign_holding_room | 1697353067 |
+| current_holding_ratio | 0.22114007137355704 |
 | max_holding_ratio | 0.49 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 26.65 |
+| EMA20 | 26.77 |
+| EMA50 | 26.91 |
+| RSI(14) | 48.4 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 10926613 |
+| Room NN còn lại | 3760978268 |
+| Tỷ lệ sở hữu NN hiện tại | 0.22114007137355704 |
+| Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -51,8 +72,8 @@
 | roe | 0.1269059278 |
 | roic | 0.0914420498 |
 | roa | 0.0640693587 |
-| pe | 13.5845225744 |
-| pb | 1.625037693 |
+| pe | 13.2368382672 |
+| pb | 1.5834462347 |
 | eps | 2013.3206632866977 |
 | current_ratio | 1.1005787213 |
 | cash_ratio | 0.0881327018 |
@@ -62,12 +83,12 @@
 | fae | 1.0181988019010926 |
 | net_profit_margin | 0.09898514335749696 |
 | gross_margin | 0.15692032421801178 |
-| ev | 209923991134250 |
+| ev | 204551165035750 |
 | issue_share | 7675465855 |
-| ps | 1.3446659145 |
-| pcf | 12.0883159566 |
+| ps | 1.3102503335 |
+| pcf | 11.7789257859 |
 | bvps | 16830.3788383112 |
-| ev_per_ebitda | 10.1665917314 |
+| ev_per_ebitda | 9.9806698788 |
 | at | 0.6472623724 |
 | fat | 1.5531125244 |
 | acp | 17.913678146325935 |
@@ -86,11 +107,24 @@
 | ccc | 218.74163091502595 |
 | rtq17 | 2.6566863569 |
 
-## Tin tức gần nhất
+## Tin tức gần nhất (Top 10)
 
-| head                                                                                                                      |   article_id | title                                                                       | publish_time            | url                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------------------------|-------------:|:----------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------|
-| Tập đoàn Hòa Phát (HOSE: HPG) vừa đưa nhà máy ống thép ở Tây Ninh vào hoạt động ngay khi Việt Nam đang đẩy mạnh các dự á… |      1411336 | Hòa Phát đưa nhà máy sản xuất ống thép công suất 400 ngàn tấn vào hoạt động | 2026-03-12T11:23:06.277 | /2026/03/hoa-phat-dua-nha-may-san-xuat-ong-thep-cong-suat-400-ngan-tan-vao-hoat-dong-737-1411336.htm |
+| news_title                                                                      |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| Hòa Phát hợp tác với TÜV SÜD kiểm định và chứng nhận chất lượng ray đường sắt   | 1775223960000 | https://www.vietnamplus.vn/hoa-phat-hop-tac-voi-tuv-sud-kiem-dinh-va-chung-nhan-chat-luong-ray-duong-sat-post1102671.vnp  |
+| HPG: Giải trình KQKD HN và Cty mẹ năm 2025 so với cùng kỳ năm trước             | 1774887259000 | https://www.hsx.vn/vi/tin-tuc/hpg-giai-trinh-kqkd-hn-va-cty-me-nam-2025-so-voi-cung-ky-nam-truoc/2448118                  |
+| HPG: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                  | 1774880604000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2448034                       |
+| HPG dự kiến chia cổ tức bằng tiền và cổ phiếu                                   | 1774686720000 | https://vneconomy.vn/hpg-du-kien-chia-co-tuc-bang-tien-va-co-phieu.htm                                                    |
+| HPG: Nghị quyết HĐQT số 04 ngày 27/03/2026                                      | 1774635124000 | https://www.hsx.vn/vi/tin-tuc/hpg-nghi-quyet-hdqt-so-04-ngay-27032026/2447644                                             |
+| HPG: Con trai ông Trần Đình Long đăng ký mua 50 triệu cổ phiếu                  | 1773157620000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-tran-vu-minh/2443… |
+| Con trai Chủ tịch HPG đăng ký mua 50 triệu cổ phiếu                             | 1773133680000 | https://vneconomy.vn/con-trai-chu-tich-hpg-dang-ky-mua-50-trieu-co-phieu.htm                                              |
+| HPG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026     | 1772535876000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2441364          |
+| HPG: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 1772124473000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2440351                       |
+| HPG: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026 | 1772124394000 | https://www.hsx.vn/vi/tin-tuc/hpg-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026/2440401       |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -115,22 +149,22 @@
 | HPG      | 2026-03-31 00:00:00 |  27.05 |  27.25 | 26.8  |   26.9  |  23553000 |
 | HPG      | 2026-04-01 00:00:00 |  27.35 |  27.45 | 27.1  |   27.15 |  31503700 |
 | HPG      | 2026-04-02 00:00:00 |  27    |  27.5  | 26.75 |   27.35 |  50005700 |
-| HPG      | 2026-04-03 00:00:00 |  27.35 |  27.4  | 27.2  |   27.25 |   3147800 |
+| HPG      | 2026-04-03 00:00:00 |  27.35 |  27.4  | 26.6  |   26.65 |  31383300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HPG      | 2026-04-03 09:42:37 |   27.25 |      300 | Sell         | 458803662 |
-| HPG      | 2026-04-03 09:42:44 |   27.25 |      200 | Sell         | 458803832 |
-| HPG      | 2026-04-03 09:42:44 |   27.25 |      300 | Sell         | 458803833 |
-| HPG      | 2026-04-03 09:42:48 |   27.25 |      800 | Sell         | 458803962 |
-| HPG      | 2026-04-03 09:42:49 |   27.25 |    17300 | Sell         | 458804017 |
-| HPG      | 2026-04-03 09:42:53 |   27.25 |      500 | Sell         | 458804114 |
-| HPG      | 2026-04-03 09:43:02 |   27.25 |     4100 | Sell         | 458804331 |
-| HPG      | 2026-04-03 09:43:03 |   27.25 |      600 | Sell         | 458804401 |
-| HPG      | 2026-04-03 09:43:09 |   27.25 |     2000 | Sell         | 458804617 |
-| HPG      | 2026-04-03 09:43:09 |   27.25 |      800 | Sell         | 458804619 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      100 | Sell         | 459310179 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |     4300 | Sell         | 459310220 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      100 | Sell         | 459310219 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      200 | Sell         | 459310218 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      500 | Sell         | 459310217 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      100 | Sell         | 459310216 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      500 | Sell         | 459310215 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |     1000 | Sell         | 459310214 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      500 | Sell         | 459310213 |
+| HPG      | 2026-04-03 14:29:56 |    26.6 |      200 | Sell         | 459310212 |
 
 <!-- END:DAILY -->
 

@@ -1,39 +1,60 @@
 # VIC — VIC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 03/04/2026 09:50  |  🗂 Quarterly: 03/04/2026 09:50
+> 📅 Daily: 04/04/2026 21:14  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIC |
 | exchange | HOSE |
-| ev | 1081915516810000 |
-| ceiling | 150800 |
-| floor | 131200 |
-| ref_price | 141000 |
-| open | 142800 |
-| match_price | 139900 |
-| close_price | 139900 |
-| price_change | -1100 |
-| price_change_pct | -0.00780142 |
-| high | 142800 |
-| low | 137800 |
-| total_volume | 5392223 |
+| ev | 1086550374384000 |
+| ceiling | 149600 |
+| floor | 130200 |
+| ref_price | 139900 |
+| open | 140000 |
+| match_price | 141000 |
+| close_price | 141000 |
+| price_change | 1100 |
+| price_change_pct | 0.00786276 |
+| high | 144900 |
+| low | 139300 |
+| total_volume | 2887062 |
 | high_price_1y | 190000 |
 | low_price_1y | 26050 |
-| pct_low_change_1y | 4.0780399274 |
-| pct_high_change_1y | -0.2184357542 |
-| foreign_volume | 2549238 |
+| pct_low_change_1y | 4.1179673321 |
+| pct_high_change_1y | -0.2122905028 |
+| foreign_volume | 1244918 |
 | foreign_room | 3713436895 |
-| avg_match_volume_2w | 3987533 |
-| foreign_holding_room | 266561414 |
-| current_holding_ratio | 0.034591271845364945 |
+| avg_match_volume_2w | 3238439 |
+| foreign_holding_room | 257778684 |
+| current_holding_ratio | 0.033451550246445 |
 | max_holding_ratio | 0.48017596 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 141.0 |
+| EMA20 | 139.46 |
+| EMA50 | 143.33 |
+| RSI(14) | 49.8 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 1244918 |
+| Room NN còn lại | 3713436895 |
+| Tỷ lệ sở hữu NN hiện tại | 0.033451550246445 |
+| Tỷ lệ sở hữu NN tối đa | 0.48017596 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -51,8 +72,8 @@
 | roe | 0.0796589521 |
 | roic | 0.007452922 |
 | roa | 0.0116098404 |
-| pe | 95.323507327 |
-| pb | 7.331722818 |
+| pe | 96.073013103 |
+| pb | 7.3893703884 |
 | eps | 1467.633786491714 |
 | current_ratio | 1.1214015592 |
 | cash_ratio | 0.1278836877 |
@@ -62,12 +83,12 @@
 | fae | 1.28982452744816 |
 | net_profit_margin | 0.03420328297314119 |
 | gross_margin | 0.15876083117667322 |
-| ev | 1081915516810000 |
+| ev | 1090422357900000 |
 | issue_share | 7706031024 |
-| ps | 3.2603768951 |
-| pcf | 15.6244819283 |
+| ps | 3.2860124532 |
+| pcf | 15.747333466 |
 | bvps | 19081.4633167198 |
-| ev_per_ebitda | 38.0741137143 |
+| ev_per_ebitda | 38.3151407259 |
 | at | 0.3394364349 |
 | fat | 1.7541881583 |
 | acp | 36.99527456453098 |
@@ -86,11 +107,24 @@
 | ccc | 326.842744545331 |
 | rtq17 | 1.6395113522 |
 
-## Tin tức gần nhất
+## Tin tức gần nhất (Top 10)
 
-| head                                                                                                                      |   article_id | title                                                                           | publish_time            | url                                                                                                    |
-|:--------------------------------------------------------------------------------------------------------------------------|-------------:|:--------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------|
-| Lựa chọn VinFast VF 3 từ nhu cầu rất giản dị là đưa đón con, đi làm trong phố đông đúc, sau gần một năm, chiếc xe với ch… |      1410991 | Chủ xe kể về VinFast VF 3: “Chiếc xe nhỏ nhưng thay đổi cả thói quen di chuyển” | 2026-03-11T17:28:35.267 | /2026/03/chu-xe-ke-ve-vinfast-vf-3-chiec-xe-nho-nhung-thay-doi-ca-thoi-quen-di-chuyen-4264-1410991.htm |
+| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VIC: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026, phê duyệt chương trình và tài liệu họp               | 1775150111000 | https://www.hsx.vn/vi/tin-tuc/vic-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-phe-duyet-chuong-trinh-… |
+| VIC: Giải trình chênh lệch lợi nhuận đã kiểm toán năm 2025 so với cùng kỳ năm trước                                       | 1774537315000 | https://www.hsx.vn/vi/tin-tuc/vic-giai-trinh-chenh-lech-loi-nhuan-da-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2446965  |
+| VIC: Nghị quyết HĐQT về việc niêm yết trái phiếu quốc tế và hồ sơ chào bán trái phiếu quốc tế                             | 1773424083000 | https://www.hsx.vn/vi/tin-tuc/vic-nghi-quyet-hdqt-ve-viec-niem-yet-trai-phieu-quoc-te-va-ho-so-chao-ban-trai-phieu-quoc-… |
+| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl                      | 1773237420000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
+| VIC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                            | 1772791524000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
+| VIC: Quyết định về việc chốt danh sách người sở hữu chứng khoán để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026     | 1772214396000 | https://www.hsx.vn/vi/tin-tuc/vic-quyet-dinh-ve-viec-chot-danh-sach-nguoi-so-huu-chung-khoan-de-thuc-hien-quyen-tham-du-… |
+| VIC: CBTT phát hành trái phiếu quốc tế                                                                                    | 1772184183000 | https://www.hsx.vn/vi/tin-tuc/vic-cbtt-phat-hanh-trai-phieu-quoc-te/2440479                                               |
+| VIC: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1770023783000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435925                                     |
+| VIC: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769802721000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435785                                     |
+| VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư và Phát triển Đ… | 1767200065000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -115,22 +149,22 @@
 | VIC      | 2026-03-31 00:00:00 |  130.2 |  135   | 130   |   135   |  3316700 |
 | VIC      | 2026-04-01 00:00:00 |  143   |  144.3 | 139.3 |   141   |  3637400 |
 | VIC      | 2026-04-02 00:00:00 |  142.8 |  142.8 | 137.8 |   139.9 |  4153300 |
-| VIC      | 2026-04-03 00:00:00 |  140   |  144.9 | 139.3 |   144.2 |   676500 |
+| VIC      | 2026-04-03 00:00:00 |  140   |  144.9 | 139.3 |   141   |  2869800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIC      | 2026-04-03 09:47:35 |   144.7 |     1000 | Buy          | 458814533 |
-| VIC      | 2026-04-03 09:47:35 |   144.7 |      400 | Buy          | 458814536 |
-| VIC      | 2026-04-03 09:47:35 |   144.7 |      500 | Buy          | 458814534 |
-| VIC      | 2026-04-03 09:47:35 |   144.7 |      900 | Buy          | 458814535 |
-| VIC      | 2026-04-03 09:47:40 |   144.8 |     1100 | Buy          | 458814684 |
-| VIC      | 2026-04-03 09:47:40 |   144.7 |     1200 | Sell         | 458814688 |
-| VIC      | 2026-04-03 09:47:43 |   144.8 |      200 | Buy          | 458814765 |
-| VIC      | 2026-04-03 09:47:44 |   144.9 |      100 | Buy          | 458814787 |
-| VIC      | 2026-04-03 09:47:44 |   144.9 |      100 | Buy          | 458814786 |
-| VIC      | 2026-04-03 09:47:44 |   144.8 |      100 | Buy          | 458814778 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      200 | Buy          | 459294793 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      100 | Buy          | 459294800 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      400 | Buy          | 459294799 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      300 | Buy          | 459294798 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      200 | Buy          | 459294794 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      500 | Buy          | 459294796 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |      200 | Buy          | 459294795 |
+| VIC      | 2026-04-03 14:27:16 |   139.9 |     1000 | Buy          | 459294797 |
+| VIC      | 2026-04-03 14:27:17 |   139.8 |      200 | Sell         | 459294917 |
+| VIC      | 2026-04-03 14:27:22 |   139.9 |      200 | Sell         | 459295446 |
 
 <!-- END:DAILY -->
 

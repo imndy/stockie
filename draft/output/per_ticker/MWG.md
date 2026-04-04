@@ -1,5 +1,6 @@
 # MWG — MWG
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
+> 📅 Daily: 04/04/2026 21:13  |  🗂 Quarterly: —
 
 ---
 
@@ -312,3 +313,167 @@
 | ROA bình quân 4 quý gần nhất                                                    | roa_trailling                   |      8.85 |      7.64 |      6.66 |      6.33 |
 | Tăng trưởng  doanh thu thuần                                                    | net_revenue                     |     23.94 |     16.71 |     10.21 |     14.76 |
 | Tăng trưởng  lợi nhuận gộp                                                      | gross_profit                    |     22.15 |      8.51 |      3.57 |      7.27 |
+
+<!-- BEGIN:DAILY -->
+## Thống kê giao dịch
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MWG |
+| exchange | HOSE |
+| ev | 116445985849700 |
+| ceiling | 87500 |
+| floor | 76100 |
+| ref_price | 81800 |
+| open | 81500 |
+| match_price | 79300 |
+| close_price | 79300 |
+| price_change | -2500 |
+| price_change_pct | -0.03056235 |
+| high | 81500 |
+| low | 79200 |
+| total_volume | 7814404 |
+| high_price_1y | 94400 |
+| low_price_1y | 45100 |
+| pct_low_change_1y | 0.7392925488 |
+| pct_high_change_1y | -0.1536819637 |
+| foreign_volume | 3750051 |
+| foreign_room | 720149656 |
+| avg_match_volume_2w | 7860846 |
+| foreign_holding_room | 717264795 |
+| current_holding_ratio | 0.48803709932443945 |
+| max_holding_ratio | 0.49 |
+
+## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Giá đóng cửa | 79.3 |
+| EMA20 | 81.72 |
+| EMA50 | 83.88 |
+| RSI(14) | 43.4 |
+| RSI nhận xét | Bình thường |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+
+## Dòng tiền khối ngoại (snapshot hôm nay)
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| KL khớp NN hôm nay | 3750051 |
+| Room NN còn lại | 720149656 |
+| Tỷ lệ sở hữu NN hiện tại | 0.48803709932443945 |
+| Tỷ lệ sở hữu NN tối đa | 0.49 |
+
+## Tóm tắt chỉ số tài chính
+
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MWG |
+| year_report | 2025 |
+| length_report | 5 |
+| update_date | 1774288626163 |
+| revenue | 156836115054975 |
+| revenue_growth | 0.15981510495007553 |
+| net_profit | 7033730770169 |
+| net_profit_growth | 0.8898386335842591 |
+| ebit_margin | 0.04537281785586928 |
+| roe | 0.2330696748 |
+| roic | 0.1121094742 |
+| roa | 0.0911203016 |
+| pe | 16.5696801234 |
+| pb | 3.5750768136 |
+| eps | 4785.849781603089 |
+| current_ratio | 1.5206304451 |
+| cash_ratio | 0.0984828587 |
+| quick_ratio | 0.299052798 |
+| interest_coverage | -4.810645787935756 |
+| ae | 2.530302707343382 |
+| fae | 0.07831504778717728 |
+| net_profit_margin | 0.04510879509424101 |
+| gross_margin | 0.19882156153834502 |
+| ev | 116546668936100 |
+| issue_share | 1469693177 |
+| ps | 0.7474383055 |
+| pcf | 19.1181068251 |
+| bvps | 22181.3415863051 |
+| ev_per_ebitda | 15.779738424 |
+| at | 2.0200118709 |
+| fat | 50.4228737543 |
+| acp | 0.5790774498042981 |
+| dso | 73.8381151327 |
+| dpo | 32.5677723999 |
+| eps_ttm | 4785.8497816031 |
+| charter_capital | 14696931770000 |
+| rtq4 | 0 |
+| charter_capital_ratio | 2.257349894098134 |
+| rtq10 | 1.5303027073 |
+| dividend | 0 |
+| ebitda | 8965781458423 |
+| ebit | 7074899349791 |
+| le | 0.9021834178 |
+| de | 1.5303027073 |
+| ccc | 106.9849649824043 |
+| rtq17 | 4.9432464432 |
+
+## Tin tức gần nhất (Top 10)
+
+| news_title                                                                        |   public_date | news_source_link                                                                                                          |
+|:----------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                     | 1774979340000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq/2448811                        |
+| Thế giới Di động (MWG) muốn lấn sân sang tư vấn tài chính và bất động sản         | 1774886820000 | https://www.tinnhanhchungkhoan.vn/the-gioi-di-dong-mwg-muon-lan-san-sang-tu-van-tai-chinh-va-bat-dong-san-post387816.htm… |
+| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN CLQ                  | 1774631100000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-khong-con-la-co-dong-lon-cua-nhom-ndtnn-clq/2447555                     |
+| MWG: Tờ trình và Link công bố tài liệu ĐHĐCĐ thường niên 2026                     | 1774630898000 | https://www.hsx.vn/vi/tin-tuc/mwg-to-trinh-va-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447550                        |
+| MWG: Báo cáo thường niên năm 2025 và Báo cáo phát triển bền vững 2025             | 1774538363000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-thuong-nien-nam-2025-va-bao-cao-phat-trien-ben-vung-2025/2446990                |
+| MWG: Báo cáo về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1774367640000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/2446238    |
+| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                     | 1773324480000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq/2443655                        |
+| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN                      | 1773324420000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-khong-con-la-co-dong-lon-cua-nhom-ndtnn/2443780                         |
+| MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan    | 1773324180000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan/2443776       |
+| Thế Giới Di Động (MWG): Tự tin đặt mục tiêu lãi ròng năm 2026 tăng 30%            | 1772633100000 | https://tapchicongthuong.vn/the-gioi-di-dong--mwg-tu-tin-dat-muc-tieu-lai-rong-nam-2026-tang-30-468920.htm                |
+
+## Lịch sự kiện (±90 ngày)
+
+_Không có dữ liệu_
+
+## Lịch sử giá (20 phiên gần nhất)
+
+| ticker   | time                |   open |   high |   low |   close |   volume |
+|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
+| MWG      | 2026-03-09 00:00:00 |   77   |   77   |  77   |    77   |  4983800 |
+| MWG      | 2026-03-10 00:00:00 |   79   |   81.8 |  77.4 |    81   | 21042400 |
+| MWG      | 2026-03-11 00:00:00 |   81   |   86.6 |  80.5 |    86.5 | 17339300 |
+| MWG      | 2026-03-12 00:00:00 |   84   |   86.5 |  83.1 |    84.6 | 10104500 |
+| MWG      | 2026-03-13 00:00:00 |   84.5 |   84.5 |  82   |    82   |  6260000 |
+| MWG      | 2026-03-16 00:00:00 |   81.9 |   82.2 |  80.4 |    80.6 |  5282300 |
+| MWG      | 2026-03-17 00:00:00 |   81.5 |   83.8 |  81.5 |    82.7 |  3811100 |
+| MWG      | 2026-03-18 00:00:00 |   82.8 |   84.3 |  82.4 |    83.7 |  4304400 |
+| MWG      | 2026-03-19 00:00:00 |   82   |   82.6 |  81.4 |    82.4 |  7916000 |
+| MWG      | 2026-03-20 00:00:00 |   82.1 |   82.1 |  79.7 |    79.7 |  6488600 |
+| MWG      | 2026-03-23 00:00:00 |   78   |   78.1 |  74.2 |    74.2 | 17473900 |
+| MWG      | 2026-03-24 00:00:00 |   76.6 |   76.8 |  75   |    76   |  7903300 |
+| MWG      | 2026-03-25 00:00:00 |   77   |   79.5 |  76.8 |    79.2 |  7550200 |
+| MWG      | 2026-03-26 00:00:00 |   78   |   78.9 |  77.4 |    78.5 |  7066800 |
+| MWG      | 2026-03-27 00:00:00 |   78.6 |   81.8 |  78.2 |    81   |  7595000 |
+| MWG      | 2026-03-30 00:00:00 |   78.9 |   80.8 |  78.6 |    80.8 |  6027600 |
+| MWG      | 2026-03-31 00:00:00 |   80.8 |   82.1 |  80.5 |    81.8 |  6582900 |
+| MWG      | 2026-04-01 00:00:00 |   83   |   83.9 |  81.8 |    82.4 |  5736600 |
+| MWG      | 2026-04-02 00:00:00 |   81.8 |   81.8 |  80   |    81.8 |  5675700 |
+| MWG      | 2026-04-03 00:00:00 |   81.5 |   81.5 |  79.2 |    79.3 |  6903100 |
+
+## Giao dịch trong ngày (10 lệnh gần nhất)
+
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| MWG      | 2026-04-03 14:26:17 |    79.5 |      100 | Sell         | 459290378 |
+| MWG      | 2026-04-03 14:26:17 |    79.5 |      200 | Sell         | 459290386 |
+| MWG      | 2026-04-03 14:26:17 |    79.5 |      100 | Sell         | 459290387 |
+| MWG      | 2026-04-03 14:26:19 |    79.5 |      100 | Sell         | 459290584 |
+| MWG      | 2026-04-03 14:26:19 |    79.5 |      300 | Sell         | 459290585 |
+| MWG      | 2026-04-03 14:26:29 |    79.5 |      300 | Sell         | 459291345 |
+| MWG      | 2026-04-03 14:26:30 |    79.5 |      500 | Sell         | 459291443 |
+| MWG      | 2026-04-03 14:26:56 |    79.5 |      300 | Sell         | 459293299 |
+| MWG      | 2026-04-03 14:27:24 |    79.5 |      300 | Sell         | 459295633 |
+| MWG      | 2026-04-03 14:27:24 |    79.5 |      500 | Sell         | 459295635 |
+
+<!-- END:DAILY -->
