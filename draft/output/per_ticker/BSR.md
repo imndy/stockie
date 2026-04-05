@@ -1,11 +1,10 @@
 # BSR — BSR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:37  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 05/04/2026 19:48  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

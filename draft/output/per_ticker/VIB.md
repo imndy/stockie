@@ -1,11 +1,10 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:46  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 05/04/2026 20:04  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

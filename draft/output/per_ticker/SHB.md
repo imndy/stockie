@@ -1,11 +1,10 @@
 # SHB — SHB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:44  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 05/04/2026 20:01  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

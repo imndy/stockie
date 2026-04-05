@@ -1260,6 +1260,14 @@ def git_push(mode: str) -> None:
             print("  (không có thay đổi, bỏ qua push)")
             return
         _run(["git", "commit", "-m", commit_msg])
+        # Xóa stale rebase state nếu còn sót từ lần trước
+        import shutil
+        rebase_merge = Path(repo_root) / ".git" / "rebase-merge"
+        rebase_apply = Path(repo_root) / ".git" / "rebase-apply"
+        for stale in (rebase_merge, rebase_apply):
+            if stale.exists():
+                shutil.rmtree(stale, ignore_errors=True)
+                print(f"  [CLEAN] Removed stale {stale.name}")
         # Pull rebase trước để tránh non-fast-forward
         try:
             _run(["git", "pull", "--rebase", "--autostash"])

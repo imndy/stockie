@@ -1,11 +1,10 @@
 # PNJ — PNJ
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:43  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 05/04/2026 19:59  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

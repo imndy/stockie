@@ -1,11 +1,10 @@
 # KDH — KDH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:41  |  🗂 Quarterly: 05/04/2026 13:41
+> 📅 Daily: 05/04/2026 19:56  |  🗂 Quarterly: 05/04/2026 13:41
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

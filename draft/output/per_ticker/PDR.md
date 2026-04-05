@@ -1,11 +1,10 @@
 # PDR — PDR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:42  |  🗂 Quarterly: 05/04/2026 13:42
+> 📅 Daily: 05/04/2026 19:59  |  🗂 Quarterly: 05/04/2026 13:42
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

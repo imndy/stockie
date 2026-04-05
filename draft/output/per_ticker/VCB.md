@@ -1,6 +1,6 @@
 # VCB — VCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 05/04/2026 13:45  |  🗂 Quarterly: —
+> 📅 Daily: 05/04/2026 20:03  |  🗂 Quarterly: —
 
 ---
 

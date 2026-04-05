@@ -1,6 +1,6 @@
 # VNM — VNM
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 05/04/2026 13:46  |  🗂 Quarterly: —
+> 📅 Daily: 05/04/2026 20:05  |  🗂 Quarterly: —
 
 ---
 

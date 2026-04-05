@@ -1,6 +1,6 @@
 # SSI — SSI
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 05/04/2026 13:44  |  🗂 Quarterly: —
+> 📅 Daily: 05/04/2026 20:02  |  🗂 Quarterly: —
 
 ---
 

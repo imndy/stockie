@@ -1,11 +1,10 @@
 # HSG — HSG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:40  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 05/04/2026 19:55  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

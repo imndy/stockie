@@ -1,11 +1,10 @@
 # CTR — CTR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:38  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 05/04/2026 19:50  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
