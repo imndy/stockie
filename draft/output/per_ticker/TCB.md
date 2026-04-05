@@ -1,6 +1,6 @@
 # TCB — TCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 04/04/2026 21:45  |  🗂 Quarterly: —
+> 📅 Daily: 05/04/2026 12:22  |  🗂 Quarterly: —
 
 ---
 
@@ -395,6 +395,7 @@ _Không có dữ liệu_
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-05 | TCB      |              2385932 |     1597139381 |                0.225376 |
 | 2026-04-04 | TCB      |              2385932 |     1597139381 |                0.225376 |
 
 ## Tóm tắt chỉ số tài chính
