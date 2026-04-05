@@ -1038,8 +1038,9 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         )
 
     # ── Section 4: Events 30 ngày tới ────────────────────────────────────
-    lines += ["", "---", "", "## 4. Lịch Sự Kiện Quan Trọng (30 ngày tới)", ""]
+    lines += ["", "---", "", "## 4. Sự Kiện Đáng Chú Ý (90 ngày qua + 30 ngày tới)", ""]
 
+    lookback = today - timedelta(days=90)
     ev_rows: list[dict] = []
     for r in snapshot_rows:
         ev_df = r.get("events_df")
@@ -1048,13 +1049,20 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         for _, ev_row in ev_df.iterrows():
             ev_date = None
             for dcol in ("exright_date", "record_date", "public_date"):
-                if dcol in ev_row.index and pd.notna(ev_row.get(dcol)):
-                    try:
-                        ev_date = pd.to_datetime(ev_row[dcol]).date()
-                        break
-                    except Exception:
-                        pass
-            if ev_date is None or not (today <= ev_date <= cutoff):
+                if dcol not in ev_row.index:
+                    continue
+                raw = ev_row.get(dcol)
+                if not pd.notna(raw):
+                    continue
+                try:
+                    d = pd.to_datetime(raw).date()
+                    if d.year < 2000:   # bỏ qua placeholder 1753-01-01
+                        continue
+                    ev_date = d
+                    break
+                except Exception:
+                    continue
+            if ev_date is None or not (lookback <= ev_date <= cutoff):
                 continue
             name  = str(ev_row.get("event_list_name", ev_row.get("event_title", "—")))
             title = str(ev_row.get("event_title", ""))
@@ -1066,9 +1074,9 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
             })
 
     if ev_rows:
-        lines.append(_df_to_md(pd.DataFrame(ev_rows).sort_values("Ngày")))
+        lines.append(_df_to_md(pd.DataFrame(ev_rows).sort_values("Ngày", ascending=False)))
     else:
-        lines.append("_Không có sự kiện trong 30 ngày tới (dữ liệu VCI: AIS/DIV/ISS)_")
+        lines.append("_Không có sự kiện trong khoảng thời gian này (dữ liệu VCI: AIS/DIV/ISS)_")
 
     # ── Section 5: Phân loại theo pha thị trường ─────────────────────────
     all_t     = set(r["ticker"] for r in snapshot_rows)
