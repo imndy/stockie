@@ -920,6 +920,11 @@ def git_push(mode: str) -> None:
             print("  (không có thay đổi, bỏ qua push)")
             return
         _run(["git", "commit", "-m", commit_msg])
+        # Pull rebase trước để tránh non-fast-forward
+        try:
+            _run(["git", "pull", "--rebase", "--autostash"])
+        except subprocess.CalledProcessError as e:
+            print(f"  [WARN] git pull rebase thất bại: {e.stderr.strip()}")
         _run(["git", "push"])
         print("  Push thành công!")
     except subprocess.CalledProcessError as e:
