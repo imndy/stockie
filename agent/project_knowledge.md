@@ -1,6 +1,6 @@
 # Stockie — Project Knowledge Base
 > Tài liệu này dành cho AI agent sessions tiếp theo. Đọc trước khi làm việc với dự án.
-> Cập nhật lần cuối: 2026-04-05
+> Cập nhật lần cuối: 2026-04-05 (session 2)
 
 ---
 
@@ -32,6 +32,7 @@ Stockie/
 │   │   └── stocks.csv       # danh sách ticker (cột 'ticker')
 │   └── output/
 │       ├── per_ticker/      # <TICKER>.md — 1 file/mã, update in-place
+│       │   └── bluechip_snapshot.md  # ← MỚI: tổng hợp tất cả ticker
 │       ├── daily/YYYYMMDD/  # summary.md + daily_*.xlsx
 │       ├── quarterly/YYYYQx/# summary.md + quarterly_*.xlsx
 │       ├── full/YYYYMMDD/   # summary.md + full_*.xlsx + full_*.txt
@@ -150,7 +151,7 @@ Fix non-fast-forward: `git pull --rebase --autostash` trước push — xử lý
 
 | Setting | Giá trị |
 |---|---|
-| Schedule | Daily 07:30 |
+| Schedule | Daily **07:20** |
 | Script | `run_daily.ps1` |
 | LogonType | `S4U` (chạy kể cả khi lock screen, không cần password) |
 | WakeToRun | `True` |
@@ -173,8 +174,10 @@ Get-ScheduledTaskInfo -TaskName "Stockie Daily Pipeline" | Select-Object LastRun
 
 | Vấn đề | Lý do | Workaround |
 |---|---|---|
-| Events VCI chỉ có AIS/DIV/ISS | API không expose ĐHCĐ/chốt quyền | Hiển thị 15 sự kiện gần nhất giữ nguyên |
+| Events VCI chỉ có AIS/DIV/ISS | API không expose ĐHCĐ/chốt quyền | Hiển thị sự kiện 90 ngày qua + 30 ngày tới |
+| VCI `events()` có placeholder `1753-01-01` | Giá trị null của VCI | Skip nếu `year < 2000` |
 | Dòng tiền NN không có lịch sử theo phiên từ API | `quote.history` chỉ trả OHLCV | Tích lũy từng ngày vào `foreign_flow_history.csv` |
+| `foreign_volume` ≠ mua/bán ròng thực | VCI chỉ trả KL khớp NN (net), không có buy/sell riêng | Hiển thị N/A ở tổng hợp; cột NN trong bảng scan chỉ dùng so sánh tương đối |
 | VCI `events()` đôi khi trả rỗng | Rate limit hoặc server | `safe_call` retry 2 lần |
 | KBS `events()` luôn trả rỗng | Source không hỗ trợ | Dùng VCI |
 | Price board MultiIndex columns | VCI trả nested columns | `_flat_df()` flatten trước khi write Excel |
@@ -188,6 +191,7 @@ Get-ScheduledTaskInfo -TaskName "Stockie Daily Pipeline" | Select-Object LastRun
 | `draft/analyze.py` | Toàn bộ pipeline logic |
 | `draft/input/stocks.csv` | Danh sách mã theo dõi |
 | `draft/output/per_ticker/*.md` | Output chính — 1 file/mã |
+| `draft/output/per_ticker/bluechip_snapshot.md` | **MỚI** — Tổng hợp tất cả ticker: kỹ thuật, định giá, sự kiện |
 | `draft/output/daily/YYYYMMDD/summary.md` | Tổng hợp daily |
 | `draft/output/foreign_flow_history.csv` | Tích lũy dòng tiền NN |
 | `run_daily.ps1` | Runner script cho Task Scheduler |
@@ -208,13 +212,49 @@ Get-ScheduledTaskInfo -TaskName "Stockie Daily Pipeline" | Select-Object LastRun
 | 2026-04-04 | Tích hợp Community API key (60/min), bump `API_CALLS_PER_MIN=57` |
 | 2026-04-05 | Fix Task Scheduler LogonType → S4U, bật WakeToRun + Wake Timers |
 | 2026-04-05 | Fix git push non-fast-forward bằng `pull --rebase --autostash` |
+| 2026-04-05 | **Thêm `bluechip_snapshot.md`** — tổng hợp tất cả ticker (5 sections) |
+| 2026-04-05 | Fix events bug `1753-01-01`, mở rộng window 90 ngày qua + 30 ngày tới |
+| 2026-04-05 | Fix git stale rebase-merge directory (tự xóa trước khi pull --rebase) |
+| 2026-04-05 | Đổi schedule Task Scheduler từ 07:30 → **07:20** |
+| 2026-04-05 | N/A cho khối ngoại tổng hợp (foreign_volume ≠ mua/bán ròng thực) |
 
 ---
 
-## 12. Hướng phát triển tiếp theo (chưa làm)
+## 12. bluechip_snapshot.md — cấu trúc và nguồn dữ liệu
 
-- [ ] Thêm mã vào watchlist (sửa `stocks.csv`)
-- [ ] Chạy `quarterly` mode theo lịch quý
+File tại `draft/output/per_ticker/bluechip_snapshot.md`, tự động generate sau mỗi daily run.
+
+| Section | Nội dung | Nguồn |
+|---|---|---|
+| 1. Tổng quan dòng tiền | VN-Index, khối ngoại, nhóm mua/bán nhiều nhất | VCI VNINDEX history + tự tính |
+| 2. Bảng scan kỹ thuật | Giá, %D, EMA20/50, RSI14, MACD Hist, NN KL, Tín hiệu | trading_stats + compute_technicals |
+| 3. Bảng định giá nhanh | P/E, P/B, ROE, LNST growth, Room NN | ratio_summary VCI |
+| 4. Sự kiện đáng chú ý | 90 ngày qua + 30 ngày tới, skip `1753-01-01` | events VCI |
+| 5. Phân loại theo pha | Phòng thủ / Tăng trưởng / Chu kỳ + tín hiệu hôm nay | hardcoded sets + signal compute |
+
+**Signal logic (`_compute_signal`):**
+```
+✅ TĂNG      = giá > EMA20 > EMA50 AND MACD hist ≥ 0
+🔴 RỦI RO CAO = (giá dưới EMA20 hoặc EMA50) AND NN KL×giá > 50 tỷ
+⚠️ GIẢM      = giá dưới EMA20 hoặc EMA50
+🔄 TRUNG TÍNH = còn lại
+```
+
+**Lưu ý quan trọng:** Cột "NN hôm nay (tỷ)" = `foreign_volume × close / 1e9` — đây là KL khớp NN **không phải mua/bán ròng thực**. Dùng để so sánh tương đối giữa các mã, không dùng để kết luận mua/bán ròng.
+
+**Sector sets (hardcoded, cập nhật khi thay đổi danh sách):**
+```python
+_SECTOR_DEFENSIVE = {"GAS", "VNM", "SAB", "PLX", "MSN"}
+_SECTOR_GROWTH    = {"FPT", "MWG", "TCB", "VPB", "ACB", "MBB", "HDB", "LPB", "STB"}
+_SECTOR_CYCLICAL  = {"HPG", "VHM", "VIC", "VRE", "CTG", "BID"}
+```
+
+---
+
+## 13. Hướng phát triển tiếp theo (chưa làm)
+
+- [ ] Chạy `quarterly` mode theo lịch quý (Task Scheduler riêng)
 - [ ] Tích hợp AI để tự động viết nhận xét phân tích vào per-ticker MD
 - [ ] Dashboard web đọc dữ liệu từ GitHub repo
 - [ ] Alert qua Telegram/email khi có tín hiệu kỹ thuật đặc biệt (RSI < 30, MACD cross)
+- [ ] Dòng tiền NN thực (buy/sell riêng) — cần nguồn khác (FireAnt, HOSE API)
