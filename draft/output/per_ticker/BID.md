@@ -1,11 +1,10 @@
 # BID — BID
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:19  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 05/04/2026 13:21  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

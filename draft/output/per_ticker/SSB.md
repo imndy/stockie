@@ -1,11 +1,10 @@
 # SSB — SSB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:22  |  🗂 Quarterly: 05/04/2026 12:22
+> 📅 Daily: 05/04/2026 13:22  |  🗂 Quarterly: 05/04/2026 12:22
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

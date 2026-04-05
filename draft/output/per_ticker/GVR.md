@@ -1,11 +1,10 @@
 # GVR — GVR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:20  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 05/04/2026 13:21  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

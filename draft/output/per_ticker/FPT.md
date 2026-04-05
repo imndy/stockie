@@ -1,6 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 05/04/2026 12:19  |  🗂 Quarterly: —
+> 📅 Daily: 05/04/2026 13:21  |  🗂 Quarterly: —
 
 ---
 

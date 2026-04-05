@@ -1,11 +1,10 @@
 # VRE — VRE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:24  |  🗂 Quarterly: 05/04/2026 12:24
+> 📅 Daily: 05/04/2026 13:23  |  🗂 Quarterly: 05/04/2026 12:24
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

@@ -1,11 +1,10 @@
 # VJC — VJC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:23  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 05/04/2026 13:23  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |

@@ -1,11 +1,10 @@
 # PLX — PLX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 12:21  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 05/04/2026 13:22  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
