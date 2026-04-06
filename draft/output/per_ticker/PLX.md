@@ -1,6 +1,6 @@
 # PLX — PLX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:59  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 06/04/2026 08:32  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
@@ -64,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | PLX      |               468052 |      258775616 |                0.144104 |
 | 2026-04-05 | PLX      |               468052 |      258775616 |                0.144104 |
 
 ## Tóm tắt chỉ số tài chính
@@ -121,6 +122,7 @@
 
 | news_title                                                                                     |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| PLX: Thư mời tham dự và link tài liệu họp ĐHĐCĐ TN 2026                                        | 1775238560000 | https://www.hsx.vn/vi/tin-tuc/plx-thu-moi-tham-du-va-link-tai-lieu-hop-dhdcd-tn-2026/2450381                              |
 | PLX: Giải trình BCTC năm 2025 so với cùng kỳ năm trước                                         | 1775152124000 | https://www.hsx.vn/vi/tin-tuc/plx-giai-trinh-bctc-nam-2025-so-voi-cung-ky-nam-truoc/2449947                               |
 | PLX: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                    | 1773157260000 | https://www.hsx.vn/vi/tin-tuc/plx-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2443101          |
 | PLX: Em gái ông Đào Nam Hải đăng ký bán 20.000 cổ phiếu                                        | 1772214960000 | https://www.hsx.vn/vi/tin-tuc/plx-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dao-thi-thu-ha/24… |
@@ -130,7 +132,6 @@
 | Petrolimex giới thiệu nhận diện thương hiệu mới                                                | 1770154920000 | https://www.tinnhanhchungkhoan.vn/petrolimex-gioi-thieu-nhan-dien-thuong-hieu-moi-post384840.html                         |
 | PLX: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước                   | 1770127130000 | https://www.hsx.vn/vi/tin-tuc/plx-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2436850          |
 | PLX: Báo cáo tình hình quản trị công ty năm 2025                                               | 1770040761000 | https://www.hsx.vn/vi/tin-tuc/plx-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436175                                     |
-| PLX: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đào Thị Thu Hà       | 1768842480000 | https://www.hsx.vn/vi/tin-tuc/plx-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dao-thi-thu-ha/24… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -177,18 +178,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PLX      | 2026-04-03 14:28:02 |   40.4  |      100 | Sell         | 459299369 |
-| PLX      | 2026-04-03 14:28:02 |   40.4  |      100 | Sell         | 459299377 |
-| PLX      | 2026-04-03 14:28:03 |   40.4  |      100 | Sell         | 459299519 |
-| PLX      | 2026-04-03 14:28:03 |   40.4  |     2000 | Sell         | 459299477 |
-| PLX      | 2026-04-03 14:28:09 |   40.4  |     4800 | Sell         | 459300033 |
-| PLX      | 2026-04-03 14:28:17 |   40.45 |     1800 | Buy          | 459300551 |
-| PLX      | 2026-04-03 14:28:17 |   40.45 |     1000 | Buy          | 459300552 |
-| PLX      | 2026-04-03 14:28:17 |   40.45 |      500 | Buy          | 459300553 |
-| PLX      | 2026-04-03 14:28:17 |   40.45 |      800 | Buy          | 459300554 |
-| PLX      | 2026-04-03 14:28:17 |   40.45 |     3900 | Buy          | 459300555 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # GEX — GEX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:53  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 06/04/2026 08:25  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -64,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | GEX      |              1342721 |      451199474 |               0.0682906 |
 | 2026-04-05 | GEX      |              1342721 |      451199474 |               0.0682906 |
 
 ## Tóm tắt chỉ số tài chính
@@ -119,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| GEX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                    | 1775214702000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2450162                               |
-| GEX: Thông báo thay đổi nhân sự (kèm các NQ HĐQT)                                                         | 1775145807000 | https://www.hsx.vn/vi/tin-tuc/gex-thong-bao-thay-doi-nhan-su-kem-cac-nq-hdqt/2449827                                      |
-| ĐHCĐ Gelex (GEX): Ông Nguyễn Văn Tuấn ở lại Gelex, không tham gia Eximbank                                | 1775052540000 | https://www.tinnhanhchungkhoan.vn/dhcd-gelex-gex-ong-nguyen-van-tuan-o-lai-gelex-khong-tham-gia-eximbank-post387934.html  |
-| GEX: CBTT các báo cáo định kỳ về trái phiếu doanh nghiệp                                                  | 1775037720000 | https://www.hsx.vn/vi/tin-tuc/gex-cbtt-cac-bao-cao-dinh-ky-ve-trai-phieu-doanh-nghiep/2449025                             |
-| GEX: Báo cáo thường niên năm 2025                                                                         | 1774283353000 | https://www.hsx.vn/vi/tin-tuc/gex-bao-cao-thuong-nien-nam-2025/2445978                                                    |
-| GEX: Nghị quyết HĐQT về việc phê duyệt báo cáo danh sách ứng viên hợp lệ                                  | 1774030245000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-phe-duyet-bao-cao-danh-sach-ung-vien-hop-le/2445776             |
-| GEX: Nghị quyết HĐQT thông qua việc sửa đổi tài liệu họp ĐHĐCĐ thường niên năm 2026 và tài liệu đính kèm  | 1773165864000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-thong-qua-viec-sua-doi-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-va-tai-… |
-| GEX: Nghị quyết HĐQT về việc sử đổi thời gian tổ chức ĐHĐCĐTN 2026                                        | 1773158178000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-su-doi-thoi-gian-to-chuc-dhdcdtn-2026/2443117                   |
-| GEX: Nghị quyết HĐQT về việc sửa đổi thời gian tổ chức ĐHĐCĐTN 2026                                       | 1773158160000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-sua-doi-thoi-gian-to-chuc-dhdcdtn-2026/2443117                  |
-| GEX: Nghị quyết HĐQT về việc duyệt chương trình, nội dung tài liệu họp ĐHĐCĐTN 2026 (kèm bộ tài liệu họp) | 1772734058000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-duyet-chuong-trinh-noi-dung-tai-lieu-hop-dhdcdtn-2026-kem-bo-t… |
+| news_title                                                                                               |   public_date | news_source_link                                                                                                          |
+|:---------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 20                                            | 1775240033000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-20/2450462                        |
+| GEX: Giấy ủy quyền thực hiện CBTT                                                                        | 1775237638000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-uy-quyen-thuc-hien-cbtt/2450412                                                    |
+| GEX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 1775214702000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2450162                               |
+| GEX: Thông báo thay đổi nhân sự (kèm các NQ HĐQT)                                                        | 1775145807000 | https://www.hsx.vn/vi/tin-tuc/gex-thong-bao-thay-doi-nhan-su-kem-cac-nq-hdqt/2449827                                      |
+| ĐHCĐ Gelex (GEX): Ông Nguyễn Văn Tuấn ở lại Gelex, không tham gia Eximbank                               | 1775052540000 | https://www.tinnhanhchungkhoan.vn/dhcd-gelex-gex-ong-nguyen-van-tuan-o-lai-gelex-khong-tham-gia-eximbank-post387934.html  |
+| GEX: CBTT các báo cáo định kỳ về trái phiếu doanh nghiệp                                                 | 1775037720000 | https://www.hsx.vn/vi/tin-tuc/gex-cbtt-cac-bao-cao-dinh-ky-ve-trai-phieu-doanh-nghiep/2449025                             |
+| GEX: Báo cáo thường niên năm 2025                                                                        | 1774283353000 | https://www.hsx.vn/vi/tin-tuc/gex-bao-cao-thuong-nien-nam-2025/2445978                                                    |
+| GEX: Nghị quyết HĐQT về việc phê duyệt báo cáo danh sách ứng viên hợp lệ                                 | 1774030245000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-phe-duyet-bao-cao-danh-sach-ung-vien-hop-le/2445776             |
+| GEX: Nghị quyết HĐQT thông qua việc sửa đổi tài liệu họp ĐHĐCĐ thường niên năm 2026 và tài liệu đính kèm | 1773165864000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-thong-qua-viec-sua-doi-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-va-tai-… |
+| GEX: Nghị quyết HĐQT về việc sử đổi thời gian tổ chức ĐHĐCĐTN 2026                                       | 1773158178000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-su-doi-thoi-gian-to-chuc-dhdcdtn-2026/2443117                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -179,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GEX      | 2026-04-03 14:27:16 |    35.2 |      100 | Buy          | 459294780 |
-| GEX      | 2026-04-03 14:27:18 |    35.2 |      100 | Buy          | 459295188 |
-| GEX      | 2026-04-03 14:27:22 |    35.2 |      100 | Buy          | 459295441 |
-| GEX      | 2026-04-03 14:27:23 |    35.2 |      500 | Buy          | 459295517 |
-| GEX      | 2026-04-03 14:27:25 |    35.2 |      500 | Sell         | 459295674 |
-| GEX      | 2026-04-03 14:27:27 |    35.2 |      200 | Sell         | 459295767 |
-| GEX      | 2026-04-03 14:27:27 |    35.2 |      200 | Buy          | 459295825 |
-| GEX      | 2026-04-03 14:27:32 |    35.2 |      100 | Buy          | 459296348 |
-| GEX      | 2026-04-03 14:27:32 |    35.2 |     5700 | Buy          | 459296382 |
-| GEX      | 2026-04-03 14:27:35 |    35.2 |      100 | Buy          | 459296531 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,11 +1,10 @@
 # VTP — VTP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 20:06  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 06/04/2026 08:42  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | VTP      |               113000 |       59673690 |               0.0482106 |
 | 2026-04-05 | VTP      |               113000 |       59673690 |               0.0482106 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VTP: Thông báo đơn xin từ nhiệm của Thành viên BKS và thông báo đề cử, ứng cử ứng viên bầu bổ sung Thành viên BKS         | 1775241101000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-va-thong-bao-de-cu-ung-cu-ung-vien-bau-b… |
 | VTP: Thông báo về ngày đăng ký cuối cùng thực hiện quyền mua cổ phiếu do chào bán thêm cổ phiếu ra công chúng cho cổ đôn… | 1774981500000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ve-ngay-dang-ky-cuoi-cung-thuc-hien-quyen-mua-co-phieu-do-chao-ban-them-co-p… |
 | VTP: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                     | 1774981320000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24489… |
 | VTP: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                                             | 1774607502000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-moi-hop-dhdcd-thuong-nien-2026/2447312                                        |
@@ -131,7 +132,6 @@
 | VTP: Thông báo chào bán cổ phiếu ra công chúng                                                                            | 1774462095000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-chao-ban-co-phieu-ra-cong-chung/2446696                                       |
 | VTP: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                     | 1774461960000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24466… |
 | VTP: Bản cáo bạch chào bán thêm cổ phiếu ra công chúng                                                                    | 1774461900000 | https://www.hsx.vn/vi/tin-tuc/vtp-ban-cao-bach-chao-ban-them-co-phieu-ra-cong-chung/2446692                               |
-| VTP: Giấy chứng nhận đăng ký chào bán thêm cổ phiếu ra công chúng                                                         | 1774367805000 | https://www.hsx.vn/vi/tin-tuc/vtp-giay-chung-nhan-dang-ky-chao-ban-them-co-phieu-ra-cong-chung/2446283                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VTP      | 2026-04-03 14:26:54 |    94.5 |      100 | Sell         | 459293188 |
-| VTP      | 2026-04-03 14:26:56 |    94.5 |      100 | Buy          | 459293292 |
-| VTP      | 2026-04-03 14:27:00 |    94.5 |      100 | Buy          | 459293555 |
-| VTP      | 2026-04-03 14:27:02 |    94.5 |      100 | Buy          | 459293678 |
-| VTP      | 2026-04-03 14:27:06 |    94.5 |      100 | Buy          | 459293975 |
-| VTP      | 2026-04-03 14:27:07 |    94.5 |      200 | Buy          | 459294001 |
-| VTP      | 2026-04-03 14:27:10 |    94.5 |      100 | Sell         | 459294313 |
-| VTP      | 2026-04-03 14:27:14 |    94.5 |      100 | Buy          | 459294557 |
-| VTP      | 2026-04-03 14:27:16 |    94.5 |      100 | Buy          | 459294888 |
-| VTP      | 2026-04-03 14:27:26 |    94.5 |      100 | Sell         | 459295713 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

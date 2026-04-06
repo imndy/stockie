@@ -1,6 +1,6 @@
 # SHB — SHB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 20:01  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 06/04/2026 08:35  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
@@ -64,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | SHB      |              1355162 |     1378260007 |               0.0328066 |
 | 2026-04-05 | SHB      |              1355162 |     1378260007 |               0.0328066 |
 
 ## Tóm tắt chỉ số tài chính
@@ -119,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                         |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| SHB: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                          | 1775065636000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2449503             |
-| SHB: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước               | 1775056872000 | https://www.hsx.vn/vi/tin-tuc/shb-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244934… |
-| SHB: Thông báo về ngày đăng ký cuối cùng chào bán thêm cổ phiếu ra công chúng cho cổ đông hiện hữu | 1774981380000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ve-ngay-dang-ky-cuoi-cung-chao-ban-them-co-phieu-ra-cong-chung-cho-co-dong-h… |
-| SHB: Thông báo chấm dứt hiệu lực Giấy ủy quyền thực hiện công bố thông tin                         | 1774981203000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-cham-dut-hieu-luc-giay-uy-quyen-thuc-hien-cong-bo-thong-tin/2448921           |
-| SHB: Thông báo chấm dứt hiệu lực của Giấy ủy quyền thực hiện CBTT                                  | 1774980860000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-cham-dut-hieu-luc-cua-giay-uy-quyen-thuc-hien-cbtt/2448890                    |
-| SHB: Nghị quyết HĐQT số 12/2026 ngày 23/03/2026                                                    | 1774462858000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-so-122026-ngay-23032026/2446745                                         |
-| SHB: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH              | 1774367700000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24462… |
-| SHB: Nghị quyết HĐQT về việc thay đổi điều kiện cấp tín dụng đối với khách hàng doanh nghiệp       | 1774367554000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thay-doi-dieu-kien-cap-tin-dung-doi-voi-khach-hang-doanh-nghie… |
-| SHB: Thông báo chào bán cổ phiếu ra công chúng                                                     | 1774289915000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-chao-ban-co-phieu-ra-cong-chung/2446133                                       |
-| SHB: Nghị quyết HĐQT về việc thực hiện phương án chào bán thêm cổ phiếu ra công chúng              | 1774289881000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thuc-hien-phuong-an-chao-ban-them-co-phieu-ra-cong-chung/24461… |
+| news_title                                                                                                           |   public_date | news_source_link                                                                                                          |
+|:---------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SHB: Nghị quyết HĐQT về việc thông qua danh sách Nhà đầu tư CK chuyên nghiệp tham gia đợt chào bán cổ phiếu riêng lẻ | 1775240538000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-nha-dau-tu-ck-chuyen-nghiep-tham-gia-dot-c… |
+| SHB: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                            | 1775065636000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2449503             |
+| SHB: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                                 | 1775056872000 | https://www.hsx.vn/vi/tin-tuc/shb-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244934… |
+| SHB: Thông báo về ngày đăng ký cuối cùng chào bán thêm cổ phiếu ra công chúng cho cổ đông hiện hữu                   | 1774981380000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ve-ngay-dang-ky-cuoi-cung-chao-ban-them-co-phieu-ra-cong-chung-cho-co-dong-h… |
+| SHB: Thông báo chấm dứt hiệu lực Giấy ủy quyền thực hiện công bố thông tin                                           | 1774981203000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-cham-dut-hieu-luc-giay-uy-quyen-thuc-hien-cong-bo-thong-tin/2448921           |
+| SHB: Thông báo chấm dứt hiệu lực của Giấy ủy quyền thực hiện CBTT                                                    | 1774980860000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-cham-dut-hieu-luc-cua-giay-uy-quyen-thuc-hien-cbtt/2448890                    |
+| SHB: Nghị quyết HĐQT số 12/2026 ngày 23/03/2026                                                                      | 1774462858000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-so-122026-ngay-23032026/2446745                                         |
+| SHB: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                | 1774367700000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24462… |
+| SHB: Nghị quyết HĐQT về việc thay đổi điều kiện cấp tín dụng đối với khách hàng doanh nghiệp                         | 1774367554000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thay-doi-dieu-kien-cap-tin-dung-doi-voi-khach-hang-doanh-nghie… |
+| SHB: Thông báo chào bán cổ phiếu ra công chúng                                                                       | 1774289915000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-chao-ban-co-phieu-ra-cong-chung/2446133                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -175,22 +176,11 @@
 | SHB      | 2026-03-31 00:00:00 |  15.08 |  15.33 | 15.03 |   15.33 |  96462509 |
 | SHB      | 2026-04-01 00:00:00 |  15.38 |  15.42 | 14.98 |   14.98 |  79872678 |
 | SHB      | 2026-04-02 00:00:00 |  14.93 |  14.93 | 14.54 |   14.64 | 110154504 |
-| SHB      | 2026-04-03 00:00:00 |  14.85 |  14.9  | 14.4  |   14.9  |  52368000 |
+| SHB      | 2026-04-03 00:00:00 |  14.85 |  14.9  | 14.4  |   14.9  |  52392092 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SHB      | 2026-04-03 14:29:56 |   14.45 |      300 | Sell         | 459310015 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     5000 | Sell         | 459310041 |
-| SHB      | 2026-04-03 14:29:56 |   14.55 |      100 | Buy          | 459310232 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     4200 | Sell         | 459310062 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     1000 | Sell         | 459310061 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |      500 | Sell         | 459310060 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |      300 | Sell         | 459310059 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     1000 | Sell         | 459310058 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     5000 | Sell         | 459310057 |
-| SHB      | 2026-04-03 14:29:56 |   14.45 |     1400 | Sell         | 459310056 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

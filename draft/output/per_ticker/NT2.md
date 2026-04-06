@@ -1,11 +1,10 @@
 # NT2 — NT2
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:58  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 06/04/2026 08:31  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | NT2      |               175100 |      141059254 |                0.127434 |
 | 2026-04-05 | NT2      |               175100 |      141059254 |                0.127434 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,8 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026                                                       | 1775240334000 | https://www.hsx.vn/vi/tin-tuc/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026/2450490                  |
+| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026                                                     | 1775240239000 | https://www.hsx.vn/vi/tin-tuc/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026/2450487                |
 | NT2: Báo cáo thường niên năm 2025                                                                                         | 1773940142000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-thuong-nien-nam-2025/2445414                                                    |
 | NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 1772559537000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441539                       |
 | NT2: Nghị quyết HĐQT về việc triệu tập họp ĐHĐCĐ thường niên năm 2026                                                     | 1772128609000 | https://www.hsx.vn/vi/tin-tuc/nt2-nghi-quyet-hdqt-ve-viec-trieu-tap-hop-dhdcd-thuong-nien-nam-2026/2440419                |
@@ -130,8 +132,6 @@
 | NT2: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền chốt danh sách cổ đông chi trả cổ tức từ nguồn lợi nhuận sau… | 1760115720000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-chot-danh-sach-co-dong-chi-tra-… |
 | NT2: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Giám đốc                                                               | 1756477224000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-thay-doi-nhan-su--bo-nhiem-lai-pho-giam-doc/2400823                           |
 | Nhơn Trạch 2 (NT2): Lợi nhuận sau thuế 6 tháng đạt hơn 363 tỷ đồng, vượt 30% kế hoạch cả năm                              | 1754306700000 | https://www.tinnhanhchungkhoan.vn/nhon-trach-2-nt2-loi-nhuan-sau-thue-6-thang-dat-hon-363-ty-dong-vuot-30-ke-hoach-ca-na… |
-| NT2: Báo cáo tình hình quản trị công ty 06 tháng đầu năm 2025                                                             | 1753292700000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-tinh-hinh-quan-tri-cong-ty-06-thang-dau-nam-2025/2390834                        |
-| NT2: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đặng Thị Ngọc Bích                        | 1752687640000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dang-thi-ng… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NT2      | 2026-04-03 14:22:23 |   26.15 |      100 | Buy          | 459274117 |
-| NT2      | 2026-04-03 14:22:37 |   26.1  |      100 | Sell         | 459275353 |
-| NT2      | 2026-04-03 14:23:03 |   26.1  |      300 | Sell         | 459277330 |
-| NT2      | 2026-04-03 14:23:07 |   26.15 |      600 | Buy          | 459277585 |
-| NT2      | 2026-04-03 14:23:07 |   26.15 |      700 | Buy          | 459277586 |
-| NT2      | 2026-04-03 14:23:07 |   26.15 |     2400 | Sell         | 459277654 |
-| NT2      | 2026-04-03 14:23:28 |   26.15 |      300 | Sell         | 459279113 |
-| NT2      | 2026-04-03 14:23:35 |   26.15 |      500 | Buy          | 459279529 |
-| NT2      | 2026-04-03 14:23:46 |   26.1  |      100 | Sell         | 459280174 |
-| NT2      | 2026-04-03 14:23:50 |   26.1  |     1000 | Sell         | 459280481 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

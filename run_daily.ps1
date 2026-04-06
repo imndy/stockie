@@ -9,13 +9,25 @@ $LOG = "$REPO\run_daily.log"
 
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
+# Force UTF-8 for Python stdout/stderr so Vietnamese text doesn't crash cp1252.
+# PYTHONUTF8=1 enables Python's UTF-8 mode (equiv to python -Xutf8).
+$env:PYTHONUTF8          = "1"
+$env:PYTHONIOENCODING    = "utf-8"
+
+# Ensure NativeCommandErrors (e.g. emoji in vnstock stderr) never abort the pipeline.
+$ErrorActionPreference   = "Continue"
+
+# Tell PowerShell to use UTF-8 when reading child-process output.
+try { [Console]::InputEncoding  = [System.Text.Encoding]::UTF8 } catch {}
+try { [Console]::OutputEncoding = [System.Text.Encoding]::UTF8 } catch {}
+
 Add-Content -Path $LOG -Value ""
 Add-Content -Path $LOG -Value "===== $timestamp ====="
 
-try {
-    & $VENV_PYTHON $SCRIPT --mode daily 2>&1 | Tee-Object -FilePath $LOG -Append
-    Add-Content -Path $LOG -Value "[OK] Pipeline hoàn tất lúc $(Get-Date -Format 'HH:mm:ss')"
-} catch {
-    Add-Content -Path $LOG -Value "[ERROR] $_"
-    exit 1
+& $VENV_PYTHON $SCRIPT --mode daily 2>&1 | Tee-Object -FilePath $LOG -Append
+
+if ($LASTEXITCODE -ne 0) {
+    Add-Content -Path $LOG -Value "[ERROR] Python exited with code $LASTEXITCODE at $(Get-Date -Format 'HH:mm:ss')"
+    exit $LASTEXITCODE
 }
+Add-Content -Path $LOG -Value "[OK] Pipeline hoàn tất lúc $(Get-Date -Format 'HH:mm:ss')"

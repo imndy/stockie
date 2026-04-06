@@ -1,11 +1,10 @@
 # NAB — NAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:57  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 06/04/2026 08:30  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | NAB      |                56400 |      514705944 |              0.00912286 |
 | 2026-04-05 | NAB      |                56400 |      514705944 |              0.00912286 |
 
 ## Tóm tắt chỉ số tài chính
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                        |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Nam A Bank (NAB) đạt hơn 1.620 tỷ đồng lợi nhuận trước thuế trong quý I/2026      | 1775231280000 | https://www.tinnhanhchungkhoan.vn/nam-a-bank-nab-dat-hon-1620-ty-dong-loi-nhuan-truoc-thue-trong-quy-i2026-post388107.ht… |
-| NAB: Tỷ lệ an toàn vốn tháng 12 năm 2025                                          | 1775151832000 | https://www.hsx.vn/vi/tin-tuc/nab-ty-le-an-toan-von-thang-12-nam-2025/2449924                                             |
-| NAB: Nghị quyết HĐQT về việc triển khai phương án tăng vốn điều lệ năm 2026       | 1774626166000 | https://www.hsx.vn/vi/tin-tuc/nab-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-tang-von-dieu-le-nam-2026/2447396          |
-| NAB: Điều lệ công ty sửa đổi                                                      | 1774462672000 | https://www.hsx.vn/vi/tin-tuc/nab-dieu-le-cong-ty-sua-doi/2446719                                                         |
-| NAB: Giấy ủy quyền thực hiện CBTT                                                 | 1774289760000 | https://www.hsx.vn/vi/tin-tuc/nab-giay-uy-quyen-thuc-hien-cbtt/2446130                                                    |
-| NAB: CBTT thay đổi nhân sự                                                        | 1774289732000 | https://www.hsx.vn/vi/tin-tuc/nab-cbtt-thay-doi-nhan-su/2446129                                                           |
-| NAB: Thông báo thay đổi nhân sự - bổ nhiệm KTT (kèm Quyết định của HĐQT)          | 1774289640000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-thay-doi-nhan-su--bo-nhiem-ktt-kem-quyet-dinh-cua-hdqt/2446127                |
-| NAB: Thông báo thay đổi nhân sự - bổ nhiệm Phó TGĐ (kèm Quyết định của HĐQT)      | 1774289640000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-thay-doi-nhan-su--bo-nhiem-pho-tgd-kem-quyet-dinh-cua-hdqt/2446128            |
-| NAB: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và các tài liệu văn kiện | 1774288144000 | https://www.hsx.vn/vi/tin-tuc/nab-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-cac-tai-lieu-van-kien/2446111     |
-| Ông Trần Ngô Phúc Vũ tái đắc cử chức Chủ tịch hội đồng quản trị Nam A Bank        | 1774123500000 | https://www.tinnhanhchungkhoan.vn/ong-tran-ngo-phuc-vu-tai-dac-cu-chuc-chu-tich-hoi-dong-quan-tri-nam-a-bank-post387172.… |
+| news_title                                                                                  |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NAB: Thông báo công văn của NHNN về chấp thuận cho NAB thay đổi địa điểm Chi nhánh Quy Nhơn | 1775239106000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-cong-van-cua-nhnn-ve-chap-thuan-cho-nab-thay-doi-dia-diem-chi-nhanh-quy-nhon… |
+| Nam A Bank (NAB) đạt hơn 1.620 tỷ đồng lợi nhuận trước thuế trong quý I/2026                | 1775231280000 | https://www.tinnhanhchungkhoan.vn/nam-a-bank-nab-dat-hon-1620-ty-dong-loi-nhuan-truoc-thue-trong-quy-i2026-post388107.ht… |
+| NAB: Tỷ lệ an toàn vốn tháng 12 năm 2025                                                    | 1775151832000 | https://www.hsx.vn/vi/tin-tuc/nab-ty-le-an-toan-von-thang-12-nam-2025/2449924                                             |
+| NAB: Nghị quyết HĐQT về việc triển khai phương án tăng vốn điều lệ năm 2026                 | 1774626166000 | https://www.hsx.vn/vi/tin-tuc/nab-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-tang-von-dieu-le-nam-2026/2447396          |
+| NAB: Điều lệ công ty sửa đổi                                                                | 1774462672000 | https://www.hsx.vn/vi/tin-tuc/nab-dieu-le-cong-ty-sua-doi/2446719                                                         |
+| NAB: Giấy ủy quyền thực hiện CBTT                                                           | 1774289760000 | https://www.hsx.vn/vi/tin-tuc/nab-giay-uy-quyen-thuc-hien-cbtt/2446130                                                    |
+| NAB: CBTT thay đổi nhân sự                                                                  | 1774289732000 | https://www.hsx.vn/vi/tin-tuc/nab-cbtt-thay-doi-nhan-su/2446129                                                           |
+| NAB: Thông báo thay đổi nhân sự - bổ nhiệm KTT (kèm Quyết định của HĐQT)                    | 1774289640000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-thay-doi-nhan-su--bo-nhiem-ktt-kem-quyet-dinh-cua-hdqt/2446127                |
+| NAB: Thông báo thay đổi nhân sự - bổ nhiệm Phó TGĐ (kèm Quyết định của HĐQT)                | 1774289640000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-thay-doi-nhan-su--bo-nhiem-pho-tgd-kem-quyet-dinh-cua-hdqt/2446128            |
+| NAB: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và các tài liệu văn kiện           | 1774288144000 | https://www.hsx.vn/vi/tin-tuc/nab-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-cac-tai-lieu-van-kien/2446111     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -179,18 +179,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NAB      | 2026-04-03 13:29:26 |   12.95 |     5000 | Buy          | 459076835 |
-| NAB      | 2026-04-03 13:29:26 |   12.95 |     6200 | Buy          | 459076856 |
-| NAB      | 2026-04-03 13:29:26 |   12.95 |     1200 | Buy          | 459076857 |
-| NAB      | 2026-04-03 13:29:28 |   12.9  |      100 | Sell         | 459076933 |
-| NAB      | 2026-04-03 13:30:11 |   12.95 |     5000 | Buy          | 459078933 |
-| NAB      | 2026-04-03 13:31:33 |   12.95 |      700 | Buy          | 459082923 |
-| NAB      | 2026-04-03 13:33:25 |   12.9  |     3900 | Sell         | 459088203 |
-| NAB      | 2026-04-03 13:33:25 |   12.9  |      300 | Sell         | 459088204 |
-| NAB      | 2026-04-03 13:33:25 |   12.9  |      100 | Sell         | 459088205 |
-| NAB      | 2026-04-03 13:33:25 |   12.9  |      700 | Sell         | 459088206 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

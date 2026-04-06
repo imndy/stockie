@@ -1,5 +1,5 @@
 # 📊 Bluechip Daily Snapshot
-> 🕐 Cập nhật: 2026-04-05 20:06 | Nguồn: auto-generated từ per_ticker/
+> 🕐 Cập nhật: 2026-04-06 08:42 | Nguồn: auto-generated từ per_ticker/
 
 ---
 
@@ -8,8 +8,8 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | VN-Index đóng cửa | 1,684.04 (-10.78, -0.64%) |
-| Khối ngoại (100 mã theo dõi) | +4124.5 tỷ (MUA RÒNG) |
-| Khối ngoại tích lũy tháng 04/2026 | +6116.8 tỷ (ước tính) |
+| Khối ngoại (tổng mã theo dõi) | N/A — KL khớp NN ≠ mua/bán ròng thực |
+| Khối ngoại tích lũy tháng 04/2026 | N/A — cần nguồn buy/sell riêng biệt |
 | Tự doanh HOSE | N/A — không có từ API |
 | Nhóm bị xả mạnh nhất | Chăm sóc sức khỏe |
 | Nhóm được mua nhiều nhất | Ngân hàng |

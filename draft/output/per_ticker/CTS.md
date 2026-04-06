@@ -1,11 +1,10 @@
 # CTS — CTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:50  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 06/04/2026 08:27  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | CTS      |               109500 |      104219784 |              0.00561881 |
 | 2026-04-05 | CTS      |               109500 |      104219784 |              0.00561881 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,7 @@
 
 | news_title                                                                   |   public_date | news_source_link                                                                                                  |
 |:-----------------------------------------------------------------------------|--------------:|:------------------------------------------------------------------------------------------------------------------|
+| CTS: Nghị quyết HĐQT về việc phê duyệt hạn mức vay vốn tại VIB               | 1775239224000 | https://www.hsx.vn/vi/tin-tuc/cts-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-vay-von-tai-vib/2450448               |
 | CTS: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                 | 1774946852000 | https://www.hsx.vn/vi/tin-tuc/cts-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2448317                                 |
 | CTS: Báo cáo thường niên năm 2025                                            | 1774632929000 | https://www.hsx.vn/vi/tin-tuc/cts-bao-cao-thuong-nien-nam-2025/2447580                                            |
 | CTS: Quyết định của UBCKNN về việc sửa đổi Quyết định thành lập PGD Bà Triệu | 1774373356000 | https://www.hsx.vn/vi/tin-tuc/cts-quyet-dinh-cua-ubcknn-ve-viec-sua-doi-quyet-dinh-thanh-lap-pgd-ba-trieu/2446424 |
@@ -131,7 +132,6 @@
 | CTS: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                            | 1772730386000 | https://www.hsx.vn/vi/tin-tuc/cts-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2442130                            |
 | CTS: Báo cáo tình hình quản trị công ty năm 2025                             | 1769798769000 | https://www.hsx.vn/vi/tin-tuc/cts-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435644                             |
 | CTS: Giấy chứng nhận đăng ký hoạt động chi nhánh TP.HCM thay đổi lần thứ 10  | 1768585935000 | https://www.hsx.vn/vi/tin-tuc/cts-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-tp.hcm-thay-doi-lan-thu-10/2431358  |
-| CTS: Thông báo thay đổi mẫu con dấu của Chi nhánh TP.HCM                     | 1768484595000 | https://www.hsx.vn/vi/tin-tuc/cts-thong-bao-thay-doi-mau-con-dau-cua-chi-nhanh-tp.hcm/2430874                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -140,7 +140,7 @@
 | Niêm yết thêm            | CTS - Niêm yết bổ sung 63.955.127 cổ phiếu          | 2025-07-17    | 1753-01-01    | 1753-01-01     |   0      |       0 |
 | Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 43%       | 2025-05-29    | 2025-06-06    | 2025-06-05     |   0.43   |       0 |
 | Niêm yết thêm            | CTS - Niêm yết bổ sung 33,791,500 cổ phiếu          | 2022-10-12    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu thưởng tỷ lệ 7,46%         | 2022-08-16    | 2022-08-25    | 2022-08-24     |   0.0746 |       0 |
+| Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 21,96%    | 2022-08-16    | 2022-08-25    | 2022-08-24     |   0.2196 |       0 |
 | Niêm yết thêm            | CTS - Niêm yết bổ sung 8,510,235 cổ phiếu           | 2022-05-13    | 1753-01-01    | 1753-01-01     |   0      |       0 |
 | Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 8%        | 2022-03-24    | 2022-03-29    | 2022-03-28     |   0.08   |       0 |
 | Trả cổ tức bằng tiền mặt | CTS - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP | 2019-09-10    | 2019-09-16    | 2019-09-13     |   0.1    |    1000 |
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTS      | 2026-04-03 14:10:36 |   27.15 |      200 | Sell         | 459216311 |
-| CTS      | 2026-04-03 14:10:36 |   27.15 |      100 | Sell         | 459216312 |
-| CTS      | 2026-04-03 14:10:36 |   27.15 |      200 | Sell         | 459216313 |
-| CTS      | 2026-04-03 14:11:01 |   27.1  |      100 | Sell         | 459218336 |
-| CTS      | 2026-04-03 14:11:01 |   27.1  |      100 | Sell         | 459218335 |
-| CTS      | 2026-04-03 14:11:01 |   27.15 |      300 | Sell         | 459218331 |
-| CTS      | 2026-04-03 14:11:01 |   27.15 |      500 | Sell         | 459218333 |
-| CTS      | 2026-04-03 14:11:01 |   27.15 |      200 | Sell         | 459218332 |
-| CTS      | 2026-04-03 14:11:01 |   27.1  |     2900 | Sell         | 459218334 |
-| CTS      | 2026-04-03 14:11:10 |   27.1  |      200 | Sell         | 459219107 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

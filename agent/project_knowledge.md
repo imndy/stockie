@@ -46,7 +46,8 @@ Stockie/
 
 ## 3. Danh sách mã theo dõi (stocks.csv)
 
-13 mã HOSE: `HPG, MBB, ACB, SAB, VNM, VCB, FPT, MSN, VHM, MWG, TCB, SSI, VIC`
+**100 mã HOSE:**
+`AAA, ACB, ANV, BCG, BCM, BID, BMP, BSI, BSR, BVH, BWE, CII, CMG, CTD, CTG, CTR, CTS, DBC, DCM, DGC, DGW, DIG, DPM, DSE, DXG, DXS, EIB, EVF, FPT, FRT, FTS, GAS, GEX, GMD, GVR, HAG, HCM, HDB, HDC, HDG, HHV, HPG, HSG, HT1, IMP, KBC, KDC, KDH, LPB, MBB, MSB, MSN, MWG, NAB, NKG, NLG, NT2, OCB, PAN, PC1, PDR, PHR, PLX, PNJ, POW, PPC, PTB, PVD, PVT, REE, SAB, SBT, SCS, SHB, SIP, SJS, SSB, SSI, STB, SZC, TCB, TCH, TLG, TPB, VCB, VCG, VCI, VGC, VHC, VHM, VIB, VIC, VIX, VJC, VND, VNM, VPB, VPI, VRE, VTP`
 
 Thêm/bớt mã: sửa `draft/input/stocks.csv`. Nếu mã mới chưa có `.md` → pipeline tự chạy `full` mode cho mã đó.
 
@@ -117,17 +118,19 @@ Thứ tự các section:
 **API key:** Community tier — 60 req/phút (lưu persistent trong `vnai`)
 
 ```python
-API_CALLS_PER_MIN = 57  # buffer 3 req
+API_CALLS_PER_MIN = 25  # Community 60/min server-side
 ```
 
-**Cơ chế:** Proactive rolling-window throttler (`_throttle()`) — đếm calls trong 62s window, tự chờ đúng lượng trước khi bị giới hạn. Thay thế hoàn toàn fixed delay giữa mỗi mã.
+**Cơ chế:** Proactive rolling-window throttler (`_throttle()`) — đếm calls trong 60s window, tự chờ đúng lượng trước khi bị giới hạn. Thay thế hoàn toàn fixed delay giữa mỗi mã.
+
+**Lý do đặt 25 thay vì 57:** vnstock dùng `tenacity` nội bộ để retry mỗi failed call 2-3 lần. Mỗi retry = 1 HTTP request thực. Trên non-trading days (cuối tuần), hầu hết calls fail → mỗi tracked call tiêu thụ 2-3 server requests. Vì vậy 25 tracked/min ≈ 50-75 server requests/min — an toàn dưới giới hạn 60.
 
 Để thay đổi tier:
 ```python
-# Guest (chưa có key): 18
-# Community (key miễn phí): 57   ← hiện tại
-# Sponsor 180/min: 175
-API_CALLS_PER_MIN = 57
+# Guest (chưa có key): 10
+# Community (key miễn phí): 25   ← hiện tại
+# Sponsor 180/min: 75
+API_CALLS_PER_MIN = 25
 ```
 
 ---
@@ -160,7 +163,7 @@ Fix non-fast-forward: `git pull --rebase --autostash` trước push — xử lý
 | Log | `run_daily.log` (gitignored) |
 
 **Wake from sleep:** Đã bật `Wake Timers` trong Windows Power Plan (AC + DC).
-- Sleep → máy tự dậy lúc 7:30, chạy xong
+- Sleep → máy tự dậy lúc 7:19, chạy piline từ 7:20, chạy xong
 - Hibernate / Tắt máy hoàn toàn → **không** wake được
 
 **Kiểm tra task:**

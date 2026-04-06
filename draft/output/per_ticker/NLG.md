@@ -1,11 +1,10 @@
 # NLG — NLG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:58  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 06/04/2026 08:30  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | NLG      |              1599120 |      242548691 |                0.411478 |
 | 2026-04-05 | NLG      |              1599120 |      242548691 |                0.411478 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,8 @@
 
 | news_title                                                                                              |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NLG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                | 1775238257000 | https://www.hsx.vn/vi/tin-tuc/nlg-tai-lieu-hop-dhdcd-thuong-nien-2026/2450425                                             |
+| NLG: Báo cáo thường niên năm 2025                                                                       | 1775238217000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-thuong-nien-nam-2025/2450423                                                    |
 | NLG: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Giám đốc Nhân sự Tập đoàn                      | 1774894179000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-thay-doi-nhan-su--mien-nhiem-va-bo-nhiem-giam-doc-nhan-su-tap-doan/2448324    |
 | NLG: Thành viên HĐQT đăng ký mua 500.000 cổ phiếu                                                       | 1773335280000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-cao-tan-thach/2443875                     |
 | NLG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hiệp, Nguyễn Nam | 1773335220000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-hiep… |
@@ -130,8 +132,6 @@
 | NLG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                             | 1772794908000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442336          |
 | NLG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Chad Ryan Ovel                                 | 1772720654000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-chad-ryan-ovel/2442017              |
 | NLG: Thông báo và Nghị quyết HĐQT về ngày ĐKCC chốt DSCĐ để tổ chức ĐHĐCĐTN 2026                        | 1772557851000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-chot-dscd-de-to-chuc-dhdcdtn-2026/2441520     |
-| NLG: Thông báo thay đổi nhân sự                                                                         | 1772557756000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-thay-doi-nhan-su/2441518                                                      |
-| NLG: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Nguyễn Nam, Nguyễn Hiệp       | 1772557320000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-nguyen-nam-nguyen… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NLG      | 2026-04-03 14:27:19 |   28.5  |      600 | Buy          | 459295199 |
-| NLG      | 2026-04-03 14:27:19 |   28.5  |      100 | Buy          | 459295200 |
-| NLG      | 2026-04-03 14:27:19 |   28.5  |      300 | Buy          | 459295201 |
-| NLG      | 2026-04-03 14:27:20 |   28.5  |      500 | Buy          | 459295293 |
-| NLG      | 2026-04-03 14:27:24 |   28.5  |      300 | Buy          | 459295593 |
-| NLG      | 2026-04-03 14:27:36 |   28.45 |      300 | Sell         | 459296580 |
-| NLG      | 2026-04-03 14:27:36 |   28.45 |      200 | Sell         | 459296581 |
-| NLG      | 2026-04-03 14:27:40 |   28.45 |     1000 | Sell         | 459296939 |
-| NLG      | 2026-04-03 14:27:41 |   28.5  |     1000 | Buy          | 459297021 |
-| NLG      | 2026-04-03 14:27:48 |   28.45 |      500 | Sell         | 459297965 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

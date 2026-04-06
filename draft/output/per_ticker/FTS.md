@@ -1,11 +1,10 @@
 # FTS — FTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:53  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 06/04/2026 08:25  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | FTS      |               187600 |      346498009 |                0.248213 |
 | 2026-04-05 | FTS      |               187600 |      346498009 |                0.248213 |
 
 ## Tóm tắt chỉ số tài chính
@@ -135,23 +135,23 @@
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 9.988.400 cổ phiếu                    | 2025-08-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 30.590.243 cổ phiếu                   | 2025-07-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.05 |     500 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                    | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.1  |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 5,529,950 cổ phiếu                    | 2024-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 85,824,429 cổ phiếu                   | 2024-06-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 40%                    | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.4  |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.05 |     500 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 19,505,036 cổ phiếu                   | 2023-07-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                    | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.1  |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.05 |     500 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 47,492,654 cổ phiếu                   | 2022-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.05 |     500 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 20%                    | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.2  |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 1.037.100 cổ phiếu                    | 2021-11-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| event_list_name          | event_title                                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 9.988.400 cổ phiếu                                     | 2025-08-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 30.590.243 cổ phiếu                                    | 2025-07-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu                  | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.05 |     500 |
+| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                                     | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.1  |       0 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 5,529,950 cổ phiếu                                     | 2024-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 85,824,429 cổ phiếu                                    | 2024-06-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 40%                                     | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.4  |       0 |
+| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu                  | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.05 |     500 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 19,505,036 cổ phiếu                                    | 2023-07-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                                     | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.1  |       0 |
+| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu                  | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.05 |     500 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 47,492,654 cổ phiếu                                    | 2022-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu                  | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.05 |     500 |
+| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 1 giá 10.000 đồng/cp | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.1  |       0 |
+| Niêm yết thêm            | FTS - Niêm yết bổ sung 1.037.100 cổ phiếu                                     | 2021-11-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FTS      | 2026-04-03 14:15:59 |   27.5  |     1000 | Buy          | 459247042 |
-| FTS      | 2026-04-03 14:15:59 |   27.5  |      100 | Buy          | 459247043 |
-| FTS      | 2026-04-03 14:15:59 |   27.5  |      400 | Buy          | 459247044 |
-| FTS      | 2026-04-03 14:16:16 |   27.5  |      100 | Buy          | 459248513 |
-| FTS      | 2026-04-03 14:16:22 |   27.5  |      500 | Buy          | 459248948 |
-| FTS      | 2026-04-03 14:16:31 |   27.5  |      300 | Buy          | 459249936 |
-| FTS      | 2026-04-03 14:16:45 |   27.55 |      300 | Buy          | 459250950 |
-| FTS      | 2026-04-03 14:16:49 |   27.5  |      500 | Sell         | 459251161 |
-| FTS      | 2026-04-03 14:17:06 |   27.5  |      200 | Sell         | 459252574 |
-| FTS      | 2026-04-03 14:17:06 |   27.5  |      100 | Sell         | 459252575 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

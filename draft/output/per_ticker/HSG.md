@@ -1,6 +1,6 @@
 # HSG — HSG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:55  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 06/04/2026 08:27  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -64,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | HSG      |                59300 |      304281331 |               0.0353979 |
 | 2026-04-05 | HSG      |                59300 |      304281331 |               0.0353979 |
 
 ## Tóm tắt chỉ số tài chính
@@ -121,6 +122,7 @@
 
 | news_title                                                                              |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                          | 1775239657000 | https://www.hsx.vn/vi/tin-tuc/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025/2450454                        |
 | Hoa Sen (HSG) sắp trả cổ tức bằng cổ phiếu với tỷ lệ 30%                                | 1773782700000 | https://www.tinnhanhchungkhoan.vn/hoa-sen-hsg-sap-tra-co-tuc-bang-co-phieu-voi-ty-le-30-post386941.html                   |
 | HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                    | 1773769171000 | https://www.hsx.vn/vi/tin-tuc/hsg-cbtt-chi-tra-co-tuc-nien-do-tai-chinh-20242025/2444864                                  |
 | HSG: Nghị quyết HĐQT về việc lựa chọn đơn vị kiểm toán BCTC niên độ tài chính 2025-2026 | 1773337145000 | https://www.hsx.vn/vi/tin-tuc/hsg-nghi-quyet-hdqt-ve-viec-lua-chon-don-vi-kiem-toan-bctc-nien-do-tai-chinh-20252026/2443… |
@@ -130,7 +132,6 @@
 | HSG: Link công bố tài liệu ĐHĐCĐ năm tài chính 2025-2026                                | 1770822265000 | https://www.hsx.vn/vi/tin-tuc/hsg-link-cong-bo-tai-lieu-dhdcd-nam-tai-chinh-20252026/2438409                              |
 | HSG: Nghị quyết HĐQT về việc thay đổi tỷ lệ sở hữu tại Công ty Cổ phần Hoa Sen Sài Gòn  | 1770645508000 | https://www.hsx.vn/vi/tin-tuc/hsg-nghi-quyet-hdqt-ve-viec-thay-doi-ty-le-so-huu-tai-cong-ty-co-phan-hoa-sen-sai-gon/2437… |
 | HSG: Giải trình KQKD HN và Cty mẹ quý 1 NĐTC 2025-2026 so với cùng kỳ năm trước         | 1770026571000 | https://www.hsx.vn/vi/tin-tuc/hsg-giai-trinh-kqkd-hn-va-cty-me-quy-1-ndtc-20252026-so-voi-cung-ky-nam-truoc/2435981       |
-| Lợi nhuận Hoa Sen (HSG) giảm 62,3% trong quý I niên độ tài chính 2025 - 2026            | 1769941260000 | https://www.tinnhanhchungkhoan.vn/loi-nhuan-hoa-sen-hsg-giam-623-trong-quy-i-nien-do-tai-chinh-2025-2026-post384666.html  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -179,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HSG      | 2026-04-03 14:20:59 |   14.85 |      300 | Buy          | 459266191 |
-| HSG      | 2026-04-03 14:20:59 |   14.85 |      500 | Buy          | 459266192 |
-| HSG      | 2026-04-03 14:20:59 |   14.85 |      200 | Buy          | 459266193 |
-| HSG      | 2026-04-03 14:21:03 |   14.85 |      200 | Buy          | 459268278 |
-| HSG      | 2026-04-03 14:21:03 |   14.85 |      300 | Buy          | 459267538 |
-| HSG      | 2026-04-03 14:21:03 |   14.85 |      200 | Buy          | 459267539 |
-| HSG      | 2026-04-03 14:21:03 |   14.85 |      200 | Buy          | 459267685 |
-| HSG      | 2026-04-03 14:21:11 |   14.85 |     1000 | Buy          | 459268710 |
-| HSG      | 2026-04-03 14:21:13 |   14.85 |      100 | Buy          | 459268835 |
-| HSG      | 2026-04-03 14:21:25 |   14.85 |      300 | Buy          | 459269564 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,11 +1,10 @@
 # VPI — VPI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 20:06  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 06/04/2026 08:42  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | VPI      |                87800 |      156824292 |               0.0952022 |
 | 2026-04-05 | VPI      |                87800 |      156824292 |               0.0952022 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                      |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VPI: Thông báo thay đổi nhân sự                                                                                 | 1775239876000 | https://www.hsx.vn/vi/tin-tuc/vpi-thong-bao-thay-doi-nhan-su/2450459                                                      |
 | VPI: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                        | 1775226082000 | https://www.hsx.vn/vi/tin-tuc/vpi-tai-lieu-hop-dhdcd-thuong-nien-2026/2450223                                             |
 | VPI: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 so với cùng kỳ năm trước                              | 1775061034000 | https://www.hsx.vn/vi/tin-tuc/vpi-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc/2449335   |
 | VPI: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                     | 1773429610000 | https://www.hsx.vn/vi/tin-tuc/vpi-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2444220                          |
@@ -131,7 +132,6 @@
 | VPI: Quyết định của HĐQT về việc giao dịch với các bên liên quan                                                | 1771939993000 | https://www.hsx.vn/vi/tin-tuc/vpi-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-cac-ben-lien-quan/2439817                     |
 | VPI: Quyết định của HĐQT về việc thông qua chủ trương ký kết Hợp đồng dịch vụ với Công ty Cổ phần Văn Phú - B&C | 1770657935000 | https://www.hsx.vn/vi/tin-tuc/vpi-quyet-dinh-cua-hdqt-ve-viec-thong-qua-chu-truong-ky-ket-hop-dong-dich-vu-voi-cong-ty-c… |
 | VPI: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước                                    | 1770127075000 | https://www.hsx.vn/vi/tin-tuc/vpi-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2436849          |
-| VPI: Báo cáo tình hình quản trị công ty năm 2025                                                                | 1769798868000 | https://www.hsx.vn/vi/tin-tuc/vpi-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435639                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -178,18 +178,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPI      | 2026-04-03 10:40:21 |    58.3 |     2400 | Sell         | 458913616 |
-| VPI      | 2026-04-03 10:40:32 |    58.4 |     7400 | Buy          | 458913950 |
-| VPI      | 2026-04-03 10:40:32 |    58.4 |     2000 | Buy          | 458913951 |
-| VPI      | 2026-04-03 10:42:03 |    58.4 |     8000 | Buy          | 458916055 |
-| VPI      | 2026-04-03 10:54:43 |    58.5 |     1200 | Buy          | 458937702 |
-| VPI      | 2026-04-03 10:54:47 |    58.5 |     1000 | Buy          | 458937740 |
-| VPI      | 2026-04-03 11:27:49 |    58.4 |      400 | Sell         | 458977519 |
-| VPI      | 2026-04-03 13:00:02 |    58.5 |      100 | Buy          | 458986650 |
-| VPI      | 2026-04-03 13:04:37 |    58.4 |      100 | Sell         | 458998022 |
-| VPI      | 2026-04-03 13:06:24 |    58.5 |     1000 | Buy          | 459004062 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

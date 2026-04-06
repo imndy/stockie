@@ -1,11 +1,10 @@
 # VGC — VGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 20:04  |  🗂 Quarterly: 05/04/2026 20:04
+> 📅 Daily: 06/04/2026 08:38  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | VGC      |               138100 |      219691500 |               0.0225203 |
 | 2026-04-05 | VGC      |               138100 |      219691500 |               0.0225203 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,8 @@
 
 | news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
 |:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                               | 1775239020000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap/2450444                        |
+| VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                             | 1775238995000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-va-duong-dan-tai-lieu/2450443      |
 | VGC: Báo cáo thường niên năm 2025                                                                           | 1774635566000 | https://www.hsx.vn/vi/tin-tuc/vgc-bao-cao-thuong-nien-nam-2025/2447654                                                    |
 | VGC: Nghị quyết HĐQT về việc chấm dứt hoạt động Viện Nghiên cứu phát triển Viglacera                        | 1773767919000 | https://www.hsx.vn/vi/tin-tuc/vgc-nghi-quyet-hdqt-ve-viec-cham-dut-hoat-dong-vien-nghien-cuu-phat-trien-viglacera/244485… |
 | VGC: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                 | 1773424900000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2444218          |
@@ -130,8 +132,6 @@
 | VGC: Đính chính chỉ tiêu doanh thu của kế hoạch SXKD và ĐTPT năm 2026                                       | 1767603190000 | https://www.hsx.vn/vi/tin-tuc/vgc-dinh-chinh-chi-tieu-doanh-thu-cua-ke-hoach-sxkd-va-dtpt-nam-2026/2428233                |
 | VGC: Quyết định của HĐQT phê duyệt tạm thời kế hoạch sản xuất kinh doanh năm 2026                           | 1767190621000 | https://www.hsx.vn/vi/tin-tuc/vgc-quyet-dinh-cua-hdqt-phe-duyet-tam-thoi-ke-hoach-san-xuat-kinh-doanh-nam-2026/2427712    |
 | VGC: CBTT hoàn thành chuyển cổ phần của các công ty con                                                     | 1767030040000 | https://www.hsx.vn/vi/tin-tuc/vgc-cbtt-hoan-thanh-chuyen-co-phan-cua-cac-cong-ty-con/2427323                              |
-| VGC: CBTT chuyển tiền vốn góp cho công ty con                                                               | 1767025759000 | https://www.hsx.vn/vi/tin-tuc/vgc-cbtt-chuyen-tien-von-gop-cho-cong-ty-con/2427194                                        |
-| VGC: Nghị quyết HĐQT số 362 ngày 22/12/2025                                                                 | 1766481163000 | https://www.hsx.vn/vi/tin-tuc/vgc-nghi-quyet-hdqt-so-362-ngay-22122025/2425597                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VGC      | 2026-04-03 14:13:57 |      45 |      100 | Sell         | 459235313 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      100 | Sell         | 459235320 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      500 | Sell         | 459235316 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      200 | Sell         | 459235317 |
-| VGC      | 2026-04-03 14:13:57 |      45 |     1200 | Sell         | 459235318 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      100 | Sell         | 459235319 |
-| VGC      | 2026-04-03 14:13:57 |      45 |     1000 | Sell         | 459235315 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      100 | Sell         | 459235321 |
-| VGC      | 2026-04-03 14:13:57 |      45 |     1700 | Sell         | 459235322 |
-| VGC      | 2026-04-03 14:13:57 |      45 |      100 | Sell         | 459235324 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

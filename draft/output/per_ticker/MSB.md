@@ -1,11 +1,10 @@
 # MSB — MSB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:57  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 06/04/2026 08:29  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | MSB      |               241300 |      936000000 |                0.287284 |
 | 2026-04-05 | MSB      |               241300 |      936000000 |                0.287284 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| MSB: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                                         | 1775238064000 | https://www.hsx.vn/vi/tin-tuc/msb-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450380                                    |
 | MSB: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Rox Living                    | 1774891020000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
 | MSB: Rox Living đăng ký bán toàn bộ trên 31 triệu cổ phiếu                                                                | 1774625580000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-rox-living… |
 | MSB: Nghị quyết HĐQT về việc phê duyệt hạn mức tín dụng cho NLQ của NNB                                                   | 1774538300000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-tin-dung-cho-nlq-cua-nnb/2446989              |
@@ -131,7 +132,6 @@
 | MSB: Nghị quyết HĐQT phê duyệt hạn mức thẻ tín dụng cho người nội bộ                                                      | 1772642004000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-phe-duyet-han-muc-the-tin-dung-cho-nguoi-noi-bo/2441810                 |
 | MSB: Công ty TNHH MTV -TCT Bảo đảm an toàn Hàng Hải Việt Nam đăng ký bán trên 2,45 triệu cổ phiếu                         | 1772184960000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-co-dong-nha-nuoc-cong-ty-tnhh-mtv-tct-bao-dam-an-toan… |
 | MSB: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty TNHH MTV - Tổng công ty Bảo đả… | 1772125256000 | https://www.hsx.vn/vi/tin-tuc/msb-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-t… |
-| MSB: CBTT về việc chuyển địa điểm và đổi tên Phòng GD Bùi Thị Xuân                                                        | 1772124567000 | https://www.hsx.vn/vi/tin-tuc/msb-cbtt-ve-viec-chuyen-dia-diem-va-doi-ten-phong-gd-bui-thi-xuan/2440353                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -176,18 +176,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSB      | 2026-04-03 14:15:43 |   11.45 |      100 | Sell         | 459245838 |
-| MSB      | 2026-04-03 14:15:43 |   11.45 |    13400 | Sell         | 459245843 |
-| MSB      | 2026-04-03 14:15:43 |   11.45 |     2000 | Sell         | 459245842 |
-| MSB      | 2026-04-03 14:15:43 |   11.45 |      200 | Sell         | 459245839 |
-| MSB      | 2026-04-03 14:15:43 |   11.45 |      600 | Sell         | 459245840 |
-| MSB      | 2026-04-03 14:15:43 |   11.45 |      200 | Sell         | 459245841 |
-| MSB      | 2026-04-03 14:15:45 |   11.45 |      100 | Sell         | 459245992 |
-| MSB      | 2026-04-03 14:15:54 |   11.45 |      100 | Sell         | 459246537 |
-| MSB      | 2026-04-03 14:16:02 |   11.45 |      100 | Sell         | 459247255 |
-| MSB      | 2026-04-03 14:16:05 |   11.45 |      100 | Sell         | 459247593 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

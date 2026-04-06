@@ -1,11 +1,10 @@
 # CTD — CTD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:49  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 06/04/2026 08:25  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | CTD      |                63547 |       53264788 |                0.489677 |
 | 2026-04-05 | CTD      |                63547 |       53264788 |                0.489677 |
 
 ## Tóm tắt chỉ số tài chính
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                    |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH             | 1774547013000 | https://www.hsx.vn/vi/tin-tuc/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu… |
-| CTD: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 30                                                 | 1772209945000 | https://www.hsx.vn/vi/tin-tuc/ctd-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-30/2440619                        |
-| CTD: Thông báo nhận được Văn bản của UBCKNN về tài liệu báo cáo kết quả đợt chào bán trái phiếu ra công chúng | 1770659057000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-nhan-duoc-van-ban-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-dot-chao-ban-trai-p… |
-| CTD: Báo cáo và Quyết định thông qua kết quả đợt chào bán trái phiếu ra công chúng                            | 1770302918000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-va-quyet-dinh-thong-qua-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung/2437309   |
-| CTD: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ                                              | 1770140340000 | https://www.hsx.vn/vi/tin-tuc/ctd-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le/2436970                     |
-| CTD: Điều lệ công ty sửa đổi                                                                                  | 1770140297000 | https://www.hsx.vn/vi/tin-tuc/ctd-dieu-le-cong-ty-sua-doi/2436969                                                         |
-| CTD: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn cơ sở CTD         | 1770047673000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-doan… |
-| CTD: Báo cáo tình hình quản trị công ty năm 2025                                                              | 1770040602000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436171                                     |
-| CTD: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                        | 1769706180000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2434879               |
-| CTD: Thông báo về việc ký hợp đồng kiểm toán BCTC năm 2026                                                    | 1769506493000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-nam-2026/2433849                           |
+| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| CTD: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ… | 1775237454000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tang… |
+| CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH                         | 1774547013000 | https://www.hsx.vn/vi/tin-tuc/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu… |
+| CTD: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 30                                                             | 1772209945000 | https://www.hsx.vn/vi/tin-tuc/ctd-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-30/2440619                        |
+| CTD: Thông báo nhận được Văn bản của UBCKNN về tài liệu báo cáo kết quả đợt chào bán trái phiếu ra công chúng             | 1770659057000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-nhan-duoc-van-ban-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-dot-chao-ban-trai-p… |
+| CTD: Báo cáo và Quyết định thông qua kết quả đợt chào bán trái phiếu ra công chúng                                        | 1770302918000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-va-quyet-dinh-thong-qua-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung/2437309   |
+| CTD: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ                                                          | 1770140340000 | https://www.hsx.vn/vi/tin-tuc/ctd-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le/2436970                     |
+| CTD: Điều lệ công ty sửa đổi                                                                                              | 1770140297000 | https://www.hsx.vn/vi/tin-tuc/ctd-dieu-le-cong-ty-sua-doi/2436969                                                         |
+| CTD: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn cơ sở CTD                     | 1770047673000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-doan… |
+| CTD: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1770040602000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436171                                     |
+| CTD: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                                    | 1769706180000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2434879               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -180,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTD      | 2026-04-03 14:18:53 |    80.1 |     1700 | Buy          | 459259636 |
-| CTD      | 2026-04-03 14:19:15 |    80.1 |      500 | Sell         | 459260916 |
-| CTD      | 2026-04-03 14:19:15 |    80.1 |      500 | Sell         | 459260917 |
-| CTD      | 2026-04-03 14:19:42 |    80.2 |      100 | Buy          | 459262515 |
-| CTD      | 2026-04-03 14:19:42 |    80.2 |      300 | Buy          | 459262516 |
-| CTD      | 2026-04-03 14:20:05 |    80.2 |      100 | Buy          | 459264053 |
-| CTD      | 2026-04-03 14:20:05 |    80.2 |      400 | Buy          | 459264055 |
-| CTD      | 2026-04-03 14:20:06 |    80.2 |      100 | Sell         | 459264131 |
-| CTD      | 2026-04-03 14:20:41 |    80.1 |      500 | Sell         | 459265833 |
-| CTD      | 2026-04-03 14:20:41 |    80.1 |      100 | Sell         | 459265834 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

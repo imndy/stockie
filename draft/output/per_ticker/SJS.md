@@ -1,11 +1,10 @@
 # SJS — SJS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 20:02  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 06/04/2026 08:36  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | SJS      |                    0 |      148737414 |              0.00578658 |
 | 2026-04-05 | SJS      |                    0 |      148737414 |              0.00578658 |
 
 ## Tóm tắt chỉ số tài chính
@@ -122,6 +122,7 @@
 
 | news_title                                                                                        |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing     | 1775239184000 | https://www.hsx.vn/vi/tin-tuc/sjs-thong-bao-thay-doi-nhan-su--bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh--marketing… |
 | SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                     | 1774977337000 | https://www.hsx.vn/vi/tin-tuc/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026/2448844                                        |
 | SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026      | 1774977283000 | https://www.hsx.vn/vi/tin-tuc/sjs-nghi-quyet-hdqt-ve-viec-phe-duyet-thoi-gian-dia-diem-va-tai-lieu-hop-dhdcd-tn-nam-2026… |
 | SJS: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                 | 1774887375000 | https://www.hsx.vn/vi/tin-tuc/sjs-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc/2448124                    |
@@ -131,20 +132,19 @@
 | SJS: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                    | 1772733168000 | https://www.hsx.vn/vi/tin-tuc/sjs-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2442162                       |
 | SJS: Báo cáo về thay đổi sở hữu của CĐ lớn CTCP TM dịch vụ Đầu tư An Phát                         | 1772558700000 | https://www.hsx.vn/vi/tin-tuc/sjs-bao-cao-ve-thay-doi-so-huu-cua-cd-lon-ctcp-tm-dich-vu-dau-tu-an-phat/2441543            |
 | SJS: Nghị quyết HĐQT về kế hoạch tổ chức ĐHĐCĐTN 2026                                             | 1772466579000 | https://www.hsx.vn/vi/tin-tuc/sjs-nghi-quyet-hdqt-ve-ke-hoach-to-chuc-dhdcdtn-2026/2441117                                |
-| SJS: Báo cáo về thay đổi sở hữu của cổ đông lớn Công ty Cổ phần Thương mại Dịch vụ Đầu tư An Phát | 1772215020000 | https://www.hsx.vn/vi/tin-tuc/sjs-bao-cao-ve-thay-doi-so-huu-cua-co-dong-lon-cong-ty-co-phan-thuong-mai-dich-vu-dau-tu-a… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                         | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:----------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu         | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%         | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Đợt 2 năm 2017 bằng tiền 500 đồng/cp | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
-| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%         | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP   | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP         | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
+| event_list_name          | event_title                                       | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:--------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu       | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%       | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
+| Trả cổ tức bằng tiền mặt | SJS - Trả cổ tức Đợt 1, 2017 bằng tiền 500 VND/CP | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
+| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%       | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP       | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -173,18 +173,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SJS      | 2026-04-03 09:19:34 |    48.2 |      100 | Sell         | 458757902 |
-| SJS      | 2026-04-03 09:19:34 |    48.1 |      100 | Sell         | 458757903 |
-| SJS      | 2026-04-03 09:19:40 |    48   |      100 | Sell         | 458758057 |
-| SJS      | 2026-04-03 09:19:40 |    48   |      100 | Sell         | 458758058 |
-| SJS      | 2026-04-03 09:54:02 |    48.8 |      100 | Buy          | 458825829 |
-| SJS      | 2026-04-03 11:00:06 |    49   |      400 | Sell         | 458944561 |
-| SJS      | 2026-04-03 11:01:54 |    49   |      100 | Sell         | 458946641 |
-| SJS      | 2026-04-03 13:05:05 |    49.3 |      400 | Buy          | 458999709 |
-| SJS      | 2026-04-03 13:05:24 |    49.4 |      600 | Buy          | 459000521 |
-| SJS      | 2026-04-03 13:34:30 |    49   |      300 | Sell         | 459092522 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # HDB — HDB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:54  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 06/04/2026 08:27  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -64,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | HDB      |              6254370 |     1351424607 |                0.222499 |
 | 2026-04-05 | HDB      |              6254370 |     1351424607 |                0.222499 |
 
 ## Tóm tắt chỉ số tài chính
@@ -121,6 +122,8 @@
 
 | news_title                                                                                                     |   public_date | news_source_link                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HDB đặt kế hoạch lợi nhuận hơn 30.000 tỷ đồng trước thuế trong 2026                                            | 1775386260000 | https://www.tinnhanhchungkhoan.vn/hdbank-hdb-dat-ke-hoach-loi-nhuan-hon-30000-ty-dong-truoc-thue-trong-2026-post388157.h… |
+| HDB: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                       | 1775239604000 | https://www.hsx.vn/vi/tin-tuc/hdb-tai-lieu-hop-dhdcd-thuong-nien-2026/2450470                                             |
 | HDB: Báo cáo kết quả mua lại trước hạn trái phiếu phát hành ra công chúng - HDBC7Y202301                       | 1775035040000 | https://www.hsx.vn/vi/tin-tuc/hdb-bao-cao-ket-qua-mua-lai-truoc-han-trai-phieu-phat-hanh-ra-cong-chung--hdbc7y202301/244… |
 | HDB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả chào bán trái phiếu ra công chúng đợt 1 của HDB | 1774891174000 | https://www.hsx.vn/vi/tin-tuc/hdb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-… |
 | HDB: Nghị quyết HĐQT về việc mua bán nợ giữa HDBank và NH TNHH MTV Số Vikki                                    | 1774891110000 | https://www.hsx.vn/vi/tin-tuc/hdb-nghi-quyet-hdqt-ve-viec-mua-ban-no-giua-hdbank-va-nh-tnhh-mtv-so-vikki/2448267          |
@@ -129,28 +132,26 @@
 | HDB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng (đợt 1)                                             | 1774536707000 | https://www.hsx.vn/vi/tin-tuc/hdb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung-dot-1/2446952                     |
 | HDB: Nghị quyết HĐQT về phương án tăng tỷ lệ sở hữu tại Công ty Tài chính TNHH HD SAISON                       | 1774373207000 | https://www.hsx.vn/vi/tin-tuc/hdb-nghi-quyet-hdqt-ve-phuong-an-tang-ty-le-so-huu-tai-cong-ty-tai-chinh-tnhh-hd-saison/24… |
 | HDB: Phó TGĐ đăng ký mua 100.000 cổ phiếu                                                                      | 1774370520000 | https://www.hsx.vn/vi/tin-tuc/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-hoai-nam/2446377                     |
-| HDB: Chủ tịch HĐQT đăng ký mua 100.000 cổ phiếu                                                                | 1774367880000 | https://www.hsx.vn/vi/tin-tuc/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-kim-byoungho/2446286                      |
-| HDB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Trần Hoài Nam                                         | 1773855219000 | https://www.hsx.vn/vi/tin-tuc/hdb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-hoai-nam/2445148               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 | event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 1.145.860.486 cổ phiếu                 | 2026-01-15    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu thưởng tỷ lệ 4,69%                   | 2025-12-12    | 2025-12-19    | 2025-12-18     |  0.0469 |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 349.273.583 cổ phiếu                   | 2025-11-19    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 582.510.122 cổ phiếu                   | 2025-01-09    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2024-12-06    | 2024-12-12    | 2024-12-11     |  0.2    |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 20.000.000 cổ phiếu                    | 2024-10-29    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-07-10    | 2024-07-15    | 2024-07-12     |  0.1    |    1000 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 377,289,210 cổ phiếu                   | 2023-08-22    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-07-05    | 2023-07-20    | 2023-07-19     |  0.15   |       0 |
-| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-15    | 2023-05-30    | 2023-05-29     |  0.1    |    1000 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 503,052,280 cổ phiếu                   | 2022-10-28    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-09-20    | 2022-09-28    | 2022-09-27     |  0.25   |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 20,000,000 cổ phiếu                    | 2022-08-17    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 398.441.824 cổ phiếu                   | 2021-10-08    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 338.072.453 cổ phiếu                   | 2020-12-17    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 1.145.860.486 cổ phiếu                 | 2026-01-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2025-12-12    | 2025-12-19    | 2025-12-18     |    0.25 |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 349.273.583 cổ phiếu                   | 2025-11-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 582.510.122 cổ phiếu                   | 2025-01-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2024-12-06    | 2024-12-12    | 2024-12-11     |    0.2  |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 20.000.000 cổ phiếu                    | 2024-10-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-07-10    | 2024-07-15    | 2024-07-12     |    0.1  |    1000 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 377,289,210 cổ phiếu                   | 2023-08-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-07-05    | 2023-07-20    | 2023-07-19     |    0.15 |       0 |
+| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-15    | 2023-05-30    | 2023-05-29     |    0.1  |    1000 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 503,052,280 cổ phiếu                   | 2022-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-09-20    | 2022-09-28    | 2022-09-27     |    0.25 |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 20,000,000 cổ phiếu                    | 2022-08-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 398.441.824 cổ phiếu                   | 2021-10-08    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 338.072.453 cổ phiếu                   | 2020-12-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
@@ -179,18 +180,7 @@
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDB      | 2026-04-03 14:26:01 |    25.3 |      800 | Sell         | 459289194 |
-| HDB      | 2026-04-03 14:26:10 |    25.3 |      700 | Sell         | 459289784 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |     5800 | Sell         | 459290360 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |     7700 | Sell         | 459290366 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |     1900 | Sell         | 459290365 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |     1900 | Sell         | 459290357 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |     1900 | Sell         | 459290363 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |      400 | Sell         | 459290362 |
-| HDB      | 2026-04-03 14:26:16 |    25.3 |      400 | Sell         | 459290364 |
-| HDB      | 2026-04-03 14:26:17 |    25.3 |      200 | Sell         | 459290420 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

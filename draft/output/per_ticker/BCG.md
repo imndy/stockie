@@ -1,11 +1,10 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 19:47  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 06/04/2026 08:23  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -65,6 +64,7 @@
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-06 | BCG      |                    0 |      440105322 |               0.0113604 |
 | 2026-04-05 | BCG      |                    0 |      440105322 |               0.0113604 |
 
 ## Tóm tắt chỉ số tài chính

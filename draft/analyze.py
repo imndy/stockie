@@ -38,12 +38,14 @@ import pandas as pd
 #   Guest: 20/phút  → đặt 18
 #   Community (miễn phí sau đăng ký): 60/phút → đặt 57  ← hiện tại
 #   Sponsor: 180-600/phút → đặt tương ứng
-API_CALLS_PER_MIN = 57  # ← Community 60/min
+API_CALLS_PER_MIN = 25  # ← Community 60/min server-side; 25 tracked ≈ 50-60 real
+                        #   vì vnstock/tenacity retry nội bộ mỗi failed call thêm 1-2 lần
+                        #   → 1 tracked call có thể = 2-3 server requests
 
 RATE_LIMIT_RETRY_WAIT = 65  # s — chẹ nếu vẫn bị bắt sau khi throttle
 
 _CALL_LOG: deque = deque()   # rolling window timestamps
-_WINDOW_SEC: float = 62.0    # một chút lớn hơn 60s để an toàn
+_WINDOW_SEC: float = 60.0    # khớp chính xác server window (60s)
 
 
 def _throttle() -> None:
@@ -127,7 +129,7 @@ def safe_call(func, *args, max_retries: int = 2, **kwargs) -> pd.DataFrame:
                 print(f"    [RATE LIMIT] Bỏ qua sau {max_retries} lần thử.")
                 return pd.DataFrame()
         except Exception as exc:
-            print(f"    [WARN] {exc}")
+            print(f"    [WARN] {func.__qualname__}: {exc}")
             return pd.DataFrame()
     return pd.DataFrame()
 
@@ -228,8 +230,21 @@ FOREIGN_FLOW_CSV = BASE_DIR / "output" / "foreign_flow_history.csv"
 SNAPSHOT_MD      = BASE_DIR / "output" / "per_ticker" / "bluechip_snapshot.md"
 
 
+def _last_trading_date() -> date:
+    """Trả về ngày phiên giao dịch gần nhất (bỏ qua T7/CN → lùi về T6)."""
+    d = date.today()
+    # weekday(): 0=T2, 5=T7, 6=CN
+    if d.weekday() == 6:    # CN → lùi 2 ngày về T6
+        d -= timedelta(days=2)
+    elif d.weekday() == 0:  # T2 → lùi 3 ngày về T6 tuần trước
+        d -= timedelta(days=3)
+    return d
+
+
 def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
-    """Ghi snapshot dòng tiền NN hôm nay vào CSV tích lũy."""
+    """Ghi snapshot dòng tiền NN vào CSV tích lũy.
+    Nếu hôm nay là CN hoặc T2, dùng ngày T6 tuần trước (phiên giao dịch cuối).
+    """
     if ts.empty:
         return
     r = ts.iloc[0]
@@ -239,7 +254,7 @@ def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
                 return r[c]
         return None
     row = {
-        "date":                   date.today().isoformat(),
+        "date":                   _last_trading_date().isoformat(),
         "ticker":                 ticker,
         "foreign_buy_volume":     _g("foreign_volume"),   # VCI: KL khớp NN (net buy)
         "foreign_room":           _g("foreign_room"),
@@ -285,6 +300,7 @@ def fetch_intraday(stock_vci, ticker: str) -> pd.DataFrame:
 
 def fetch_price_board(vs, tickers: list[str]) -> pd.DataFrame:
     """Bảng giá hiện tại cho toàn bộ danh sách."""
+    _throttle()  # price_board không qua safe_call — phải track thủ công
     try:
         board = vs.stock(symbol=tickers[0], source=SOURCE_QUOTE).trading.price_board(
             symbols_list=tickers
@@ -985,14 +1001,10 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
     else:
         lines.append("| VN-Index đóng cửa | N/A |")
 
-    if nn_total is not None:
-        label = "MUA RÒNG" if nn_total >= 0 else "BÁN RÒNG"
-        lines.append(f"| Khối ngoại ({len(snapshot_rows)} mã theo dõi) | {nn_total:+.1f} tỷ ({label}) |")
-    else:
-        lines.append("| Khối ngoại (tổng mã theo dõi) | — |")
+    lines.append("| Khối ngoại (tổng mã theo dõi) | N/A — KL khớp NN ≠ mua/bán ròng thực |")
 
     lines += [
-        f"| Khối ngoại tích lũy tháng {run_dt.strftime('%m/%Y')} | {nn_month_str} tỷ (ước tính) |",
+        f"| Khối ngoại tích lũy tháng {run_dt.strftime('%m/%Y')} | N/A — cần nguồn buy/sell riêng biệt |",
         "| Tự doanh HOSE | N/A — không có từ API |",
         f"| Nhóm bị xả mạnh nhất | {worst_sector} |",
         f"| Nhóm được mua nhiều nhất | {best_sector} |",
