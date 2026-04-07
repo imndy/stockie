@@ -1,6 +1,6 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:40  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 07/04/2026 12:17  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | VIB |
 | exchange | HOSE |
-| ev | 56676695071500 |
-| ceiling | 18050 |
-| floor | 15750 |
-| ref_price | 16900 |
-| open | 16950 |
+| ev | 56676694905000 |
+| ceiling | 17800 |
+| floor | 15500 |
+| ref_price | 16650 |
+| open | 16650 |
 | match_price | 16650 |
 | close_price | 16650 |
-| price_change | -250 |
-| price_change_pct | -0.0147929 |
-| high | 17000 |
-| low | 16650 |
-| total_volume | 5900628 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 16850 |
+| low | 16550 |
+| total_volume | 4630642 |
 | high_price_1y | 24800 |
 | low_price_1y | 13754 |
 | pct_low_change_1y | 0.1641688848 |
 | pct_high_change_1y | -0.2944915254 |
-| foreign_volume | 280200 |
+| foreign_volume | 901000 |
 | foreign_room | 169859884 |
-| avg_match_volume_2w | 5034274 |
-| foreign_holding_room | 169057184 |
-| current_holding_ratio | 0.049664189311832856 |
+| avg_match_volume_2w | 4831354 |
+| foreign_holding_room | 169859884 |
+| current_holding_ratio | 0.04989999972708624 |
 | max_holding_ratio | 0.0499 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.65 |
-| EMA20 | 16.9 |
-| EMA50 | 17.14 |
-| RSI(14) | 45.6 |
+| Giá đóng cửa | 16.6 |
+| EMA20 | 16.85 |
+| EMA50 | 17.1 |
+| RSI(14) | 44.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.041 |
-| MACD Signal | -0.064 |
-| MACD Histogram | 0.023 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| MACD | -0.073 |
+| MACD Signal | -0.065 |
+| MACD Histogram | -0.008 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 280200 |
+| KL khớp NN hôm nay | 901000 |
 | Room NN còn lại | 169859884 |
-| Tỷ lệ sở hữu NN hiện tại | 0.049664189311832856 |
+| Tỷ lệ sở hữu NN hiện tại | 0.04989999972708624 |
 | Tỷ lệ sở hữu NN tối đa | 0.0499 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | VIB      |               280200 |      169859884 |               0.0496642 |
-| 2026-04-05 | VIB      |               280200 |      169859884 |               0.0496642 |
+| 2026-04-06 | VIB      |               901000 |      169859884 |               0.0499    |
+| 2026-04-03 | VIB      |               280200 |      169859884 |               0.0496642 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -147,8 +147,8 @@
 | Niêm yết thêm            | VIB - Niêm yết bổ sung 429,134,589 cổ phiếu                  | 2023-07-26    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 2 năm 2022 bằng tiền 500 đồng/cổ phiếu  | 2023-03-31    | 2023-04-07    | 2023-04-06     |   0.05  |     500 |
 | Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-02-08    | 2023-02-10    | 2023-02-09     |   0.1   |    1000 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 486,084,050 cổ phiếu                  | 2022-07-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Niêm yết thêm            | VIB - Niêm yết bổ sung 10,901,143 cổ phiếu                   | 2022-07-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm            | VIB - Niêm yết bổ sung 486,084,050 cổ phiếu                  | 2022-07-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 35%                    | 2022-05-09    | 2022-05-16    | 2022-05-13     |   0.35  |       0 |
 | Niêm yết thêm            | VIB - Niêm yết bổ sung 396.803.383 cổ phiếu                  | 2021-07-20    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 40%                    | 2021-06-04    | 2021-06-10    | 2021-06-09     |   0.4   |       0 |
@@ -157,8 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2026-03-09 00:00:00 |  15.7  |  15.9  | 15.55 |   15.65 | 25152500 |
-| VIB      | 2026-03-10 00:00:00 |  16.3  |  16.4  | 15.95 |   16.1  |  9851800 |
 | VIB      | 2026-03-11 00:00:00 |  16.25 |  17.2  | 16.2  |   17.05 | 11598900 |
 | VIB      | 2026-03-12 00:00:00 |  17    |  17    | 16.6  |   16.65 |  3945300 |
 | VIB      | 2026-03-13 00:00:00 |  16.65 |  17    | 16.55 |   16.9  |  4482400 |
@@ -177,10 +175,23 @@
 | VIB      | 2026-04-01 00:00:00 |  17.15 |  17.4  | 17.1  |   17.2  |  5681800 |
 | VIB      | 2026-04-02 00:00:00 |  17.15 |  17.15 | 16.85 |   16.9  |  4091500 |
 | VIB      | 2026-04-03 00:00:00 |  16.95 |  17    | 16.65 |   16.65 |  4380800 |
+| VIB      | 2026-04-06 00:00:00 |  16.65 |  16.85 | 16.55 |   16.65 |  3636500 |
+| VIB      | 2026-04-07 00:00:00 |  16.7  |  16.8  | 16.6  |   16.6  |  1128700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      500 | Sell         | 460048171 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |     4400 | Sell         | 460048185 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |     3000 | Sell         | 460048184 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      300 | Sell         | 460048183 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      100 | Sell         | 460048182 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |     1000 | Sell         | 460048181 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |     5000 | Sell         | 460048180 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      500 | Sell         | 460048172 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      200 | Sell         | 460048178 |
+| VIB      | 2026-04-07 11:11:08 |   16.65 |      300 | Sell         | 460048177 |
 
 <!-- END:DAILY -->
 

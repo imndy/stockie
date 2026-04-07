@@ -38,14 +38,14 @@ import pandas as pd
 #   Guest: 20/phút  → đặt 18
 #   Community (miễn phí sau đăng ký): 60/phút → đặt 57  ← hiện tại
 #   Sponsor: 180-600/phút → đặt tương ứng
-API_CALLS_PER_MIN = 25  # ← Community 60/min server-side; 25 tracked ≈ 50-60 real
+API_CALLS_PER_MIN = 57  # ← Community 60/min server-side; 25 tracked ≈ 50-60 real
                         #   vì vnstock/tenacity retry nội bộ mỗi failed call thêm 1-2 lần
                         #   → 1 tracked call có thể = 2-3 server requests
 
 RATE_LIMIT_RETRY_WAIT = 65  # s — chẹ nếu vẫn bị bắt sau khi throttle
 
 _CALL_LOG: deque = deque()   # rolling window timestamps
-_WINDOW_SEC: float = 60.0    # khớp chính xác server window (60s)
+_WINDOW_SEC: float = 61.0    # khớp chính xác server window (60s)
 
 
 def _throttle() -> None:
@@ -59,7 +59,7 @@ def _throttle() -> None:
     if len(_CALL_LOG) >= API_CALLS_PER_MIN:
         wait = _WINDOW_SEC - (now - _CALL_LOG[0]) + 0.5
         if wait > 0:
-            print(f"  [PACE] Chủ {wait:.0f}s — đã dùng {len(_CALL_LOG)}/{API_CALLS_PER_MIN} req/phút...")
+            print(f"  [PACE] Chủ động đợi {wait:.0f}s — đã dùng {len(_CALL_LOG)}/{API_CALLS_PER_MIN} req/phút...")
             time.sleep(wait)
         now = time.monotonic()
         while _CALL_LOG and now - _CALL_LOG[0] > _WINDOW_SEC:
@@ -231,19 +231,25 @@ SNAPSHOT_MD      = BASE_DIR / "output" / "per_ticker" / "bluechip_snapshot.md"
 
 
 def _last_trading_date() -> date:
-    """Trả về ngày phiên giao dịch gần nhất (bỏ qua T7/CN → lùi về T6)."""
+    """Trả về ngày phiên giao dịch của hôm qua (pipeline chạy T+1).
+    - T3–T7 (run T4–CN): trừ 1 ngày → T2–T6 ✓
+    - CN  (run T+1 = CN): trừ 2 ngày → T6 ✓
+    - T2  (run T+1 = T2): trừ 3 ngày → T6 tuần trước ✓
+    """
     d = date.today()
     # weekday(): 0=T2, 5=T7, 6=CN
     if d.weekday() == 6:    # CN → lùi 2 ngày về T6
         d -= timedelta(days=2)
     elif d.weekday() == 0:  # T2 → lùi 3 ngày về T6 tuần trước
         d -= timedelta(days=3)
+    else:                   # T3–T7 → lùi 1 ngày về phiên hôm qua
+        d -= timedelta(days=1)
     return d
 
 
 def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
     """Ghi snapshot dòng tiền NN vào CSV tích lũy.
-    Nếu hôm nay là CN hoặc T2, dùng ngày T6 tuần trước (phiên giao dịch cuối).
+    Dùng _last_trading_date() — luôn là ngày phiên hôm qua (T+1 logic).
     """
     if ts.empty:
         return

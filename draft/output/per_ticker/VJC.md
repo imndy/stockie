@@ -1,6 +1,6 @@
 # VJC — VJC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:40  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 07/04/2026 12:18  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | VJC |
 | exchange | HOSE |
-| ev | 95308585907400 |
-| ceiling | 177000 |
-| floor | 154000 |
-| ref_price | 165500 |
-| open | 165000 |
-| match_price | 161100 |
-| close_price | 161100 |
-| price_change | -4400 |
-| price_change_pct | -0.0265861 |
-| high | 170500 |
-| low | 161100 |
-| total_volume | 4469435 |
+| ev | 96610130842200 |
+| ceiling | 172300 |
+| floor | 149900 |
+| ref_price | 161100 |
+| open | 159000 |
+| match_price | 163300 |
+| close_price | 163300 |
+| price_change | 2200 |
+| price_change_pct | 0.01365611 |
+| high | 163500 |
+| low | 159000 |
+| total_volume | 1265899 |
 | high_price_1y | 220000 |
 | low_price_1y | 77100 |
-| pct_low_change_1y | 1.0366624526 |
-| pct_high_change_1y | -0.2647193063 |
-| foreign_volume | 307723 |
+| pct_low_change_1y | 1.0644753477 |
+| pct_high_change_1y | -0.2546782291 |
+| foreign_volume | 200740 |
 | foreign_room | 177483400 |
-| avg_match_volume_2w | 1241155 |
-| foreign_holding_room | 38379884 |
-| current_holding_ratio | 0.06487347654499127 |
+| avg_match_volume_2w | 1244003 |
+| foreign_holding_room | 38485784 |
+| current_holding_ratio | 0.06505247920081261 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 161.1 |
-| EMA20 | 159.86 |
-| EMA50 | 166.28 |
-| RSI(14) | 49.9 |
+| Giá đóng cửa | 161.7 |
+| EMA20 | 160.33 |
+| EMA50 | 165.99 |
+| RSI(14) | 50.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.533 |
-| MACD Signal | -3.291 |
-| MACD Histogram | 1.758 |
+| MACD | -0.897 |
+| MACD Signal | -2.463 |
+| MACD Histogram | 1.566 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 307723 |
+| KL khớp NN hôm nay | 200740 |
 | Room NN còn lại | 177483400 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06487347654499127 |
+| Tỷ lệ sở hữu NN hiện tại | 0.06505247920081261 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | VJC      |               307723 |      177483400 |               0.0648735 |
-| 2026-04-05 | VJC      |               307723 |      177483400 |               0.0648735 |
+| 2026-04-06 | VJC      |               200740 |      177483400 |               0.0650525 |
+| 2026-04-03 | VJC      |               307723 |      177483400 |               0.0648735 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -83,8 +83,8 @@
 | roe | 0.1014080408 |
 | roic | 0.0419025876 |
 | roa | 0.0177836469 |
-| pe | 44.9032087585 |
-| pb | 3.8485751833 |
+| pe | 45.5164121059 |
+| pb | 3.9011317655 |
 | eps | 3587.716879350726 |
 | current_ratio | 1.066825941 |
 | cash_ratio | 0.2569820212 |
@@ -94,12 +94,12 @@
 | fae | 1.4082882196137296 |
 | net_profit_margin | 0.025855252825307352 |
 | gross_margin | 0.10316238143794385 |
-| ev | 95308585907400 |
+| ev | 96610130842200 |
 | issue_share | 591611334 |
-| ps | 1.1609838151 |
-| pcf | 63.1579456791 |
+| ps | 1.1768383427 |
+| pcf | 64.0204377989 |
 | bvps | 41859.6473574423 |
-| ev_per_ebitda | 30.6149318113 |
+| ev_per_ebitda | 30.8748213736 |
 | at | 0.6878156245 |
 | fat | 3.3435870864 |
 | acp | 77.00592296875209 |
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                         |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VJC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Phước Hùng Anh Victor       | 1775152048000 | https://www.hsx.vn/vi/tin-tuc/vjc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-phuo… |
-| VJC: Giải trình biến động KQKD kiểm toán năm 2025 so với cùng kỳ năm trước                                         | 1774886987000 | https://www.hsx.vn/vi/tin-tuc/vjc-giai-trinh-bien-dong-kqkd-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2448114           |
-| VJC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên 2026                                            | 1773429690000 | https://www.hsx.vn/vi/tin-tuc/vjc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-2026/2444221              |
-| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                                    | 1773164724000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026/2443248                      |
-| VJC: Con Chủ tịch HĐQT đăng ký mua 2 triệu cổ phiếu                                                                | 1773158280000 | https://www.hsx.vn/vi/tin-tuc/vjc-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-nguyen-phuoc-hung… |
-| VJC: Báo cáo tình hình quản trị công ty năm 2025                                                                   | 1770040838000 | https://www.hsx.vn/vi/tin-tuc/vjc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436177                                     |
-| VJC: Giải trình biến động KQKD quý 4/2025 so với cùng kỳ năm trước                                                 | 1769803716000 | https://www.hsx.vn/vi/tin-tuc/vjc-giai-trinh-bien-dong-kqkd-quy-42025-so-voi-cung-ky-nam-truoc/2435808                    |
-| VJC: Nghị quyết về việc phê duyệt phương án phát hành trái phiếu riêng lẻ lần 3 năm 2025                           | 1767203038000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-rieng-le-lan-3-nam-2025/24… |
-| VJC: Nghị quyết HĐQT về việc phê duyệt phương án tăng vốn góp vào Công ty TNHH MTV Airport NEO                     | 1767027364000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-tang-von-gop-vao-cong-ty-tnhh-mtv-airport-… |
-| VJC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Ngân hàng TMCP Phát triển TP.HCM | 1766167467000 | https://www.hsx.vn/vi/tin-tuc/vjc-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ngan-hang… |
+| news_title                                                                                                   |   public_date | news_source_link                                                                                                          |
+|:-------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                            | 1775466955000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2450543                                    |
+| VJC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Phước Hùng Anh Victor | 1775152048000 | https://www.hsx.vn/vi/tin-tuc/vjc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-phuo… |
+| VJC: Giải trình biến động KQKD kiểm toán năm 2025 so với cùng kỳ năm trước                                   | 1774886987000 | https://www.hsx.vn/vi/tin-tuc/vjc-giai-trinh-bien-dong-kqkd-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2448114           |
+| VJC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên 2026                                      | 1773429690000 | https://www.hsx.vn/vi/tin-tuc/vjc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-2026/2444221              |
+| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                              | 1773164724000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026/2443248                      |
+| VJC: Con Chủ tịch HĐQT đăng ký mua 2 triệu cổ phiếu                                                          | 1773158280000 | https://www.hsx.vn/vi/tin-tuc/vjc-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-nguyen-phuoc-hung… |
+| VJC: Báo cáo tình hình quản trị công ty năm 2025                                                             | 1770040838000 | https://www.hsx.vn/vi/tin-tuc/vjc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436177                                     |
+| VJC: Giải trình biến động KQKD quý 4/2025 so với cùng kỳ năm trước                                           | 1769803716000 | https://www.hsx.vn/vi/tin-tuc/vjc-giai-trinh-bien-dong-kqkd-quy-42025-so-voi-cung-ky-nam-truoc/2435808                    |
+| VJC: Nghị quyết về việc phê duyệt phương án phát hành trái phiếu riêng lẻ lần 3 năm 2025                     | 1767203038000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-rieng-le-lan-3-nam-2025/24… |
+| VJC: Nghị quyết HĐQT về việc phê duyệt phương án tăng vốn góp vào Công ty TNHH MTV Airport NEO               | 1767027364000 | https://www.hsx.vn/vi/tin-tuc/vjc-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-tang-von-gop-vao-cong-ty-tnhh-mtv-airport-… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -154,8 +154,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VJC      | 2026-03-09 00:00:00 |  149.5 |  153   | 145.5 |   153   |  1111300 |
-| VJC      | 2026-03-10 00:00:00 |  154.3 |  156   | 150.7 |   155   |  1429000 |
 | VJC      | 2026-03-11 00:00:00 |  157   |  160   | 152.8 |   159.7 |  1433700 |
 | VJC      | 2026-03-12 00:00:00 |  155   |  157.9 | 152.8 |   152.8 |  1393200 |
 | VJC      | 2026-03-13 00:00:00 |  152.6 |  157   | 152.6 |   156.8 |  1257300 |
@@ -174,10 +172,23 @@
 | VJC      | 2026-04-01 00:00:00 |  156.5 |  166.9 | 156.2 |   166.9 |  1686900 |
 | VJC      | 2026-04-02 00:00:00 |  170   |  170   | 161.2 |   165.5 |  1060100 |
 | VJC      | 2026-04-03 00:00:00 |  165   |  170.5 | 161.1 |   161.1 |  1433000 |
+| VJC      | 2026-04-06 00:00:00 |  159   |  163.5 | 159   |   163.3 |  1008000 |
+| VJC      | 2026-04-07 00:00:00 |  163.3 |  163.5 | 159.5 |   161.7 |   586800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| VJC      | 2026-04-07 10:42:05 |   162.9 |      200 | Buy          | 460009327 |
+| VJC      | 2026-04-07 10:42:07 |   163   |      100 | Buy          | 460009401 |
+| VJC      | 2026-04-07 10:42:22 |   163   |      100 | Buy          | 460009738 |
+| VJC      | 2026-04-07 10:42:37 |   163   |      100 | Buy          | 460010448 |
+| VJC      | 2026-04-07 10:42:50 |   163   |      100 | Buy          | 460010794 |
+| VJC      | 2026-04-07 10:43:05 |   163   |      100 | Buy          | 460011665 |
+| VJC      | 2026-04-07 10:43:19 |   163   |      100 | Buy          | 460012332 |
+| VJC      | 2026-04-07 10:43:27 |   163   |     1200 | Buy          | 460012512 |
+| VJC      | 2026-04-07 10:43:27 |   163   |      100 | Buy          | 460012513 |
+| VJC      | 2026-04-07 10:43:27 |   163   |      300 | Buy          | 460012514 |
 
 <!-- END:DAILY -->
 

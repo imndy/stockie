@@ -1,6 +1,6 @@
 # IMP — IMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:28  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 07/04/2026 12:12  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
@@ -12,60 +12,60 @@
 | symbol | IMP |
 | exchange | HOSE |
 | ev | 8580181843400 |
-| ceiling | 59400 |
-| floor | 51800 |
-| ref_price | 55600 |
-| open | 55900 |
+| ceiling | 59500 |
+| floor | 51900 |
+| ref_price | 55700 |
+| open | 56000 |
 | match_price | 55700 |
 | close_price | 55700 |
-| price_change | 100 |
-| price_change_pct | 0.00179856 |
-| high | 55900 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 56000 |
 | low | 55300 |
-| total_volume | 25513 |
+| total_volume | 17940 |
 | high_price_1y | 57000 |
 | low_price_1y | 35753 |
 | pct_low_change_1y | 0.4513523373 |
 | pct_high_change_1y | -0.0176366843 |
-| foreign_volume | 5900 |
+| foreign_volume | 400 |
 | foreign_room | 120091737 |
-| avg_match_volume_2w | 41738 |
-| foreign_holding_room | 78342820 |
-| current_holding_ratio | 0.5085783907198445 |
+| avg_match_volume_2w | 34431 |
+| foreign_holding_room | 78344420 |
+| current_holding_ratio | 0.5085887774460964 |
 | max_holding_ratio | 0.7796 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 55.7 |
-| EMA20 | 55.03 |
-| EMA50 | 54.23 |
-| RSI(14) | 58.0 |
+| Giá đóng cửa | 55.3 |
+| EMA20 | 55.11 |
+| EMA50 | 54.32 |
+| RSI(14) | 53.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.302 |
-| MACD Signal | 0.295 |
-| MACD Histogram | 0.007 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| MACD | 0.299 |
+| MACD Signal | 0.3 |
+| MACD Histogram | -0.001 |
+| MACD nhận xét | MACD gần cắt Signal (chú ý) |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 5900 |
+| KL khớp NN hôm nay | 400 |
 | Room NN còn lại | 120091737 |
-| Tỷ lệ sở hữu NN hiện tại | 0.5085783907198445 |
+| Tỷ lệ sở hữu NN hiện tại | 0.5085887774460964 |
 | Tỷ lệ sở hữu NN tối đa | 0.7796 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | IMP      |                 5900 |      120091737 |                0.508578 |
-| 2026-04-05 | IMP      |                 5900 |      120091737 |                0.508578 |
+| 2026-04-06 | IMP      |                  400 |      120091737 |                0.508589 |
+| 2026-04-03 | IMP      |                 5900 |      120091737 |                0.508578 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -157,8 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| IMP      | 2026-03-09 00:00:00 |   52.9 |   54.4 |  52.9 |    53.7 |   186900 |
-| IMP      | 2026-03-10 00:00:00 |   53.7 |   57   |  53.7 |    56.4 |   187900 |
 | IMP      | 2026-03-11 00:00:00 |   56.9 |   57   |  56.4 |    56.7 |   267600 |
 | IMP      | 2026-03-12 00:00:00 |   56.7 |   56.8 |  55.4 |    56.1 |    50700 |
 | IMP      | 2026-03-13 00:00:00 |   55.7 |   56.7 |  55   |    55   |    77000 |
@@ -177,10 +175,23 @@
 | IMP      | 2026-04-01 00:00:00 |   54.8 |   55.8 |  54.8 |    55.7 |    48900 |
 | IMP      | 2026-04-02 00:00:00 |   55.7 |   55.7 |  55.4 |    55.6 |    12200 |
 | IMP      | 2026-04-03 00:00:00 |   55.9 |   55.9 |  55.3 |    55.7 |    25400 |
+| IMP      | 2026-04-06 00:00:00 |   56   |   56   |  55.3 |    55.7 |    17700 |
+| IMP      | 2026-04-07 00:00:00 |   55.6 |   55.6 |  55.2 |    55.3 |     7800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| IMP      | 2026-04-07 09:15:00 |    55.6 |      100 | ATO          | 459846572 |
+| IMP      | 2026-04-07 09:41:34 |    55.6 |      200 | Sell         | 459899491 |
+| IMP      | 2026-04-07 09:45:36 |    55.6 |      200 | Sell         | 459907312 |
+| IMP      | 2026-04-07 09:45:36 |    55.5 |      800 | Sell         | 459907314 |
+| IMP      | 2026-04-07 09:45:36 |    55.5 |      100 | Sell         | 459907315 |
+| IMP      | 2026-04-07 09:45:36 |    55.3 |      100 | Sell         | 459907316 |
+| IMP      | 2026-04-07 09:45:36 |    55.3 |      200 | Sell         | 459907317 |
+| IMP      | 2026-04-07 09:59:39 |    55.2 |     1000 | Sell         | 459933144 |
+| IMP      | 2026-04-07 10:03:24 |    55.3 |      100 | Sell         | 459940673 |
+| IMP      | 2026-04-07 10:09:59 |    55.6 |      200 | Buy          | 459956437 |
 
 <!-- END:DAILY -->
 

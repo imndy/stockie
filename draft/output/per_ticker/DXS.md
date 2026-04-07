@@ -1,6 +1,6 @@
 # DXS — DXS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:29  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | DXS |
 | exchange | HOSE |
-| ev | 4325900336280 |
-| ceiling | 8070 |
-| floor | 7030 |
-| ref_price | 7550 |
-| open | 7630 |
-| match_price | 7470 |
-| close_price | 7470 |
-| price_change | -80 |
-| price_change_pct | -0.01059603 |
-| high | 7650 |
-| low | 7400 |
-| total_volume | 2358412 |
+| ev | 4146378367840 |
+| ceiling | 7990 |
+| floor | 6950 |
+| ref_price | 7470 |
+| open | 7470 |
+| match_price | 7160 |
+| close_price | 7160 |
+| price_change | -310 |
+| price_change_pct | -0.04149933 |
+| high | 7600 |
+| low | 7160 |
+| total_volume | 2207089 |
 | high_price_1y | 14350 |
 | low_price_1y | 5320 |
-| pct_low_change_1y | 0.4041353383 |
-| pct_high_change_1y | -0.4606498195 |
-| foreign_volume | 658689 |
+| pct_low_change_1y | 0.3458646617 |
+| pct_high_change_1y | -0.483032491 |
+| foreign_volume | 517200 |
 | foreign_room | 289551562 |
-| avg_match_volume_2w | 3293378 |
-| foreign_holding_room | 42623580 |
-| current_holding_ratio | 0.07360274575206746 |
+| avg_match_volume_2w | 3335965 |
+| foreign_holding_room | 43047780 |
+| current_holding_ratio | 0.07433525777353603 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 7.47 |
-| EMA20 | 6.83 |
+| Giá đóng cửa | 7.19 |
+| EMA20 | 6.9 |
 | EMA50 | 7.17 |
-| RSI(14) | 63.5 |
+| RSI(14) | 56.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.122 |
-| MACD Signal | -0.073 |
-| MACD Histogram | 0.195 |
+| MACD | 0.135 |
+| MACD Signal | 0.001 |
+| MACD Histogram | 0.135 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 658689 |
+| KL khớp NN hôm nay | 517200 |
 | Room NN còn lại | 289551562 |
-| Tỷ lệ sở hữu NN hiện tại | 0.07360274575206746 |
+| Tỷ lệ sở hữu NN hiện tại | 0.07433525777353603 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | DXS      |               658689 |      289551562 |               0.0736027 |
-| 2026-04-05 | DXS      |               658689 |      289551562 |               0.0736027 |
+| 2026-04-06 | DXS      |               517200 |      289551562 |               0.0743353 |
+| 2026-04-03 | DXS      |               658689 |      289551562 |               0.0736027 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -74,54 +74,56 @@
 | symbol | DXS |
 | year_report | 2025 |
 | length_report | 5 |
-| update_date | 1770218346847 |
-| revenue | 3939240908163 |
-| revenue_growth | 0.5094347761082061 |
-| net_profit | 336462534583 |
-| net_profit_growth | 1.3918426252789242 |
-| ebit_margin | 0.16527351864423434 |
-| roe | 0.0545252781 |
-| roic | 0.0551625575 |
-| roa | 0.021037567 |
-| pe | 12.8570045448 |
-| pb | 0.6834772566 |
-| eps | 581.0062502494806 |
-| current_ratio | 2.2961085909 |
-| cash_ratio | 0.1126356878 |
-| quick_ratio | 1.5046313832 |
-| interest_coverage | -6.765628103252542 |
-| ae | 1.9209208851226949 |
-| fae | 0.024662475091213706 |
-| net_profit_margin | 0.0854240005835199 |
-| gross_margin | 0.46751810499961455 |
-| ev | 4325900336280 |
+| update_date | 1775472370937 |
+| revenue | 3966804027163 |
+| revenue_growth | 0.5199963871714935 |
+| net_profit | 351512195294 |
+| net_profit_growth | 1.4988275531228759 |
+| ebit_margin | 0.16997558602156743 |
+| roe | 0.0568929042 |
+| roic | 0.0570081015 |
+| roa | 0.0220307018 |
+| pe | 11.7958307659 |
+| pb | 0.6535177576 |
+| eps | 606.9941271703449 |
+| current_ratio | 2.3487392993 |
+| cash_ratio | 0.1155205633 |
+| quick_ratio | 1.5332518454 |
+| interest_coverage | -7.006804285473587 |
+| ae | 1.9069084664653582 |
+| fae | 0.024592622030457017 |
+| net_profit_margin | 0.08862474525170733 |
+| gross_margin | 0.4320850961422964 |
+| ev | 4146378367840 |
 | issue_share | 579103124 |
-| ps | 1.0982967637 |
-| pcf | -17.9569253899 |
-| bvps | 10929.4053721078 |
-| ev_per_ebitda | 9.3932417902 |
-| at | 0.2462723219 |
-| fat | 18.7524602413 |
-| acp | 100.95268771215682 |
-| dso | 826.9867111796 |
-| dpo | 67.6901087946 |
-| eps_ttm | 581.0062502495 |
+| ps | 1.0454024967 |
+| pcf | -30.3166741852 |
+| bvps | 10956.0909658657 |
+| ev_per_ebitda | 8.8400945892 |
+| at | 0.2485840916 |
+| fat | 18.8836892378 |
+| acp | 100.25113412551397 |
+| dso | 770.0014079515 |
+| dpo | 63.0257758337 |
+| eps_ttm | 606.9941271703 |
 | charter_capital | 5741031240000 |
-| rtq4 | 0.1074573487 |
-| charter_capital_ratio | 1.534113916740331 |
-| rtq10 | 0.9209208851 |
+| rtq4 | 0.1161918963 |
+| charter_capital_ratio | 1.538471424959708 |
+| rtq10 | 0.9069084665 |
 | dividend | 0 |
-| ebitda | 694527929472 |
-| ebit | 650968657551 |
-| le | 0.4473443259 |
-| de | 0.9209208851 |
-| ccc | 995.6295076863568 |
-| rtq17 | 0.4413613847 |
+| ebitda | 717733185980 |
+| ebit | 674173914059 |
+| le | 0.45511619049999996 |
+| de | 0.9069084665 |
+| ccc | 933.278317910714 |
+| rtq17 | 0.4740251073 |
 
 ## Tin tức gần nhất (Top 10)
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| DXS: Nghị quyết HĐQT thông qua việc giải thể Công ty Cổ phần BĐS Đất Phát Hưng                                            | 1775467823000 | https://www.hsx.vn/vi/tin-tuc/dxs-nghi-quyet-hdqt-thong-qua-viec-giai-the-cong-ty-co-phan-bds-dat-phat-hung/2450562       |
+| DXS: Nghị quyết HĐQT thông qua thời gian, dự thảo tài liệu, thư mời và đường dẫn tài liệu ĐHĐCĐ thường niên năm 2026      | 1775467747000 | https://www.hsx.vn/vi/tin-tuc/dxs-nghi-quyet-hdqt-thong-qua-thoi-gian-du-thao-tai-lieu-thu-moi-va-duong-dan-tai-lieu-dhd… |
 | DXS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                               | 1772210570000 | https://www.hsx.vn/vi/tin-tuc/dxs-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2440739          |
 | DXS: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐTN 2026 và ngày chốt DSCĐ                                    | 1772100838000 | https://www.hsx.vn/vi/tin-tuc/dxs-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcdtn-2026-va-ngay-chot-dscd/2440… |
 | DXS: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769786860000 | https://www.hsx.vn/vi/tin-tuc/dxs-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435329                                     |
@@ -130,28 +132,24 @@
 | DXS: Victory Holding Investment Limited đã bán toàn bộ gần 46,5 triệu cổ phiếu                                            | 1766417340000 | https://www.hsx.vn/vi/tin-tuc/dxs-bao-cao-ve-ngay-khong-con-la-co-dong-lon-victory-holding-investment-limited/2425391     |
 | Đất Xanh Services lãi quý III/2025 gấp đôi, giữ gần 6.000 tỷ đồng ký quỹ                                                  | 1762157640000 | https://baodautu.vn/dat-xanh-services-lai-quy-iii2025-gap-doi-giu-gan-6000-ty-dong-ky-quy-d426347.html                    |
 | DXS: CBTT Báo cáo bổ sung Báo cáo tình hình quản trị 6 tháng đầu năm 2025                                                 | 1761842229000 | https://www.hsx.vn/vi/tin-tuc/dxs-cbtt-bao-cao-bo-sung-bao-cao-tinh-hinh-quan-tri-6-thang-dau-nam-2025/2414794            |
-| DXS: Nghị quyết HĐQT thông qua việc thành lập CTCP Dịch vụ BĐS Primo Estates                                              | 1759252681000 | https://www.hsx.vn/vi/tin-tuc/dxs-nghi-quyet-hdqt-thong-qua-viec-thanh-lap-ctcp-dich-vu-bds-primo-estates/2407374         |
-| DXS: Nghị quyết HĐQT thông qua việc thực hiện quyền mua cổ phiếu và cử đại diện vốn tại CTCP Regal Group                  | 1758013021000 | https://www.hsx.vn/vi/tin-tuc/dxs-nghi-quyet-hdqt-thong-qua-viec-thuc-hien-quyen-mua-co-phieu-va-cu-dai-dien-von-tai-ctc… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                    | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------|:-----------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 5,000,000 cổ phiếu      | 2024-03-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 120,980,747 cổ phiếu    | 2023-11-10    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 26,7%    | 2023-10-06    | 2023-10-16    | 2023-10-13     |   0.267 |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 41,192,264 cổ phiếu     | 2022-11-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%  | 2022-10-07    | 2022-10-18    | 2022-10-17     |   0.1   |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 53,728,905 cổ phiếu     | 2022-07-01    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 6,6% | 2022-05-19    | 2022-05-27    | 2022-05-26     |   0.066 |       0 |
-| Niêm yết mới       | DXS - Chính thức niêm yết trên sàn HNX         | 2021-07-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| event_list_name    | event_title                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------|:----------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 5,000,000 cổ phiếu     | 2024-03-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 120,980,747 cổ phiếu   | 2023-11-10    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 26,7%   | 2023-10-06    | 2023-10-16    | 2023-10-13     |   0.267 |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 41,192,264 cổ phiếu    | 2022-11-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 10% | 2022-10-07    | 2022-10-18    | 2022-10-17     |   0.1   |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 53,728,905 cổ phiếu    | 2022-07-01    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 8,4%    | 2022-05-19    | 2022-05-27    | 2022-05-26     |   0.084 |       0 |
+| Niêm yết mới       | DXS - Chính thức niêm yết trên sàn HNX        | 2021-07-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXS      | 2026-03-09 00:00:00 |   5.98 |   6    |  5.98 |    5.98 |  1323000 |
-| DXS      | 2026-03-10 00:00:00 |   5.8  |   6.19 |  5.8  |    5.95 |  2416700 |
 | DXS      | 2026-03-11 00:00:00 |   5.95 |   6.34 |  5.94 |    6.18 |  1873500 |
 | DXS      | 2026-03-12 00:00:00 |   6.1  |   6.26 |  5.98 |    6.18 |  1243000 |
 | DXS      | 2026-03-13 00:00:00 |   6.15 |   6.31 |  6.12 |    6.25 |  1718100 |
@@ -170,10 +168,23 @@
 | DXS      | 2026-04-01 00:00:00 |   7.66 |   7.7  |  7.3  |    7.31 |  3564700 |
 | DXS      | 2026-04-02 00:00:00 |   7.29 |   7.55 |  7.14 |    7.55 |  4959300 |
 | DXS      | 2026-04-03 00:00:00 |   7.63 |   7.65 |  7.4  |    7.47 |  2356300 |
+| DXS      | 2026-04-06 00:00:00 |   7.47 |   7.6  |  7.16 |    7.16 |  2203800 |
+| DXS      | 2026-04-07 00:00:00 |   7.17 |   7.3  |  7.14 |    7.19 |   614800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DXS      | 2026-04-07 10:49:41 |    7.21 |     5000 | Buy          | 460021249 |
+| DXS      | 2026-04-07 10:49:47 |    7.21 |      200 | Buy          | 460021346 |
+| DXS      | 2026-04-07 10:49:56 |    7.21 |      100 | Buy          | 460021608 |
+| DXS      | 2026-04-07 10:50:09 |    7.21 |     3000 | Buy          | 460021963 |
+| DXS      | 2026-04-07 10:50:11 |    7.21 |     1100 | Buy          | 460022076 |
+| DXS      | 2026-04-07 10:50:22 |    7.2  |      100 | Sell         | 460022294 |
+| DXS      | 2026-04-07 10:50:22 |    7.2  |      500 | Sell         | 460022295 |
+| DXS      | 2026-04-07 10:50:22 |    7.2  |      500 | Sell         | 460022296 |
+| DXS      | 2026-04-07 10:50:22 |    7.2  |     1000 | Sell         | 460022297 |
+| DXS      | 2026-04-07 10:50:22 |    7.2  |      200 | Sell         | 460022298 |
 
 <!-- END:DAILY -->
 

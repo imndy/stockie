@@ -1,6 +1,6 @@
 # NKG — NKG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:30  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 07/04/2026 12:13  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | NKG |
 | exchange | HOSE |
-| ev | 6086963981600 |
-| ceiling | 14750 |
-| floor | 12850 |
-| ref_price | 13800 |
-| open | 14000 |
-| match_price | 13600 |
-| close_price | 13600 |
-| price_change | -200 |
-| price_change_pct | -0.01449275 |
-| high | 14000 |
-| low | 13600 |
-| total_volume | 2201521 |
+| ev | 6019828349450 |
+| ceiling | 14550 |
+| floor | 12650 |
+| ref_price | 13600 |
+| open | 13500 |
+| match_price | 13450 |
+| close_price | 13450 |
+| price_change | -150 |
+| price_change_pct | -0.01102941 |
+| high | 13850 |
+| low | 13400 |
+| total_volume | 2764740 |
 | high_price_1y | 20400 |
 | low_price_1y | 11050 |
-| pct_low_change_1y | 0.203539823 |
-| pct_high_change_1y | -0.3165829146 |
-| foreign_volume | 40502 |
+| pct_low_change_1y | 0.1902654867 |
+| pct_high_change_1y | -0.324120603 |
+| foreign_volume | 46300 |
 | foreign_room | 223785440 |
-| avg_match_volume_2w | 3884241 |
-| foreign_holding_room | 22923047 |
-| current_holding_ratio | 0.051216573671601304 |
+| avg_match_volume_2w | 3511858 |
+| foreign_holding_room | 23099547 |
+| current_holding_ratio | 0.0516109246168765 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.6 |
-| EMA20 | 13.9 |
-| EMA50 | 14.45 |
-| RSI(14) | 42.3 |
+| Giá đóng cửa | 13.4 |
+| EMA20 | 13.82 |
+| EMA50 | 14.38 |
+| RSI(14) | 39.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.283 |
-| MACD Signal | -0.351 |
-| MACD Histogram | 0.067 |
+| MACD | -0.289 |
+| MACD Signal | -0.328 |
+| MACD Histogram | 0.039 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 40502 |
+| KL khớp NN hôm nay | 46300 |
 | Room NN còn lại | 223785440 |
-| Tỷ lệ sở hữu NN hiện tại | 0.051216573671601304 |
+| Tỷ lệ sở hữu NN hiện tại | 0.0516109246168765 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | NKG      |                40502 |      223785440 |               0.0512166 |
-| 2026-04-05 | NKG      |                40502 |      223785440 |               0.0512166 |
+| 2026-04-06 | NKG      |                46300 |      223785440 |               0.0516109 |
+| 2026-04-03 | NKG      |                40502 |      223785440 |               0.0512166 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -83,8 +83,8 @@
 | roe | 0.0292209942 |
 | roic | 0.0158834332 |
 | roa | 0.0131357943 |
-| pe | 30.8791268983 |
-| pb | 0.7987702199 |
+| pe | 30.5385482928 |
+| pb | 0.7899602542 |
 | eps | 440.4269604125564 |
 | current_ratio | 1.4772123809 |
 | cash_ratio | 0.1277136923 |
@@ -94,12 +94,12 @@
 | fae | 0.23636280115594893 |
 | net_profit_margin | 0.013311747181003223 |
 | gross_margin | 0.05302308876023222 |
-| ev | 6086963981600 |
+| ev | 6019828349450 |
 | issue_share | 447570881 |
-| ps | 0.4110551304 |
-| pcf | 4.5872170673 |
+| ps | 0.4065214341 |
+| pcf | 4.5366227614 |
 | bvps | 17026.1730616429 |
-| ev_per_ebitda | 20.4475890968 |
+| ev_per_ebitda | 20.3342801877 |
 | at | 0.9867821361 |
 | fat | 7.7406603483 |
 | acp | 29.44239843913578 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NKG: Dự thảo tài liệu ĐHĐCĐ thường niên năm 2026                                                          | 1775469984000 | https://www.hsx.vn/vi/tin-tuc/nkg-du-thao-tai-lieu-dhdcd-thuong-nien-nam-2026/2450610                                     |
 | Thép Nam Kim (NKG) muốn chào bán hơn 124,58 triệu cổ phiếu với giá 12.000 đồng/cổ phiếu                   | 1775400540000 | https://www.tinnhanhchungkhoan.vn/thep-nam-kim-nkg-muon-chao-ban-hon-12458-trieu-co-phieu-voi-gia-12000-dongco-phieu-pos… |
 | NKG: Giải trình biến động KQKD BCTC hợp nhất và riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước     | 1774516023000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-kqkd-bctc-hop-nhat-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky… |
 | NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                             | 1774018921000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt/2445602                                          |
@@ -131,34 +132,31 @@
 | NKG: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước                              | 1770025553000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2435967          |
 | NKG: Báo cáo tình hình quản trị công ty năm 2025                                                          | 1770025272000 | https://www.hsx.vn/vi/tin-tuc/nkg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435941                                     |
 | Thép Nam Kim (NKG) lỗ 9,34 tỷ đồng trong quý IV/2025, đánh dấu lỗ trở lại sau 10 quý                      | 1769940720000 | https://www.tinnhanhchungkhoan.vn/thep-nam-kim-nkg-lo-934-ty-dong-trong-quy-iv2025-danh-dau-lo-tro-lai-sau-10-quy-post38… |
-| NKG: Con Chủ tịch HĐQT đăng ký mua 5 triệu cổ phiếu                                                       | 1769524860000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ho-minh-phat/2433… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 131.638.903 cổ phiếu                   | 2025-03-25    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 52.654.172 cổ phiếu                    | 2025-01-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu thưởng tỷ lệ 20%                     | 2024-12-11    | 2024-12-20    | 2024-12-19     |    0.2  |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 43,879,238 cổ phiếu                    | 2022-07-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.1  |    1000 |
-| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.2  |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 1.000.000 cổ phiếu                     | 2022-03-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 36.398.700 cổ phiếu                    | 2021-09-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Đợt 1, 2020 bằng tiền 300 VND/CP             | 2020-12-09    | 2020-12-22    | 2020-12-21     |    0.03 |     300 |
-| Phát hành cổ phiếu       | NKG-Phát hành cổ phiếu trả cổ tức tỷ lệ 40%                   | 2018-05-25    | 2018-06-12    | 2018-06-11     |    0.4  |       0 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 30.000.000 cổ phiếu                      | 2017-12-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG-Trả cổ tức Đợt 1, 2017 bằng tiền 1000 VND/CP              | 2017-11-03    | 2017-11-17    | 2017-11-16     |    0.1  |    1000 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 948.545 cổ phiếu                         | 2017-09-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 33.017.094 cổ phiếu                      | 2017-06-16    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu       | NKG-Trả cổ tức bằng cổ phiếu năm 2015 và năm 2016             | 2017-05-05    | 2017-05-18    | 2017-05-17     |    0.5  |     nan |
+| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | NKG - Niêm yết bổ sung 131.638.903 cổ phiếu                                  | 2025-03-25    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | NKG - Niêm yết bổ sung 52.654.172 cổ phiếu                                   | 2025-01-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 12.000 đồng/cp | 2024-12-11    | 2024-12-20    | 2024-12-19     |    0.5  |       0 |
+| Niêm yết thêm            | NKG - Niêm yết bổ sung 43,879,238 cổ phiếu                                   | 2022-07-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu                | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.1  |    1000 |
+| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                                | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.2  |       0 |
+| Niêm yết thêm            | NKG - Niêm yết bổ sung 1.000.000 cổ phiếu                                    | 2022-03-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | NKG - Niêm yết bổ sung 36.398.700 cổ phiếu                                   | 2021-09-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Đợt 1, 2020 bằng tiền 300 VND/CP                            | 2020-12-09    | 2020-12-22    | 2020-12-21     |    0.03 |     300 |
+| Phát hành cổ phiếu       | NKG-Phát hành cổ phiếu trả cổ tức tỷ lệ 40%                                  | 2018-05-25    | 2018-06-12    | 2018-06-11     |    0.4  |       0 |
+| Niêm yết thêm            | NKG-Niêm yết bổ sung 30.000.000 cổ phiếu                                     | 2017-12-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | NKG-Trả cổ tức Đợt 1, 2017 bằng tiền 1000 VND/CP                             | 2017-11-03    | 2017-11-17    | 2017-11-16     |    0.1  |    1000 |
+| Niêm yết thêm            | NKG-Niêm yết bổ sung 948.545 cổ phiếu                                        | 2017-09-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | NKG-Niêm yết bổ sung 33.017.094 cổ phiếu                                     | 2017-06-16    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
+| Phát hành cổ phiếu       | NKG-Trả cổ tức bằng cổ phiếu năm 2015 và năm 2016                            | 2017-05-05    | 2017-05-18    | 2017-05-17     |    0.5  |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NKG      | 2026-03-09 00:00:00 |  13.5  |  13.65 | 13.5  |   13.5  |  4359700 |
-| NKG      | 2026-03-10 00:00:00 |  13.6  |  14.25 | 13.5  |   14    | 10011700 |
 | NKG      | 2026-03-11 00:00:00 |  14.15 |  14.4  | 13.9  |   14.3  |  4724400 |
 | NKG      | 2026-03-12 00:00:00 |  14.2  |  14.5  | 13.9  |   13.9  |  6087800 |
 | NKG      | 2026-03-13 00:00:00 |  13.8  |  14.25 | 13.6  |   13.9  |  4304500 |
@@ -177,10 +175,23 @@
 | NKG      | 2026-04-01 00:00:00 |  14.15 |  14.15 | 13.85 |   13.9  |  2983400 |
 | NKG      | 2026-04-02 00:00:00 |  13.8  |  14.2  | 13.7  |   13.8  |  5846600 |
 | NKG      | 2026-04-03 00:00:00 |  14    |  14    | 13.6  |   13.6  |  2199600 |
+| NKG      | 2026-04-06 00:00:00 |  13.5  |  13.85 | 13.4  |   13.45 |  2762100 |
+| NKG      | 2026-04-07 00:00:00 |  13.45 |  13.65 | 13.4  |   13.4  |  1148400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| NKG      | 2026-04-07 11:12:51 |   13.45 |      100 | Sell         | 460050974 |
+| NKG      | 2026-04-07 11:12:51 |   13.45 |      900 | Sell         | 460050975 |
+| NKG      | 2026-04-07 11:12:51 |   13.45 |     6900 | Sell         | 460050976 |
+| NKG      | 2026-04-07 11:13:16 |   13.45 |      100 | Sell         | 460051501 |
+| NKG      | 2026-04-07 11:13:16 |   13.45 |      100 | Sell         | 460051502 |
+| NKG      | 2026-04-07 11:15:00 |   13.45 |      100 | Sell         | 460053665 |
+| NKG      | 2026-04-07 11:15:00 |   13.45 |      200 | Sell         | 460053667 |
+| NKG      | 2026-04-07 11:15:00 |   13.45 |      200 | Sell         | 460053668 |
+| NKG      | 2026-04-07 11:15:01 |   13.5  |      500 | Buy          | 460053711 |
+| NKG      | 2026-04-07 11:17:21 |   13.5  |      100 | Buy          | 460056844 |
 
 <!-- END:DAILY -->
 

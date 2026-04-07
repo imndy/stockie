@@ -1,6 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 06/04/2026 08:29  |  🗂 Quarterly: —
+> 📅 Daily: 07/04/2026 12:11  |  🗂 Quarterly: —
 
 ---
 
@@ -331,62 +331,61 @@
 | --- | --- |
 | symbol | FPT |
 | exchange | HOSE |
-| ev | 126059526954000 |
-| ceiling | 79900 |
-| floor | 69500 |
-| ref_price | 74700 |
-| open | 74700 |
-| match_price | 74000 |
-| close_price | 74000 |
-| price_change | -700 |
-| price_change_pct | -0.00937082 |
-| high | 75500 |
-| low | 73900 |
-| total_volume | 6387168 |
+| ev | 125889176241900 |
+| ceiling | 79100 |
+| floor | 68900 |
+| ref_price | 74000 |
+| open | 74000 |
+| match_price | 73900 |
+| close_price | 73900 |
+| price_change | -100 |
+| price_change_pct | -0.00135135 |
+| high | 74500 |
+| low | 73500 |
+| total_volume | 4641686 |
 | high_price_1y | 111638 |
 | low_price_1y | 71600 |
-| pct_low_change_1y | 0.0123119015 |
-| pct_high_change_1y | -0.3330050637 |
-| foreign_volume | 2335722 |
+| pct_low_change_1y | 0.0109439124 |
+| pct_high_change_1y | -0.3339064082 |
+| foreign_volume | 1809084 |
 | foreign_room | 834718489 |
-| avg_match_volume_2w | 7847038 |
-| foreign_holding_room | 559873416 |
-| current_holding_ratio | 0.3286592753843851 |
+| avg_match_volume_2w | 6987806 |
+| foreign_holding_room | 560457701 |
+| current_holding_ratio | 0.3290022648517006 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 74.0 |
-| EMA20 | 77.8 |
-| EMA50 | 84.81 |
-| RSI(14) | 36.2 |
+| Giá đóng cửa | 73.9 |
+| EMA20 | 77.09 |
+| EMA50 | 83.97 |
+| RSI(14) | 36.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -3.831 |
-| MACD Signal | -4.389 |
-| MACD Histogram | 0.558 |
+| MACD | -3.537 |
+| MACD Signal | -4.107 |
+| MACD Histogram | 0.569 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2335722 |
+| KL khớp NN hôm nay | 1809084 |
 | Room NN còn lại | 834718489 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3286592753843851 |
+| Tỷ lệ sở hữu NN hiện tại | 0.3290022648517006 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | FPT      |              2335722 |      834718489 |                0.328659 |
-| 2026-04-05 | FPT      |              2335722 |      834718489 |                0.328659 |
-| 2026-04-04 | FPT      |              2335722 |      834718489 |                0.328659 |
+| 2026-04-06 | FPT      |              1809084 |      834718489 |                0.329002 |
+| 2026-04-03 | FPT      |              2335722 |      834718489 |                0.328659 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -404,8 +403,8 @@
 | roe | 0.2829368545 |
 | roic | 0.1695199693 |
 | roa | 0.1170976805 |
-| pe | 13.4447324029 |
-| pb | 3.4555607666 |
+| pe | 13.4265638456 |
+| pb | 3.4508910899 |
 | eps | 5504.014344241183 |
 | current_ratio | 1.400061121 |
 | cash_ratio | 0.2533925055 |
@@ -415,12 +414,12 @@
 | fae | 0.39518436833845066 |
 | net_profit_margin | 0.1337291375156134 |
 | gross_margin | 0.36924099799468557 |
-| ev | 126059526954000 |
+| ev | 125889176241900 |
 | issue_share | 1703507121 |
-| ps | 1.7979524684 |
-| pcf | 12.4367581672 |
+| ps | 1.7955228029 |
+| pcf | 12.4199517372 |
 | bvps | 21414.7587028326 |
-| ev_per_ebitda | 9.8261988072 |
+| ev_per_ebitda | 9.8139457596 |
 | at | 0.8756332587 |
 | fat | 4.3677644699 |
 | acp | 60.57480341105619 |
@@ -431,7 +430,7 @@
 | rtq4 | 0.0435171486 |
 | charter_capital_ratio | 2.5681161063687155 |
 | rtq10 | 1.0147643215 |
-| dividend | 0.0135135135 |
+| dividend | 0.0135317997 |
 | ebitda | 13902721834887 |
 | ebit | 10988543474155 |
 | le | 0.5252184346 |
@@ -443,6 +442,7 @@
 
 | news_title                                                                                          |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| FPT: Báo cáo của thành viên HĐQT độc lập                                                            | 1775467265000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-cua-thanh-vien-hdqt-doc-lap/2450550                                             |
 | FPT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ SCIC              | 1774636390000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-scic/2447… |
 | FPT: Tài liệu họp ĐHĐCĐ thường niên năm 2026 và đơn từ nhiệm thành viên HĐQT                        | 1774026456000 | https://www.hsx.vn/vi/tin-tuc/fpt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-va-don-tu-nhiem-thanh-vien-hdqt/2445686         |
 | FPT: Giải trình biến động lợi nhuận BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 1774025824000 | https://www.hsx.vn/vi/tin-tuc/fpt-giai-trinh-bien-dong-loi-nhuan-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-n… |
@@ -452,7 +452,6 @@
 | FPT: Công ty TNHH MTV Đầu tư SCIC (SIC) đăng ký mua 2 triệu cổ phiếu                                | 1770888060000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-tnhh-mt… |
 | FPT:  Ông Nguyễn Khải Hoàn đăng ký bán 300.000 cổ phiếu                                             | 1770801180000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-khai-hoan/2438309                  |
 | FPT: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                         | 1770313531000 | https://www.hsx.vn/vi/tin-tuc/fpt-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2437387                          |
-| FPT: Báo cáo tình hình quản trị công ty năm 2025                                                    | 1770023067000 | https://www.hsx.vn/vi/tin-tuc/fpt-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435904                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -478,8 +477,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FPT      | 2026-03-09 00:00:00 |   76   |   76.7 |  75.9 |    75.9 | 17633000 |
-| FPT      | 2026-03-10 00:00:00 |   76.4 |   79.6 |  76.4 |    79.5 | 21099200 |
 | FPT      | 2026-03-11 00:00:00 |   80   |   81   |  78.3 |    80.2 | 10652800 |
 | FPT      | 2026-03-12 00:00:00 |   78.8 |   79.2 |  77.5 |    77.7 | 12722400 |
 | FPT      | 2026-03-13 00:00:00 |   77.1 |   78.5 |  76.3 |    77   |  9026000 |
@@ -498,9 +495,22 @@
 | FPT      | 2026-04-01 00:00:00 |   75.9 |   76.3 |  75   |    75.3 |  8534000 |
 | FPT      | 2026-04-02 00:00:00 |   75.2 |   75.2 |  74.2 |    74.7 |  5224400 |
 | FPT      | 2026-04-03 00:00:00 |   74.7 |   75.5 |  73.9 |    74   |  6333100 |
+| FPT      | 2026-04-06 00:00:00 |   74   |   74.5 |  73.5 |    73.9 |  4593000 |
+| FPT      | 2026-04-07 00:00:00 |   74.5 |   74.5 |  73.8 |    73.9 |  2157900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| FPT      | 2026-04-07 11:20:42 |    73.9 |      200 | Sell         | 460063360 |
+| FPT      | 2026-04-07 11:20:48 |    73.9 |      100 | Sell         | 460063562 |
+| FPT      | 2026-04-07 11:21:08 |    73.9 |      200 | Sell         | 460064341 |
+| FPT      | 2026-04-07 11:21:35 |    73.9 |      500 | Sell         | 460064994 |
+| FPT      | 2026-04-07 11:21:46 |    73.9 |      100 | Sell         | 460065215 |
+| FPT      | 2026-04-07 11:22:12 |    73.9 |      100 | Sell         | 460065771 |
+| FPT      | 2026-04-07 11:22:17 |    74   |      200 | Buy          | 460065838 |
+| FPT      | 2026-04-07 11:22:19 |    74   |      700 | Buy          | 460065891 |
+| FPT      | 2026-04-07 11:22:26 |    73.9 |      200 | Sell         | 460066080 |
+| FPT      | 2026-04-07 11:22:26 |    73.9 |      200 | Sell         | 460066081 |
 
 <!-- END:DAILY -->

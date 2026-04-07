@@ -1,6 +1,6 @@
 # VHC — VHC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:38  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 07/04/2026 12:17  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -12,60 +12,60 @@
 | symbol | VHC |
 | exchange | HOSE |
 | ev | 12883611326600 |
-| ceiling | 62700 |
-| floor | 54500 |
-| ref_price | 58600 |
-| open | 58600 |
+| ceiling | 61400 |
+| floor | 53400 |
+| ref_price | 57400 |
+| open | 57100 |
 | match_price | 57400 |
 | close_price | 57400 |
-| price_change | -1200 |
-| price_change_pct | -0.02047782 |
-| high | 58600 |
-| low | 57400 |
-| total_volume | 444864 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 57400 |
+| low | 56200 |
+| total_volume | 644494 |
 | high_price_1y | 69900 |
 | low_price_1y | 42280 |
 | pct_low_change_1y | 0.357615894 |
 | pct_high_change_1y | -0.1705202312 |
-| foreign_volume | 161560 |
+| foreign_volume | 167200 |
 | foreign_room | 224453159 |
-| avg_match_volume_2w | 535754 |
-| foreign_holding_room | 44615724 |
-| current_holding_ratio | 0.19877521082249505 |
+| avg_match_volume_2w | 528607 |
+| foreign_holding_room | 44654624 |
+| current_holding_ratio | 0.19894852092502738 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 57.4 |
-| EMA20 | 58.95 |
-| EMA50 | 59.39 |
-| RSI(14) | 42.9 |
+| Giá đóng cửa | 56.7 |
+| EMA20 | 58.6 |
+| EMA50 | 59.21 |
+| RSI(14) | 40.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.553 |
-| MACD Signal | -0.565 |
-| MACD Histogram | 0.012 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| MACD | -0.701 |
+| MACD Signal | -0.599 |
+| MACD Histogram | -0.102 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 161560 |
+| KL khớp NN hôm nay | 167200 |
 | Room NN còn lại | 224453159 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19877521082249505 |
+| Tỷ lệ sở hữu NN hiện tại | 0.19894852092502738 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | VHC      |               161560 |      224453159 |                0.198775 |
-| 2026-04-05 | VHC      |               161560 |      224453159 |                0.198775 |
+| 2026-04-06 | VHC      |               167200 |      224453159 |                0.198949 |
+| 2026-04-03 | VHC      |               161560 |      224453159 |                0.198775 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -157,8 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHC      | 2026-03-09 00:00:00 |   55.1 |   55.5 |  55.1 |    55.1 |  1680900 |
-| VHC      | 2026-03-10 00:00:00 |   56.5 |   57   |  55.2 |    57   |  1690800 |
 | VHC      | 2026-03-11 00:00:00 |   57.2 |   59.4 |  57.1 |    59   |  1166500 |
 | VHC      | 2026-03-12 00:00:00 |   57.7 |   59.2 |  57.7 |    58.7 |   696200 |
 | VHC      | 2026-03-13 00:00:00 |   59   |   61.2 |  58.8 |    60.6 |  1651900 |
@@ -177,10 +175,23 @@
 | VHC      | 2026-04-01 00:00:00 |   59.4 |   59.6 |  58.8 |    58.9 |   452700 |
 | VHC      | 2026-04-02 00:00:00 |   58.5 |   58.6 |  57.3 |    58.6 |   828100 |
 | VHC      | 2026-04-03 00:00:00 |   58.6 |   58.6 |  57.4 |    57.4 |   444700 |
+| VHC      | 2026-04-06 00:00:00 |   57.1 |   57.4 |  56.2 |    57.4 |   644000 |
+| VHC      | 2026-04-07 00:00:00 |   57.2 |   57.2 |  56.6 |    56.7 |   264300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| VHC      | 2026-04-07 10:22:45 |    56.9 |      200 | Sell         | 459978793 |
+| VHC      | 2026-04-07 10:22:58 |    57   |      100 | Buy          | 459979311 |
+| VHC      | 2026-04-07 10:22:58 |    57   |      200 | Buy          | 459979312 |
+| VHC      | 2026-04-07 10:23:55 |    57   |      100 | Buy          | 459981038 |
+| VHC      | 2026-04-07 10:25:09 |    56.9 |      400 | Sell         | 459982851 |
+| VHC      | 2026-04-07 10:25:45 |    57   |      100 | Buy          | 459983666 |
+| VHC      | 2026-04-07 10:25:50 |    56.9 |     1300 | Sell         | 459983809 |
+| VHC      | 2026-04-07 10:25:50 |    56.9 |      100 | Sell         | 459983810 |
+| VHC      | 2026-04-07 10:26:41 |    56.9 |      100 | Buy          | 459985055 |
+| VHC      | 2026-04-07 10:27:03 |    56.9 |      200 | Buy          | 459985664 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # MSN — MSN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:29  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 07/04/2026 12:13  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -12,61 +12,60 @@
 | symbol | MSN |
 | exchange | HOSE |
 | ev | 114493047600000 |
-| ceiling | 81400 |
-| floor | 70800 |
-| ref_price | 76100 |
-| open | 76200 |
+| ceiling | 80500 |
+| floor | 70100 |
+| ref_price | 75300 |
+| open | 75100 |
 | match_price | 75300 |
 | close_price | 75300 |
-| price_change | -800 |
-| price_change_pct | -0.01051248 |
-| high | 77100 |
-| low | 74800 |
-| total_volume | 5248118 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 76200 |
+| low | 74500 |
+| total_volume | 5448158 |
 | high_price_1y | 94000 |
 | low_price_1y | 50300 |
 | pct_low_change_1y | 0.4970178926 |
 | pct_high_change_1y | -0.1491525424 |
-| foreign_volume | 2277642 |
+| foreign_volume | 1674301 |
 | foreign_room | 1520491927 |
-| avg_match_volume_2w | 5585116 |
-| foreign_holding_room | 365927345 |
-| current_holding_ratio | 0.2530765842694771 |
+| avg_match_volume_2w | 5178141 |
+| foreign_holding_room | 367201846 |
+| current_holding_ratio | 0.2539580334536807 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 75.3 |
-| EMA20 | 74.66 |
-| EMA50 | 75.87 |
-| RSI(14) | 51.2 |
+| Giá đóng cửa | 74.7 |
+| EMA20 | 74.72 |
+| EMA50 | 75.81 |
+| RSI(14) | 49.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.258 |
-| MACD Signal | -0.825 |
-| MACD Histogram | 0.567 |
+| MACD | -0.175 |
+| MACD Signal | -0.593 |
+| MACD Histogram | 0.418 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2277642 |
+| KL khớp NN hôm nay | 1674301 |
 | Room NN còn lại | 1520491927 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2530765842694771 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2539580334536807 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | MSN      |              2277642 |     1520491927 |                0.253077 |
-| 2026-04-05 | MSN      |              2277642 |     1520491927 |                0.253077 |
-| 2026-04-04 | MSN      |              2277642 |     1520491927 |                0.253077 |
+| 2026-04-06 | MSN      |              1674301 |     1520491927 |                0.253958 |
+| 2026-04-03 | MSN      |              2277642 |     1520491927 |                0.253077 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -121,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                    |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 1775212656000 | https://www.hsx.vn/vi/tin-tuc/msn-tai-lieu-hop-dhdcd-thuong-nien-2026/2450125                                             |
-| MSN: Báo cáo thường niên năm 2025                                                             | 1775140181000 | https://www.hsx.vn/vi/tin-tuc/msn-bao-cao-thuong-nien-nam-2025/2449769                                                    |
-| MSN: Nghị quyết HĐQT về việc công ty TNHH Tầm Nhìn Masan bán cổ phần MSR ra thị trường        | 1775065488000 | https://www.hsx.vn/vi/tin-tuc/msn-nghi-quyet-hdqt-ve-viec-cong-ty-tnhh-tam-nhin-masan-ban-co-phan-msr-ra-thi-truong/2449… |
-| MSN: Đính chính một số nội dung của Báo cáo tình hình quản trị công ty năm 2025               | 1775065450000 | https://www.hsx.vn/vi/tin-tuc/msn-dinh-chinh-mot-so-noi-dung-cua-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2449498      |
-| MSN: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước          | 1773420801000 | https://www.hsx.vn/vi/tin-tuc/msn-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244425… |
-| MSN: Tổng giám đốc đăng ký mua 5 triệu cổ phiếu                                               | 1773237540000 | https://www.hsx.vn/vi/tin-tuc/msn-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-le-danny/2443471                          |
-| MSN: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                   | 1772617285000 | https://www.hsx.vn/vi/tin-tuc/msn-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2441614                          |
-| MSN: Nghị quyết HĐQT về việc thông qua ngày ĐKCC tổ chức ĐHĐCĐTN 2026                         | 1772206715000 | https://www.hsx.vn/vi/tin-tuc/msn-nghi-quyet-hdqt-ve-viec-thong-qua-ngay-dkcc-to-chuc-dhdcdtn-2026/2440680                |
-| Masan (MSN) đặt mục tiêu tăng trưởng hai chữ số, lợi nhuận kịch bản cao lên tới 7.900 tỷ đồng | 1769683740000 | https://www.tinnhanhchungkhoan.vn/masan-msn-dat-muc-tieu-tang-truong-hai-chu-so-loi-nhuan-kich-ban-cao-len-toi-7900-ty-d… |
-| MSN: Báo cáo tình hình quản trị công ty năm 2025                                              | 1769678464000 | https://www.hsx.vn/vi/tin-tuc/msn-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434595                                     |
+| news_title                                                                                      |   public_date | news_source_link                                                                                                          |
+|:------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| Masan (MSN) lên kế hoạch lãi lên tới 7.900 tỷ đồng trong năm 2026, tiếp tục mở rộng WinCommerce | 1775458680000 | https://www.tinnhanhchungkhoan.vn/masan-msn-len-ke-hoach-lai-len-toi-7900-ty-dong-trong-nam-2026-tiep-tuc-mo-rong-wincom… |
+| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                        | 1775212656000 | https://www.hsx.vn/vi/tin-tuc/msn-tai-lieu-hop-dhdcd-thuong-nien-2026/2450125                                             |
+| MSN: Báo cáo thường niên năm 2025                                                               | 1775140181000 | https://www.hsx.vn/vi/tin-tuc/msn-bao-cao-thuong-nien-nam-2025/2449769                                                    |
+| MSN: Nghị quyết HĐQT về việc công ty TNHH Tầm Nhìn Masan bán cổ phần MSR ra thị trường          | 1775065488000 | https://www.hsx.vn/vi/tin-tuc/msn-nghi-quyet-hdqt-ve-viec-cong-ty-tnhh-tam-nhin-masan-ban-co-phan-msr-ra-thi-truong/2449… |
+| MSN: Đính chính một số nội dung của Báo cáo tình hình quản trị công ty năm 2025                 | 1775065450000 | https://www.hsx.vn/vi/tin-tuc/msn-dinh-chinh-mot-so-noi-dung-cua-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2449498      |
+| MSN: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước            | 1773420801000 | https://www.hsx.vn/vi/tin-tuc/msn-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244425… |
+| MSN: Tổng giám đốc đăng ký mua 5 triệu cổ phiếu                                                 | 1773237540000 | https://www.hsx.vn/vi/tin-tuc/msn-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-le-danny/2443471                          |
+| MSN: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                     | 1772617285000 | https://www.hsx.vn/vi/tin-tuc/msn-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2441614                          |
+| MSN: Nghị quyết HĐQT về việc thông qua ngày ĐKCC tổ chức ĐHĐCĐTN 2026                           | 1772206715000 | https://www.hsx.vn/vi/tin-tuc/msn-nghi-quyet-hdqt-ve-viec-thong-qua-ngay-dkcc-to-chuc-dhdcdtn-2026/2440680                |
+| Masan (MSN) đặt mục tiêu tăng trưởng hai chữ số, lợi nhuận kịch bản cao lên tới 7.900 tỷ đồng   | 1769683740000 | https://www.tinnhanhchungkhoan.vn/masan-msn-dat-muc-tieu-tang-truong-hai-chu-so-loi-nhuan-kich-ban-cao-len-toi-7900-ty-d… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -158,8 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSN      | 2026-03-09 00:00:00 |   68.2 |   70   |  68.2 |    68.2 |  4325700 |
-| MSN      | 2026-03-10 00:00:00 |   69   |   69.8 |  66.1 |    68.3 | 13574400 |
 | MSN      | 2026-03-11 00:00:00 |   69.3 |   73   |  69.1 |    73   | 10575800 |
 | MSN      | 2026-03-12 00:00:00 |   73.2 |   74.5 |  71.8 |    73.1 |  8489100 |
 | MSN      | 2026-03-13 00:00:00 |   73.4 |   74.7 |  72.7 |    73.9 |  8344100 |
@@ -178,10 +175,23 @@
 | MSN      | 2026-04-01 00:00:00 |   76.8 |   77.4 |  75.9 |    76.9 |  8282500 |
 | MSN      | 2026-04-02 00:00:00 |   76.6 |   76.7 |  75.3 |    76.1 |  5420300 |
 | MSN      | 2026-04-03 00:00:00 |   76.2 |   77.1 |  74.8 |    75.3 |  5241600 |
+| MSN      | 2026-04-06 00:00:00 |   75.1 |   76.2 |  74.5 |    75.3 |  4242400 |
+| MSN      | 2026-04-07 00:00:00 |   75.4 |   75.7 |  74.5 |    74.7 |  1232900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      100 | Sell         | 460071192 |
+| MSN      | 2026-04-07 11:25:53 |    74.7 |      100 | Buy          | 460071206 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      600 | Sell         | 460071205 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      300 | Sell         | 460071204 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      100 | Sell         | 460071203 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      100 | Sell         | 460071202 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      200 | Sell         | 460071201 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      500 | Sell         | 460071193 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      200 | Sell         | 460071198 |
+| MSN      | 2026-04-07 11:25:53 |    74.6 |      100 | Sell         | 460071197 |
 
 <!-- END:DAILY -->
 

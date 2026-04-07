@@ -1,6 +1,6 @@
 # SJS — SJS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:36  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 07/04/2026 12:16  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | SJS |
 | exchange | HOSE |
-| ev | 14382907933800 |
-| ceiling | 52900 |
-| floor | 46050 |
-| ref_price | 49500 |
-| open | 48200 |
-| match_price | 48350 |
-| close_price | 48350 |
-| price_change | -1150 |
-| price_change_pct | -0.02323232 |
-| high | 49400 |
-| low | 48000 |
-| total_volume | 4800 |
+| ev | 14323412968200 |
+| ceiling | 51700 |
+| floor | 45000 |
+| ref_price | 48350 |
+| open | 48800 |
+| match_price | 48150 |
+| close_price | 48150 |
+| price_change | -200 |
+| price_change_pct | -0.0041365 |
+| high | 48800 |
+| low | 48150 |
+| total_volume | 2289117 |
 | high_price_1y | 84800 |
 | low_price_1y | 31042 |
-| pct_low_change_1y | 0.5575450899 |
-| pct_high_change_1y | -0.4052890529 |
-| foreign_volume | 0 |
+| pct_low_change_1y | 0.5511022974 |
+| pct_high_change_1y | -0.4077490775 |
+| foreign_volume | 2700 |
 | foreign_room | 148737414 |
-| avg_match_volume_2w | 16459 |
-| foreign_holding_room | 1721363 |
-| current_holding_ratio | 0.0057865837307081325 |
+| avg_match_volume_2w | 16864 |
+| foreign_holding_room | 1726163 |
+| current_holding_ratio | 0.005802719549769771 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.35 |
-| EMA20 | 49.34 |
-| EMA50 | 51.27 |
-| RSI(14) | 41.1 |
+| Giá đóng cửa | 47.5 |
+| EMA20 | 49.06 |
+| EMA50 | 51.0 |
+| RSI(14) | 36.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.569 |
-| MACD Signal | -0.726 |
-| MACD Histogram | 0.158 |
+| MACD | -0.671 |
+| MACD Signal | -0.695 |
+| MACD Histogram | 0.024 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 0 |
+| KL khớp NN hôm nay | 2700 |
 | Room NN còn lại | 148737414 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0057865837307081325 |
+| Tỷ lệ sở hữu NN hiện tại | 0.005802719549769771 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | SJS      |                    0 |      148737414 |              0.00578658 |
-| 2026-04-05 | SJS      |                    0 |      148737414 |              0.00578658 |
+| 2026-04-06 | SJS      |                 2700 |      148737414 |              0.00580272 |
+| 2026-04-03 | SJS      |                    0 |      148737414 |              0.00578658 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -83,8 +83,8 @@
 | roe | 0.1127596969 |
 | roic | 0.1003196748 |
 | roa | 0.0459571116 |
-| pe | 39.8064462689 |
-| pb | 4.1926562246 |
+| pe | 39.6417867187 |
+| pb | 4.1753132826 |
 | eps | 1214.6273915889112 |
 | current_ratio | 2.2538753092 |
 | cash_ratio | 0.0783176175 |
@@ -94,12 +94,12 @@
 | fae | 0.06220835521163013 |
 | net_profit_margin | 0.48129574518270646 |
 | gross_margin | 0.7068897728628163 |
-| ev | 14382907933800 |
+| ev | 14323412968200 |
 | issue_share | 297474828 |
-| ps | 19.1586732201 |
-| pcf | -193.7276381332 |
+| ps | 19.0794232791 |
+| pcf | -192.9262828566 |
 | bvps | 11532.0687911247 |
-| ev_per_ebitda | 33.2307399305 |
+| ev_per_ebitda | 33.1014715889 |
 | at | 0.0954862204 |
 | fat | 3.4529661725 |
 | acp | 103.32077849481759 |
@@ -135,23 +135,21 @@
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                       | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu       | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%       | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
-| Trả cổ tức bằng tiền mặt | SJS - Trả cổ tức Đợt 1, 2017 bằng tiền 500 VND/CP | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
-| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%       | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP       | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
+| event_list_name          | event_title                                         | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:----------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu         | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%         | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Đợt 2 năm 2017 bằng tiền 500 đồng/cp | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
+| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%         | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP   | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP         | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SJS      | 2026-03-09 00:00:00 |  47.35 |  48.5  | 47.35 |   47.5  |   120200 |
-| SJS      | 2026-03-10 00:00:00 |  48    |  48.5  | 46.3  |   48    |    20100 |
 | SJS      | 2026-03-11 00:00:00 |  49.8  |  49.8  | 47    |   48.95 |    14900 |
 | SJS      | 2026-03-12 00:00:00 |  48.85 |  48.85 | 47.8  |   47.8  |     4500 |
 | SJS      | 2026-03-13 00:00:00 |  49.3  |  49.5  | 48.5  |   48.5  |     3900 |
@@ -170,10 +168,23 @@
 | SJS      | 2026-04-01 00:00:00 |  49.9  |  49.95 | 49    |   49    |    17300 |
 | SJS      | 2026-04-02 00:00:00 |  48.5  |  49.5  | 48    |   49.5  |    11200 |
 | SJS      | 2026-04-03 00:00:00 |  48.2  |  49.4  | 48    |   48.35 |     4800 |
+| SJS      | 2026-04-06 00:00:00 |  48.8  |  48.8  | 48.15 |   48.15 |     9100 |
+| SJS      | 2026-04-07 00:00:00 |  47.95 |  48.1  | 47.1  |   47.5  |     5600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| SJS      | 2026-04-07 09:15:00 |   47.95 |      100 | ATO          | 459846632 |
+| SJS      | 2026-04-07 09:21:56 |   48    |      100 | Buy          | 459861102 |
+| SJS      | 2026-04-07 09:33:27 |   47.1  |      100 | Sell         | 459883750 |
+| SJS      | 2026-04-07 09:41:06 |   47.5  |      200 | Sell         | 459898766 |
+| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997769 |
+| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997770 |
+| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997771 |
+| SJS      | 2026-04-07 10:40:07 |   48.1  |     2000 | Buy          | 460006046 |
+| SJS      | 2026-04-07 10:41:12 |   47.25 |      100 | Sell         | 460007887 |
+| SJS      | 2026-04-07 10:41:12 |   47.25 |      100 | Sell         | 460007886 |
 
 <!-- END:DAILY -->
 

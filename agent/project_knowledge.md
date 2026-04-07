@@ -154,7 +154,7 @@ Fix non-fast-forward: `git pull --rebase --autostash` trước push — xử lý
 
 | Setting | Giá trị |
 |---|---|
-| Schedule | Daily **07:20** |
+| Schedule | **T3–T7** (Tue–Sat) **07:20** — pipeline chạy T+1, capture data T2–T6 |
 | Script | `run_daily.ps1` |
 | LogonType | `S4U` (chạy kể cả khi lock screen, không cần password) |
 | WakeToRun | `True` |

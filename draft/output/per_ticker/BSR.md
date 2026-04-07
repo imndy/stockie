@@ -1,6 +1,6 @@
 # BSR — BSR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:25  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
@@ -11,61 +11,61 @@
 | --- | --- |
 | symbol | BSR |
 | exchange | HOSE |
-| ev | 131942346726100 |
-| ceiling | 27700 |
-| floor | 24100 |
-| ref_price | 25900 |
+| ev | 125683222118600 |
+| ceiling | 28150 |
+| floor | 24550 |
+| ref_price | 26350 |
 | open | 26400 |
-| match_price | 26350 |
-| close_price | 26350 |
-| price_change | 450 |
-| price_change_pct | 0.01737452 |
-| high | 27100 |
-| low | 26300 |
-| total_volume | 9872218 |
+| match_price | 25100 |
+| close_price | 25100 |
+| price_change | -1250 |
+| price_change_pct | -0.04743833 |
+| high | 26500 |
+| low | 25000 |
+| total_volume | 10009225 |
 | high_price_1y | 39600 |
 | low_price_1y | 9009 |
-| pct_low_change_1y | 1.9247360523 |
-| pct_high_change_1y | -0.3038309115 |
-| foreign_volume | 2783200 |
+| pct_low_change_1y | 1.7859914578 |
+| pct_high_change_1y | -0.3368560106 |
+| foreign_volume | 2085795 |
 | foreign_room | 2453576846 |
-| avg_match_volume_2w | 17227381 |
-| foreign_holding_room | 85502440 |
-| current_holding_ratio | 0.017075558756560513 |
+| avg_match_volume_2w | 15702186 |
+| foreign_holding_room | 86985935 |
+| current_holding_ratio | 0.017371825226120487 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.35 |
-| EMA20 | 28.54 |
-| EMA50 | 27.11 |
-| RSI(14) | 42.7 |
+| Giá đóng cửa | 25.2 |
+| EMA20 | 27.92 |
+| EMA50 | 26.96 |
+| RSI(14) | 39.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.737 |
-| MACD Signal | -0.05 |
-| MACD Histogram | -0.687 |
+| MACD | -1.01 |
+| MACD Signal | -0.378 |
+| MACD Histogram | -0.632 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2783200 |
+| KL khớp NN hôm nay | 2085795 |
 | Room NN còn lại | 2453576846 |
-| Tỷ lệ sở hữu NN hiện tại | 0.017075558756560513 |
+| Tỷ lệ sở hữu NN hiện tại | 0.017371825226120487 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | BSR      |              2783200 |     2453576846 |               0.0170756 |
-| 2026-04-05 | BSR      |              2783200 |     2453576846 |               0.0170756 |
+| 2026-04-06 | BSR      |              2085795 |     2453576846 |               0.0173718 |
+| 2026-04-03 | BSR      |              2783200 |     2453576846 |               0.0170756 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -83,8 +83,8 @@
 | roe | 0.089900177 |
 | roic | 0.063901893 |
 | roa | 0.0600888515 |
-| pe | 25.3072812335 |
-| pb | 2.1815512563 |
+| pe | 24.1067460706 |
+| pb | 2.0780621075 |
 | eps | 1041.20232264105 |
 | current_ratio | 2.9545684785 |
 | cash_ratio | 0.3207664321 |
@@ -94,12 +94,12 @@
 | fae | 0.1866075217588894 |
 | net_profit_margin | 0.036823936464417686 |
 | gross_margin | 0.04318283494384872 |
-| ev | 131942346726100 |
+| ev | 125683222118600 |
 | issue_share | 5007299686 |
-| ps | 0.9319137162 |
-| pcf | 25.0932857686 |
+| ps | 0.8877052857 |
+| pcf | 23.9029021932 |
 | bvps | 12078.5610348252 |
-| ev_per_ebitda | 20.0029653814 |
+| ev_per_ebitda | 19.0743166873 |
 | at | 1.631787834 |
 | fat | 11.5540103607 |
 | acp | 31.899520715379367 |
@@ -137,20 +137,18 @@
 
 | event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | BSR - Niêm yết bổ sung 1.906.800.070 cổ phiếu                | 2025-11-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BSR - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                | 2025-10-15    | 2025-10-30    | 2025-10-29     |    0.3  |       0 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2023 bằng tiền 700 đồng/cổ phiếu | 2024-09-17    | 2024-10-15    | 2024-10-14     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2022 bằng tiền 700 đồng/cổ phiếu | 2023-06-28    | 2023-08-23    | 2023-08-22     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2021 bằng tiền 300 đồng/cổ phiếu | 2022-07-13    | 2022-07-27    | 2022-07-26     |    0.03 |     300 |
-| Niêm yết thêm            | BSR - Đăng ký giao dịch bổ sung 2.691.400 cổ phiếu           | 2018-12-14    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết mới             | BSR-Chính thức đăng ký giao dịch trên UPCoM                  | 2018-02-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | BSR - Niêm yết bổ sung 1.906.800.070 cổ phiếu                | 2025-11-26    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | BSR - Phát hành cổ phiếu thưởng tỷ lệ 31,5%                  | 2025-10-15    | 2025-10-30    | 2025-10-29     |   0.315 |       0 |
+| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2023 bằng tiền 700 đồng/cổ phiếu | 2024-09-17    | 2024-10-15    | 2024-10-14     |   0.07  |     700 |
+| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2022 bằng tiền 700 đồng/cổ phiếu | 2023-06-28    | 2023-08-23    | 2023-08-22     |   0.07  |     700 |
+| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2021 bằng tiền 300 đồng/cổ phiếu | 2022-07-13    | 2022-07-27    | 2022-07-26     |   0.03  |     300 |
+| Niêm yết thêm            | BSR - Đăng ký giao dịch bổ sung 2.691.400 cổ phiếu           | 2018-12-14    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết mới             | BSR-Chính thức đăng ký giao dịch trên UPCoM                  | 2018-02-23    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BSR      | 2026-03-09 00:00:00 |  39.6  |  39.6  | 36.1  |   36.1  | 35545500 |
-| BSR      | 2026-03-10 00:00:00 |  35.45 |  37.9  | 33.7  |   33.8  | 31752600 |
 | BSR      | 2026-03-11 00:00:00 |  33.5  |  36.15 | 32.95 |   36.15 | 19019300 |
 | BSR      | 2026-03-12 00:00:00 |  37.3  |  38    | 36.5  |   37.8  | 17242000 |
 | BSR      | 2026-03-13 00:00:00 |  38.25 |  39.5  | 35.2  |   35.2  | 35612800 |
@@ -169,10 +167,23 @@
 | BSR      | 2026-04-01 00:00:00 |  27.65 |  28    | 26.1  |   26.3  | 23335900 |
 | BSR      | 2026-04-02 00:00:00 |  26.35 |  27.25 | 25.35 |   25.9  | 16030200 |
 | BSR      | 2026-04-03 00:00:00 |  26.4  |  27.1  | 26.3  |   26.35 |  9858500 |
+| BSR      | 2026-04-06 00:00:00 |  26.4  |  26.5  | 25    |   25.1  |  9927300 |
+| BSR      | 2026-04-07 00:00:00 |  25.3  |  26.2  | 25.1  |   25.2  |  5030400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BSR      | 2026-04-07 11:25:14 |   25.15 |     1000 | Sell         | 460070251 |
+| BSR      | 2026-04-07 11:25:14 |   25.15 |      200 | Sell         | 460070255 |
+| BSR      | 2026-04-07 11:25:14 |   25.15 |      200 | Sell         | 460070252 |
+| BSR      | 2026-04-07 11:25:14 |   25.15 |      100 | Sell         | 460070253 |
+| BSR      | 2026-04-07 11:25:14 |   25.15 |      300 | Sell         | 460070254 |
+| BSR      | 2026-04-07 11:25:18 |   25.15 |      100 | Sell         | 460070296 |
+| BSR      | 2026-04-07 11:25:18 |   25.15 |      100 | Sell         | 460070298 |
+| BSR      | 2026-04-07 11:25:18 |   25.15 |     1900 | Sell         | 460070300 |
+| BSR      | 2026-04-07 11:25:18 |   25.15 |     2000 | Sell         | 460070314 |
+| BSR      | 2026-04-07 11:25:18 |   25.15 |     1800 | Sell         | 460070295 |
 
 <!-- END:DAILY -->
 

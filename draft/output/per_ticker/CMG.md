@@ -1,6 +1,6 @@
 # CMG — CMG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:25  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 07/04/2026 12:11  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | CMG |
 | exchange | HOSE |
-| ev | 6626030832600 |
-| ceiling | 30800 |
-| floor | 26800 |
-| ref_price | 28800 |
-| open | 28800 |
-| match_price | 28450 |
-| close_price | 28450 |
-| price_change | -350 |
-| price_change_pct | -0.01215278 |
-| high | 29000 |
-| low | 28450 |
-| total_volume | 244101 |
+| ev | 6004073763450 |
+| ceiling | 30400 |
+| floor | 26500 |
+| ref_price | 28450 |
+| open | 28450 |
+| match_price | 28350 |
+| close_price | 28350 |
+| price_change | -100 |
+| price_change_pct | -0.00351494 |
+| high | 28900 |
+| low | 28300 |
+| total_volume | 127754 |
 | high_price_1y | 42728 |
 | low_price_1y | 26228 |
-| pct_low_change_1y | 0.0847378528 |
-| pct_high_change_1y | -0.3189404341 |
-| foreign_volume | 55300 |
+| pct_low_change_1y | 0.080925066 |
+| pct_high_change_1y | -0.3213343166 |
+| foreign_volume | 29820 |
 | foreign_room | 116477304 |
-| avg_match_volume_2w | 324037 |
-| foreign_holding_room | 87605661 |
-| current_holding_ratio | 0.3760632242999031 |
+| avg_match_volume_2w | 296149 |
+| foreign_holding_room | 87612561 |
+| current_holding_ratio | 0.37609284380414576 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -39,33 +39,33 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 28.45 |
-| EMA20 | 29.67 |
-| EMA50 | 31.46 |
-| RSI(14) | 33.0 |
+| EMA20 | 29.44 |
+| EMA50 | 31.22 |
+| RSI(14) | 33.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.054 |
-| MACD Signal | -1.19 |
-| MACD Histogram | 0.135 |
+| MACD | -0.999 |
+| MACD Signal | -1.127 |
+| MACD Histogram | 0.128 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 55300 |
+| KL khớp NN hôm nay | 29820 |
 | Room NN còn lại | 116477304 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3760632242999031 |
+| Tỷ lệ sở hữu NN hiện tại | 0.37609284380414576 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | CMG      |                55300 |      116477304 |                0.376063 |
-| 2026-04-05 | CMG      |                55300 |      116477304 |                0.376063 |
+| 2026-04-06 | CMG      |                29820 |      116477304 |                0.376093 |
+| 2026-04-03 | CMG      |                55300 |      116477304 |                0.376063 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -83,8 +83,8 @@
 | roe | 0.1309582537 |
 | roic | 0.071909229 |
 | roa | 0.0445106066 |
-| pe | 15.2371715208 |
-| pb | 1.8913079603 |
+| pe | 15.1836138002 |
+| pb | 1.8846601292 |
 | eps | 1867.1444343313583 |
 | current_ratio | 1.5813614761 |
 | cash_ratio | 0.1308097147 |
@@ -94,12 +94,12 @@
 | fae | 0.6045834943460726 |
 | net_profit_margin | 0.0434008371132653 |
 | gross_margin | 0.18655349311310926 |
-| ev | 6025252154150 |
+| ev | 6004073763450 |
 | issue_share | 232954608 |
-| ps | 0.6613059992 |
-| pcf | 9.7024860232 |
+| ps | 0.6589815493 |
+| pcf | 9.6683823816 |
 | bvps | 15042.500003487 |
-| ev_per_ebitda | 10.606406905 |
+| ev_per_ebitda | 10.5817902787 |
 | at | 1.025570232 |
 | fat | 3.9164738803 |
 | acp | 64.29969743723112 |
@@ -137,28 +137,26 @@
 
 | event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 21.170.701 cổ phiếu                   | 2026-03-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2026-01-09    | 2026-01-15    | 2026-01-14     |    0.1  |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 444.300 cổ phiếu                      | 2025-09-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 20.942.111 cổ phiếu                   | 2025-04-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 11%                | 2024-12-25    | 2024-12-31    | 2024-12-30     |    0.11 |       0 |
-| Niêm yết thêm            | CMG - Giảm niêm yết 41.800 cổ phiếu                          | 2024-12-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 412,300 cổ phiếu                      | 2024-07-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 39,449,064 cổ phiếu                   | 2024-01-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CMG - Giảm niêm yết 18,100 cổ phiếu                          | 2023-12-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | CMG - Trả cổ tức Cả năm năm 2022 bằng tiền 600 đồng/cổ phiếu | 2023-11-15    | 2023-12-06    | 2023-12-05     |    0.06 |     600 |
-| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 6%                 | 2023-11-15    | 2023-12-06    | 2023-12-05     |    0.06 |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 594,600 cổ phiếu                      | 2023-01-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 41,002,549 cổ phiếu                   | 2022-10-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 13%                | 2022-09-08    | 2022-09-13    | 2022-09-12     |    0.13 |       0 |
-| Niêm yết thêm            | CMG - Niêm yết bổ sung 8.999.017 cổ phiếu                    | 2022-03-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 21.170.701 cổ phiếu                   | 2026-03-13    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2026-01-09    | 2026-01-15    | 2026-01-14     |  0.1    |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 444.300 cổ phiếu                      | 2025-09-15    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 20.942.111 cổ phiếu                   | 2025-04-23    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 11%                | 2024-12-25    | 2024-12-31    | 2024-12-30     |  0.11   |       0 |
+| Niêm yết thêm            | CMG - Giảm niêm yết 41.800 cổ phiếu                          | 2024-12-11    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 412,300 cổ phiếu                      | 2024-07-19    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 39,449,064 cổ phiếu                   | 2024-01-31    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | CMG - Giảm niêm yết 18,100 cổ phiếu                          | 2023-12-05    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Trả cổ tức bằng tiền mặt | CMG - Trả cổ tức Cả năm năm 2022 bằng tiền 600 đồng/cổ phiếu | 2023-11-15    | 2023-12-06    | 2023-12-05     |  0.06   |     600 |
+| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu thưởng tỷ lệ 20.2%                  | 2023-11-15    | 2023-12-06    | 2023-12-05     |  0.202  |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 594,600 cổ phiếu                      | 2023-01-31    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 41,002,549 cổ phiếu                   | 2022-10-26    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu thưởng tỷ lệ 24.62%                 | 2022-09-08    | 2022-09-13    | 2022-09-12     |  0.2462 |       0 |
+| Niêm yết thêm            | CMG - Niêm yết bổ sung 8.999.017 cổ phiếu                    | 2022-03-17    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CMG      | 2026-03-09 00:00:00 |  29.25 |  30.8  | 29.25 |   29.25 |   465500 |
-| CMG      | 2026-03-10 00:00:00 |  29.4  |  29.95 | 28.85 |   29.3  |   673500 |
 | CMG      | 2026-03-11 00:00:00 |  29.6  |  30.4  | 29.3  |   30.2  |   374400 |
 | CMG      | 2026-03-12 00:00:00 |  30.2  |  30.2  | 29.6  |   29.65 |   235600 |
 | CMG      | 2026-03-13 00:00:00 |  29.65 |  29.7  | 29.3  |   29.4  |   280900 |
@@ -177,10 +175,23 @@
 | CMG      | 2026-04-01 00:00:00 |  29.4  |  29.4  | 29    |   29.1  |   201600 |
 | CMG      | 2026-04-02 00:00:00 |  29    |  29.1  | 28.55 |   28.8  |   237600 |
 | CMG      | 2026-04-03 00:00:00 |  28.8  |  29    | 28.45 |   28.45 |   242800 |
+| CMG      | 2026-04-06 00:00:00 |  28.45 |  28.9  | 28.3  |   28.35 |   126500 |
+| CMG      | 2026-04-07 00:00:00 |  29    |  29    | 28.45 |   28.45 |   116800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| CMG      | 2026-04-07 09:40:56 |   28.7  |      900 | Sell         | 459898403 |
+| CMG      | 2026-04-07 09:45:39 |   28.7  |      100 | Buy          | 459907359 |
+| CMG      | 2026-04-07 09:45:39 |   28.7  |      400 | Buy          | 459907360 |
+| CMG      | 2026-04-07 09:47:35 |   28.5  |     9700 | Sell         | 459911109 |
+| CMG      | 2026-04-07 09:47:35 |   28.5  |     7400 | Sell         | 459911108 |
+| CMG      | 2026-04-07 09:47:35 |   28.55 |      200 | Sell         | 459911106 |
+| CMG      | 2026-04-07 09:47:35 |   28.55 |      100 | Sell         | 459911105 |
+| CMG      | 2026-04-07 09:47:35 |   28.6  |      300 | Sell         | 459911100 |
+| CMG      | 2026-04-07 09:47:35 |   28.6  |      100 | Sell         | 459911103 |
+| CMG      | 2026-04-07 09:47:35 |   28.6  |      100 | Sell         | 459911102 |
 
 <!-- END:DAILY -->
 

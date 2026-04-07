@@ -1,6 +1,6 @@
 # REE — REE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 06/04/2026 08:34  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 07/04/2026 12:15  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
@@ -12,60 +12,60 @@
 | symbol | REE |
 | exchange | HOSE |
 | ev | 34882784151600 |
-| ceiling | 70900 |
-| floor | 61700 |
-| ref_price | 66300 |
-| open | 67000 |
+| ceiling | 68900 |
+| floor | 59900 |
+| ref_price | 64400 |
+| open | 65500 |
 | match_price | 64400 |
 | close_price | 64400 |
-| price_change | -1900 |
-| price_change_pct | -0.02865762 |
-| high | 67400 |
-| low | 64400 |
-| total_volume | 2351861 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 65600 |
+| low | 64100 |
+| total_volume | 1121686 |
 | high_price_1y | 74200 |
 | low_price_1y | 48865 |
 | pct_low_change_1y | 0.2336650733 |
 | pct_high_change_1y | -0.1018131102 |
-| foreign_volume | 210700 |
+| foreign_volume | 41600 |
 | foreign_room | 265412488 |
-| avg_match_volume_2w | 2223434 |
-| foreign_holding_room | 265373488 |
-| current_holding_ratio | 0.48992799866337833 |
+| avg_match_volume_2w | 2147949 |
+| foreign_holding_room | 265412488 |
+| current_holding_ratio | 0.4899999997969199 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 64.4 |
-| EMA20 | 66.13 |
-| EMA50 | 64.19 |
-| RSI(14) | 46.9 |
+| Giá đóng cửa | 64.6 |
+| EMA20 | 65.84 |
+| EMA50 | 64.21 |
+| RSI(14) | 47.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 1.405 |
-| MACD Signal | 1.673 |
-| MACD Histogram | -0.268 |
+| MACD | 0.858 |
+| MACD Signal | 1.418 |
+| MACD Histogram | -0.56 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 210700 |
+| KL khớp NN hôm nay | 41600 |
 | Room NN còn lại | 265412488 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48992799866337833 |
+| Tỷ lệ sở hữu NN hiện tại | 0.4899999997969199 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-06 | REE      |               210700 |      265412488 |                0.489928 |
-| 2026-04-05 | REE      |               210700 |      265412488 |                0.489928 |
+| 2026-04-06 | REE      |                41600 |      265412488 |                0.49     |
+| 2026-04-03 | REE      |               210700 |      265412488 |                0.489928 |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -157,8 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| REE      | 2026-03-09 00:00:00 |   60   |   60.1 |  57.7 |    57.7 |  2304152 |
-| REE      | 2026-03-10 00:00:00 |   59   |   60   |  58.6 |    59.6 |  1095727 |
 | REE      | 2026-03-11 00:00:00 |   59.8 |   60.8 |  59.5 |    60.4 |   793300 |
 | REE      | 2026-03-12 00:00:00 |   60.1 |   63   |  59   |    62.5 |  1507700 |
 | REE      | 2026-03-13 00:00:00 |   62.8 |   64.6 |  62.6 |    63.8 |  1161100 |
@@ -177,10 +175,23 @@
 | REE      | 2026-04-01 00:00:00 |   70   |   70.5 |  67.4 |    67.4 |  1823500 |
 | REE      | 2026-04-02 00:00:00 |   67.4 |   68.3 |  66   |    66.3 |  1850200 |
 | REE      | 2026-04-03 00:00:00 |   67   |   67.4 |  64.4 |    64.4 |  2346300 |
+| REE      | 2026-04-06 00:00:00 |   65.5 |   65.6 |  64.1 |    64.4 |  1117900 |
+| REE      | 2026-04-07 00:00:00 |   65.7 |   66   |  64.6 |    64.6 |   521200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| REE      | 2026-04-07 10:54:33 |    65.1 |      500 | Buy          | 460028578 |
+| REE      | 2026-04-07 10:56:19 |    65   |      200 | Sell         | 460030811 |
+| REE      | 2026-04-07 10:56:19 |    65   |      500 | Sell         | 460030810 |
+| REE      | 2026-04-07 10:56:19 |    65   |     1000 | Sell         | 460030809 |
+| REE      | 2026-04-07 10:56:19 |    65   |      200 | Sell         | 460030805 |
+| REE      | 2026-04-07 10:56:19 |    65   |      100 | Sell         | 460030807 |
+| REE      | 2026-04-07 10:56:19 |    65   |      600 | Sell         | 460030806 |
+| REE      | 2026-04-07 10:56:19 |    65   |      200 | Sell         | 460030808 |
+| REE      | 2026-04-07 10:56:50 |    64.9 |      200 | Sell         | 460031597 |
+| REE      | 2026-04-07 10:58:44 |    64.9 |     4300 | Sell         | 460033643 |
 
 <!-- END:DAILY -->
 
