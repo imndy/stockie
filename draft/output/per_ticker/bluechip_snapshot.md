@@ -248,8 +248,8 @@
 | 2026-03-12 | TLG  | Trả cổ tức bằng tiền mặt | TLG - Trả cổ tức Đợt 2 năm 2025 bằng tiền 2500 đồng/cổ phiếu                    |
 | 2026-03-12 | HDG  | Trả cổ tức bằng tiền mặt | HDG - Trả cổ tức Đợt 1 năm 2025 bằng tiền 500 đồng/cổ phiếu                     |
 | 2026-03-06 | VIX  | Phát hành cổ phiếu       | VIX - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 6 giá 12.000 đồng/cp   |
-| 2026-02-26 | CII  | Niêm yết thêm            | CII - Niêm yết bổ sung 46.534.870 cổ phiếu                                      |
 | 2026-02-26 | REE  | Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu                    |
+| 2026-02-26 | CII  | Niêm yết thêm            | CII - Niêm yết bổ sung 46.534.870 cổ phiếu                                      |
 | 2026-02-12 | BCM  | Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm năm 2024 bằng tiền 1100 đồng/cổ phiếu                   |
 | 2026-02-10 | SSI  | Niêm yết thêm            | SSI - Niêm yết bổ sung 415.182.958 cổ phiếu                                     |
 | 2026-02-05 | HCM  | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1 năm 2025 bằng tiền 400 đồng/cổ phiếu                     |
@@ -257,17 +257,17 @@
 | 2026-01-30 | NLG  | Niêm yết thêm            | NLG - Niêm yết bổ sung 100.022.079 cổ phiếu                                     |
 | 2026-01-29 | CTD  | Niêm yết thêm            | CTD - Niêm yết bổ sung 5.070.390 cổ phiếu                                       |
 | 2026-01-22 | CTG  | Niêm yết thêm            | CTG - Niêm yết bổ sung 2.396.952.889 cổ phiếu                                   |
-| 2026-01-15 | POW  | Niêm yết thêm            | POW - Niêm yết bổ sung 444.949.496 cổ phiếu                                     |
 | 2026-01-15 | HDB  | Niêm yết thêm            | HDB - Niêm yết bổ sung 1.145.860.486 cổ phiếu                                   |
+| 2026-01-15 | POW  | Niêm yết thêm            | POW - Niêm yết bổ sung 444.949.496 cổ phiếu                                     |
 | 2026-01-14 | CMG  | Phát hành cổ phiếu       | CMG - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                                   |
-| 2026-01-13 | KDC  | Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm năm 2024 bằng tiền 1200 đồng/cổ phiếu                   |
 | 2026-01-12 | SAB  | Trả cổ tức bằng tiền mặt | SAB - Trả cổ tức Đợt 1 năm 2025 bằng tiền 2000 đồng/cổ phiếu                    |
 | 2026-01-10 | PDR  | Niêm yết thêm            | PDR - Niêm yết bổ sung 18.000.000 cổ phiếu                                      |
-| 2026-01-09 | DSE  | Phát hành cổ phiếu       | DSE - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 4 : 1 giá 15.000 đồng/cp    |
+| 2026-01-09 | PNJ  | Trả cổ tức bằng tiền mặt | PNJ - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu                    |
 | 2026-01-09 | TLG  | Niêm yết thêm            | TLG - Niêm yết bổ sung 8.774.765 cổ phiếu                                       |
 | 2026-01-09 | VCI  | Niêm yết thêm            | VCI - Niêm yết bổ sung 127.500.000 cổ phiếu                                     |
-| 2026-01-09 | PNJ  | Trả cổ tức bằng tiền mặt | PNJ - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu                    |
+| 2026-01-09 | DSE  | Phát hành cổ phiếu       | DSE - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 4 : 1 giá 15.000 đồng/cp    |
 | 2026-01-08 | VCI  | Trả cổ tức bằng tiền mặt | VCI - Trả cổ tức Đợt 1 năm 2025 bằng tiền 500 đồng/cổ phiếu                     |
+| 2026-01-07 | DSE  | Trả cổ tức bằng tiền mặt | DSE - Trả cổ tức Đợt 1 năm 2025 bằng tiền 700 đồng/cổ phiếu                     |
 
 ---
 

@@ -1186,8 +1186,12 @@ def run_pipeline(mode: str) -> None:
             print(f"\n[{ticker}]")
 
         frames: dict = {}
-        kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
-        vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
+        try:
+            kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
+            vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
+        except Exception as exc:
+            print(f"    [WARN] Init vnstock failed for {ticker}: {exc}")
+            continue
 
         # ── Daily data ──
         if effective_mode in ("daily", "full"):
