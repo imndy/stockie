@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | PAN |
 | exchange | HOSE |
-| ev | 6559295150000 |
-| ceiling | 33650 |
+| ev | 6548850412500 |
+| ceiling | 33550 |
 | floor | 29250 |
-| ref_price | 31450 |
-| open | 31400 |
-| match_price | 31400 |
-| close_price | 31400 |
+| ref_price | 31400 |
+| open | 30900 |
+| match_price | 31350 |
+| close_price | 31350 |
 | price_change | -50 |
-| price_change_pct | -0.00158983 |
-| high | 31450 |
-| low | 30750 |
-| total_volume | 641831 |
+| price_change_pct | -0.00159236 |
+| high | 31500 |
+| low | 30900 |
+| total_volume | 197195 |
 | high_price_1y | 35600 |
 | low_price_1y | 20102 |
-| pct_low_change_1y | 0.5468559414 |
-| pct_high_change_1y | -0.1117397454 |
-| foreign_volume | 99000 |
+| pct_low_change_1y | 0.544392795 |
+| pct_high_change_1y | -0.1131541726 |
+| foreign_volume | 5100 |
 | foreign_room | 105984344 |
-| avg_match_volume_2w | 908640 |
-| foreign_holding_room | 45596335 |
-| current_holding_ratio | 0.21080664619520287 |
+| avg_match_volume_2w | 869875 |
+| foreign_holding_room | 45556135 |
+| current_holding_ratio | 0.21062078855605165 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 31.2 |
-| EMA20 | 31.05 |
-| EMA50 | 30.8 |
-| RSI(14) | 51.2 |
+| Giá đóng cửa | 31.85 |
+| EMA20 | 31.14 |
+| EMA50 | 30.84 |
+| RSI(14) | 55.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.016 |
-| MACD Signal | -0.116 |
-| MACD Histogram | 0.132 |
+| MACD | 0.087 |
+| MACD Signal | -0.074 |
+| MACD Histogram | 0.16 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 99000 |
+| KL khớp NN hôm nay | 5100 |
 | Room NN còn lại | 105984344 |
-| Tỷ lệ sở hữu NN hiện tại | 0.21080664619520287 |
+| Tỷ lệ sở hữu NN hiện tại | 0.21062078855605165 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.129207273 |
 | roic | 0.10015349 |
 | roa | 0.0341146695 |
-| pe | 10.0966306406 |
-| pb | 1.2713213789 |
+| pe | 10.0805532032 |
+| pb | 1.2692969818 |
 | eps | 3109.948369691002 |
 | current_ratio | 1.801741888 |
 | cash_ratio | 0.4619717048 |
@@ -94,12 +94,12 @@
 | fae | 0.42421631336830634 |
 | net_profit_margin | 0.038249547063079016 |
 | gross_margin | 0.20128922074740221 |
-| ev | 6791649812000 |
+| ev | 6780835083000 |
 | issue_share | 216294580 |
-| ps | 0.3861915489 |
-| pcf | 0.7500593184 |
+| ps | 0.3855765942 |
+| pcf | 0.7488649564 |
 | bvps | 24698.7115308345 |
-| ev_per_ebitda | 4.4080950157 |
+| ev_per_ebitda | 4.4020310324 |
 | at | 0.8918973466 |
 | fat | 4.4231525796 |
 | acp | 30.891831874446044 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PAN      | 2026-03-11 00:00:00 |  31.95 |  32.8  | 31.8  |   32.45 |   752400 |
 | PAN      | 2026-03-12 00:00:00 |  32.4  |  32.65 | 31.85 |   31.9  |   907300 |
 | PAN      | 2026-03-13 00:00:00 |  31.8  |  32.35 | 31.45 |   32.2  |   781900 |
 | PAN      | 2026-03-16 00:00:00 |  32.2  |  32.85 | 31.95 |   32.45 |   620400 |

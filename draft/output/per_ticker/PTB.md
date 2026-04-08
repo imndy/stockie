@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | PTB |
 | exchange | HOSE |
-| ev | 3855652032000 |
-| ceiling | 51000 |
-| floor | 44400 |
-| ref_price | 47700 |
-| open | 47400 |
-| match_price | 48000 |
-| close_price | 48000 |
-| price_change | 300 |
-| price_change_pct | 0.00628931 |
+| ev | 3799423773200 |
+| ceiling | 51300 |
+| floor | 44650 |
+| ref_price | 48000 |
+| open | 48000 |
+| match_price | 47300 |
+| close_price | 47300 |
+| price_change | -700 |
+| price_change_pct | -0.01458333 |
 | high | 48000 |
-| low | 47100 |
-| total_volume | 164412 |
+| low | 46950 |
+| total_volume | 58630 |
 | high_price_1y | 58000 |
 | low_price_1y | 37925 |
-| pct_low_change_1y | 0.1786490367 |
-| pct_high_change_1y | -0.170984456 |
-| foreign_volume | 12564 |
+| pct_low_change_1y | 0.1614604049 |
+| pct_high_change_1y | -0.183074266 |
+| foreign_volume | 11140 |
 | foreign_room | 20081521 |
-| avg_match_volume_2w | 88799 |
-| foreign_holding_room | 12189663 |
-| current_holding_ratio | 0.15175223779115138 |
+| avg_match_volume_2w | 81798 |
+| foreign_holding_room | 12164323 |
+| current_holding_ratio | 0.15143677363880953 |
 | max_holding_ratio | 0.25 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.0 |
-| EMA20 | 49.29 |
-| EMA50 | 50.14 |
-| RSI(14) | 37.8 |
+| Giá đóng cửa | 48.4 |
+| EMA20 | 49.23 |
+| EMA50 | 50.08 |
+| RSI(14) | 44.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.148 |
-| MACD Signal | -1.059 |
-| MACD Histogram | -0.09 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| MACD | -1.057 |
+| MACD Signal | -1.054 |
+| MACD Histogram | -0.002 |
+| MACD nhận xét | MACD gần cắt Signal (chú ý) |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 12564 |
+| KL khớp NN hôm nay | 11140 |
 | Room NN còn lại | 20081521 |
-| Tỷ lệ sở hữu NN hiện tại | 0.15175223779115138 |
+| Tỷ lệ sở hữu NN hiện tại | 0.15143677363880953 |
 | Tỷ lệ sở hữu NN tối đa | 0.25 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1627606043 |
 | roic | 0.1233303487 |
 | roa | 0.0837019757 |
-| pe | 6.4612405318 |
-| pb | 1.0018005708 |
+| pe | 6.3670141074 |
+| pb | 0.9871909792 |
 | eps | 7428.913962198949 |
 | current_ratio | 1.5324515348 |
 | cash_ratio | 0.2619023004 |
@@ -94,12 +94,12 @@
 | fae | 0.5118840326810913 |
 | net_profit_margin | 0.06812505302273672 |
 | gross_margin | 0.20543750049747156 |
-| ev | 3213043344000 |
+| ev | 3166186461900 |
 | issue_share | 80326084 |
-| ps | 0.4401723538 |
-| pcf | 7.2086620695 |
+| ps | 0.4337531737 |
+| pcf | 7.1035357476 |
 | bvps | 47913.7279391473 |
-| ev_per_ebitda | 4.9581817228 |
+| ev_per_ebitda | 4.9064729824 |
 | at | 1.2286518983 |
 | fat | 4.4610694667 |
 | acp | 45.450164899731874 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                        |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| PTB: Đính chính báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lê Anh Văn    | 1775559587000 | https://www.hsx.vn/vi/tin-tuc/ptb-dinh-chinh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van/2451063       |
 | PTB: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán năm 2025 (đã kiểm toán) | 1775469699000 | https://www.hsx.vn/vi/tin-tuc/ptb-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-nam-2025-da-kiem-toan/2450580      |
 | PTB: Báo cáo thường niên năm 2025                                                 | 1775469632000 | https://www.hsx.vn/vi/tin-tuc/ptb-bao-cao-thuong-nien-nam-2025/2450596                                                    |
 | PTB: Cập nhật chương trình và tài liệu ĐHĐCĐ thường niên 2026                     | 1775468013000 | https://www.hsx.vn/vi/tin-tuc/ptb-cap-nhat-chuong-trinh-va-tai-lieu-dhdcd-thuong-nien-2026/2450521                        |
@@ -131,7 +132,6 @@
 | PTB: Em gái Phó Tổng giám đốc đăng ký mua 100.000 cổ phiếu                        | 1774275360000 | https://www.hsx.vn/vi/tin-tuc/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-le-thuc-trinh/244… |
 | PTB: Quyết định về việc thay đổi đăng ký niêm yết                                 | 1773997500000 | https://www.hsx.vn/vi/tin-tuc/ptb-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2445485                                    |
 | Phú Tài (PTB) sắp góp bổ sung thêm 165,5 tỷ đồng vào hai công ty con              | 1773959460000 | https://www.tinnhanhchungkhoan.vn/phu-tai-ptb-sap-gop-bo-sung-them-1655-ty-dong-vao-hai-cong-ty-con-post387080.html       |
-| PTB: Quyết định của HĐQT số 35 và 37 ngày 18/03/2026                              | 1773940393000 | https://www.hsx.vn/vi/tin-tuc/ptb-quyet-dinh-cua-hdqt-so-35-va-37-ngay-18032026/2445418                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PTB      | 2026-03-11 00:00:00 |  50.1  |  52.9  | 50.1  |   52.3  |   167800 |
 | PTB      | 2026-03-12 00:00:00 |  51.5  |  53.4  | 51.2  |   52    |   266300 |
 | PTB      | 2026-03-13 00:00:00 |  51.5  |  52.3  | 51.5  |   52.2  |    92200 |
 | PTB      | 2026-03-16 00:00:00 |  51.1  |  52    | 51    |   51.4  |    96600 |
@@ -182,16 +181,16 @@
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PTB      | 2026-04-07 09:15:01 |   48    |      100 | Sell         | 459846793 |
-| PTB      | 2026-04-07 09:15:01 |   48    |      100 | Sell         | 459846794 |
-| PTB      | 2026-04-07 09:15:05 |   48    |      100 | Sell         | 459846918 |
-| PTB      | 2026-04-07 09:15:08 |   48    |      100 | Sell         | 459847000 |
-| PTB      | 2026-04-07 09:35:00 |   47.85 |      100 | Buy          | 459887120 |
-| PTB      | 2026-04-07 09:38:45 |   47.4  |      100 | Sell         | 459894167 |
-| PTB      | 2026-04-07 09:38:45 |   47.4  |      200 | Sell         | 459894168 |
-| PTB      | 2026-04-07 09:38:45 |   47.1  |      100 | Sell         | 459894169 |
-| PTB      | 2026-04-07 09:42:38 |   47.15 |      100 | Sell         | 459901489 |
-| PTB      | 2026-04-07 09:42:38 |   47.15 |      200 | Sell         | 459901490 |
+| PTB      | 2026-04-08 10:31:16 |   48.25 |      100 | Buy          | 460605319 |
+| PTB      | 2026-04-08 10:31:48 |   48.2  |      100 | Buy          | 460607035 |
+| PTB      | 2026-04-08 10:32:19 |   48.2  |      100 | Buy          | 460608679 |
+| PTB      | 2026-04-08 10:32:23 |   48.2  |      100 | Buy          | 460608941 |
+| PTB      | 2026-04-08 10:32:51 |   48.2  |      100 | Buy          | 460610576 |
+| PTB      | 2026-04-08 10:33:23 |   48.2  |      100 | Buy          | 460612759 |
+| PTB      | 2026-04-08 10:33:56 |   48.2  |      100 | Buy          | 460615736 |
+| PTB      | 2026-04-08 10:34:07 |   48.2  |      100 | Buy          | 460617198 |
+| PTB      | 2026-04-08 10:34:28 |   48.2  |      100 | Buy          | 460618829 |
+| PTB      | 2026-04-08 10:35:01 |   48.2  |      100 | Buy          | 460620766 |
 
 <!-- END:DAILY -->
 

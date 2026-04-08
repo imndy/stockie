@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | DXG |
 | exchange | HOSE |
-| ev | 15430723698750 |
-| ceiling | 15400 |
-| floor | 13400 |
-| ref_price | 14400 |
-| open | 14400 |
-| match_price | 13850 |
-| close_price | 13850 |
-| price_change | -550 |
-| price_change_pct | -0.03819444 |
-| high | 14600 |
-| low | 13800 |
-| total_volume | 18692801 |
+| ev | 15486430282500 |
+| ceiling | 14800 |
+| floor | 12900 |
+| ref_price | 13850 |
+| open | 13900 |
+| match_price | 13900 |
+| close_price | 13900 |
+| price_change | 50 |
+| price_change_pct | 0.00361011 |
+| high | 14050 |
+| low | 13550 |
+| total_volume | 12403780 |
 | high_price_1y | 24500 |
 | low_price_1y | 10513 |
-| pct_low_change_1y | 0.3174403418 |
-| pct_high_change_1y | -0.4276859504 |
-| foreign_volume | 425200 |
+| pct_low_change_1y | 0.3221964441 |
+| pct_high_change_1y | -0.4256198347 |
+| foreign_volume | 410300 |
 | foreign_room | 557065837 |
-| avg_match_volume_2w | 21067780 |
-| foreign_holding_room | 219207422 |
-| current_holding_ratio | 0.19675180853286484 |
+| avg_match_volume_2w | 19601314 |
+| foreign_holding_room | 218754422 |
+| current_holding_ratio | 0.1963452138635229 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 14.8 |
 | RSI(14) | 43.6 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.139 |
 | MACD Signal | -0.193 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 425200 |
+| KL khớp NN hôm nay | 410300 |
 | Room NN còn lại | 557065837 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19675180853286484 |
+| Tỷ lệ sở hữu NN hiện tại | 0.1963452138635229 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.018697604 |
 | roic | 0.033972849 |
 | roa | 0.006871667 |
-| pe | 66.8340957158 |
-| pb | 1.0844404988 |
+| pe | 67.0753740397 |
+| pb | 1.0883554465 |
 | eps | 207.22955628651343 |
 | current_ratio | 2.3730646563 |
 | cash_ratio | 0.2372889331 |
@@ -94,12 +94,12 @@
 | fae | 0.018043401755883478 |
 | net_profit_margin | 0.05507808613004681 |
 | gross_margin | 0.5459449073439411 |
-| ev | 15430723698750 |
+| ev | 15486430282500 |
 | issue_share | 1114131675 |
-| ps | 3.6810940803 |
-| pcf | 11.1023510309 |
+| ps | 3.6943832286 |
+| pcf | 11.1424317206 |
 | bvps | 12771.5628612031 |
-| ev_per_ebitda | 17.9214816796 |
+| ev_per_ebitda | 17.9807819144 |
 | at | 0.1247622689 |
 | fat | 11.2302346732 |
 | acp | 143.08935175179406 |
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| DXG: Phó TGĐ đăng ký bán 351.098 cổ phiếu                                                         | 1775064300000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-truong-son/2449489                 |
-| DXG: Giải trình chênh lệch LNST BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                  | 1775038747000 | https://www.hsx.vn/vi/tin-tuc/dxg-giai-trinh-chenh-lech-lnst-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2449063     |
-| DXG: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                 | 1774862973000 | https://www.hsx.vn/vi/tin-tuc/dxg-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447810                                    |
-| DXG: Nhóm quỹ Dragon Capital đã bán gần 2,3 triệu cổ phiếu                                        | 1774546740000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| Nhóm quỹ Dragon Capital vừa bán ra 2,4 triệu cổ phiếu Đất Xanh (DXG)                              | 1773094680000 | https://www.tinnhanhchungkhoan.vn/nhom-quy-dragon-capital-vua-ban-ra-24-trieu-co-phieu-dat-xanh-dxg-post386486.html       |
-| DXG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn        | 1773078720000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| DXG nhận chuyển nhượng dự án 8,6ha                                                                | 1772534520000 | https://vneconomy.vn/dxg-nhan-chuyen-nhuong-du-an-86ha.htm                                                                |
-| DXG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn        | 1770998280000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| DXG: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                       | 1770918019000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2438915                          |
-| DXG: Thông báo và Nghị quyết HĐQT về ngày đăng ký cuối cùng để tổ chức ĐHĐCĐ thường niên năm 2026 | 1770715181000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-de-to-chuc-dhdcd-thuong-nien-na… |
+| news_title                                                                                 |   public_date | news_source_link                                                                                                          |
+|:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| DXG: Nghị quyết HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2026 (cập nhật)              | 1775554447000 | https://www.hsx.vn/vi/tin-tuc/dxg-nghi-quyet-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2026-cap-nhat/2450945          |
+| DXG: Phó TGĐ đăng ký bán 351.098 cổ phiếu                                                  | 1775064300000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-truong-son/2449489                 |
+| DXG: Giải trình chênh lệch LNST BCTC kiểm toán năm 2025 so với cùng kỳ năm trước           | 1775038747000 | https://www.hsx.vn/vi/tin-tuc/dxg-giai-trinh-chenh-lech-lnst-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2449063     |
+| DXG: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                          | 1774862973000 | https://www.hsx.vn/vi/tin-tuc/dxg-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447810                                    |
+| DXG: Nhóm quỹ Dragon Capital đã bán gần 2,3 triệu cổ phiếu                                 | 1774546740000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
+| Nhóm quỹ Dragon Capital vừa bán ra 2,4 triệu cổ phiếu Đất Xanh (DXG)                       | 1773094680000 | https://www.tinnhanhchungkhoan.vn/nhom-quy-dragon-capital-vua-ban-ra-24-trieu-co-phieu-dat-xanh-dxg-post386486.html       |
+| DXG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1773078720000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
+| DXG nhận chuyển nhượng dự án 8,6ha                                                         | 1772534520000 | https://vneconomy.vn/dxg-nhan-chuyen-nhuong-du-an-86ha.htm                                                                |
+| DXG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1770998280000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
+| DXG: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                | 1770918019000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2438915                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXG      | 2026-03-11 00:00:00 |  13.35 |  14.15 | 13.3  |   13.85 | 22006600 |
 | DXG      | 2026-03-12 00:00:00 |  13.7  |  14.05 | 13.4  |   13.8  | 12586400 |
 | DXG      | 2026-03-13 00:00:00 |  13.6  |  14.3  | 13.55 |   14    | 13514400 |
 | DXG      | 2026-03-16 00:00:00 |  14.15 |  14.3  | 13.85 |   14    | 12701800 |

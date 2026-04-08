@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | HPG |
 | exchange | HOSE |
-| ev | 206086258206750 |
-| ceiling | 28500 |
-| floor | 24800 |
-| ref_price | 26650 |
-| open | 26650 |
-| match_price | 26850 |
-| close_price | 26850 |
-| price_change | 200 |
-| price_change_pct | 0.00750469 |
+| ev | 205702484914000 |
+| ceiling | 28700 |
+| floor | 25000 |
+| ref_price | 26850 |
+| open | 26800 |
+| match_price | 26800 |
+| close_price | 26800 |
+| price_change | -50 |
+| price_change_pct | -0.0018622 |
 | high | 27100 |
-| low | 26600 |
-| total_volume | 39721644 |
+| low | 26750 |
+| total_volume | 14719223 |
 | high_price_1y | 30850 |
 | low_price_1y | 17749 |
-| pct_low_change_1y | 0.5127365658 |
-| pct_high_change_1y | -0.1153212521 |
-| foreign_volume | 3385212 |
+| pct_low_change_1y | 0.5099195517 |
+| pct_high_change_1y | -0.1169686985 |
+| foreign_volume | 1922122 |
 | foreign_room | 3760978268 |
-| avg_match_volume_2w | 29385707 |
-| foreign_holding_room | 1700855553 |
-| current_holding_ratio | 0.22159639364326245 |
+| avg_match_volume_2w | 27922488 |
+| foreign_holding_room | 1690935238 |
+| current_holding_ratio | 0.22030392290762135 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.9 |
-| EMA20 | 26.79 |
-| EMA50 | 26.91 |
-| RSI(14) | 50.7 |
+| Giá đóng cửa | 27.85 |
+| EMA20 | 26.88 |
+| EMA50 | 26.94 |
+| RSI(14) | 58.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.047 |
-| MACD Signal | -0.13 |
-| MACD Histogram | 0.082 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.036 |
+| MACD Signal | -0.098 |
+| MACD Histogram | 0.134 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 3385212 |
+| KL khớp NN hôm nay | 1922122 |
 | Room NN còn lại | 3760978268 |
-| Tỷ lệ sở hữu NN hiện tại | 0.22159639364326245 |
+| Tỷ lệ sở hữu NN hiện tại | 0.22030392290762135 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1269059278 |
 | roic | 0.0914420498 |
 | roa | 0.0640693587 |
-| pe | 13.3361766407 |
-| pb | 1.5953295085 |
+| pe | 13.3113420473 |
+| pb | 1.59235869 |
 | eps | 2013.3206632866977 |
 | current_ratio | 1.1005787213 |
 | cash_ratio | 0.0881327018 |
@@ -94,12 +94,12 @@
 | fae | 1.0181988019010926 |
 | net_profit_margin | 0.09898514335749696 |
 | gross_margin | 0.15692032421801178 |
-| ev | 206086258206750 |
+| ev | 205702484914000 |
 | issue_share | 7675465855 |
-| ps | 1.3200833566 |
-| pcf | 11.8673229775 |
+| ps | 1.3176251008 |
+| pcf | 11.8452236796 |
 | bvps | 16830.3788383112 |
-| ev_per_ebitda | 10.0337904081 |
+| ev_per_ebitda | 10.0205102758 |
 | at | 0.6472623724 |
 | fat | 1.5531125244 |
 | acp | 17.913678146325935 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HPG      | 2026-03-11 00:00:00 |  27.15 |  27.65 | 26.95 |   27.4  | 49913200 |
 | HPG      | 2026-03-12 00:00:00 |  27    |  27.15 | 26.65 |   26.8  | 44045900 |
 | HPG      | 2026-03-13 00:00:00 |  26.7  |  27.2  | 26.5  |   26.65 | 28666500 |
 | HPG      | 2026-03-16 00:00:00 |  26.65 |  26.95 | 26.55 |   26.75 | 19880400 |

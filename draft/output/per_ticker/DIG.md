@@ -12,52 +12,52 @@
 | symbol | DIG |
 | exchange | HOSE |
 | ev | 10831464197600 |
-| ceiling | 15100 |
-| floor | 13200 |
-| ref_price | 14150 |
-| open | 14100 |
+| ceiling | 14550 |
+| floor | 12650 |
+| ref_price | 13600 |
+| open | 13650 |
 | match_price | 13600 |
 | close_price | 13600 |
-| price_change | -550 |
-| price_change_pct | -0.03886926 |
-| high | 14350 |
-| low | 13550 |
-| total_volume | 9981040 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 13800 |
+| low | 13400 |
+| total_volume | 10018697 |
 | high_price_1y | 25100 |
 | low_price_1y | 11802 |
 | pct_low_change_1y | 0.1077001711 |
 | pct_high_change_1y | -0.4471544715 |
-| foreign_volume | 1508415 |
+| foreign_volume | 1666100 |
 | foreign_room | 390251283 |
-| avg_match_volume_2w | 12193038 |
-| foreign_holding_room | 19759244 |
-| current_holding_ratio | 0.024809731491292134 |
+| avg_match_volume_2w | 12375591 |
+| foreign_holding_room | 20042488 |
+| current_holding_ratio | 0.025165373012117503 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.6 |
-| EMA20 | 13.94 |
-| EMA50 | 14.76 |
-| RSI(14) | 43.3 |
+| Giá đóng cửa | 14.3 |
+| EMA20 | 13.97 |
+| EMA50 | 14.74 |
+| RSI(14) | 52.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.167 |
-| MACD Signal | -0.259 |
-| MACD Histogram | 0.092 |
+| MACD | -0.121 |
+| MACD Signal | -0.231 |
+| MACD Histogram | 0.11 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1508415 |
+| KL khớp NN hôm nay | 1666100 |
 | Room NN còn lại | 390251283 |
-| Tỷ lệ sở hữu NN hiện tại | 0.024809731491292134 |
+| Tỷ lệ sở hữu NN hiện tại | 0.025165373012117503 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -142,7 +142,7 @@
 | Niêm yết thêm      | DIG - Niêm yết bổ sung 36.579.196 cổ phiếu                                        | 2025-06-24    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Phát hành cổ phiếu | DIG - Phát hành cổ phiếu trả cổ tức tỷ lệ 6%                                      | 2025-05-19    | 2025-05-30    | 2025-05-29     |   0.06  |       0 |
 | Niêm yết thêm      | DIG - Niêm yết bổ sung 109,961,033 cổ phiếu                                       | 2022-08-25    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DIG - Phát hành cổ phiếu thưởng tỷ lệ 5%                                          | 2022-07-01    | 2022-07-22    | 2022-07-21     |   0.05  |       0 |
+| Phát hành cổ phiếu | DIG - Phát hành cổ phiếu trả cổ tức tỷ lệ 17%                                     | 2022-07-01    | 2022-07-22    | 2022-07-21     |   0.17  |       0 |
 | Niêm yết thêm      | DIG - Niêm yết bổ sung 75.000.000 cổ phiếu                                        | 2021-11-04    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Niêm yết thêm      | DIG - Niêm yết bổ sung 15.000.000 cổ phiếu                                        | 2021-10-13    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Niêm yết thêm      | DIG - Niêm yết bổ sung 15.000.000 cổ phiếu                                        | 2021-10-13    | 1753-01-01    | 1753-01-01     |   0     |       0 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DIG      | 2026-03-11 00:00:00 |  12.65 |  13.45 | 12.65 |   13.35 | 13446400 |
 | DIG      | 2026-03-12 00:00:00 |  13.3  |  13.55 | 13    |   13.45 | 12249600 |
 | DIG      | 2026-03-13 00:00:00 |  13.35 |  13.9  | 13.25 |   13.55 | 13098000 |
 | DIG      | 2026-03-16 00:00:00 |  13.7  |  14    | 13.6  |   13.7  | 10052000 |

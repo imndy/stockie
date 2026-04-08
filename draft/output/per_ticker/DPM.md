@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | DPM |
 | exchange | HOSE |
-| ev | 18767745003600 |
-| ceiling | 30800 |
-| floor | 26800 |
-| ref_price | 28800 |
-| open | 28750 |
-| match_price | 27600 |
-| close_price | 27600 |
-| price_change | -1200 |
-| price_change_pct | -0.04166667 |
-| high | 29000 |
-| low | 27600 |
-| total_volume | 5414117 |
+| ev | 19005741769950 |
+| ceiling | 29500 |
+| floor | 25700 |
+| ref_price | 27600 |
+| open | 28050 |
+| match_price | 27950 |
+| close_price | 27950 |
+| price_change | 350 |
+| price_change_pct | 0.01268116 |
+| high | 28550 |
+| low | 27750 |
+| total_volume | 3640595 |
 | high_price_1y | 35800 |
 | low_price_1y | 15189 |
-| pct_low_change_1y | 0.7909739376 |
-| pct_high_change_1y | -0.1882352941 |
-| foreign_volume | 1716513 |
+| pct_low_change_1y | 0.8136855637 |
+| pct_high_change_1y | -0.1779411765 |
+| foreign_volume | 1238920 |
 | foreign_room | 339995380 |
-| avg_match_volume_2w | 6979356 |
-| foreign_holding_room | 41709302 |
-| current_holding_ratio | 0.061338042209076425 |
+| avg_match_volume_2w | 6911428 |
+| foreign_holding_room | 42042937 |
+| current_holding_ratio | 0.06182868858125559 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1716513 |
+| KL khớp NN hôm nay | 1238920 |
 | Room NN còn lại | 339995380 |
-| Tỷ lệ sở hữu NN hiện tại | 0.061338042209076425 |
+| Tỷ lệ sở hữu NN hiện tại | 0.06182868858125559 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0960193315 |
 | roic | 0.0643131723 |
 | roa | 0.0625274929 |
-| pe | 17.4869789365 |
-| pb | 1.6532170687 |
+| pe | 17.7087341041 |
+| pb | 1.6741817779 |
 | eps | 1578.3172210761845 |
 | current_ratio | 2.4068080908 |
 | cash_ratio | 0.193804774 |
@@ -94,12 +94,12 @@
 | fae | 0.21354226499569384 |
 | net_profit_margin | 0.06479211831216139 |
 | gross_margin | 0.17740214706399535 |
-| ev | 18767745003600 |
+| ev | 19005741769950 |
 | issue_share | 679990761 |
-| ps | 1.1330184082 |
-| pcf | -10.5375614425 |
+| ps | 1.1473863952 |
+| pcf | -10.671189939 |
 | bvps | 16694.7223825045 |
-| ev_per_ebitda | 15.5496004605 |
+| ev_per_ebitda | 15.719643989 |
 | at | 0.9650478253 |
 | fat | 6.4030450427 |
 | acp | 14.660609429282847 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DPM      | 2026-03-11 00:00:00 |  31.3  |  31.85 | 29.9  |   31.8  | 13819800 |
 | DPM      | 2026-03-12 00:00:00 |  32.35 |  34    | 32.35 |   34    | 22324700 |
 | DPM      | 2026-03-13 00:00:00 |  35    |  35.8  | 32.5  |   33.2  | 17041900 |
 | DPM      | 2026-03-16 00:00:00 |  33.2  |  33.3  | 30.9  |   30.9  | 11431200 |

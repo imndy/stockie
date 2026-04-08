@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PVD |
 | exchange | HOSE |
-| ev | 17996175794100 |
-| ceiling | 35950 |
-| floor | 31250 |
-| ref_price | 33600 |
-| open | 33200 |
-| match_price | 32350 |
-| close_price | 32350 |
-| price_change | -1250 |
-| price_change_pct | -0.03720238 |
-| high | 33500 |
-| low | 32200 |
-| total_volume | 6716177 |
+| ev | 17940546193500 |
+| ceiling | 34600 |
+| floor | 30100 |
+| ref_price | 32350 |
+| open | 32600 |
+| match_price | 32250 |
+| close_price | 32250 |
+| price_change | -100 |
+| price_change_pct | -0.00309119 |
+| high | 32800 |
+| low | 31700 |
+| total_volume | 3228950 |
 | high_price_1y | 45500 |
 | low_price_1y | 16233 |
-| pct_low_change_1y | 0.9868523806 |
-| pct_high_change_1y | -0.2811111111 |
-| foreign_volume | 757700 |
+| pct_low_change_1y | 0.9807106421 |
+| pct_high_change_1y | -0.2833333333 |
+| foreign_volume | 1152401 |
 | foreign_room | 272585042 |
-| avg_match_volume_2w | 4317259 |
-| foreign_holding_room | 63818013 |
-| current_holding_ratio | 0.1147195239794693 |
+| avg_match_volume_2w | 4132389 |
+| foreign_holding_room | 64426582 |
+| current_holding_ratio | 0.11581349012956961 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 757700 |
+| KL khớp NN hôm nay | 1152401 |
 | Room NN còn lại | 272585042 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1147195239794693 |
+| Tỷ lệ sở hữu NN hiện tại | 0.11581349012956961 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0636351881 |
 | roic | 0.0568582644 |
 | roa | 0.0400056191 |
-| pe | 17.32676836 |
-| pb | 1.0685892135 |
+| pe | 17.273208025 |
+| pb | 1.0652860011 |
 | eps | 1867.0532974130324 |
 | current_ratio | 1.4589310367 |
 | cash_ratio | 0.2751471631 |
@@ -94,12 +94,12 @@
 | fae | 0.8543456929762262 |
 | net_profit_margin | 0.09531387670755265 |
 | gross_margin | 0.19068391319304925 |
-| ev | 17996175794100 |
+| ev | 17940546193500 |
 | issue_share | 556296006 |
-| ps | 1.6514814632 |
-| pcf | 12.5668108256 |
+| ps | 1.64637642 |
+| pcf | 12.5279644243 |
 | bvps | 30273.5603095755 |
-| ev_per_ebitda | 9.884422033 |
+| ev_per_ebitda | 9.8577089458 |
 | at | 0.4197250227 |
 | fat | 0.7934091865 |
 | acp | 117.85874866956213 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PVD      | 2026-03-11 00:00:00 |  39.3  |  41.2  | 38    |   41.2  |  5064600 |
 | PVD      | 2026-03-12 00:00:00 |  41.95 |  41.95 | 40.5  |   41.25 |  3541900 |
 | PVD      | 2026-03-13 00:00:00 |  41    |  42.3  | 38.4  |   40    | 11034200 |
 | PVD      | 2026-03-16 00:00:00 |  40.1  |  40.1  | 37.2  |   37.2  |  9615900 |

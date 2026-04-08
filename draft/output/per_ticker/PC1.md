@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PC1 |
 | exchange | HOSE |
-| ev | 10590597582250 |
-| ceiling | 28550 |
-| floor | 24850 |
-| ref_price | 26700 |
-| open | 26050 |
-| match_price | 25750 |
-| close_price | 25750 |
-| price_change | -950 |
-| price_change_pct | -0.03558052 |
-| high | 26700 |
-| low | 25700 |
-| total_volume | 6361461 |
+| ev | 10611161849400 |
+| ceiling | 27550 |
+| floor | 23950 |
+| ref_price | 25750 |
+| open | 25700 |
+| match_price | 25800 |
+| close_price | 25800 |
+| price_change | 50 |
+| price_change_pct | 0.00194175 |
+| high | 26350 |
+| low | 25400 |
+| total_volume | 4516464 |
 | high_price_1y | 32200 |
 | low_price_1y | 16001 |
-| pct_low_change_1y | 0.6049493522 |
-| pct_high_change_1y | -0.1786283892 |
-| foreign_volume | 594800 |
+| pct_low_change_1y | 0.6080657587 |
+| pct_high_change_1y | -0.1770334928 |
+| foreign_volume | 783800 |
 | foreign_room | 205642671 |
-| avg_match_volume_2w | 9296910 |
-| foreign_holding_room | 67671085 |
-| current_holding_ratio | 0.16453561049949694 |
+| avg_match_volume_2w | 9216654 |
+| foreign_holding_room | 67348885 |
+| current_holding_ratio | 0.16375221277943766 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 594800 |
+| KL khớp NN hôm nay | 783800 |
 | Room NN còn lại | 205642671 |
-| Tỷ lệ sở hữu NN hiện tại | 0.16453561049949694 |
+| Tỷ lệ sở hữu NN hiện tại | 0.16375221277943766 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1730394568 |
 | roic | 0.0999631233 |
 | roa | 0.0457240103 |
-| pe | 10.1698102756 |
-| pb | 1.6268139945 |
+| pe | 10.18955748 |
+| pb | 1.6299728566 |
 | eps | 2532.003970795526 |
 | current_ratio | 1.4509165887 |
 | cash_ratio | 0.4894250862 |
@@ -94,12 +94,12 @@
 | fae | 1.0689186768715118 |
 | net_profit_margin | 0.0795867361992016 |
 | gross_margin | 0.20778102299963783 |
-| ev | 10590597582250 |
+| ev | 10611161849400 |
 | issue_share | 411285343 |
-| ps | 0.8093820076 |
-| pcf | 4.6598815243 |
+| ps | 0.8109536231 |
+| pcf | 4.6689298379 |
 | bvps | 15828.4844406624 |
-| ev_per_ebitda | 6.2888074441 |
+| ev_per_ebitda | 6.2958037038 |
 | at | 0.5745179722 |
 | fat | 1.3327371684 |
 | acp | 70.34497378508635 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PC1      | 2026-03-11 00:00:00 |  25.75 |  27.2  | 25.75 |   26.7  |  7383700 |
 | PC1      | 2026-03-12 00:00:00 |  26.7  |  27.85 | 26.25 |   27.3  |  7914700 |
 | PC1      | 2026-03-13 00:00:00 |  27.15 |  28.5  | 26.4  |   26.8  | 10219300 |
 | PC1      | 2026-03-16 00:00:00 |  27    |  27    | 25.55 |   26.25 |  6840900 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VCG |
 | exchange | HOSE |
-| ev | 13543511639200 |
-| ceiling | 22850 |
-| floor | 19950 |
-| ref_price | 21400 |
-| open | 21400 |
-| match_price | 20950 |
-| close_price | 20950 |
-| price_change | -450 |
-| price_change_pct | -0.02102804 |
-| high | 21750 |
-| low | 20950 |
-| total_volume | 6719992 |
+| ev | 13802098973600 |
+| ceiling | 22400 |
+| floor | 19500 |
+| ref_price | 20950 |
+| open | 21250 |
+| match_price | 21350 |
+| close_price | 21350 |
+| price_change | 400 |
+| price_change_pct | 0.01909308 |
+| high | 22000 |
+| low | 21050 |
+| total_volume | 5108688 |
 | high_price_1y | 29100 |
 | low_price_1y | 16129 |
-| pct_low_change_1y | 0.288179073 |
-| pct_high_change_1y | -0.2674825175 |
-| foreign_volume | 505800 |
+| pct_low_change_1y | 0.3127743775 |
+| pct_high_change_1y | -0.2534965035 |
+| foreign_volume | 744900 |
 | foreign_room | 316769484 |
-| avg_match_volume_2w | 10818395 |
-| foreign_holding_room | 18884460 |
-| current_holding_ratio | 0.02921173234384058 |
+| avg_match_volume_2w | 9987371 |
+| foreign_holding_room | 17988183 |
+| current_holding_ratio | 0.027825311772114388 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 505800 |
+| KL khớp NN hôm nay | 744900 |
 | Room NN còn lại | 316769484 |
-| Tỷ lệ sở hữu NN hiện tại | 0.02921173234384058 |
+| Tỷ lệ sở hữu NN hiện tại | 0.027825311772114388 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.3759901721 |
 | roic | 0.080162432 |
 | roa | 0.1207492801 |
-| pe | 3.6950568746 |
-| pb | 1.2038735071 |
+| pe | 3.7656068865 |
+| pb | 1.2268591587 |
 | eps | 5669.736816215853 |
 | current_ratio | 1.4641915036 |
 | cash_ratio | 0.1444448987 |
@@ -94,12 +94,12 @@
 | fae | 0.3118113115170527 |
 | net_profit_margin | 0.22806707022486736 |
 | gross_margin | 0.1412848823114394 |
-| ev | 13543511639200 |
+| ev | 13802098973600 |
 | issue_share | 646468336 |
-| ps | 0.8427207957 |
-| pcf | 4.7711228808 |
+| ps | 0.8588109302 |
+| pcf | 4.8622183058 |
 | bvps | 17402.1605070414 |
-| ev_per_ebitda | 9.6667785733 |
+| ev_per_ebitda | 9.8009369566 |
 | at | 0.5294463595 |
 | fat | 4.3606195516 |
 | acp | 66.77558329363553 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCG      | 2026-03-11 00:00:00 |  20.8  |  21.3  | 20.6  |   21.3  |  6669000 |
 | VCG      | 2026-03-12 00:00:00 |  22.75 |  22.75 | 22    |   22.75 | 42813300 |
 | VCG      | 2026-03-13 00:00:00 |  22.6  |  24    | 22.2  |   23.5  | 22372900 |
 | VCG      | 2026-03-16 00:00:00 |  24    |  24.5  | 22.95 |   23.6  | 18812700 |

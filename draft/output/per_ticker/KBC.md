@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | KBC |
 | exchange | HOSE |
-| ev | 29947801336200 |
-| ceiling | 34200 |
-| floor | 29800 |
-| ref_price | 32000 |
-| open | 31750 |
-| match_price | 31800 |
-| close_price | 31800 |
-| price_change | -200 |
-| price_change_pct | -0.00625 |
-| high | 32100 |
-| low | 31400 |
-| total_volume | 1874978 |
+| ev | 29900713598250 |
+| ceiling | 34000 |
+| floor | 29600 |
+| ref_price | 31800 |
+| open | 31800 |
+| match_price | 31750 |
+| close_price | 31750 |
+| price_change | -50 |
+| price_change_pct | -0.00157233 |
+| high | 31850 |
+| low | 31300 |
+| total_volume | 11979969 |
 | high_price_1y | 43100 |
 | low_price_1y | 20050 |
-| pct_low_change_1y | 0.5436893204 |
-| pct_high_change_1y | -0.227217497 |
-| foreign_volume | 1332300 |
+| pct_low_change_1y | 0.5412621359 |
+| pct_high_change_1y | -0.2284325638 |
+| foreign_volume | 353000 |
 | foreign_room | 461459831 |
-| avg_match_volume_2w | 3749488 |
-| foreign_holding_room | 88006202 |
-| current_holding_ratio | 0.09344917151621211 |
+| avg_match_volume_2w | 3245693 |
+| foreign_holding_room | 87207539 |
+| current_holding_ratio | 0.09260111315243165 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 31.55 |
-| EMA20 | 31.38 |
-| EMA50 | 32.46 |
-| RSI(14) | 49.5 |
+| Giá đóng cửa | 32.6 |
+| EMA20 | 31.51 |
+| EMA50 | 32.48 |
+| RSI(14) | 55.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.301 |
-| MACD Signal | -0.686 |
-| MACD Histogram | 0.385 |
+| Giá vs EMA50 | Trên |
+| MACD | -0.162 |
+| MACD Signal | -0.579 |
+| MACD Histogram | 0.417 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1332300 |
+| KL khớp NN hôm nay | 353000 |
 | Room NN còn lại | 461459831 |
-| Tỷ lệ sở hữu NN hiện tại | 0.09344917151621211 |
+| Tỷ lệ sở hữu NN hiện tại | 0.09260111315243165 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0970328975 |
 | roic | 0.0440112872 |
 | roa | 0.0368052698 |
-| pe | 14.2362804377 |
-| pb | 1.2075178094 |
+| pe | 14.213896349 |
+| pb | 1.2056191965 |
 | eps | 2233.729529221312 |
 | current_ratio | 4.6072642969 |
 | cash_ratio | 0.8563170986 |
@@ -94,12 +94,12 @@
 | fae | 0.019259538138594483 |
 | net_profit_margin | 0.3145784211362822 |
 | gross_margin | 0.4769805933685166 |
-| ev | 29947801336200 |
+| ev | 29900713598250 |
 | issue_share | 941754759 |
-| ps | 4.4784266229 |
-| pcf | -1.7267055302 |
+| ps | 4.4713850717 |
+| pcf | -1.7239905843 |
 | bvps | 26335.0153118504 |
-| ev_per_ebitda | 19.1787345281 |
+| ev_per_ebitda | 19.1607510923 |
 | at | 0.1169987111 |
 | fat | 14.4891208666 |
 | acp | 52.82911282398902 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                    |   public_date | news_source_link                                                                                                   |
 |:------------------------------------------------------------------------------|--------------:|:-------------------------------------------------------------------------------------------------------------------|
+| KBC: Thông báo đường dẫn đăng tải Báo cáo thường niên năm 2025                | 1775579014000 | https://www.hsx.vn/vi/tin-tuc/kbc-thong-bao-duong-dan-dang-tai-bao-cao-thuong-nien-nam-2025/2451156                |
 | KBC: Nghị quyết HĐQT về việc thông qua chủ trương tăng tỷ lệ sở hữu tại SDN   | 1774979233000 | https://www.hsx.vn/vi/tin-tuc/kbc-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-tang-ty-le-so-huu-tai-sdn/2448878   |
 | KBC: Nghị quyết HĐQT về việc thông qua kế hoạch hoạt động kinh doanh năm 2026 | 1774862064000 | https://www.hsx.vn/vi/tin-tuc/kbc-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-hoat-dong-kinh-doanh-nam-2026/2447751 |
 | KBC: Nghị quyết HĐQT số 2403/2026 ngày 24/03/2026                             | 1774370480000 | https://www.hsx.vn/vi/tin-tuc/kbc-nghi-quyet-hdqt-so-24032026-ngay-24032026/2446375                                |
@@ -131,7 +132,6 @@
 | KBC: Nghị quyết HĐQT thông qua việc tổ chức họp ĐHĐCĐ thường niên năm 2026    | 1771953120000 | https://www.hsx.vn/vi/tin-tuc/kbc-nghi-quyet-hdqt-thong-qua-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2439893    |
 | KBC: Giải trình chênh lệch BCTC quý 4/2025 so với cùng kỳ năm trước           | 1769799141000 | https://www.hsx.vn/vi/tin-tuc/kbc-giai-trinh-chenh-lech-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2435667            |
 | KBC: Báo cáo tình hình quản trị công ty năm 2025                              | 1769707823000 | https://www.hsx.vn/vi/tin-tuc/kbc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434913                              |
-| Kinh Bắc (KBC) phát triển điện gió tại Gia Lai                                | 1767951720000 | https://www.tinnhanhchungkhoan.vn/kinh-bac-kbc-phat-trien-dien-gio-tai-gia-lai-post383448.html                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -152,7 +152,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KBC      | 2026-03-11 00:00:00 |  30.2  |  31.9  | 29.8  |   31.8  |  2804500 |
 | KBC      | 2026-03-12 00:00:00 |  31.8  |  32.25 | 31.4  |   32    |  2318000 |
 | KBC      | 2026-03-13 00:00:00 |  31.5  |  32.4  | 31.4  |   31.95 |  2303700 |
 | KBC      | 2026-03-16 00:00:00 |  32    |  32    | 31    |   31.15 |  2755000 |

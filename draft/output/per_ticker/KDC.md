@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | KDC |
 | exchange | HOSE |
-| ev | 14026625694400 |
-| ceiling | 52300 |
-| floor | 45550 |
-| ref_price | 48950 |
-| open | 48950 |
-| match_price | 48400 |
-| close_price | 48400 |
-| price_change | -550 |
-| price_change_pct | -0.01123596 |
-| high | 49050 |
-| low | 46000 |
-| total_volume | 251628 |
+| ev | 13852741904800 |
+| ceiling | 51700 |
+| floor | 45050 |
+| ref_price | 48400 |
+| open | 48900 |
+| match_price | 47800 |
+| close_price | 47800 |
+| price_change | -600 |
+| price_change_pct | -0.01239669 |
+| high | 48900 |
+| low | 47600 |
+| total_volume | 183851 |
 | high_price_1y | 57619 |
 | low_price_1y | 46000 |
-| pct_low_change_1y | 0.0072840791 |
-| pct_high_change_1y | -0.1600051372 |
-| foreign_volume | 23700 |
+| pct_low_change_1y | -0.0052029136 |
+| pct_high_change_1y | -0.1704182966 |
+| foreign_volume | 24106 |
 | foreign_room | 144903158 |
-| avg_match_volume_2w | 164946 |
-| foreign_holding_room | 46469511 |
-| current_holding_ratio | 0.16034678485061035 |
+| avg_match_volume_2w | 163355 |
+| foreign_holding_room | 46438452 |
+| current_holding_ratio | 0.16023961327330077 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.9 |
-| EMA20 | 49.4 |
-| EMA50 | 50.15 |
-| RSI(14) | 33.0 |
+| Giá đóng cửa | 48.2 |
+| EMA20 | 49.28 |
+| EMA50 | 50.07 |
+| RSI(14) | 37.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.65 |
-| MACD Signal | -0.54 |
-| MACD Histogram | -0.11 |
+| MACD | -0.671 |
+| MACD Signal | -0.568 |
+| MACD Histogram | -0.103 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 23700 |
+| KL khớp NN hôm nay | 24106 |
 | Room NN còn lại | 144903158 |
-| Tỷ lệ sở hữu NN hiện tại | 0.16034678485061035 |
+| Tỷ lệ sở hữu NN hiện tại | 0.16023961327330077 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0760878228 |
 | roic | -0.004381219 |
 | roa | 0.0381529991 |
-| pe | 26.8481310732 |
-| pb | 1.9725883524 |
+| pe | 26.515303002 |
+| pb | 1.9481347778 |
 | eps | 1802.7325577369404 |
 | current_ratio | 1.317476214 |
 | cash_ratio | 0.3043618443 |
@@ -94,12 +94,12 @@
 | fae | 0.32593514063810863 |
 | net_profit_margin | 0.057699696097020046 |
 | gross_margin | 0.18495729720855053 |
-| ev | 14026625694400 |
+| ev | 13852741904800 |
 | issue_share | 289806316 |
-| ps | 1.5491290037 |
-| pcf | 162.7651401464 |
+| ps | 1.5299249251 |
+| pcf | 160.7473904752 |
 | bvps | 24536.2900677775 |
-| ev_per_ebitda | 49.7529492489 |
+| ev_per_ebitda | 49.2165683254 |
 | at | 0.6612339701 |
 | fat | 3.5405162198 |
 | acp | 15.648906114866076 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDC      | 2026-03-11 00:00:00 |  50    |  51.4  | 50    |   51.3  |   197200 |
 | KDC      | 2026-03-12 00:00:00 |  51.3  |  51.3  | 50.3  |   51.3  |   177500 |
 | KDC      | 2026-03-13 00:00:00 |  51.1  |  51.2  | 50.5  |   51.2  |   156400 |
 | KDC      | 2026-03-16 00:00:00 |  51.2  |  51.2  | 50.4  |   50.8  |   259200 |
@@ -176,7 +175,8 @@
 | KDC      | 2026-04-02 00:00:00 |  49    |  49.2  | 48.8  |   48.8  |   110900 |
 | KDC      | 2026-04-03 00:00:00 |  48.9  |  49.4  | 48.7  |   48.95 |   145000 |
 | KDC      | 2026-04-06 00:00:00 |  48.95 |  49.05 | 46    |   48.4  |   251500 |
-| KDC      | 2026-04-07 00:00:00 |  48.9  |  48.9  | 47.6  |   47.9  |    15600 |
+| KDC      | 2026-04-07 00:00:00 |  48.9  |  48.9  | 47.6  |   47.8  |    93800 |
+| KDC      | 2026-04-08 00:00:00 |  48.9  |  48.9  | 47.8  |   48.2  |   114700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 

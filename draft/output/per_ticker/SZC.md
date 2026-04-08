@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | SZC |
 | exchange | HOSE |
-| ev | 4931612646200 |
-| ceiling | 30100 |
-| floor | 26200 |
-| ref_price | 28150 |
-| open | 28200 |
-| match_price | 27400 |
-| close_price | 27400 |
-| price_change | -750 |
-| price_change_pct | -0.02664298 |
-| high | 28250 |
+| ev | 4976609111950 |
+| ceiling | 29300 |
+| floor | 25500 |
+| ref_price | 27400 |
+| open | 27400 |
+| match_price | 27650 |
+| close_price | 27650 |
+| price_change | 250 |
+| price_change_pct | 0.00912409 |
+| high | 27900 |
 | low | 27400 |
-| total_volume | 601481 |
+| total_volume | 242114 |
 | high_price_1y | 39313 |
 | low_price_1y | 26922 |
-| pct_low_change_1y | 0.0129390018 |
-| pct_high_change_1y | -0.2907622429 |
-| foreign_volume | 5800 |
+| pct_low_change_1y | 0.022181146 |
+| pct_high_change_1y | -0.2842910955 |
+| foreign_volume | 9800 |
 | foreign_room | 35997172 |
-| avg_match_volume_2w | 626643 |
-| foreign_holding_room | 8003256 |
-| current_holding_ratio | 0.044466025645580845 |
+| avg_match_volume_2w | 612853 |
+| foreign_holding_room | 7986056 |
+| current_holding_ratio | 0.04437046258460866 |
 | max_holding_ratio | 0.2 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 5800 |
+| KL khớp NN hôm nay | 9800 |
 | Room NN còn lại | 35997172 |
-| Tỷ lệ sở hữu NN hiện tại | 0.044466025645580845 |
+| Tỷ lệ sở hữu NN hiện tại | 0.04437046258460866 |
 | Tỷ lệ sở hữu NN tối đa | 0.2 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1093140421 |
 | roic | 0.0833882909 |
 | roa | 0.0420558402 |
-| pe | 14.3027995168 |
-| pb | 1.539739086 |
+| pe | 14.4332995124 |
+| pb | 1.5537878003 |
 | eps | 1915.708876985522 |
 | current_ratio | 1.728809802 |
 | cash_ratio | 0.2849180996 |
@@ -94,12 +94,12 @@
 | fae | 0.22355974011024152 |
 | net_profit_margin | 0.31404138388119207 |
 | gross_margin | 0.5104960683671823 |
-| ev | 4931612646200 |
+| ev | 4976609111950 |
 | issue_share | 179985863 |
-| ps | 4.4916709536 |
-| pcf | 20.8996460125 |
+| ps | 4.5326533528 |
+| pcf | 21.0903362134 |
 | bvps | 17795.2227422161 |
-| ev_per_ebitda | 8.6364984703 |
+| ev_per_ebitda | 8.6920867949 |
 | at | 0.1339181468 |
 | fat | 1.4920964679 |
 | acp | 22.93258458768517 |
@@ -154,7 +154,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SZC      | 2026-03-11 00:00:00 |  28.95 |  30.2  | 28.7  |   30.2  |   770000 |
 | SZC      | 2026-03-12 00:00:00 |  30.1  |  30.5  | 29.3  |   29.8  |   713600 |
 | SZC      | 2026-03-13 00:00:00 |  29.4  |  30.2  | 29.4  |   29.5  |   571400 |
 | SZC      | 2026-03-16 00:00:00 |  29.5  |  30.3  | 29.5  |   29.95 |   281700 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | TLG |
 | exchange | HOSE |
-| ev | 4671971656000 |
-| ceiling | 51800 |
-| floor | 45100 |
-| ref_price | 48450 |
-| open | 48400 |
-| match_price | 48400 |
-| close_price | 48400 |
-| price_change | -50 |
-| price_change_pct | -0.00103199 |
-| high | 48400 |
-| low | 48100 |
-| total_volume | 77513 |
+| ev | 4662318822000 |
+| ceiling | 51700 |
+| floor | 45050 |
+| ref_price | 48400 |
+| open | 48300 |
+| match_price | 48300 |
+| close_price | 48300 |
+| price_change | -100 |
+| price_change_pct | -0.00206612 |
+| high | 48500 |
+| low | 48000 |
+| total_volume | 46579 |
 | high_price_1y | 59482 |
 | low_price_1y | 35388 |
-| pct_low_change_1y | 0.3645298551 |
-| pct_high_change_1y | -0.1768751499 |
-| foreign_volume | 14700 |
+| pct_low_change_1y | 0.3617105785 |
+| pct_high_change_1y | -0.1785758211 |
+| foreign_volume | 15100 |
 | foreign_room | 96528340 |
-| avg_match_volume_2w | 108884 |
-| foreign_holding_room | 11384433 |
-| current_holding_ratio | 0.11793876285451506 |
+| avg_match_volume_2w | 101372 |
+| foreign_holding_room | 11341629 |
+| current_holding_ratio | 0.11749532831497983 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 14700 |
+| KL khớp NN hôm nay | 15100 |
 | Room NN còn lại | 96528340 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11793876285451506 |
+| Tỷ lệ sở hữu NN hiện tại | 0.11749532831497983 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1832699329 |
 | roic | 0.1682815941 |
 | roa | 0.128884281 |
-| pe | 10.4641308894 |
-| pb | 1.8508100872 |
+| pe | 10.4425107843 |
+| pb | 1.8469860994 |
 | eps | 4625.324406925469 |
 | current_ratio | 2.7160821273 |
 | cash_ratio | 0.4813098723 |
@@ -94,12 +94,12 @@
 | fae | 0.2073338183189691 |
 | net_profit_margin | 0.10696750356030127 |
 | gross_margin | 0.4955947822387051 |
-| ev | 4671971656000 |
+| ev | 4662318822000 |
 | issue_share | 96528340 |
-| ps | 1.1193219582 |
-| pcf | 21.2556994463 |
+| ps | 1.1170093095 |
+| pcf | 21.2117827119 |
 | bvps | 26150.7111583189 |
-| ev_per_ebitda | 7.8156090607 |
+| ev_per_ebitda | 7.7993161129 |
 | at | 1.2048919225 |
 | fat | 7.9402852067 |
 | acp | 60.514068411434096 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.0024559351 |
 | charter_capital_ratio | 2.613417783575269 |
 | rtq10 | 0.4146591979 |
-| dividend | 0.0723140496 |
+| dividend | 0.0724637681 |
 | ebitda | 592454731934 |
 | ebit | 499483363373 |
 | le | 0.1790339538 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TLG      | 2026-03-11 00:00:00 |  50.31 |  50.88 | 50.22 |   50.6  |   210359 |
 | TLG      | 2026-03-12 00:00:00 |  50.8  |  50.9  | 49.75 |   49.8  |   287887 |
 | TLG      | 2026-03-13 00:00:00 |  49.5  |  50.5  | 49.45 |   50.2  |   222239 |
 | TLG      | 2026-03-16 00:00:00 |  49.8  |  50.3  | 49.7  |   50    |   116512 |

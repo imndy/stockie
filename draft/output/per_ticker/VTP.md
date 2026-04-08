@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VTP |
 | exchange | HOSE |
-| ev | 11471962556400 |
-| ceiling | 100100 |
-| floor | 87100 |
-| ref_price | 93600 |
-| open | 93600 |
-| match_price | 94200 |
-| close_price | 94200 |
-| price_change | 600 |
-| price_change_pct | 0.00641026 |
-| high | 95800 |
-| low | 93200 |
-| total_volume | 601127 |
+| ev | 8792735632400 |
+| ceiling | 74100 |
+| floor | 64500 |
+| ref_price | 69300 |
+| open | 69000 |
+| match_price | 72200 |
+| close_price | 72200 |
+| price_change | 2907 |
+| price_change_pct | 0.04195229 |
+| high | 74100 |
+| low | 69000 |
+| total_volume | 931691 |
 | high_price_1y | 96731 |
 | low_price_1y | 60761 |
-| pct_low_change_1y | 0.1404358354 |
-| pct_high_change_1y | -0.269200931 |
-| foreign_volume | 32900 |
+| pct_low_change_1y | 0.1882708125 |
+| pct_high_change_1y | -0.238547951 |
+| foreign_volume | 14600 |
 | foreign_room | 59673690 |
-| avg_match_volume_2w | 634182 |
-| foreign_holding_room | 5898937 |
-| current_holding_ratio | 0.04843808220852292 |
+| avg_match_volume_2w | 701579 |
+| foreign_holding_room | 5784317 |
+| current_holding_ratio | 0.04749690026629488 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 32900 |
+| KL khớp NN hôm nay | 14600 |
 | Room NN còn lại | 59673690 |
-| Tỷ lệ sở hữu NN hiện tại | 0.04843808220852292 |
+| Tỷ lệ sở hữu NN hiện tại | 0.04749690026629488 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2412478668 |
 | roic | 0.138119169 |
 | roa | 0.0583327361 |
-| pe | 28.3332288304 |
-| pb | 6.4878969709 |
+| pe | 21.7161265558 |
+| pb | 4.9726768716 |
 | eps | 3324.7181450435437 |
 | current_ratio | 1.0898895901 |
 | cash_ratio | 0.0671233855 |
@@ -94,12 +94,12 @@
 | fae | 0.6008680475824041 |
 | net_profit_margin | 0.019679831200932783 |
 | gross_margin | 0.055242113949272406 |
-| ev | 11471962556400 |
+| ev | 8792735632400 |
 | issue_share | 121783042 |
-| ps | 0.5575931608 |
-| pcf | 15.0605074344 |
+| ps | 0.427369705 |
+| pcf | 11.5431914731 |
 | bvps | 14519.3427734791 |
-| ev_per_ebitda | 18.8249927526 |
+| ev_per_ebitda | 14.9371829863 |
 | at | 2.9640872168 |
 | fat | 22.7667846433 |
 | acp | 33.5856207725608 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VTP      | 2026-03-11 00:00:00 |  67.16 |  69.88 | 66.79 |   69.37 |   499478 |
 | VTP      | 2026-03-12 00:00:00 |  69.37 |  69.37 | 67.31 |   67.38 |   399466 |
 | VTP      | 2026-03-13 00:00:00 |  66.94 |  66.94 | 65.47 |   65.54 |   722277 |
 | VTP      | 2026-03-16 00:00:00 |  65.54 |  66.2  | 65.03 |   65.47 |   390545 |

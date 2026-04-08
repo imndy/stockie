@@ -12,26 +12,26 @@
 | symbol | HDC |
 | exchange | HOSE |
 | ev | 3575606820900 |
-| ceiling | 19750 |
-| floor | 17250 |
-| ref_price | 18500 |
-| open | 18400 |
+| ceiling | 19150 |
+| floor | 16650 |
+| ref_price | 17900 |
+| open | 17950 |
 | match_price | 17900 |
 | close_price | 17900 |
-| price_change | -600 |
-| price_change_pct | -0.03243243 |
-| high | 18600 |
-| low | 17900 |
-| total_volume | 2648185 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 18250 |
+| low | 17550 |
+| total_volume | 1349015 |
 | high_price_1y | 37770 |
 | low_price_1y | 16300 |
 | pct_low_change_1y | 0.0981595092 |
 | pct_high_change_1y | -0.5226895776 |
-| foreign_volume | 34600 |
+| foreign_volume | 79600 |
 | foreign_room | 97879739 |
-| avg_match_volume_2w | 3286642 |
-| foreign_holding_room | 3558109 |
-| current_holding_ratio | 0.017812403401772467 |
+| avg_match_volume_2w | 3098577 |
+| foreign_holding_room | 3604709 |
+| current_holding_ratio | 0.018045689677859737 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 19.66 |
 | RSI(14) | 43.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.334 |
 | MACD Signal | -0.483 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 34600 |
+| KL khớp NN hôm nay | 79600 |
 | Room NN còn lại | 97879739 |
-| Tỷ lệ sở hữu NN hiện tại | 0.017812403401772467 |
+| Tỷ lệ sở hữu NN hiện tại | 0.018045689677859737 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDC      | 2026-03-11 00:00:00 |  17.1  |  18.1  | 16.75 |   17.7  |  3428500 |
 | HDC      | 2026-03-12 00:00:00 |  17.65 |  18.2  | 17.4  |   17.8  |  2614200 |
 | HDC      | 2026-03-13 00:00:00 |  18    |  18.45 | 17.85 |   18    |  3839800 |
 | HDC      | 2026-03-16 00:00:00 |  18.45 |  18.55 | 18.05 |   18.35 |  2760500 |

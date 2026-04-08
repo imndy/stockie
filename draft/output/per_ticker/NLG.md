@@ -12,26 +12,26 @@
 | symbol | NLG |
 | exchange | HOSE |
 | ev | 13437197509100 |
-| ceiling | 30050 |
-| floor | 26150 |
-| ref_price | 28100 |
-| open | 28100 |
+| ceiling | 29600 |
+| floor | 25800 |
+| ref_price | 27700 |
+| open | 27700 |
 | match_price | 27700 |
 | close_price | 27700 |
-| price_change | -400 |
-| price_change_pct | -0.01423488 |
-| high | 28650 |
-| low | 27600 |
-| total_volume | 3215069 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 28250 |
+| low | 27150 |
+| total_volume | 2054785 |
 | high_price_1y | 45632 |
 | low_price_1y | 23286 |
 | pct_low_change_1y | 0.180406443 |
 | pct_high_change_1y | -0.3568026824 |
-| foreign_volume | 1519400 |
+| foreign_volume | 307100 |
 | foreign_room | 242548691 |
-| avg_match_volume_2w | 4543580 |
-| foreign_holding_room | 201133095 |
-| current_holding_ratio | 0.41462416011425896 |
+| avg_match_volume_2w | 4266636 |
+| foreign_holding_room | 198493084 |
+| current_holding_ratio | 0.4091819312082333 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1519400 |
+| KL khớp NN hôm nay | 307100 |
 | Room NN còn lại | 242548691 |
-| Tỷ lệ sở hữu NN hiện tại | 0.41462416011425896 |
+| Tỷ lệ sở hữu NN hiện tại | 0.4091819312082333 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NLG      | 2026-03-11 00:00:00 |  26    |  27.05 | 25.9  |   26.85 |  6067800 |
 | NLG      | 2026-03-12 00:00:00 |  26.35 |  27.15 | 26.05 |   26.9  |  3474300 |
 | NLG      | 2026-03-13 00:00:00 |  26.8  |  27.5  | 26.4  |   26.4  |  4883400 |
 | NLG      | 2026-03-16 00:00:00 |  26.8  |  28.2  | 26.55 |   28    |  6066500 |

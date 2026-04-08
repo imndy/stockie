@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | CTG |
 | exchange | HOSE |
-| ev | 261746033020000 |
-| ceiling | 36150 |
-| floor | 31450 |
-| ref_price | 33800 |
+| ev | 261746034266900 |
+| ceiling | 36050 |
+| floor | 31350 |
+| ref_price | 33700 |
 | open | 33750 |
 | match_price | 33700 |
 | close_price | 33700 |
-| price_change | -100 |
-| price_change_pct | -0.00295858 |
-| high | 34050 |
-| low | 33550 |
-| total_volume | 6114712 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 33850 |
+| low | 33500 |
+| total_volume | 5114491 |
 | high_price_1y | 43500 |
 | low_price_1y | 23182 |
 | pct_low_change_1y | 0.4536911726 |
 | pct_high_change_1y | -0.1879518072 |
-| foreign_volume | 2160800 |
+| foreign_volume | 1846400 |
 | foreign_room | 2330083391 |
-| avg_match_volume_2w | 7321743 |
-| foreign_holding_room | 1967763315 |
-| current_holding_ratio | 0.25335101600003845 |
+| avg_match_volume_2w | 7176250 |
+| foreign_holding_room | 1964800929 |
+| current_holding_ratio | 0.252969606560619 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 33.6 |
-| EMA20 | 34.45 |
-| EMA50 | 35.48 |
-| RSI(14) | 41.5 |
+| Giá đóng cửa | 34.65 |
+| EMA20 | 34.47 |
+| EMA50 | 35.45 |
+| RSI(14) | 49.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.627 |
-| MACD Signal | -0.723 |
-| MACD Histogram | 0.097 |
+| MACD | -0.53 |
+| MACD Signal | -0.683 |
+| MACD Histogram | 0.153 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2160800 |
+| KL khớp NN hôm nay | 1846400 |
 | Room NN còn lại | 2330083391 |
-| Tỷ lệ sở hữu NN hiện tại | 0.25335101600003845 |
+| Tỷ lệ sở hữu NN hiện tại | 0.252969606560619 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTG      | 2026-03-11 00:00:00 |  35    |  35.6  | 34.7  |   35.1  | 12877000 |
 | CTG      | 2026-03-12 00:00:00 |  34.8  |  34.9  | 34.25 |   34.3  | 12913700 |
 | CTG      | 2026-03-13 00:00:00 |  34.3  |  34.5  | 33.95 |   34    |  8278900 |
 | CTG      | 2026-03-16 00:00:00 |  34.05 |  34.5  | 34    |   34.15 |  5159300 |

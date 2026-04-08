@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VJC |
 | exchange | HOSE |
-| ev | 96610130842200 |
-| ceiling | 172300 |
-| floor | 149900 |
-| ref_price | 161100 |
-| open | 159000 |
-| match_price | 163300 |
-| close_price | 163300 |
-| price_change | 2200 |
-| price_change_pct | 0.01365611 |
+| ev | 96728453109000 |
+| ceiling | 174700 |
+| floor | 151900 |
+| ref_price | 163300 |
+| open | 163300 |
+| match_price | 163500 |
+| close_price | 163500 |
+| price_change | 200 |
+| price_change_pct | 0.00122474 |
 | high | 163500 |
-| low | 159000 |
-| total_volume | 1265899 |
+| low | 159500 |
+| total_volume | 994085 |
 | high_price_1y | 220000 |
 | low_price_1y | 77100 |
-| pct_low_change_1y | 1.0644753477 |
-| pct_high_change_1y | -0.2546782291 |
-| foreign_volume | 200740 |
+| pct_low_change_1y | 1.0670037927 |
+| pct_high_change_1y | -0.2537654039 |
+| foreign_volume | 71121 |
 | foreign_room | 177483400 |
-| avg_match_volume_2w | 1244003 |
-| foreign_holding_room | 38485784 |
-| current_holding_ratio | 0.06505247920081261 |
+| avg_match_volume_2w | 1177769 |
+| foreign_holding_room | 38158057 |
+| current_holding_ratio | 0.06449852260605947 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 200740 |
+| KL khớp NN hôm nay | 71121 |
 | Room NN còn lại | 177483400 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06505247920081261 |
+| Tỷ lệ sở hữu NN hiện tại | 0.06449852260605947 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1014080408 |
 | roic | 0.0419025876 |
 | roa | 0.0177836469 |
-| pe | 45.5164121059 |
-| pb | 3.9011317655 |
+| pe | 45.5721578648 |
+| pb | 3.9059096366 |
 | eps | 3587.716879350726 |
 | current_ratio | 1.066825941 |
 | cash_ratio | 0.2569820212 |
@@ -94,12 +94,12 @@
 | fae | 1.4082882196137296 |
 | net_profit_margin | 0.025855252825307352 |
 | gross_margin | 0.10316238143794385 |
-| ev | 96610130842200 |
+| ev | 96728453109000 |
 | issue_share | 591611334 |
-| ps | 1.1768383427 |
-| pcf | 64.0204377989 |
+| ps | 1.1782796634 |
+| pcf | 64.0988461734 |
 | bvps | 41859.6473574423 |
-| ev_per_ebitda | 30.8748213736 |
+| ev_per_ebitda | 30.8984476975 |
 | at | 0.6878156245 |
 | fat | 3.3435870864 |
 | acp | 77.00592296875209 |
@@ -154,7 +154,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VJC      | 2026-03-11 00:00:00 |  157   |  160   | 152.8 |   159.7 |  1433700 |
 | VJC      | 2026-03-12 00:00:00 |  155   |  157.9 | 152.8 |   152.8 |  1393200 |
 | VJC      | 2026-03-13 00:00:00 |  152.6 |  157   | 152.6 |   156.8 |  1257300 |
 | VJC      | 2026-03-16 00:00:00 |  156   |  156   | 152.6 |   154   |  1162100 |

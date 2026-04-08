@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | PNJ |
 | exchange | HOSE |
-| ev | 35684196592200 |
-| ceiling | 116400 |
-| floor | 101200 |
-| ref_price | 108800 |
-| open | 106800 |
-| match_price | 104600 |
-| close_price | 104600 |
-| price_change | -4200 |
-| price_change_pct | -0.03860294 |
-| high | 107700 |
-| low | 104600 |
-| total_volume | 707631 |
+| ev | 34131866600000 |
+| ceiling | 111900 |
+| floor | 97300 |
+| ref_price | 104600 |
+| open | 104600 |
+| match_price | 100000 |
+| close_price | 100000 |
+| price_change | -4600 |
+| price_change_pct | -0.04397706 |
+| high | 105100 |
+| low | 100000 |
+| total_volume | 1438255 |
 | high_price_1y | 127000 |
 | low_price_1y | 61190 |
-| pct_low_change_1y | 0.709442869 |
-| pct_high_change_1y | -0.1763779528 |
-| foreign_volume | 280159 |
+| pct_low_change_1y | 0.6342666052 |
+| pct_high_change_1y | -0.2125984252 |
+| foreign_volume | 220255 |
 | foreign_room | 167246146 |
-| avg_match_volume_2w | 1271668 |
-| foreign_holding_room | 167246146 |
-| current_holding_ratio | 0.48999999900386343 |
+| avg_match_volume_2w | 1324246 |
+| foreign_holding_room | 166459487 |
+| current_holding_ratio | 0.487695234927468 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 103.6 |
-| EMA20 | 110.09 |
-| EMA50 | 110.58 |
-| RSI(14) | 37.4 |
+| Giá đóng cửa | 106.0 |
+| EMA20 | 109.39 |
+| EMA50 | 110.27 |
+| RSI(14) | 43.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -2.5 |
-| MACD Signal | -1.817 |
-| MACD Histogram | -0.683 |
+| MACD | -2.723 |
+| MACD Signal | -2.044 |
+| MACD Histogram | -0.679 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 280159 |
+| KL khớp NN hôm nay | 220255 |
 | Room NN còn lại | 167246146 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48999999900386343 |
+| Tỷ lệ sở hữu NN hiện tại | 0.487695234927468 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2306132968 |
 | roic | 0.2021196725 |
 | roa | 0.151372462 |
-| pe | 12.6222253801 |
-| pb | 2.6894286409 |
+| pe | 12.0671370747 |
+| pb | 2.5711554885 |
 | eps | 8286.969757727811 |
 | current_ratio | 2.7077637518 |
 | cash_ratio | 0.0901825206 |
@@ -94,12 +94,12 @@
 | fae | 0.06446523934732344 |
 | net_profit_margin | 0.08086956745221403 |
 | gross_margin | 0.21968889744119408 |
-| ev | 35701932463600 |
+| ev | 34131866600000 |
 | issue_share | 341318666 |
-| ps | 1.0207539068 |
-| pcf | 1889.9507265224 |
+| ps | 0.9758641556 |
+| pcf | 1806.8362586256 |
 | bvps | 38893.0192860065 |
-| ev_per_ebitda | 10.8787511284 |
+| ev_per_ebitda | 10.4452757878 |
 | at | 1.871809962 |
 | fat | 40.8386497513 |
 | acp | 0.6241186142362125 |
@@ -110,7 +110,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 3.8893019286006467 |
 | rtq10 | 0.5189274347 |
-| dividend | 0.0095602294 |
+| dividend | 0.01 |
 | ebitda | 3622041940045 |
 | ebit | 3536750481642 |
 | le | 0.3181478846 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PNJ      | 2026-03-11 00:00:00 |  113.3 |  119.5 | 111.5 |   119   |  1930700 |
 | PNJ      | 2026-03-12 00:00:00 |  118.6 |  118.6 | 115   |   117.9 |   997100 |
 | PNJ      | 2026-03-13 00:00:00 |  115   |  117.4 | 114.9 |   116.9 |  1048900 |
 | PNJ      | 2026-03-16 00:00:00 |  115.1 |  118.1 | 114.2 |   118   |   717500 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PVT |
 | exchange | HOSE |
-| ev | 9751073126250 |
-| ceiling | 22600 |
-| floor | 19700 |
-| ref_price | 21150 |
-| open | 21200 |
-| match_price | 20750 |
-| close_price | 20750 |
-| price_change | -400 |
-| price_change_pct | -0.01891253 |
-| high | 21300 |
-| low | 20400 |
-| total_volume | 5426650 |
+| ev | 9821562811500 |
+| ceiling | 22200 |
+| floor | 19300 |
+| ref_price | 20750 |
+| open | 20700 |
+| match_price | 20900 |
+| close_price | 20900 |
+| price_change | 150 |
+| price_change_pct | 0.00722892 |
+| high | 21150 |
+| low | 20500 |
+| total_volume | 3856982 |
 | high_price_1y | 32700 |
 | low_price_1y | 14091 |
-| pct_low_change_1y | 0.4725335241 |
-| pct_high_change_1y | -0.3241042345 |
-| foreign_volume | 1590000 |
+| pct_low_change_1y | 0.4831783447 |
+| pct_high_change_1y | -0.319218241 |
+| foreign_volume | 647100 |
 | foreign_room | 230266305 |
-| avg_match_volume_2w | 8949039 |
-| foreign_holding_room | 60767755 |
-| current_holding_ratio | 0.12931201519303137 |
+| avg_match_volume_2w | 8078823 |
+| foreign_holding_room | 60642055 |
+| current_holding_ratio | 0.12904452924905066 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,7 +43,7 @@
 | EMA50 | 22.34 |
 | RSI(14) | 39.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.736 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1590000 |
+| KL khớp NN hôm nay | 647100 |
 | Room NN còn lại | 230266305 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12931201519303137 |
+| Tỷ lệ sở hữu NN hiện tại | 0.12904452924905066 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.126618297 |
 | roic | 0.0942990677 |
 | roa | 0.0492222577 |
-| pe | 9.3961542406 |
-| pb | 1.1243005828 |
+| pe | 9.4640782472 |
+| pb | 1.1324280569 |
 | eps | 2208.350296151308 |
 | current_ratio | 1.8493687147 |
 | cash_ratio | 0.4670128524 |
@@ -94,12 +94,12 @@
 | fae | 1.1747048205760742 |
 | net_profit_margin | 0.06480889562480457 |
 | gross_margin | 0.1465947616790172 |
-| ev | 9751073126250 |
+| ev | 9821562811500 |
 | issue_share | 469931235 |
-| ps | 0.6089543795 |
-| pcf | 3.0845868101 |
+| ps | 0.6133564593 |
+| pcf | 3.106885028 |
 | bvps | 18455.9185664877 |
-| ev_per_ebitda | 3.8774645874 |
+| ev_per_ebitda | 3.8951083758 |
 | at | 0.7594984797 |
 | fat | 1.2529784767 |
 | acp | 29.60694838811861 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PVT      | 2026-03-11 00:00:00 |  25.5  |  27.75 | 25.1  |   27.75 | 22483900 |
 | PVT      | 2026-03-12 00:00:00 |  28.1  |  28.15 | 26.4  |   26.5  | 11043400 |
 | PVT      | 2026-03-13 00:00:00 |  26.8  |  27.85 | 24.65 |   24.65 | 24641800 |
 | PVT      | 2026-03-16 00:00:00 |  24.95 |  25.1  | 22.95 |   24.1  | 23183100 |

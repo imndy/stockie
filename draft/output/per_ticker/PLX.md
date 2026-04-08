@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PLX |
 | exchange | HOSE |
-| ev | 50331857350900 |
-| ceiling | 43000 |
-| floor | 37400 |
-| ref_price | 40200 |
-| open | 40200 |
-| match_price | 38900 |
-| close_price | 38900 |
-| price_change | -1300 |
-| price_change_pct | -0.03233831 |
-| high | 40200 |
-| low | 38900 |
-| total_volume | 3135427 |
+| ev | 49943693926600 |
+| ceiling | 41600 |
+| floor | 36200 |
+| ref_price | 38900 |
+| open | 38950 |
+| match_price | 38600 |
+| close_price | 38600 |
+| price_change | -300 |
+| price_change_pct | -0.00771208 |
+| high | 39550 |
+| low | 38550 |
+| total_volume | 1993090 |
 | high_price_1y | 70400 |
 | low_price_1y | 29947 |
-| pct_low_change_1y | 0.2989519561 |
-| pct_high_change_1y | -0.4402877698 |
-| foreign_volume | 961200 |
+| pct_low_change_1y | 0.2889343318 |
+| pct_high_change_1y | -0.4446043165 |
+| foreign_volume | 449100 |
 | foreign_room | 258775616 |
-| avg_match_volume_2w | 4602069 |
-| foreign_holding_room | 186969345 |
-| current_holding_ratio | 0.1445030623406936 |
+| avg_match_volume_2w | 3918773 |
+| foreign_holding_room | 186686792 |
+| current_holding_ratio | 0.14428468550585177 |
 | max_holding_ratio | 0.2 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 961200 |
+| KL khớp NN hôm nay | 449100 |
 | Room NN còn lại | 258775616 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1445030623406936 |
+| Tỷ lệ sở hữu NN hiện tại | 0.14428468550585177 |
 | Tỷ lệ sở hữu NN tối đa | 0.2 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1024427431 |
 | roic | 0.0508257837 |
 | roa | 0.0320141179 |
-| pe | 18.8138169844 |
-| pb | 1.9205857867 |
+| pe | 18.6687232802 |
+| pb | 1.9057740711 |
 | eps | 2067.629340298717 |
 | current_ratio | 1.07599846 |
 | cash_ratio | 0.1929829145 |
@@ -94,12 +94,12 @@
 | fae | 0.49002306355260117 |
 | net_profit_margin | 0.008633366579300186 |
 | gross_margin | 0.05845185720211535 |
-| ev | 50331857350900 |
+| ev | 49943693926600 |
 | issue_share | 1293878081 |
-| ps | 0.1624265788 |
-| pcf | 12.6133369575 |
+| ps | 0.1611739316 |
+| pcf | 12.5160618653 |
 | bvps | 20254.2371546311 |
-| ev_per_ebitda | 12.268945633 |
+| ev_per_ebitda | 12.1873287368 |
 | at | 3.7081847102 |
 | fat | 22.0775460128 |
 | acp | 16.500068834270653 |
@@ -155,7 +155,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PLX      | 2026-03-11 00:00:00 |  51.6  |  55.2  | 51.4  |   55.2  |  8718600 |
 | PLX      | 2026-03-12 00:00:00 |  55    |  55.2  | 52    |   52    |  7032400 |
 | PLX      | 2026-03-13 00:00:00 |  52    |  54.4  | 48.4  |   48.4  | 11908400 |
 | PLX      | 2026-03-16 00:00:00 |  48    |  48.1  | 45.05 |   46.7  | 10155600 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | MSB |
 | exchange | HOSE |
-| ev | 35880000000000 |
+| ev | 36036000000000 |
 | ceiling | 12300 |
 | floor | 10700 |
 | ref_price | 11500 |
-| open | 11550 |
-| match_price | 11500 |
-| close_price | 11500 |
-| price_change | 0 |
-| price_change_pct | 0 |
+| open | 11500 |
+| match_price | 11550 |
+| close_price | 11550 |
+| price_change | 50 |
+| price_change_pct | 0.00434783 |
 | high | 11600 |
 | low | 11450 |
-| total_volume | 5834800 |
+| total_volume | 18999492 |
 | high_price_1y | 15624 |
 | low_price_1y | 7916 |
-| pct_low_change_1y | 0.3800552022 |
-| pct_high_change_1y | -0.254024215 |
-| foreign_volume | 56700 |
+| pct_low_change_1y | 0.3860554422 |
+| pct_high_change_1y | -0.250780842 |
+| foreign_volume | 262600 |
 | foreign_room | 936000000 |
-| avg_match_volume_2w | 6290827 |
-| foreign_holding_room | 896501414 |
-| current_holding_ratio | 0.28734019679487177 |
+| avg_match_volume_2w | 6464215 |
+| foreign_holding_room | 896332514 |
+| current_holding_ratio | 0.28728606217948716 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 56700 |
+| KL khớp NN hôm nay | 262600 |
 | Room NN còn lại | 936000000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.28734019679487177 |
+| Tỷ lệ sở hữu NN hiện tại | 0.28728606217948716 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.14202027 |
 | roic | 0 |
 | roa | 0.0154667481 |
-| pe | 6.3746775351 |
-| pb | 0.8453081791 |
+| pe | 6.4023935244 |
+| pb | 0.8489834321 |
 | eps | 1804.0128205128206 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.011727237426853632 |
 | net_profit_margin | 0.5141377560928556 |
 | gross_margin | 0 |
-| ev | 35880000000000 |
+| ev | 36036000000000 |
 | issue_share | 3120000000 |
-| ps | 2.5547378211 |
-| pcf | 3.068421699 |
+| ps | 2.5658453768 |
+| pcf | 3.0817626629 |
 | bvps | 13604.5057692308 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -153,7 +153,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSB      | 2026-03-11 00:00:00 |  11.1  |  11.45 | 11    |   11.45 |  5658100 |
 | MSB      | 2026-03-12 00:00:00 |  11.15 |  11.4  | 11.15 |   11.25 |  3337600 |
 | MSB      | 2026-03-13 00:00:00 |  11.2  |  11.3  | 11.1  |   11.25 |  4299600 |
 | MSB      | 2026-03-16 00:00:00 |  11.25 |  11.3  | 11.2  |   11.25 |  2802300 |

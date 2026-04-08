@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | DGC |
 | exchange | HOSE |
-| ev | 20128255889000 |
-| ceiling | 60400 |
-| floor | 52600 |
-| ref_price | 56500 |
-| open | 56300 |
-| match_price | 53000 |
-| close_price | 53000 |
-| price_change | -3500 |
-| price_change_pct | -0.0619469 |
-| high | 56300 |
-| low | 53000 |
-| total_volume | 3485008 |
+| ev | 20583989984600 |
+| ceiling | 56700 |
+| floor | 49300 |
+| ref_price | 53000 |
+| open | 53300 |
+| match_price | 54200 |
+| close_price | 54200 |
+| price_change | 1200 |
+| price_change_pct | 0.02264151 |
+| high | 54200 |
+| low | 52500 |
+| total_volume | 1797750 |
 | high_price_1y | 106253 |
 | low_price_1y | 48250 |
-| pct_low_change_1y | 0.0794297352 |
-| pct_high_change_1y | -0.4873232946 |
-| foreign_volume | 128805 |
+| pct_low_change_1y | 0.1038696538 |
+| pct_high_change_1y | -0.4757155201 |
+| foreign_volume | 711358 |
 | foreign_room | 186091850 |
-| avg_match_volume_2w | 5095516 |
-| foreign_holding_room | 23544196 |
-| current_holding_ratio | 0.061994418516021964 |
+| avg_match_volume_2w | 4567456 |
+| foreign_holding_room | 24139614 |
+| current_holding_ratio | 0.06356221860925822 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 128805 |
+| KL khớp NN hôm nay | 711358 |
 | Room NN còn lại | 186091850 |
-| Tỷ lệ sở hữu NN hiện tại | 0.061994418516021964 |
+| Tỷ lệ sở hữu NN hiện tại | 0.06356221860925822 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2128987843 |
 | roic | 0.1768627204 |
 | roa | 0.1710406787 |
-| pe | 6.654038138 |
-| pb | 1.3366227803 |
+| pe | 6.8046956053 |
+| pb | 1.3668859376 |
 | eps | 7965.088101482185 |
 | current_ratio | 3.9513600758 |
 | cash_ratio | 0.2549976728 |
@@ -94,12 +94,12 @@
 | fae | 0.1456849656929077 |
 | net_profit_margin | 0.2686002766861653 |
 | gross_margin | 0.3154501582716298 |
-| ev | 20128302158000 |
+| ev | 20584037301200 |
 | issue_share | 379779286 |
-| ps | 1.787276485 |
-| pcf | 9.8867776385 |
+| ps | 1.8277431223 |
+| pcf | 10.1106292077 |
 | bvps | 39652.1747052919 |
-| ev_per_ebitda | 6.2271916385 |
+| ev_per_ebitda | 6.3647293199 |
 | at | 0.6367851917 |
 | fat | 4.7519656613 |
 | acp | 18.661119888685068 |
@@ -110,7 +110,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 4.056574759711881 |
 | rtq10 | 0.2689937787 |
-| dividend | 0.0566037736 |
+| dividend | 0.0553505535 |
 | ebitda | 3313529343680 |
 | ebit | 2998217718723 |
 | le | 0.1003633274 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                              |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| DGC: Báo cáo thường niên năm 2025                                                       | 1775580226000 | https://www.hsx.vn/vi/tin-tuc/dgc-bao-cao-thuong-nien-nam-2025/2451221                                                    |
 | HOSE nhắc nhở Hoá chất Đức Giang (DGC) chưa nộp Báo cáo kiểm toán năm 2025              | 1775199900000 | https://www.tinnhanhchungkhoan.vn/hose-nhac-nho-hoa-chat-duc-giang-dgc-chua-nop-bao-cao-kiem-toan-nam-2025-post388057.ht… |
 | DGC: Nhắc nhở chậm nộp BCTC kiểm toán năm 2025                                          | 1775146181000 | https://www.hsx.vn/vi/tin-tuc/dgc-nhac-nho-cham-nop-bctc-kiem-toan-nam-2025/2449838                                       |
 | DGC: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ bất thường năm 2026              | 1775146104000 | https://www.hsx.vn/vi/tin-tuc/dgc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-bat-thuong-nam-2026/2449835           |
@@ -131,7 +132,6 @@
 | DGC: Giải trình giá cổ phiếu giảm sàn 05 phiên liên tiếp (từ 17/03/2026 đến 23/03/2026) | 1774372204000 | https://www.hsx.vn/vi/tin-tuc/dgc-giai-trinh-gia-co-phieu-giam-san-05-phien-lien-tiep-tu-17032026-den-23032026/2446409    |
 | DGC: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Kế toán trưởng                 | 1774264154000 | https://www.hsx.vn/vi/tin-tuc/dgc-thong-bao-thay-doi-nhan-su--mien-nhiem-va-bo-nhiem-ke-toan-truong/2445801               |
 | Hoá chất Đức Giang (DGC) thay Kế toán trưởng                                            | 1774081920000 | https://www.tinnhanhchungkhoan.vn/hoa-chat-duc-giang-dgc-thay-ke-toan-truong-post387152.html                              |
-| Hóa chất Đức Giang triệu tập họp bất thường sau khi cha con chủ tịch bị bắt             | 1773993960000 | https://dantri.com.vn/kinh-doanh/hoa-chat-duc-giang-trieu-tap-hop-bat-thuong-sau-khi-cha-con-chu-tich-bi-bat-20260319200… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DGC      | 2026-03-11 00:00:00 |   77.4 |   79.7 | 76    |    77.7 |  6463800 |
 | DGC      | 2026-03-12 00:00:00 |   77   |   82   | 76.2  |    80.9 |  9831700 |
 | DGC      | 2026-03-13 00:00:00 |   80.4 |   81.7 | 76.5  |    77.4 |  8635900 |
 | DGC      | 2026-03-16 00:00:00 |   76.5 |   77.7 | 72.2  |    73.9 |  9659900 |

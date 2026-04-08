@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VIC |
 | exchange | HOSE |
-| ev | 1091173992998400 |
-| ceiling | 150800 |
-| floor | 131200 |
-| ref_price | 141000 |
-| open | 141000 |
-| match_price | 141600 |
-| close_price | 141600 |
-| price_change | 600 |
-| price_change_pct | 0.00425532 |
-| high | 142500 |
-| low | 139000 |
-| total_volume | 2035608 |
+| ev | 1105044848841600 |
+| ceiling | 151500 |
+| floor | 131700 |
+| ref_price | 141600 |
+| open | 141600 |
+| match_price | 143400 |
+| close_price | 143400 |
+| price_change | 1800 |
+| price_change_pct | 0.01271186 |
+| high | 146900 |
+| low | 139900 |
+| total_volume | 3150802 |
 | high_price_1y | 190000 |
 | low_price_1y | 26050 |
-| pct_low_change_1y | 4.1397459165 |
-| pct_high_change_1y | -0.2089385475 |
-| foreign_volume | 1063672 |
+| pct_low_change_1y | 4.2050816697 |
+| pct_high_change_1y | -0.1988826816 |
+| foreign_volume | 1242970 |
 | foreign_room | 3713436895 |
-| avg_match_volume_2w | 2970150 |
-| foreign_holding_room | 258637384 |
-| current_holding_ratio | 0.033562982447707314 |
+| avg_match_volume_2w | 2886341 |
+| foreign_holding_room | 257880720 |
+| current_holding_ratio | 0.03346479130395985 |
 | max_holding_ratio | 0.48017596 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1063672 |
+| KL khớp NN hôm nay | 1242970 |
 | Room NN còn lại | 3713436895 |
-| Tỷ lệ sở hữu NN hiện tại | 0.033562982447707314 |
+| Tỷ lệ sở hữu NN hiện tại | 0.03346479130395985 |
 | Tỷ lệ sở hữu NN tối đa | 0.48017596 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0796589521 |
 | roic | 0.007452922 |
 | roa | 0.0116098404 |
-| pe | 96.4818344353 |
-| pb | 7.4208145177 |
+| pe | 97.7082984324 |
+| pb | 7.5151469057 |
 | eps | 1467.633786491714 |
 | current_ratio | 1.1214015592 |
 | cash_ratio | 0.1278836877 |
@@ -94,12 +94,12 @@
 | fae | 1.28982452744816 |
 | net_profit_margin | 0.03420328297314119 |
 | gross_margin | 0.15876083117667322 |
-| ev | 1095062453040000 |
+| ev | 1108982738460000 |
 | issue_share | 7706031024 |
-| ps | 3.299995485 |
-| pcf | 15.8143433957 |
+| ps | 3.3419445801 |
+| pcf | 16.0153731846 |
 | bvps | 19081.4633167198 |
-| ev_per_ebitda | 38.4466100049 |
+| ev_per_ebitda | 38.8410178421 |
 | at | 0.3394364349 |
 | fat | 1.7541881583 |
 | acp | 36.99527456453098 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIC      | 2026-03-11 00:00:00 |  143   |  148.5 | 143   |   146   |  2974500 |
 | VIC      | 2026-03-12 00:00:00 |  144.8 |  149.7 | 142.9 |   145   |  3036100 |
 | VIC      | 2026-03-13 00:00:00 |  143.9 |  148   | 141.2 |   144.6 |  2665200 |
 | VIC      | 2026-03-16 00:00:00 |  146.2 |  147.6 | 141.4 |   144.7 |  2480300 |

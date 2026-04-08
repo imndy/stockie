@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | MBB |
 | exchange | HOSE |
-| ev | 206610747665850 |
-| ceiling | 27750 |
-| floor | 24150 |
-| ref_price | 25950 |
-| open | 26000 |
-| match_price | 25650 |
-| close_price | 25650 |
-| price_change | -300 |
-| price_change_pct | -0.01156069 |
-| high | 26000 |
-| low | 25600 |
-| total_volume | 12258747 |
+| ev | 206207997670400 |
+| ceiling | 27400 |
+| floor | 23900 |
+| ref_price | 25650 |
+| open | 25750 |
+| match_price | 25600 |
+| close_price | 25600 |
+| price_change | -50 |
+| price_change_pct | -0.00194932 |
+| high | 25800 |
+| low | 25450 |
+| total_volume | 15357428 |
 | high_price_1y | 29500 |
 | low_price_1y | 14599 |
-| pct_low_change_1y | 0.6548504538 |
-| pct_high_change_1y | -0.1155172414 |
-| foreign_volume | 3646809 |
+| pct_low_change_1y | 0.6516246244 |
+| pct_high_change_1y | -0.1172413793 |
+| foreign_volume | 7401522 |
 | foreign_room | 1871587283 |
-| avg_match_volume_2w | 15091093 |
-| foreign_holding_room | 1871587283 |
-| current_holding_ratio | 0.23235099989372326 |
+| avg_match_volume_2w | 15319862 |
+| foreign_holding_room | 1858612210 |
+| current_holding_ratio | 0.2307401900679525 |
 | max_holding_ratio | 0.232351 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.55 |
-| EMA20 | 26.15 |
+| Giá đóng cửa | 26.3 |
+| EMA20 | 26.17 |
 | EMA50 | 26.39 |
-| RSI(14) | 42.4 |
+| RSI(14) | 50.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.27 |
-| MACD Signal | -0.277 |
-| MACD Histogram | 0.007 |
+| MACD | -0.222 |
+| MACD Signal | -0.266 |
+| MACD Histogram | 0.044 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 3646809 |
+| KL khớp NN hôm nay | 7401522 |
 | Room NN còn lại | 1871587283 |
-| Tỷ lệ sở hữu NN hiện tại | 0.23235099989372326 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2307401900679525 |
 | Tỷ lệ sở hữu NN tối đa | 0.232351 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2113845562 |
 | roic | 0 |
 | roa | 0.0199543302 |
-| pe | 7.7154194733 |
-| pb | 1.5176786589 |
+| pe | 7.7003796693 |
+| pb | 1.5147202209 |
 | eps | 3324.51140067674 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.039546874694700716 |
 | net_profit_margin | 0.5188699533465503 |
 | gross_margin | 0 |
-| ev | 206610747435000 |
+| ev | 206207997440000 |
 | issue_share | 8054999909 |
-| ps | 3.0521723317 |
-| pcf | 1.5041836038 |
+| ps | 3.0462226781 |
+| pcf | 1.501251472 |
 | bvps | 16900.810886416 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MBB      | 2026-03-11 00:00:00 |  26.55 |  27    | 26.45 |   26.8  | 22212600 |
 | MBB      | 2026-03-12 00:00:00 |  26.5  |  26.8  | 26    |   26.25 | 19075600 |
 | MBB      | 2026-03-13 00:00:00 |  26.2  |  26.5  | 25.8  |   26.15 | 17314700 |
 | MBB      | 2026-03-16 00:00:00 |  26.15 |  26.5  | 26.1  |   26.1  | 12448200 |

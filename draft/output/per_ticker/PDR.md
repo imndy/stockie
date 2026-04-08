@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PDR |
 | exchange | HOSE |
-| ev | 15515935843450 |
-| ceiling | 17000 |
-| floor | 14800 |
-| ref_price | 15900 |
-| open | 15800 |
-| match_price | 15550 |
-| close_price | 15550 |
-| price_change | -350 |
-| price_change_pct | -0.02201258 |
-| high | 16000 |
-| low | 15150 |
-| total_volume | 9618675 |
+| ev | 15665607250300 |
+| ceiling | 16600 |
+| floor | 14500 |
+| ref_price | 15550 |
+| open | 15500 |
+| match_price | 15700 |
+| close_price | 15700 |
+| price_change | 150 |
+| price_change_pct | 0.0096463 |
+| high | 15700 |
+| low | 15300 |
+| total_volume | 6315081 |
 | high_price_1y | 27200 |
 | low_price_1y | 13700 |
-| pct_low_change_1y | 0.1159116442 |
-| pct_high_change_1y | -0.4087452471 |
-| foreign_volume | 494600 |
+| pct_low_change_1y | 0.1266760652 |
+| pct_high_change_1y | -0.4030418251 |
+| foreign_volume | 180644 |
 | foreign_room | 498904689 |
-| avg_match_volume_2w | 13099827 |
-| foreign_holding_room | 63384440 |
-| current_holding_ratio | 0.06352359612366401 |
+| avg_match_volume_2w | 12680744 |
+| foreign_holding_room | 63248131 |
+| current_holding_ratio | 0.06338698786674764 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 16.54 |
 | RSI(14) | 43.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.125 |
 | MACD Signal | -0.206 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 494600 |
+| KL khớp NN hôm nay | 180644 |
 | Room NN còn lại | 498904689 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06352359612366401 |
+| Tỷ lệ sở hữu NN hiện tại | 0.06338698786674764 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0440732251 |
 | roic | 0.0255519376 |
 | roa | 0.0200980152 |
-| pe | 30.1239416513 |
-| pb | 1.2540086969 |
+| pe | 30.4145262974 |
+| pb | 1.2661052439 |
 | eps | 516.2007077295673 |
 | current_ratio | 2.3568296837 |
 | cash_ratio | 0.0366479217 |
@@ -94,12 +94,12 @@
 | fae | 0.05901812102898895 |
 | net_profit_margin | 0.3887394146446222 |
 | gross_margin | 0.5435475793179413 |
-| ev | 15515935843450 |
+| ev | 15665607250300 |
 | issue_share | 997809379 |
-| ps | 11.7103634443 |
-| pcf | -5.2147077243 |
+| ps | 11.8233251496 |
+| pcf | -5.2650103711 |
 | bvps | 12400.2329792262 |
-| ev_per_ebitda | 43.855680445 |
+| ev_per_ebitda | 44.1730212313 |
 | at | 0.0517004823 |
 | fat | 1.7935835408 |
 | acp | 652.3242504720417 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PDR      | 2026-03-11 00:00:00 |  14.35 |  15.4  | 14.25 |   15.3  | 12365900 |
 | PDR      | 2026-03-12 00:00:00 |  15.1  |  15.4  | 14.85 |   15.25 |  8338100 |
 | PDR      | 2026-03-13 00:00:00 |  14.9  |  15.7  | 14.9  |   15.45 | 10997400 |
 | PDR      | 2026-03-16 00:00:00 |  15.75 |  15.85 | 15.4  |   15.6  |  8555800 |

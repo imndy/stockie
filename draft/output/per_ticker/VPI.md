@@ -12,26 +12,26 @@
 | symbol | VPI |
 | exchange | HOSE |
 | ev | 18434855635200 |
-| ceiling | 62000 |
-| floor | 54000 |
-| ref_price | 58000 |
-| open | 58000 |
+| ceiling | 61600 |
+| floor | 53600 |
+| ref_price | 57600 |
+| open | 57500 |
 | match_price | 57600 |
 | close_price | 57600 |
-| price_change | -400 |
-| price_change_pct | -0.00689655 |
-| high | 58800 |
-| low | 57500 |
-| total_volume | 940453 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 57600 |
+| low | 55900 |
+| total_volume | 898921 |
 | high_price_1y | 62300 |
 | low_price_1y | 47700 |
 | pct_low_change_1y | 0.1900826446 |
 | pct_high_change_1y | -0.0618892508 |
-| foreign_volume | 60200 |
+| foreign_volume | 166300 |
 | foreign_room | 156824292 |
-| avg_match_volume_2w | 1508842 |
-| foreign_holding_room | 30522216 |
-| current_holding_ratio | 0.09536714994627223 |
+| avg_match_volume_2w | 1392709 |
+| foreign_holding_room | 30411787 |
+| current_holding_ratio | 0.09502211277723388 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 60200 |
+| KL khớp NN hôm nay | 166300 |
 | Room NN còn lại | 156824292 |
-| Tỷ lệ sở hữu NN hiện tại | 0.09536714994627223 |
+| Tỷ lệ sở hữu NN hiện tại | 0.09502211277723388 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -155,7 +155,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPI      | 2026-03-11 00:00:00 |   56.3 |   58.6 |  56.3 |    58.5 |  2871900 |
 | VPI      | 2026-03-12 00:00:00 |   58.4 |   58.5 |  57.8 |    58   |  3281100 |
 | VPI      | 2026-03-13 00:00:00 |   57.7 |   58.8 |  57.3 |    58.7 |  2915100 |
 | VPI      | 2026-03-16 00:00:00 |   58.6 |   58.7 |  57.8 |    58.3 |  3048100 |

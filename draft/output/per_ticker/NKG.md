@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | NKG |
 | exchange | HOSE |
-| ev | 6019828349450 |
-| ceiling | 14550 |
-| floor | 12650 |
-| ref_price | 13600 |
-| open | 13500 |
-| match_price | 13450 |
-| close_price | 13450 |
-| price_change | -150 |
-| price_change_pct | -0.01102941 |
-| high | 13850 |
+| ev | 6064585437550 |
+| ceiling | 14350 |
+| floor | 12550 |
+| ref_price | 13450 |
+| open | 13450 |
+| match_price | 13550 |
+| close_price | 13550 |
+| price_change | 100 |
+| price_change_pct | 0.00743494 |
+| high | 13650 |
 | low | 13400 |
-| total_volume | 2764740 |
+| total_volume | 2068198 |
 | high_price_1y | 20400 |
 | low_price_1y | 11050 |
-| pct_low_change_1y | 0.1902654867 |
-| pct_high_change_1y | -0.324120603 |
-| foreign_volume | 46300 |
+| pct_low_change_1y | 0.1991150442 |
+| pct_high_change_1y | -0.3190954774 |
+| foreign_volume | 77600 |
 | foreign_room | 223785440 |
-| avg_match_volume_2w | 3511858 |
-| foreign_holding_room | 23099547 |
-| current_holding_ratio | 0.0516109246168765 |
+| avg_match_volume_2w | 3392907 |
+| foreign_holding_room | 22993747 |
+| current_holding_ratio | 0.051374537478008984 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 14.38 |
 | RSI(14) | 39.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.289 |
 | MACD Signal | -0.328 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 46300 |
+| KL khớp NN hôm nay | 77600 |
 | Room NN còn lại | 223785440 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0516109246168765 |
+| Tỷ lệ sở hữu NN hiện tại | 0.051374537478008984 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0292209942 |
 | roic | 0.0158834332 |
 | roa | 0.0131357943 |
-| pe | 30.5385482928 |
-| pb | 0.7899602542 |
+| pe | 30.7656006964 |
+| pb | 0.7958335647 |
 | eps | 440.4269604125564 |
 | current_ratio | 1.4772123809 |
 | cash_ratio | 0.1277136923 |
@@ -94,12 +94,12 @@
 | fae | 0.23636280115594893 |
 | net_profit_margin | 0.013311747181003223 |
 | gross_margin | 0.05302308876023222 |
-| ev | 6019828349450 |
+| ev | 6064585437550 |
 | issue_share | 447570881 |
-| ps | 0.4065214341 |
-| pcf | 4.5366227614 |
+| ps | 0.4095438983 |
+| pcf | 4.5703522986 |
 | bvps | 17026.1730616429 |
-| ev_per_ebitda | 20.3342801877 |
+| ev_per_ebitda | 20.4098194604 |
 | at | 0.9867821361 |
 | fat | 7.7406603483 |
 | acp | 29.44239843913578 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NKG      | 2026-03-11 00:00:00 |  14.15 |  14.4  | 13.9  |   14.3  |  4724400 |
 | NKG      | 2026-03-12 00:00:00 |  14.2  |  14.5  | 13.9  |   13.9  |  6087800 |
 | NKG      | 2026-03-13 00:00:00 |  13.8  |  14.25 | 13.6  |   13.9  |  4304500 |
 | NKG      | 2026-03-16 00:00:00 |  13.9  |  14.2  | 13.9  |   14    |  2238900 |

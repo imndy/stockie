@@ -260,7 +260,7 @@ def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
                 return r[c]
         return None
     row = {
-        "date":                   _last_trading_date().isoformat(),
+        "date":                   date.today().isoformat(),
         "ticker":                 ticker,
         "foreign_buy_volume":     _g("foreign_volume"),   # VCI: KL khớp NN (net buy)
         "foreign_room":           _g("foreign_room"),
@@ -1186,12 +1186,8 @@ def run_pipeline(mode: str) -> None:
             print(f"\n[{ticker}]")
 
         frames: dict = {}
-        try:
-            kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
-            vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
-        except Exception as exc:
-            print(f"    [WARN] Init vnstock failed for {ticker}: {exc}")
-            continue
+        kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
+        vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
 
         # ── Daily data ──
         if effective_mode in ("daily", "full"):

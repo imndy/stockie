@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | EVF |
 | exchange | HOSE |
-| ev | 10077496850000 |
-| ceiling | 14200 |
-| floor | 12400 |
-| ref_price | 13300 |
+| ev | 10267638300000 |
+| ceiling | 14150 |
+| floor | 12350 |
+| ref_price | 13250 |
 | open | 13250 |
-| match_price | 13250 |
-| close_price | 13250 |
-| price_change | -50 |
-| price_change_pct | -0.0037594 |
+| match_price | 13500 |
+| close_price | 13500 |
+| price_change | 250 |
+| price_change_pct | 0.01886792 |
 | high | 13500 |
-| low | 13200 |
-| total_volume | 6683311 |
+| low | 13250 |
+| total_volume | 4290601 |
 | high_price_1y | 16500 |
 | low_price_1y | 7940 |
-| pct_low_change_1y | 0.6687657431 |
-| pct_high_change_1y | -0.1846153846 |
-| foreign_volume | 353515 |
+| pct_low_change_1y | 0.7002518892 |
+| pct_high_change_1y | -0.1692307692 |
+| foreign_volume | 209300 |
 | foreign_room | 114084870 |
-| avg_match_volume_2w | 11117400 |
-| foreign_holding_room | 4407565 |
-| current_holding_ratio | 0.005795113306974588 |
+| avg_match_volume_2w | 10933593 |
+| foreign_holding_room | 3854295 |
+| current_holding_ratio | 0.005067668030648583 |
 | max_holding_ratio | 0.15 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.35 |
-| EMA20 | 13.64 |
-| EMA50 | 13.16 |
-| RSI(14) | 47.6 |
+| Giá đóng cửa | 13.95 |
+| EMA20 | 13.68 |
+| EMA50 | 13.2 |
+| RSI(14) | 54.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.114 |
-| MACD Signal | 0.258 |
-| MACD Histogram | -0.144 |
+| MACD | 0.137 |
+| MACD Signal | 0.236 |
+| MACD Histogram | -0.099 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 353515 |
+| KL khớp NN hôm nay | 209300 |
 | Room NN còn lại | 114084870 |
-| Tỷ lệ sở hữu NN hiện tại | 0.005795113306974588 |
+| Tỷ lệ sở hữu NN hiện tại | 0.005067668030648583 |
 | Tỷ lệ sở hữu NN tối đa | 0.15 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0947216447 |
 | roic | 0 |
 | roa | 0.0125383088 |
-| pe | 11.2681202388 |
-| pb | 1.0203728192 |
+| pe | 11.5966933382 |
+| pb | 1.0396251365 |
 | eps | 1175.8837959845157 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.02419755031469816 |
 | net_profit_margin | 0.47275869159678835 |
 | gross_margin | 0 |
-| ev | 10077496850000 |
+| ev | 10267638300000 |
 | issue_share | 760565802 |
-| ps | 4.5525909005 |
-| pcf | 6.5166159046 |
+| ps | 4.638488842 |
+| pcf | 6.6395709217 |
 | bvps | 12985.4497796246 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -105,7 +105,7 @@
 | acp | None |
 | dso | 0 |
 | dpo | 0 |
-| eps_ttm | 1175.8837959845 |
+| eps_ttm | 1164.1249454735 |
 | charter_capital | 7605658020000 |
 | rtq4 | 0 |
 | charter_capital_ratio | 1.2985449745477775 |
@@ -155,7 +155,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EVF      | 2026-03-11 00:00:00 |  13.85 |  14.4  | 13.75 |   14.4  | 20132600 |
 | EVF      | 2026-03-12 00:00:00 |  14.75 |  15.25 | 14.35 |   14.7  | 22065700 |
 | EVF      | 2026-03-13 00:00:00 |  14.5  |  15.2  | 14.25 |   15.1  | 19282100 |
 | EVF      | 2026-03-16 00:00:00 |  15.15 |  15.15 | 14.05 |   14.05 | 21501000 |

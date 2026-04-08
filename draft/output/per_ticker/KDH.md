@@ -12,26 +12,26 @@
 | symbol | KDH |
 | exchange | HOSE |
 | ev | 28055372475000 |
-| ceiling | 27050 |
-| floor | 23550 |
-| ref_price | 25300 |
-| open | 25300 |
+| ceiling | 26750 |
+| floor | 23250 |
+| ref_price | 25000 |
+| open | 25000 |
 | match_price | 25000 |
 | close_price | 25000 |
-| price_change | -300 |
-| price_change_pct | -0.01185771 |
-| high | 25500 |
-| low | 24700 |
-| total_volume | 3126254 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 25050 |
+| low | 24200 |
+| total_volume | 3210892 |
 | high_price_1y | 38100 |
 | low_price_1y | 22046 |
 | pct_low_change_1y | 0.1340092785 |
 | pct_high_change_1y | -0.3243243243 |
-| foreign_volume | 1977800 |
+| foreign_volume | 1436300 |
 | foreign_room | 561107449 |
-| avg_match_volume_2w | 4224529 |
-| foreign_holding_room | 322913532 |
-| current_holding_ratio | 0.2877466092169571 |
+| avg_match_volume_2w | 3971879 |
+| foreign_holding_room | 320711815 |
+| current_holding_ratio | 0.28578467037443955 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 26.93 |
 | RSI(14) | 41.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.398 |
 | MACD Signal | -0.408 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1977800 |
+| KL khớp NN hôm nay | 1436300 |
 | Room NN còn lại | 561107449 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2877466092169571 |
+| Tỷ lệ sở hữu NN hiện tại | 0.28578467037443955 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDH      | 2026-03-11 00:00:00 |  25.1  |  26.5  | 24.9  |   25.75 |  6061900 |
 | KDH      | 2026-03-12 00:00:00 |  25.7  |  25.8  | 25.05 |   25.6  |  2316000 |
 | KDH      | 2026-03-13 00:00:00 |  25.3  |  26.7  | 25.15 |   26    |  5708700 |
 | KDH      | 2026-03-16 00:00:00 |  26.2  |  26.75 | 25.9  |   26.2  |  3573400 |

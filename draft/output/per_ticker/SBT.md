@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | SBT |
 | exchange | HOSE |
-| ev | 18641454440200 |
-| ceiling | 23400 |
-| floor | 20400 |
-| ref_price | 21900 |
-| open | 21900 |
-| match_price | 21800 |
-| close_price | 21800 |
-| price_change | -100 |
-| price_change_pct | -0.00456621 |
-| high | 21900 |
-| low | 21600 |
-| total_volume | 450219 |
+| ev | 18684210069650 |
+| ceiling | 23300 |
+| floor | 20300 |
+| ref_price | 21800 |
+| open | 21750 |
+| match_price | 21850 |
+| close_price | 21850 |
+| price_change | 50 |
+| price_change_pct | 0.00229358 |
+| high | 21850 |
+| low | 21650 |
+| total_volume | 2242844 |
 | high_price_1y | 27600 |
 | low_price_1y | 14000 |
-| pct_low_change_1y | 0.4880546075 |
-| pct_high_change_1y | -0.1895910781 |
-| foreign_volume | 6000 |
+| pct_low_change_1y | 0.4914675768 |
+| pct_high_change_1y | -0.187732342 |
+| foreign_volume | 27200 |
 | foreign_room | 876723922 |
-| avg_match_volume_2w | 567972 |
-| foreign_holding_room | 173414977 |
-| current_holding_ratio | 0.20279782946804448 |
+| avg_match_volume_2w | 556756 |
+| foreign_holding_room | 173375015 |
+| current_holding_ratio | 0.20275109644070508 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 6000 |
+| KL khớp NN hôm nay | 27200 |
 | Room NN còn lại | 876723922 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20279782946804448 |
+| Tỷ lệ sở hữu NN hiện tại | 0.20275109644070508 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0679311247 |
 | roic | 0.0305443402 |
 | roa | 0.0211654344 |
-| pe | 25.8526615724 |
-| pb | 1.6777563622 |
+| pe | 25.9119566678 |
+| pb | 1.6816044273 |
 | eps | 843.2400640426463 |
 | current_ratio | 1.2251342223 |
 | cash_ratio | 0.210487563 |
@@ -94,12 +94,12 @@
 | fae | 0.2804125756497981 |
 | net_profit_margin | 0.02818657693516996 |
 | gross_margin | 0.08897397054169079 |
-| ev | 19112581499600 |
+| ev | 19156417695700 |
 | issue_share | 855112589 |
-| ps | 0.7286980344 |
-| pcf | -8.0450600749 |
+| ps | 0.7303693602 |
+| pcf | -8.0635120476 |
 | bvps | 12993.5433362784 |
-| ev_per_ebitda | 23.5541907473 |
+| ev_per_ebitda | 23.5840823756 |
 | at | 0.7509047473 |
 | fat | 7.3107921346 |
 | acp | 35.625540137706544 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SBT      | 2026-03-11 00:00:00 |  22.55 |  23    | 22.4  |   23    |   706400 |
 | SBT      | 2026-03-12 00:00:00 |  22.95 |  22.95 | 22.65 |   22.85 |   401100 |
 | SBT      | 2026-03-13 00:00:00 |  22.85 |  22.85 | 22.4  |   22.5  |   480800 |
 | SBT      | 2026-03-16 00:00:00 |  22.5  |  22.5  | 22.25 |   22.3  |   506000 |

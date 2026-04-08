@@ -12,26 +12,26 @@
 | symbol | NT2 |
 | exchange | HOSE |
 | ev | 7254475930800 |
-| ceiling | 27800 |
-| floor | 24200 |
-| ref_price | 26000 |
-| open | 26050 |
+| ceiling | 26950 |
+| floor | 23450 |
+| ref_price | 25200 |
+| open | 25200 |
 | match_price | 25200 |
 | close_price | 25200 |
-| price_change | -800 |
-| price_change_pct | -0.03076923 |
-| high | 26250 |
-| low | 25200 |
-| total_volume | 1024359 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 25600 |
+| low | 25000 |
+| total_volume | 411489 |
 | high_price_1y | 29450 |
 | low_price_1y | 15485 |
 | pct_low_change_1y | 0.6023653965 |
 | pct_high_change_1y | -0.1280276817 |
-| foreign_volume | 166400 |
+| foreign_volume | 161900 |
 | foreign_room | 141059254 |
-| avg_match_volume_2w | 1295217 |
-| foreign_holding_room | 36780797 |
-| current_holding_ratio | 0.12776609823251384 |
+| avg_match_volume_2w | 1240288 |
+| foreign_holding_room | 36670697 |
+| current_holding_ratio | 0.12738364193567503 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 166400 |
+| KL khớp NN hôm nay | 161900 |
 | Room NN còn lại | 141059254 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12776609823251384 |
+| Tỷ lệ sở hữu NN hiện tại | 0.12738364193567503 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -122,6 +122,8 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026                                           | 1775578824000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2451152      |
+| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                                                                         | 1775578800000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-viec-huy-ngay-dang-ky-cuoi-cung/2451153                                    |
 | NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026                                                       | 1775240334000 | https://www.hsx.vn/vi/tin-tuc/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026/2450490                  |
 | NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026                                                     | 1775240239000 | https://www.hsx.vn/vi/tin-tuc/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026/2450487                |
 | NT2: Báo cáo thường niên năm 2025                                                                                         | 1773940142000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-thuong-nien-nam-2025/2445414                                                    |
@@ -130,8 +132,6 @@
 | NT2: Báo cáo tình hình quản trị Công ty năm 2025                                                                          | 1769588807000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434105                                     |
 | NT2: Quyết định của HĐQT về việc tạm giao kế hoạch SXKD năm 2026                                                          | 1766768104000 | https://www.hsx.vn/vi/tin-tuc/nt2-quyet-dinh-cua-hdqt-ve-viec-tam-giao-ke-hoach-sxkd-nam-2026/2426712                     |
 | NT2: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền chốt danh sách cổ đông chi trả cổ tức từ nguồn lợi nhuận sau… | 1760115720000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-chot-danh-sach-co-dong-chi-tra-… |
-| NT2: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Giám đốc                                                               | 1756477224000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-thay-doi-nhan-su--bo-nhiem-lai-pho-giam-doc/2400823                           |
-| Nhơn Trạch 2 (NT2): Lợi nhuận sau thuế 6 tháng đạt hơn 363 tỷ đồng, vượt 30% kế hoạch cả năm                              | 1754306700000 | https://www.tinnhanhchungkhoan.vn/nhon-trach-2-nt2-loi-nhuan-sau-thue-6-thang-dat-hon-363-ty-dong-vuot-30-ke-hoach-ca-na… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NT2      | 2026-03-11 00:00:00 |  25.5  |  26.4  | 25.5  |   26.35 |   768100 |
 | NT2      | 2026-03-12 00:00:00 |  26.4  |  27.3  | 26.15 |   26.5  |  1743000 |
 | NT2      | 2026-03-13 00:00:00 |  26.5  |  27.1  | 26.4  |   26.65 |   873100 |
 | NT2      | 2026-03-16 00:00:00 |  26.65 |  26.7  | 25.7  |   25.95 |   935900 |

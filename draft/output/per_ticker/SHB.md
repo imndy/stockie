@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | SHB |
 | exchange | HOSE |
-| ev | 66615900000000 |
-| ceiling | 15900 |
-| floor | 13900 |
-| ref_price | 14900 |
-| open | 14800 |
-| match_price | 14500 |
-| close_price | 14500 |
-| price_change | -400 |
-| price_change_pct | -0.02684564 |
-| high | 14800 |
-| low | 14500 |
-| total_volume | 43929188 |
+| ev | 74280191063400 |
+| ceiling | 15500 |
+| floor | 13500 |
+| ref_price | 14500 |
+| open | 14700 |
+| match_price | 14700 |
+| close_price | 14700 |
+| price_change | 200 |
+| price_change_pct | 0.0137931 |
+| high | 14700 |
+| low | 14450 |
+| total_volume | 58184522 |
 | high_price_1y | 19170 |
 | low_price_1y | 8908 |
-| pct_low_change_1y | 0.5756443575 |
-| pct_high_change_1y | -0.2277243754 |
-| foreign_volume | 1164151 |
+| pct_low_change_1y | 0.5973773831 |
+| pct_high_change_1y | -0.2170722978 |
+| foreign_volume | 1163671 |
 | foreign_room | 1378260007 |
-| avg_match_volume_2w | 70961172 |
-| foreign_holding_room | 152915381 |
-| current_holding_ratio | 0.03328444129580197 |
+| avg_match_volume_2w | 72650451 |
+| foreign_holding_room | 148470930 |
+| current_holding_ratio | 0.032317036529622374 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.55 |
-| EMA20 | 14.85 |
-| EMA50 | 15.16 |
-| RSI(14) | 43.7 |
+| Giá đóng cửa | 14.95 |
+| EMA20 | 14.87 |
+| EMA50 | 15.15 |
+| RSI(14) | 50.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.116 |
-| MACD Signal | -0.122 |
-| MACD Histogram | 0.005 |
+| MACD | -0.086 |
+| MACD Signal | -0.113 |
+| MACD Histogram | 0.027 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1164151 |
+| KL khớp NN hôm nay | 1163671 |
 | Room NN còn lại | 1378260007 |
-| Tỷ lệ sở hữu NN hiện tại | 0.03328444129580197 |
+| Tỷ lệ sở hữu NN hiện tại | 0.032317036529622374 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1895476675 |
 | roic | 0 |
 | roa | 0.0145902915 |
-| pe | 5.5697539233 |
-| pb | 0.9777628484 |
+| pe | 5.6465781153 |
+| pb | 0.9912492325 |
 | eps | 2603.346610944234 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.08129844036493376 |
 | net_profit_margin | 0.591656893768102 |
 | gross_margin | 0 |
-| ev | 66615900000000 |
+| ev | 67534740000000 |
 | issue_share | 4594200024 |
-| ps | 2.2957156834 |
-| pcf | 1.9077910856 |
+| ps | 2.3273807274 |
+| pcf | 1.9341054454 |
 | bvps | 14829.7718862914 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                           |   public_date | news_source_link                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SHB: Danh sách người lao động được mua cổ phiếu ESOP                                                                 | 1775499183000 | https://www.hsx.vn/vi/tin-tuc/shb-danh-sach-nguoi-lao-dong-duoc-mua-co-phieu-esop/2450889                                 |
 | SHB: Nghị quyết HĐQT về việc thông qua danh sách Nhà đầu tư CK chuyên nghiệp tham gia đợt chào bán cổ phiếu riêng lẻ | 1775240538000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-nha-dau-tu-ck-chuyen-nghiep-tham-gia-dot-c… |
 | SHB: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                            | 1775065636000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2449503             |
 | SHB: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                                 | 1775056872000 | https://www.hsx.vn/vi/tin-tuc/shb-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244934… |
@@ -131,7 +132,6 @@
 | SHB: Nghị quyết HĐQT số 12/2026 ngày 23/03/2026                                                                      | 1774462858000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-so-122026-ngay-23032026/2446745                                         |
 | SHB: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                | 1774367700000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24462… |
 | SHB: Nghị quyết HĐQT về việc thay đổi điều kiện cấp tín dụng đối với khách hàng doanh nghiệp                         | 1774367554000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thay-doi-dieu-kien-cap-tin-dung-doi-voi-khach-hang-doanh-nghie… |
-| SHB: Thông báo chào bán cổ phiếu ra công chúng                                                                       | 1774289915000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-chao-ban-co-phieu-ra-cong-chung/2446133                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |    volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| SHB      | 2026-03-11 00:00:00 |  14.34 |  14.64 | 14.19 |   14.54 |  52171165 |
 | SHB      | 2026-03-12 00:00:00 |  14.39 |  14.88 | 14.24 |   14.73 |  83319228 |
 | SHB      | 2026-03-13 00:00:00 |  14.44 |  14.73 | 14.39 |   14.73 |  57530008 |
 | SHB      | 2026-03-16 00:00:00 |  14.64 |  15.08 | 14.49 |   14.98 |  84215221 |

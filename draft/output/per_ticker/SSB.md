@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | SSB |
 | exchange | HOSE |
-| ev | 47653750000000 |
-| ceiling | 17950 |
-| floor | 15650 |
-| ref_price | 16800 |
+| ev | 47796000000000 |
+| ceiling | 17900 |
+| floor | 15600 |
+| ref_price | 16750 |
 | open | 16800 |
-| match_price | 16750 |
-| close_price | 16750 |
-| price_change | -50 |
-| price_change_pct | -0.00297619 |
+| match_price | 16800 |
+| close_price | 16800 |
+| price_change | 50 |
+| price_change_pct | 0.00298507 |
 | high | 16800 |
 | low | 16650 |
-| total_volume | 1938718 |
+| total_volume | 1853747 |
 | high_price_1y | 23800 |
 | low_price_1y | 15950 |
-| pct_low_change_1y | 0.027607362 |
-| pct_high_change_1y | -0.2748917749 |
-| foreign_volume | 250000 |
+| pct_low_change_1y | 0.0306748466 |
+| pct_high_change_1y | -0.2727272727 |
+| foreign_volume | 171400 |
 | foreign_room | 142250000 |
-| avg_match_volume_2w | 1875883 |
-| foreign_holding_room | 5137429 |
-| current_holding_ratio | 0.0018057746924428823 |
+| avg_match_volume_2w | 1861787 |
+| foreign_holding_room | 4779929 |
+| current_holding_ratio | 0.0016801156414762743 |
 | max_holding_ratio | 0.05 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 16.97 |
 | RSI(14) | 47.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.015 |
 | MACD Signal | -0.028 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 250000 |
+| KL khớp NN hôm nay | 171400 |
 | Room NN còn lại | 142250000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0018057746924428823 |
+| Tỷ lệ sở hữu NN hiện tại | 0.0016801156414762743 |
 | Tỷ lệ sở hữu NN tối đa | 0.05 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1461892187 |
 | roic | 0 |
 | roa | 0.0152588803 |
-| pe | 8.6493171207 |
-| pb | 1.1803489763 |
+| pe | 8.6751359778 |
+| pb | 1.1838724061 |
 | eps | 1936.5690685413006 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.03688997541252861 |
 | net_profit_margin | 0.5677692961359396 |
 | gross_margin | 0 |
-| ev | 47653750000000 |
+| ev | 47796000000000 |
 | issue_share | 2845000000 |
-| ps | 3.3764203408 |
-| pcf | 1.5663601247 |
+| ps | 3.3864992075 |
+| pcf | 1.5710358266 |
 | bvps | 14190.7184534271 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                           |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| SSB: Phó TGĐ đăng ký bán 90.000 cổ phiếu                                                             | 1775239800000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-tuan-cuong/2450456                 |
-| SSB: Link công bố Báo cáo thường niên năm 2025                                                       | 1775140175000 | https://www.hsx.vn/vi/tin-tuc/ssb-link-cong-bo-bao-cao-thuong-nien-nam-2025/2449755                                       |
-| SSB: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                                       | 1774537372000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2446967                       |
-| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Hồng Quang                           | 1773736473000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-hong-quang/2444613           |
-| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Thu Hương                        | 1773158552000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-thu-huong/2443145        |
-| SSB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Hồng Quang, Đặng Thu Trang                 | 1773158400000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-hong-quang-dang-thu-trang/2443144  |
-| SSB: Đường dẫn thông báo đề cử, ứng cử thành viên HĐQT, BKS nhiệm kỳ 2023-2028                       | 1772820060000 | https://www.hsx.vn/vi/tin-tuc/ssb-duong-dan-thong-bao-de-cu-ung-cu-thanh-vien-hdqt-bks-nhiem-ky-20232028/2442594          |
-| SSB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                          | 1772729940000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442117          |
-| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Tuấn Cường                           | 1772214859000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-tuan-cuong/2440818           |
-| SSB: Nghị quyết HĐQT về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1772212807000 | https://www.hsx.vn/vi/tin-tuc/ssb-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien… |
+| news_title                                                                                      |   public_date | news_source_link                                                                                                          |
+|:------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SSB: Nghị quyết HĐQT thông qua việc gia hạn Hợp đồng thuê trụ sở hiện tại của Chi nhánh Hà Đông | 1775579108000 | https://www.hsx.vn/vi/tin-tuc/ssb-nghi-quyet-hdqt-thong-qua-viec-gia-han-hop-dong-thue-tru-so-hien-tai-cua-chi-nhanh-ha-… |
+| SSB: Phó TGĐ đăng ký bán 90.000 cổ phiếu                                                        | 1775239800000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-tuan-cuong/2450456                 |
+| SSB: Link công bố Báo cáo thường niên năm 2025                                                  | 1775140175000 | https://www.hsx.vn/vi/tin-tuc/ssb-link-cong-bo-bao-cao-thuong-nien-nam-2025/2449755                                       |
+| SSB: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                                  | 1774537372000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2446967                       |
+| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Hồng Quang                      | 1773736473000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-hong-quang/2444613           |
+| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Thu Hương                   | 1773158552000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-thu-huong/2443145        |
+| SSB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Hồng Quang, Đặng Thu Trang            | 1773158400000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-hong-quang-dang-thu-trang/2443144  |
+| SSB: Đường dẫn thông báo đề cử, ứng cử thành viên HĐQT, BKS nhiệm kỳ 2023-2028                  | 1772820060000 | https://www.hsx.vn/vi/tin-tuc/ssb-duong-dan-thong-bao-de-cu-ung-cu-thanh-vien-hdqt-bks-nhiem-ky-20232028/2442594          |
+| SSB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                     | 1772729940000 | https://www.hsx.vn/vi/tin-tuc/ssb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442117          |
+| SSB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Tuấn Cường                      | 1772214859000 | https://www.hsx.vn/vi/tin-tuc/ssb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-tuan-cuong/2440818           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -139,25 +139,24 @@
 |:-------------------|:-------------------------------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 10.000.000 cổ phiếu                                           | 2025-06-04    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 339.300.000 cổ phiếu                                          | 2024-10-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | SSB - Phát hành cổ phiếu thưởng tỷ lệ 0,4127%                                        | 2024-08-14    | 2024-08-26    | 2024-08-23     | 0.004127 |       0 |
+| Phát hành cổ phiếu | SSB - Phát hành cổ phiếu trả cổ tức tỷ lệ 13,1826%                                   | 2024-08-14    | 2024-08-26    | 2024-08-23     | 0.131826 |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 42,000,000 cổ phiếu                                           | 2024-05-31    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 413,401,732 cổ phiếu                                          | 2023-08-01    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Phát hành cổ phiếu | SSB - Phát hành cổ phiếu thưởng tỷ lệ 5,7933%                                        | 2023-06-16    | 2023-06-26    | 2023-06-23     | 0.057933 |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 59,400,000 cổ phiếu                                           | 2023-02-16    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 321,098,268 cổ phiếu                                          | 2022-07-20    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | SSB - Phát hành cổ phiếu trả cổ tức tỷ lệ 12,7364%                                   | 2022-06-10    | 2022-06-17    | 2022-06-16     | 0.127364 |       0 |
+| Phát hành cổ phiếu | SSB - Phát hành cổ phiếu thưởng tỷ lệ 6,6092%                                        | 2022-06-10    | 2022-06-17    | 2022-06-16     | 0.066092 |       0 |
 | Phát hành cổ phiếu | SSB - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100 : 12,2633 giá 15.000 đồng/cp | 2022-01-12    | 2022-01-18    | 2022-01-17     | 0.122633 |       0 |
-| Niêm yết thêm      | SSB - Niêm yết bổ sung 2.953.801 cổ phiếu                                            | 2021-12-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 133.046.199 cổ phiếu                                          | 2021-12-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Niêm yết thêm      | SSB - Niêm yết bổ sung 2.953.801 cổ phiếu                                            | 2021-12-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Phát hành cổ phiếu | SSB - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100:10,1304 giá 15.000 đồng/cp   | 2021-10-08    | 2021-10-14    | 2021-10-13     | 0.101304 |       0 |
-| Niêm yết thêm      | SSB - Niêm yết bổ sung 110.244.161 cổ phiếu                                          | 2021-09-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+| Niêm yết thêm      | SSB - Niêm yết bổ sung 8.225.001 cổ phiếu                                            | 2021-09-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | SSB - Niêm yết bổ sung 7.050.001 cổ phiếu                                            | 2021-09-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SSB      | 2026-03-11 00:00:00 |  16.3  |  16.65 | 16.25 |   16.6  |  1996100 |
 | SSB      | 2026-03-12 00:00:00 |  16.35 |  16.55 | 16.3  |   16.55 |  2119000 |
 | SSB      | 2026-03-13 00:00:00 |  16.5  |  16.55 | 16.35 |   16.55 |  1559000 |
 | SSB      | 2026-03-16 00:00:00 |  16.55 |  16.55 | 16.35 |   16.55 |  2104500 |

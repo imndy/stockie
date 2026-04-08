@@ -11,7 +11,7 @@
 | --- | --- |
 | symbol | DSE |
 | exchange | HOSE |
-| ev | 9849745538000 |
+| ev | 7879800000000 |
 | ceiling | 24600 |
 | floor | 21400 |
 | ref_price | 23000 |
@@ -20,44 +20,44 @@
 | close_price | 23000 |
 | price_change | 0 |
 | price_change_pct | 0 |
-| high | 23250 |
+| high | 23100 |
 | low | 22850 |
-| total_volume | 206495 |
+| total_volume | 213882 |
 | high_price_1y | 30349 |
 | low_price_1y | 16856 |
 | pct_low_change_1y | 0.3466269347 |
 | pct_high_change_1y | -0.2421493913 |
-| foreign_volume | 23600 |
+| foreign_volume | 11600 |
 | foreign_room | 342600000 |
-| avg_match_volume_2w | 277558 |
-| foreign_holding_room | 38038708 |
-| current_holding_ratio | 0.11102950379451255 |
+| avg_match_volume_2w | 274362 |
+| foreign_holding_room | 38018608 |
+| current_holding_ratio | 0.11097083479276124 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.9 |
-| EMA20 | 23.42 |
-| EMA50 | 23.61 |
-| RSI(14) | 43.6 |
+| Giá đóng cửa | 23.85 |
+| EMA20 | 23.47 |
+| EMA50 | 23.62 |
+| RSI(14) | 53.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.185 |
-| MACD Signal | -0.137 |
-| MACD Histogram | -0.048 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.121 |
+| MACD Signal | -0.133 |
+| MACD Histogram | 0.011 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 23600 |
+| KL khớp NN hôm nay | 11600 |
 | Room NN còn lại | 342600000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11102950379451255 |
+| Tỷ lệ sở hữu NN hiện tại | 0.11097083479276124 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -148,7 +148,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DSE      | 2026-03-11 00:00:00 |  24.1  |  24.7  | 23.9  |   24.4  |   464600 |
 | DSE      | 2026-03-12 00:00:00 |  24.4  |  24.4  | 24    |   24    |   321200 |
 | DSE      | 2026-03-13 00:00:00 |  23.9  |  23.9  | 23.1  |   23.15 |   559900 |
 | DSE      | 2026-03-16 00:00:00 |  23.15 |  23.7  | 23.15 |   23.35 |   354900 |

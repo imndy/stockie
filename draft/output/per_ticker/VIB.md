@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VIB |
 | exchange | HOSE |
-| ev | 56676694905000 |
+| ev | 56846895190000 |
 | ceiling | 17800 |
 | floor | 15500 |
 | ref_price | 16650 |
-| open | 16650 |
-| match_price | 16650 |
-| close_price | 16650 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 16850 |
+| open | 16700 |
+| match_price | 16700 |
+| close_price | 16700 |
+| price_change | 50 |
+| price_change_pct | 0.003003 |
+| high | 16800 |
 | low | 16550 |
-| total_volume | 4630642 |
+| total_volume | 2728266 |
 | high_price_1y | 24800 |
 | low_price_1y | 13754 |
-| pct_low_change_1y | 0.1641688848 |
-| pct_high_change_1y | -0.2944915254 |
-| foreign_volume | 901000 |
+| pct_low_change_1y | 0.1676648875 |
+| pct_high_change_1y | -0.2923728814 |
+| foreign_volume | 161100 |
 | foreign_room | 169859884 |
-| avg_match_volume_2w | 4831354 |
-| foreign_holding_room | 169859884 |
-| current_holding_ratio | 0.04989999972708624 |
+| avg_match_volume_2w | 4616010 |
+| foreign_holding_room | 169665884 |
+| current_holding_ratio | 0.04984300804830319 |
 | max_holding_ratio | 0.0499 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 901000 |
+| KL khớp NN hôm nay | 161100 |
 | Room NN còn lại | 169859884 |
-| Tỷ lệ sở hữu NN hiện tại | 0.04989999972708624 |
+| Tỷ lệ sở hữu NN hiện tại | 0.04984300804830319 |
 | Tỷ lệ sở hữu NN tối đa | 0.0499 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1641480978 |
 | roic | 0 |
 | roa | 0.0138868386 |
-| pe | 7.779457754 |
-| pb | 1.2083362175 |
+| pe | 7.802819489 |
+| pb | 1.2119648548 |
 | eps | 2140.2519978153973 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.018054870745576476 |
 | net_profit_margin | 0.4527316407492841 |
 | gross_margin | 0 |
-| ev | 56676694905000 |
+| ev | 56846895190000 |
 | issue_share | 3404005710 |
-| ps | 2.8328940828 |
-| pcf | 4.3815215872 |
+| ps | 2.8414012722 |
+| pcf | 4.3946793097 |
 | bvps | 13779.2774553815 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2026-03-11 00:00:00 |  16.25 |  17.2  | 16.2  |   17.05 | 11598900 |
 | VIB      | 2026-03-12 00:00:00 |  17    |  17    | 16.6  |   16.65 |  3945300 |
 | VIB      | 2026-03-13 00:00:00 |  16.65 |  17    | 16.55 |   16.9  |  4482400 |
 | VIB      | 2026-03-16 00:00:00 |  16.9  |  17    | 16.75 |   17    |  2941300 |

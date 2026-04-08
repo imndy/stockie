@@ -12,26 +12,26 @@
 | symbol | EIB |
 | exchange | HOSE |
 | ev | 41300714260000 |
-| ceiling | 23700 |
+| ceiling | 23600 |
 | floor | 20600 |
-| ref_price | 22150 |
-| open | 22200 |
+| ref_price | 22100 |
+| open | 22450 |
 | match_price | 22100 |
 | close_price | 22100 |
-| price_change | -50 |
-| price_change_pct | -0.00225734 |
+| price_change | 0 |
+| price_change_pct | 0 |
 | high | 22450 |
 | low | 21800 |
-| total_volume | 11013591 |
+| total_volume | 8266906 |
 | high_price_1y | 31650 |
 | low_price_1y | 15600 |
 | pct_low_change_1y | 0.4166666667 |
 | pct_high_change_1y | -0.2893890675 |
-| foreign_volume | 1800800 |
+| foreign_volume | 1172500 |
 | foreign_room | 560090574 |
-| avg_match_volume_2w | 9280027 |
-| foreign_holding_room | 61046375 |
-| current_holding_ratio | 0.032665897106608194 |
+| avg_match_volume_2w | 9548506 |
+| foreign_holding_room | 59647669 |
+| current_holding_ratio | 0.031917449941999396 |
 | max_holding_ratio | 0.2997043 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1800800 |
+| KL khớp NN hôm nay | 1172500 |
 | Room NN còn lại | 560090574 |
-| Tỷ lệ sở hữu NN hiện tại | 0.032665897106608194 |
+| Tỷ lệ sở hữu NN hiện tại | 0.031917449941999396 |
 | Tỷ lệ sở hữu NN tối đa | 0.2997043 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EIB      | 2026-03-11 00:00:00 |  21.2  |  22.5  | 21.1  |   22.45 | 12062300 |
 | EIB      | 2026-03-12 00:00:00 |  22.1  |  23.3  | 22.05 |   22.55 | 13211300 |
 | EIB      | 2026-03-13 00:00:00 |  22.3  |  22.9  | 22.3  |   22.5  |  6430000 |
 | EIB      | 2026-03-16 00:00:00 |  22.55 |  22.85 | 22    |   22.35 |  6779800 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | STB |
 | exchange | HOSE |
-| ev | 115375201819200 |
-| ceiling | 65000 |
-| floor | 56600 |
-| ref_price | 60800 |
-| open | 60800 |
-| match_price | 61200 |
-| close_price | 61200 |
-| price_change | 400 |
-| price_change_pct | 0.00657895 |
-| high | 62100 |
-| low | 59600 |
-| total_volume | 20493518 |
+| ev | 116317809677200 |
+| ceiling | 65400 |
+| floor | 57000 |
+| ref_price | 61200 |
+| open | 61500 |
+| match_price | 61700 |
+| close_price | 61700 |
+| price_change | 500 |
+| price_change_pct | 0.00816993 |
+| high | 62000 |
+| low | 61000 |
+| total_volume | 2933538 |
 | high_price_1y | 70200 |
 | low_price_1y | 32400 |
-| pct_low_change_1y | 0.8489425982 |
-| pct_high_change_1y | -0.0973451327 |
-| foreign_volume | 863900 |
+| pct_low_change_1y | 0.8640483384 |
+| pct_high_change_1y | -0.0899705015 |
+| foreign_volume | 522107 |
 | foreign_room | 565564714 |
-| avg_match_volume_2w | 5747023 |
-| foreign_holding_room | 236393833 |
-| current_holding_ratio | 0.12539351915735886 |
+| avg_match_volume_2w | 5436343 |
+| foreign_holding_room | 235347396 |
+| current_holding_ratio | 0.12483844368715204 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 863900 |
+| KL khớp NN hôm nay | 522107 |
 | Room NN còn lại | 565564714 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12539351915735886 |
+| Tỷ lệ sở hữu NN hiện tại | 0.12483844368715204 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1034338617 |
 | roic | 0 |
 | roa | 0.007133149 |
-| pe | 19.4263418953 |
-| pb | 1.9272001972 |
+| pe | 19.5850538389 |
+| pb | 1.9429452968 |
 | eps | 3150.361520965479 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.11767159075830147 |
 | net_profit_margin | 0.22260020363846145 |
 | gross_margin | 0 |
-| ev | 115375200840000 |
+| ev | 116317808690000 |
 | issue_share | 1885215716 |
-| ps | 3.5991002324 |
-| pcf | 1.2475961402 |
+| ps | 3.6285046461 |
+| pcf | 1.2577889191 |
 | bvps | 31755.9120688418 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -156,7 +156,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| STB      | 2026-03-11 00:00:00 |   65.1 |   67.4 |  64.5 |    66.3 |  9254700 |
 | STB      | 2026-03-12 00:00:00 |   65.6 |   67.1 |  65.1 |    65.7 |  6081700 |
 | STB      | 2026-03-13 00:00:00 |   65   |   67   |  64.9 |    65.8 |  6921900 |
 | STB      | 2026-03-16 00:00:00 |   65.7 |   68.9 |  65.6 |    66.6 | 10881400 |

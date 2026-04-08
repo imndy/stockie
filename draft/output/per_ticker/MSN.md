@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | MSN |
 | exchange | HOSE |
-| ev | 114493047600000 |
+| ev | 114188949200000 |
 | ceiling | 80500 |
 | floor | 70100 |
 | ref_price | 75300 |
-| open | 75100 |
-| match_price | 75300 |
-| close_price | 75300 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 76200 |
-| low | 74500 |
-| total_volume | 5448158 |
+| open | 75400 |
+| match_price | 75100 |
+| close_price | 75100 |
+| price_change | -200 |
+| price_change_pct | -0.00265604 |
+| high | 75700 |
+| low | 74300 |
+| total_volume | 4090639 |
 | high_price_1y | 94000 |
 | low_price_1y | 50300 |
-| pct_low_change_1y | 0.4970178926 |
-| pct_high_change_1y | -0.1491525424 |
-| foreign_volume | 1674301 |
+| pct_low_change_1y | 0.4930417495 |
+| pct_high_change_1y | -0.1514124294 |
+| foreign_volume | 873765 |
 | foreign_room | 1520491927 |
-| avg_match_volume_2w | 5178141 |
-| foreign_holding_room | 367201846 |
-| current_holding_ratio | 0.2539580334536807 |
+| avg_match_volume_2w | 5128204 |
+| foreign_holding_room | 366538046 |
+| current_holding_ratio | 0.25349894713795845 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 74.7 |
-| EMA20 | 74.72 |
-| EMA50 | 75.81 |
-| RSI(14) | 49.1 |
+| Giá đóng cửa | 76.8 |
+| EMA20 | 74.95 |
+| EMA50 | 75.86 |
+| RSI(14) | 56.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.175 |
-| MACD Signal | -0.593 |
-| MACD Histogram | 0.418 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.028 |
+| MACD Signal | -0.464 |
+| MACD Histogram | 0.491 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1674301 |
+| KL khớp NN hôm nay | 873765 |
 | Room NN còn lại | 1520491927 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2539580334536807 |
+| Tỷ lệ sở hữu NN hiện tại | 0.25349894713795845 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.125271969 |
 | roic | 0.0697033305 |
 | roa | 0.0297113532 |
-| pe | 27.8686757023 |
-| pb | 3.2390104762 |
+| pe | 27.7946553154 |
+| pb | 3.2304075268 |
 | eps | 2701.958313493264 |
 | current_ratio | 0.900068745 |
 | cash_ratio | 0.3956014877 |
@@ -94,12 +94,12 @@
 | fae | 0.7871625419788582 |
 | net_profit_margin | 0.050333730782550726 |
 | gross_margin | 0.31340594809476824 |
-| ev | 114493047600000 |
+| ev | 114188949200000 |
 | issue_share | 1445915457 |
-| ps | 1.4027344201 |
-| pcf | 83.5978063188 |
+| ps | 1.3990086978 |
+| pcf | 83.3757669926 |
 | bvps | 23247.840830468 |
-| ev_per_ebitda | 15.0787416525 |
+| ev_per_ebitda | 15.0513280951 |
 | at | 0.5902871238 |
 | fat | 2.2505677407 |
 | acp | 5.7623425550916245 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSN      | 2026-03-11 00:00:00 |   69.3 |   73   |  69.1 |    73   | 10575800 |
 | MSN      | 2026-03-12 00:00:00 |   73.2 |   74.5 |  71.8 |    73.1 |  8489100 |
 | MSN      | 2026-03-13 00:00:00 |   73.4 |   74.7 |  72.7 |    73.9 |  8344100 |
 | MSN      | 2026-03-16 00:00:00 |   74.7 |   75.2 |  73.4 |    73.5 |  4578400 |

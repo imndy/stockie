@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | SAB |
 | exchange | HOSE |
-| ev | 56945769316800 |
-| ceiling | 47150 |
-| floor | 41050 |
-| ref_price | 44100 |
-| open | 44200 |
-| match_price | 44400 |
-| close_price | 44400 |
-| price_change | 300 |
-| price_change_pct | 0.00680272 |
-| high | 44750 |
-| low | 44050 |
-| total_volume | 755411 |
+| ev | 56496872486600 |
+| ceiling | 47500 |
+| floor | 41300 |
+| ref_price | 44400 |
+| open | 44450 |
+| match_price | 44050 |
+| close_price | 44050 |
+| price_change | -350 |
+| price_change_pct | -0.00788288 |
+| high | 44600 |
+| low | 43900 |
+| total_volume | 475940 |
 | high_price_1y | 57100 |
 | low_price_1y | 37442 |
-| pct_low_change_1y | 0.1552030743 |
-| pct_high_change_1y | -0.1731843575 |
-| foreign_volume | 395060 |
+| pct_low_change_1y | 0.1460967437 |
+| pct_high_change_1y | -0.1797020484 |
+| foreign_volume | 278500 |
 | foreign_room | 1282562372 |
-| avg_match_volume_2w | 556473 |
-| foreign_holding_room | 749538417 |
-| current_holding_ratio | 0.5844069913194054 |
+| avg_match_volume_2w | 519398 |
+| foreign_holding_room | 749363757 |
+| current_holding_ratio | 0.5842708108077882 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 44.15 |
-| EMA20 | 44.6 |
-| EMA50 | 45.85 |
-| RSI(14) | 44.2 |
+| Giá đóng cửa | 44.8 |
+| EMA20 | 44.61 |
+| EMA50 | 45.8 |
+| RSI(14) | 49.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.626 |
-| MACD Signal | -0.82 |
-| MACD Histogram | 0.195 |
+| MACD | -0.544 |
+| MACD Signal | -0.766 |
+| MACD Histogram | 0.222 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 395060 |
+| KL khớp NN hôm nay | 278500 |
 | Room NN còn lại | 1282562372 |
-| Tỷ lệ sở hữu NN hiện tại | 0.5844069913194054 |
+| Tỷ lệ sở hữu NN hiện tại | 0.5842708108077882 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1991020316 |
 | roic | 0.1832545605 |
 | roa | 0.1339720429 |
-| pe | 12.8733484045 |
-| pb | 2.6921169971 |
+| pe | 12.7718693067 |
+| pb | 2.6708953541 |
 | eps | 3448.986122707645 |
 | current_ratio | 2.4932744299 |
 | cash_ratio | 0.4523372141 |
@@ -94,12 +94,12 @@
 | fae | 0.22036092031233687 |
 | net_profit_margin | 0.170870943152606 |
 | gross_margin | 0.35925879809750805 |
-| ev | 56945769316800 |
+| ev | 56496872486600 |
 | issue_share | 1282562372 |
-| ps | 2.1996811834 |
-| pcf | 14.6056566679 |
+| ps | 2.1823413543 |
+| pcf | 14.490521987 |
 | bvps | 16492.5967359855 |
-| ev_per_ebitda | 10.6199844297 |
+| ev_per_ebitda | 10.53065003 |
 | at | 0.7840539794 |
 | fat | 5.9777520279 |
 | acp | 8.054858409414555 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.0073016191 |
 | charter_capital_ratio | 1.793270688324388 |
 | rtq10 | 0.4172876397 |
-| dividend | 0.045045045 |
+| dividend | 0.0454029512 |
 | ebitda | 5024904531235 |
 | ebit | 4294632063801 |
 | le | 0.0262374319 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SAB      | 2026-03-11 00:00:00 |  44.6  |  45    | 44.05 |   44.8  |   966300 |
 | SAB      | 2026-03-12 00:00:00 |  44.65 |  44.65 | 43.7  |   43.75 |   824200 |
 | SAB      | 2026-03-13 00:00:00 |  43.75 |  44.65 | 43.65 |   44.4  |   599500 |
 | SAB      | 2026-03-16 00:00:00 |  44.2  |  44.65 | 44.1  |   44.5  |   465900 |

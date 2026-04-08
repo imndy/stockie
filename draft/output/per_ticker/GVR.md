@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | GVR |
 | exchange | HOSE |
-| ev | 125800000000000 |
-| ceiling | 34250 |
-| floor | 29850 |
-| ref_price | 32050 |
-| open | 31900 |
-| match_price | 31450 |
-| close_price | 31450 |
-| price_change | -600 |
-| price_change_pct | -0.01872075 |
-| high | 31900 |
-| low | 30850 |
-| total_volume | 1874462 |
+| ev | 126000000000000 |
+| ceiling | 33650 |
+| floor | 29250 |
+| ref_price | 31450 |
+| open | 31600 |
+| match_price | 31500 |
+| close_price | 31500 |
+| price_change | 50 |
+| price_change_pct | 0.00158983 |
+| high | 31850 |
+| low | 30500 |
+| total_volume | 1806438 |
 | high_price_1y | 46500 |
 | low_price_1y | 21394 |
-| pct_low_change_1y | 0.4304837218 |
-| pct_high_change_1y | -0.312568306 |
-| foreign_volume | 380400 |
+| pct_low_change_1y | 0.4327579408 |
+| pct_high_change_1y | -0.3114754098 |
+| foreign_volume | 813835 |
 | foreign_room | 520000000 |
-| avg_match_volume_2w | 3396060 |
-| foreign_holding_room | 29115926 |
-| current_holding_ratio | 0.0072789815 |
+| avg_match_volume_2w | 3189850 |
+| foreign_holding_room | 28925061 |
+| current_holding_ratio | 0.00723126525 |
 | max_holding_ratio | 0.13 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 30.8 |
-| EMA20 | 32.69 |
-| EMA50 | 33.91 |
-| RSI(14) | 41.6 |
+| Giá đóng cửa | 32.35 |
+| EMA20 | 32.72 |
+| EMA50 | 33.88 |
+| RSI(14) | 46.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.335 |
-| MACD Signal | -1.481 |
-| MACD Histogram | 0.147 |
+| MACD | -1.155 |
+| MACD Signal | -1.407 |
+| MACD Histogram | 0.252 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 380400 |
+| KL khớp NN hôm nay | 813835 |
 | Room NN còn lại | 520000000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0072789815 |
+| Tỷ lệ sở hữu NN hiện tại | 0.00723126525 |
 | Tỷ lệ sở hữu NN tối đa | 0.13 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0972856832 |
 | roic | 0.0761940681 |
 | roa | 0.0626943177 |
-| pe | 23.6530563747 |
-| pb | 2.2341062896 |
+| pe | 23.6906605979 |
+| pb | 2.2376581279 |
 | eps | 1329.63789126275 |
 | current_ratio | 3.0075152423 |
 | cash_ratio | 0.753016333 |
@@ -94,12 +94,12 @@
 | fae | 0.5661916271795823 |
 | net_profit_margin | 0.18290602448770213 |
 | gross_margin | 0.2975665477725818 |
-| ev | 125800000000000 |
+| ev | 126000000000000 |
 | issue_share | 4000000000 |
-| ps | 4.3262865085 |
-| pcf | 18.0893991686 |
+| ps | 4.3331645474 |
+| pcf | 18.1181581498 |
 | bvps | 14077.2174300473 |
-| ev_per_ebitda | 14.9394399483 |
+| ev_per_ebitda | 14.9642283999 |
 | at | 0.3427679206 |
 | fat | 0.8242643363 |
 | acp | 19.420255288675925 |
@@ -151,7 +151,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GVR      | 2026-03-11 00:00:00 |  33.35 |  35.65 | 33.35 |   35.65 |  4178200 |
 | GVR      | 2026-03-12 00:00:00 |  35.7  |  37.85 | 35.1  |   35.8  |  5803200 |
 | GVR      | 2026-03-13 00:00:00 |  35.3  |  36.05 | 33.3  |   34    |  7857500 |
 | GVR      | 2026-03-16 00:00:00 |  33.3  |  34.4  | 32.5  |   33.05 |  4862300 |

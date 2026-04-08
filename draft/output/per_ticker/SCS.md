@@ -12,26 +12,26 @@
 | symbol | SCS |
 | exchange | HOSE |
 | ev | 5420287744200 |
-| ceiling | 57600 |
-| floor | 50200 |
-| ref_price | 53900 |
+| ceiling | 56800 |
+| floor | 49400 |
+| ref_price | 53100 |
 | open | 53900 |
 | match_price | 53100 |
 | close_price | 53100 |
-| price_change | -800 |
-| price_change_pct | -0.0148423 |
-| high | 54200 |
-| low | 53100 |
-| total_volume | 81288 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 53900 |
+| low | 52900 |
+| total_volume | 81372 |
 | high_price_1y | 63299 |
 | low_price_1y | 47270 |
 | pct_low_change_1y | 0.1126226794 |
 | pct_high_change_1y | -0.1587095469 |
-| foreign_volume | 12300 |
+| foreign_volume | 38250 |
 | foreign_room | 30623094 |
-| avg_match_volume_2w | 187240 |
-| foreign_holding_room | 11013669 |
-| current_holding_ratio | 0.11607144381512735 |
+| avg_match_volume_2w | 179151 |
+| foreign_holding_room | 11000269 |
+| current_holding_ratio | 0.11593022317855994 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 12300 |
+| KL khớp NN hôm nay | 38250 |
 | Room NN còn lại | 30623094 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11607144381512735 |
+| Tỷ lệ sở hữu NN hiện tại | 0.11593022317855994 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SCS      | 2026-03-11 00:00:00 |   52.7 |   53.6 |  52.7 |    53.6 |   189300 |
 | SCS      | 2026-03-12 00:00:00 |   53.6 |   53.7 |  52.6 |    53   |   209800 |
 | SCS      | 2026-03-13 00:00:00 |   53   |   53   |  52.3 |    52.9 |   267100 |
 | SCS      | 2026-03-16 00:00:00 |   53   |   54   |  52.4 |    53.6 |   369900 |

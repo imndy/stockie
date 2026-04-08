@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | CII |
 | exchange | HOSE |
-| ev | 10882837325400 |
-| ceiling | 19250 |
-| floor | 16750 |
-| ref_price | 18000 |
-| open | 17950 |
-| match_price | 17400 |
-| close_price | 17400 |
-| price_change | -600 |
-| price_change_pct | -0.03333333 |
-| high | 18450 |
+| ev | 12028536708900 |
+| ceiling | 18600 |
+| floor | 16200 |
+| ref_price | 17400 |
+| open | 17650 |
+| match_price | 17900 |
+| close_price | 17900 |
+| price_change | 500 |
+| price_change_pct | 0.02873563 |
+| high | 17950 |
 | low | 17400 |
-| total_volume | 13276330 |
+| total_volume | 8786930 |
 | high_price_1y | 31350 |
 | low_price_1y | 9015 |
-| pct_low_change_1y | 0.9300446916 |
-| pct_high_change_1y | -0.4266886326 |
-| foreign_volume | 498100 |
+| pct_low_change_1y | 0.9855057459 |
+| pct_high_change_1y | -0.410214168 |
+| foreign_volume | 997700 |
 | foreign_room | 268794116 |
-| avg_match_volume_2w | 21579140 |
-| foreign_holding_room | 35001245 |
-| current_holding_ratio | 0.05208632609787288 |
+| avg_match_volume_2w | 21108531 |
+| foreign_holding_room | 35409145 |
+| current_holding_ratio | 0.05269333343190692 |
 | max_holding_ratio | 0.4 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 17.45 |
-| EMA20 | 17.54 |
-| EMA50 | 18.02 |
-| RSI(14) | 49.5 |
+| Giá đóng cửa | 18.65 |
+| EMA20 | 17.68 |
+| EMA50 | 18.06 |
+| RSI(14) | 57.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.201 |
-| MACD Signal | 0.116 |
-| MACD Histogram | 0.085 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.289 |
+| MACD Signal | 0.156 |
+| MACD Histogram | 0.132 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 498100 |
+| KL khớp NN hôm nay | 997700 |
 | Room NN còn lại | 268794116 |
-| Tỷ lệ sở hữu NN hiện tại | 0.05208632609787288 |
+| Tỷ lệ sở hữu NN hiện tại | 0.05269333343190692 |
 | Tỷ lệ sở hữu NN tối đa | 0.4 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0165900439 |
 | roic | 0.0338955009 |
 | roa | 0.0033418885 |
-| pe | 87.7201532677 |
-| pb | 1.2191709095 |
+| pe | 90.2408473271 |
+| pb | 1.2542045563 |
 | eps | 198.35806655408743 |
 | current_ratio | 1.5522787703 |
 | cash_ratio | 0.1609043022 |
@@ -94,12 +94,12 @@
 | fae | 1.3107363657514275 |
 | net_profit_margin | 0.04190943283975903 |
 | gross_margin | 0.561363933436694 |
-| ev | 10882837325400 |
+| ev | 11195562535900 |
 | issue_share | 671985291 |
-| ps | 3.6763018721 |
-| pcf | -21.6856774585 |
+| ps | 3.7819427305 |
+| pcf | -22.3088291096 |
 | bvps | 14271.9940776457 |
-| ev_per_ebitda | 14.9496934671 |
+| ev_per_ebitda | 15.1041978787 |
 | at | 0.0797407232 |
 | fat | 0.1853877621 |
 | acp | 78.94443202171739 |
@@ -122,6 +122,8 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025                                                         | 1775552046000 | https://www.hsx.vn/vi/tin-tuc/cii-thu-moi-va-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2025/2450913                    |
+| CII: HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2025                                                                   | 1775551973000 | https://www.hsx.vn/vi/tin-tuc/cii-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2025/2450912                              |
 | CII: CBTT về việc UBND TP.HCM  ban hành công văn giao liên danh CII-HFIC làm nhà đầu tư đề xuất dự án BOT Võ Nguyên GIáp… | 1774880866000 | https://www.hsx.vn/vi/tin-tuc/cii-cbtt-ve-viec-ubnd-tp.hcm--ban-hanh-cong-van-giao-lien-danh-ciihfic-lam-nha-dau-tu-de-x… |
 | CII: Nghị quyết HĐQT người sở hữu trái phiếu CII425021                                                                    | 1774639790000 | https://www.hsx.vn/vi/tin-tuc/cii-nghi-quyet-hdqt-nguoi-so-huu-trai-phieu-cii425021/2447697                               |
 | CII: Giải trình biến động KQKD HN đã kiểm toán năm 2025                                                                   | 1774632790000 | https://www.hsx.vn/vi/tin-tuc/cii-giai-trinh-bien-dong-kqkd-hn-da-kiem-toan-nam-2025/2447576                              |
@@ -130,8 +132,6 @@
 | CII: Nghị quyết HĐQT thông qua kế hoạch phân phối trái phiếu chuyển đổi ra công chúng năm 2026                            | 1773424534000 | https://www.hsx.vn/vi/tin-tuc/cii-nghi-quyet-hdqt-thong-qua-ke-hoach-phan-phoi-trai-phieu-chuyen-doi-ra-cong-chung-nam-2… |
 | CII: Điều chỉnh Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 42                                                  | 1773337948000 | https://www.hsx.vn/vi/tin-tuc/cii-dieu-chinh-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-42/2443941             |
 | CII: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 1772818874000 | https://www.hsx.vn/vi/tin-tuc/cii-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2442521                       |
-| CII: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2025                                                                 | 1772558169000 | https://www.hsx.vn/vi/tin-tuc/cii-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2025/2441527                            |
-| CII: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                                | 1772130720000 | https://www.hsx.vn/vi/tin-tuc/cii-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet/2440449           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CII      | 2026-03-11 00:00:00 |  14.85 |  15.8  | 14.85 |   15.8  | 15622600 |
 | CII      | 2026-03-12 00:00:00 |  15.7  |  16.45 | 15.7  |   16.2  | 12460400 |
 | CII      | 2026-03-13 00:00:00 |  15.9  |  16.95 | 15.9  |   16.65 | 14772400 |
 | CII      | 2026-03-16 00:00:00 |  17.05 |  17.5  | 16.65 |   17    | 14517200 |
@@ -176,22 +175,23 @@
 | CII      | 2026-04-02 00:00:00 |  18.15 |  18.75 | 18.1  |   18.5  | 16804800 |
 | CII      | 2026-04-03 00:00:00 |  18.4  |  18.9  | 17.8  |   18    | 22153000 |
 | CII      | 2026-04-06 00:00:00 |  17.95 |  18.45 | 17.4  |   17.4  | 13265900 |
-| CII      | 2026-04-07 00:00:00 |  17.65 |  17.95 | 17.4  |   17.45 |  4259600 |
+| CII      | 2026-04-07 00:00:00 |  17.65 |  17.95 | 17.4  |   17.9  |  8763200 |
+| CII      | 2026-04-08 00:00:00 |  18.45 |  18.8  | 18.1  |   18.65 | 14940400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CII      | 2026-04-07 11:28:53 |   17.4  |     1000 | Sell         | 460075262 |
-| CII      | 2026-04-07 11:28:53 |   17.45 |    17800 | Sell         | 460075238 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      100 | Sell         | 460075239 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      200 | Sell         | 460075240 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      100 | Sell         | 460075241 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      100 | Sell         | 460075242 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      300 | Sell         | 460075243 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      100 | Sell         | 460075244 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |     5000 | Sell         | 460075245 |
-| CII      | 2026-04-07 11:28:53 |   17.4  |      100 | Sell         | 460075246 |
+| CII      | 2026-04-08 11:26:34 |   18.65 |      100 | Sell         | 460753066 |
+| CII      | 2026-04-08 11:26:41 |   18.65 |      100 | Sell         | 460753293 |
+| CII      | 2026-04-08 11:26:42 |   18.7  |      100 | Buy          | 460753298 |
+| CII      | 2026-04-08 11:26:42 |   18.7  |      100 | Buy          | 460753296 |
+| CII      | 2026-04-08 11:26:43 |   18.7  |     2400 | Buy          | 460753321 |
+| CII      | 2026-04-08 11:26:43 |   18.65 |    10000 | Sell         | 460753312 |
+| CII      | 2026-04-08 11:26:58 |   18.7  |      100 | Buy          | 460753787 |
+| CII      | 2026-04-08 11:27:00 |   18.65 |     2000 | Sell         | 460753867 |
+| CII      | 2026-04-08 11:27:03 |   18.65 |      700 | Sell         | 460753937 |
+| CII      | 2026-04-08 11:27:03 |   18.65 |      100 | Sell         | 460753938 |
 
 <!-- END:DAILY -->
 

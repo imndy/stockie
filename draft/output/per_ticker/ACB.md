@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | ACB |
 | exchange | HOSE |
-| ev | 119427265926750 |
-| ceiling | 25100 |
-| floor | 21900 |
-| ref_price | 23500 |
-| open | 23500 |
-| match_price | 23250 |
-| close_price | 23250 |
-| price_change | -250 |
-| price_change_pct | -0.0106383 |
-| high | 23500 |
-| low | 23200 |
-| total_volume | 5563133 |
+| ev | 119170433096800 |
+| ceiling | 24850 |
+| floor | 21650 |
+| ref_price | 23250 |
+| open | 23250 |
+| match_price | 23200 |
+| close_price | 23200 |
+| price_change | -50 |
+| price_change_pct | -0.00215054 |
+| high | 23400 |
+| low | 23150 |
+| total_volume | 10782007 |
 | high_price_1y | 29500 |
 | low_price_1y | 17337 |
-| pct_low_change_1y | 0.2764976199 |
-| pct_high_change_1y | -0.2105263158 |
-| foreign_volume | 2184898 |
+| pct_low_change_1y | 0.2737524638 |
+| pct_high_change_1y | -0.2122241087 |
+| foreign_volume | 3914600 |
 | foreign_room | 1540996979 |
-| avg_match_volume_2w | 9957552 |
-| foreign_holding_room | 1413619984 |
-| current_holding_ratio | 0.27520235327298354 |
+| avg_match_volume_2w | 9604712 |
+| foreign_holding_room | 1413164984 |
+| current_holding_ratio | 0.2751137742544662 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.3 |
-| EMA20 | 23.48 |
+| Giá đóng cửa | 23.8 |
+| EMA20 | 23.51 |
 | EMA50 | 23.69 |
-| RSI(14) | 47.0 |
+| RSI(14) | 53.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.045 |
-| MACD Signal | -0.053 |
-| MACD Histogram | 0.008 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.021 |
+| MACD Signal | -0.048 |
+| MACD Histogram | 0.027 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2184898 |
+| KL khớp NN hôm nay | 3914600 |
 | Room NN còn lại | 1540996979 |
-| Tỷ lệ sở hữu NN hiện tại | 0.27520235327298354 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2751137742544662 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1755767655 |
 | roic | 0 |
 | roa | 0.0165353343 |
-| pe | 7.643492265 |
-| pb | 1.2635169382 |
+| pe | 7.6270546473 |
+| pb | 1.2607996975 |
 | eps | 3041.803300613866 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.057538787223859605 |
 | net_profit_margin | 0.580720884556225 |
 | gross_margin | 0 |
-| ev | 119427265950000 |
+| ev | 119170433120000 |
 | issue_share | 5136656599 |
-| ps | 3.5335723823 |
-| pcf | 4.2410139245 |
+| ps | 3.5259733019 |
+| pcf | 4.2318934645 |
 | bvps | 18401.0196437893 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                     |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                            | 1775559500000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny/2451047                  |
 | ACB: Nghị quyết HĐQT số 1313, 1314 ngày 02/04/2026                                             | 1775239167000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-1313-1314-ngay-02042026/2450447                                      |
 | ACB: Nghị quyết HĐQT về việc bổ sung tài liệu ĐHĐCĐTN 2026                                     | 1774029843000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-sung-tai-lieu-dhdcdtn-2026/2445766                           |
 | ACB: Báo cáo thường niên năm 2025                                                              | 1774028907000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-thuong-nien-nam-2025/2445759                                                    |
@@ -131,7 +132,6 @@
 | ACB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                    | 1770918123000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2438916          |
 | ACB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đặng Thu Hà    | 1770918074000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dang-thu-ha… |
 | ACB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1770385713000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| ACB: Báo cáo tình hình quản trị công ty năm 2025                                               | 1770040570000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436170                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ACB      | 2026-03-11 00:00:00 |  23.05 |  23.6  | 23    |   23.2  | 18301200 |
 | ACB      | 2026-03-12 00:00:00 |  23    |  23.25 | 22.6  |   23.15 | 15668600 |
 | ACB      | 2026-03-13 00:00:00 |  22.95 |  23.45 | 22.8  |   23.45 | 15525700 |
 | ACB      | 2026-03-16 00:00:00 |  23.4  |  23.45 | 23.25 |   23.45 |  9534100 |
@@ -176,22 +175,23 @@
 | ACB      | 2026-04-02 00:00:00 |  23.7  |  23.7  | 23.3  |   23.6  |  9767900 |
 | ACB      | 2026-04-03 00:00:00 |  23.6  |  23.7  | 23.25 |   23.5  | 11386300 |
 | ACB      | 2026-04-06 00:00:00 |  23.5  |  23.5  | 23.2  |   23.25 |  5554000 |
-| ACB      | 2026-04-07 00:00:00 |  23.25 |  23.4  | 23.15 |   23.3  |  5726300 |
+| ACB      | 2026-04-07 00:00:00 |  23.25 |  23.4  | 23.15 |   23.2  | 10472700 |
+| ACB      | 2026-04-08 00:00:00 |  23.7  |  23.95 | 23.55 |   23.8  |  6152900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ACB      | 2026-04-07 11:19:26 |   23.2  |     9600 | Sell         | 460060597 |
-| ACB      | 2026-04-07 11:19:30 |   23.25 |      300 | Buy          | 460060659 |
-| ACB      | 2026-04-07 11:19:30 |   23.25 |      400 | Buy          | 460060660 |
-| ACB      | 2026-04-07 11:19:47 |   23.2  |     2000 | Sell         | 460061317 |
-| ACB      | 2026-04-07 11:19:55 |   23.2  |     5400 | Sell         | 460061517 |
-| ACB      | 2026-04-07 11:20:37 |   23.2  |     2000 | Sell         | 460063184 |
-| ACB      | 2026-04-07 11:20:49 |   23.2  |      800 | Sell         | 460063574 |
-| ACB      | 2026-04-07 11:20:49 |   23.2  |     1000 | Sell         | 460063571 |
-| ACB      | 2026-04-07 11:20:49 |   23.2  |      200 | Sell         | 460063570 |
-| ACB      | 2026-04-07 11:20:49 |   23.2  |     7000 | Sell         | 460063573 |
+| ACB      | 2026-04-08 11:24:22 |   23.8  |     4400 | Buy          | 460749203 |
+| ACB      | 2026-04-08 11:24:30 |   23.75 |      900 | Sell         | 460749420 |
+| ACB      | 2026-04-08 11:24:39 |   23.8  |      200 | Buy          | 460749679 |
+| ACB      | 2026-04-08 11:24:42 |   23.75 |      800 | Sell         | 460749782 |
+| ACB      | 2026-04-08 11:24:53 |   23.75 |      800 | Sell         | 460750130 |
+| ACB      | 2026-04-08 11:24:59 |   23.8  |    34000 | Buy          | 460750287 |
+| ACB      | 2026-04-08 11:25:03 |   23.75 |      800 | Sell         | 460750365 |
+| ACB      | 2026-04-08 11:25:08 |   23.75 |      100 | Sell         | 460750495 |
+| ACB      | 2026-04-08 11:25:10 |   23.75 |      200 | Sell         | 460750536 |
+| ACB      | 2026-04-08 11:25:13 |   23.75 |      800 | Sell         | 460750620 |
 
 <!-- END:DAILY -->
 

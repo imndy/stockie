@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | DGW |
 | exchange | HOSE |
-| ev | 9665072190000 |
-| ceiling | 46950 |
-| floor | 40850 |
-| ref_price | 43900 |
-| open | 43900 |
-| match_price | 43700 |
-| close_price | 43700 |
-| price_change | -200 |
-| price_change_pct | -0.00455581 |
-| high | 44150 |
+| ev | 9505701258550 |
+| ceiling | 46750 |
+| floor | 40650 |
+| ref_price | 43700 |
+| open | 43200 |
+| match_price | 42950 |
+| close_price | 42950 |
+| price_change | -750 |
+| price_change_pct | -0.01716247 |
+| high | 43600 |
 | low | 42500 |
-| total_volume | 1453923 |
+| total_volume | 1227892 |
 | high_price_1y | 57900 |
 | low_price_1y | 28316 |
-| pct_low_change_1y | 0.5433038887 |
-| pct_high_change_1y | -0.2196428571 |
-| foreign_volume | 391850 |
+| pct_low_change_1y | 0.5168169799 |
+| pct_high_change_1y | -0.2330357143 |
+| foreign_volume | 266400 |
 | foreign_room | 108446882 |
-| avg_match_volume_2w | 1571070 |
-| foreign_holding_room | 51184579 |
-| current_holding_ratio | 0.23126938331589653 |
+| avg_match_volume_2w | 1548228 |
+| foreign_holding_room | 50937079 |
+| current_holding_ratio | 0.23015109391137326 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 42.65 |
-| EMA20 | 44.61 |
-| EMA50 | 45.21 |
-| RSI(14) | 40.7 |
+| Giá đóng cửa | 45.05 |
+| EMA20 | 44.68 |
+| EMA50 | 45.22 |
+| RSI(14) | 50.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.565 |
-| MACD Signal | -0.654 |
-| MACD Histogram | 0.089 |
+| MACD | -0.445 |
+| MACD Signal | -0.608 |
+| MACD Histogram | 0.164 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 391850 |
+| KL khớp NN hôm nay | 266400 |
 | Room NN còn lại | 108446882 |
-| Tỷ lệ sở hữu NN hiện tại | 0.23126938331589653 |
+| Tỷ lệ sở hữu NN hiện tại | 0.23015109391137326 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1708805098 |
 | roic | 0.1127122621 |
 | roa | 0.0554016014 |
-| pe | 17.6706366083 |
-| pb | 2.8181047539 |
+| pe | 17.367364813 |
+| pb | 2.7697391117 |
 | eps | 2473.0291821799574 |
 | current_ratio | 1.3754502481 |
 | cash_ratio | 0.3230778307 |
@@ -94,12 +94,12 @@
 | fae | 0.036535021090811234 |
 | net_profit_margin | 0.020551989030748764 |
 | gross_margin | 0.08677660235587467 |
-| ev | 9671691385300 |
+| ev | 9505701258550 |
 | issue_share | 221320169 |
-| ps | 0.3631667297 |
-| pcf | -228.167659126 |
+| ps | 0.3569338911 |
+| pcf | -224.2517382028 |
 | bvps | 15506.8756542021 |
-| ev_per_ebitda | 14.0824749924 |
+| ev_per_ebitda | 13.866611853 |
 | at | 2.6956807579 |
 | fat | 178.2150942143 |
 | acp | 38.34557481666035 |

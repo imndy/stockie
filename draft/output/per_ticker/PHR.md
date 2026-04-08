@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | PHR |
 | exchange | HOSE |
-| ev | 8211251398800 |
-| ceiling | 67100 |
-| floor | 58500 |
-| ref_price | 62800 |
-| open | 62700 |
-| match_price | 60600 |
-| close_price | 60600 |
-| price_change | -2200 |
-| price_change_pct | -0.03503185 |
-| high | 62700 |
-| low | 60600 |
-| total_volume | 247725 |
+| ev | 8197701479000 |
+| ceiling | 64800 |
+| floor | 56400 |
+| ref_price | 60600 |
+| open | 61400 |
+| match_price | 60500 |
+| close_price | 60500 |
+| price_change | -100 |
+| price_change_pct | -0.00165017 |
+| high | 61400 |
+| low | 60000 |
+| total_volume | 219128 |
 | high_price_1y | 69900 |
 | low_price_1y | 38072 |
-| pct_low_change_1y | 0.5196436511 |
-| pct_high_change_1y | -0.1217391304 |
-| foreign_volume | 93600 |
+| pct_low_change_1y | 0.5171359883 |
+| pct_high_change_1y | -0.1231884058 |
+| foreign_volume | 71600 |
 | foreign_room | 66394607 |
-| avg_match_volume_2w | 222756 |
-| foreign_holding_room | 18753362 |
-| current_holding_ratio | 0.1384020147484563 |
+| avg_match_volume_2w | 233327 |
+| foreign_holding_room | 18720662 |
+| current_holding_ratio | 0.13816068490678446 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 93600 |
+| KL khớp NN hôm nay | 71600 |
 | Room NN còn lại | 66394607 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1384020147484563 |
+| Tỷ lệ sở hữu NN hiện tại | 0.13816068490678446 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.123149784 |
 | roic | 0.0637190159 |
 | roa | 0.0791784633 |
-| pe | 17.169849624 |
-| pb | 2.0398895198 |
+| pe | 17.1415165388 |
+| pb | 2.0365233655 |
 | eps | 3529.44267580831 |
 | current_ratio | 5.0755456522 |
 | cash_ratio | 0.8663420715 |
@@ -94,12 +94,12 @@
 | fae | 0.41078021081300176 |
 | net_profit_margin | 0.2664371311867491 |
 | gross_margin | 0.28086691178185275 |
-| ev | 8211251398800 |
+| ev | 8197701479000 |
 | issue_share | 135499198 |
-| ps | 4.5746854767 |
-| pcf | 13.3332488252 |
+| ps | 4.5671364908 |
+| pcf | 13.3112467645 |
 | bvps | 29707.4912202285 |
-| ev_per_ebitda | 18.383724648 |
+| ev_per_ebitda | 18.3517164039 |
 | at | 0.297175033 |
 | fat | 1.012897409 |
 | acp | 11.061183575592464 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PHR      | 2026-03-11 00:00:00 |   57.8 |   61   |  57.8 |    60.3 |   254300 |
 | PHR      | 2026-03-12 00:00:00 |   59.6 |   62.4 |  59.6 |    61.5 |   460600 |
 | PHR      | 2026-03-13 00:00:00 |   60.2 |   61.9 |  60.2 |    61.4 |   388300 |
 | PHR      | 2026-03-16 00:00:00 |   61   |   62.5 |  60.9 |    62.2 |   515500 |

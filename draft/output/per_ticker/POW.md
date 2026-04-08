@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | POW |
 | exchange | HOSE |
-| ev | 34556581590400 |
-| ceiling | 13500 |
-| floor | 11800 |
-| ref_price | 12650 |
-| open | 12650 |
-| match_price | 12400 |
-| close_price | 12400 |
-| price_change | -250 |
-| price_change_pct | -0.01976285 |
-| high | 12750 |
-| low | 12400 |
-| total_volume | 8444421 |
+| ev | 38348071100000 |
+| ceiling | 13250 |
+| floor | 11550 |
+| ref_price | 12400 |
+| open | 12450 |
+| match_price | 12500 |
+| close_price | 12500 |
+| price_change | 100 |
+| price_change_pct | 0.00806452 |
+| high | 12650 |
+| low | 12350 |
+| total_volume | 10894493 |
 | high_price_1y | 16850 |
 | low_price_1y | 8199 |
-| pct_low_change_1y | 0.5108786308 |
-| pct_high_change_1y | -0.250755287 |
-| foreign_volume | 79300 |
+| pct_low_change_1y | 0.5230631358 |
+| pct_high_change_1y | -0.2447129909 |
+| foreign_volume | 765201 |
 | foreign_room | 1533922844 |
-| avg_match_volume_2w | 11367572 |
-| foreign_holding_room | 85769386 |
-| current_holding_ratio | 0.027957529394483677 |
+| avg_match_volume_2w | 10684319 |
+| foreign_holding_room | 84815140 |
+| current_holding_ratio | 0.02764648180700802 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.45 |
-| EMA20 | 13.07 |
-| EMA50 | 13.35 |
-| RSI(14) | 38.2 |
+| Giá đóng cửa | 12.8 |
+| EMA20 | 13.05 |
+| EMA50 | 13.33 |
+| RSI(14) | 44.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.323 |
-| MACD Signal | -0.276 |
-| MACD Histogram | -0.047 |
+| MACD | -0.301 |
+| MACD Signal | -0.28 |
+| MACD Histogram | -0.021 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 79300 |
+| KL khớp NN hôm nay | 765201 |
 | Room NN còn lại | 1533922844 |
-| Tỷ lệ sở hữu NN hiện tại | 0.027957529394483677 |
+| Tỷ lệ sở hữu NN hiện tại | 0.02764648180700802 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0732860276 |
 | roic | 0.0488829298 |
 | roa | 0.0287984421 |
-| pe | 14.2404064062 |
-| pb | 1.009981564 |
+| pe | 14.3552483934 |
+| pb | 1.0181265766 |
 | eps | 870.7616655217109 |
 | current_ratio | 1.1706919601 |
 | cash_ratio | 0.2131454035 |
@@ -94,12 +94,12 @@
 | fae | 1.230358049565453 |
 | net_profit_margin | 0.0707353536621411 |
 | gross_margin | 0.13054670540407787 |
-| ev | 34556581590400 |
+| ev | 34835263700000 |
 | issue_share | 3067845688 |
-| ps | 1.0073001834 |
-| pcf | 16.5010384472 |
+| ps | 1.015423572 |
+| pcf | 16.6341113379 |
 | bvps | 12277.4518291622 |
-| ev_per_ebitda | 9.3111838142 |
+| ev_per_ebitda | 9.35694394 |
 | at | 0.4071294006 |
 | fat | 0.9786362833 |
 | acp | 134.68473174006934 |
@@ -135,20 +135,19 @@
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                     | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | POW - Niêm yết bổ sung 281.024.592 cổ phiếu                                     | 2026-03-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | POW - Niêm yết bổ sung 444.949.496 cổ phiếu                                     | 2026-01-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | POW - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100 : 12 giá 10.000 đồng/cp | 2025-12-05    | 2025-12-11    | 2025-12-10     |    0.12 |       0 |
-| Trả cổ tức bằng tiền mặt | POW - Trả cổ tức Cả năm, 2020 bằng tiền 200 VND/CP                              | 2021-09-22    | 2021-10-01    | 2021-09-30     |    0.02 |     200 |
-| Trả cổ tức bằng tiền mặt | POW - Trả cổ tức Cả năm, 2019 bằng tiền 300 VND/CP                              | 2020-11-13    | 2020-11-19    | 2020-11-18     |    0.03 |     300 |
-| Niêm yết mới             | POW-Chính thức đăng ký giao dịch trên UPCoM                                     | 2018-02-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| event_list_name          | event_title                                        | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:---------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | POW - Niêm yết bổ sung 281.024.592 cổ phiếu        | 2026-03-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | POW - Niêm yết bổ sung 444.949.496 cổ phiếu        | 2026-01-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | POW - Phát hành cổ phiếu trả cổ tức tỷ lệ 4%       | 2025-12-05    | 2025-12-11    | 2025-12-10     |    0.04 |       0 |
+| Trả cổ tức bằng tiền mặt | POW - Trả cổ tức Cả năm, 2020 bằng tiền 200 VND/CP | 2021-09-22    | 2021-10-01    | 2021-09-30     |    0.02 |     200 |
+| Trả cổ tức bằng tiền mặt | POW - Trả cổ tức Cả năm, 2019 bằng tiền 300 VND/CP | 2020-11-13    | 2020-11-19    | 2020-11-18     |    0.03 |     300 |
+| Niêm yết mới             | POW-Chính thức đăng ký giao dịch trên UPCoM        | 2018-02-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| POW      | 2026-03-11 00:00:00 |  13.1  |  13.65 | 13    |   13.55 | 14643700 |
 | POW      | 2026-03-12 00:00:00 |  13.6  |  13.75 | 13.2  |   13.4  | 14291100 |
 | POW      | 2026-03-13 00:00:00 |  13.45 |  13.85 | 13.2  |   13.3  | 25916300 |
 | POW      | 2026-03-16 00:00:00 |  13.3  |  13.35 | 12.95 |   13.2  | 17592300 |

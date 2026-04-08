@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | DXS |
 | exchange | HOSE |
-| ev | 4146378367840 |
-| ceiling | 7990 |
-| floor | 6950 |
-| ref_price | 7470 |
-| open | 7470 |
-| match_price | 7160 |
-| close_price | 7160 |
-| price_change | -310 |
-| price_change_pct | -0.04149933 |
-| high | 7600 |
-| low | 7160 |
-| total_volume | 2207089 |
+| ev | 4082677024200 |
+| ceiling | 7660 |
+| floor | 6660 |
+| ref_price | 7160 |
+| open | 7170 |
+| match_price | 7050 |
+| close_price | 7050 |
+| price_change | -110 |
+| price_change_pct | -0.01536313 |
+| high | 7300 |
+| low | 6920 |
+| total_volume | 2283004 |
 | high_price_1y | 14350 |
 | low_price_1y | 5320 |
-| pct_low_change_1y | 0.3458646617 |
-| pct_high_change_1y | -0.483032491 |
-| foreign_volume | 517200 |
+| pct_low_change_1y | 0.3251879699 |
+| pct_high_change_1y | -0.4909747292 |
+| foreign_volume | 528200 |
 | foreign_room | 289551562 |
-| avg_match_volume_2w | 3335965 |
-| foreign_holding_room | 43047780 |
-| current_holding_ratio | 0.07433525777353603 |
+| avg_match_volume_2w | 3441203 |
+| foreign_holding_room | 43022069 |
+| current_holding_ratio | 0.07429085980893448 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 517200 |
+| KL khớp NN hôm nay | 528200 |
 | Room NN còn lại | 289551562 |
-| Tỷ lệ sở hữu NN hiện tại | 0.07433525777353603 |
+| Tỷ lệ sở hữu NN hiện tại | 0.07429085980893448 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -74,7 +74,7 @@
 | symbol | DXS |
 | year_report | 2025 |
 | length_report | 5 |
-| update_date | 1775472370937 |
+| update_date | 1775575077580 |
 | revenue | 3966804027163 |
 | revenue_growth | 0.5199963871714935 |
 | net_profit | 351512195294 |
@@ -83,8 +83,8 @@
 | roe | 0.0568929042 |
 | roic | 0.0570081015 |
 | roa | 0.0220307018 |
-| pe | 11.7958307659 |
-| pb | 0.6535177576 |
+| pe | 11.6146099022 |
+| pb | 0.6434776803 |
 | eps | 606.9941271703449 |
 | current_ratio | 2.3487392993 |
 | cash_ratio | 0.1155205633 |
@@ -94,12 +94,12 @@
 | fae | 0.024592622030457017 |
 | net_profit_margin | 0.08862474525170733 |
 | gross_margin | 0.4320850961422964 |
-| ev | 4146378367840 |
+| ev | 4082677024200 |
 | issue_share | 579103124 |
-| ps | 1.0454024967 |
-| pcf | -30.3166741852 |
+| ps | 1.0293418438 |
+| pcf | -29.8509152242 |
 | bvps | 10956.0909658657 |
-| ev_per_ebitda | 8.8400945892 |
+| ev_per_ebitda | 8.7513410734 |
 | at | 0.2485840916 |
 | fat | 18.8836892378 |
 | acp | 100.25113412551397 |
@@ -135,22 +135,21 @@
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------|:----------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 5,000,000 cổ phiếu     | 2024-03-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 120,980,747 cổ phiếu   | 2023-11-10    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 26,7%   | 2023-10-06    | 2023-10-16    | 2023-10-13     |   0.267 |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 41,192,264 cổ phiếu    | 2022-11-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 10% | 2022-10-07    | 2022-10-18    | 2022-10-17     |   0.1   |       0 |
-| Niêm yết thêm      | DXS - Niêm yết bổ sung 53,728,905 cổ phiếu    | 2022-07-01    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 8,4%    | 2022-05-19    | 2022-05-27    | 2022-05-26     |   0.084 |       0 |
-| Niêm yết mới       | DXS - Chính thức niêm yết trên sàn HNX        | 2021-07-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| event_list_name    | event_title                                    | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------|:-----------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 5,000,000 cổ phiếu      | 2024-03-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 120,980,747 cổ phiếu    | 2023-11-10    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu thưởng tỷ lệ 26,7%    | 2023-10-06    | 2023-10-16    | 2023-10-13     |   0.267 |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 41,192,264 cổ phiếu     | 2022-11-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%  | 2022-10-07    | 2022-10-18    | 2022-10-17     |   0.1   |       0 |
+| Niêm yết thêm      | DXS - Niêm yết bổ sung 53,728,905 cổ phiếu     | 2022-07-01    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu | DXS - Phát hành cổ phiếu trả cổ tức tỷ lệ 6,6% | 2022-05-19    | 2022-05-27    | 2022-05-26     |   0.066 |       0 |
+| Niêm yết mới       | DXS - Chính thức niêm yết trên sàn HNX         | 2021-07-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXS      | 2026-03-11 00:00:00 |   5.95 |   6.34 |  5.94 |    6.18 |  1873500 |
 | DXS      | 2026-03-12 00:00:00 |   6.1  |   6.26 |  5.98 |    6.18 |  1243000 |
 | DXS      | 2026-03-13 00:00:00 |   6.15 |   6.31 |  6.12 |    6.25 |  1718100 |
 | DXS      | 2026-03-16 00:00:00 |   6.25 |   6.41 |  6.25 |    6.31 |  1735700 |

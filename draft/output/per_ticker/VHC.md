@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VHC |
 | exchange | HOSE |
-| ev | 12883611326600 |
+| ev | 13175400433300 |
 | ceiling | 61400 |
 | floor | 53400 |
 | ref_price | 57400 |
-| open | 57100 |
-| match_price | 57400 |
-| close_price | 57400 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 57400 |
-| low | 56200 |
-| total_volume | 644494 |
+| open | 57200 |
+| match_price | 58700 |
+| close_price | 58700 |
+| price_change | 1300 |
+| price_change_pct | 0.02264808 |
+| high | 58700 |
+| low | 56600 |
+| total_volume | 899816 |
 | high_price_1y | 69900 |
 | low_price_1y | 42280 |
-| pct_low_change_1y | 0.357615894 |
-| pct_high_change_1y | -0.1705202312 |
-| foreign_volume | 167200 |
+| pct_low_change_1y | 0.3883632923 |
+| pct_high_change_1y | -0.151734104 |
+| foreign_volume | 154700 |
 | foreign_room | 224453159 |
-| avg_match_volume_2w | 528607 |
-| foreign_holding_room | 44654624 |
-| current_holding_ratio | 0.19894852092502738 |
+| avg_match_volume_2w | 583591 |
+| foreign_holding_room | 44424284 |
+| current_holding_ratio | 0.19792229344386283 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 167200 |
+| KL khớp NN hôm nay | 154700 |
 | Room NN còn lại | 224453159 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19894852092502738 |
+| Tỷ lệ sở hữu NN hiện tại | 0.19792229344386283 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1551180069 |
 | roic | 0.1220125474 |
 | roa | 0.1106185447 |
-| pe | 9.0840566543 |
-| pb | 1.340508642 |
+| pe | 9.2897931291 |
+| pb | 1.3708685938 |
 | eps | 6318.762881417053 |
 | current_ratio | 2.8152410553 |
 | cash_ratio | 0.6199265187 |
@@ -94,12 +94,12 @@
 | fae | 0.3295608370368774 |
 | net_profit_margin | 0.11798339177591062 |
 | gross_margin | 0.1697202054218654 |
-| ev | 12883611326600 |
+| ev | 13175400433300 |
 | issue_share | 224453159 |
-| ps | 1.0717678152 |
-| pcf | 5.3522237282 |
+| ps | 1.0960413023 |
+| pcf | 5.4734413388 |
 | bvps | 42819.567291089 |
-| ev_per_ebitda | 6.593570432 |
+| ev_per_ebitda | 6.7424643377 |
 | at | 0.937577256 |
 | fat | 3.5747165107 |
 | acp | 52.90723431309511 |
@@ -110,7 +110,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 4.475264947625887 |
 | rtq10 | 0.3348389599 |
-| dividend | 0.0348432056 |
+| dividend | 0.0340715503 |
 | ebitda | 1959711549744 |
 | ebit | 1475256103163 |
 | le | 0.2037005298 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHC      | 2026-03-11 00:00:00 |   57.2 |   59.4 |  57.1 |    59   |  1166500 |
 | VHC      | 2026-03-12 00:00:00 |   57.7 |   59.2 |  57.7 |    58.7 |   696200 |
 | VHC      | 2026-03-13 00:00:00 |   59   |   61.2 |  58.8 |    60.6 |  1651900 |
 | VHC      | 2026-03-16 00:00:00 |   60.5 |   60.7 |  59.5 |    60.6 |   562000 |

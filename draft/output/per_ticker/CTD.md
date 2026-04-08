@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | CTD |
 | exchange | HOSE |
-| ev | 8145574314600 |
-| ceiling | 85600 |
-| floor | 74400 |
-| ref_price | 80000 |
-| open | 80000 |
-| match_price | 78600 |
-| close_price | 78600 |
-| price_change | -1400 |
-| price_change_pct | -0.0175 |
-| high | 81200 |
-| low | 78300 |
-| total_volume | 460309 |
+| ev | 8466782118000 |
+| ceiling | 84100 |
+| floor | 73100 |
+| ref_price | 78600 |
+| open | 79000 |
+| match_price | 79500 |
+| close_price | 79500 |
+| price_change | 900 |
+| price_change_pct | 0.01145038 |
+| high | 80000 |
+| low | 78600 |
+| total_volume | 368506 |
 | high_price_1y | 97420 |
 | low_price_1y | 60523 |
-| pct_low_change_1y | 0.298683704 |
-| pct_high_change_1y | -0.1931849066 |
-| foreign_volume | 4814 |
+| pct_low_change_1y | 0.3135541281 |
+| pct_high_change_1y | -0.1839465658 |
+| foreign_volume | 26900 |
 | foreign_room | 53264788 |
-| avg_match_volume_2w | 947455 |
-| foreign_holding_room | 53232559 |
-| current_holding_ratio | 0.48970350591076284 |
+| avg_match_volume_2w | 926699 |
+| foreign_holding_room | 53105938 |
+| current_holding_ratio | 0.48853867842948534 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 78.9 |
-| EMA20 | 81.9 |
-| EMA50 | 81.35 |
-| RSI(14) | 43.2 |
+| Giá đóng cửa | 82.1 |
+| EMA20 | 81.97 |
+| EMA50 | 81.4 |
+| RSI(14) | 50.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.233 |
-| MACD Signal | 0.327 |
-| MACD Histogram | -0.56 |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.142 |
+| MACD Signal | 0.241 |
+| MACD Histogram | -0.383 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 4814 |
+| KL khớp NN hôm nay | 26900 |
 | Room NN còn lại | 53264788 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48970350591076284 |
+| Tỷ lệ sở hữu NN hiện tại | 0.48853867842948534 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0864626574 |
 | roic | 0.0493569854 |
 | roa | 0.0254008556 |
-| pe | 10.4254152269 |
-| pb | 0.867957703 |
+| pe | 10.5447902104 |
+| pb | 0.8778961499 |
 | eps | 7539.268056893433 |
 | current_ratio | 1.3025264806 |
 | cash_ratio | 0.0743322232 |
@@ -94,12 +94,12 @@
 | fae | 0.05914969823433221 |
 | net_profit_margin | 0.025450916731026615 |
 | gross_margin | 0.03600636534238932 |
-| ev | 8145574314600 |
+| ev | 8238844249500 |
 | issue_share | 108703651 |
-| ps | 0.2653363748 |
-| pcf | -9.8032880238 |
+| ps | 0.2683745776 |
+| pcf | -9.9155394134 |
 | bvps | 90557.4081919317 |
-| ev_per_ebitda | 13.8618088739 |
+| ev_per_ebitda | 13.973837253 |
 | at | 0.9980330319 |
 | fat | 60.869567355 |
 | acp | 173.52070537100417 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.0191701057 |
 | charter_capital_ratio | 8.633874777171927 |
 | rtq10 | 2.6697926962 |
-| dividend | 0.0127226463 |
+| dividend | 0.0125786164 |
 | ebitda | 832556319119 |
 | ebit | 721968991017 |
 | le | 0.5777176045 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| CTD: Thông báo phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH và thông báo chốt DS nhận cổ phiếu phát hành               | 1775498999000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-va-thong-bao-chot-ds-nhan-co… |
 | CTD: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ… | 1775237454000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tang… |
 | CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH                         | 1774547013000 | https://www.hsx.vn/vi/tin-tuc/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu… |
 | CTD: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 30                                                             | 1772209945000 | https://www.hsx.vn/vi/tin-tuc/ctd-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-30/2440619                        |
@@ -131,7 +132,6 @@
 | CTD: Điều lệ công ty sửa đổi                                                                                              | 1770140297000 | https://www.hsx.vn/vi/tin-tuc/ctd-dieu-le-cong-ty-sua-doi/2436969                                                         |
 | CTD: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công đoàn cơ sở CTD                     | 1770047673000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-doan… |
 | CTD: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1770040602000 | https://www.hsx.vn/vi/tin-tuc/ctd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436171                                     |
-| CTD: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                                    | 1769706180000 | https://www.hsx.vn/vi/tin-tuc/ctd-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2434879               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTD      | 2026-03-11 00:00:00 |   78   |   80.5 |  77.8 |    80   |   561300 |
 | CTD      | 2026-03-12 00:00:00 |   79.8 |   81.5 |  78.1 |    78.2 |   827300 |
 | CTD      | 2026-03-13 00:00:00 |   78.2 |   81.9 |  77.4 |    80.4 |   602900 |
 | CTD      | 2026-03-16 00:00:00 |   80.4 |   83   |  80.4 |    82.8 |   885600 |
@@ -176,22 +175,23 @@
 | CTD      | 2026-04-02 00:00:00 |   83.8 |   85.7 |  82   |    82   |  1531700 |
 | CTD      | 2026-04-03 00:00:00 |   81.5 |   82.6 |  79.4 |    80   |  1171000 |
 | CTD      | 2026-04-06 00:00:00 |   80   |   81.2 |  78.3 |    78.6 |   458300 |
-| CTD      | 2026-04-07 00:00:00 |   79   |   80   |  78.9 |    78.9 |   142900 |
+| CTD      | 2026-04-07 00:00:00 |   79   |   80   |  78.6 |    79.5 |   367100 |
+| CTD      | 2026-04-08 00:00:00 |   81.4 |   82.4 |  80.8 |    82.1 |   525200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTD      | 2026-04-07 10:42:08 |    79.3 |      100 | Sell         | 460009415 |
-| CTD      | 2026-04-07 10:42:22 |    79.3 |      100 | Sell         | 460009749 |
-| CTD      | 2026-04-07 10:42:39 |    79.3 |      100 | Sell         | 460010533 |
-| CTD      | 2026-04-07 10:42:55 |    79.3 |      100 | Sell         | 460010969 |
-| CTD      | 2026-04-07 10:42:59 |    79.3 |      100 | Sell         | 460011022 |
-| CTD      | 2026-04-07 10:43:11 |    79.3 |      100 | Sell         | 460012058 |
-| CTD      | 2026-04-07 10:43:26 |    79.3 |      100 | Sell         | 460012508 |
-| CTD      | 2026-04-07 10:43:43 |    79.3 |      100 | Sell         | 460012870 |
-| CTD      | 2026-04-07 10:43:59 |    79.3 |      100 | Sell         | 460013341 |
-| CTD      | 2026-04-07 10:44:15 |    79.3 |      100 | Sell         | 460013832 |
+| CTD      | 2026-04-08 10:55:40 |      82 |      200 | Sell         | 460698500 |
+| CTD      | 2026-04-08 10:55:45 |      82 |     1000 | Sell         | 460698648 |
+| CTD      | 2026-04-08 10:56:00 |      82 |      200 | Sell         | 460699279 |
+| CTD      | 2026-04-08 10:56:00 |      82 |     2200 | Sell         | 460699278 |
+| CTD      | 2026-04-08 10:56:12 |      82 |     1800 | Sell         | 460699778 |
+| CTD      | 2026-04-08 10:56:12 |      82 |      500 | Sell         | 460699779 |
+| CTD      | 2026-04-08 10:56:12 |      82 |      200 | Sell         | 460699780 |
+| CTD      | 2026-04-08 10:56:12 |      82 |      100 | Sell         | 460699782 |
+| CTD      | 2026-04-08 10:56:12 |      82 |      200 | Sell         | 460699783 |
+| CTD      | 2026-04-08 10:56:12 |      82 |      200 | Sell         | 460699784 |
 
 <!-- END:DAILY -->
 

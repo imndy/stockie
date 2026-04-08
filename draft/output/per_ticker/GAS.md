@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | GAS |
 | exchange | HOSE |
-| ev | 189416555846000 |
-| ceiling | 85200 |
-| floor | 74200 |
-| ref_price | 79700 |
-| open | 80200 |
-| match_price | 78500 |
-| close_price | 78500 |
+| ev | 186521016138800 |
+| ceiling | 83900 |
+| floor | 73100 |
+| ref_price | 78500 |
+| open | 78500 |
+| match_price | 77300 |
+| close_price | 77300 |
 | price_change | -1200 |
-| price_change_pct | -0.01505646 |
-| high | 80300 |
-| low | 78100 |
-| total_volume | 1175667 |
+| price_change_pct | -0.01528662 |
+| high | 79400 |
+| low | 75800 |
+| total_volume | 1241613 |
 | high_price_1y | 131500 |
 | low_price_1y | 47818 |
-| pct_low_change_1y | 0.6416398497 |
-| pct_high_change_1y | -0.3900543901 |
-| foreign_volume | 550800 |
+| pct_low_change_1y | 0.6165447183 |
+| pct_high_change_1y | -0.3993783994 |
+| foreign_volume | 273169 |
 | foreign_room | 1182345380 |
-| avg_match_volume_2w | 1787477 |
-| foreign_holding_room | 53300953 |
-| current_holding_ratio | 0.022089541179820572 |
+| avg_match_volume_2w | 1721667 |
+| foreign_holding_room | 53124959 |
+| current_holding_ratio | 0.02201660389649655 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 550800 |
+| KL khớp NN hôm nay | 273169 |
 | Room NN còn lại | 1182345380 |
-| Tỷ lệ sở hữu NN hiện tại | 0.022089541179820572 |
+| Tỷ lệ sở hữu NN hiện tại | 0.02201660389649655 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1804028909 |
 | roic | 0.1858336325 |
 | roa | 0.130134985 |
-| pe | 16.5946132069 |
-| pb | 2.8571780189 |
+| pe | 16.340937591 |
+| pb | 2.8135014123 |
 | eps | 4730.450720452548 |
 | current_ratio | 3.3976581634 |
 | cash_ratio | 0.3342355435 |
@@ -94,12 +94,12 @@
 | fae | 0.23577223871739417 |
 | net_profit_margin | 0.08446991569612103 |
 | gross_margin | 0.1261797717613595 |
-| ev | 189416555846000 |
+| ev | 186521016138800 |
 | issue_share | 2412949756 |
-| ps | 1.4017455786 |
-| pcf | 14.5255445286 |
+| ps | 1.3803176207 |
+| pcf | 14.303497988 |
 | bvps | 27474.6618798319 |
-| ev_per_ebitda | 11.6579618528 |
+| ev_per_ebitda | 11.4759998672 |
 | at | 1.5406074925 |
 | fat | 7.9086599798 |
 | acp | 50.83482805011642 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GAS      | 2026-03-11 00:00:00 |   93.3 |  103   |  93.2 |   103   |  4146800 |
 | GAS      | 2026-03-12 00:00:00 |  103   |  103   |  98.7 |    98.7 |  1736400 |
 | GAS      | 2026-03-13 00:00:00 |   97.9 |  101.3 |  91.8 |    91.8 |  4442600 |
 | GAS      | 2026-03-16 00:00:00 |   91   |   91.1 |  85.4 |    87.9 |  5461400 |

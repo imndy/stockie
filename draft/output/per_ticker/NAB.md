@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | NAB |
 | exchange | HOSE |
-| ev | 22303924240000 |
-| ceiling | 13850 |
-| floor | 12050 |
-| ref_price | 12950 |
-| open | 13050 |
-| match_price | 13000 |
-| close_price | 13000 |
+| ev | 22389708825000 |
+| ceiling | 13900 |
+| floor | 12100 |
+| ref_price | 13000 |
+| open | 12950 |
+| match_price | 13050 |
+| close_price | 13050 |
 | price_change | 50 |
-| price_change_pct | 0.003861 |
+| price_change_pct | 0.00384615 |
 | high | 13050 |
-| low | 12950 |
-| total_volume | 1144207 |
+| low | 12900 |
+| total_volume | 1144620 |
 | high_price_1y | 17300 |
 | low_price_1y | 12000 |
-| pct_low_change_1y | 0.0743801653 |
-| pct_high_change_1y | -0.2352941176 |
-| foreign_volume | 58600 |
+| pct_low_change_1y | 0.0785123967 |
+| pct_high_change_1y | -0.2323529412 |
+| foreign_volume | 241400 |
 | foreign_room | 514705944 |
-| avg_match_volume_2w | 1326197 |
-| foreign_holding_room | 15960771 |
-| current_holding_ratio | 0.009302848268641715 |
+| avg_match_volume_2w | 1269391 |
+| foreign_holding_room | 15652971 |
+| current_holding_ratio | 0.00912344486155769 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 58600 |
+| KL khớp NN hôm nay | 241400 |
 | Room NN còn lại | 514705944 |
-| Tỷ lệ sở hữu NN hiện tại | 0.009302848268641715 |
+| Tỷ lệ sở hữu NN hiện tại | 0.00912344486155769 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1958006803 |
 | roic | 0 |
 | roa | 0.0126072995 |
-| pe | 5.4106400801 |
-| pb | 0.9519075709 |
+| pe | 5.4314502343 |
+| pb | 0.9555687539 |
 | eps | 2437.6446396238475 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.10112912650277305 |
 | net_profit_margin | 0.48536816399744587 |
 | gross_margin | 0 |
-| ev | 22303924500000 |
+| ev | 22389708825000 |
 | issue_share | 1715686480 |
-| ps | 1.933650902 |
-| pcf | 0.1880403782 |
+| ps | 1.9410880209 |
+| pcf | 0.1887636104 |
 | bvps | 13656.7881136793 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -145,7 +145,7 @@
 | Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 211,606,954 cổ phiếu | 2023-08-14    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 25%            | 2023-06-29    | 2023-07-07    | 2023-07-06     | 0.25     |       0 |
 | Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 189,994,157 cổ phiếu | 2022-11-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 10,2075%       | 2022-10-12    | 2022-10-20    | 2022-10-19     | 0.102075 |       0 |
+| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu trả cổ tức tỷ lệ 18,7364%   | 2022-10-12    | 2022-10-20    | 2022-10-19     | 0.187364 |       0 |
 | Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 143,000,000 cổ phiếu | 2022-06-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Niêm yết thêm      | NAB - Giao dịch bổ sung 50.357.073 cổ phiếu          | 2022-03-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
 | Phát hành cổ phiếu | NAB - Phát hành cổ phiếu trả cổ tức tỷ lệ 12.487%    | 2021-11-26    | 2021-12-03    | 2021-12-02     | 0.12487  |       0 |
@@ -156,7 +156,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NAB      | 2026-03-11 00:00:00 |  12.5  |  13.4  | 12.5  |   13.15 |  1152400 |
 | NAB      | 2026-03-12 00:00:00 |  13.1  |  13.25 | 12.9  |   13.05 |  1336800 |
 | NAB      | 2026-03-13 00:00:00 |  12.7  |  13    | 12.7  |   12.8  |  1275000 |
 | NAB      | 2026-03-16 00:00:00 |  12.8  |  12.9  | 12.75 |   12.9  |  1175000 |

@@ -11,43 +11,43 @@
 | --- | --- |
 | symbol | HAG |
 | exchange | HOSE |
-| ev | 19645753178500 |
-| ceiling | 17050 |
-| floor | 14850 |
-| ref_price | 15950 |
-| open | 15850 |
-| match_price | 15500 |
-| close_price | 15500 |
-| price_change | -450 |
-| price_change_pct | -0.02821317 |
-| high | 16050 |
-| low | 15450 |
-| total_volume | 5081260 |
+| ev | 19709126575850 |
+| ceiling | 16550 |
+| floor | 14450 |
+| ref_price | 15500 |
+| open | 15500 |
+| match_price | 15550 |
+| close_price | 15550 |
+| price_change | 50 |
+| price_change_pct | 0.00322581 |
+| high | 15650 |
+| low | 15350 |
+| total_volume | 2309940 |
 | high_price_1y | 19250 |
 | low_price_1y | 9540 |
-| pct_low_change_1y | 0.5800203874 |
-| pct_high_change_1y | -0.1777188329 |
-| foreign_volume | 731000 |
+| pct_low_change_1y | 0.5851172273 |
+| pct_high_change_1y | -0.175066313 |
+| foreign_volume | 248678 |
 | foreign_room | 621059294 |
-| avg_match_volume_2w | 5200161 |
-| foreign_holding_room | 25709834 |
-| current_holding_ratio | 0.020284405661581593 |
+| avg_match_volume_2w | 5196380 |
+| foreign_holding_room | 25418856 |
+| current_holding_ratio | 0.020054831414210113 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.5 |
-| EMA20 | 15.81 |
+| Giá đóng cửa | 15.9 |
+| EMA20 | 15.82 |
 | EMA50 | 16.09 |
-| RSI(14) | 43.4 |
+| RSI(14) | 50.8 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.016 |
-| MACD Signal | -0.055 |
+| MACD | -0.006 |
+| MACD Signal | -0.045 |
 | MACD Histogram | 0.039 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 731000 |
+| KL khớp NN hôm nay | 248678 |
 | Room NN còn lại | 621059294 |
-| Tỷ lệ sở hữu NN hiện tại | 0.020284405661581593 |
+| Tỷ lệ sở hữu NN hiện tại | 0.020054831414210113 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1933715612 |
 | roic | 0.0947883269 |
 | roa | 0.0872462862 |
-| pe | 9.2546033527 |
-| pb | 1.4870187697 |
+| pe | 9.2844569119 |
+| pb | 1.4918156045 |
 | eps | 1674.842174135075 |
 | current_ratio | 0.8193761286 |
 | cash_ratio | 0.0671512284 |
@@ -94,12 +94,12 @@
 | fae | 0.5973983170200605 |
 | net_profit_margin | 0.285620350229267 |
 | gross_margin | 0.36401310485980853 |
-| ev | 19645753178500 |
+| ev | 19709126575850 |
 | issue_share | 1267467947 |
-| ps | 2.6433030508 |
-| pcf | 20.889558009 |
+| ps | 2.6518298349 |
+| pcf | 20.95694368 |
 | bvps | 10423.540250679 |
-| ev_per_ebitda | 9.7071063436 |
+| ev_per_ebitda | 9.7300026419 |
 | at | 0.3054624297 |
 | fat | 0.9883561912 |
 | acp | 65.38096965011789 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HAG      | 2026-03-11 00:00:00 |  14.5  |  14.9  | 14.5  |   14.9  |  4936500 |
 | HAG      | 2026-03-12 00:00:00 |  15    |  15.35 | 14.7  |   15.15 |  5659800 |
 | HAG      | 2026-03-13 00:00:00 |  15    |  15.2  | 14.95 |   15.2  |  4075600 |
 | HAG      | 2026-03-16 00:00:00 |  15.15 |  15.5  | 15    |   15.3  |  5274900 |

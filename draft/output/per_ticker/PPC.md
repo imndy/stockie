@@ -12,26 +12,26 @@
 | symbol | PPC |
 | exchange | HOSE |
 | ev | 3327597000000 |
-| ceiling | 10950 |
-| floor | 9540 |
-| ref_price | 10250 |
-| open | 10250 |
+| ceiling | 10900 |
+| floor | 9490 |
+| ref_price | 10200 |
+| open | 10200 |
 | match_price | 10200 |
 | close_price | 10200 |
-| price_change | -50 |
-| price_change_pct | -0.00487805 |
-| high | 10350 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 10500 |
 | low | 10100 |
-| total_volume | 524295 |
+| total_volume | 299134 |
 | high_price_1y | 12533 |
 | low_price_1y | 9600 |
 | pct_low_change_1y | 0.0595960446 |
 | pct_high_change_1y | -0.1639124961 |
-| foreign_volume | 51100 |
+| foreign_volume | 37800 |
 | foreign_room | 159855150 |
-| avg_match_volume_2w | 900768 |
-| foreign_holding_room | 14996823 |
-| current_holding_ratio | 0.04596938709825739 |
+| avg_match_volume_2w | 830246 |
+| foreign_holding_room | 14908023 |
+| current_holding_ratio | 0.045697190675433354 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 51100 |
+| KL khớp NN hôm nay | 37800 |
 | Room NN còn lại | 159855150 |
-| Tỷ lệ sở hữu NN hiện tại | 0.04596938709825739 |
+| Tỷ lệ sở hữu NN hiện tại | 0.045697190675433354 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PPC      | 2026-03-11 00:00:00 |   9.87 |  10.05 |  9.86 |   10    |   258100 |
 | PPC      | 2026-03-12 00:00:00 |   9.91 |  10.05 |  9.9  |    9.99 |   247000 |
 | PPC      | 2026-03-13 00:00:00 |   9.96 |  10.65 |  9.96 |   10.65 |  1246600 |
 | PPC      | 2026-03-16 00:00:00 |  10.9  |  10.9  | 10.45 |   10.6  |   854500 |

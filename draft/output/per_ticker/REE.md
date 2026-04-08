@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | REE |
 | exchange | HOSE |
-| ev | 34882784151600 |
+| ev | 35316110662800 |
 | ceiling | 68900 |
 | floor | 59900 |
 | ref_price | 64400 |
-| open | 65500 |
-| match_price | 64400 |
-| close_price | 64400 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 65600 |
-| low | 64100 |
-| total_volume | 1121686 |
+| open | 65700 |
+| match_price | 65200 |
+| close_price | 65200 |
+| price_change | 800 |
+| price_change_pct | 0.01242236 |
+| high | 66000 |
+| low | 64400 |
+| total_volume | 890979 |
 | high_price_1y | 74200 |
 | low_price_1y | 48865 |
-| pct_low_change_1y | 0.2336650733 |
-| pct_high_change_1y | -0.1018131102 |
-| foreign_volume | 41600 |
+| pct_low_change_1y | 0.2489901053 |
+| pct_high_change_1y | -0.0906555091 |
+| foreign_volume | 143600 |
 | foreign_room | 265412488 |
-| avg_match_volume_2w | 2147949 |
-| foreign_holding_room | 265412488 |
-| current_holding_ratio | 0.4899999997969199 |
+| avg_match_volume_2w | 2132436 |
+| foreign_holding_room | 265279188 |
+| current_holding_ratio | 0.4897539036148407 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 64.21 |
 | RSI(14) | 47.6 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 0.858 |
 | MACD Signal | 1.418 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 41600 |
+| KL khớp NN hôm nay | 143600 |
 | Room NN còn lại | 265412488 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4899999997969199 |
+| Tỷ lệ sở hữu NN hiện tại | 0.4897539036148407 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1269444304 |
 | roic | 0.0841671058 |
 | roa | 0.0661752679 |
-| pe | 13.7924273784 |
-| pb | 1.6653597689 |
+| pe | 13.96376188 |
+| pb | 1.6860474679 |
 | eps | 4669.228862563072 |
 | current_ratio | 2.6619301051 |
 | cash_ratio | 0.8026296755 |
@@ -94,12 +94,12 @@
 | fae | 0.569819757538831 |
 | net_profit_margin | 0.2526192622495294 |
 | gross_margin | 0.3770826337687024 |
-| ev | 34882784151600 |
+| ev | 35316110662800 |
 | issue_share | 541658139 |
-| ps | 3.484232829 |
-| pcf | 12.8676817033 |
+| ps | 3.5275152244 |
+| pcf | 13.027528681 |
 | bvps | 38670.3228951296 |
-| ev_per_ebitda | 9.7344980347 |
+| ev_per_ebitda | 9.8333102147 |
 | at | 0.2619565402 |
 | fat | 0.7128008815 |
 | acp | 103.69541408291188 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.3782655401 |
 | charter_capital_ratio | 4.577894495305276 |
 | rtq10 | 0.6161470404 |
-| dividend | 0.0155279503 |
+| dividend | 0.0153374233 |
 | ebitda | 4385355237990 |
 | ebit | 3000457880790 |
 | le | 0.8159185837 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| REE      | 2026-03-11 00:00:00 |   59.8 |   60.8 |  59.5 |    60.4 |   793300 |
 | REE      | 2026-03-12 00:00:00 |   60.1 |   63   |  59   |    62.5 |  1507700 |
 | REE      | 2026-03-13 00:00:00 |   62.8 |   64.6 |  62.6 |    63.8 |  1161100 |
 | REE      | 2026-03-16 00:00:00 |   64.8 |   64.8 |  62   |    63.4 |  1020100 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VHM |
 | exchange | HOSE |
-| ev | 480567204000000 |
-| ceiling | 127500 |
-| floor | 110900 |
-| ref_price | 119200 |
-| open | 118000 |
-| match_price | 117000 |
-| close_price | 117000 |
-| price_change | -2200 |
-| price_change_pct | -0.01845638 |
-| high | 120700 |
-| low | 116000 |
-| total_volume | 3222927 |
+| ev | 472352380000000 |
+| ceiling | 125100 |
+| floor | 108900 |
+| ref_price | 117000 |
+| open | 117000 |
+| match_price | 115000 |
+| close_price | 115000 |
+| price_change | -2000 |
+| price_change_pct | -0.01709402 |
+| high | 118000 |
+| low | 113500 |
+| total_volume | 3282033 |
 | high_price_1y | 150900 |
 | low_price_1y | 45600 |
-| pct_low_change_1y | 1.4893617021 |
-| pct_high_change_1y | -0.2173913043 |
-| foreign_volume | 922070 |
+| pct_low_change_1y | 1.4468085106 |
+| pct_high_change_1y | -0.2307692308 |
+| foreign_volume | 925920 |
 | foreign_room | 2053706002 |
-| avg_match_volume_2w | 4411696 |
-| foreign_holding_room | 342724175 |
-| current_holding_ratio | 0.08344041811881504 |
+| avg_match_volume_2w | 4459514 |
+| foreign_holding_room | 360531787 |
+| current_holding_ratio | 0.08777590040855322 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 922070 |
+| KL khớp NN hôm nay | 925920 |
 | Room NN còn lại | 2053706002 |
-| Tỷ lệ sở hữu NN hiện tại | 0.08344041811881504 |
+| Tỷ lệ sở hữu NN hiện tại | 0.08777590040855322 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1901241517 |
 | roic | 0.0967158344 |
 | roa | 0.0619721753 |
-| pe | 11.4706833507 |
-| pb | 2.0185193518 |
+| pe | 11.2746032934 |
+| pb | 1.9840147475 |
 | eps | 10199.91542119466 |
 | current_ratio | 1.4482784597 |
 | cash_ratio | 0.1456232121 |
@@ -94,12 +94,12 @@
 | fae | 0.08970675469201188 |
 | net_profit_margin | 0.2733411803098491 |
 | gross_margin | 0.3023572253166375 |
-| ev | 480567204000000 |
+| ev | 472352380000000 |
 | issue_share | 4107412004 |
-| ps | 3.135410126 |
-| pcf | 11.667327658 |
+| ps | 3.0818133717 |
+| pcf | 11.4678861596 |
 | bvps | 57963.278823746 |
-| ev_per_ebitda | 14.2264954786 |
+| ev_per_ebitda | 14.0239257595 |
 | at | 0.2267209617 |
 | fat | 8.2897080004 |
 | acp | 50.95720691607651 |
@@ -152,7 +152,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHM      | 2026-03-11 00:00:00 |   89.2 |   95.9 |  89.2 |    95.9 |  6734300 |
 | VHM      | 2026-03-12 00:00:00 |   93.7 |   95.9 |  93.5 |    95.9 |  4137400 |
 | VHM      | 2026-03-13 00:00:00 |   94.5 |   98   |  93.9 |    98   |  3989100 |
 | VHM      | 2026-03-16 00:00:00 |   98   |  102.4 |  96.9 |   100   |  4947300 |

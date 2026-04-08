@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | TCH |
 | exchange | HOSE |
-| ev | 14411325739200 |
-| ceiling | 17650 |
-| floor | 15350 |
-| ref_price | 16500 |
-| open | 16250 |
-| match_price | 15800 |
-| close_price | 15800 |
-| price_change | -700 |
-| price_change_pct | -0.04242424 |
-| high | 16750 |
-| low | 15450 |
-| total_volume | 13001454 |
+| ev | 14730563967600 |
+| ceiling | 16900 |
+| floor | 14700 |
+| ref_price | 15800 |
+| open | 16050 |
+| match_price | 16150 |
+| close_price | 16150 |
+| price_change | 350 |
+| price_change_pct | 0.0221519 |
+| high | 16600 |
+| low | 15750 |
+| total_volume | 8615672 |
 | high_price_1y | 25001 |
 | low_price_1y | 11773 |
-| pct_low_change_1y | 0.3420878099 |
-| pct_high_change_1y | -0.3582333382 |
-| foreign_volume | 2052700 |
+| pct_low_change_1y | 0.3718176032 |
+| pct_high_change_1y | -0.3440169881 |
+| foreign_volume | 1089200 |
 | foreign_room | 465175704 |
-| avg_match_volume_2w | 14418848 |
-| foreign_holding_room | 119012279 |
-| current_holding_ratio | 0.13048029322418078 |
+| avg_match_volume_2w | 12559396 |
+| foreign_holding_room | 118097779 |
+| current_holding_ratio | 0.12947767207318583 |
 | max_holding_ratio | 0.51 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2052700 |
+| KL khớp NN hôm nay | 1089200 |
 | Room NN còn lại | 465175704 |
-| Tỷ lệ sở hữu NN hiện tại | 0.13048029322418078 |
+| Tỷ lệ sở hữu NN hiện tại | 0.12947767207318583 |
 | Tỷ lệ sở hữu NN tối đa | 0.51 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0303134262 |
 | roic | 0.0229616778 |
 | roa | 0.0174498409 |
-| pe | 45.2912854259 |
-| pb | 1.2606172444 |
+| pe | 46.2945733942 |
+| pb | 1.2885423099 |
 | eps | 348.8529824537768 |
 | current_ratio | 2.9666837095 |
 | cash_ratio | 0.3600466795 |
@@ -94,12 +94,12 @@
 | fae | 0.024514495709030103 |
 | net_profit_margin | 0.16640092110612623 |
 | gross_margin | 0.30409067164545445 |
-| ev | 14411325739200 |
+| ev | 14730563967600 |
 | issue_share | 912109224 |
-| ps | 7.536511613 |
-| pcf | 6.1531347083 |
+| ps | 7.703459655 |
+| pcf | 6.2894383253 |
 | bvps | 12533.5426517954 |
-| ev_per_ebitda | 31.3943165188 |
+| ev_per_ebitda | 32.1955642837 |
 | at | 0.1048662517 |
 | fat | 5.4036833236 |
 | acp | 90.0465116279437 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCH      | 2026-03-11 00:00:00 |  13.9  |  14.65 | 13.8  |   14.65 | 10558700 |
 | TCH      | 2026-03-12 00:00:00 |  14.65 |  14.85 | 14.25 |   14.6  |  5965100 |
 | TCH      | 2026-03-13 00:00:00 |  14.3  |  15.25 | 14.3  |   15.1  | 13619400 |
 | TCH      | 2026-03-16 00:00:00 |  15.1  |  15.5  | 14.75 |   14.85 |  5881100 |

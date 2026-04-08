@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | VGC |
 | exchange | HOSE |
-| ev | 19682565000000 |
-| ceiling | 47950 |
-| floor | 41750 |
-| ref_price | 44850 |
-| open | 44850 |
-| match_price | 43900 |
-| close_price | 43900 |
-| price_change | -950 |
-| price_change_pct | -0.02118172 |
-| high | 44950 |
-| low | 43800 |
-| total_volume | 665209 |
+| ev | 19951575000000 |
+| ceiling | 46950 |
+| floor | 40850 |
+| ref_price | 43900 |
+| open | 44050 |
+| match_price | 44500 |
+| close_price | 44500 |
+| price_change | 600 |
+| price_change_pct | 0.01366743 |
+| high | 44600 |
+| low | 43350 |
+| total_volume | 407687 |
 | high_price_1y | 65743 |
 | low_price_1y | 34777 |
-| pct_low_change_1y | 0.257154901 |
-| pct_high_change_1y | -0.3204317534 |
-| foreign_volume | 118900 |
+| pct_low_change_1y | 0.2743369725 |
+| pct_high_change_1y | -0.3111438047 |
+| foreign_volume | 97000 |
 | foreign_room | 219691500 |
-| avg_match_volume_2w | 856752 |
-| foreign_holding_room | 10111674 |
-| current_holding_ratio | 0.022553081298093008 |
+| avg_match_volume_2w | 787277 |
+| foreign_holding_room | 10049293 |
+| current_holding_ratio | 0.022413946693431473 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 118900 |
+| KL khớp NN hôm nay | 97000 |
 | Room NN còn lại | 219691500 |
-| Tỷ lệ sở hữu NN hiện tại | 0.022553081298093008 |
+| Tỷ lệ sở hữu NN hiện tại | 0.022413946693431473 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1652862161 |
 | roic | 0.1337116307 |
 | roa | 0.054745662 |
-| pe | 14.0264909 |
-| pb | 2.2783768693 |
+| pe | 14.218196926 |
+| pb | 2.3095164165 |
 | eps | 3129.792070804059 |
 | current_ratio | 1.2400905341 |
 | cash_ratio | 0.2901391484 |
@@ -94,12 +94,12 @@
 | fae | 0.49934939249057797 |
 | net_profit_margin | 0.10538999615159676 |
 | gross_margin | 0.3003722418505949 |
-| ev | 19682565000000 |
+| ev | 19951575000000 |
 | issue_share | 448350000 |
-| ps | 1.478251822 |
-| pcf | 5.8946164398 |
+| ps | 1.4984557193 |
+| pcf | 5.9751806736 |
 | bvps | 19268.102916302 |
-| ev_per_ebitda | 5.4371343822 |
+| ev_per_ebitda | 5.5011645317 |
 | at | 0.5194578616 |
 | fat | 2.2570163198 |
 | acp | 24.05326182538554 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
 |:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VGC: CBTT về việc chấm dứt hoạt động chi nhánh - Công ty sen vòi Viglacera                                  | 1775494680000 | https://www.hsx.vn/vi/tin-tuc/vgc-cbtt-ve-viec-cham-dut-hoat-dong-chi-nhanh--cong-ty-sen-voi-viglacera/2450836            |
 | VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                               | 1775239020000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap/2450444                        |
 | VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                             | 1775238995000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-va-duong-dan-tai-lieu/2450443      |
 | VGC: Báo cáo thường niên năm 2025                                                                           | 1774635566000 | https://www.hsx.vn/vi/tin-tuc/vgc-bao-cao-thuong-nien-nam-2025/2447654                                                    |
@@ -131,7 +132,6 @@
 | VGC: Báo cáo tình hình quản trị công ty năm 2025                                                            | 1769802697000 | https://www.hsx.vn/vi/tin-tuc/vgc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435784                                     |
 | VGC: Đính chính chỉ tiêu doanh thu của kế hoạch SXKD và ĐTPT năm 2026                                       | 1767603190000 | https://www.hsx.vn/vi/tin-tuc/vgc-dinh-chinh-chi-tieu-doanh-thu-cua-ke-hoach-sxkd-va-dtpt-nam-2026/2428233                |
 | VGC: Quyết định của HĐQT phê duyệt tạm thời kế hoạch sản xuất kinh doanh năm 2026                           | 1767190621000 | https://www.hsx.vn/vi/tin-tuc/vgc-quyet-dinh-cua-hdqt-phe-duyet-tam-thoi-ke-hoach-san-xuat-kinh-doanh-nam-2026/2427712    |
-| VGC: CBTT hoàn thành chuyển cổ phần của các công ty con                                                     | 1767030040000 | https://www.hsx.vn/vi/tin-tuc/vgc-cbtt-hoan-thanh-chuyen-co-phan-cua-cac-cong-ty-con/2427323                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VGC      | 2026-03-11 00:00:00 |  43.5  |  45.95 | 43.4  |   45.9  |   706000 |
 | VGC      | 2026-03-12 00:00:00 |  46    |  46.7  | 45.05 |   45.8  |   863000 |
 | VGC      | 2026-03-13 00:00:00 |  44.65 |  46.4  | 44.1  |   45.7  |   707600 |
 | VGC      | 2026-03-16 00:00:00 |  45.1  |  46.35 | 45.1  |   45.9  |   465300 |

@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | OCB |
 | exchange | HOSE |
-| ev | 29160422509800 |
-| ceiling | 11750 |
-| floor | 10250 |
-| ref_price | 11000 |
+| ev | 29027269895600 |
+| ceiling | 11700 |
+| floor | 10200 |
+| ref_price | 10950 |
 | open | 11000 |
-| match_price | 10950 |
-| close_price | 10950 |
+| match_price | 10900 |
+| close_price | 10900 |
 | price_change | -50 |
-| price_change_pct | -0.00454545 |
+| price_change_pct | -0.00456621 |
 | high | 11050 |
-| low | 10900 |
-| total_volume | 613878 |
+| low | 10800 |
+| total_volume | 808945 |
 | high_price_1y | 15400 |
 | low_price_1y | 7799 |
-| pct_low_change_1y | 0.3069661064 |
-| pct_high_change_1y | -0.25 |
-| foreign_volume | 62200 |
+| pct_low_change_1y | 0.3009982246 |
+| pct_high_change_1y | -0.2534246575 |
+| foreign_volume | 114100 |
 | foreign_room | 585871502 |
-| avg_match_volume_2w | 1025506 |
-| foreign_holding_room | 521899499 |
-| current_holding_ratio | 0.19597793935013857 |
+| avg_match_volume_2w | 964022 |
+| foreign_holding_room | 521694879 |
+| current_holding_ratio | 0.19590110270625088 |
 | max_holding_ratio | 0.22 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 10.95 |
-| EMA20 | 11.07 |
-| EMA50 | 11.31 |
-| RSI(14) | 43.7 |
+| Giá đóng cửa | 11.3 |
+| EMA20 | 11.09 |
+| EMA50 | 11.3 |
+| RSI(14) | 55.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.061 |
-| MACD Signal | -0.084 |
-| MACD Histogram | 0.023 |
+| MACD | -0.039 |
+| MACD Signal | -0.076 |
+| MACD Histogram | 0.036 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 62200 |
+| KL khớp NN hôm nay | 114100 |
 | Room NN còn lại | 585871502 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19597793935013857 |
+| Tỷ lệ sở hữu NN hiện tại | 0.19590110270625088 |
 | Tỷ lệ sở hữu NN tối đa | 0.22 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1222665415 |
 | roic | 0 |
 | roa | 0.0133795063 |
-| pe | 7.2717787198 |
-| pb | 0.8595637255 |
+| pe | 7.2385742508 |
+| pb | 0.855638777 |
 | eps | 1505.8213982947846 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.02046125104546055 |
 | net_profit_margin | 0.43357635591385957 |
 | gross_margin | 0 |
-| ev | 29160422509800 |
+| ev | 29027269895600 |
 | issue_share | 2663052284 |
-| ps | 2.5160551123 |
-| pcf | 1.7041238425 |
+| ps | 2.5045662761 |
+| pcf | 1.6963424551 |
 | bvps | 12739.020592429 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -152,7 +152,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| OCB      | 2026-03-11 00:00:00 |  10.7  |  11.05 | 10.65 |   10.85 |  2638800 |
 | OCB      | 2026-03-12 00:00:00 |  10.85 |  10.85 | 10.65 |   10.7  |  1573200 |
 | OCB      | 2026-03-13 00:00:00 |  10.7  |  10.75 | 10.6  |   10.7  |  1195400 |
 | OCB      | 2026-03-16 00:00:00 |  10.7  |  10.8  | 10.7  |   10.75 |   875800 |

@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | SJS |
 | exchange | HOSE |
-| ev | 14323412968200 |
-| ceiling | 51700 |
-| floor | 45000 |
-| ref_price | 48350 |
-| open | 48800 |
-| match_price | 48150 |
-| close_price | 48150 |
-| price_change | -200 |
-| price_change_pct | -0.0041365 |
-| high | 48800 |
-| low | 48150 |
-| total_volume | 2289117 |
+| ev | 14576266572000 |
+| ceiling | 51500 |
+| floor | 44800 |
+| ref_price | 48150 |
+| open | 47950 |
+| match_price | 49000 |
+| close_price | 49000 |
+| price_change | 850 |
+| price_change_pct | 0.01765317 |
+| high | 49000 |
+| low | 47100 |
+| total_volume | 11510 |
 | high_price_1y | 84800 |
 | low_price_1y | 31042 |
-| pct_low_change_1y | 0.5511022974 |
-| pct_high_change_1y | -0.4077490775 |
-| foreign_volume | 2700 |
+| pct_low_change_1y | 0.5784841655 |
+| pct_high_change_1y | -0.3972939729 |
+| foreign_volume | 1200 |
 | foreign_room | 148737414 |
-| avg_match_volume_2w | 16864 |
-| foreign_holding_room | 1726163 |
-| current_holding_ratio | 0.005802719549769771 |
+| avg_match_volume_2w | 16274 |
+| foreign_holding_room | 1724863 |
+| current_holding_ratio | 0.005798349432107244 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.5 |
-| EMA20 | 49.06 |
+| Giá đóng cửa | 49.5 |
+| EMA20 | 49.23 |
 | EMA50 | 51.0 |
-| RSI(14) | 36.7 |
+| RSI(14) | 49.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.671 |
-| MACD Signal | -0.695 |
-| MACD Histogram | 0.024 |
+| MACD | -0.466 |
+| MACD Signal | -0.63 |
+| MACD Histogram | 0.164 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2700 |
+| KL khớp NN hôm nay | 1200 |
 | Room NN còn lại | 148737414 |
-| Tỷ lệ sở hữu NN hiện tại | 0.005802719549769771 |
+| Tỷ lệ sở hữu NN hiện tại | 0.005798349432107244 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1127596969 |
 | roic | 0.1003196748 |
 | roa | 0.0459571116 |
-| pe | 39.6417867187 |
-| pb | 4.1753132826 |
+| pe | 40.3415898071 |
+| pb | 4.2490207861 |
 | eps | 1214.6273915889112 |
 | current_ratio | 2.2538753092 |
 | cash_ratio | 0.0783176175 |
@@ -94,12 +94,12 @@
 | fae | 0.06220835521163013 |
 | net_profit_margin | 0.48129574518270646 |
 | gross_margin | 0.7068897728628163 |
-| ev | 14323412968200 |
+| ev | 14576266572000 |
 | issue_share | 297474828 |
-| ps | 19.0794232791 |
-| pcf | -192.9262828566 |
+| ps | 19.4162355281 |
+| pcf | -196.3320427824 |
 | bvps | 11532.0687911247 |
-| ev_per_ebitda | 33.1014715889 |
+| ev_per_ebitda | 33.650862041 |
 | at | 0.0954862204 |
 | fat | 3.4529661725 |
 | acp | 103.32077849481759 |
@@ -135,22 +135,21 @@
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                         | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:----------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu         | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%         | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Đợt 2 năm 2017 bằng tiền 500 đồng/cp | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
-| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%         | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP   | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP         | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                            | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
+| event_list_name          | event_title                                       | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:--------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm            | SJS - Niêm yết bổ sung 182.619.288 cổ phiếu       | 2025-08-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+| Phát hành cổ phiếu       | SJS - Phát hành cổ phiếu thưởng tỷ lệ 83,9%       | 2025-07-25    | 2025-07-31    | 2025-07-30     |   0.839 |       0 |
+| Trả cổ tức bằng tiền mặt | SJS - Trả cổ tức Đợt 1, 2017 bằng tiền 500 VND/CP | 2019-05-14    | 2019-05-24    | 2019-05-23     |   0.05  |     500 |
+| Phát hành cổ phiếu       | SJS-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%       | 2018-03-22    | 2018-04-06    | 2018-04-05     |   0.15  |       0 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP | 2017-12-21    | 2017-12-29    | 2017-12-28     |   0.1   |    1000 |
+| Trả cổ tức bằng tiền mặt | SJS-Trả cổ tức năm 2015 bằng tiền 500VND/CP       | 2017-01-13    | 2017-01-20    | 2017-01-19     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-02-11    | 2011-02-25    | 2011-02-23     | nan     |     nan |
+| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                          | 2011-01-27    | 2011-01-27    | 2011-01-27     | nan     |     nan |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SJS      | 2026-03-11 00:00:00 |  49.8  |  49.8  | 47    |   48.95 |    14900 |
 | SJS      | 2026-03-12 00:00:00 |  48.85 |  48.85 | 47.8  |   47.8  |     4500 |
 | SJS      | 2026-03-13 00:00:00 |  49.3  |  49.5  | 48.5  |   48.5  |     3900 |
 | SJS      | 2026-03-16 00:00:00 |  49    |  49.3  | 49    |   49    |    19000 |
@@ -175,16 +174,13 @@
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SJS      | 2026-04-07 09:15:00 |   47.95 |      100 | ATO          | 459846632 |
-| SJS      | 2026-04-07 09:21:56 |   48    |      100 | Buy          | 459861102 |
-| SJS      | 2026-04-07 09:33:27 |   47.1  |      100 | Sell         | 459883750 |
-| SJS      | 2026-04-07 09:41:06 |   47.5  |      200 | Sell         | 459898766 |
-| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997769 |
-| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997770 |
-| SJS      | 2026-04-07 10:35:17 |   47.25 |      100 | Sell         | 459997771 |
-| SJS      | 2026-04-07 10:40:07 |   48.1  |     2000 | Buy          | 460006046 |
-| SJS      | 2026-04-07 10:41:12 |   47.25 |      100 | Sell         | 460007887 |
-| SJS      | 2026-04-07 10:41:12 |   47.25 |      100 | Sell         | 460007886 |
+| SJS      | 2026-04-08 09:15:00 |    49.4 |      900 | ATO          | 460337890 |
+| SJS      | 2026-04-08 09:15:05 |    49.4 |      100 | Sell         | 460338638 |
+| SJS      | 2026-04-08 09:17:43 |    49.3 |      100 | Sell         | 460356293 |
+| SJS      | 2026-04-08 09:19:45 |    49.5 |      200 | Sell         | 460370855 |
+| SJS      | 2026-04-08 09:23:46 |    49.5 |      100 | Sell         | 460393413 |
+| SJS      | 2026-04-08 09:23:47 |    49.5 |      900 | Sell         | 460393428 |
+| SJS      | 2026-04-08 09:24:19 |    49.5 |     1700 | Sell         | 460396534 |
 
 <!-- END:DAILY -->
 

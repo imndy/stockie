@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | HCM |
 | exchange | HOSE |
-| ev | 25939130136000 |
-| ceiling | 25800 |
-| floor | 22500 |
-| ref_price | 24150 |
-| open | 24000 |
-| match_price | 24000 |
-| close_price | 24000 |
-| price_change | -150 |
-| price_change_pct | -0.00621118 |
-| high | 24400 |
-| low | 23500 |
-| total_volume | 24117398 |
+| ev | 26209329408250 |
+| ceiling | 25650 |
+| floor | 22350 |
+| ref_price | 24000 |
+| open | 23950 |
+| match_price | 24250 |
+| close_price | 24250 |
+| price_change | 250 |
+| price_change_pct | 0.01041667 |
+| high | 24300 |
+| low | 23700 |
+| total_volume | 8660870 |
 | high_price_1y | 29895 |
 | low_price_1y | 17544 |
-| pct_low_change_1y | 0.3102710238 |
-| pct_high_change_1y | -0.178278617 |
-| foreign_volume | 1330100 |
+| pct_low_change_1y | 0.3239196803 |
+| pct_high_change_1y | -0.1697190192 |
+| foreign_volume | 440701 |
 | foreign_room | 529590573 |
-| avg_match_volume_2w | 14996741 |
-| foreign_holding_room | 379034922 |
-| current_holding_ratio | 0.35069942902113055 |
+| avg_match_volume_2w | 15160362 |
+| foreign_holding_room | 378807921 |
+| current_holding_ratio | 0.3504893979224994 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.8 |
-| EMA20 | 22.66 |
-| EMA50 | 22.74 |
-| RSI(14) | 59.5 |
+| Giá đóng cửa | 24.65 |
+| EMA20 | 22.89 |
+| EMA50 | 22.83 |
+| RSI(14) | 65.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.286 |
-| MACD Signal | -0.097 |
-| MACD Histogram | 0.383 |
+| MACD | 0.431 |
+| MACD Signal | 0.014 |
+| MACD Histogram | 0.416 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1330100 |
+| KL khớp NN hôm nay | 440701 |
 | Room NN còn lại | 529590573 |
-| Tỷ lệ sở hữu NN hiện tại | 0.35069942902113055 |
+| Tỷ lệ sở hữu NN hiện tại | 0.3504893979224994 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0943381234 |
 | roic | 0.0323961659 |
 | roa | 0.0302836055 |
-| pe | 22.0081007109 |
-| pb | 1.783598522 |
+| pe | 22.23735176 |
+| pb | 1.8021776732 |
 | eps | 1090.5075506157289 |
 | current_ratio | 1.4498516001 |
 | cash_ratio | 0.5466190423 |
@@ -94,12 +94,12 @@
 | fae | 0.0024525809980122846 |
 | net_profit_margin | 0.2294747615215151 |
 | gross_margin | 0.38623030769900757 |
-| ev | 25939130136000 |
+| ev | 26209329408250 |
 | issue_share | 1080797089 |
-| ps | 5.0503036622 |
-| pcf | -2.214101358 |
+| ps | 5.102910992 |
+| pcf | -2.2371649138 |
 | bvps | 13455.9429739748 |
-| ev_per_ebitda | 35.5202195364 |
+| ev_per_ebitda | 35.7008732313 |
 | at | 0.1319692207 |
 | fat | 133.1327025447 |
 | acp | None |
@@ -110,7 +110,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 1.345594297397483 |
 | rtq10 | 2.1973145712 |
-| dividend | 0.0166666667 |
+| dividend | 0.0164948454 |
 | ebitda | 1495675316134 |
 | ebit | 1471832069985 |
 | le | 2.1239663223 |
@@ -143,12 +143,12 @@
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 2 năm 2024 bằng tiền 400 đồng/cổ phiếu                  | 2025-04-26    | 2025-05-14    | 2025-05-13     |  0.04   |     400 |
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1 năm 2024 bằng tiền 500 đồng/cổ phiếu                  | 2025-01-16    | 2025-02-05    | 2025-02-04     |  0.05   |     500 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 16.000.000 cổ phiếu                                   | 2024-10-30    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Cả năm năm 2023 bằng tiền 522 đồng/cổ phiếu                 | 2024-07-04    | 2024-07-16    | 2024-07-15     |  0.0522 |     522 |
+| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 3 năm 2022 bằng tiền 656 đồng/cổ phiếu                  | 2024-07-04    | 2024-07-16    | 2024-07-15     |  0.0656 |     656 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 178,179,234 cổ phiếu                                  | 2024-06-07    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 68,579,931 cổ phiếu                                   | 2024-02-02    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HCM - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                                | 2023-12-20    | 2024-01-03    | 2024-01-02     |  0.15   |       0 |
+| Phát hành cổ phiếu       | HCM - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 10.000 đồng/cp | 2023-12-20    | 2024-01-03    | 2024-01-02     |  0.5    |       0 |
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 2 năm 2022 bằng tiền 500 đồng/cổ phiếu                  | 2023-05-23    | 2023-06-09    | 2023-06-08     |  0.05   |     500 |
-| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1 năm 2022 bằng tiền 250 đồng/cổ phiếu                  | 2023-01-04    | 2023-01-18    | 2023-01-17     |  0.025  |     250 |
+| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 2 năm 2021 bằng tiền 250 đồng/cổ phiếu                  | 2023-01-04    | 2023-01-18    | 2023-01-17     |  0.025  |     250 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 33.831.707 cổ phiếu                                   | 2022-01-27    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 118.338.397 cổ phiếu                                  | 2022-01-27    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1, 2021 bằng tiền 500 VND/CP                            | 2021-11-29    | 2021-12-07    | 2021-12-06     |  0.05   |     500 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HCM      | 2026-03-11 00:00:00 |  22.05 |  22.95 | 21.85 |   22.65 |  9581100 |
 | HCM      | 2026-03-12 00:00:00 |  22.3  |  22.55 | 21.9  |   21.95 |  8759200 |
 | HCM      | 2026-03-13 00:00:00 |  21.7  |  22.1  | 21.55 |   21.65 |  8326600 |
 | HCM      | 2026-03-16 00:00:00 |  21.85 |  22.3  | 21.6  |   21.75 |  4880600 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | TPB |
 | exchange | HOSE |
-| ev | 43968642937050 |
-| ceiling | 17100 |
-| floor | 14900 |
-| ref_price | 16000 |
-| open | 16000 |
-| match_price | 15850 |
-| close_price | 15850 |
-| price_change | -150 |
-| price_change_pct | -0.009375 |
-| high | 16100 |
-| low | 15850 |
-| total_volume | 4722932 |
+| ev | 43691238249750 |
+| ceiling | 16950 |
+| floor | 14750 |
+| ref_price | 15850 |
+| open | 15950 |
+| match_price | 15750 |
+| close_price | 15750 |
+| price_change | -100 |
+| price_change_pct | -0.00630915 |
+| high | 16000 |
+| low | 15550 |
+| total_volume | 9198416 |
 | high_price_1y | 21715 |
 | low_price_1y | 9855 |
-| pct_low_change_1y | 0.5258608124 |
-| pct_high_change_1y | -0.2452531902 |
-| foreign_volume | 434000 |
+| pct_low_change_1y | 0.5162339303 |
+| pct_high_change_1y | -0.2500149997 |
+| foreign_volume | 1299525 |
 | foreign_room | 832214061 |
-| avg_match_volume_2w | 8254992 |
-| foreign_holding_room | 678046559 |
-| current_holding_ratio | 0.2444250548177381 |
+| avg_match_volume_2w | 7984294 |
+| foreign_holding_room | 677791219 |
+| current_holding_ratio | 0.24433300878834863 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 16.56 |
 | RSI(14) | 42.9 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.235 |
 | MACD Signal | -0.271 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 434000 |
+| KL khớp NN hôm nay | 1299525 |
 | Room NN còn lại | 832214061 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2444250548177381 |
+| Tỷ lệ sở hữu NN hiện tại | 0.24433300878834863 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1769898413 |
 | roic | 0 |
 | roa | 0.0160228617 |
-| pe | 5.9401031296 |
-| pb | 1.0393001695 |
+| pe | 5.9026261382 |
+| pb | 1.0327430707 |
 | eps | 2668.303841582491 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.02633521453487098 |
 | net_profit_margin | 0.5535794535717579 |
 | gross_margin | 0 |
-| ev | 43968643365000 |
+| ev | 43691238675000 |
 | issue_share | 2774046873 |
-| ps | 2.3147775157 |
-| pcf | 1.6796190812 |
+| ps | 2.3001732412 |
+| pcf | 1.6690221154 |
 | bvps | 15250.6469879799 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TPB      | 2026-03-11 00:00:00 |  16.05 |  16.7  | 16    |   16.45 | 21018900 |
 | TPB      | 2026-03-12 00:00:00 |  16.2  |  16.45 | 15.95 |   16.05 | 13103500 |
 | TPB      | 2026-03-13 00:00:00 |  16.1  |  16.2  | 15.85 |   16    | 11262700 |
 | TPB      | 2026-03-16 00:00:00 |  16.1  |  16.2  | 15.95 |   16    |  6987300 |

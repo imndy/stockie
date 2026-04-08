@@ -12,52 +12,52 @@
 | symbol | BWE |
 | exchange | HOSE |
 | ev | 9423942395400 |
-| ceiling | 46000 |
-| floor | 40000 |
-| ref_price | 43000 |
-| open | 42000 |
+| ceiling | 45800 |
+| floor | 39900 |
+| ref_price | 42850 |
+| open | 42850 |
 | match_price | 42850 |
 | close_price | 42850 |
-| price_change | -150 |
-| price_change_pct | -0.00348837 |
-| high | 42900 |
-| low | 42000 |
-| total_volume | 112068 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 42950 |
+| low | 42700 |
+| total_volume | 196720 |
 | high_price_1y | 52774 |
 | low_price_1y | 38001 |
 | pct_low_change_1y | 0.113356011 |
 | pct_high_change_1y | -0.1649829918 |
-| foreign_volume | 10618 |
+| foreign_volume | 24000 |
 | foreign_room | 107765035 |
-| avg_match_volume_2w | 253363 |
-| foreign_holding_room | 8119394 |
-| current_holding_ratio | 0.03691831064988515 |
+| avg_match_volume_2w | 248859 |
+| foreign_holding_room | 8062386 |
+| current_holding_ratio | 0.036659099303135795 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 42.85 |
-| EMA20 | 42.99 |
-| EMA50 | 43.53 |
-| RSI(14) | 47.2 |
+| Giá đóng cửa | 43.05 |
+| EMA20 | 43.0 |
+| EMA50 | 43.51 |
+| RSI(14) | 49.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.215 |
-| MACD Signal | -0.304 |
-| MACD Histogram | 0.09 |
+| MACD | -0.186 |
+| MACD Signal | -0.281 |
+| MACD Histogram | 0.095 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 10618 |
+| KL khớp NN hôm nay | 24000 |
 | Room NN còn lại | 107765035 |
-| Tỷ lệ sở hữu NN hiện tại | 0.03691831064988515 |
+| Tỷ lệ sở hữu NN hiện tại | 0.036659099303135795 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -122,6 +122,7 @@
 
 | news_title                                                                                 |   public_date | news_source_link                                                                                                          |
 |:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                      | 1775579339000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-duong-dan-dang-tai-dieu-le-cong-ty-sua-doi-lan-thu-9/2451189                  |
 | BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)                | 1775140637000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-thay-doi-nhan-su-dinh-chinh-ban-cbtt-so-06-ngay-28032026/2449778              |
 | BWE: Thông báo thay đổi nhân sự                                                            | 1774880555000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-thay-doi-nhan-su/2448033                                                      |
 | BWE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                     | 1774862185000 | https://www.hsx.vn/vi/tin-tuc/bwe-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2447753                               |
@@ -131,7 +132,6 @@
 | BWE: Đường dẫn đăng tải Báo cáo thường niên năm 2025                                       | 1773766035000 | https://www.hsx.vn/vi/tin-tuc/bwe-duong-dan-dang-tai-bao-cao-thuong-nien-nam-2025/2444830                                 |
 | BWE: Đường dẫn đăng tải Báo cáo phát triển bền vững năm 2025                               | 1773765990000 | https://www.hsx.vn/vi/tin-tuc/bwe-duong-dan-dang-tai-bao-cao-phat-trien-ben-vung-nam-2025/2444829                         |
 | BWE: Báo cáo danh sách ứng viên tham gia Ban kiểm soát nhiệm kỳ II (2022-2027)             | 1773765900000 | https://www.hsx.vn/vi/tin-tuc/bwe-bao-cao-danh-sach-ung-vien-tham-gia-ban-kiem-soat-nhiem-ky-ii-20222027/2444826          |
-| BWE: Tài liệu họp ĐHĐCĐ thường niên 2026                                                   | 1772466222000 | https://www.hsx.vn/vi/tin-tuc/bwe-tai-lieu-hop-dhdcd-thuong-nien-2026/2441104                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BWE      | 2026-03-11 00:00:00 |  43.3  |  43.45 | 42.8  |   43    |   478600 |
 | BWE      | 2026-03-12 00:00:00 |  43    |  43.05 | 42.4  |   42.7  |   168900 |
 | BWE      | 2026-03-13 00:00:00 |  42.6  |  43.3  | 42.6  |   42.7  |   181500 |
 | BWE      | 2026-03-16 00:00:00 |  42.7  |  43    | 42.25 |   42.25 |   102400 |
@@ -176,22 +175,23 @@
 | BWE      | 2026-04-02 00:00:00 |  43    |  43    | 42.4  |   43    |   132900 |
 | BWE      | 2026-04-03 00:00:00 |  43    |  43    | 42.6  |   43    |   119800 |
 | BWE      | 2026-04-06 00:00:00 |  42    |  42.9  | 42    |   42.85 |   111800 |
-| BWE      | 2026-04-07 00:00:00 |  42.85 |  42.9  | 42.8  |   42.85 |    57600 |
+| BWE      | 2026-04-07 00:00:00 |  42.85 |  42.95 | 42.7  |   42.85 |   196600 |
+| BWE      | 2026-04-08 00:00:00 |  43    |  43.3  | 43    |   43.05 |   261700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BWE      | 2026-04-07 09:18:26 |   42.85 |      800 | Buy          | 459853233 |
-| BWE      | 2026-04-07 09:18:26 |   42.85 |      300 | Buy          | 459853241 |
-| BWE      | 2026-04-07 09:18:26 |   42.85 |      100 | Buy          | 459853236 |
-| BWE      | 2026-04-07 09:18:26 |   42.85 |      800 | Buy          | 459853239 |
-| BWE      | 2026-04-07 09:18:26 |   42.85 |      500 | Buy          | 459853240 |
-| BWE      | 2026-04-07 09:18:57 |   42.85 |     1000 | Sell         | 459854567 |
-| BWE      | 2026-04-07 09:18:57 |   42.85 |      800 | Sell         | 459854575 |
-| BWE      | 2026-04-07 09:20:21 |   42.9  |      100 | Sell         | 459857835 |
-| BWE      | 2026-04-07 09:20:22 |   42.85 |      700 | Sell         | 459857848 |
-| BWE      | 2026-04-07 09:56:47 |   42.8  |      100 | Buy          | 459927930 |
+| BWE      | 2026-04-08 10:38:11 |   43.05 |      400 | Buy          | 460633908 |
+| BWE      | 2026-04-08 10:38:11 |   43.1  |     4300 | Buy          | 460633911 |
+| BWE      | 2026-04-08 10:38:11 |   43.1  |      300 | Buy          | 460633915 |
+| BWE      | 2026-04-08 10:42:50 |   43.05 |     2000 | Sell         | 460654035 |
+| BWE      | 2026-04-08 10:44:04 |   43.05 |      200 | Sell         | 460658264 |
+| BWE      | 2026-04-08 10:44:04 |   43.05 |     1800 | Sell         | 460658263 |
+| BWE      | 2026-04-08 10:44:21 |   43.05 |      300 | Sell         | 460659216 |
+| BWE      | 2026-04-08 10:44:21 |   43    |      500 | Sell         | 460659217 |
+| BWE      | 2026-04-08 10:44:21 |   43    |     3600 | Sell         | 460659218 |
+| BWE      | 2026-04-08 10:44:21 |   43    |      300 | Sell         | 460659219 |
 
 <!-- END:DAILY -->
 

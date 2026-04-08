@@ -12,52 +12,52 @@
 | symbol | HT1 |
 | exchange | HOSE |
 | ev | 5571212700600 |
-| ceiling | 15950 |
-| floor | 13950 |
-| ref_price | 14950 |
-| open | 14900 |
+| ceiling | 15600 |
+| floor | 13600 |
+| ref_price | 14600 |
+| open | 14600 |
 | match_price | 14600 |
 | close_price | 14600 |
-| price_change | -350 |
-| price_change_pct | -0.02341137 |
-| high | 14900 |
-| low | 14600 |
-| total_volume | 227798 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 14800 |
+| low | 14500 |
+| total_volume | 256119 |
 | high_price_1y | 21000 |
 | low_price_1y | 9120 |
 | pct_low_change_1y | 0.5785746336 |
 | pct_high_change_1y | -0.2736318408 |
-| foreign_volume | 26100 |
+| foreign_volume | 40500 |
 | foreign_room | 186979056 |
-| avg_match_volume_2w | 312758 |
-| foreign_holding_room | 8854802 |
-| current_holding_ratio | 0.023205021266927573 |
+| avg_match_volume_2w | 304693 |
+| foreign_holding_room | 8773902 |
+| current_holding_ratio | 0.022993013565287893 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.65 |
-| EMA20 | 15.32 |
-| EMA50 | 15.67 |
-| RSI(14) | 39.2 |
+| Giá đóng cửa | 14.95 |
+| EMA20 | 15.28 |
+| EMA50 | 15.64 |
+| RSI(14) | 43.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.357 |
-| MACD Signal | -0.298 |
-| MACD Histogram | -0.06 |
+| MACD | -0.345 |
+| MACD Signal | -0.308 |
+| MACD Histogram | -0.037 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 26100 |
+| KL khớp NN hôm nay | 40500 |
 | Room NN còn lại | 186979056 |
-| Tỷ lệ sở hữu NN hiện tại | 0.023205021266927573 |
+| Tỷ lệ sở hữu NN hiện tại | 0.022993013565287893 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -122,6 +122,7 @@
 
 | news_title                                                                                              |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HT1: Báo cáo thường niên năm 2025                                                                       | 1775560293000 | https://www.hsx.vn/vi/tin-tuc/ht1-bao-cao-thuong-nien-nam-2025/2451071                                                    |
 | HT1: Thông báo thời gian, địa điểm, chương trình và link tài liệu họp ĐHĐCĐ TN năm 2026                 | 1774879707000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-thoi-gian-dia-diem-chuong-trinh-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/24480… |
 | HT1: Quyết định của HĐQT về việc ký hợp đồng với người có liên quan                                     | 1774627663000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-ky-hop-dong-voi-nguoi-co-lien-quan/2447463                  |
 | HT1: Quyết định của HĐQT về việc chấp thuận chủ trường ký hợp đồng với Người có liên quan               | 1774285964000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan/2… |
@@ -131,7 +132,6 @@
 | HT1: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Tổng Giám đốc                                        | 1773133133000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-thay-doi-nhan-su--bo-nhiem-lai-pho-tong-giam-doc/2442966                      |
 | HT1: Quyết định của HĐQT về việc chấp thuận chủ trương ký hợp đồng với Người có liên quan               | 1772791461000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan/2… |
 | HT1: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                       | 1772559868000 | https://www.hsx.vn/vi/tin-tuc/ht1-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2441566                                    |
-| HT1: Thông báo thay đổi nhân sự                                                                         | 1770823119000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-thay-doi-nhan-su/2438420                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -154,7 +154,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HT1      | 2026-03-11 00:00:00 |  15.85 |  16.65 | 15.8  |   16.5  |   851600 |
 | HT1      | 2026-03-12 00:00:00 |  16.55 |  16.65 | 16    |   16.45 |   369700 |
 | HT1      | 2026-03-13 00:00:00 |  16.2  |  17.6  | 15.6  |   16.9  |   943300 |
 | HT1      | 2026-03-16 00:00:00 |  17.25 |  17.25 | 16.45 |   16.45 |   656500 |
@@ -179,16 +178,16 @@
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HT1      | 2026-04-07 09:15:00 |   14.6  |      500 | ATO          | 459846570 |
-| HT1      | 2026-04-07 09:15:50 |   14.8  |      100 | Buy          | 459848189 |
-| HT1      | 2026-04-07 09:18:08 |   14.8  |      100 | Buy          | 459852577 |
-| HT1      | 2026-04-07 09:18:08 |   14.8  |     1900 | Buy          | 459852575 |
-| HT1      | 2026-04-07 09:18:57 |   14.8  |      200 | Buy          | 459854576 |
-| HT1      | 2026-04-07 09:19:38 |   14.75 |     2000 | Buy          | 459856198 |
-| HT1      | 2026-04-07 09:19:38 |   14.75 |      500 | Buy          | 459856199 |
-| HT1      | 2026-04-07 09:19:38 |   14.75 |      500 | Buy          | 459856200 |
-| HT1      | 2026-04-07 09:19:52 |   14.7  |      100 | Sell         | 459856752 |
-| HT1      | 2026-04-07 09:23:21 |   14.7  |      500 | Sell         | 459863926 |
+| HT1      | 2026-04-08 09:40:08 |   14.95 |      100 | Buy          | 460457418 |
+| HT1      | 2026-04-08 09:40:08 |   14.95 |      400 | Buy          | 460457419 |
+| HT1      | 2026-04-08 09:40:30 |   14.95 |      100 | Sell         | 460458433 |
+| HT1      | 2026-04-08 09:40:39 |   14.95 |     1000 | Sell         | 460458820 |
+| HT1      | 2026-04-08 09:40:57 |   15    |      100 | Buy          | 460459483 |
+| HT1      | 2026-04-08 09:41:58 |   14.95 |     4800 | Sell         | 460461853 |
+| HT1      | 2026-04-08 09:46:16 |   15    |      100 | Buy          | 460472748 |
+| HT1      | 2026-04-08 09:46:58 |   15    |      200 | Buy          | 460474733 |
+| HT1      | 2026-04-08 09:48:58 |   14.95 |     3600 | Sell         | 460478687 |
+| HT1      | 2026-04-08 09:48:58 |   14.95 |     2200 | Sell         | 460478688 |
 
 <!-- END:DAILY -->
 

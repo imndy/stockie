@@ -345,27 +345,27 @@
 | --- | --- |
 | symbol | VNM |
 | exchange | HOSE |
-| ev | 127278286600500 |
-| ceiling | 64200 |
-| floor | 55800 |
-| ref_price | 60000 |
-| open | 60000 |
-| match_price | 60900 |
-| close_price | 60900 |
-| price_change | 900 |
-| price_change_pct | 0.015 |
-| high | 61000 |
-| low | 60000 |
-| total_volume | 3042732 |
+| ev | 127487282145000 |
+| ceiling | 65100 |
+| floor | 56700 |
+| ref_price | 60900 |
+| open | 60900 |
+| match_price | 61000 |
+| close_price | 61000 |
+| price_change | 100 |
+| price_change_pct | 0.00164204 |
+| high | 61200 |
+| low | 60300 |
+| total_volume | 1830413 |
 | high_price_1y | 75500 |
 | low_price_1y | 47418 |
-| pct_low_change_1y | 0.2694992077 |
-| pct_high_change_1y | -0.1702997275 |
-| foreign_volume | 1317719 |
+| pct_low_change_1y | 0.2715837712 |
+| pct_high_change_1y | -0.1689373297 |
+| foreign_volume | 586398 |
 | foreign_room | 2089955445 |
-| avg_match_volume_2w | 3446377 |
-| foreign_holding_room | 1024007978 |
-| current_holding_ratio | 0.48996641552805925 |
+| avg_match_volume_2w | 3359855 |
+| foreign_holding_room | 1021565249 |
+| current_holding_ratio | 0.4887976207550204 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -377,8 +377,8 @@
 | EMA50 | 63.37 |
 | RSI(14) | 43.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -1.184 |
 | MACD Signal | -1.367 |
@@ -389,9 +389,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1317719 |
+| KL khớp NN hôm nay | 586398 |
 | Room NN còn lại | 2089955445 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48996641552805925 |
+| Tỷ lệ sở hữu NN hiện tại | 0.4887976207550204 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -417,8 +417,8 @@
 | roe | 0.2989064033 |
 | roic | 0.2426899808 |
 | roa | 0.173681751 |
-| pe | 13.5255642099 |
-| pb | 4.1478474291 |
+| pe | 13.5477736749 |
+| pb | 4.1546583444 |
 | eps | 4502.584813090119 |
 | current_ratio | 1.9579168955 |
 | cash_ratio | 0.0969838368 |
@@ -428,12 +428,12 @@
 | fae | 0.36681584563508784 |
 | net_profit_margin | 0.1478524713267715 |
 | gross_margin | 0.41180154021448545 |
-| ev | 127278286600500 |
+| ev | 127487282145000 |
 | issue_share | 2089955445 |
-| ps | 1.9997880945 |
-| pcf | 14.6834649577 |
+| ps | 2.0030718188 |
+| pcf | 14.7075757376 |
 | bvps | 14682.3143911022 |
-| ev_per_ebitda | 10.5587221076 |
+| ev_per_ebitda | 10.5750754872 |
 | at | 1.1746962998 |
 | fat | 5.0513648453 |
 | acp | 27.2267576357501 |
@@ -444,7 +444,7 @@
 | rtq4 | 0.0018243134 |
 | charter_capital_ratio | 1.6499402113381896 |
 | rtq10 | 0.5460472431 |
-| dividend | 0.0410509031 |
+| dividend | 0.0409836066 |
 | ebitda | 12779960497496 |
 | ebit | 10663715205138 |
 | le | 0.2760649643 |
@@ -471,7 +471,7 @@
 
 | event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2025 bằng tiền 2500 đồng/cổ phiếu | 2025-10-07    | 2025-10-17    | 2025-10-16     |   0.25  |    2500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 4 năm 2024 bằng tiền 350 đồng/cổ phiếu  | 2025-10-07    | 2025-10-17    | 2025-10-16     |   0.035 |     350 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2024 bằng tiền 2000 đồng/cổ phiếu | 2025-05-08    | 2025-05-15    | 2025-05-14     |   0.2   |    2000 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2024 bằng tiền 500 đồng/cổ phiếu  | 2024-12-12    | 2024-12-27    | 2024-12-26     |   0.05  |     500 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1500 đồng/cổ phiếu | 2024-08-30    | 2024-09-25    | 2024-09-24     |   0.15  |    1500 |
@@ -491,7 +491,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VNM      | 2026-03-11 00:00:00 |   61.7 |   63.7 |  61.6 |    63   |  7507500 |
 | VNM      | 2026-03-12 00:00:00 |   62   |   62.7 |  61.3 |    61.6 |  6298800 |
 | VNM      | 2026-03-13 00:00:00 |   62   |   63.2 |  61.6 |    63.1 |  5388500 |
 | VNM      | 2026-03-16 00:00:00 |   62.6 |   62.9 |  61.7 |    61.8 |  2965000 |

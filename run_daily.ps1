@@ -6,8 +6,6 @@ $REPO = "C:\Users\dtran\OneDrive\Duy_Data\Trade\Stockie"
 $VENV_PYTHON = "$REPO\.venv\Scripts\python.exe"
 $SCRIPT = "$REPO\draft\analyze.py"
 $LOG = "$REPO\run_daily.log"
-$STDOUT_LOG = "$REPO\run_daily.stdout.tmp.log"
-$STDERR_LOG = "$REPO\run_daily.stderr.tmp.log"
 
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 

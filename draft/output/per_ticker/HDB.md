@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | HDB |
 | exchange | HOSE |
-| ev | 128135073868800 |
+| ev | 125632435130000 |
 | ceiling | 27350 |
 | floor | 23850 |
 | ref_price | 25600 |
-| open | 25500 |
-| match_price | 25600 |
-| close_price | 25600 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 25700 |
-| low | 25250 |
-| total_volume | 19593961 |
+| open | 25550 |
+| match_price | 25100 |
+| close_price | 25100 |
+| price_change | -500 |
+| price_change_pct | -0.01953125 |
+| high | 25550 |
+| low | 25050 |
+| total_volume | 19315560 |
 | high_price_1y | 30000 |
 | low_price_1y | 13880 |
-| pct_low_change_1y | 0.8241387714 |
-| pct_high_change_1y | -0.138047138 |
-| foreign_volume | 4293131 |
+| pct_low_change_1y | 0.788511061 |
+| pct_high_change_1y | -0.1548821549 |
+| foreign_volume | 7864536 |
 | foreign_room | 1351424607 |
-| avg_match_volume_2w | 13532381 |
-| foreign_holding_room | 1114361337 |
-| current_holding_ratio | 0.22263732611111628 |
+| avg_match_volume_2w | 13613920 |
+| foreign_holding_room | 1105589203 |
+| current_holding_ratio | 0.2208847487439706 |
 | max_holding_ratio | 0.27 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 26.08 |
 | RSI(14) | 43.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.302 |
 | MACD Signal | -0.433 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 4293131 |
+| KL khớp NN hôm nay | 7864536 |
 | Room NN còn lại | 1351424607 |
-| Tỷ lệ sở hữu NN hiện tại | 0.22263732611111628 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2208847487439706 |
 | Tỷ lệ sở hữu NN tối đa | 0.27 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2530497982 |
 | roic | 0 |
 | roa | 0.0209689067 |
-| pe | 7.7543006906 |
-| pb | 1.6955783096 |
+| pe | 7.6028495052 |
+| pb | 1.6624615457 |
 | eps | 3301.393771208994 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.02376475180174439 |
 | net_profit_margin | 0.4755740989155933 |
 | gross_margin | 0 |
-| ev | 128135073280000 |
+| ev | 125632435130000 |
 | issue_share | 5005276323 |
-| ps | 3.0011115192 |
-| pcf | 1.69914748 |
+| ps | 2.9424960598 |
+| pcf | 1.6659610058 |
 | bvps | 15098.0935857627 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -137,27 +137,26 @@
 
 | event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 1.145.860.486 cổ phiếu                 | 2026-01-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2025-12-12    | 2025-12-19    | 2025-12-18     |    0.25 |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 349.273.583 cổ phiếu                   | 2025-11-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 582.510.122 cổ phiếu                   | 2025-01-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2024-12-06    | 2024-12-12    | 2024-12-11     |    0.2  |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 20.000.000 cổ phiếu                    | 2024-10-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-07-10    | 2024-07-15    | 2024-07-12     |    0.1  |    1000 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 377,289,210 cổ phiếu                   | 2023-08-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-07-05    | 2023-07-20    | 2023-07-19     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-15    | 2023-05-30    | 2023-05-29     |    0.1  |    1000 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 503,052,280 cổ phiếu                   | 2022-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-09-20    | 2022-09-28    | 2022-09-27     |    0.25 |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 20,000,000 cổ phiếu                    | 2022-08-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 398.441.824 cổ phiếu                   | 2021-10-08    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | HDB - Niêm yết bổ sung 338.072.453 cổ phiếu                   | 2020-12-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 1.145.860.486 cổ phiếu                 | 2026-01-15    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu thưởng tỷ lệ 4,69%                   | 2025-12-12    | 2025-12-19    | 2025-12-18     |  0.0469 |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 349.273.583 cổ phiếu                   | 2025-11-19    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 582.510.122 cổ phiếu                   | 2025-01-09    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2024-12-06    | 2024-12-12    | 2024-12-11     |  0.2    |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 20.000.000 cổ phiếu                    | 2024-10-29    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-07-10    | 2024-07-15    | 2024-07-12     |  0.1    |    1000 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 377,289,210 cổ phiếu                   | 2023-08-22    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-07-05    | 2023-07-20    | 2023-07-19     |  0.15   |       0 |
+| Trả cổ tức bằng tiền mặt | HDB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-15    | 2023-05-30    | 2023-05-29     |  0.1    |    1000 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 503,052,280 cổ phiếu                   | 2022-10-28    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Phát hành cổ phiếu       | HDB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-09-20    | 2022-09-28    | 2022-09-27     |  0.25   |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 20,000,000 cổ phiếu                    | 2022-08-17    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 398.441.824 cổ phiếu                   | 2021-10-08    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+| Niêm yết thêm            | HDB - Niêm yết bổ sung 338.072.453 cổ phiếu                   | 2020-12-17    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDB      | 2026-03-11 00:00:00 |  25.15 |  26    | 24.95 |   25.75 | 14822800 |
 | HDB      | 2026-03-12 00:00:00 |  25.3  |  25.75 | 25.1  |   25.7  | 11637800 |
 | HDB      | 2026-03-13 00:00:00 |  25.3  |  25.75 | 25.2  |   25.6  |  8896300 |
 | HDB      | 2026-03-16 00:00:00 |  25.5  |  25.65 | 25.2  |   25.6  |  6905100 |

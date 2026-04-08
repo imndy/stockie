@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | VPB |
 | exchange | HOSE |
-| ev | 203108444185600 |
-| ceiling | 27600 |
-| floor | 24000 |
-| ref_price | 25800 |
-| open | 25800 |
-| match_price | 25600 |
-| close_price | 25600 |
-| price_change | -200 |
-| price_change_pct | -0.00775194 |
-| high | 25950 |
+| ev | 206678709806050 |
+| ceiling | 27350 |
+| floor | 23850 |
+| ref_price | 25600 |
+| open | 25600 |
+| match_price | 26050 |
+| close_price | 26050 |
+| price_change | 450 |
+| price_change_pct | 0.01757813 |
+| high | 26100 |
 | low | 25500 |
-| total_volume | 17299012 |
+| total_volume | 11434602 |
 | high_price_1y | 38900 |
 | low_price_1y | 14749 |
-| pct_low_change_1y | 0.6487063934 |
-| pct_high_change_1y | -0.3376455369 |
-| foreign_volume | 4541400 |
+| pct_low_change_1y | 0.6776875605 |
+| pct_high_change_1y | -0.3260025873 |
+| foreign_volume | 2854800 |
 | foreign_room | 2380177080 |
-| avg_match_volume_2w | 16821690 |
-| foreign_holding_room | 1973069228 |
-| current_holding_ratio | 0.24868770197778464 |
+| avg_match_volume_2w | 14964491 |
+| foreign_holding_room | 1964737948 |
+| current_holding_ratio | 0.24763761876310006 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.6 |
-| EMA20 | 26.1 |
-| EMA50 | 26.82 |
-| RSI(14) | 43.9 |
+| Giá đóng cửa | 27.1 |
+| EMA20 | 26.23 |
+| EMA50 | 26.85 |
+| RSI(14) | 55.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.281 |
-| MACD Signal | -0.356 |
-| MACD Histogram | 0.075 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.142 |
+| MACD Signal | -0.308 |
+| MACD Histogram | 0.165 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 4541400 |
+| KL khớp NN hôm nay | 2854800 |
 | Room NN còn lại | 2380177080 |
-| Tỷ lệ sở hữu NN hiện tại | 0.24868770197778464 |
+| Tỷ lệ sở hữu NN hiện tại | 0.24763761876310006 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1487072493 |
 | roic | 0 |
 | roa | 0.0223027718 |
-| pe | 8.4664042021 |
-| pb | 1.2096748077 |
+| pe | 8.6152277135 |
+| pb | 1.2309386227 |
 | eps | 3023.715781684613 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.011254011489262368 |
 | net_profit_margin | 0.4089468211263942 |
 | gross_margin | 0 |
-| ev | 203108444160000 |
+| ev | 206678709780000 |
 | issue_share | 7933923601 |
-| ps | 2.7206705875 |
-| pcf | 4.5608913107 |
+| ps | 2.7684948752 |
+| pcf | 4.6410632282 |
 | bvps | 21162.7123558387 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                     |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VPB: Nghị quyết HĐQT số 85/2026 ngày 31/03/2026                                                                | 1775140532000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-so-852026-ngay-31032026/2449775                                         |
-| VPB: CBTT mở mới các chi nhánh năm 2026                                                                        | 1775066135000 | https://www.hsx.vn/vi/tin-tuc/vpb-cbtt-mo-moi-cac-chi-nhanh-nam-2026/2449514                                              |
-| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Bến Tre                                               | 1775050788000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-ben-tre/2449161                     |
-| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Việt Hưng                                             | 1775050699000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-viet-hung/2449141                   |
-| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Nghệ An                                               | 1775050648000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-nghe-an/2449160                     |
-| VPB: Báo cáo thường niên năm 2025                                                                              | 1774895730000 | https://www.hsx.vn/vi/tin-tuc/vpb-bao-cao-thuong-nien-nam-2025/2448338                                                    |
-| VPB: Nghị quyết HĐQT về việc ký hợp đồng biệt phái                                                             | 1774880510000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-ky-hop-dong-biet-phai/2448032                                   |
-| VPB: Link công bố thư mời họp và tài liệu ĐHĐCĐ thường niên 2026                                               | 1774625665000 | https://www.hsx.vn/vi/tin-tuc/vpb-link-cong-bo-thu-moi-hop-va-tai-lieu-dhdcd-thuong-nien-2026/2447420                     |
-| VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch cho vay hợp vốn giữa VPBank và các bên cho vay khác | 1774537907000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-cho-vay-hop-von-giua-vpbank-va-ca… |
-| VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch cho vay hợp vốn giữa VPBank và VPB SMBC FC          | 1774537687000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-cho-vay-hop-von-giua-vpbank-va-vp… |
+| news_title                                                                                                    |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch triển khai dịch vụ ngân quỹ  giữa VPBank và GBBank | 1775497911000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-trien-khai-dich-vu-ngan-quy--giua… |
+| VPB: Nghị quyết HĐQT về việc thay đổi tên gọi và địa điểm Chi nhánh Quận 6                                    | 1775497826000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-ten-goi-va-dia-diem-chi-nhanh-quan-6/2450874           |
+| VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch triển khai dịch vụ ngân quỹ  giữa VPBank và GBBank | 1775472711000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-trien-khai-dich-vu-ngan-qu-giua-v… |
+| VPB: Nghị quyết HĐQT số 85/2026 ngày 31/03/2026                                                               | 1775140532000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-so-852026-ngay-31032026/2449775                                         |
+| VPB: CBTT mở mới các chi nhánh năm 2026                                                                       | 1775066135000 | https://www.hsx.vn/vi/tin-tuc/vpb-cbtt-mo-moi-cac-chi-nhanh-nam-2026/2449514                                              |
+| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Bến Tre                                              | 1775050788000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-ben-tre/2449161                     |
+| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Việt Hưng                                            | 1775050699000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-viet-hung/2449141                   |
+| VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Nghệ An                                              | 1775050648000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-nghe-an/2449160                     |
+| VPB: Báo cáo thường niên năm 2025                                                                             | 1774895730000 | https://www.hsx.vn/vi/tin-tuc/vpb-bao-cao-thuong-nien-nam-2025/2448338                                                    |
+| VPB: Nghị quyết HĐQT về việc ký hợp đồng biệt phái                                                            | 1774880510000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-ky-hop-dong-biet-phai/2448032                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPB      | 2026-03-11 00:00:00 |  25.5  |  26.5  | 25.4  |   26.45 | 17296100 |
 | VPB      | 2026-03-12 00:00:00 |  25.85 |  26.2  | 25.5  |   25.75 | 12809200 |
 | VPB      | 2026-03-13 00:00:00 |  25.4  |  26    | 25    |   25.65 | 13865300 |
 | VPB      | 2026-03-16 00:00:00 |  25.7  |  25.75 | 25.4  |   25.5  |  7467100 |

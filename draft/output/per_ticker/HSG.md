@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | HSG |
 | exchange | HOSE |
-| ev | 9097390826850 |
-| ceiling | 15800 |
-| floor | 13800 |
-| ref_price | 14800 |
-| open | 14800 |
-| match_price | 14650 |
-| close_price | 14650 |
-| price_change | -150 |
-| price_change_pct | -0.01013514 |
-| high | 14950 |
-| low | 14650 |
-| total_volume | 1676642 |
+| ev | 9035292595950 |
+| ceiling | 15650 |
+| floor | 13650 |
+| ref_price | 14650 |
+| open | 14700 |
+| match_price | 14550 |
+| close_price | 14550 |
+| price_change | -100 |
+| price_change_pct | -0.00682594 |
+| high | 14800 |
+| low | 14500 |
+| total_volume | 1553422 |
 | high_price_1y | 21200 |
 | low_price_1y | 12400 |
-| pct_low_change_1y | 0.172 |
-| pct_high_change_1y | -0.3007159905 |
-| foreign_volume | 0 |
+| pct_low_change_1y | 0.164 |
+| pct_high_change_1y | -0.3054892601 |
+| foreign_volume | 68600 |
 | foreign_room | 304281331 |
-| avg_match_volume_2w | 2818967 |
-| foreign_holding_room | 22031092 |
-| current_holding_ratio | 0.0354778094008472 |
+| avg_match_volume_2w | 2801896 |
+| foreign_holding_room | 21948592 |
+| current_holding_ratio | 0.03534495537456607 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.6 |
-| EMA20 | 14.75 |
+| Giá đóng cửa | 15.1 |
+| EMA20 | 14.78 |
 | EMA50 | 15.17 |
-| RSI(14) | 45.3 |
+| RSI(14) | 54.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.123 |
-| MACD Signal | -0.194 |
-| MACD Histogram | 0.07 |
+| MACD | -0.086 |
+| MACD Signal | -0.173 |
+| MACD Histogram | 0.087 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 0 |
+| KL khớp NN hôm nay | 68600 |
 | Room NN còn lại | 304281331 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0354778094008472 |
+| Tỷ lệ sở hữu NN hiện tại | 0.03534495537456607 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0559450759 |
 | roic | 0.0364076114 |
 | roa | 0.0307592666 |
-| pe | 14.4773350884 |
-| pb | 0.8008016771 |
+| pe | 14.3785136884 |
+| pb | 0.795335454 |
 | eps | 1011.9265673267353 |
 | current_ratio | 1.3921906975 |
 | cash_ratio | 0.0888006111 |
@@ -94,12 +94,12 @@
 | fae | 0.3678785024732591 |
 | net_profit_margin | 0.018109583593451946 |
 | gross_margin | 0.12245327901051795 |
-| ev | 9097390826850 |
+| ev | 9035292595950 |
 | issue_share | 620982309 |
-| ps | 0.26217851 |
-| pcf | 3.3418620332 |
+| ps | 0.2603888956 |
+| pcf | 3.3190506882 |
 | bvps | 18294.1674810562 |
-| ev_per_ebitda | 9.3102942619 |
+| ev_per_ebitda | 9.2700954619 |
 | at | 1.6985076693 |
 | fat | 8.5088170133 |
 | acp | 16.756294558914576 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HSG      | 2026-03-11 00:00:00 |  14.35 |  14.85 | 14.25 |   14.8  |  4334200 |
 | HSG      | 2026-03-12 00:00:00 |  14.8  |  14.8  | 14.35 |   14.4  |  3595800 |
 | HSG      | 2026-03-13 00:00:00 |  14.25 |  14.55 | 14.25 |   14.35 |  2725000 |
 | HSG      | 2026-03-16 00:00:00 |  14.5  |  14.7  | 14.35 |   14.4  |  1819100 |

@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | HDG |
 | exchange | HOSE |
-| ev | 10210979766000 |
-| ceiling | 31000 |
-| floor | 27000 |
-| ref_price | 29000 |
-| open | 28800 |
-| match_price | 27600 |
-| close_price | 27600 |
-| price_change | -1400 |
-| price_change_pct | -0.04827586 |
-| high | 29150 |
-| low | 27400 |
-| total_volume | 3736547 |
+| ev | 10284972373000 |
+| ceiling | 29500 |
+| floor | 25700 |
+| ref_price | 27600 |
+| open | 27600 |
+| match_price | 27800 |
+| close_price | 27800 |
+| price_change | 200 |
+| price_change_pct | 0.00724638 |
+| high | 27950 |
+| low | 26850 |
+| total_volume | 2568366 |
 | high_price_1y | 35745 |
 | low_price_1y | 17587 |
-| pct_low_change_1y | 0.5693496337 |
-| pct_high_change_1y | -0.2127197111 |
-| foreign_volume | 1021500 |
+| pct_low_change_1y | 0.5807217325 |
+| pct_high_change_1y | -0.2070147815 |
+| foreign_volume | 83805 |
 | foreign_room | 184981517 |
-| avg_match_volume_2w | 3513723 |
-| foreign_holding_room | 74634875 |
-| current_holding_ratio | 0.20173603289852998 |
+| avg_match_volume_2w | 3185184 |
+| foreign_holding_room | 74550280 |
+| current_holding_ratio | 0.20150737491922674 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1021500 |
+| KL khớp NN hôm nay | 83805 |
 | Room NN còn lại | 184981517 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20173603289852998 |
+| Tỷ lệ sở hữu NN hiện tại | 0.20150737491922674 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1188854553 |
 | roic | 0.1115687702 |
 | roa | 0.0539956847 |
-| pe | 13.2542947494 |
-| pb | 1.4881362184 |
+| pe | 13.3503403635 |
+| pb | 1.4989198142 |
 | eps | 2082.3439135642293 |
 | current_ratio | 1.6569230924 |
 | cash_ratio | 0.4098022008 |
@@ -94,12 +94,12 @@
 | fae | 0.9589515658480209 |
 | net_profit_margin | 0.2764683632660255 |
 | gross_margin | 0.6265835320083947 |
-| ev | 10210979766000 |
+| ev | 10284972373000 |
 | issue_share | 369963035 |
-| ps | 3.6643931756 |
-| pcf | 8.2116175416 |
+| ps | 3.6909467493 |
+| pcf | 8.2711220165 |
 | bvps | 18546.6892466838 |
-| ev_per_ebitda | 7.3720947952 |
+| ev_per_ebitda | 7.4093423819 |
 | at | 0.1953051121 |
 | fat | 0.3356929986 |
 | acp | 194.9294112091291 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.4784645073 |
 | charter_capital_ratio | 2.2700599537442976 |
 | rtq10 | 0.7486569346 |
-| dividend | 0.018115942 |
+| dividend | 0.0179856115 |
 | ebitda | 1986507406687 |
 | ebit | 1461311521247 |
 | le | 1.0380331749 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDG      | 2026-03-11 00:00:00 |  25.73 |  27.3  | 25.73 |   27.3  |  2131239 |
 | HDG      | 2026-03-12 00:00:00 |  27.4  |  28.8  | 27.05 |   28.2  |  4573245 |
 | HDG      | 2026-03-13 00:00:00 |  28.5  |  28.95 | 28.25 |   28.45 |  3481050 |
 | HDG      | 2026-03-16 00:00:00 |  28.3  |  29    | 27.55 |   28.6  |  2786496 |

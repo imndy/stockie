@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | HHV |
 | exchange | HOSE |
-| ev | 5844837785250 |
-| ceiling | 12650 |
-| floor | 11050 |
-| ref_price | 11850 |
-| open | 12100 |
-| match_price | 11750 |
-| close_price | 11750 |
-| price_change | -100 |
-| price_change_pct | -0.00843882 |
-| high | 12150 |
+| ev | 5869709435400 |
+| ceiling | 12550 |
+| floor | 10950 |
+| ref_price | 11750 |
+| open | 11750 |
+| match_price | 11800 |
+| close_price | 11800 |
+| price_change | 50 |
+| price_change_pct | 0.00425532 |
+| high | 12000 |
 | low | 11650 |
-| total_volume | 5521527 |
+| total_volume | 2815647 |
 | high_price_1y | 16941 |
 | low_price_1y | 9039 |
-| pct_low_change_1y | 0.2635449872 |
-| pct_high_change_1y | -0.2815520921 |
-| foreign_volume | 289700 |
+| pct_low_change_1y | 0.2689217744 |
+| pct_high_change_1y | -0.2784948669 |
+| foreign_volume | 109900 |
 | foreign_room | 268111485 |
-| avg_match_volume_2w | 5591959 |
-| foreign_holding_room | 57275037 |
-| current_holding_ratio | 0.11514120827242337 |
+| avg_match_volume_2w | 5441428 |
+| foreign_holding_room | 57067937 |
+| current_holding_ratio | 0.1147248707983294 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -43,8 +43,8 @@
 | EMA50 | 12.22 |
 | RSI(14) | 45.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.053 |
 | MACD Signal | -0.048 |
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 289700 |
+| KL khớp NN hôm nay | 109900 |
 | Room NN còn lại | 268111485 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11514120827242337 |
+| Tỷ lệ sở hữu NN hiện tại | 0.1147248707983294 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0578485176 |
 | roic | 0.050196327 |
 | roa | 0.0145815717 |
-| pe | 10.0639006882 |
-| pb | 0.907301836 |
+| pe | 10.1067257975 |
+| pb | 0.9111626948 |
 | eps | 1167.5393432490043 |
 | current_ratio | 0.5229122264 |
 | cash_ratio | 0.1647466516 |
@@ -94,12 +94,12 @@
 | fae | 2.2581526841143864 |
 | net_profit_margin | 0.15277974990232493 |
 | gross_margin | 0.42508742979162467 |
-| ev | 5844837785250 |
+| ev | 5869709435400 |
 | issue_share | 497433003 |
-| ps | 1.5375602302 |
-| pcf | 3.1958510416 |
+| ps | 1.5441030397 |
+| pcf | 3.2094504077 |
 | bvps | 12950.4863037324 |
-| ev_per_ebitda | 12.0500223251 |
+| ev_per_ebitda | 12.0626589627 |
 | at | 0.0954417829 |
 | fat | 0.137505034 |
 | acp | 69.12648179709849 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                        |   public_date | news_source_link                                                                                                          |
 |:------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HHV: Quyết định về việc thay đổi đăng ký niêm yết                                                                 | 1775559840000 | https://www.hsx.vn/vi/tin-tuc/hhv-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2451051                                    |
 | Đèo Cả (HHV) thông qua kế hoạch phát hành hơn 84,8 triệu cổ phiếu để tăng vốn điều lệ lên 6.320 tỷ đồng           | 1775485800000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-thong-qua-ke-hoach-phat-hanh-hon-848-trieu-co-phieu-de-tang-von-dieu-le-len… |
 | HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                          | 1775467170000 | https://www.hsx.vn/vi/tin-tuc/hhv-tai-lieu-hop-dhdcd-thuong-nien-2026/2450506                                             |
 | HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                                                                | 1775154919000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-don-xin-tu-nhiem-cua-kiem-soat-vien/2449979                                   |
@@ -131,7 +132,6 @@
 | Đèo Cả (HHV) hoàn tất tăng vốn điều lệ lên hơn 5.400 tỷ đồng, CTCP Đầu tư Hải Thạch BOT là cổ đông lớn duy nhất   | 1774212000000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-hoan-tat-tang-von-dieu-le-len-hon-5400-ty-dong-ctcp-dau-tu-hai-thach-bot-la… |
 | HHV: Nghị quyết HĐQT về việc thông qua thay đổi vốn điều lệ, sửa đổi, bổ sung điều lệ                             | 1774030545000 | https://www.hsx.vn/vi/tin-tuc/hhv-nghi-quyet-hdqt-ve-viec-thong-qua-thay-doi-von-dieu-le-sua-doi-bo-sung-dieu-le/2445732  |
 | HHV: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Tập đoàn Đèo Cả | 1773335411000 | https://www.hsx.vn/vi/tin-tuc/hhv-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
-| HHV: Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng                                                          | 1773335293000 | https://www.hsx.vn/vi/tin-tuc/hhv-bao-cao-ket-qua-dot-chao-ban-co-phieu-ra-cong-chung/2443874                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HHV      | 2026-03-11 00:00:00 |  11.05 |  11.5  | 11.05 |   11.35 |  3982700 |
 | HHV      | 2026-03-12 00:00:00 |  11.55 |  11.95 | 11.5  |   11.7  |  6858700 |
 | HHV      | 2026-03-13 00:00:00 |  11.65 |  12.5  | 11.55 |   12.5  | 13039500 |
 | HHV      | 2026-03-16 00:00:00 |  12.8  |  12.95 | 12.2  |   12.35 |  7330600 |

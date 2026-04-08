@@ -321,27 +321,27 @@
 | --- | --- |
 | symbol | MWG |
 | exchange | HOSE |
-| ev | 114977562320700 |
-| ceiling | 84800 |
-| floor | 73800 |
-| ref_price | 79300 |
-| open | 78300 |
-| match_price | 78300 |
-| close_price | 78300 |
-| price_change | -1000 |
-| price_change_pct | -0.01261034 |
-| high | 79300 |
-| low | 77600 |
-| total_volume | 6789051 |
+| ev | 114636067806000 |
+| ceiling | 83700 |
+| floor | 72900 |
+| ref_price | 78300 |
+| open | 78400 |
+| match_price | 78000 |
+| close_price | 78000 |
+| price_change | -300 |
+| price_change_pct | -0.00383142 |
+| high | 78800 |
+| low | 76600 |
+| total_volume | 4713503 |
 | high_price_1y | 94400 |
 | low_price_1y | 45100 |
-| pct_low_change_1y | 0.7173594776 |
-| pct_high_change_1y | -0.1643543223 |
-| foreign_volume | 2964954 |
+| pct_low_change_1y | 0.7107795562 |
+| pct_high_change_1y | -0.1675560299 |
+| foreign_volume | 2408875 |
 | foreign_room | 720149656 |
-| avg_match_volume_2w | 6752239 |
-| foreign_holding_room | 718443849 |
-| current_holding_ratio | 0.48883934432254633 |
+| avg_match_volume_2w | 6342375 |
+| foreign_holding_room | 715068926 |
+| current_holding_ratio | 0.48654299903577763 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -353,8 +353,8 @@
 | EMA50 | 83.44 |
 | RSI(14) | 41.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -1.745 |
 | MACD Signal | -1.864 |
@@ -365,9 +365,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2964954 |
+| KL khớp NN hôm nay | 2408875 |
 | Room NN còn lại | 720149656 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48883934432254633 |
+| Tỷ lệ sở hữu NN hiện tại | 0.48654299903577763 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -393,8 +393,8 @@
 | roe | 0.2330696748 |
 | roic | 0.1121094742 |
 | roa | 0.0911203016 |
-| pe | 16.3607308155 |
-| pb | 3.5299938778 |
+| pe | 16.2980460231 |
+| pb | 3.516468997 |
 | eps | 4785.849781603089 |
 | current_ratio | 1.5206304451 |
 | cash_ratio | 0.0984828587 |
@@ -404,12 +404,12 @@
 | fae | 0.07831504778717728 |
 | net_profit_margin | 0.04510879509424101 |
 | gross_margin | 0.19882156153834502 |
-| ev | 115076975759100 |
+| ev | 114636067806000 |
 | issue_share | 1469693177 |
-| ps | 0.7380128539 |
-| pcf | 18.8770209887 |
+| ps | 0.7351852185 |
+| pcf | 18.8046952378 |
 | bvps | 22181.3415863051 |
-| ev_per_ebitda | 15.6158159389 |
+| ev_per_ebitda | 15.5666391934 |
 | at | 2.0200118709 |
 | fat | 50.4228737543 |
 | acp | 0.5790774498042981 |
@@ -467,7 +467,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MWG      | 2026-03-11 00:00:00 |   81   |   86.6 |  80.5 |    86.5 | 17339300 |
 | MWG      | 2026-03-12 00:00:00 |   84   |   86.5 |  83.1 |    84.6 | 10104500 |
 | MWG      | 2026-03-13 00:00:00 |   84.5 |   84.5 |  82   |    82   |  6260000 |
 | MWG      | 2026-03-16 00:00:00 |   81.9 |   82.2 |  80.4 |    80.6 |  5282300 |

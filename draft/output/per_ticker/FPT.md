@@ -331,27 +331,27 @@
 | --- | --- |
 | symbol | FPT |
 | exchange | HOSE |
-| ev | 125889176241900 |
-| ceiling | 79100 |
-| floor | 68900 |
-| ref_price | 74000 |
-| open | 74000 |
-| match_price | 73900 |
-| close_price | 73900 |
-| price_change | -100 |
-| price_change_pct | -0.00135135 |
+| ev | 126059526954000 |
+| ceiling | 79000 |
+| floor | 68800 |
+| ref_price | 73900 |
+| open | 74500 |
+| match_price | 74000 |
+| close_price | 74000 |
+| price_change | 100 |
+| price_change_pct | 0.00135318 |
 | high | 74500 |
-| low | 73500 |
-| total_volume | 4641686 |
+| low | 73800 |
+| total_volume | 5100228 |
 | high_price_1y | 111638 |
 | low_price_1y | 71600 |
-| pct_low_change_1y | 0.0109439124 |
-| pct_high_change_1y | -0.3339064082 |
-| foreign_volume | 1809084 |
+| pct_low_change_1y | 0.0123119015 |
+| pct_high_change_1y | -0.3330050637 |
+| foreign_volume | 2327207 |
 | foreign_room | 834718489 |
-| avg_match_volume_2w | 6987806 |
-| foreign_holding_room | 560457701 |
-| current_holding_ratio | 0.3290022648517006 |
+| avg_match_volume_2w | 6940017 |
+| foreign_holding_room | 557770144 |
+| current_holding_ratio | 0.32742460370378457 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -363,8 +363,8 @@
 | EMA50 | 83.97 |
 | RSI(14) | 36.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -3.537 |
 | MACD Signal | -4.107 |
@@ -375,9 +375,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1809084 |
+| KL khớp NN hôm nay | 2327207 |
 | Room NN còn lại | 834718489 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3290022648517006 |
+| Tỷ lệ sở hữu NN hiện tại | 0.32742460370378457 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -403,8 +403,8 @@
 | roe | 0.2829368545 |
 | roic | 0.1695199693 |
 | roa | 0.1170976805 |
-| pe | 13.4265638456 |
-| pb | 3.4508910899 |
+| pe | 13.4447324029 |
+| pb | 3.4555607666 |
 | eps | 5504.014344241183 |
 | current_ratio | 1.400061121 |
 | cash_ratio | 0.2533925055 |
@@ -414,12 +414,12 @@
 | fae | 0.39518436833845066 |
 | net_profit_margin | 0.1337291375156134 |
 | gross_margin | 0.36924099799468557 |
-| ev | 125889176241900 |
+| ev | 126059526954000 |
 | issue_share | 1703507121 |
-| ps | 1.7955228029 |
-| pcf | 12.4199517372 |
+| ps | 1.7979524684 |
+| pcf | 12.4367581672 |
 | bvps | 21414.7587028326 |
-| ev_per_ebitda | 9.8139457596 |
+| ev_per_ebitda | 9.8261988072 |
 | at | 0.8756332587 |
 | fat | 4.3677644699 |
 | acp | 60.57480341105619 |
@@ -430,7 +430,7 @@
 | rtq4 | 0.0435171486 |
 | charter_capital_ratio | 2.5681161063687155 |
 | rtq10 | 1.0147643215 |
-| dividend | 0.0135317997 |
+| dividend | 0.0135135135 |
 | ebitda | 13902721834887 |
 | ebit | 10988543474155 |
 | le | 0.5252184346 |
@@ -477,7 +477,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FPT      | 2026-03-11 00:00:00 |   80   |   81   |  78.3 |    80.2 | 10652800 |
 | FPT      | 2026-03-12 00:00:00 |   78.8 |   79.2 |  77.5 |    77.7 | 12722400 |
 | FPT      | 2026-03-13 00:00:00 |   77.1 |   78.5 |  76.3 |    77   |  9026000 |
 | FPT      | 2026-03-16 00:00:00 |   77.1 |   79.3 |  77.1 |    78.2 |  8662000 |

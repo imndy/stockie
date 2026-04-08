@@ -325,26 +325,26 @@
 | symbol | VCB |
 | exchange | HOSE |
 | ev | 484629155800000 |
-| ceiling | 61700 |
-| floor | 53700 |
-| ref_price | 57700 |
-| open | 57800 |
+| ceiling | 62000 |
+| floor | 54000 |
+| ref_price | 58000 |
+| open | 58000 |
 | match_price | 58000 |
 | close_price | 58000 |
-| price_change | 300 |
-| price_change_pct | 0.00519931 |
-| high | 58200 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 58300 |
 | low | 57700 |
-| total_volume | 4386428 |
+| total_volume | 4022563 |
 | high_price_1y | 78800 |
 | low_price_1y | 51626 |
 | pct_low_change_1y | 0.1127738767 |
 | pct_high_change_1y | -0.2368421053 |
-| foreign_volume | 1745300 |
+| foreign_volume | 1937209 |
 | foreign_room | 2506702528 |
-| avg_match_volume_2w | 6054906 |
-| foreign_holding_room | 1696799915 |
-| current_holding_ratio | 0.20307155267662685 |
+| avg_match_volume_2w | 6010305 |
+| foreign_holding_room | 1692909144 |
+| current_holding_ratio | 0.2026059085537727 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -356,8 +356,8 @@
 | EMA50 | 61.16 |
 | RSI(14) | 40.6 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -1.286 |
 | MACD Signal | -1.476 |
@@ -368,9 +368,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1745300 |
+| KL khớp NN hôm nay | 1937209 |
 | Room NN còn lại | 2506702528 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20307155267662685 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2026059085537727 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -435,6 +435,7 @@
 
 | news_title                                                                                        |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VCB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Tân Định                             | 1775499245000 | https://www.hsx.vn/vi/tin-tuc/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-tan-dinh/2450890                |
 | VCB: Nghị quyết HĐQT về việc phê duyệt tài liệu họp ĐHĐCĐ thường niên năm 2026                    | 1775207462000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2450010       |
 | VCB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Sở giao dịch                         | 1774637744000 | https://www.hsx.vn/vi/tin-tuc/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-so-giao-dich/2447674            |
 | VCB: Nghị quyết HĐQT về việc phê duyệt chủ trương thay đổi địa điểm trụ sở Chi nhánh Sở giao dịch | 1773079639000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-thay-doi-dia-diem-tru-so-chi-nhanh-so-gia… |
@@ -444,7 +445,6 @@
 | VCB: Nghị quyết HĐQT về việc phê duyệt tổ chức ĐHĐCĐ thường niên năm 2026                         | 1772558842000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-to-chuc-dhdcd-thuong-nien-nam-2026/2441547            |
 | VCB: Nghị quyết HĐQT về việc phê duyệt chủ trương thay đổi địa điểm trụ sở Chi nhánh VCB Tân Định | 1772206920000 | https://www.hsx.vn/vi/tin-tuc/vcb-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-thay-doi-dia-diem-tru-so-chi-nhanh-vcb-ta… |
 | VCB: Thông báo thay đổi Giấy phép thành lập và hoạt động của VCB                                  | 1771955115000 | https://www.hsx.vn/vi/tin-tuc/vcb-thong-bao-thay-doi-giay-phep-thanh-lap-va-hoat-dong-cua-vcb/2439931                     |
-| VCB: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Phùng Nguyễn Hải Yến                     | 1771955059000 | https://www.hsx.vn/vi/tin-tuc/vcb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-phung-nguyen-hai-yen/2439930        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -470,7 +470,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCB      | 2026-03-11 00:00:00 |   60.5 |   61.2 |  60   |    60.4 |  8789200 |
 | VCB      | 2026-03-12 00:00:00 |   60.2 |   60.3 |  59.5 |    59.8 |  6217000 |
 | VCB      | 2026-03-13 00:00:00 |   59.2 |   60.1 |  58.9 |    59   |  5656900 |
 | VCB      | 2026-03-16 00:00:00 |   59.3 |   59.8 |  58.6 |    58.8 |  3985900 |

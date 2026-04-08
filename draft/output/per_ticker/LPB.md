@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | LPB |
 | exchange | HOSE |
-| ev | 137713704810000 |
-| ceiling | 46100 |
-| floor | 40100 |
-| ref_price | 43100 |
-| open | 43500 |
-| match_price | 46100 |
-| close_price | 46100 |
-| price_change | 3000 |
-| price_change_pct | 0.06960557 |
-| high | 46100 |
-| low | 43350 |
-| total_volume | 4031825 |
+| ev | 143389540800000 |
+| ceiling | 49300 |
+| floor | 42900 |
+| ref_price | 46100 |
+| open | 46600 |
+| match_price | 48000 |
+| close_price | 48000 |
+| price_change | 1900 |
+| price_change_pct | 0.04121475 |
+| high | 48550 |
+| low | 46400 |
+| total_volume | 3638780 |
 | high_price_1y | 54700 |
 | low_price_1y | 27945 |
-| pct_low_change_1y | 0.5862201853 |
-| pct_high_change_1y | -0.1447124304 |
-| foreign_volume | 915840 |
+| pct_low_change_1y | 0.6515958545 |
+| pct_high_change_1y | -0.1094619666 |
+| foreign_volume | 1886801 |
 | foreign_room | 149364105 |
-| avg_match_volume_2w | 1468477 |
-| foreign_holding_room | 23135344 |
-| current_holding_ratio | 0.007744613071527459 |
+| avg_match_volume_2w | 1730223 |
+| foreign_holding_room | 23330105 |
+| current_holding_ratio | 0.007809809793323503 |
 | max_holding_ratio | 0.05 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 915840 |
+| KL khớp NN hôm nay | 1886801 |
 | Room NN còn lại | 149364105 |
-| Tỷ lệ sở hữu NN hiện tại | 0.007744613071527459 |
+| Tỷ lệ sở hữu NN hiện tại | 0.007809809793323503 |
 | Tỷ lệ sở hữu NN tối đa | 0.05 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2523424576 |
 | roic | 0 |
 | roa | 0.0205085305 |
-| pe | 12.0564818248 |
-| pb | 2.9181285306 |
+| pe | 12.5533867157 |
+| pb | 3.0383984701 |
 | eps | 3823.669348134212 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +94,10 @@
 | fae | 0.06908215915953039 |
 | net_profit_margin | 0.7123743399826259 |
 | gross_margin | 0 |
-| ev | 137713704810000 |
+| ev | 143389540800000 |
 | issue_share | 2987282100 |
-| ps | 6.2936730846 |
-| pcf | 2.4486230579 |
+| ps | 6.5530652508 |
+| pcf | 2.5495424464 |
 | bvps | 15797.7962643702 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                             |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| LPB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả cháo bán trái phiếu ra công chúng của LPB               | 1775498860000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-… |
 | LPB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng                                                             | 1775222666000 | https://www.hsx.vn/vi/tin-tuc/lpb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung/2450187                           |
 | LPB: Giải trình BCTC kiểm toán năm 2025                                                                                | 1774964837000 | https://www.hsx.vn/vi/tin-tuc/lpb-giai-trinh-bctc-kiem-toan-nam-2025/2448390                                              |
 | LPB: Nghị quyết HĐQT về việc thay đổi địa điểm và tên gọi Văn phòng đại diện                                           | 1773240949000 | https://www.hsx.vn/vi/tin-tuc/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-va-ten-goi-van-phong-dai-dien/2443493         |
@@ -131,7 +132,6 @@
 | LPB: Thông báo nhận được Công văn của NHNN Khu vực 2 về việc thay đổi địa điểm PGD Sài Gòn trực thuộc chi nhánh TP.HCM | 1770989614000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-2-ve-viec-thay-doi-dia-diem-pgd-sai-gon-… |
 | LPB: Điều lệ công ty                                                                                                   | 1770888017000 | https://www.hsx.vn/vi/tin-tuc/lpb-dieu-le-cong-ty/2438577                                                                 |
 | LPB: Nghị quyết HĐQT về việc phê duyệt ban điều hành Điều lệ LPBank                                                    | 1770887953000 | https://www.hsx.vn/vi/tin-tuc/lpb-nghi-quyet-hdqt-ve-viec-phe-duyet-ban-dieu-hanh-dieu-le-lpbank/2438575                  |
-| LPB: Thông báo ngày ĐKCC để thực hiện quyền đề cử, ứng cử để bầu bổ sungThành viên BKS nhiệm kỳ 2023-2028              | 1770627900000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-ngay-dkcc-de-thuc-hien-quyen-de-cu-ung-cu-de-bau-bo-sungthanh-vien-bks-nhiem… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| LPB      | 2026-03-11 00:00:00 |  40.55 |  41.8  | 39.8  |   41.7  |  2275300 |
 | LPB      | 2026-03-12 00:00:00 |  41.5  |  41.6  | 40.6  |   41.1  |  2167300 |
 | LPB      | 2026-03-13 00:00:00 |  41.1  |  41.8  | 40.9  |   41.5  |  1678600 |
 | LPB      | 2026-03-16 00:00:00 |  41.6  |  42    | 40.9  |   42    |  1219100 |

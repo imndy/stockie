@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | FRT |
 | exchange | HOSE |
-| ev | 25204664180000 |
-| ceiling | 162600 |
-| floor | 141400 |
-| ref_price | 152000 |
-| open | 153000 |
-| match_price | 148000 |
-| close_price | 148000 |
-| price_change | -4000 |
-| price_change_pct | -0.02631579 |
-| high | 153000 |
-| low | 147500 |
-| total_volume | 274868 |
+| ev | 25460116857500 |
+| ceiling | 158300 |
+| floor | 137700 |
+| ref_price | 148000 |
+| open | 148000 |
+| match_price | 149500 |
+| close_price | 149500 |
+| price_change | 1500 |
+| price_change_pct | 0.01013514 |
+| high | 149800 |
+| low | 146700 |
+| total_volume | 238961 |
 | high_price_1y | 181000 |
 | low_price_1y | 96880 |
-| pct_low_change_1y | 0.4907332796 |
-| pct_high_change_1y | -0.1566951567 |
-| foreign_volume | 142800 |
+| pct_low_change_1y | 0.5058420629 |
+| pct_high_change_1y | -0.1481481481 |
+| foreign_volume | 59900 |
 | foreign_room | 83447874 |
-| avg_match_volume_2w | 401208 |
-| foreign_holding_room | 56149863 |
-| current_holding_ratio | 0.3297080121620569 |
+| avg_match_volume_2w | 379922 |
+| foreign_holding_room | 55905287 |
+| current_holding_ratio | 0.32827187924072554 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 147.9 |
-| EMA20 | 154.33 |
-| EMA50 | 155.41 |
-| RSI(14) | 39.7 |
+| Giá đóng cửa | 151.6 |
+| EMA20 | 154.21 |
+| EMA50 | 155.32 |
+| RSI(14) | 45.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.695 |
-| MACD Signal | -1.195 |
-| MACD Histogram | -0.5 |
+| MACD | -1.601 |
+| MACD Signal | -1.256 |
+| MACD Histogram | -0.345 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 142800 |
+| KL khớp NN hôm nay | 59900 |
 | Room NN còn lại | 83447874 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3297080121620569 |
+| Tỷ lệ sở hữu NN hiện tại | 0.32827187924072554 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2613281394 |
 | roic | 0.0864847631 |
 | roa | 0.0401987121 |
-| pe | 31.7093669616 |
-| pb | 6.0421674779 |
+| pe | 32.0307456808 |
+| pb | 6.1034056618 |
 | eps | 4667.390559359082 |
 | current_ratio | 1.1729565984 |
 | cash_ratio | 0.1545051404 |
@@ -94,12 +94,12 @@
 | fae | 0.3063429045994682 |
 | net_profit_margin | 0.015560303635071446 |
 | gross_margin | 0.19595032077941607 |
-| ev | 25204664180000 |
+| ev | 25460116857500 |
 | issue_share | 170301785 |
-| ps | 0.493407378 |
-| pcf | 9.1742512925 |
+| ps | 0.4984081285 |
+| pcf | 9.2672335691 |
 | bvps | 24494.5213022987 |
-| ev_per_ebitda | 18.8697314681 |
+| ev_per_ebitda | 19.0185697238 |
 | at | 2.5834143745 |
 | fat | 33.8263467467 |
 | acp | 1.4620685594454663 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FRT      | 2026-03-11 00:00:00 |  145   |  155.3 | 145   |   155.3 |   510800 |
 | FRT      | 2026-03-12 00:00:00 |  153.8 |  153.8 | 147.8 |   153.6 |   657000 |
 | FRT      | 2026-03-13 00:00:00 |  150   |  150   | 148.6 |   149.1 |   307600 |
 | FRT      | 2026-03-16 00:00:00 |  147.5 |  150.7 | 147.5 |   150.5 |   193300 |

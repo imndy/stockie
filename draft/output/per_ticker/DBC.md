@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | DBC |
 | exchange | HOSE |
-| ev | 8582526674100 |
-| ceiling | 24350 |
-| floor | 21250 |
-| ref_price | 22800 |
-| open | 22700 |
-| match_price | 22300 |
-| close_price | 22300 |
-| price_change | -500 |
-| price_change_pct | -0.02192982 |
-| high | 22900 |
+| ev | 8621013340800 |
+| ceiling | 23850 |
+| floor | 20750 |
+| ref_price | 22300 |
+| open | 22500 |
+| match_price | 22400 |
+| close_price | 22400 |
+| price_change | 100 |
+| price_change_pct | 0.0044843 |
+| high | 22650 |
 | low | 22300 |
-| total_volume | 2167775 |
+| total_volume | 853619 |
 | high_price_1y | 32350 |
 | low_price_1y | 19088 |
-| pct_low_change_1y | 0.1682903982 |
-| pct_high_change_1y | -0.2866766553 |
-| foreign_volume | 54350 |
+| pct_low_change_1y | 0.1735293686 |
+| pct_high_change_1y | -0.2834778959 |
+| foreign_volume | 5200 |
 | foreign_room | 188584666 |
-| avg_match_volume_2w | 2176570 |
-| foreign_holding_room | 6136311 |
-| current_holding_ratio | 0.01594399184484324 |
+| avg_match_volume_2w | 2041585 |
+| foreign_holding_room | 6009561 |
+| current_holding_ratio | 0.015614657010553736 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.4 |
-| EMA20 | 23.33 |
-| EMA50 | 24.67 |
-| RSI(14) | 35.8 |
+| Giá đóng cửa | 23.15 |
+| EMA20 | 23.31 |
+| EMA50 | 24.61 |
+| RSI(14) | 44.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.704 |
-| MACD Signal | -0.783 |
-| MACD Histogram | 0.08 |
+| MACD | -0.635 |
+| MACD Signal | -0.754 |
+| MACD Histogram | 0.119 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 54350 |
+| KL khớp NN hôm nay | 5200 |
 | Room NN còn lại | 188584666 |
-| Tỷ lệ sở hữu NN hiện tại | 0.01594399184484324 |
+| Tỷ lệ sở hữu NN hiện tại | 0.015614657010553736 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2031630301 |
 | roic | 0.128267255 |
 | roa | 0.1001231606 |
-| pe | 5.695984174 |
-| pb | 1.063772083 |
+| pe | 5.721526704 |
+| pb | 1.0685423614 |
 | eps | 3915.03896757575 |
 | current_ratio | 1.4218059341 |
 | cash_ratio | 0.0641243346 |
@@ -94,12 +94,12 @@
 | fae | 0.5405937455855987 |
 | net_profit_margin | 0.10114118198751633 |
 | gross_margin | 0.18436218990863526 |
-| ev | 8582526674100 |
+| ev | 8621013340800 |
 | issue_share | 384866667 |
-| ps | 0.5760985719 |
-| pcf | 6.6409391094 |
+| ps | 0.5786819736 |
+| pcf | 6.6707191054 |
 | bvps | 20963.1370817754 |
-| ev_per_ebitda | 5.7397738444 |
+| ev_per_ebitda | 5.7555156538 |
 | at | 0.9899346503 |
 | fat | 3.2556606112 |
 | acp | 5.717585993305307 |
@@ -120,18 +120,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                           |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                         | 1774963607000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-to-chuc-dhdcd-thuong-nien-nam-2026/2448550                                         |
-| DBC: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước | 1774629395000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244751… |
-| DBC: Thông báo về ngày đăng ký cuối cùng tham dự họp ĐHĐCĐ thường niên năm 2026      | 1773133478000 | https://www.hsx.vn/vi/tin-tuc/dbc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-hop-dhdcd-thuong-nien-nam-2026/2442972      |
-| DBC: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                            | 1772727906000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban/2442056                            |
-| DBC: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                            | 1772472673000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441215                            |
-| DBC: Giải trình biến động LNST BCTC HN và Cty mẹ quý 4/2025 so với cùng kỳ năm trước | 1769702298000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-bctc-hn-va-cty-me-quy-42025-so-voi-cung-ky-nam-truoc/2434781  |
-| DBC: Báo cáo tình hình quản trị công ty năm 2025                                     | 1769620328000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434450                                     |
-| Dabaco Việt Nam (DBC): Lãi ròng quý IV/2025 giảm 37,8%, về 148,58 tỷ đồng            | 1769583060000 | https://www.tinnhanhchungkhoan.vn/dabaco-viet-nam-dbc-lai-rong-quy-iv2025-giam-378-ve-14858-ty-dong-post384465.html       |
-| DBC: Báo cáo thay đổi phương án sử dụng vốn                                          | 1767870429000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-thay-doi-phuong-an-su-dung-von/2429347                                          |
-| DBC: Nghị quyết HĐQT số 11/2025 ngày 31/12/2025                                      | 1767870266000 | https://www.hsx.vn/vi/tin-tuc/dbc-nghi-quyet-hdqt-so-112025-ngay-31122025/2429346                                         |
+| news_title                                                                              |   public_date | news_source_link                                                                                                          |
+|:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| Dabaco Việt Nam (DBC) lên kế hoạch lãi ròng giảm 25,9% trong năm 2026, về 1.117 tỷ đồng | 1775545920000 | https://www.tinnhanhchungkhoan.vn/dabaco-viet-nam-dbc-len-ke-hoach-lai-rong-giam-259-trong-nam-2026-ve-1117-ty-dong-post… |
+| DBC: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                       | 1775498494000 | https://www.hsx.vn/vi/tin-tuc/dbc-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450879                                    |
+| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                            | 1774963607000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-to-chuc-dhdcd-thuong-nien-nam-2026/2448550                                         |
+| DBC: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước    | 1774629395000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244751… |
+| DBC: Thông báo về ngày đăng ký cuối cùng tham dự họp ĐHĐCĐ thường niên năm 2026         | 1773133478000 | https://www.hsx.vn/vi/tin-tuc/dbc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-hop-dhdcd-thuong-nien-nam-2026/2442972      |
+| DBC: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                               | 1772727906000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban/2442056                            |
+| DBC: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 1772472673000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441215                            |
+| DBC: Giải trình biến động LNST BCTC HN và Cty mẹ quý 4/2025 so với cùng kỳ năm trước    | 1769702298000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-bctc-hn-va-cty-me-quy-42025-so-voi-cung-ky-nam-truoc/2434781  |
+| DBC: Báo cáo tình hình quản trị công ty năm 2025                                        | 1769620328000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434450                                     |
+| Dabaco Việt Nam (DBC): Lãi ròng quý IV/2025 giảm 37,8%, về 148,58 tỷ đồng               | 1769583060000 | https://www.tinnhanhchungkhoan.vn/dabaco-viet-nam-dbc-lai-rong-quy-iv2025-giam-378-ve-14858-ty-dong-post384465.html       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DBC      | 2026-03-11 00:00:00 |  23.35 |  24.15 | 23.2  |   24.15 |  4502900 |
 | DBC      | 2026-03-12 00:00:00 |  23.9  |  24.15 | 23.45 |   23.6  |  3044500 |
 | DBC      | 2026-03-13 00:00:00 |  23.3  |  23.75 | 23.3  |   23.5  |  2508600 |
 | DBC      | 2026-03-16 00:00:00 |  23.6  |  23.65 | 23.25 |   23.3  |  2522700 |

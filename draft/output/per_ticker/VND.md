@@ -11,53 +11,53 @@
 | --- | --- |
 | symbol | VND |
 | exchange | HOSE |
-| ev | 23823993560200 |
+| ev | 24432913523400 |
 | ceiling | 16700 |
 | floor | 14600 |
 | ref_price | 15650 |
 | open | 15650 |
-| match_price | 15650 |
-| close_price | 15650 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 15950 |
-| low | 15600 |
-| total_volume | 7711812 |
+| match_price | 16050 |
+| close_price | 16050 |
+| price_change | 400 |
+| price_change_pct | 0.02555911 |
+| high | 16050 |
+| low | 15500 |
+| total_volume | 6980308 |
 | high_price_1y | 27350 |
 | low_price_1y | 12263 |
-| pct_low_change_1y | 0.2762060555 |
-| pct_high_change_1y | -0.4160447761 |
-| foreign_volume | 2200213 |
+| pct_low_change_1y | 0.3088247406 |
+| pct_high_change_1y | -0.401119403 |
+| foreign_volume | 1558133 |
 | foreign_room | 1522299908 |
-| avg_match_volume_2w | 11946223 |
-| foreign_holding_room | 149672526 |
-| current_holding_ratio | 0.09831999937294879 |
+| avg_match_volume_2w | 11082298 |
+| foreign_holding_room | 148192310 |
+| current_holding_ratio | 0.0973476443250235 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.65 |
-| EMA20 | 16.06 |
-| EMA50 | 17.11 |
-| RSI(14) | 41.7 |
+| Giá đóng cửa | 16.8 |
+| EMA20 | 16.17 |
+| EMA50 | 17.12 |
+| RSI(14) | 54.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.511 |
-| MACD Signal | -0.626 |
-| MACD Histogram | 0.115 |
+| MACD | -0.368 |
+| MACD Signal | -0.569 |
+| MACD Histogram | 0.202 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2200213 |
+| KL khớp NN hôm nay | 1558133 |
 | Room NN còn lại | 1522299908 |
-| Tỷ lệ sở hữu NN hiện tại | 0.09831999937294879 |
+| Tỷ lệ sở hữu NN hiện tại | 0.0973476443250235 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.0995660131 |
 | roic | 0.0763259202 |
 | roa | 0.0421602889 |
-| pe | 11.7818950434 |
-| pb | 1.139745386 |
+| pe | 12.0830297409 |
+| pb | 1.1688762585 |
 | eps | 1328.309235688399 |
 | current_ratio | 1.7650534078 |
 | cash_ratio | 0.8430892204 |
@@ -94,12 +94,12 @@
 | fae | 0.004104992139180827 |
 | net_profit_margin | 0.3045207467192605 |
 | gross_margin | 0.6157155049084501 |
-| ev | 23823993560200 |
+| ev | 24432913523400 |
 | issue_share | 1522299908 |
-| ps | 3.5878314764 |
-| pcf | -5.3715810353 |
+| ps | 3.6795332393 |
+| pcf | -5.5088738413 |
 | bvps | 13731.1369648746 |
-| ev_per_ebitda | 13.2242302672 |
+| ev_per_ebitda | 13.3896990958 |
 | at | 0.1384480019 |
 | fat | 78.1682830284 |
 | acp | None |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VND      | 2026-03-11 00:00:00 |  16.6  |  17.3  | 16.55 |   16.9  | 12652800 |
 | VND      | 2026-03-12 00:00:00 |  16.85 |  17.05 | 16.5  |   16.55 | 10043900 |
 | VND      | 2026-03-13 00:00:00 |  16.35 |  16.7  | 16.2  |   16.25 | 11781200 |
 | VND      | 2026-03-16 00:00:00 |  16.3  |  16.6  | 16.05 |   16.2  | 11060000 |

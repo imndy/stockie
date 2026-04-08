@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | SIP |
 | exchange | HOSE |
-| ev | 14744678228700 |
-| ceiling | 63500 |
-| floor | 55300 |
-| ref_price | 59400 |
-| open | 59400 |
-| match_price | 60900 |
-| close_price | 60900 |
-| price_change | 1500 |
-| price_change_pct | 0.02525253 |
-| high | 60900 |
-| low | 58300 |
-| total_volume | 605227 |
+| ev | 14623621757200 |
+| ceiling | 65100 |
+| floor | 56700 |
+| ref_price | 60900 |
+| open | 60700 |
+| match_price | 60400 |
+| close_price | 60400 |
+| price_change | -500 |
+| price_change_pct | -0.00821018 |
+| high | 60700 |
+| low | 58600 |
+| total_volume | 216114 |
 | high_price_1y | 67742 |
 | low_price_1y | 47316 |
-| pct_low_change_1y | 0.2825013644 |
-| pct_high_change_1y | -0.0944356416 |
-| foreign_volume | 57600 |
+| pct_low_change_1y | 0.2719717966 |
+| pct_high_change_1y | -0.1018704885 |
+| foreign_volume | 85800 |
 | foreign_room | 118635342 |
-| avg_match_volume_2w | 276193 |
-| foreign_holding_room | 6285807 |
-| current_holding_ratio | 0.025962292317433026 |
+| avg_match_volume_2w | 282361 |
+| foreign_holding_room | 6256607 |
+| current_holding_ratio | 0.02584168744749842 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 57600 |
+| KL khớp NN hôm nay | 85800 |
 | Room NN còn lại | 118635342 |
-| Tỷ lệ sở hữu NN hiện tại | 0.025962292317433026 |
+| Tỷ lệ sở hữu NN hiện tại | 0.02584168744749842 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.2787244475 |
 | roic | 0.1101667669 |
 | roa | 0.0492478164 |
-| pe | 11.1459606557 |
-| pb | 2.8615754954 |
+| pe | 11.0544503055 |
+| pb | 2.8380814437 |
 | eps | 5463.86281821786 |
 | current_ratio | 2.8649707981 |
 | cash_ratio | 0.1976450775 |
@@ -94,12 +94,12 @@
 | fae | 0.22356021208736962 |
 | net_profit_margin | 0.1538898469676232 |
 | gross_margin | 0.15628199627508846 |
-| ev | 14744678228700 |
+| ev | 14623621757200 |
 | issue_share | 242112943 |
-| ps | 1.7152501796 |
-| pcf | 6.0433448562 |
+| ps | 1.7011676658 |
+| pcf | 5.9937279033 |
 | bvps | 21281.9826344022 |
-| ev_per_ebitda | 11.7489748235 |
+| ev_per_ebitda | 11.6729881201 |
 | at | 0.3200199192 |
 | fat | 6.5920374108 |
 | acp | 17.662234601079046 |
@@ -110,7 +110,7 @@
 | rtq4 | 0.1838859368 |
 | charter_capital_ratio | 2.4013517877898 |
 | rtq10 | 3.9312468753 |
-| dividend | 0.0164203612 |
+| dividend | 0.0165562914 |
 | ebitda | 1593127035036 |
 | ebit | 1171239252504 |
 | le | 1.012496486 |
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SIP      | 2026-03-11 00:00:00 |   56.5 |   58.5 |  56.2 |    58   |   201600 |
 | SIP      | 2026-03-12 00:00:00 |   57.4 |   58.8 |  57.4 |    57.7 |   260500 |
 | SIP      | 2026-03-13 00:00:00 |   57.7 |   58.7 |  57.6 |    58.3 |   286400 |
 | SIP      | 2026-03-16 00:00:00 |   58.2 |   58.8 |  57.2 |    57.6 |   185500 |

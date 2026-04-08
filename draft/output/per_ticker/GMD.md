@@ -11,27 +11,27 @@
 | --- | --- |
 | symbol | GMD |
 | exchange | HOSE |
-| ev | 30366451760800 |
-| ceiling | 75600 |
-| floor | 65800 |
-| ref_price | 70700 |
-| open | 70900 |
-| match_price | 71200 |
-| close_price | 71200 |
-| price_change | 500 |
-| price_change_pct | 0.00707214 |
-| high | 71900 |
-| low | 70400 |
-| total_volume | 3302773 |
+| ev | 30664998337100 |
+| ceiling | 76100 |
+| floor | 66300 |
+| ref_price | 71200 |
+| open | 71500 |
+| match_price | 71900 |
+| close_price | 71900 |
+| price_change | 700 |
+| price_change_pct | 0.00983146 |
+| high | 72500 |
+| low | 70200 |
+| total_volume | 1711361 |
 | high_price_1y | 89500 |
 | low_price_1y | 40841 |
-| pct_low_change_1y | 0.7433393175 |
-| pct_high_change_1y | -0.1563981043 |
-| foreign_volume | 620303 |
+| pct_low_change_1y | 0.7604788894 |
+| pct_high_change_1y | -0.1481042654 |
+| foreign_volume | 1030701 |
 | foreign_room | 208982603 |
-| avg_match_volume_2w | 2191868 |
-| foreign_holding_room | 177382549 |
-| current_holding_ratio | 0.4159075807830659 |
+| avg_match_volume_2w | 2261450 |
+| foreign_holding_room | 176047773 |
+| current_holding_ratio | 0.41277794114164157 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
@@ -55,9 +55,9 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 620303 |
+| KL khớp NN hôm nay | 1030701 |
 | Room NN còn lại | 208982603 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4159075807830659 |
+| Tỷ lệ sở hữu NN hiện tại | 0.41277794114164157 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
@@ -83,8 +83,8 @@
 | roe | 0.1375792901 |
 | roic | 0.0951593478 |
 | roa | 0.0928309012 |
-| pe | 17.2966141969 |
-| pb | 2.311023639 |
+| pe | 17.4666651792 |
+| pb | 2.333744377 |
 | eps | 4116.412564290392 |
 | current_ratio | 2.6493739724 |
 | cash_ratio | 0.6925420563 |
@@ -94,12 +94,12 @@
 | fae | 0.3743174349141943 |
 | net_profit_margin | 0.29476534059985854 |
 | gross_margin | 0.4599497823326825 |
-| ev | 30366451760800 |
+| ev | 30664998337100 |
 | issue_share | 426495109 |
-| ps | 5.098442375 |
-| pcf | 14.1765321788 |
+| ps | 5.1485675107 |
+| pcf | 14.3159081974 |
 | bvps | 30808.8583775623 |
-| ev_per_ebitda | 15.097274014 |
+| ev_per_ebitda | 15.2420462245 |
 | at | 0.3149315351 |
 | fat | 1.2386031721 |
 | acp | 38.98536286219152 |
@@ -122,6 +122,7 @@
 
 | news_title                                                                                                               |   public_date | news_source_link                                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| GMD: CBTT nội dung Nghị quyết HĐQT số 057 về việc chuyển nhượng cổ phần                                                  | 1775560203000 | https://www.hsx.vn/vi/tin-tuc/gmd-cbtt-noi-dung-nghi-quyet-hdqt-so-057-ve-viec-chuyen-nhuong-co-phan/2451061              |
 | Gemadept (GMD) đặt mục tiêu lợi nhuận trước thuế năm 2026 đạt 2.800 tỷ đồng                                              | 1775235420000 | https://www.tinnhanhchungkhoan.vn/gemadept-gmd-dat-muc-tieu-loi-nhuan-truoc-thue-nam-2026-dat-2800-ty-dong-post388091.ht… |
 | GMD: Gemadept và CJ Logistics tối ưu hóa Chiến lược hợp tác giữa hai doanh nghiệp                                        | 1774980697000 | https://www.hsx.vn/vi/tin-tuc/gmd-gemadept-va-cj-logistics-toi-uu-hoa-chien-luoc-hop-tac-giua-hai-doanh-nghiep/2448916    |
 | GMD: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                              | 1773764476000 | https://www.hsx.vn/vi/tin-tuc/gmd-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2444787          |
@@ -131,7 +132,6 @@
 | GMD: Báo cáo tình hình quản trị công ty năm 2025                                                                         | 1770023576000 | https://www.hsx.vn/vi/tin-tuc/gmd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435879                                     |
 | GMD: Nhóm cổ đông lớn VOF PE Holding 5 Limited đã mua 500.000 cổ phiếu                                                   | 1769622060000 | https://www.hsx.vn/vi/tin-tuc/gmd-bao-cao-ve-thay-doi-so-huu-cua-nhom-co-dong-lon-vof-pe-holding-5-limited/2434540        |
 | GMD: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty TNHH SSJ Consulting (Việt Nam) | 1769099552000 | https://www.hsx.vn/vi/tin-tuc/gmd-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-t… |
-| GMD: Công ty TNHH SSJ Consulting (Việt Nam) đăng ký bán toàn bộ gần 20 triệu cổ phiếu                                    | 1767631440000 | https://www.hsx.vn/vi/tin-tuc/gmd-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-tnhh-ss… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,7 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GMD      | 2026-03-11 00:00:00 |   70.7 |   76.5 |  70.7 |    76.5 |  4175300 |
 | GMD      | 2026-03-12 00:00:00 |   76.3 |   78.1 |  75.3 |    76.8 |  1764300 |
 | GMD      | 2026-03-13 00:00:00 |   76.3 |   77.6 |  75.1 |    75.9 |  1667700 |
 | GMD      | 2026-03-16 00:00:00 |   76   |   76.2 |  72.7 |    74   |  1408100 |
