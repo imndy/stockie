@@ -1,6 +1,6 @@
 # BVH — BVH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 14/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -11,59 +11,63 @@
 | --- | --- |
 | symbol | BVH |
 | exchange | HOSE |
-| ev | 59311588843600 |
-| ceiling | 86800 |
-| floor | 75600 |
-| ref_price | 81200 |
-| open | 81000 |
-| match_price | 79900 |
-| close_price | 79900 |
+| ev | 55748439576400 |
+| ceiling | 81700 |
+| floor | 71100 |
+| ref_price | 76400 |
+| open | 77300 |
+| match_price | 75100 |
+| close_price | 75100 |
 | price_change | -1300 |
-| price_change_pct | -0.01600985 |
-| high | 81900 |
-| low | 77800 |
-| total_volume | 621766 |
+| price_change_pct | -0.01701571 |
+| high | 77300 |
+| low | 75100 |
+| total_volume | 544209 |
 | high_price_1y | 88500 |
-| low_price_1y | 38365 |
-| pct_low_change_1y | 1.0826317375 |
-| pct_high_change_1y | -0.0709302326 |
-| foreign_volume | 209100 |
+| low_price_1y | 40229 |
+| pct_low_change_1y | 0.7635698599 |
+| pct_high_change_1y | -0.126744186 |
+| foreign_volume | 107505 |
 | foreign_room | 363738154 |
-| avg_match_volume_2w | 765077 |
-| foreign_holding_room | 203065350 |
-| current_holding_ratio | 0.2735539846653551 |
+| avg_match_volume_2w | 733414 |
+| foreign_holding_room | 202857475 |
+| current_holding_ratio | 0.2732739514909986 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 80.7 |
-| EMA20 | 80.3 |
-| EMA50 | 76.41 |
-| RSI(14) | 52.2 |
+| Giá đóng cửa | 75.1 |
+| EMA20 | 79.62 |
+| EMA50 | 76.58 |
+| RSI(14) | 43.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 1.644 |
-| MACD Signal | 1.786 |
-| MACD Histogram | -0.143 |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.547 |
+| MACD Signal | 1.42 |
+| MACD Histogram | -0.872 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 209100 |
+| KL khớp NN hôm nay | 107505 |
 | Room NN còn lại | 363738154 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2735539846653551 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2732739514909986 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | BVH      |               107505 |      363738154 |                0.273274 |
+| 2026-04-13 | BVH      |               165880 |      363738154 |                0.273409 |
+| 2026-04-12 | BVH      |               165880 |      363738154 |                0.273409 |
+| 2026-04-10 | BVH      |               109870 |      363738154 |                0.273447 |
 | 2026-04-06 | BVH      |                51700 |      363738154 |                0.273625 |
 | 2026-04-03 | BVH      |               353900 |      363738154 |                0.273548 |
 
@@ -83,8 +87,8 @@
 | roe | 0.1205973414 |
 | roic | -0.3007456939 |
 | roa | 0.0104461632 |
-| pe | 20.9092935749 |
-| pb | 2.4257155865 |
+| pe | 19.6531658007 |
+| pb | 2.279990495 |
 | eps | 3821.267309376222 |
 | current_ratio | 2.3372741621 |
 | cash_ratio | 0.1286720114 |
@@ -94,12 +98,12 @@
 | fae | 0.06714461838373832 |
 | net_profit_margin | 0.07069677400801684 |
 | gross_margin | 0 |
-| ev | 59311588843600 |
+| ev | 55748439576400 |
 | issue_share | 742322764 |
 | ps | 0 |
-| pcf | 10.2369487831 |
+| pcf | 9.6219631241 |
 | bvps | 32938.7338088867 |
-| ev_per_ebitda | -6.8402189329 |
+| ev_per_ebitda | -6.4284459284 |
 | at | 0.1507967453 |
 | fat | 0 |
 | acp | 77.96860679022693 |
@@ -122,6 +126,7 @@
 
 | news_title                                                                                     |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| BVH: Trưởng BKS đăng ký mua 20.000 cổ phiếu                                                    | 1775665140000 | https://www.hsx.vn/vi/tin-tuc/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-vu-thanh-hai/2451436                      |
 | BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                                               | 1775467357000 | https://www.hsx.vn/vi/tin-tuc/bvh-quyet-dinh-cua-hdqt-ve-viec-bo-nhiem-can-bo/2450554                                     |
 | Năm 2025, lợi nhuận sau thuế hợp nhất sau kiểm toán của Bảo Việt đạt 2.922 tỷ đồng             | 1775052240000 | https://www.tinnhanhchungkhoan.vn/nam-2025-loi-nhuan-sau-thue-hop-nhat-sau-kiem-toan-cua-bao-viet-dat-2922-ty-dong-post3… |
 | BVH: CBTT giao dịch với người có liên quan                                                     | 1774636175000 | https://www.hsx.vn/vi/tin-tuc/bvh-cbtt-giao-dich-voi-nguoi-co-lien-quan/2447591                                           |
@@ -131,7 +136,6 @@
 | BVH: Thông báo giao dịch cổ phiếu của Người nội bộ Trần Thị Thụy Anh                           | 1770918000000 | https://www.hsx.vn/vi/tin-tuc/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-thi-thuy-anh/2438914                 |
 | BVH: Nghị quyết HĐQT về việc phê duyệt chủ trương giao dịch với Tổng Công ty Bảo hiểm Bảo Việt | 1770887727000 | https://www.hsx.vn/vi/tin-tuc/bvh-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-giao-dich-voi-tong-cong-ty-bao-hiem-bao-v… |
 | BVH: Nghị quyết HĐQT về việc chấp thuận các Hợp đồng bảo hiểm với người có liên quan năm 2026  | 1770887416000 | https://www.hsx.vn/vi/tin-tuc/bvh-nghi-quyet-hdqt-ve-viec-chap-thuan-cac-hop-dong-bao-hiem-voi-nguoi-co-lien-quan-nam-20… |
-| BVH: Thông báo giao dịch với Người có liên quan                                                | 1770300345000 | https://www.hsx.vn/vi/tin-tuc/bvh-thong-bao-giao-dich-voi-nguoi-co-lien-quan/2437276                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,9 +161,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BVH      | 2026-03-12 00:00:00 |   74.4 |   78   |  72.3 |    72.3 |   788500 |
-| BVH      | 2026-03-13 00:00:00 |   72.4 |   74.4 |  71.3 |    72.7 |   555100 |
-| BVH      | 2026-03-16 00:00:00 |   73.4 |   74.4 |  71.9 |    72   |   319900 |
 | BVH      | 2026-03-17 00:00:00 |   72.9 |   75.7 |  72.9 |    75.7 |   554500 |
 | BVH      | 2026-03-18 00:00:00 |   76.7 |   76.7 |  72.4 |    75.2 |   489900 |
 | BVH      | 2026-03-19 00:00:00 |   73.7 |   75.5 |  73.2 |    74.4 |   466600 |
@@ -176,22 +177,14 @@
 | BVH      | 2026-04-03 00:00:00 |   83.5 |   85.3 |  78   |    85   |   856100 |
 | BVH      | 2026-04-06 00:00:00 |   85   |   85.1 |  81.2 |    81.2 |   347300 |
 | BVH      | 2026-04-07 00:00:00 |   81   |   81.9 |  77.8 |    79.9 |   619600 |
-| BVH      | 2026-04-08 00:00:00 |   81.5 |   81.6 |  79.7 |    80.7 |   249100 |
+| BVH      | 2026-04-08 00:00:00 |   81.5 |   83.5 |  79.7 |    83.5 |   506900 |
+| BVH      | 2026-04-09 00:00:00 |   82.6 |   83   |  79.5 |    79.8 |   575200 |
+| BVH      | 2026-04-10 00:00:00 |   78.5 |   80.2 |  75.3 |    76.4 |  1598500 |
+| BVH      | 2026-04-13 00:00:00 |   77.3 |   77.3 |  75.1 |    75.1 |   540800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BVH      | 2026-04-08 10:47:30 |    80.6 |      300 | Sell         | 460672277 |
-| BVH      | 2026-04-08 10:47:30 |    80.6 |     1000 | Sell         | 460672278 |
-| BVH      | 2026-04-08 10:47:30 |    80.6 |     1100 | Buy          | 460672292 |
-| BVH      | 2026-04-08 10:48:28 |    80.6 |     1000 | Buy          | 460676691 |
-| BVH      | 2026-04-08 10:48:41 |    80.5 |      100 | Sell         | 460677393 |
-| BVH      | 2026-04-08 10:48:54 |    80.5 |      800 | Sell         | 460678100 |
-| BVH      | 2026-04-08 10:48:54 |    80.6 |     1000 | Buy          | 460678121 |
-| BVH      | 2026-04-08 10:49:00 |    80.5 |     1100 | Sell         | 460678414 |
-| BVH      | 2026-04-08 10:49:02 |    80.5 |      100 | Sell         | 460678596 |
-| BVH      | 2026-04-08 10:49:08 |    80.5 |     1600 | Sell         | 460679105 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

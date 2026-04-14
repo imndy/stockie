@@ -1,6 +1,6 @@
 # VNM — VNM
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 07/04/2026 12:18  |  🗂 Quarterly: —
+> 📅 Daily: 14/04/2026 19:53  |  🗂 Quarterly: —
 
 ---
 
@@ -345,59 +345,60 @@
 | --- | --- |
 | symbol | VNM |
 | exchange | HOSE |
-| ev | 127487282145000 |
-| ceiling | 65100 |
-| floor | 56700 |
-| ref_price | 60900 |
-| open | 60900 |
-| match_price | 61000 |
-| close_price | 61000 |
-| price_change | 100 |
-| price_change_pct | 0.00164204 |
-| high | 61200 |
-| low | 60300 |
-| total_volume | 1830413 |
+| ev | 131249201946000 |
+| ceiling | 67100 |
+| floor | 58500 |
+| ref_price | 62800 |
+| open | 62400 |
+| match_price | 62800 |
+| close_price | 62800 |
+| price_change | 0 |
+| price_change_pct | 0 |
+| high | 62800 |
+| low | 62200 |
+| total_volume | 3427869 |
 | high_price_1y | 75500 |
-| low_price_1y | 47418 |
-| pct_low_change_1y | 0.2715837712 |
-| pct_high_change_1y | -0.1689373297 |
-| foreign_volume | 586398 |
+| low_price_1y | 49724 |
+| pct_low_change_1y | 0.2155983499 |
+| pct_high_change_1y | -0.1444141689 |
+| foreign_volume | 1855563 |
 | foreign_room | 2089955445 |
-| avg_match_volume_2w | 3359855 |
-| foreign_holding_room | 1021565249 |
-| current_holding_ratio | 0.4887976207550204 |
+| avg_match_volume_2w | 3997221 |
+| foreign_holding_room | 1023317273 |
+| current_holding_ratio | 0.48963592762141395 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 60.6 |
-| EMA20 | 61.66 |
-| EMA50 | 63.37 |
-| RSI(14) | 43.3 |
+| Giá đóng cửa | 62.0 |
+| EMA20 | 61.97 |
+| EMA50 | 63.21 |
+| RSI(14) | 48.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.184 |
-| MACD Signal | -1.367 |
-| MACD Histogram | 0.183 |
+| MACD | -0.457 |
+| MACD Signal | -0.866 |
+| MACD Histogram | 0.409 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 586398 |
+| KL khớp NN hôm nay | 1855563 |
 | Room NN còn lại | 2089955445 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4887976207550204 |
+| Tỷ lệ sở hữu NN hiện tại | 0.48963592762141395 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VNM      |              1855563 |     2089955445 |                0.489636 |
 | 2026-04-06 | VNM      |              1317719 |     2089955445 |                0.489966 |
 | 2026-04-03 | VNM      |              1699673 |     2089955445 |                0.489401 |
 
@@ -417,8 +418,8 @@
 | roe | 0.2989064033 |
 | roic | 0.2426899808 |
 | roa | 0.173681751 |
-| pe | 13.5477736749 |
-| pb | 4.1546583444 |
+| pe | 13.9475440457 |
+| pb | 4.2772548201 |
 | eps | 4502.584813090119 |
 | current_ratio | 1.9579168955 |
 | cash_ratio | 0.0969838368 |
@@ -428,12 +429,12 @@
 | fae | 0.36681584563508784 |
 | net_profit_margin | 0.1478524713267715 |
 | gross_margin | 0.41180154021448545 |
-| ev | 127487282145000 |
+| ev | 131249201946000 |
 | issue_share | 2089955445 |
-| ps | 2.0030718188 |
-| pcf | 14.7075757376 |
+| ps | 2.0621788561 |
+| pcf | 15.1415697758 |
 | bvps | 14682.3143911022 |
-| ev_per_ebitda | 10.5750754872 |
+| ev_per_ebitda | 10.8694363189 |
 | at | 1.1746962998 |
 | fat | 5.0513648453 |
 | acp | 27.2267576357501 |
@@ -444,7 +445,7 @@
 | rtq4 | 0.0018243134 |
 | charter_capital_ratio | 1.6499402113381896 |
 | rtq10 | 0.5460472431 |
-| dividend | 0.0409836066 |
+| dividend | 0.0398089172 |
 | ebitda | 12779960497496 |
 | ebit | 10663715205138 |
 | le | 0.2760649643 |
@@ -454,18 +455,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                           |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Vinamilk (VNM) lên kế hoạch lợi nhuận 2026 đạt 9.828 tỷ đồng, cổ tức tối thiểu 50% bằng tiền                         | 1775059200000 | https://www.tinnhanhchungkhoan.vn/vinamilk-vnm-len-ke-hoach-loi-nhuan-2026-dat-9828-ty-dong-co-tuc-toi-thieu-50-bang-tie… |
-| VNM: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                                    | 1775038226000 | https://www.hsx.vn/vi/tin-tuc/vnm-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2449041                                    |
-| VNM: Báo cáo thường niên năm 2025                                                                                    | 1774026331000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-thuong-nien-nam-2025/2445685                                                    |
-| VNM: Nghị quyết HĐQT về việc phê duyệt giao dịch, hợp đồng với người có liên quan                                    | 1773769241000 | https://www.hsx.vn/vi/tin-tuc/vnm-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-hop-dong-voi-nguoi-co-lien-quan/2444867     |
-| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD           | 1772622134000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-… |
-| VNM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD                 | 1772622060000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victor… |
-| VNM: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                          | 1772215149000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2440846          |
-| VNM: Thông báo nhận được đơn xin từ nhiệm của Thành viên HĐQT                                                        | 1770135840000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-nhan-duoc-don-xin-tu-nhiem-cua-thanh-vien-hdqt/2436925                        |
-| VNM: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                                                    | 1770134662000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2436910                                    |
-| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty TNHH MTV Đầu tư SCIC (SIC) | 1770052935000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-t… |
+| news_title                                                                                                 |   public_date | news_source_link                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD | 1775670071000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-… |
+| VNM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD       | 1775670000000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victor… |
+| Vinamilk (VNM) lên kế hoạch lợi nhuận 2026 đạt 9.828 tỷ đồng, cổ tức tối thiểu 50% bằng tiền               | 1775059200000 | https://www.tinnhanhchungkhoan.vn/vinamilk-vnm-len-ke-hoach-loi-nhuan-2026-dat-9828-ty-dong-co-tuc-toi-thieu-50-bang-tie… |
+| VNM: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                          | 1775038226000 | https://www.hsx.vn/vi/tin-tuc/vnm-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2449041                                    |
+| VNM: Báo cáo thường niên năm 2025                                                                          | 1774026331000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-thuong-nien-nam-2025/2445685                                                    |
+| VNM: Nghị quyết HĐQT về việc phê duyệt giao dịch, hợp đồng với người có liên quan                          | 1773769241000 | https://www.hsx.vn/vi/tin-tuc/vnm-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-hop-dong-voi-nguoi-co-lien-quan/2444867     |
+| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD | 1772622134000 | https://www.hsx.vn/vi/tin-tuc/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-… |
+| VNM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD       | 1772622060000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victor… |
+| VNM: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                | 1772215149000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2440846          |
+| VNM: Thông báo nhận được đơn xin từ nhiệm của Thành viên HĐQT                                              | 1770135840000 | https://www.hsx.vn/vi/tin-tuc/vnm-thong-bao-nhan-duoc-don-xin-tu-nhiem-cua-thanh-vien-hdqt/2436925                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -474,12 +475,12 @@
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 4 năm 2024 bằng tiền 350 đồng/cổ phiếu  | 2025-10-07    | 2025-10-17    | 2025-10-16     |   0.035 |     350 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2024 bằng tiền 2000 đồng/cổ phiếu | 2025-05-08    | 2025-05-15    | 2025-05-14     |   0.2   |    2000 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2024 bằng tiền 500 đồng/cổ phiếu  | 2024-12-12    | 2024-12-27    | 2024-12-26     |   0.05  |     500 |
-| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1500 đồng/cổ phiếu | 2024-08-30    | 2024-09-25    | 2024-09-24     |   0.15  |    1500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 4 năm 2023 bằng tiền 950 đồng/cổ phiếu  | 2024-08-30    | 2024-09-25    | 2024-09-24     |   0.095 |     950 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2023 bằng tiền 900 đồng/cổ phiếu  | 2024-03-08    | 2024-03-18    | 2024-03-15     |   0.09  |     900 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2023 bằng tiền 500 đồng/cổ phiếu  | 2023-12-14    | 2023-12-28    | 2023-12-27     |   0.05  |     500 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2022 bằng tiền 950 đồng/cổ phiếu  | 2023-07-26    | 2023-08-04    | 2023-08-03     |   0.095 |     950 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1400 đồng/cổ phiếu | 2022-12-12    | 2022-12-23    | 2022-12-22     |   0.14  |    1400 |
-| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1500 đồng/cổ phiếu | 2022-06-24    | 2022-07-07    | 2022-07-06     |   0.15  |    1500 |
+| Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3 năm 2021 bằng tiền 950 đồng/cổ phiếu  | 2022-06-24    | 2022-07-07    | 2022-07-06     |   0.095 |     950 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2, 2021 bằng tiền 1400 VND/CP           | 2021-12-27    | 2022-01-11    | 2022-01-10     |   0.14  |    1400 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 3, 2020 bằng tiền 1100 VND/CP           | 2021-05-24    | 2021-06-08    | 2021-06-07     |   0.11  |    1100 |
 | Trả cổ tức bằng tiền mặt | VNM - Trả cổ tức Đợt 2, 2020 bằng tiền 1000 VND/CP           | 2020-12-17    | 2021-01-06    | 2021-01-05     |   0.1   |    1000 |
@@ -491,10 +492,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VNM      | 2026-03-12 00:00:00 |   62   |   62.7 |  61.3 |    61.6 |  6298800 |
-| VNM      | 2026-03-13 00:00:00 |   62   |   63.2 |  61.6 |    63.1 |  5388500 |
-| VNM      | 2026-03-16 00:00:00 |   62.6 |   62.9 |  61.7 |    61.8 |  2965000 |
-| VNM      | 2026-03-17 00:00:00 |   62.7 |   63   |  61.5 |    61.5 |  3816100 |
 | VNM      | 2026-03-18 00:00:00 |   61.8 |   62.7 |  61.6 |    61.7 |  2596400 |
 | VNM      | 2026-03-19 00:00:00 |   61.4 |   62   |  60.8 |    61   |  6400100 |
 | VNM      | 2026-03-20 00:00:00 |   61   |   61.5 |  60   |    60   |  5734800 |
@@ -509,21 +506,26 @@
 | VNM      | 2026-04-02 00:00:00 |   61.5 |   61.7 |  60.8 |    60.8 |  2855300 |
 | VNM      | 2026-04-03 00:00:00 |   61   |   61.7 |  60   |    60   |  3788600 |
 | VNM      | 2026-04-06 00:00:00 |   60   |   61   |  60   |    60.9 |  2587400 |
-| VNM      | 2026-04-07 00:00:00 |   60.9 |   61.2 |  60.5 |    60.6 |   691300 |
+| VNM      | 2026-04-07 00:00:00 |   60.9 |   61.2 |  60.3 |    61   |  1825200 |
+| VNM      | 2026-04-08 00:00:00 |   62.2 |   62.7 |  61.7 |    62.6 |  5568500 |
+| VNM      | 2026-04-09 00:00:00 |   61.8 |   62.1 |  61.4 |    61.8 |  2921000 |
+| VNM      | 2026-04-10 00:00:00 |   62.6 |   64   |  62.5 |    62.8 |  6158400 |
+| VNM      | 2026-04-13 00:00:00 |   62.4 |   62.8 |  62.2 |    62.8 |  3418300 |
+| VNM      | 2026-04-14 00:00:00 |   63.4 |   63.5 |  62   |    62   |  4247700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VNM      | 2026-04-07 11:20:47 |    60.7 |     1000 | Sell         | 460063495 |
-| VNM      | 2026-04-07 11:20:54 |    60.7 |      200 | Sell         | 460063710 |
-| VNM      | 2026-04-07 11:21:05 |    60.8 |      100 | Buy          | 460064254 |
-| VNM      | 2026-04-07 11:21:21 |    60.7 |      200 | Sell         | 460064639 |
-| VNM      | 2026-04-07 11:21:47 |    60.7 |     7000 | Sell         | 460065232 |
-| VNM      | 2026-04-07 11:21:48 |    60.7 |      300 | Sell         | 460065245 |
-| VNM      | 2026-04-07 11:21:58 |    60.8 |      300 | Buy          | 460065411 |
-| VNM      | 2026-04-07 11:22:15 |    60.7 |      200 | Sell         | 460065807 |
-| VNM      | 2026-04-07 11:22:42 |    60.7 |      200 | Sell         | 460066490 |
-| VNM      | 2026-04-07 11:22:47 |    60.7 |     1000 | Sell         | 460066579 |
+| VNM      | 2026-04-14 14:27:43 |    62.5 |     1500 | Buy          | 463618499 |
+| VNM      | 2026-04-14 14:27:45 |    62.3 |      500 | Sell         | 463618582 |
+| VNM      | 2026-04-14 14:27:45 |    62.3 |      700 | Sell         | 463618580 |
+| VNM      | 2026-04-14 14:27:45 |    62.3 |     1000 | Sell         | 463618581 |
+| VNM      | 2026-04-14 14:27:46 |    62.3 |      300 | Buy          | 463618610 |
+| VNM      | 2026-04-14 14:27:47 |    62.3 |     3000 | Buy          | 463618656 |
+| VNM      | 2026-04-14 14:27:48 |    62.3 |     1300 | Buy          | 463618764 |
+| VNM      | 2026-04-14 14:27:48 |    62.5 |      200 | Buy          | 463618765 |
+| VNM      | 2026-04-14 14:27:52 |    62.4 |     3000 | Buy          | 463619040 |
+| VNM      | 2026-04-14 14:27:53 |    62.4 |     1500 | Buy          | 463619134 |
 
 <!-- END:DAILY -->

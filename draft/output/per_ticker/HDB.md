@@ -1,6 +1,6 @@
 # HDB — HDB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:12  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 14/04/2026 19:40  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | HDB |
 | exchange | HOSE |
-| ev | 125632435130000 |
-| ceiling | 27350 |
-| floor | 23850 |
-| ref_price | 25600 |
-| open | 25550 |
-| match_price | 25100 |
-| close_price | 25100 |
-| price_change | -500 |
-| price_change_pct | -0.01953125 |
-| high | 25550 |
-| low | 25050 |
-| total_volume | 19315560 |
+| ev | 129636656170000 |
+| ceiling | 27950 |
+| floor | 24350 |
+| ref_price | 26150 |
+| open | 26000 |
+| match_price | 25900 |
+| close_price | 25900 |
+| price_change | -250 |
+| price_change_pct | -0.00956023 |
+| high | 26150 |
+| low | 25750 |
+| total_volume | 12394631 |
 | high_price_1y | 30000 |
-| low_price_1y | 13880 |
-| pct_low_change_1y | 0.788511061 |
-| pct_high_change_1y | -0.1548821549 |
-| foreign_volume | 7864536 |
+| low_price_1y | 14767 |
+| pct_low_change_1y | 0.6546000116 |
+| pct_high_change_1y | -0.1279461279 |
+| foreign_volume | 842012 |
 | foreign_room | 1351424607 |
-| avg_match_volume_2w | 13613920 |
-| foreign_holding_room | 1105589203 |
-| current_holding_ratio | 0.2208847487439706 |
+| avg_match_volume_2w | 14058174 |
+| foreign_holding_room | 1091996136 |
+| current_holding_ratio | 0.21816900117624136 |
 | max_holding_ratio | 0.27 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.15 |
-| EMA20 | 25.51 |
+| Giá đóng cửa | 26.1 |
+| EMA20 | 25.74 |
 | EMA50 | 26.08 |
-| RSI(14) | 43.0 |
+| RSI(14) | 53.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.302 |
-| MACD Signal | -0.433 |
-| MACD Histogram | 0.131 |
+| Giá vs EMA50 | Trên |
+| MACD | -0.031 |
+| MACD Signal | -0.203 |
+| MACD Histogram | 0.171 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 7864536 |
+| KL khớp NN hôm nay | 842012 |
 | Room NN còn lại | 1351424607 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2208847487439706 |
+| Tỷ lệ sở hữu NN hiện tại | 0.21816900117624136 |
 | Tỷ lệ sở hữu NN tối đa | 0.27 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | HDB      |               842012 |     1351424607 |                0.218169 |
+| 2026-04-12 | HDB      |              1395729 |     1351424607 |                0.218138 |
 | 2026-04-06 | HDB      |              4293131 |     1351424607 |                0.222637 |
 | 2026-04-03 | HDB      |              6254370 |     1351424607 |                0.222499 |
 
@@ -83,8 +85,8 @@
 | roe | 0.2530497982 |
 | roic | 0 |
 | roa | 0.0209689067 |
-| pe | 7.6028495052 |
-| pb | 1.6624615457 |
+| pe | 7.8451714018 |
+| pb | 1.7154483679 |
 | eps | 3301.393771208994 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +96,10 @@
 | fae | 0.02376475180174439 |
 | net_profit_margin | 0.4755740989155933 |
 | gross_margin | 0 |
-| ev | 125632435130000 |
+| ev | 129636656170000 |
 | issue_share | 5005276323 |
-| ps | 2.9424960598 |
-| pcf | 1.6659610058 |
+| ps | 3.0362807948 |
+| pcf | 1.7190593645 |
 | bvps | 15098.0935857627 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +124,8 @@
 
 | news_title                                                                                                     |   public_date | news_source_link                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HDB: Thông báo về việc thay đổi địa điểm của PGD Thác Mơ                                                       | 1775839028000 | https://www.hsx.vn/vi/tin-tuc/hdb-thong-bao-ve-viec-thay-doi-dia-diem-cua-pgd-thac-mo/2452053                             |
+| HDB: Biên bản kiểm phiếu và Nghị quyết ĐHĐCĐ về việc lấy ý kiến cổ đông bằng văn bản năm 2026                  | 1775669868000 | https://www.hsx.vn/vi/tin-tuc/hdb-bien-ban-kiem-phieu-va-nghi-quyet-dhdcd-ve-viec-lay-y-kien-co-dong-bang-van-ban-nam-20… |
 | HDB đặt kế hoạch lợi nhuận hơn 30.000 tỷ đồng trước thuế trong 2026                                            | 1775386260000 | https://www.tinnhanhchungkhoan.vn/hdbank-hdb-dat-ke-hoach-loi-nhuan-hon-30000-ty-dong-truoc-thue-trong-2026-post388157.h… |
 | HDB: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                       | 1775239604000 | https://www.hsx.vn/vi/tin-tuc/hdb-tai-lieu-hop-dhdcd-thuong-nien-2026/2450470                                             |
 | HDB: Báo cáo kết quả mua lại trước hạn trái phiếu phát hành ra công chúng - HDBC7Y202301                       | 1775035040000 | https://www.hsx.vn/vi/tin-tuc/hdb-bao-cao-ket-qua-mua-lai-truoc-han-trai-phieu-phat-hanh-ra-cong-chung--hdbc7y202301/244… |
@@ -130,8 +134,6 @@
 | HDB: Tài liệu lấy ý kiến cổ đông bằng văn bản năm 2026                                                         | 1774545930000 | https://www.hsx.vn/vi/tin-tuc/hdb-tai-lieu-lay-y-kien-co-dong-bang-van-ban-nam-2026/2447082                               |
 | HDB: CBTT thông báo của TGĐ về việc thay đổi tên gọi của PGD Hà Huy Tập                                        | 1774536824000 | https://www.hsx.vn/vi/tin-tuc/hdb-cbtt-thong-bao-cua-tgd-ve-viec-thay-doi-ten-goi-cua-pgd-ha-huy-tap/2446955              |
 | HDB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng (đợt 1)                                             | 1774536707000 | https://www.hsx.vn/vi/tin-tuc/hdb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung-dot-1/2446952                     |
-| HDB: Nghị quyết HĐQT về phương án tăng tỷ lệ sở hữu tại Công ty Tài chính TNHH HD SAISON                       | 1774373207000 | https://www.hsx.vn/vi/tin-tuc/hdb-nghi-quyet-hdqt-ve-phuong-an-tang-ty-le-so-huu-tai-cong-ty-tai-chinh-tnhh-hd-saison/24… |
-| HDB: Phó TGĐ đăng ký mua 100.000 cổ phiếu                                                                      | 1774370520000 | https://www.hsx.vn/vi/tin-tuc/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-hoai-nam/2446377                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +159,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDB      | 2026-03-12 00:00:00 |  25.3  |  25.75 | 25.1  |   25.7  | 11637800 |
-| HDB      | 2026-03-13 00:00:00 |  25.3  |  25.75 | 25.2  |   25.6  |  8896300 |
-| HDB      | 2026-03-16 00:00:00 |  25.5  |  25.65 | 25.2  |   25.6  |  6905100 |
-| HDB      | 2026-03-17 00:00:00 |  25.7  |  26.2  | 25.65 |   25.7  | 11718400 |
 | HDB      | 2026-03-18 00:00:00 |  25.7  |  26    | 25.25 |   25.7  |  9744800 |
 | HDB      | 2026-03-19 00:00:00 |  25.5  |  25.7  | 25.25 |   25.65 | 13069900 |
 | HDB      | 2026-03-20 00:00:00 |  25.5  |  25.5  | 24.9  |   25    | 12201400 |
@@ -175,22 +173,27 @@
 | HDB      | 2026-04-02 00:00:00 |  25.6  |  25.65 | 25.25 |   25.6  | 13794100 |
 | HDB      | 2026-04-03 00:00:00 |  25.65 |  25.7  | 25.15 |   25.6  | 13990500 |
 | HDB      | 2026-04-06 00:00:00 |  25.5  |  25.7  | 25.25 |   25.6  | 13406100 |
-| HDB      | 2026-04-07 00:00:00 |  25.55 |  25.55 | 25.05 |   25.15 |  8183300 |
+| HDB      | 2026-04-07 00:00:00 |  25.55 |  25.55 | 25.05 |   25.1  | 14276900 |
+| HDB      | 2026-04-08 00:00:00 |  25.7  |  26.5  | 25.55 |   26.35 | 23664600 |
+| HDB      | 2026-04-09 00:00:00 |  26.25 |  26.25 | 25.9  |   26.05 |  9923000 |
+| HDB      | 2026-04-10 00:00:00 |  26.35 |  26.7  | 26.15 |   26.15 | 10812000 |
+| HDB      | 2026-04-13 00:00:00 |  26    |  26.15 | 25.75 |   25.9  |  9426200 |
+| HDB      | 2026-04-14 00:00:00 |  26.15 |  26.45 | 26.05 |   26.1  | 11232700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDB      | 2026-04-07 11:21:52 |   25.15 |      100 | Buy          | 460065305 |
-| HDB      | 2026-04-07 11:21:57 |   25.15 |      300 | Sell         | 460065382 |
-| HDB      | 2026-04-07 11:21:57 |   25.15 |      100 | Sell         | 460065384 |
-| HDB      | 2026-04-07 11:22:00 |   25.15 |      800 | Sell         | 460065489 |
-| HDB      | 2026-04-07 11:22:00 |   25.15 |      100 | Sell         | 460065478 |
-| HDB      | 2026-04-07 11:22:00 |   25.15 |      800 | Sell         | 460065479 |
-| HDB      | 2026-04-07 11:22:00 |   25.15 |     2500 | Sell         | 460065480 |
-| HDB      | 2026-04-07 11:22:08 |   25.15 |      400 | Sell         | 460065685 |
-| HDB      | 2026-04-07 11:22:19 |   25.2  |     5000 | Buy          | 460065892 |
-| HDB      | 2026-04-07 11:22:19 |   25.2  |      400 | Buy          | 460065893 |
+| HDB      | 2026-04-14 14:24:12 |   26.15 |     1300 | Buy          | 463605482 |
+| HDB      | 2026-04-14 14:24:15 |   26.15 |     4000 | Buy          | 463605627 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      500 | Sell         | 463605782 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      300 | Sell         | 463605790 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      500 | Sell         | 463605789 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |     5000 | Sell         | 463605788 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |     3300 | Sell         | 463605781 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      100 | Sell         | 463605785 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      100 | Sell         | 463605784 |
+| HDB      | 2026-04-14 14:24:18 |   26.1  |      100 | Sell         | 463605783 |
 
 <!-- END:DAILY -->
 

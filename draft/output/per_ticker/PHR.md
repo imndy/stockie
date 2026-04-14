@@ -1,6 +1,6 @@
 # PHR — PHR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:14  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | PHR |
 | exchange | HOSE |
-| ev | 8197701479000 |
-| ceiling | 64800 |
-| floor | 56400 |
-| ref_price | 60600 |
-| open | 61400 |
-| match_price | 60500 |
-| close_price | 60500 |
-| price_change | -100 |
-| price_change_pct | -0.00165017 |
-| high | 61400 |
-| low | 60000 |
-| total_volume | 219128 |
+| ev | 8441600035400 |
+| ceiling | 67000 |
+| floor | 58400 |
+| ref_price | 62700 |
+| open | 62500 |
+| match_price | 62300 |
+| close_price | 62300 |
+| price_change | -400 |
+| price_change_pct | -0.00637959 |
+| high | 63600 |
+| low | 62000 |
+| total_volume | 342216 |
 | high_price_1y | 69900 |
 | low_price_1y | 38072 |
-| pct_low_change_1y | 0.5171359883 |
-| pct_high_change_1y | -0.1231884058 |
-| foreign_volume | 71600 |
+| pct_low_change_1y | 0.5622739185 |
+| pct_high_change_1y | -0.0971014493 |
+| foreign_volume | 296800 |
 | foreign_room | 66394607 |
-| avg_match_volume_2w | 233327 |
-| foreign_holding_room | 18720662 |
-| current_holding_ratio | 0.13816068490678446 |
+| avg_match_volume_2w | 253055 |
+| foreign_holding_room | 18849262 |
+| current_holding_ratio | 0.13910976801501068 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 60.8 |
-| EMA20 | 61.28 |
-| EMA50 | 61.15 |
-| RSI(14) | 48.4 |
+| Giá đóng cửa | 62.3 |
+| EMA20 | 61.82 |
+| EMA50 | 61.43 |
+| RSI(14) | 52.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.018 |
-| MACD Signal | -0.131 |
-| MACD Histogram | 0.148 |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.326 |
+| MACD Signal | 0.155 |
+| MACD Histogram | 0.172 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 71600 |
+| KL khớp NN hôm nay | 296800 |
 | Room NN còn lại | 66394607 |
-| Tỷ lệ sở hữu NN hiện tại | 0.13816068490678446 |
+| Tỷ lệ sở hữu NN hiện tại | 0.13910976801501068 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | PHR      |               296800 |       66394607 |                0.13911  |
 | 2026-04-06 | PHR      |                93600 |       66394607 |                0.138402 |
 | 2026-04-03 | PHR      |                54000 |       66394607 |                0.138005 |
 
@@ -83,8 +84,8 @@
 | roe | 0.123149784 |
 | roic | 0.0637190159 |
 | roa | 0.0791784633 |
-| pe | 17.1415165388 |
-| pb | 2.0365233655 |
+| pe | 17.6515120722 |
+| pb | 2.0971141433 |
 | eps | 3529.44267580831 |
 | current_ratio | 5.0755456522 |
 | cash_ratio | 0.8663420715 |
@@ -94,12 +95,12 @@
 | fae | 0.41078021081300176 |
 | net_profit_margin | 0.2664371311867491 |
 | gross_margin | 0.28086691178185275 |
-| ev | 8197701479000 |
+| ev | 8441600035400 |
 | issue_share | 135499198 |
-| ps | 4.5671364908 |
-| pcf | 13.3112467645 |
+| ps | 4.7030182376 |
+| pcf | 13.7072838583 |
 | bvps | 29707.4912202285 |
-| ev_per_ebitda | 18.3517164039 |
+| ev_per_ebitda | 18.9278647982 |
 | at | 0.297175033 |
 | fat | 1.012897409 |
 | acp | 11.061183575592464 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| PHR: Ứng cử, đề cử nhân sự bầu bổ sung thành viên HĐQT nhiệm kỳ 2023-2028                                                 | 1775583660000 | https://www.hsx.vn/vi/tin-tuc/phr-ung-cu-de-cu-nhan-su-bau-bo-sung-thanh-vien-hdqt-nhiem-ky-20232028/2451270              |
 | PHR: Báo cáo thường niên năm 2025                                                                                         | 1775151445000 | https://www.hsx.vn/vi/tin-tuc/phr-bao-cao-thuong-nien-nam-2025/2449914                                                    |
 | PHR: Thông báo thay đổi nhân sự                                                                                           | 1774979700000 | https://www.hsx.vn/vi/tin-tuc/phr-thong-bao-thay-doi-nhan-su/2448817                                                      |
 | PHR: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                               | 1774964419000 | https://www.hsx.vn/vi/tin-tuc/phr-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2448572                          |
@@ -131,7 +133,6 @@
 | PHR: Ông Trần Hoàng Giang - Thành viên HĐQT đăng ký mua 50.000 cổ phiếu                                                   | 1770741780000 | https://www.hsx.vn/vi/tin-tuc/phr-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-hoang-giang/2438217                  |
 | Lợi nhuận Cao su Phước Hoà giảm 69,5% trong quý IV/2025, về 70,16 tỷ đồng                                                 | 1770582600000 | https://baodautu.vn/loi-nhuan-cao-su-phuoc-hoa-giam-695-trong-quy-iv2025-ve-7016-ty-dong-d513045.html                     |
 | Cao su Phước Hoà (PHR): Lợi nhuận quý IV/2025 giảm 70%, mục tiêu lãi 2026 đạt 762,49 tỷ đồng                              | 1770205800000 | https://www.tinnhanhchungkhoan.vn/cao-su-phuoc-hoa-phr-loi-nhuan-quy-iv2025-giam-70-muc-tieu-lai-2026-dat-76249-ty-dong-… |
-| PHR: Nghị quyết HĐQT số 04 ngày 02/02/2026                                                                                | 1770127313000 | https://www.hsx.vn/vi/tin-tuc/phr-nghi-quyet-hdqt-so-04-ngay-02022026/2436854                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PHR      | 2026-03-12 00:00:00 |   59.6 |   62.4 |  59.6 |    61.5 |   460600 |
-| PHR      | 2026-03-13 00:00:00 |   60.2 |   61.9 |  60.2 |    61.4 |   388300 |
-| PHR      | 2026-03-16 00:00:00 |   61   |   62.5 |  60.9 |    62.2 |   515500 |
-| PHR      | 2026-03-17 00:00:00 |   62.5 |   62.7 |  60.7 |    61   |   239500 |
 | PHR      | 2026-03-18 00:00:00 |   62   |   62.2 |  61   |    62   |   224300 |
 | PHR      | 2026-03-19 00:00:00 |   61.5 |   61.5 |  60.6 |    61   |   206200 |
 | PHR      | 2026-03-20 00:00:00 |   61.1 |   61.1 |  58.5 |    58.5 |   240300 |
@@ -175,22 +172,27 @@
 | PHR      | 2026-04-02 00:00:00 |   62   |   63.2 |  61.9 |    63   |   290500 |
 | PHR      | 2026-04-03 00:00:00 |   63   |   63.6 |  62   |    62.8 |   175300 |
 | PHR      | 2026-04-06 00:00:00 |   62.7 |   62.7 |  60.6 |    60.6 |   247400 |
-| PHR      | 2026-04-07 00:00:00 |   61.4 |   61.4 |  60.8 |    60.8 |    59700 |
+| PHR      | 2026-04-07 00:00:00 |   61.4 |   61.4 |  60   |    60.5 |   218900 |
+| PHR      | 2026-04-08 00:00:00 |   61.6 |   63   |  61.5 |    63   |   314700 |
+| PHR      | 2026-04-09 00:00:00 |   63.2 |   63.9 |  62.5 |    63.5 |   336500 |
+| PHR      | 2026-04-10 00:00:00 |   63.6 |   64   |  62.7 |    62.7 |   240100 |
+| PHR      | 2026-04-13 00:00:00 |   62.5 |   63.6 |  62   |    62.3 |   341900 |
+| PHR      | 2026-04-14 00:00:00 |   62.5 |   63   |  62   |    62.3 |   129800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PHR      | 2026-04-07 09:15:05 |    61.4 |     1200 | Buy          | 459846937 |
-| PHR      | 2026-04-07 09:15:10 |    61.3 |      200 | Buy          | 459847052 |
-| PHR      | 2026-04-07 09:21:55 |    60.9 |      100 | Buy          | 459861027 |
-| PHR      | 2026-04-07 09:22:31 |    61.1 |      100 | Buy          | 459862358 |
-| PHR      | 2026-04-07 09:25:01 |    61   |      100 | Sell         | 459866994 |
-| PHR      | 2026-04-07 09:30:49 |    61   |      300 | Buy          | 459877439 |
-| PHR      | 2026-04-07 09:33:03 |    60.8 |      200 | Sell         | 459882729 |
-| PHR      | 2026-04-07 09:33:03 |    60.8 |      300 | Sell         | 459882734 |
-| PHR      | 2026-04-07 09:33:03 |    60.8 |      100 | Sell         | 459882735 |
-| PHR      | 2026-04-07 09:34:48 |    61   |      700 | Buy          | 459886661 |
+| PHR      | 2026-04-14 13:19:12 |    62.2 |      200 | Sell         | 463385010 |
+| PHR      | 2026-04-14 13:19:45 |    62.1 |     5000 | Sell         | 463386653 |
+| PHR      | 2026-04-14 13:19:50 |    62.1 |      200 | Sell         | 463387062 |
+| PHR      | 2026-04-14 13:20:28 |    62.1 |      200 | Buy          | 463389265 |
+| PHR      | 2026-04-14 13:20:32 |    62   |      100 | Sell         | 463389560 |
+| PHR      | 2026-04-14 13:21:18 |    62.1 |      100 | Buy          | 463391258 |
+| PHR      | 2026-04-14 13:21:18 |    62.1 |      200 | Buy          | 463391259 |
+| PHR      | 2026-04-14 13:21:18 |    62.1 |      100 | Buy          | 463391260 |
+| PHR      | 2026-04-14 13:25:33 |    62.1 |      200 | Sell         | 463406349 |
+| PHR      | 2026-04-14 13:25:33 |    62.1 |      200 | Sell         | 463406350 |
 
 <!-- END:DAILY -->
 

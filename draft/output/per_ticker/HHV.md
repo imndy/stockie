@@ -1,6 +1,6 @@
 # HHV — HHV
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:12  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 14/04/2026 19:41  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | HHV |
 | exchange | HOSE |
-| ev | 5869709435400 |
-| ceiling | 12550 |
-| floor | 10950 |
-| ref_price | 11750 |
-| open | 11750 |
-| match_price | 11800 |
-| close_price | 11800 |
-| price_change | 50 |
-| price_change_pct | 0.00425532 |
-| high | 12000 |
-| low | 11650 |
-| total_volume | 2815647 |
+| ev | 6416885738700 |
+| ceiling | 13600 |
+| floor | 11900 |
+| ref_price | 12750 |
+| open | 12650 |
+| match_price | 12900 |
+| close_price | 12900 |
+| price_change | 150 |
+| price_change_pct | 0.01176471 |
+| high | 13450 |
+| low | 12600 |
+| total_volume | 15392551 |
 | high_price_1y | 16941 |
-| low_price_1y | 9039 |
-| pct_low_change_1y | 0.2689217744 |
-| pct_high_change_1y | -0.2784948669 |
-| foreign_volume | 109900 |
+| low_price_1y | 10322 |
+| pct_low_change_1y | 0.190739135 |
+| pct_high_change_1y | -0.2112359138 |
+| foreign_volume | 563618 |
 | foreign_room | 268111485 |
-| avg_match_volume_2w | 5441428 |
-| foreign_holding_room | 57067937 |
-| current_holding_ratio | 0.1147248707983294 |
+| avg_match_volume_2w | 8856234 |
+| foreign_holding_room | 57338495 |
+| current_holding_ratio | 0.10479171582600548 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 11.8 |
-| EMA20 | 11.99 |
-| EMA50 | 12.22 |
-| RSI(14) | 45.5 |
+| Giá đóng cửa | 12.95 |
+| EMA20 | 12.3 |
+| EMA50 | 12.32 |
+| RSI(14) | 62.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.053 |
-| MACD Signal | -0.048 |
-| MACD Histogram | -0.005 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Giá vs EMA50 | Trên |
+| MACD | 0.175 |
+| MACD Signal | 0.055 |
+| MACD Histogram | 0.12 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 109900 |
+| KL khớp NN hôm nay | 563618 |
 | Room NN còn lại | 268111485 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1147248707983294 |
+| Tỷ lệ sở hữu NN hiện tại | 0.10479171582600548 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | HHV      |               563618 |      268111485 |                0.104792 |
+| 2026-04-12 | HHV      |               111500 |      268111485 |                0.10462  |
 | 2026-04-06 | HHV      |               289700 |      268111485 |                0.115141 |
 | 2026-04-03 | HHV      |               230100 |      268111485 |                0.115022 |
 
@@ -83,8 +85,8 @@
 | roe | 0.0578485176 |
 | roic | 0.050196327 |
 | roa | 0.0145815717 |
-| pe | 10.1067257975 |
-| pb | 0.9111626948 |
+| pe | 11.0488782023 |
+| pb | 0.9961015901 |
 | eps | 1167.5393432490043 |
 | current_ratio | 0.5229122264 |
 | cash_ratio | 0.1647466516 |
@@ -94,12 +96,12 @@
 | fae | 2.2581526841143864 |
 | net_profit_margin | 0.15277974990232493 |
 | gross_margin | 0.42508742979162467 |
-| ev | 5869709435400 |
-| issue_share | 497433003 |
-| ps | 1.5441030397 |
-| pcf | 3.2094504077 |
+| ev | 6416885738700 |
+| issue_share | 547166296 |
+| ps | 1.6880448485 |
+| pcf | 3.5086364627 |
 | bvps | 12950.4863037324 |
-| ev_per_ebitda | 12.0626589627 |
+| ev_per_ebitda | 12.3406649914 |
 | at | 0.0954417829 |
 | fat | 0.137505034 |
 | acp | 69.12648179709849 |
@@ -120,47 +122,43 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                        |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HHV: Quyết định về việc thay đổi đăng ký niêm yết                                                                 | 1775559840000 | https://www.hsx.vn/vi/tin-tuc/hhv-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2451051                                    |
-| Đèo Cả (HHV) thông qua kế hoạch phát hành hơn 84,8 triệu cổ phiếu để tăng vốn điều lệ lên 6.320 tỷ đồng           | 1775485800000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-thong-qua-ke-hoach-phat-hanh-hon-848-trieu-co-phieu-de-tang-von-dieu-le-len… |
-| HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                          | 1775467170000 | https://www.hsx.vn/vi/tin-tuc/hhv-tai-lieu-hop-dhdcd-thuong-nien-2026/2450506                                             |
-| HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                                                                | 1775154919000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-don-xin-tu-nhiem-cua-kiem-soat-vien/2449979                                   |
-| HHV: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                                                               | 1775065161000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn/2449492                                  |
-| HHV: Giải trình biến động LNST năm 2025 đã kiểm toán so với cùng kỳ năm trước                                     | 1775034888000 | https://www.hsx.vn/vi/tin-tuc/hhv-giai-trinh-bien-dong-lnst-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc/2448973        |
-| HHV: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 38                                                     | 1774460319000 | https://www.hsx.vn/vi/tin-tuc/hhv-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-38/2446676                        |
-| Đèo Cả (HHV) hoàn tất tăng vốn điều lệ lên hơn 5.400 tỷ đồng, CTCP Đầu tư Hải Thạch BOT là cổ đông lớn duy nhất   | 1774212000000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-hoan-tat-tang-von-dieu-le-len-hon-5400-ty-dong-ctcp-dau-tu-hai-thach-bot-la… |
-| HHV: Nghị quyết HĐQT về việc thông qua thay đổi vốn điều lệ, sửa đổi, bổ sung điều lệ                             | 1774030545000 | https://www.hsx.vn/vi/tin-tuc/hhv-nghi-quyet-hdqt-ve-viec-thong-qua-thay-doi-von-dieu-le-sua-doi-bo-sung-dieu-le/2445732  |
-| HHV: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Tập đoàn Đèo Cả | 1773335411000 | https://www.hsx.vn/vi/tin-tuc/hhv-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
+| news_title                                                                                                      |   public_date | news_source_link                                                                                                          |
+|:----------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                          | 1775757060000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2451827               |
+| HHV: Quyết định về việc thay đổi đăng ký niêm yết                                                               | 1775559840000 | https://www.hsx.vn/vi/tin-tuc/hhv-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2451051                                    |
+| Đèo Cả (HHV) thông qua kế hoạch phát hành hơn 84,8 triệu cổ phiếu để tăng vốn điều lệ lên 6.320 tỷ đồng         | 1775485800000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-thong-qua-ke-hoach-phat-hanh-hon-848-trieu-co-phieu-de-tang-von-dieu-le-len… |
+| HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                        | 1775467170000 | https://www.hsx.vn/vi/tin-tuc/hhv-tai-lieu-hop-dhdcd-thuong-nien-2026/2450506                                             |
+| HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                                                              | 1775154919000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-don-xin-tu-nhiem-cua-kiem-soat-vien/2449979                                   |
+| HHV: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                                                             | 1775065161000 | https://www.hsx.vn/vi/tin-tuc/hhv-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn/2449492                                  |
+| HHV: Giải trình biến động LNST năm 2025 đã kiểm toán so với cùng kỳ năm trước                                   | 1775034888000 | https://www.hsx.vn/vi/tin-tuc/hhv-giai-trinh-bien-dong-lnst-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc/2448973        |
+| HHV: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 38                                                   | 1774460319000 | https://www.hsx.vn/vi/tin-tuc/hhv-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-38/2446676                        |
+| Đèo Cả (HHV) hoàn tất tăng vốn điều lệ lên hơn 5.400 tỷ đồng, CTCP Đầu tư Hải Thạch BOT là cổ đông lớn duy nhất | 1774212000000 | https://www.tinnhanhchungkhoan.vn/deo-ca-hhv-hoan-tat-tang-von-dieu-le-len-hon-5400-ty-dong-ctcp-dau-tu-hai-thach-bot-la… |
+| HHV: Nghị quyết HĐQT về việc thông qua thay đổi vốn điều lệ, sửa đổi, bổ sung điều lệ                           | 1774030545000 | https://www.hsx.vn/vi/tin-tuc/hhv-nghi-quyet-hdqt-ve-viec-thong-qua-thay-doi-von-dieu-le-sua-doi-bo-sung-dieu-le/2445732  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 1 giá 10.000 đồng/cp | 2025-12-19    | 2025-12-26    | 2025-12-25     |  0.1    |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 23.677.475 cổ phiếu                                    | 2025-09-04    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                  | 2025-07-10    | 2025-07-21    | 2025-07-18     |  0.05   |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 41.500.000 cổ phiếu                                    | 2025-06-11    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 20.575.359 cổ phiếu                                    | 2024-08-23    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                  | 2024-07-10    | 2024-07-22    | 2024-07-19     |  0.05   |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 82,329,818 cổ phiếu                                    | 2024-03-12    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 4 : 1 giá 10.000 đồng/cp  | 2023-11-21    | 2023-11-29    | 2023-11-28     |  0.25   |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 21,545,901 cổ phiếu                                    | 2023-07-14    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 7%                                  | 2023-05-30    | 2023-06-08    | 2023-06-07     |  0.07   |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 40,420,360 cổ phiếu                                    | 2023-01-06    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 1 : 1 giá 10.000 đồng/cp  | 2022-10-12    | 2022-10-20    | 2022-10-19     |  1      |       0 |
-| Niêm yết thêm            | HHV - Niêm yết bổ sung 40.375.000 cổ phiếu                                    | 2020-09-22    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | HHV - Đăng ký giao dịch bổ sung 219.071.590 cổ phiếu                          | 2020-01-13    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Trả cổ tức bằng tiền mặt | HHV - Trả cổ tức Cả năm, 2018 bằng tiền 1328 VND/CP                           | 2019-05-31    | 2019-06-05    | 2019-06-04     |  0.1328 |    1328 |
+| event_list_name    | event_title                                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 49.733.293 cổ phiếu                                    | 2026-04-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 1 giá 10.000 đồng/cp | 2025-12-19    | 2025-12-26    | 2025-12-25     |    0.1  |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 23.677.475 cổ phiếu                                    | 2025-09-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                  | 2025-07-10    | 2025-07-21    | 2025-07-18     |    0.05 |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 41.500.000 cổ phiếu                                    | 2025-06-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 20.575.359 cổ phiếu                                    | 2024-08-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                  | 2024-07-10    | 2024-07-22    | 2024-07-19     |    0.05 |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 82,329,818 cổ phiếu                                    | 2024-03-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 4 : 1 giá 10.000 đồng/cp  | 2023-11-21    | 2023-11-29    | 2023-11-28     |    0.25 |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 21,545,901 cổ phiếu                                    | 2023-07-14    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu trả cổ tức tỷ lệ 7%                                  | 2023-05-30    | 2023-06-08    | 2023-06-07     |    0.07 |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 40,420,360 cổ phiếu                                    | 2023-01-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu | HHV - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 1 : 1 giá 10.000 đồng/cp  | 2022-10-12    | 2022-10-20    | 2022-10-19     |    1    |       0 |
+| Niêm yết thêm      | HHV - Niêm yết bổ sung 40.375.000 cổ phiếu                                    | 2020-09-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm      | HHV - Đăng ký giao dịch bổ sung 219.071.590 cổ phiếu                          | 2020-01-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HHV      | 2026-03-12 00:00:00 |  11.55 |  11.95 | 11.5  |   11.7  |  6858700 |
-| HHV      | 2026-03-13 00:00:00 |  11.65 |  12.5  | 11.55 |   12.5  | 13039500 |
-| HHV      | 2026-03-16 00:00:00 |  12.8  |  12.95 | 12.2  |   12.35 |  7330600 |
-| HHV      | 2026-03-17 00:00:00 |  12.45 |  12.45 | 12.05 |   12.2  |  7210900 |
 | HHV      | 2026-03-18 00:00:00 |  12.2  |  12.35 | 11.85 |   12.2  |  5704300 |
 | HHV      | 2026-03-19 00:00:00 |  11.8  |  12.7  | 11.8  |   12.2  |  6263400 |
 | HHV      | 2026-03-20 00:00:00 |  12.1  |  12.2  | 11.95 |   12    |  3291300 |
@@ -175,22 +173,27 @@
 | HHV      | 2026-04-02 00:00:00 |  12.25 |  12.4  | 12.1  |   12.1  |  5221000 |
 | HHV      | 2026-04-03 00:00:00 |  12.1  |  12.25 | 11.8  |   11.85 |  4673200 |
 | HHV      | 2026-04-06 00:00:00 |  12.1  |  12.15 | 11.65 |   11.75 |  5515400 |
-| HHV      | 2026-04-07 00:00:00 |  11.75 |  12    | 11.75 |   11.8  |  1254100 |
+| HHV      | 2026-04-07 00:00:00 |  11.75 |  12    | 11.65 |   11.8  |  2811600 |
+| HHV      | 2026-04-08 00:00:00 |  12.15 |  12.35 | 12    |   12.25 |  7375600 |
+| HHV      | 2026-04-09 00:00:00 |  12.25 |  13.1  | 12.05 |   12.9  | 26653800 |
+| HHV      | 2026-04-10 00:00:00 |  13.1  |  13.15 | 12.7  |   12.75 |  8332100 |
+| HHV      | 2026-04-13 00:00:00 |  12.65 |  13.45 | 12.6  |   12.9  | 15379100 |
+| HHV      | 2026-04-14 00:00:00 |  13.1  |  13.2  | 12.85 |   12.95 |  9116300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HHV      | 2026-04-07 10:59:24 |   11.75 |      200 | Sell         | 460034184 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |     1400 | Sell         | 460034215 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |      800 | Sell         | 460034214 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |     3800 | Sell         | 460034213 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |     9700 | Sell         | 460034212 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |      100 | Sell         | 460034211 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |      500 | Sell         | 460034208 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |      600 | Sell         | 460034207 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |     1000 | Sell         | 460034206 |
-| HHV      | 2026-04-07 10:59:24 |   11.75 |     2100 | Sell         | 460034205 |
+| HHV      | 2026-04-14 14:25:01 |   12.9  |     1000 | Sell         | 463608761 |
+| HHV      | 2026-04-14 14:25:10 |   12.95 |      100 | Buy          | 463609271 |
+| HHV      | 2026-04-14 14:25:15 |   12.95 |    50200 | Buy          | 463609484 |
+| HHV      | 2026-04-14 14:25:50 |   12.95 |      100 | Buy          | 463611850 |
+| HHV      | 2026-04-14 14:25:58 |   12.95 |     2000 | Buy          | 463612148 |
+| HHV      | 2026-04-14 14:26:03 |   12.95 |      200 | Buy          | 463612520 |
+| HHV      | 2026-04-14 14:26:14 |   12.9  |     2000 | Sell         | 463613318 |
+| HHV      | 2026-04-14 14:26:16 |   12.95 |     8000 | Buy          | 463613432 |
+| HHV      | 2026-04-14 14:26:24 |   12.9  |     1000 | Sell         | 463614062 |
+| HHV      | 2026-04-14 14:26:25 |   12.9  |      100 | Sell         | 463614081 |
 
 <!-- END:DAILY -->
 

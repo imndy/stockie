@@ -1,6 +1,6 @@
 # TCH — TCH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:16  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 14/04/2026 19:49  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | TCH |
 | exchange | HOSE |
-| ev | 14730563967600 |
-| ceiling | 16900 |
-| floor | 14700 |
-| ref_price | 15800 |
-| open | 16050 |
-| match_price | 16150 |
-| close_price | 16150 |
-| price_change | 350 |
-| price_change_pct | 0.0221519 |
-| high | 16600 |
-| low | 15750 |
-| total_volume | 8615672 |
+| ev | 15597067730400 |
+| ceiling | 18150 |
+| floor | 15850 |
+| ref_price | 17000 |
+| open | 16850 |
+| match_price | 17100 |
+| close_price | 17100 |
+| price_change | 100 |
+| price_change_pct | 0.00588235 |
+| high | 17350 |
+| low | 16750 |
+| total_volume | 8025942 |
 | high_price_1y | 25001 |
-| low_price_1y | 11773 |
-| pct_low_change_1y | 0.3718176032 |
-| pct_high_change_1y | -0.3440169881 |
-| foreign_volume | 1089200 |
+| low_price_1y | 12850 |
+| pct_low_change_1y | 0.3307392996 |
+| pct_high_change_1y | -0.3054297521 |
+| foreign_volume | 225600 |
 | foreign_room | 465175704 |
-| avg_match_volume_2w | 12559396 |
-| foreign_holding_room | 118097779 |
-| current_holding_ratio | 0.12947767207318583 |
+| avg_match_volume_2w | 12029364 |
+| foreign_holding_room | 120891779 |
+| current_holding_ratio | 0.13254090170236016 |
 | max_holding_ratio | 0.51 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.85 |
-| EMA20 | 15.93 |
-| EMA50 | 15.96 |
-| RSI(14) | 50.3 |
+| Giá đóng cửa | 17.3 |
+| EMA20 | 16.43 |
+| EMA50 | 16.19 |
+| RSI(14) | 59.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.356 |
-| MACD Signal | 0.305 |
-| MACD Histogram | 0.052 |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.49 |
+| MACD Signal | 0.418 |
+| MACD Histogram | 0.072 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1089200 |
+| KL khớp NN hôm nay | 225600 |
 | Room NN còn lại | 465175704 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12947767207318583 |
+| Tỷ lệ sở hữu NN hiện tại | 0.13254090170236016 |
 | Tỷ lệ sở hữu NN tối đa | 0.51 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | TCH      |               225600 |      465175704 |                0.132541 |
 | 2026-04-06 | TCH      |              2052700 |      465175704 |                0.13048  |
 | 2026-04-03 | TCH      |              2440800 |      465175704 |                0.128451 |
 
@@ -83,8 +84,8 @@
 | roe | 0.0303134262 |
 | roic | 0.0229616778 |
 | roa | 0.0174498409 |
-| pe | 46.2945733942 |
-| pb | 1.2885423099 |
+| pe | 49.0177835939 |
+| pb | 1.3643389164 |
 | eps | 348.8529824537768 |
 | current_ratio | 2.9666837095 |
 | cash_ratio | 0.3600466795 |
@@ -94,12 +95,12 @@
 | fae | 0.024514495709030103 |
 | net_profit_margin | 0.16640092110612623 |
 | gross_margin | 0.30409067164545445 |
-| ev | 14730563967600 |
+| ev | 15597067730400 |
 | issue_share | 912109224 |
-| ps | 7.703459655 |
-| pcf | 6.2894383253 |
+| ps | 8.1566043406 |
+| pcf | 6.6594052856 |
 | bvps | 12533.5426517954 |
-| ev_per_ebitda | 32.1955642837 |
+| ev_per_ebitda | 34.3703796455 |
 | at | 0.1048662517 |
 | fat | 5.4036833236 |
 | acp | 90.0465116279437 |
@@ -122,6 +123,8 @@
 
 | news_title                                                                                 |   public_date | news_source_link                                                                                                          |
 |:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| TCH: Thông báo Quyết định của Thuế TP Hải Phòng về việc xử phạt vi phạm hành chính về thuế | 1775584148000 | https://www.hsx.vn/vi/tin-tuc/tch-thong-bao-quyet-dinh-cua-thue-tp-hai-phong-ve-viec-xu-phat-vi-pham-hanh-chinh-ve-thue/… |
+| TCH: Báo cáo thay đổi sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là CĐ lớn         | 1775584020000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-cd-lon/2451278   |
 | TCH: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán cổ phiếu ra công chúng       | 1774893699000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-tien-do-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung/244828… |
 | TCH: Báo cáo về thay đổi sở hữu của nhóm nhà ĐTN có liên quan là CĐ lớn                    | 1774635480000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-ve-thay-doi-so-huu-cua-nhom-nha-dtn-co-lien-quan-la-cd-lon/2447653              |
 | TCH: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1772214900000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
@@ -130,8 +133,6 @@
 | TCH: Báo cáo tình hình quản trị công ty năm 2025                                           | 1769706204000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434880                                     |
 | TCH: Nghị quyết HĐQT về việc đầu tư tại công ty thành viên                                 | 1767633516000 | https://www.hsx.vn/vi/tin-tuc/tch-nghi-quyet-hdqt-ve-viec-dau-tu-tai-cong-ty-thanh-vien/2428504                           |
 | TCH: Báo cáo thay đổi sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là CĐ lớn         | 1767029940000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-cd-lon/2427321   |
-| TCH: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                     | 1766051520000 | https://www.hsx.vn/vi/tin-tuc/tch-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2424643               |
-| TCH: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 21                              | 1765470661000 | https://www.hsx.vn/vi/tin-tuc/tch-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-21/2423346                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCH      | 2026-03-12 00:00:00 |  14.65 |  14.85 | 14.25 |   14.6  |  5965100 |
-| TCH      | 2026-03-13 00:00:00 |  14.3  |  15.25 | 14.3  |   15.1  | 13619400 |
-| TCH      | 2026-03-16 00:00:00 |  15.1  |  15.5  | 14.75 |   14.85 |  5881100 |
-| TCH      | 2026-03-17 00:00:00 |  15.1  |  15.1  | 14.5  |   14.5  |  4279500 |
 | TCH      | 2026-03-18 00:00:00 |  14.4  |  14.7  | 14.25 |   14.4  |  3640300 |
 | TCH      | 2026-03-19 00:00:00 |  14.25 |  15.15 | 14.2  |   14.6  |  7546200 |
 | TCH      | 2026-03-20 00:00:00 |  14.6  |  15.2  | 14.55 |   14.9  |  9013900 |
@@ -175,22 +172,27 @@
 | TCH      | 2026-04-02 00:00:00 |  17.3  |  17.3  | 16.8  |   17.2  |  9576400 |
 | TCH      | 2026-04-03 00:00:00 |  17.2  |  17.25 | 16.5  |   16.5  | 11924400 |
 | TCH      | 2026-04-06 00:00:00 |  16.25 |  16.75 | 15.45 |   15.8  | 12990500 |
-| TCH      | 2026-04-07 00:00:00 |  16.05 |  16.6  | 15.85 |   15.85 |  4311400 |
+| TCH      | 2026-04-07 00:00:00 |  16.05 |  16.6  | 15.75 |   16.15 |  8606900 |
+| TCH      | 2026-04-08 00:00:00 |  16.95 |  17.25 | 16.45 |   17.25 | 14833000 |
+| TCH      | 2026-04-09 00:00:00 |  17.1  |  17.8  | 16.9  |   17.15 | 13032300 |
+| TCH      | 2026-04-10 00:00:00 |  17.35 |  17.4  | 16.65 |   17    | 13558200 |
+| TCH      | 2026-04-13 00:00:00 |  16.85 |  17.35 | 16.75 |   17.1  |  6734100 |
+| TCH      | 2026-04-14 00:00:00 |  17.4  |  17.8  | 17.15 |   17.3  | 15569000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCH      | 2026-04-07 11:25:34 |   15.9  |      100 | Buy          | 460070586 |
-| TCH      | 2026-04-07 11:25:41 |   15.9  |      100 | Buy          | 460070767 |
-| TCH      | 2026-04-07 11:26:14 |   15.9  |      600 | Buy          | 460071663 |
-| TCH      | 2026-04-07 11:26:28 |   15.85 |      500 | Sell         | 460071936 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |     2000 | Sell         | 460072367 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |      800 | Sell         | 460072381 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |      500 | Sell         | 460072380 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |      500 | Sell         | 460072379 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |      200 | Sell         | 460072378 |
-| TCH      | 2026-04-07 11:26:43 |   15.85 |     2800 | Sell         | 460072366 |
+| TCH      | 2026-04-14 14:27:26 |    17.4 |      300 | Buy          | 463617359 |
+| TCH      | 2026-04-14 14:27:28 |    17.4 |      500 | Buy          | 463617530 |
+| TCH      | 2026-04-14 14:27:31 |    17.4 |     2000 | Buy          | 463617624 |
+| TCH      | 2026-04-14 14:27:32 |    17.4 |      500 | Buy          | 463617722 |
+| TCH      | 2026-04-14 14:27:34 |    17.4 |      100 | Buy          | 463617828 |
+| TCH      | 2026-04-14 14:27:36 |    17.4 |      100 | Buy          | 463618130 |
+| TCH      | 2026-04-14 14:27:36 |    17.4 |      500 | Buy          | 463618131 |
+| TCH      | 2026-04-14 14:27:36 |    17.4 |      500 | Buy          | 463618132 |
+| TCH      | 2026-04-14 14:27:36 |    17.4 |     4900 | Buy          | 463618133 |
+| TCH      | 2026-04-14 14:27:39 |    17.4 |     1000 | Buy          | 463618242 |
 
 <!-- END:DAILY -->
 

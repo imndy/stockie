@@ -1,6 +1,6 @@
 # GVR — GVR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:11  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 14/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | GVR |
 | exchange | HOSE |
-| ev | 126000000000000 |
-| ceiling | 33650 |
-| floor | 29250 |
-| ref_price | 31450 |
-| open | 31600 |
-| match_price | 31500 |
-| close_price | 31500 |
-| price_change | 50 |
-| price_change_pct | 0.00158983 |
-| high | 31850 |
-| low | 30500 |
-| total_volume | 1806438 |
+| ev | 130400000000000 |
+| ceiling | 36000 |
+| floor | 31300 |
+| ref_price | 33650 |
+| open | 33000 |
+| match_price | 32600 |
+| close_price | 32600 |
+| price_change | -1050 |
+| price_change_pct | -0.03120357 |
+| high | 34150 |
+| low | 32600 |
+| total_volume | 3746322 |
 | high_price_1y | 46500 |
 | low_price_1y | 21394 |
-| pct_low_change_1y | 0.4327579408 |
-| pct_high_change_1y | -0.3114754098 |
-| foreign_volume | 813835 |
+| pct_low_change_1y | 0.4827907578 |
+| pct_high_change_1y | -0.287431694 |
+| foreign_volume | 1813600 |
 | foreign_room | 520000000 |
-| avg_match_volume_2w | 3189850 |
-| foreign_holding_room | 28925061 |
-| current_holding_ratio | 0.00723126525 |
+| avg_match_volume_2w | 3029346 |
+| foreign_holding_room | 28708961 |
+| current_holding_ratio | 0.00717724025 |
 | max_holding_ratio | 0.13 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.35 |
-| EMA20 | 32.72 |
-| EMA50 | 33.88 |
-| RSI(14) | 46.7 |
+| Giá đóng cửa | 32.7 |
+| EMA20 | 32.84 |
+| EMA50 | 33.77 |
+| RSI(14) | 48.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.155 |
-| MACD Signal | -1.407 |
-| MACD Histogram | 0.252 |
+| MACD | -0.641 |
+| MACD Signal | -1.01 |
+| MACD Histogram | 0.369 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 813835 |
+| KL khớp NN hôm nay | 1813600 |
 | Room NN còn lại | 520000000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.00723126525 |
+| Tỷ lệ sở hữu NN hiện tại | 0.00717724025 |
 | Tỷ lệ sở hữu NN tối đa | 0.13 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | GVR      |              1813600 |      520000000 |              0.00717724 |
+| 2026-04-12 | GVR      |               256145 |      520000000 |              0.00718029 |
 | 2026-04-06 | GVR      |               380400 |      520000000 |              0.00727898 |
 | 2026-04-03 | GVR      |               593800 |      520000000 |              0.00722503 |
 
@@ -83,8 +85,8 @@
 | roe | 0.0972856832 |
 | roic | 0.0761940681 |
 | roa | 0.0626943177 |
-| pe | 23.6906605979 |
-| pb | 2.2376581279 |
+| pe | 24.5179535077 |
+| pb | 2.3157985704 |
 | eps | 1329.63789126275 |
 | current_ratio | 3.0075152423 |
 | cash_ratio | 0.753016333 |
@@ -94,12 +96,12 @@
 | fae | 0.5661916271795823 |
 | net_profit_margin | 0.18290602448770213 |
 | gross_margin | 0.2975665477725818 |
-| ev | 126000000000000 |
+| ev | 130400000000000 |
 | issue_share | 4000000000 |
-| ps | 4.3331645474 |
-| pcf | 18.1181581498 |
+| ps | 4.4844814047 |
+| pcf | 18.750855736 |
 | bvps | 14077.2174300473 |
-| ev_per_ebitda | 14.9642283999 |
+| ev_per_ebitda | 15.5095743346 |
 | at | 0.3427679206 |
 | fat | 0.8242643363 |
 | acp | 19.420255288675925 |
@@ -120,18 +122,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                        |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Tập đoàn Cao su Việt Nam (GVR): Lợi nhuận 2025 tăng 32%, cổ phiếu từ đầu năm tăng hơn 60%                         | 1770149460000 | https://www.tinnhanhchungkhoan.vn/tap-doan-cao-su-viet-nam-gvr-loi-nhuan-2025-tang-32-co-phieu-tu-dau-nam-tang-hon-60-po… |
-| GVR: Báo cáo tình hình quản trị công ty năm 2025                                                                  | 1769799863000 | https://www.hsx.vn/vi/tin-tuc/gvr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435695                                     |
-| GVR: CBTT giao dịch năm 2026 giữa công ty mẹ - Tập đoàn và các bên có liên quan                                   | 1769617006000 | https://www.hsx.vn/vi/tin-tuc/gvr-cbtt-giao-dich-nam-2026-giua-cong-ty-me--tap-doan-va-cac-ben-co-lien-quan/2434411       |
-| GVR: CBTT thay đổi nhân sự                                                                                        | 1762440559000 | https://www.hsx.vn/vi/tin-tuc/gvr-cbtt-thay-doi-nhan-su/2416489                                                           |
-| GVR: Nghị quyết và Biên bản họp ĐHĐCĐ bất thường 2025                                                             | 1762440520000 | https://www.hsx.vn/vi/tin-tuc/gvr-nghi-quyet-va-bien-ban-hop-dhdcd-bat-thuong-2025/2416488                                |
-| ĐHCĐ bất thường Tập đoàn Cao su Việt Nam (GVR): Chuẩn bị đầu tư 2.604 ha khu công nghiệp từ đất cao su chuyển đổi | 1762419120000 | https://www.tinnhanhchungkhoan.vn/dhcd-bat-thuong-tap-doan-cao-su-viet-nam-gvr-chuan-bi-dau-tu-2604-ha-khu-cong-nghiep-t… |
-| GVR: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                                        | 1762278476000 | https://www.hsx.vn/vi/tin-tuc/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2024-bang-tien/2416121           |
-| GVR: Tài liệu họp ĐHĐCĐ bất thường 2025 (cập nhật)                                                                | 1762252465000 | https://www.hsx.vn/vi/tin-tuc/gvr-tai-lieu-hop-dhdcd-bat-thuong-2025-cap-nhat/2415934                                     |
-| Tập đoàn Cao su Việt Nam (GVR) sắp chi 1.600 tỷ đồng trả cổ tức 2024 trước thềm đại hội bất thường                | 1761665460000 | https://www.tinnhanhchungkhoan.vn/tap-doan-cao-su-viet-nam-gvr-sap-chi-1600-ty-dong-tra-co-tuc-2024-truoc-them-dai-hoi-b… |
-| GVR: Nghị quyết HĐQT về việc trả cổ tức năm 2024 bằng tiền                                                        | 1761659152000 | https://www.hsx.vn/vi/tin-tuc/gvr-nghi-quyet-hdqt-ve-viec-tra-co-tuc-nam-2024-bang-tien/2413864                           |
+| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 1775669247000 | https://www.hsx.vn/vi/tin-tuc/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-c… |
+| Tập đoàn Cao su Việt Nam (GVR): Lợi nhuận 2025 tăng 32%, cổ phiếu từ đầu năm tăng hơn 60%                                 | 1770149460000 | https://www.tinnhanhchungkhoan.vn/tap-doan-cao-su-viet-nam-gvr-loi-nhuan-2025-tang-32-co-phieu-tu-dau-nam-tang-hon-60-po… |
+| GVR: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769799863000 | https://www.hsx.vn/vi/tin-tuc/gvr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435695                                     |
+| GVR: CBTT giao dịch năm 2026 giữa công ty mẹ - Tập đoàn và các bên có liên quan                                           | 1769617006000 | https://www.hsx.vn/vi/tin-tuc/gvr-cbtt-giao-dich-nam-2026-giua-cong-ty-me--tap-doan-va-cac-ben-co-lien-quan/2434411       |
+| GVR: CBTT thay đổi nhân sự                                                                                                | 1762440559000 | https://www.hsx.vn/vi/tin-tuc/gvr-cbtt-thay-doi-nhan-su/2416489                                                           |
+| GVR: Nghị quyết và Biên bản họp ĐHĐCĐ bất thường 2025                                                                     | 1762440520000 | https://www.hsx.vn/vi/tin-tuc/gvr-nghi-quyet-va-bien-ban-hop-dhdcd-bat-thuong-2025/2416488                                |
+| ĐHCĐ bất thường Tập đoàn Cao su Việt Nam (GVR): Chuẩn bị đầu tư 2.604 ha khu công nghiệp từ đất cao su chuyển đổi         | 1762419120000 | https://www.tinnhanhchungkhoan.vn/dhcd-bat-thuong-tap-doan-cao-su-viet-nam-gvr-chuan-bi-dau-tu-2604-ha-khu-cong-nghiep-t… |
+| GVR: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                                                | 1762278476000 | https://www.hsx.vn/vi/tin-tuc/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2024-bang-tien/2416121           |
+| GVR: Tài liệu họp ĐHĐCĐ bất thường 2025 (cập nhật)                                                                        | 1762252465000 | https://www.hsx.vn/vi/tin-tuc/gvr-tai-lieu-hop-dhdcd-bat-thuong-2025-cap-nhat/2415934                                     |
+| Tập đoàn Cao su Việt Nam (GVR) sắp chi 1.600 tỷ đồng trả cổ tức 2024 trước thềm đại hội bất thường                        | 1761665460000 | https://www.tinnhanhchungkhoan.vn/tap-doan-cao-su-viet-nam-gvr-sap-chi-1600-ty-dong-tra-co-tuc-2024-truoc-them-dai-hoi-b… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -151,10 +153,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GVR      | 2026-03-12 00:00:00 |  35.7  |  37.85 | 35.1  |   35.8  |  5803200 |
-| GVR      | 2026-03-13 00:00:00 |  35.3  |  36.05 | 33.3  |   34    |  7857500 |
-| GVR      | 2026-03-16 00:00:00 |  33.3  |  34.4  | 32.5  |   33.05 |  4862300 |
-| GVR      | 2026-03-17 00:00:00 |  33.9  |  34.1  | 33.2  |   33.3  |  2762700 |
 | GVR      | 2026-03-18 00:00:00 |  33.05 |  34.5  | 32.95 |   34    |  3530400 |
 | GVR      | 2026-03-19 00:00:00 |  33.5  |  33.5  | 32.05 |   32.45 |  4199100 |
 | GVR      | 2026-03-20 00:00:00 |  32.4  |  32.4  | 30.7  |   30.75 |  4793600 |
@@ -169,22 +167,27 @@
 | GVR      | 2026-04-02 00:00:00 |  31.8  |  32.65 | 31.8  |   32.1  |  2491400 |
 | GVR      | 2026-04-03 00:00:00 |  32.1  |  32.9  | 31.5  |   32.05 |  2702000 |
 | GVR      | 2026-04-06 00:00:00 |  31.9  |  31.9  | 30.85 |   31.45 |  1823400 |
-| GVR      | 2026-04-07 00:00:00 |  31.6  |  31.85 | 30.8  |   30.8  |   668200 |
+| GVR      | 2026-04-07 00:00:00 |  31.6  |  31.85 | 30.5  |   31.5  |  1758900 |
+| GVR      | 2026-04-08 00:00:00 |  32.5  |  33.4  | 32.05 |   33.2  |  3915600 |
+| GVR      | 2026-04-09 00:00:00 |  32.7  |  33    | 32.35 |   32.8  |  2438700 |
+| GVR      | 2026-04-10 00:00:00 |  32.8  |  34.1  | 32.7  |   33.65 |  4553100 |
+| GVR      | 2026-04-13 00:00:00 |  33    |  34.15 | 32.6  |   32.6  |  3696900 |
+| GVR      | 2026-04-14 00:00:00 |  33    |  33.1  | 32.35 |   32.7  |  2532000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GVR      | 2026-04-07 11:22:56 |      31 |     1000 | Sell         | 460066800 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      100 | Sell         | 460066807 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      100 | Sell         | 460066806 |
-| GVR      | 2026-04-07 11:22:56 |      31 |     2000 | Sell         | 460066805 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      100 | Sell         | 460066801 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      100 | Sell         | 460066803 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      500 | Sell         | 460066802 |
-| GVR      | 2026-04-07 11:22:56 |      31 |      200 | Sell         | 460066804 |
-| GVR      | 2026-04-07 11:23:45 |      31 |      500 | Buy          | 460068210 |
-| GVR      | 2026-04-07 11:23:45 |      31 |     1700 | Buy          | 460068211 |
+| GVR      | 2026-04-14 14:26:00 |   33    |      100 | Sell         | 463612406 |
+| GVR      | 2026-04-14 14:26:00 |   33    |     5000 | Sell         | 463612411 |
+| GVR      | 2026-04-14 14:26:00 |   33    |      300 | Sell         | 463612410 |
+| GVR      | 2026-04-14 14:26:00 |   33    |     1000 | Sell         | 463612407 |
+| GVR      | 2026-04-14 14:26:00 |   33    |     1000 | Sell         | 463612408 |
+| GVR      | 2026-04-14 14:26:00 |   33    |     1000 | Sell         | 463612409 |
+| GVR      | 2026-04-14 14:26:10 |   32.95 |     5000 | Sell         | 463613032 |
+| GVR      | 2026-04-14 14:26:15 |   33    |     5000 | Buy          | 463613387 |
+| GVR      | 2026-04-14 14:26:16 |   33    |      400 | Buy          | 463613488 |
+| GVR      | 2026-04-14 14:26:18 |   33    |     5000 | Buy          | 463613583 |
 
 <!-- END:DAILY -->
 

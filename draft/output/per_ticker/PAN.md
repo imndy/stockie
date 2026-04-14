@@ -1,6 +1,6 @@
 # PAN — PAN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:14  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | PAN |
 | exchange | HOSE |
-| ev | 6548850412500 |
-| ceiling | 33550 |
-| floor | 29250 |
-| ref_price | 31400 |
-| open | 30900 |
-| match_price | 31350 |
-| close_price | 31350 |
-| price_change | -50 |
-| price_change_pct | -0.00159236 |
-| high | 31500 |
-| low | 30900 |
-| total_volume | 197195 |
+| ev | 6632408312500 |
+| ceiling | 34550 |
+| floor | 30050 |
+| ref_price | 32300 |
+| open | 32300 |
+| match_price | 31750 |
+| close_price | 31750 |
+| price_change | -550 |
+| price_change_pct | -0.01702786 |
+| high | 32300 |
+| low | 31500 |
+| total_volume | 378304 |
 | high_price_1y | 35600 |
-| low_price_1y | 20102 |
-| pct_low_change_1y | 0.544392795 |
-| pct_high_change_1y | -0.1131541726 |
-| foreign_volume | 5100 |
+| low_price_1y | 20693 |
+| pct_low_change_1y | 0.4416294454 |
+| pct_high_change_1y | -0.1018387553 |
+| foreign_volume | 5400 |
 | foreign_room | 105984344 |
-| avg_match_volume_2w | 869875 |
-| foreign_holding_room | 45556135 |
-| current_holding_ratio | 0.21062078855605165 |
+| avg_match_volume_2w | 692445 |
+| foreign_holding_room | 45759035 |
+| current_holding_ratio | 0.21155886106808594 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 31.85 |
-| EMA20 | 31.14 |
-| EMA50 | 30.84 |
-| RSI(14) | 55.7 |
+| Giá đóng cửa | 31.35 |
+| EMA20 | 31.39 |
+| EMA50 | 31.0 |
+| RSI(14) | 50.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.087 |
-| MACD Signal | -0.074 |
-| MACD Histogram | 0.16 |
+| MACD | 0.199 |
+| MACD Signal | 0.094 |
+| MACD Histogram | 0.105 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 5100 |
+| KL khớp NN hôm nay | 5400 |
 | Room NN còn lại | 105984344 |
-| Tỷ lệ sở hữu NN hiện tại | 0.21062078855605165 |
+| Tỷ lệ sở hữu NN hiện tại | 0.21155886106808594 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | PAN      |                 5400 |      105984344 |                0.211559 |
 | 2026-04-06 | PAN      |                99000 |      105984344 |                0.210807 |
 | 2026-04-03 | PAN      |               112400 |      105984344 |                0.210537 |
 
@@ -83,8 +84,8 @@
 | roe | 0.129207273 |
 | roic | 0.10015349 |
 | roa | 0.0341146695 |
-| pe | 10.0805532032 |
-| pb | 1.2692969818 |
+| pe | 10.2091727018 |
+| pb | 1.2854921586 |
 | eps | 3109.948369691002 |
 | current_ratio | 1.801741888 |
 | cash_ratio | 0.4619717048 |
@@ -94,12 +95,12 @@
 | fae | 0.42421631336830634 |
 | net_profit_margin | 0.038249547063079016 |
 | gross_margin | 0.20128922074740221 |
-| ev | 6780835083000 |
+| ev | 6867352915000 |
 | issue_share | 216294580 |
-| ps | 0.3855765942 |
-| pcf | 0.7488649564 |
+| ps | 0.3904962317 |
+| pcf | 0.7584198522 |
 | bvps | 24698.7115308345 |
-| ev_per_ebitda | 4.4020310324 |
+| ev_per_ebitda | 4.4505428993 |
 | at | 0.8918973466 |
 | fat | 4.4231525796 |
 | acp | 30.891831874446044 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                                    |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| Tập đoàn PAN (PAN) lên kế hoạch lãi 1.780 tỷ đồng năm 2026 và bổ sung lĩnh vực bất động sản                   | 1775746320000 | https://www.tinnhanhchungkhoan.vn/tap-doan-pan-pan-len-ke-hoach-lai-1780-ty-dong-nam-2026-va-bo-sung-linh-vuc-bat-dong-s… |
 | PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                                            | 1775034833000 | https://www.hsx.vn/vi/tin-tuc/pan-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026/2448972                                   |
 | PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước                                   | 1774971526000 | https://www.hsx.vn/vi/tin-tuc/pan-giai-trinh-bien-dong-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc/2448717          |
 | Tập đoàn PAN hoàn tất chuyển nhượng Bibica cho đối tác Momogi Group                                           | 1774560300000 | https://www.tinnhanhchungkhoan.vn/tap-doan-pan-hoan-tat-chuyen-nhuong-bibica-cho-doi-tac-momogi-group-post387545.html     |
@@ -131,7 +133,6 @@
 | PAN: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                   | 1772808313000 | https://www.hsx.vn/vi/tin-tuc/pan-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442342          |
 | Tập đoàn PAN muốn mua lại đất của công ty con                                                                 | 1772694420000 | https://www.tinnhanhchungkhoan.vn/tap-doan-pan-muon-mua-lai-dat-cua-cong-ty-con-post386223.html                           |
 | PAN: Nghị quyết HĐQT về việc nhận chuyển nhượng quyền sử dụng đất tại TP. Đà Nẵng                             | 1772641921000 | https://www.hsx.vn/vi/tin-tuc/pan-nghi-quyet-hdqt-ve-viec-nhan-chuyen-nhuong-quyen-su-dung-dat-tai-tp.-da-nang/2441806    |
-| PAN: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐ TN 2026                                         | 1772622175000 | https://www.hsx.vn/vi/tin-tuc/pan-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcd-tn-2026/2441687                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PAN      | 2026-03-12 00:00:00 |  32.4  |  32.65 | 31.85 |   31.9  |   907300 |
-| PAN      | 2026-03-13 00:00:00 |  31.8  |  32.35 | 31.45 |   32.2  |   781900 |
-| PAN      | 2026-03-16 00:00:00 |  32.2  |  32.85 | 31.95 |   32.45 |   620400 |
-| PAN      | 2026-03-17 00:00:00 |  32.75 |  32.75 | 32.15 |   32.4  |   915000 |
 | PAN      | 2026-03-18 00:00:00 |  32.4  |  32.55 | 32.1  |   32.4  |   560300 |
 | PAN      | 2026-03-19 00:00:00 |  31.6  |  32.2  | 30.15 |   30.15 |  1398600 |
 | PAN      | 2026-03-20 00:00:00 |  29.85 |  29.95 | 28.05 |   28.25 |  2971500 |
@@ -175,22 +172,27 @@
 | PAN      | 2026-04-02 00:00:00 |  31.6  |  32.05 | 31.35 |   31.65 |   561800 |
 | PAN      | 2026-04-03 00:00:00 |  31.65 |  31.8  | 30.7  |   31.45 |   697400 |
 | PAN      | 2026-04-06 00:00:00 |  31.4  |  31.45 | 30.75 |   31.4  |   641600 |
-| PAN      | 2026-04-07 00:00:00 |  30.9  |  31.45 | 30.9  |   31.2  |    69100 |
+| PAN      | 2026-04-07 00:00:00 |  30.9  |  31.5  | 30.9  |   31.35 |   197000 |
+| PAN      | 2026-04-08 00:00:00 |  31.8  |  32.35 | 31.65 |   31.9  |   613100 |
+| PAN      | 2026-04-09 00:00:00 |  31.9  |  32.8  | 30.5  |   32.3  |  1580400 |
+| PAN      | 2026-04-10 00:00:00 |  32.35 |  33    | 31.9  |   32.3  |   408300 |
+| PAN      | 2026-04-13 00:00:00 |  32.3  |  32.3  | 31.5  |   31.75 |   378000 |
+| PAN      | 2026-04-14 00:00:00 |  31.8  |  31.95 | 31.3  |   31.35 |   642000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PAN      | 2026-04-07 09:15:00 |   30.9  |     5700 | ATO          | 459846605 |
-| PAN      | 2026-04-07 09:16:18 |   31    |      400 | Buy          | 459849297 |
-| PAN      | 2026-04-07 09:16:18 |   31    |      600 | Buy          | 459849298 |
-| PAN      | 2026-04-07 09:16:40 |   31    |      100 | Buy          | 459849922 |
-| PAN      | 2026-04-07 09:17:10 |   31    |      100 | Buy          | 459850958 |
-| PAN      | 2026-04-07 09:17:17 |   31    |      100 | Sell         | 459851131 |
-| PAN      | 2026-04-07 09:18:32 |   31.35 |     1500 | Sell         | 459853548 |
-| PAN      | 2026-04-07 09:19:07 |   31.4  |      400 | Sell         | 459855119 |
-| PAN      | 2026-04-07 09:19:53 |   31.4  |      100 | Buy          | 459856793 |
-| PAN      | 2026-04-07 09:19:55 |   31.4  |      700 | Sell         | 459856881 |
+| PAN      | 2026-04-14 13:38:39 |   31.35 |     5000 | Buy          | 463442538 |
+| PAN      | 2026-04-14 13:38:40 |   31.35 |     4500 | Buy          | 463442597 |
+| PAN      | 2026-04-14 13:38:40 |   31.35 |      700 | Buy          | 463442598 |
+| PAN      | 2026-04-14 13:40:31 |   31.5  |     9900 | Buy          | 463447048 |
+| PAN      | 2026-04-14 13:40:31 |   31.5  |      100 | Sell         | 463447053 |
+| PAN      | 2026-04-14 13:41:20 |   31.55 |      100 | Buy          | 463450011 |
+| PAN      | 2026-04-14 13:42:24 |   31.4  |      200 | Sell         | 463454367 |
+| PAN      | 2026-04-14 13:42:28 |   31.35 |      100 | Sell         | 463454625 |
+| PAN      | 2026-04-14 13:42:28 |   31.35 |      200 | Sell         | 463454624 |
+| PAN      | 2026-04-14 13:42:28 |   31.35 |    10000 | Sell         | 463454626 |
 
 <!-- END:DAILY -->
 

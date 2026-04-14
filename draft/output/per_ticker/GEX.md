@@ -1,6 +1,6 @@
 # GEX — GEX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:11  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 14/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | GEX |
 | exchange | HOSE |
-| ev | 33072921444200 |
-| ceiling | 38900 |
-| floor | 33900 |
-| ref_price | 36400 |
-| open | 37000 |
-| match_price | 36650 |
-| close_price | 36650 |
-| price_change | 250 |
-| price_change_pct | 0.00686813 |
-| high | 37200 |
-| low | 36250 |
-| total_volume | 3743297 |
+| ev | 37494676289400 |
+| ceiling | 42900 |
+| floor | 37300 |
+| ref_price | 40100 |
+| open | 40000 |
+| match_price | 41550 |
+| close_price | 41550 |
+| price_change | 1450 |
+| price_change_pct | 0.0361596 |
+| high | 41900 |
+| low | 39500 |
+| total_volume | 14977274 |
 | high_price_1y | 65700 |
-| low_price_1y | 18816 |
-| pct_low_change_1y | 0.9477973049 |
-| pct_high_change_1y | -0.4396024465 |
-| foreign_volume | 507807 |
+| low_price_1y | 21070 |
+| pct_low_change_1y | 0.8507352453 |
+| pct_high_change_1y | -0.3646788991 |
+| foreign_volume | 1143004 |
 | foreign_room | 451199474 |
-| avg_match_volume_2w | 7369141 |
-| foreign_holding_room | 63071563 |
-| current_holding_ratio | 0.06989321423721341 |
+| avg_match_volume_2w | 9394889 |
+| foreign_holding_room | 64956147 |
+| current_holding_ratio | 0.07198162979241417 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 38.9 |
-| EMA20 | 36.02 |
-| EMA50 | 36.92 |
-| RSI(14) | 60.9 |
+| Giá đóng cửa | 41.55 |
+| EMA20 | 37.27 |
+| EMA50 | 37.36 |
+| RSI(14) | 66.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.314 |
-| MACD Signal | -0.124 |
-| MACD Histogram | 0.439 |
+| MACD | 1.101 |
+| MACD Signal | 0.376 |
+| MACD Histogram | 0.726 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 507807 |
+| KL khớp NN hôm nay | 1143004 |
 | Room NN còn lại | 451199474 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06989321423721341 |
+| Tỷ lệ sở hữu NN hiện tại | 0.07198162979241417 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | GEX      |              1143004 |      451199474 |               0.0719816 |
+| 2026-04-12 | GEX      |              1125771 |      451199474 |               0.0715707 |
 | 2026-04-06 | GEX      |              1671200 |      451199474 |               0.0703483 |
 | 2026-04-03 | GEX      |              1342721 |      451199474 |               0.0682906 |
 
@@ -83,8 +85,8 @@
 | roe | 0.0929131034 |
 | roic | 0.0833825846 |
 | roa | 0.0232053791 |
-| pe | 22.3784498329 |
-| pb | 1.8601972329 |
+| pe | 25.3703844627 |
+| pb | 2.1089002736 |
 | eps | 1637.736316574252 |
 | current_ratio | 1.8083798794 |
 | cash_ratio | 0.7380124624 |
@@ -94,12 +96,12 @@
 | fae | 0.43140542309715435 |
 | net_profit_margin | 0.037403112337734704 |
 | gross_margin | 0.2130094019673353 |
-| ev | 33072921444200 |
+| ev | 37494676289400 |
 | issue_share | 902398948 |
-| ps | 0.837023673 |
-| pcf | 60.5487592902 |
+| ps | 0.9489313401 |
+| pcf | 68.6439549389 |
 | bvps | 19702.2118683775 |
-| ev_per_ebitda | 6.5269402888 |
+| ev_per_ebitda | 7.0689206369 |
 | at | 0.6204130535 |
 | fat | 2.9389351577 |
 | acp | 22.401800346626754 |
@@ -110,7 +112,7 @@
 | rtq4 | 0.5524162504 |
 | charter_capital_ratio | 3.343710145101144 |
 | rtq10 | 1.4389724224 |
-| dividend | 0.0218281037 |
+| dividend | 0.019253911 |
 | ebitda | 8158515083526 |
 | ebit | 4920436840142 |
 | le | 1.5081111608 |
@@ -120,18 +122,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                               |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 20                                            | 1775240033000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-20/2450462                        |
-| GEX: Giấy ủy quyền thực hiện CBTT                                                                        | 1775237638000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-uy-quyen-thuc-hien-cbtt/2450412                                                    |
-| GEX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 1775214702000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2450162                               |
-| GEX: Thông báo thay đổi nhân sự (kèm các NQ HĐQT)                                                        | 1775145807000 | https://www.hsx.vn/vi/tin-tuc/gex-thong-bao-thay-doi-nhan-su-kem-cac-nq-hdqt/2449827                                      |
-| ĐHCĐ Gelex (GEX): Ông Nguyễn Văn Tuấn ở lại Gelex, không tham gia Eximbank                               | 1775052540000 | https://www.tinnhanhchungkhoan.vn/dhcd-gelex-gex-ong-nguyen-van-tuan-o-lai-gelex-khong-tham-gia-eximbank-post387934.html  |
-| GEX: CBTT các báo cáo định kỳ về trái phiếu doanh nghiệp                                                 | 1775037720000 | https://www.hsx.vn/vi/tin-tuc/gex-cbtt-cac-bao-cao-dinh-ky-ve-trai-phieu-doanh-nghiep/2449025                             |
-| GEX: Báo cáo thường niên năm 2025                                                                        | 1774283353000 | https://www.hsx.vn/vi/tin-tuc/gex-bao-cao-thuong-nien-nam-2025/2445978                                                    |
-| GEX: Nghị quyết HĐQT về việc phê duyệt báo cáo danh sách ứng viên hợp lệ                                 | 1774030245000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-phe-duyet-bao-cao-danh-sach-ung-vien-hop-le/2445776             |
-| GEX: Nghị quyết HĐQT thông qua việc sửa đổi tài liệu họp ĐHĐCĐ thường niên năm 2026 và tài liệu đính kèm | 1773165864000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-thong-qua-viec-sua-doi-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-va-tai-… |
-| GEX: Nghị quyết HĐQT về việc sử đổi thời gian tổ chức ĐHĐCĐTN 2026                                       | 1773158178000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-su-doi-thoi-gian-to-chuc-dhdcdtn-2026/2443117                   |
+| news_title                                                                 |   public_date | news_source_link                                                                                                         |
+|:---------------------------------------------------------------------------|--------------:|:-------------------------------------------------------------------------------------------------------------------------|
+| GEX: Nghị quyết HĐQT số 18/2026 ngày 08/04/2026                            | 1775743721000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-so-182026-ngay-08042026/2451626                                        |
+| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 21              | 1775638164000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-21/2451288                       |
+| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 20              | 1775240033000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-20/2450462                       |
+| GEX: Giấy ủy quyền thực hiện CBTT                                          | 1775237638000 | https://www.hsx.vn/vi/tin-tuc/gex-giay-uy-quyen-thuc-hien-cbtt/2450412                                                   |
+| GEX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                     | 1775214702000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2450162                              |
+| GEX: Thông báo thay đổi nhân sự (kèm các NQ HĐQT)                          | 1775145807000 | https://www.hsx.vn/vi/tin-tuc/gex-thong-bao-thay-doi-nhan-su-kem-cac-nq-hdqt/2449827                                     |
+| ĐHCĐ Gelex (GEX): Ông Nguyễn Văn Tuấn ở lại Gelex, không tham gia Eximbank | 1775052540000 | https://www.tinnhanhchungkhoan.vn/dhcd-gelex-gex-ong-nguyen-van-tuan-o-lai-gelex-khong-tham-gia-eximbank-post387934.html |
+| GEX: CBTT các báo cáo định kỳ về trái phiếu doanh nghiệp                   | 1775037720000 | https://www.hsx.vn/vi/tin-tuc/gex-cbtt-cac-bao-cao-dinh-ky-ve-trai-phieu-doanh-nghiep/2449025                            |
+| GEX: Báo cáo thường niên năm 2025                                          | 1774283353000 | https://www.hsx.vn/vi/tin-tuc/gex-bao-cao-thuong-nien-nam-2025/2445978                                                   |
+| GEX: Nghị quyết HĐQT về việc phê duyệt báo cáo danh sách ứng viên hợp lệ   | 1774030245000 | https://www.hsx.vn/vi/tin-tuc/gex-nghi-quyet-hdqt-ve-viec-phe-duyet-bao-cao-danh-sach-ung-vien-hop-le/2445776            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,9 +159,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GEX      | 2026-03-12 00:00:00 |  34.15 |  35.7  | 33.7  |   34.35 |  7084200 |
-| GEX      | 2026-03-13 00:00:00 |  34.45 |  34.5  | 33.6  |   33.75 |  5815900 |
-| GEX      | 2026-03-16 00:00:00 |  34.2  |  34.3  | 33    |   33.3  |  3278400 |
 | GEX      | 2026-03-17 00:00:00 |  34    |  35.25 | 33.7  |   34.9  |  6216200 |
 | GEX      | 2026-03-18 00:00:00 |  35.5  |  36.3  | 34.5  |   35    |  5193600 |
 | GEX      | 2026-03-19 00:00:00 |  34.1  |  34.75 | 33.75 |   34    |  4243900 |
@@ -175,22 +174,26 @@
 | GEX      | 2026-04-02 00:00:00 |  36.95 |  37    | 36    |   36.15 |  6621900 |
 | GEX      | 2026-04-03 00:00:00 |  36.5  |  36.65 | 35.05 |   35.3  |  5276800 |
 | GEX      | 2026-04-06 00:00:00 |  35.5  |  37.35 | 35.3  |   36.4  |  6785500 |
-| GEX      | 2026-04-07 00:00:00 |  37    |  37.2  | 36.35 |   36.4  |  1406400 |
+| GEX      | 2026-04-07 00:00:00 |  37    |  37.2  | 36.25 |   36.65 |  3179600 |
+| GEX      | 2026-04-08 00:00:00 |  37.8  |  39.2  | 37.55 |   39.2  | 14559100 |
+| GEX      | 2026-04-09 00:00:00 |  39.25 |  41.15 | 38.8  |   40.5  | 15775400 |
+| GEX      | 2026-04-10 00:00:00 |  41.15 |  41.3  | 39.95 |   40.1  |  9115500 |
+| GEX      | 2026-04-13 00:00:00 |  40    |  41.9  | 39.5  |   41.55 | 14965100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GEX      | 2026-04-07 11:17:12 |   36.6  |      300 | Buy          | 460056529 |
-| GEX      | 2026-04-07 11:17:28 |   36.55 |      100 | Sell         | 460057109 |
-| GEX      | 2026-04-07 11:17:28 |   36.55 |     2900 | Sell         | 460057110 |
-| GEX      | 2026-04-07 11:17:39 |   36.55 |      200 | Sell         | 460057387 |
-| GEX      | 2026-04-07 11:18:07 |   36.55 |     5000 | Sell         | 460057970 |
-| GEX      | 2026-04-07 11:18:14 |   36.55 |      100 | Sell         | 460058101 |
-| GEX      | 2026-04-07 11:18:20 |   36.55 |      200 | Sell         | 460058287 |
-| GEX      | 2026-04-07 11:18:20 |   36.55 |     1600 | Sell         | 460058313 |
-| GEX      | 2026-04-07 11:18:20 |   36.55 |      200 | Sell         | 460058315 |
-| GEX      | 2026-04-07 11:18:20 |   36.55 |      200 | Sell         | 460058316 |
+| GEX      | 2026-04-14 14:26:13 |   41    |      300 | Buy          | 463613276 |
+| GEX      | 2026-04-14 14:26:36 |   41    |      100 | Buy          | 463614625 |
+| GEX      | 2026-04-14 14:26:50 |   40.95 |      400 | Sell         | 463615418 |
+| GEX      | 2026-04-14 14:26:59 |   40.95 |      100 | Sell         | 463615867 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |     1500 | Sell         | 463616084 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |      300 | Sell         | 463616083 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |      300 | Sell         | 463616082 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |      300 | Sell         | 463616086 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |      500 | Sell         | 463616079 |
+| GEX      | 2026-04-14 14:27:02 |   40.95 |     2000 | Sell         | 463616070 |
 
 <!-- END:DAILY -->
 

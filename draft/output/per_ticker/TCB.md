@@ -1,6 +1,6 @@
 # TCB — TCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 07/04/2026 12:16  |  🗂 Quarterly: —
+> 📅 Daily: 14/04/2026 19:48  |  🗂 Quarterly: —
 
 ---
 
@@ -342,59 +342,60 @@ _Không có dữ liệu_
 | --- | --- |
 | symbol | TCB |
 | exchange | HOSE |
-| ev | 203375099881800 |
-| ceiling | 31050 |
-| floor | 27050 |
-| ref_price | 29050 |
-| open | 29250 |
-| match_price | 28700 |
-| close_price | 28700 |
+| ev | 226051069206600 |
+| ceiling | 34500 |
+| floor | 30000 |
+| ref_price | 32250 |
+| open | 31500 |
+| match_price | 31900 |
+| close_price | 31900 |
 | price_change | -350 |
-| price_change_pct | -0.01204819 |
-| high | 29300 |
-| low | 28350 |
-| total_volume | 16719925 |
+| price_change_pct | -0.01085271 |
+| high | 32150 |
+| low | 31500 |
+| total_volume | 11978428 |
 | high_price_1y | 42000 |
-| low_price_1y | 21725 |
-| pct_low_change_1y | 0.2483080424 |
-| pct_high_change_1y | -0.3050847458 |
-| foreign_volume | 6365423 |
+| low_price_1y | 23332 |
+| pct_low_change_1y | 0.3019807658 |
+| pct_high_change_1y | -0.2276029056 |
+| foreign_volume | 516900 |
 | foreign_room | 1597139381 |
-| avg_match_volume_2w | 9386900 |
-| foreign_holding_room | 1594701389 |
-| current_holding_ratio | 0.22504195396044038 |
+| avg_match_volume_2w | 14305922 |
+| foreign_holding_room | 1597138581 |
+| current_holding_ratio | 0.22538588697112188 |
 | max_holding_ratio | 0.225386 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 28.75 |
-| EMA20 | 30.47 |
-| EMA50 | 32.06 |
-| RSI(14) | 33.6 |
+| Giá đóng cửa | 32.05 |
+| EMA20 | 30.92 |
+| EMA50 | 31.97 |
+| RSI(14) | 56.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.876 |
-| MACD Signal | -0.916 |
-| MACD Histogram | 0.04 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.157 |
+| MACD Signal | -0.559 |
+| MACD Histogram | 0.402 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 6365423 |
+| KL khớp NN hôm nay | 516900 |
 | Room NN còn lại | 1597139381 |
-| Tỷ lệ sở hữu NN hiện tại | 0.22504195396044038 |
+| Tỷ lệ sở hữu NN hiện tại | 0.22538588697112188 |
 | Tỷ lệ sở hữu NN tối đa | 0.225386 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | TCB      |               516900 |     1597139381 |                0.225386 |
 | 2026-04-06 | TCB      |              3396317 |     1597139381 |                0.225386 |
 | 2026-04-03 | TCB      |              2385932 |     1597139381 |                0.225376 |
 
@@ -414,8 +415,8 @@ _Không có dữ liệu_
 | roe | 0.1585291213 |
 | roic | 0 |
 | roa | 0.0239085825 |
-| pe | 8.0416468921 |
-| pb | 1.196011013 |
+| pe | 8.9382765107 |
+| pb | 1.3293641573 |
 | eps | 3568.9206931224066 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -425,10 +426,10 @@ _Không có dữ liệu_
 | fae | 0.06753669421775453 |
 | net_profit_margin | 0.6628271440893694 |
 | gross_margin | 0 |
-| ev | 203375099480000 |
+| ev | 226051068760000 |
 | issue_share | 7086240414 |
-| ps | 3.8091555381 |
-| pcf | 5.0941049351 |
+| ps | 4.2338697445 |
+| pcf | 5.6620887606 |
 | bvps | 23996.4345550569 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -451,18 +452,18 @@ _Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Techcombank (TCB) dự kiến lợi nhuận 35.000-37.500 tỷ đồng, không chia cổ tức trong 2026                     | 1775571000000 | https://www.tinnhanhchungkhoan.vn/techcombank-tcb-du-kien-loi-nhuan-35000-37500-ty-dong-khong-chia-co-tuc-trong-2026-pos… |
-| TCB: Báo cáo thường niên năm 2025                                                                           | 1775570523000 | https://www.hsx.vn/vi/tin-tuc/tcb-bao-cao-thuong-nien-nam-2025/2451085                                                    |
-| TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                | 1775488589000 | https://www.hsx.vn/vi/tin-tuc/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2450698                                         |
-| TCB: Quyết định của HĐQT về việc phê duyệt thay đổi địa điểm chi nhánh Hà Nội                               | 1775488546000 | https://www.hsx.vn/vi/tin-tuc/tcb-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-thay-doi-dia-diem-chi-nhanh-ha-noi/2450696        |
-| TCB: Nghị quyết HĐQT về việc thông qua giao dịch phi tín dụng cho MDP                                       | 1775155115000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-phi-tin-dung-cho-mdp/2449981                |
-| TCB: Nghị quyết HĐQT về việc cấp tín dụng cho khách hàng là người đại diện Techcombank góp vốn vào TechAMC  | 1774635935000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-cap-tin-dung-cho-khach-hang-la-nguoi-dai-dien-techcombank-gop-… |
-| TCB: Thông báo về việc ký hợp đồng kiểm toán BCTC năm 2026                                                  | 1774462907000 | https://www.hsx.vn/vi/tin-tuc/tcb-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-nam-2026/2446746                           |
-| TCB: Quyết định của HĐQT về việc thay đổi địa điểm và chi nhánh quản lý, tên gọi phòng GD Hòa Hưng          | 1774289081000 | https://www.hsx.vn/vi/tin-tuc/tcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-va-chi-nhanh-quan-ly-ten-goi-phong-gd-ho… |
-| TCB: Giấy phép số 12/GP-NHNN ngày 18/03/2026 về cấp đổi Giấy phép thành lập và hoạt động                    | 1774022270000 | https://www.hsx.vn/vi/tin-tuc/tcb-giay-phep-so-12gpnhnn-ngay-18032026-ve-cap-doi-giay-phep-thanh-lap-va-hoat-dong/244563… |
-| TCB: Nghị quyết HĐQT về việc cấp hạn mức thẻ tín dụng cho khách hàng là người có liên quan của người nội bộ | 1774018555000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-cap-han-muc-the-tin-dung-cho-khach-hang-la-nguoi-co-lien-quan-… |
+| news_title                                                                                                 |   public_date | news_source_link                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| TCB: Nghị quyết HĐQT về việc phê duyệt cấp tín dụng cho CTCP Phúc Long Heritage                            | 1776089615000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-cap-tin-dung-cho-ctcp-phuc-long-heritage/2452297      |
+| TCB: Nghị quyết HĐQT về phê duyệt hạn mức tín dụng cho Công ty TNHH Phân phối Masterise Retail             | 1775756849000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-phe-duyet-han-muc-tin-dung-cho-cong-ty-tnhh-phan-phoi-masterise-ret… |
+| Techcombank (TCB) dự kiến lợi nhuận 35.000-37.500 tỷ đồng, không chia cổ tức trong 2026                    | 1775571000000 | https://www.tinnhanhchungkhoan.vn/techcombank-tcb-du-kien-loi-nhuan-35000-37500-ty-dong-khong-chia-co-tuc-trong-2026-pos… |
+| TCB: Báo cáo thường niên năm 2025                                                                          | 1775570523000 | https://www.hsx.vn/vi/tin-tuc/tcb-bao-cao-thuong-nien-nam-2025/2451085                                                    |
+| TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                               | 1775488589000 | https://www.hsx.vn/vi/tin-tuc/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2450698                                         |
+| TCB: Quyết định của HĐQT về việc phê duyệt thay đổi địa điểm chi nhánh Hà Nội                              | 1775488546000 | https://www.hsx.vn/vi/tin-tuc/tcb-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-thay-doi-dia-diem-chi-nhanh-ha-noi/2450696        |
+| TCB: Nghị quyết HĐQT về việc thông qua giao dịch phi tín dụng cho MDP                                      | 1775155115000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-phi-tin-dung-cho-mdp/2449981                |
+| TCB: Nghị quyết HĐQT về việc cấp tín dụng cho khách hàng là người đại diện Techcombank góp vốn vào TechAMC | 1774635935000 | https://www.hsx.vn/vi/tin-tuc/tcb-nghi-quyet-hdqt-ve-viec-cap-tin-dung-cho-khach-hang-la-nguoi-dai-dien-techcombank-gop-… |
+| TCB: Thông báo về việc ký hợp đồng kiểm toán BCTC năm 2026                                                 | 1774462907000 | https://www.hsx.vn/vi/tin-tuc/tcb-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-nam-2026/2446746                           |
+| TCB: Quyết định của HĐQT về việc thay đổi địa điểm và chi nhánh quản lý, tên gọi phòng GD Hòa Hưng         | 1774289081000 | https://www.hsx.vn/vi/tin-tuc/tcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-va-chi-nhanh-quan-ly-ten-goi-phong-gd-ho… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -488,10 +489,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCB      | 2026-03-12 00:00:00 |  30.55 |  31    | 29.9  |   30    | 18068400 |
-| TCB      | 2026-03-13 00:00:00 |  30    |  30.3  | 29.65 |   30    |  9833600 |
-| TCB      | 2026-03-16 00:00:00 |  30    |  30.45 | 30    |   30.2  |  8138100 |
-| TCB      | 2026-03-17 00:00:00 |  30.25 |  30.9  | 30.1  |   30.3  | 13156600 |
 | TCB      | 2026-03-18 00:00:00 |  30.5  |  30.8  | 30.15 |   30.3  |  6834600 |
 | TCB      | 2026-03-19 00:00:00 |  30.15 |  30.3  | 29.9  |   30.05 | 16386600 |
 | TCB      | 2026-03-20 00:00:00 |  30    |  30.1  | 29.85 |   29.85 |  7919000 |
@@ -506,21 +503,26 @@ _Không có dữ liệu_
 | TCB      | 2026-04-02 00:00:00 |  30.5  |  30.55 | 30.1  |   30.35 |  7864700 |
 | TCB      | 2026-04-03 00:00:00 |  30.4  |  30.5  | 29.75 |   29.75 |  8900100 |
 | TCB      | 2026-04-06 00:00:00 |  29.7  |  29.7  | 29    |   29.05 | 12541800 |
-| TCB      | 2026-04-07 00:00:00 |  29.25 |  29.3  | 28.65 |   28.75 |  6324700 |
+| TCB      | 2026-04-07 00:00:00 |  29.25 |  29.3  | 28.35 |   28.7  | 15385300 |
+| TCB      | 2026-04-08 00:00:00 |  29.75 |  30.7  | 29.5  |   30.7  | 18128900 |
+| TCB      | 2026-04-09 00:00:00 |  30.95 |  31.6  | 30.6  |   30.9  | 20809500 |
+| TCB      | 2026-04-10 00:00:00 |  31.05 |  32.65 | 31.05 |   32.25 | 30690500 |
+| TCB      | 2026-04-13 00:00:00 |  31.5  |  32.15 | 31.5  |   31.9  | 10921700 |
+| TCB      | 2026-04-14 00:00:00 |  32.4  |  32.55 | 31.85 |   32.05 |  9838400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      400 | Sell         | 460074230 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074256 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074257 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074258 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      500 | Sell         | 460074259 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074260 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |     3800 | Sell         | 460074261 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074262 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |      100 | Sell         | 460074263 |
-| TCB      | 2026-04-07 11:27:56 |    28.7 |    15200 | Sell         | 460074254 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      100 | Buy          | 463620144 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |     5000 | Buy          | 463620146 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      200 | Buy          | 463620147 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      100 | Buy          | 463620148 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |     1000 | Buy          | 463620149 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      900 | Buy          | 463620150 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      100 | Buy          | 463620151 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      100 | Buy          | 463620152 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      300 | Buy          | 463620153 |
+| TCB      | 2026-04-14 14:28:10 |    32.2 |      500 | Buy          | 463620154 |
 
 <!-- END:DAILY -->

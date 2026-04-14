@@ -1,6 +1,6 @@
 # HCM — HCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:11  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 14/04/2026 19:39  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | HCM |
 | exchange | HOSE |
-| ev | 26209329408250 |
-| ceiling | 25650 |
-| floor | 22350 |
-| ref_price | 24000 |
-| open | 23950 |
-| match_price | 24250 |
-| close_price | 24250 |
-| price_change | 250 |
-| price_change_pct | 0.01041667 |
-| high | 24300 |
-| low | 23700 |
-| total_volume | 8660870 |
+| ev | 27992644605100 |
+| ceiling | 27050 |
+| floor | 23550 |
+| ref_price | 25300 |
+| open | 25000 |
+| match_price | 25900 |
+| close_price | 25900 |
+| price_change | 600 |
+| price_change_pct | 0.02371542 |
+| high | 26250 |
+| low | 24850 |
+| total_volume | 26520040 |
 | high_price_1y | 29895 |
 | low_price_1y | 17544 |
-| pct_low_change_1y | 0.3239196803 |
-| pct_high_change_1y | -0.1697190192 |
-| foreign_volume | 440701 |
+| pct_low_change_1y | 0.3734352161 |
+| pct_high_change_1y | -0.1132256741 |
+| foreign_volume | 1602599 |
 | foreign_room | 529590573 |
-| avg_match_volume_2w | 15160362 |
-| foreign_holding_room | 378807921 |
-| current_holding_ratio | 0.3504893979224994 |
+| avg_match_volume_2w | 16994910 |
+| foreign_holding_room | 378906322 |
+| current_holding_ratio | 0.35058044276431244 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 24.65 |
-| EMA20 | 22.89 |
-| EMA50 | 22.83 |
-| RSI(14) | 65.1 |
-| RSI nhận xét | Bình thường |
+| Giá đóng cửa | 25.95 |
+| EMA20 | 23.84 |
+| EMA50 | 23.27 |
+| RSI(14) | 70.4 |
+| RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.431 |
-| MACD Signal | 0.014 |
-| MACD Histogram | 0.416 |
+| MACD | 0.878 |
+| MACD Signal | 0.464 |
+| MACD Histogram | 0.414 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 440701 |
+| KL khớp NN hôm nay | 1602599 |
 | Room NN còn lại | 529590573 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3504893979224994 |
+| Tỷ lệ sở hữu NN hiện tại | 0.35058044276431244 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | HCM      |              1602599 |      529590573 |                0.35058  |
+| 2026-04-12 | HCM      |               344300 |      529590573 |                0.349437 |
 | 2026-04-06 | HCM      |              1330100 |      529590573 |                0.350699 |
 | 2026-04-03 | HCM      |              3227200 |      529590573 |                0.349243 |
 
@@ -83,8 +85,8 @@
 | roe | 0.0943381234 |
 | roic | 0.0323961659 |
 | roa | 0.0302836055 |
-| pe | 22.23735176 |
-| pb | 1.8021776732 |
+| pe | 23.7504086839 |
+| pb | 1.9248000716 |
 | eps | 1090.5075506157289 |
 | current_ratio | 1.4498516001 |
 | cash_ratio | 0.5466190423 |
@@ -94,12 +96,12 @@
 | fae | 0.0024525809980122846 |
 | net_profit_margin | 0.2294747615215151 |
 | gross_margin | 0.38623030769900757 |
-| ev | 26209329408250 |
+| ev | 27992644605100 |
 | issue_share | 1080797089 |
-| ps | 5.102910992 |
-| pcf | -2.2371649138 |
+| ps | 5.4501193688 |
+| pcf | -2.3893843821 |
 | bvps | 13455.9429739748 |
-| ev_per_ebitda | 35.7008732313 |
+| ev_per_ebitda | 36.8931876178 |
 | at | 0.1319692207 |
 | fat | 133.1327025447 |
 | acp | None |
@@ -110,7 +112,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 1.345594297397483 |
 | rtq10 | 2.1973145712 |
-| dividend | 0.0164948454 |
+| dividend | 0.0154440154 |
 | ebitda | 1495675316134 |
 | ebit | 1471832069985 |
 | le | 2.1239663223 |
@@ -120,18 +122,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                  |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HCM: Báo cáo thường niên năm 2025                                                           | 1775212986000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-thuong-nien-nam-2025/2450131                                                    |
-| HCM: Nghị quyết HĐQT thông qua tài liệu họp ĐHĐCĐ thường niên năm 2026                      | 1775151684000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2449919               |
-| HCM: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026             | 1773133433000 | https://www.hsx.vn/vi/tin-tuc/hcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2442971      |
-| HCM: Nghị quyết HĐQT thông qua kế hoạch tổ chức ĐHĐCĐ thường niên năm 2026                  | 1772733293000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-ke-hoach-to-chuc-dhdcd-thuong-nien-nam-2026/2442164           |
-| HCM: Nghị quyết HĐQT thông qua phương án chào bán và niêm yết chứng quyền có bảo đảm đợt 20 | 1772199949000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-20… |
-| HCM: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Hoàng Lan               | 1772123320000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-hoang-lan/2440373        |
-| HCM: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Lê Anh Quân                        | 1770652775000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-quan/2437873                 |
-| HCM: Thông báo về ngày đăng ký cuối cùng tạm ứng cổ tức năm 2025 bằng tiền                  | 1769449457000 | https://www.hsx.vn/vi/tin-tuc/hcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-tam-ung-co-tuc-nam-2025-bang-tien/2433778           |
-| HCM: Báo cáo tình hình quản trị công ty năm 2025                                            | 1769440081000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2433626                                     |
-| HCM: Nghị quyết HĐQT thông qua tạm ứng cổ tức năm 2025 bằng tiền                            | 1769099312000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-tam-ung-co-tuc-nam-2025-bang-tien/2433006                     |
+| news_title                                                                                         |   public_date | news_source_link                                                                                                          |
+|:---------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| HCM: Nghị quyết HĐQT thông qua danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026-2030)       | 1776097545000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030/2… |
+| HCM: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán cổ phiếu ra công chúng đã được kiểm toán | 1775836688000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-da-duoc-ki… |
+| HCM: Báo cáo thường niên năm 2025                                                                  | 1775212986000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-thuong-nien-nam-2025/2450131                                                    |
+| HCM: Nghị quyết HĐQT thông qua tài liệu họp ĐHĐCĐ thường niên năm 2026                             | 1775151684000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2449919               |
+| HCM: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026                    | 1773133433000 | https://www.hsx.vn/vi/tin-tuc/hcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2442971      |
+| HCM: Nghị quyết HĐQT thông qua kế hoạch tổ chức ĐHĐCĐ thường niên năm 2026                         | 1772733293000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-ke-hoach-to-chuc-dhdcd-thuong-nien-nam-2026/2442164           |
+| HCM: Nghị quyết HĐQT thông qua phương án chào bán và niêm yết chứng quyền có bảo đảm đợt 20        | 1772199949000 | https://www.hsx.vn/vi/tin-tuc/hcm-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-20… |
+| HCM: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Hoàng Lan                      | 1772123320000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-hoang-lan/2440373        |
+| HCM: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Lê Anh Quân                               | 1770652775000 | https://www.hsx.vn/vi/tin-tuc/hcm-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-quan/2437873                 |
+| HCM: Thông báo về ngày đăng ký cuối cùng tạm ứng cổ tức năm 2025 bằng tiền                         | 1769449457000 | https://www.hsx.vn/vi/tin-tuc/hcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-tam-ung-co-tuc-nam-2025-bang-tien/2433778           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -148,7 +150,7 @@
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 68,579,931 cổ phiếu                                   | 2024-02-02    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Phát hành cổ phiếu       | HCM - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 10.000 đồng/cp | 2023-12-20    | 2024-01-03    | 2024-01-02     |  0.5    |       0 |
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 2 năm 2022 bằng tiền 500 đồng/cổ phiếu                  | 2023-05-23    | 2023-06-09    | 2023-06-08     |  0.05   |     500 |
-| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 2 năm 2021 bằng tiền 250 đồng/cổ phiếu                  | 2023-01-04    | 2023-01-18    | 2023-01-17     |  0.025  |     250 |
+| Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1 năm 2022 bằng tiền 250 đồng/cổ phiếu                  | 2023-01-04    | 2023-01-18    | 2023-01-17     |  0.025  |     250 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 33.831.707 cổ phiếu                                   | 2022-01-27    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Niêm yết thêm            | HCM - Niêm yết bổ sung 118.338.397 cổ phiếu                                  | 2022-01-27    | 1753-01-01    | 1753-01-01     |  0      |       0 |
 | Trả cổ tức bằng tiền mặt | HCM - Trả cổ tức Đợt 1, 2021 bằng tiền 500 VND/CP                            | 2021-11-29    | 2021-12-07    | 2021-12-06     |  0.05   |     500 |
@@ -157,10 +159,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HCM      | 2026-03-12 00:00:00 |  22.3  |  22.55 | 21.9  |   21.95 |  8759200 |
-| HCM      | 2026-03-13 00:00:00 |  21.7  |  22.1  | 21.55 |   21.65 |  8326600 |
-| HCM      | 2026-03-16 00:00:00 |  21.85 |  22.3  | 21.6  |   21.75 |  4880600 |
-| HCM      | 2026-03-17 00:00:00 |  22.1  |  22.4  | 21.85 |   21.85 |  7210600 |
 | HCM      | 2026-03-18 00:00:00 |  21.9  |  22    | 21.15 |   21.45 |  8356300 |
 | HCM      | 2026-03-19 00:00:00 |  21.1  |  21.15 | 20.5  |   20.55 | 12828900 |
 | HCM      | 2026-03-20 00:00:00 |  20.7  |  20.95 | 20.5  |   20.5  |  6673900 |
@@ -175,22 +173,27 @@
 | HCM      | 2026-04-02 00:00:00 |  23.2  |  23.9  | 23.1  |   23.6  | 13654800 |
 | HCM      | 2026-04-03 00:00:00 |  23.8  |  24.6  | 23.65 |   24.15 | 26829100 |
 | HCM      | 2026-04-06 00:00:00 |  24    |  24.4  | 23.5  |   24    | 16203000 |
-| HCM      | 2026-04-07 00:00:00 |  23.95 |  24.15 | 23.7  |   23.8  |  3122800 |
+| HCM      | 2026-04-07 00:00:00 |  23.95 |  24.3  | 23.7  |   24.25 |  8655500 |
+| HCM      | 2026-04-08 00:00:00 |  25    |  25.9  | 24.55 |   25.4  | 30192700 |
+| HCM      | 2026-04-09 00:00:00 |  25.05 |  25.5  | 24.7  |   25.2  | 11729800 |
+| HCM      | 2026-04-10 00:00:00 |  25.4  |  25.75 | 25    |   25.3  | 12509900 |
+| HCM      | 2026-04-13 00:00:00 |  25    |  26.25 | 24.85 |   25.9  | 19506800 |
+| HCM      | 2026-04-14 00:00:00 |  26.15 |  26.3  | 25.7  |   25.95 | 11570600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HCM      | 2026-04-07 11:12:18 |   23.85 |      300 | Sell         | 460050246 |
-| HCM      | 2026-04-07 11:12:18 |   23.85 |     3200 | Sell         | 460050250 |
-| HCM      | 2026-04-07 11:12:18 |   23.85 |      200 | Sell         | 460050247 |
-| HCM      | 2026-04-07 11:12:18 |   23.85 |     5000 | Sell         | 460050248 |
-| HCM      | 2026-04-07 11:12:18 |   23.85 |      300 | Sell         | 460050249 |
-| HCM      | 2026-04-07 11:12:29 |   23.85 |     6800 | Sell         | 460050496 |
-| HCM      | 2026-04-07 11:12:29 |   23.85 |      100 | Sell         | 460050497 |
-| HCM      | 2026-04-07 11:12:29 |   23.85 |      100 | Sell         | 460050498 |
-| HCM      | 2026-04-07 11:12:29 |   23.85 |      500 | Sell         | 460050499 |
-| HCM      | 2026-04-07 11:12:29 |   23.85 |     9500 | Sell         | 460050500 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     1000 | Buy          | 463607899 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     1500 | Buy          | 463607908 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |      500 | Buy          | 463607901 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     5000 | Buy          | 463607902 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     1000 | Buy          | 463607903 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |      500 | Buy          | 463607904 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |      200 | Buy          | 463607905 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     1000 | Buy          | 463607907 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |     1000 | Buy          | 463607900 |
+| HCM      | 2026-04-14 14:24:51 |    26.1 |    11000 | Buy          | 463607906 |
 
 <!-- END:DAILY -->
 

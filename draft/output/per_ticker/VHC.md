@@ -1,6 +1,6 @@
 # VHC — VHC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:17  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 14/04/2026 19:51  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VHC |
 | exchange | HOSE |
-| ev | 13175400433300 |
-| ceiling | 61400 |
-| floor | 53400 |
-| ref_price | 57400 |
-| open | 57200 |
-| match_price | 58700 |
-| close_price | 58700 |
-| price_change | 1300 |
-| price_change_pct | 0.02264808 |
-| high | 58700 |
-| low | 56600 |
-| total_volume | 899816 |
+| ev | 13579416119500 |
+| ceiling | 65400 |
+| floor | 57000 |
+| ref_price | 61200 |
+| open | 60600 |
+| match_price | 60500 |
+| close_price | 60500 |
+| price_change | -700 |
+| price_change_pct | -0.01143791 |
+| high | 60900 |
+| low | 60000 |
+| total_volume | 527631 |
 | high_price_1y | 69900 |
 | low_price_1y | 42280 |
-| pct_low_change_1y | 0.3883632923 |
-| pct_high_change_1y | -0.151734104 |
-| foreign_volume | 154700 |
+| pct_low_change_1y | 0.4309366131 |
+| pct_high_change_1y | -0.1257225434 |
+| foreign_volume | 87000 |
 | foreign_room | 224453159 |
-| avg_match_volume_2w | 583591 |
-| foreign_holding_room | 44424284 |
-| current_holding_ratio | 0.19792229344386283 |
+| avg_match_volume_2w | 738130 |
+| foreign_holding_room | 44029648 |
+| current_holding_ratio | 0.19616408250239864 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 56.7 |
-| EMA20 | 58.6 |
-| EMA50 | 59.21 |
-| RSI(14) | 40.5 |
+| Giá đóng cửa | 61.0 |
+| EMA20 | 59.46 |
+| EMA50 | 59.5 |
+| RSI(14) | 56.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.701 |
-| MACD Signal | -0.599 |
-| MACD Histogram | -0.102 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.164 |
+| MACD Signal | -0.221 |
+| MACD Histogram | 0.385 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 154700 |
+| KL khớp NN hôm nay | 87000 |
 | Room NN còn lại | 224453159 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19792229344386283 |
+| Tỷ lệ sở hữu NN hiện tại | 0.19616408250239864 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VHC      |                87000 |      224453159 |                0.196164 |
 | 2026-04-06 | VHC      |               167200 |      224453159 |                0.198949 |
 | 2026-04-03 | VHC      |               161560 |      224453159 |                0.198775 |
 
@@ -83,8 +84,8 @@
 | roe | 0.1551180069 |
 | roic | 0.1220125474 |
 | roa | 0.1106185447 |
-| pe | 9.2897931291 |
-| pb | 1.3708685938 |
+| pe | 9.5746590172 |
+| pb | 1.4129054502 |
 | eps | 6318.762881417053 |
 | current_ratio | 2.8152410553 |
 | cash_ratio | 0.6199265187 |
@@ -94,12 +95,12 @@
 | fae | 0.3295608370368774 |
 | net_profit_margin | 0.11798339177591062 |
 | gross_margin | 0.1697202054218654 |
-| ev | 13175400433300 |
+| ev | 13579416119500 |
 | issue_share | 224453159 |
-| ps | 1.0960413023 |
-| pcf | 5.4734413388 |
+| ps | 1.1296507459 |
+| pcf | 5.6412811073 |
 | bvps | 42819.567291089 |
-| ev_per_ebitda | 6.7424643377 |
+| ev_per_ebitda | 6.9486251302 |
 | at | 0.937577256 |
 | fat | 3.5747165107 |
 | acp | 52.90723431309511 |
@@ -110,7 +111,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 4.475264947625887 |
 | rtq10 | 0.3348389599 |
-| dividend | 0.0340715503 |
+| dividend | 0.0330578512 |
 | ebitda | 1959711549744 |
 | ebit | 1475256103163 |
 | le | 0.2037005298 |
@@ -120,18 +121,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                        |   public_date | news_source_link                                                                                                        |
-|:----------------------------------------------------------------------------------|--------------:|:------------------------------------------------------------------------------------------------------------------------|
-| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước      | 1774973804000 | https://www.hsx.vn/vi/tin-tuc/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc/2448791       |
-| VHC: Nghị quyết HĐQT số 10 ngày 23/03/2026                                        | 1774286025000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-so-10-ngay-23032026/2446056                                           |
-| VHC: Thông báo đơn xin từ nhiệm của Thành viên BKS                                | 1773847409000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks/2445019                                 |
-| Vĩnh Hoàn (VHC) muốn mua lại 15 triệu cổ phiếu                                    | 1773330300000 | https://www.tinnhanhchungkhoan.vn/vinh-hoan-vhc-muon-mua-lai-15-trieu-co-phieu-post386625.html                          |
-| VHC: Nghị quyết HĐQT về việc triển khai phương án mua lại cổ phiếu quỹ            | 1773324834000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-mua-lai-co-phieu-quy/2443657             |
-| VHC: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026       | 1773308161000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2443641        |
-| Vĩnh Hoàn (VHC) gia hạn thời gian tổ chức Đại hội đồng cổ đông năm 2026           | 1772831760000 | https://www.tinnhanhchungkhoan.vn/vinh-hoan-vhc-gia-han-thoi-gian-to-chuc-dai-hoi-dong-co-dong-nam-2026-post386353.html |
-| VHC: Nghị quyết HĐQT về việc gia hạn thời gian tổ chức ĐHĐCĐ thường niên năm 2026 | 1772819383000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-to-chuc-dhdcd-thuong-nien-nam-2026/2442570  |
-| VHC: Nghị quyết HĐQT thông qua việc vay vốn tại Vietcombank - Chi nhánh TP.HCM    | 1772558947000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-thong-qua-viec-vay-von-tai-vietcombank--chi-nhanh-tp.hcm/2441551      |
-| VHC: Thông báo thay đổi nhân sự                                                   | 1772459368000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-thay-doi-nhan-su/2441055                                                    |
+| news_title                                                                   |   public_date | news_source_link                                                                                                        |
+|:-----------------------------------------------------------------------------|--------------:|:------------------------------------------------------------------------------------------------------------------------|
+| Vĩnh Hoàn (VHC) lên kế hoạch lãi 1.600 tỷ đồng trong năm 2026                | 1775807880000 | https://www.tinnhanhchungkhoan.vn/vinh-hoan-vhc-len-ke-hoach-lai-1600-ty-dong-trong-nam-2026-post388548.html            |
+| VHC: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                           | 1775755041000 | https://www.hsx.vn/vi/tin-tuc/vhc-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026/2451794                                 |
+| VHC: Thông báo về việc mua lại cổ phiếu quỹ                                  | 1775671321000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-ve-viec-mua-lai-co-phieu-quy/2451549                                        |
+| Vĩnh Hoàn (VHC) đã nộp hồ sơ mua lại 15 triệu cổ phiếu giảm vốn điều lệ      | 1775631900000 | https://www.tinnhanhchungkhoan.vn/vinh-hoan-vhc-da-nop-ho-so-mua-lai-15-trieu-co-phieu-giam-von-dieu-le-post388382.html |
+| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước | 1774973804000 | https://www.hsx.vn/vi/tin-tuc/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc/2448791       |
+| VHC: Nghị quyết HĐQT số 10 ngày 23/03/2026                                   | 1774286025000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-so-10-ngay-23032026/2446056                                           |
+| VHC: Thông báo đơn xin từ nhiệm của Thành viên BKS                           | 1773847409000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks/2445019                                 |
+| Vĩnh Hoàn (VHC) muốn mua lại 15 triệu cổ phiếu                               | 1773330300000 | https://www.tinnhanhchungkhoan.vn/vinh-hoan-vhc-muon-mua-lai-15-trieu-co-phieu-post386625.html                          |
+| VHC: Nghị quyết HĐQT về việc triển khai phương án mua lại cổ phiếu quỹ       | 1773324834000 | https://www.hsx.vn/vi/tin-tuc/vhc-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-mua-lai-co-phieu-quy/2443657             |
+| VHC: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026  | 1773308161000 | https://www.hsx.vn/vi/tin-tuc/vhc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2443641        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHC      | 2026-03-12 00:00:00 |   57.7 |   59.2 |  57.7 |    58.7 |   696200 |
-| VHC      | 2026-03-13 00:00:00 |   59   |   61.2 |  58.8 |    60.6 |  1651900 |
-| VHC      | 2026-03-16 00:00:00 |   60.5 |   60.7 |  59.5 |    60.6 |   562000 |
-| VHC      | 2026-03-17 00:00:00 |   60.7 |   61   |  60.1 |    61   |  1254700 |
 | VHC      | 2026-03-18 00:00:00 |   60.6 |   60.9 |  59.4 |    59.6 |   510800 |
 | VHC      | 2026-03-19 00:00:00 |   59   |   59   |  57.8 |    58.7 |   779300 |
 | VHC      | 2026-03-20 00:00:00 |   58.6 |   59.8 |  57.5 |    57.5 |   761600 |
@@ -175,22 +172,27 @@
 | VHC      | 2026-04-02 00:00:00 |   58.5 |   58.6 |  57.3 |    58.6 |   828100 |
 | VHC      | 2026-04-03 00:00:00 |   58.6 |   58.6 |  57.4 |    57.4 |   444700 |
 | VHC      | 2026-04-06 00:00:00 |   57.1 |   57.4 |  56.2 |    57.4 |   644000 |
-| VHC      | 2026-04-07 00:00:00 |   57.2 |   57.2 |  56.6 |    56.7 |   264300 |
+| VHC      | 2026-04-07 00:00:00 |   57.2 |   58.7 |  56.6 |    58.7 |   899500 |
+| VHC      | 2026-04-08 00:00:00 |   59.5 |   59.6 |  58.7 |    59.2 |   956400 |
+| VHC      | 2026-04-09 00:00:00 |   59.5 |   61   |  59.5 |    60.2 |  1133600 |
+| VHC      | 2026-04-10 00:00:00 |   61   |   61.9 |  60.2 |    61.2 |   881100 |
+| VHC      | 2026-04-13 00:00:00 |   60.6 |   60.9 |  60   |    60.5 |   527200 |
+| VHC      | 2026-04-14 00:00:00 |   60.5 |   61.4 |  60.4 |    61   |   656200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VHC      | 2026-04-07 10:22:45 |    56.9 |      200 | Sell         | 459978793 |
-| VHC      | 2026-04-07 10:22:58 |    57   |      100 | Buy          | 459979311 |
-| VHC      | 2026-04-07 10:22:58 |    57   |      200 | Buy          | 459979312 |
-| VHC      | 2026-04-07 10:23:55 |    57   |      100 | Buy          | 459981038 |
-| VHC      | 2026-04-07 10:25:09 |    56.9 |      400 | Sell         | 459982851 |
-| VHC      | 2026-04-07 10:25:45 |    57   |      100 | Buy          | 459983666 |
-| VHC      | 2026-04-07 10:25:50 |    56.9 |     1300 | Sell         | 459983809 |
-| VHC      | 2026-04-07 10:25:50 |    56.9 |      100 | Sell         | 459983810 |
-| VHC      | 2026-04-07 10:26:41 |    56.9 |      100 | Buy          | 459985055 |
-| VHC      | 2026-04-07 10:27:03 |    56.9 |      200 | Buy          | 459985664 |
+| VHC      | 2026-04-14 14:03:26 |    61.2 |     1200 | Buy          | 463529935 |
+| VHC      | 2026-04-14 14:04:23 |    61.2 |      800 | Buy          | 463533640 |
+| VHC      | 2026-04-14 14:04:23 |    61.2 |      400 | Buy          | 463533641 |
+| VHC      | 2026-04-14 14:04:38 |    61.2 |      500 | Buy          | 463534437 |
+| VHC      | 2026-04-14 14:07:03 |    61.1 |      400 | Buy          | 463544715 |
+| VHC      | 2026-04-14 14:07:16 |    61.1 |      600 | Buy          | 463545511 |
+| VHC      | 2026-04-14 14:07:16 |    61.1 |      200 | Buy          | 463545512 |
+| VHC      | 2026-04-14 14:07:16 |    61.1 |     1000 | Buy          | 463545513 |
+| VHC      | 2026-04-14 14:07:16 |    61.1 |      100 | Buy          | 463545514 |
+| VHC      | 2026-04-14 14:07:16 |    61.1 |      100 | Buy          | 463545515 |
 
 <!-- END:DAILY -->
 

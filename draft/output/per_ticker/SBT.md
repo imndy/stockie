@@ -1,6 +1,6 @@
 # SBT — SBT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:15  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
@@ -12,58 +12,59 @@
 | symbol | SBT |
 | exchange | HOSE |
 | ev | 18684210069650 |
-| ceiling | 23300 |
-| floor | 20300 |
-| ref_price | 21800 |
-| open | 21750 |
+| ceiling | 23350 |
+| floor | 20350 |
+| ref_price | 21850 |
+| open | 21850 |
 | match_price | 21850 |
 | close_price | 21850 |
-| price_change | 50 |
-| price_change_pct | 0.00229358 |
+| price_change | 0 |
+| price_change_pct | 0 |
 | high | 21850 |
 | low | 21650 |
-| total_volume | 2242844 |
+| total_volume | 1295591 |
 | high_price_1y | 27600 |
-| low_price_1y | 14000 |
-| pct_low_change_1y | 0.4914675768 |
+| low_price_1y | 14750 |
+| pct_low_change_1y | 0.3785488959 |
 | pct_high_change_1y | -0.187732342 |
-| foreign_volume | 27200 |
+| foreign_volume | 34960 |
 | foreign_room | 876723922 |
-| avg_match_volume_2w | 556756 |
-| foreign_holding_room | 173375015 |
-| current_holding_ratio | 0.20275109644070508 |
+| avg_match_volume_2w | 488314 |
+| foreign_holding_room | 173319615 |
+| current_holding_ratio | 0.2026863096503892 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 21.75 |
-| EMA20 | 22.21 |
-| EMA50 | 22.9 |
-| RSI(14) | 40.2 |
+| Giá đóng cửa | 21.9 |
+| EMA20 | 22.08 |
+| EMA50 | 22.72 |
+| RSI(14) | 43.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.33 |
-| MACD Signal | -0.392 |
-| MACD Histogram | 0.063 |
+| MACD | -0.264 |
+| MACD Signal | -0.319 |
+| MACD Histogram | 0.055 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 27200 |
+| KL khớp NN hôm nay | 34960 |
 | Room NN còn lại | 876723922 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20275109644070508 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2026863096503892 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | SBT      |                34960 |      876723922 |                0.202686 |
 | 2026-04-06 | SBT      |                 6000 |      876723922 |                0.202798 |
 | 2026-04-03 | SBT      |                11118 |      876723922 |                0.202779 |
 
@@ -122,21 +123,22 @@
 
 | news_title                                                                                             |   public_date | news_source_link                                                                                                          |
 |:-------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SBT: Thông báo về ngày đăng ký cuối cùng trả cổ tức bằng cổ phiếu niên độ 2024-2025                    | 1775834174000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-ve-ngay-dang-ky-cuoi-cung-tra-co-tuc-bang-co-phieu-nien-do-20242025/2451992   |
+| SBT: Thông báo phát hành cổ phiếu để trả cổ tức                                                        | 1775583592000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc/2451269                                      |
+| SBT: Thông báo ngày ĐKCC thực hiện quyền nhận cổ tức bằng cổ phiếu niên độ 2024-2025                   | 1775583561000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-ngay-dkcc-thuc-hien-quyen-nhan-co-tuc-bang-co-phieu-nien-do-20242025/2451268  |
+| SBT: Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền nhận cổ tức bằng cổ phiếu niên độ 2024-2025          | 1775583503000 | https://www.hsx.vn/vi/tin-tuc/sbt-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-nhan-co-tuc-bang-co-phieu-nien-do-2024202… |
 | SBT: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức của SBT        | 1775227338000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-cua… |
 | SBT: Nghị quyết HĐQT về việc phê duyệt phương án mua lại trước hạn trái phiếu riêng lẻ SBTH2327001     | 1775222882000 | https://www.hsx.vn/vi/tin-tuc/sbt-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-mua-lai-truoc-han-trai-phieu-rieng-le-sbth… |
 | SBT: CBTT giảm tỷ lệ sở hữu dẫn đến CTCP Đường Nước Trong không còn là công ty con                     | 1774979948000 | https://www.hsx.vn/vi/tin-tuc/sbt-cbtt-giam-ty-le-so-huu-dan-den-ctcp-duong-nuoc-trong-khong-con-la-cong-ty-con/2448887   |
 | SBT: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức niên độ 2024 - 2025 | 1774538456000 | https://www.hsx.vn/vi/tin-tuc/sbt-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-nien-do-… |
 | SBT: CBTT phát hành trái phiếu chuyển đổi                                                              | 1774463050000 | https://www.hsx.vn/vi/tin-tuc/sbt-cbtt-phat-hanh-trai-phieu-chuyen-doi/2446748                                            |
 | SBT: Giấy chứng nhận đăng ký hoạt động chi nhánh Tây Ninh thay đổi lần thứ 4                           | 1774432186000 | https://www.hsx.vn/vi/tin-tuc/sbt-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-tay-ninh-thay-doi-lan-thu-4/2446496         |
-| SBT: Công ty Cổ phần Đầu tư Thành Thành Công đăng ký bán gần 44 triệu cổ phiếu                         | 1774286460000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
-| Công ty Đầu tư Thành Thành Công đăng ký bán ra hơn 43 triệu cổ phiếu SBT                               | 1774267260000 | https://www.tinnhanhchungkhoan.vn/cong-ty-dau-tu-thanh-thanh-cong-dang-ky-ban-ra-hon-43-trieu-co-phieu-sbt-post387251.ht… |
-| SBT: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                          | 1773652242000 | https://www.hsx.vn/vi/tin-tuc/sbt-thong-bao-thay-doi-nhan-su-kem-nq-hdqt/2444391                                          |
-| SBT: Giải trình biến động KQKD bán niên sau kiểm toán niên độ 2025-2026                                | 1772441665000 | https://www.hsx.vn/vi/tin-tuc/sbt-giai-trinh-bien-dong-kqkd-ban-nien-sau-kiem-toan-nien-do-20252026/2440863               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 | event_list_name          | event_title                                                     | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:----------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Phát hành cổ phiếu       | SBT - Phát hành cổ phiếu trả cổ tức tỷ lệ 6%                    | 2026-04-10    | 2026-04-20    | 2026-04-17     |    0.06 |       0 |
 | Niêm yết thêm            | SBT - Niêm yết bổ sung 40.567.551 cổ phiếu                      | 2025-11-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Niêm yết thêm            | SBT - Niêm yết bổ sung 74.044.045 cổ phiếu                      | 2025-02-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Phát hành cổ phiếu       | SBT - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                   | 2025-01-03    | 2025-01-13    | 2025-01-10     |    0.1  |       0 |
@@ -151,16 +153,11 @@
 | Trả cổ tức bằng tiền mặt | SBT - Trả cổ tức Đợt 2, 2018 bằng tiền 400 VND/CP               | 2019-06-28    | 2019-07-10    | 2019-07-09     |    0.04 |     400 |
 | Niêm yết thêm            | SBT -  Niêm yết bổ sung 29.721.879 cổ phiếu                     | 2019-02-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Phát hành cổ phiếu       | SBT-Phát hành cổ phiếu trả cổ tức tỷ lệ 6%                      | 2019-01-08    | 2019-01-15    | 2019-01-14     |    0.06 |       0 |
-| Trả cổ tức bằng tiền mặt | SBT - Trả cổ tức Đợt 1, 2018 bằng tiền 400 VND/CP               | 2018-12-17    | 2018-12-25    | 2018-12-24     |    0.04 |     400 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SBT      | 2026-03-12 00:00:00 |  22.95 |  22.95 | 22.65 |   22.85 |   401100 |
-| SBT      | 2026-03-13 00:00:00 |  22.85 |  22.85 | 22.4  |   22.5  |   480800 |
-| SBT      | 2026-03-16 00:00:00 |  22.5  |  22.5  | 22.25 |   22.3  |   506000 |
-| SBT      | 2026-03-17 00:00:00 |  22.3  |  22.35 | 22.15 |   22.35 |   603800 |
 | SBT      | 2026-03-18 00:00:00 |  22.2  |  22.25 | 22    |   22    |   457800 |
 | SBT      | 2026-03-19 00:00:00 |  21.95 |  21.95 | 21.2  |   21.2  |   597700 |
 | SBT      | 2026-03-20 00:00:00 |  21    |  21.15 | 20.5  |   20.6  |  1256900 |
@@ -175,22 +172,27 @@
 | SBT      | 2026-04-02 00:00:00 |  22.3  |  22.3  | 22    |   22    |   485800 |
 | SBT      | 2026-04-03 00:00:00 |  22    |  22.2  | 21.75 |   21.9  |   340000 |
 | SBT      | 2026-04-06 00:00:00 |  21.9  |  21.9  | 21.6  |   21.8  |   450000 |
-| SBT      | 2026-04-07 00:00:00 |  21.75 |  21.85 | 21.65 |   21.75 |   278300 |
+| SBT      | 2026-04-07 00:00:00 |  21.75 |  21.85 | 21.65 |   21.85 |   442800 |
+| SBT      | 2026-04-08 00:00:00 |  21.85 |  21.95 | 21.7  |   21.95 |   492500 |
+| SBT      | 2026-04-09 00:00:00 |  21.9  |  21.95 | 21.7  |   21.8  |   430600 |
+| SBT      | 2026-04-10 00:00:00 |  21.8  |  21.85 | 21.65 |   21.85 |   418300 |
+| SBT      | 2026-04-13 00:00:00 |  21.85 |  21.85 | 21.65 |   21.85 |   455200 |
+| SBT      | 2026-04-14 00:00:00 |  21.85 |  21.9  | 21.65 |   21.9  |   441800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SBT      | 2026-04-07 09:28:35 |    21.8 |     1600 | Buy          | 459872853 |
-| SBT      | 2026-04-07 09:29:35 |    21.8 |     3000 | Buy          | 459874581 |
-| SBT      | 2026-04-07 09:29:45 |    21.8 |     1800 | Buy          | 459874918 |
-| SBT      | 2026-04-07 09:29:45 |    21.8 |     1800 | Buy          | 459874917 |
-| SBT      | 2026-04-07 09:30:39 |    21.8 |     2000 | Buy          | 459876978 |
-| SBT      | 2026-04-07 09:30:48 |    21.8 |     1900 | Buy          | 459877227 |
-| SBT      | 2026-04-07 09:30:56 |    21.8 |     2400 | Buy          | 459877700 |
-| SBT      | 2026-04-07 09:31:35 |    21.8 |      300 | Buy          | 459878759 |
-| SBT      | 2026-04-07 09:31:35 |    21.8 |     2200 | Buy          | 459878760 |
-| SBT      | 2026-04-07 09:31:44 |    21.8 |      900 | Buy          | 459879340 |
+| SBT      | 2026-04-14 13:14:45 |   21.75 |     1700 | Buy          | 463372275 |
+| SBT      | 2026-04-14 13:15:06 |   21.7  |      200 | Sell         | 463373191 |
+| SBT      | 2026-04-14 13:15:06 |   21.7  |      200 | Sell         | 463373192 |
+| SBT      | 2026-04-14 13:18:07 |   21.75 |      500 | Buy          | 463381303 |
+| SBT      | 2026-04-14 13:18:07 |   21.75 |     4500 | Buy          | 463381304 |
+| SBT      | 2026-04-14 13:18:09 |   21.7  |      100 | Sell         | 463381457 |
+| SBT      | 2026-04-14 13:22:31 |   21.75 |     3500 | Buy          | 463394451 |
+| SBT      | 2026-04-14 13:22:40 |   21.75 |     1900 | Buy          | 463395023 |
+| SBT      | 2026-04-14 13:23:16 |   21.7  |      200 | Sell         | 463396908 |
+| SBT      | 2026-04-14 13:23:47 |   21.75 |     2600 | Buy          | 463398618 |
 
 <!-- END:DAILY -->
 

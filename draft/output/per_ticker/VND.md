@@ -1,6 +1,6 @@
 # VND — VND
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:18  |  🗂 Quarterly: 05/04/2026 20:05
+> 📅 Daily: 14/04/2026 19:52  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VND |
 | exchange | HOSE |
-| ev | 24432913523400 |
-| ceiling | 16700 |
-| floor | 14600 |
-| ref_price | 15650 |
-| open | 15650 |
-| match_price | 16050 |
-| close_price | 16050 |
-| price_change | 400 |
-| price_change_pct | 0.02555911 |
-| high | 16050 |
-| low | 15500 |
-| total_volume | 6980308 |
+| ev | 25346293468200 |
+| ceiling | 17900 |
+| floor | 15600 |
+| ref_price | 16750 |
+| open | 16500 |
+| match_price | 16650 |
+| close_price | 16650 |
+| price_change | -100 |
+| price_change_pct | -0.00597015 |
+| high | 16900 |
+| low | 16400 |
+| total_volume | 9940967 |
 | high_price_1y | 27350 |
-| low_price_1y | 12263 |
-| pct_low_change_1y | 0.3088247406 |
-| pct_high_change_1y | -0.401119403 |
-| foreign_volume | 1558133 |
+| low_price_1y | 13862 |
+| pct_low_change_1y | 0.1804517195 |
+| pct_high_change_1y | -0.3787313433 |
+| foreign_volume | 837401 |
 | foreign_room | 1522299908 |
-| avg_match_volume_2w | 11082298 |
-| foreign_holding_room | 148192310 |
-| current_holding_ratio | 0.0973476443250235 |
+| avg_match_volume_2w | 12070668 |
+| foreign_holding_room | 149254854 |
+| current_holding_ratio | 0.09804563030953031 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.8 |
-| EMA20 | 16.17 |
-| EMA50 | 17.12 |
-| RSI(14) | 54.1 |
+| Giá đóng cửa | 16.85 |
+| EMA20 | 16.39 |
+| EMA50 | 17.08 |
+| RSI(14) | 53.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.368 |
-| MACD Signal | -0.569 |
-| MACD Histogram | 0.202 |
+| MACD | -0.089 |
+| MACD Signal | -0.321 |
+| MACD Histogram | 0.232 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1558133 |
+| KL khớp NN hôm nay | 837401 |
 | Room NN còn lại | 1522299908 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0973476443250235 |
+| Tỷ lệ sở hữu NN hiện tại | 0.09804563030953031 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VND      |               837401 |     1522299908 |               0.0980456 |
 | 2026-04-06 | VND      |              2200213 |     1522299908 |               0.09832   |
 | 2026-04-03 | VND      |              2390803 |     1522299908 |               0.0969783 |
 
@@ -83,8 +84,8 @@
 | roe | 0.0995660131 |
 | roic | 0.0763259202 |
 | roa | 0.0421602889 |
-| pe | 12.0830297409 |
-| pb | 1.1688762585 |
+| pe | 12.5347317873 |
+| pb | 1.2125725672 |
 | eps | 1328.309235688399 |
 | current_ratio | 1.7650534078 |
 | cash_ratio | 0.8430892204 |
@@ -94,12 +95,12 @@
 | fae | 0.004104992139180827 |
 | net_profit_margin | 0.3045207467192605 |
 | gross_margin | 0.6157155049084501 |
-| ev | 24432913523400 |
+| ev | 25346293468200 |
 | issue_share | 1522299908 |
-| ps | 3.6795332393 |
-| pcf | -5.5088738413 |
+| ps | 3.8170858838 |
+| pcf | -5.7148130503 |
 | bvps | 13731.1369648746 |
-| ev_per_ebitda | 13.3896990958 |
+| ev_per_ebitda | 13.6379023386 |
 | at | 0.1384480019 |
 | fat | 78.1682830284 |
 | acp | None |
@@ -120,47 +121,43 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                           | 1774971888000 | https://www.hsx.vn/vi/tin-tuc/vnd-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025/2448657                              |
-| VND: Thông báo Quyết định của UBCKNN về việc sửa đổi QĐ chấp thuận thành lập CN Đà Nẵng           | 1774620396000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-quyet-dinh-cua-ubcknn-ve-viec-sua-doi-qd-chap-thuan-thanh-lap-cn-da-nang/244… |
-| VND: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                    | 1773412017000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2444087                       |
-| VND: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                         | 1772819147000 | https://www.hsx.vn/vi/tin-tuc/vnd-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2442559                            |
-| VND: Báo cáo tình hình quản trị công ty năm 2025                                                  | 1769798830000 | https://www.hsx.vn/vi/tin-tuc/vnd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435646                                     |
-| VND: Thông báo nhận được Quyết định của HNX về việc niêm yết trái phiếu                           | 1769614674000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-nhan-duoc-quyet-dinh-cua-hnx-ve-viec-niem-yet-trai-phieu/2434365              |
-| VNDIRECT (VND) lãi 2.508 tỷ đồng, vượt kế hoạch năm 2025                                          | 1769007120000 | https://www.tinnhanhchungkhoan.vn/vndirect-vnd-lai-2508-ty-dong-vuot-ke-hoach-nam-2025-post384121.html                    |
-| VND: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Đà Nẵng                                  | 1767720753000 | https://www.hsx.vn/vi/tin-tuc/vnd-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-da-nang/2428842                     |
-| VND: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan năm 2026                    | 1766402247000 | https://www.hsx.vn/vi/tin-tuc/vnd-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-co-lien-quan-nam-2026/2425304       |
-| VND: Thông báo nhận được công văn của UBCKNN về báo cáo kết quả chào bán trái phiếu ra công chúng | 1766051994000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong… |
+| news_title                                                                              |   public_date | news_source_link                                                                                                          |
+|:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5             | 1775833357000 | https://www.hsx.vn/vi/tin-tuc/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5/2451960          |
+| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026               | 1775748368000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2451708             |
+| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026 | 1775665731000 | https://www.hsx.vn/vi/tin-tuc/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026/245… |
+| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                 | 1774971888000 | https://www.hsx.vn/vi/tin-tuc/vnd-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025/2448657                              |
+| VND: Thông báo Quyết định của UBCKNN về việc sửa đổi QĐ chấp thuận thành lập CN Đà Nẵng | 1774620396000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-quyet-dinh-cua-ubcknn-ve-viec-sua-doi-qd-chap-thuan-thanh-lap-cn-da-nang/244… |
+| VND: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                          | 1773412017000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2444087                       |
+| VND: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 1772819147000 | https://www.hsx.vn/vi/tin-tuc/vnd-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2442559                            |
+| VND: Báo cáo tình hình quản trị công ty năm 2025                                        | 1769798830000 | https://www.hsx.vn/vi/tin-tuc/vnd-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435646                                     |
+| VND: Thông báo nhận được Quyết định của HNX về việc niêm yết trái phiếu                 | 1769614674000 | https://www.hsx.vn/vi/tin-tuc/vnd-thong-bao-nhan-duoc-quyet-dinh-cua-hnx-ve-viec-niem-yet-trai-phieu/2434365              |
+| VNDIRECT (VND) lãi 2.508 tỷ đồng, vượt kế hoạch năm 2025                                | 1769007120000 | https://www.tinnhanhchungkhoan.vn/vndirect-vnd-lai-2508-ty-dong-vuot-ke-hoach-nam-2025-post384121.html                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu                 | 2025-06-19    | 2025-06-25    | 2025-06-24     |    0.05 |     500 |
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu                 | 2024-09-05    | 2024-09-11    | 2024-09-10     |    0.05 |     500 |
-| Niêm yết thêm            | VND - Niêm yết bổ sung 304.455.899 cổ phiếu                                  | 2024-08-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 5 : 1 giá 10.000 đồng/cp | 2024-05-24    | 2024-05-30    | 2024-05-29     |    0.2  |       0 |
-| Niêm yết thêm            | VND - Niêm yết bổ sung 781,404,367 cổ phiếu                                  | 2022-05-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | VND - Niêm yết bổ sung 1,494,955 cổ phiếu                                    | 2022-05-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu thưởng tỷ lệ 80%                                    | 2022-03-04    | 2022-03-11    | 2022-03-10     |    0.8  |       0 |
-| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 1:1 giá 14.500 đồng/cp   | 2021-06-08    | 2021-06-11    | 2021-06-10     |    1    |       0 |
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2020 bằng tiền 500 VND/CP                           | 2021-04-07    | 2021-04-13    | 2021-04-12     |    0.05 |     500 |
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP                           | 2020-07-15    | 2020-07-21    | 2020-07-20     |    0.05 |     500 |
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2018 bằng tiền 500 VND/CP                           | 2019-06-10    | 2019-06-14    | 2019-06-13     |    0.05 |     500 |
-| Niêm yết thêm            | VND-Niêm yết thêm 65.432.004 cổ phiếu                                        | 2018-05-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | VND-Niêm yết thêm 65.432.004 cổ phiếu                                        | 2018-05-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2017 bằng tiền 1000 VND/CP                          | 2018-05-03    | 2018-05-10    | 2018-05-09     |    0.1  |    1000 |
-| Phát hành cổ phiếu       | VND-Phát hành cổ phiếu trả cổ tức cho cổ đông hiện hữu tỷ lệ 100:10          | 2018-02-13    | 2018-02-28    | 2018-02-27     |    0.1  |       0 |
+| event_list_name          | event_title                                                                | public_date   | record_date   | exright_date   |   ratio |   value |
+|:-------------------------|:---------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu               | 2025-06-19    | 2025-06-25    | 2025-06-24     |    0.05 |     500 |
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu               | 2024-09-05    | 2024-09-11    | 2024-09-10     |    0.05 |     500 |
+| Niêm yết thêm            | VND - Niêm yết bổ sung 304.455.899 cổ phiếu                                | 2024-08-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                               | 2024-05-24    | 2024-05-30    | 2024-05-29     |    0.05 |       0 |
+| Niêm yết thêm            | VND - Niêm yết bổ sung 1,494,955 cổ phiếu                                  | 2022-05-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | VND - Niêm yết bổ sung 781,404,367 cổ phiếu                                | 2022-05-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu thưởng tỷ lệ 80%                                  | 2022-03-04    | 2022-03-11    | 2022-03-10     |    0.8  |       0 |
+| Phát hành cổ phiếu       | VND - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 1:1 giá 14.500 đồng/cp | 2021-06-08    | 2021-06-11    | 2021-06-10     |    1    |       0 |
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2020 bằng tiền 500 VND/CP                         | 2021-04-07    | 2021-04-13    | 2021-04-12     |    0.05 |     500 |
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP                         | 2020-07-15    | 2020-07-21    | 2020-07-20     |    0.05 |     500 |
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2018 bằng tiền 500 VND/CP                         | 2019-06-10    | 2019-06-14    | 2019-06-13     |    0.05 |     500 |
+| Niêm yết thêm            | VND-Niêm yết thêm 65.432.004 cổ phiếu                                      | 2018-05-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | VND-Niêm yết thêm 65.432.004 cổ phiếu                                      | 2018-05-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Trả cổ tức bằng tiền mặt | VND - Trả cổ tức Cả năm, 2017 bằng tiền 1000 VND/CP                        | 2018-05-03    | 2018-05-10    | 2018-05-09     |    0.1  |    1000 |
+| Phát hành cổ phiếu       | VND-Phát hành cổ phiếu trả cổ tức cho cổ đông hiện hữu tỷ lệ 100:10        | 2018-02-13    | 2018-02-28    | 2018-02-27     |    0.1  |       0 |
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VND      | 2026-03-12 00:00:00 |  16.85 |  17.05 | 16.5  |   16.55 | 10043900 |
-| VND      | 2026-03-13 00:00:00 |  16.35 |  16.7  | 16.2  |   16.25 | 11781200 |
-| VND      | 2026-03-16 00:00:00 |  16.3  |  16.6  | 16.05 |   16.2  | 11060000 |
-| VND      | 2026-03-17 00:00:00 |  16.4  |  16.9  | 16.35 |   16.45 |  9171900 |
 | VND      | 2026-03-18 00:00:00 |  16.5  |  16.6  | 16    |   16.15 |  8675400 |
 | VND      | 2026-03-19 00:00:00 |  15.8  |  15.95 | 15.5  |   15.6  | 15592000 |
 | VND      | 2026-03-20 00:00:00 |  15.65 |  15.8  | 15.3  |   15.35 | 13818400 |
@@ -175,22 +172,27 @@
 | VND      | 2026-04-02 00:00:00 |  16.05 |  16.2  | 15.85 |   15.9  | 10279300 |
 | VND      | 2026-04-03 00:00:00 |  15.95 |  16.1  | 15.65 |   15.65 |  9668300 |
 | VND      | 2026-04-06 00:00:00 |  15.65 |  15.95 | 15.6  |   15.65 |  7656700 |
-| VND      | 2026-04-07 00:00:00 |  15.65 |  15.85 | 15.65 |   15.65 |  2322200 |
+| VND      | 2026-04-07 00:00:00 |  15.65 |  16.05 | 15.5  |   16.05 |  6904900 |
+| VND      | 2026-04-08 00:00:00 |  17    |  17.15 | 16.6  |   17.15 | 27424100 |
+| VND      | 2026-04-09 00:00:00 |  17    |  17.15 | 16.8  |   16.85 | 12273000 |
+| VND      | 2026-04-10 00:00:00 |  17.1  |  17.15 | 16.7  |   16.75 |  7562000 |
+| VND      | 2026-04-13 00:00:00 |  16.5  |  16.9  | 16.4  |   16.65 |  9619300 |
+| VND      | 2026-04-14 00:00:00 |  17    |  17.15 | 16.75 |   16.85 |  9758300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VND      | 2026-04-07 11:15:13 |   15.65 |     8400 | Sell         | 460054014 |
-| VND      | 2026-04-07 11:15:21 |   15.7  |      200 | Buy          | 460054254 |
-| VND      | 2026-04-07 11:15:39 |   15.65 |     2400 | Sell         | 460054516 |
-| VND      | 2026-04-07 11:15:39 |   15.65 |     1600 | Sell         | 460054515 |
-| VND      | 2026-04-07 11:16:03 |   15.65 |      300 | Sell         | 460054893 |
-| VND      | 2026-04-07 11:16:57 |   15.65 |      300 | Sell         | 460055971 |
-| VND      | 2026-04-07 11:17:23 |   15.65 |    10000 | Sell         | 460056951 |
-| VND      | 2026-04-07 11:17:51 |   15.65 |      200 | Sell         | 460057612 |
-| VND      | 2026-04-07 11:17:56 |   15.65 |     4000 | Sell         | 460057737 |
-| VND      | 2026-04-07 11:18:08 |   15.65 |     1000 | Sell         | 460057982 |
+| VND      | 2026-04-14 14:26:45 |   16.85 |      200 | Buy          | 463615119 |
+| VND      | 2026-04-14 14:26:46 |   16.85 |      400 | Buy          | 463615159 |
+| VND      | 2026-04-14 14:26:46 |   16.85 |      300 | Buy          | 463615156 |
+| VND      | 2026-04-14 14:26:46 |   16.85 |      300 | Buy          | 463615158 |
+| VND      | 2026-04-14 14:26:49 |   16.85 |      200 | Buy          | 463615382 |
+| VND      | 2026-04-14 14:26:49 |   16.85 |     1000 | Buy          | 463615378 |
+| VND      | 2026-04-14 14:26:49 |   16.85 |      300 | Buy          | 463615380 |
+| VND      | 2026-04-14 14:26:49 |   16.85 |      200 | Buy          | 463615381 |
+| VND      | 2026-04-14 14:26:51 |   16.85 |      300 | Buy          | 463615467 |
+| VND      | 2026-04-14 14:26:51 |   16.85 |      100 | Buy          | 463615468 |
 
 <!-- END:DAILY -->
 

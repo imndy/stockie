@@ -1,6 +1,6 @@
 # BID — BID
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 14/04/2026 07:21  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
@@ -11,59 +11,63 @@
 | --- | --- |
 | symbol | BID |
 | exchange | HOSE |
-| ev | 286834569274000 |
-| ceiling | 42100 |
-| floor | 36600 |
-| ref_price | 39350 |
-| open | 39400 |
-| match_price | 39400 |
-| close_price | 39400 |
-| price_change | 50 |
-| price_change_pct | 0.00127065 |
-| high | 39500 |
-| low | 39000 |
-| total_volume | 4822964 |
+| ev | 293750631223500 |
+| ceiling | 43650 |
+| floor | 37950 |
+| ref_price | 40800 |
+| open | 40500 |
+| match_price | 40350 |
+| close_price | 40350 |
+| price_change | -450 |
+| price_change_pct | -0.01102941 |
+| high | 40750 |
+| low | 40250 |
+| total_volume | 5801576 |
 | high_price_1y | 56600 |
-| low_price_1y | 30857 |
-| pct_low_change_1y | 0.2276801364 |
-| pct_high_change_1y | -0.2836363636 |
-| foreign_volume | 2290057 |
+| low_price_1y | 32439 |
+| pct_low_change_1y | 0.1808621318 |
+| pct_high_change_1y | -0.2663636364 |
+| foreign_volume | 1857085 |
 | foreign_room | 2106408575 |
-| avg_match_volume_2w | 7143186 |
-| foreign_holding_room | 1178146286 |
-| current_holding_ratio | 0.16779455324009043 |
+| avg_match_volume_2w | 8023868 |
+| foreign_holding_room | 1172519140 |
+| current_holding_ratio | 0.1669931209728866 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 40.65 |
-| EMA20 | 40.54 |
-| EMA50 | 42.54 |
-| RSI(14) | 47.0 |
+| Giá đóng cửa | 40.35 |
+| EMA20 | 40.61 |
+| EMA50 | 42.35 |
+| RSI(14) | 45.9 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.255 |
-| MACD Signal | -1.612 |
-| MACD Histogram | 0.357 |
+| MACD | -0.841 |
+| MACD Signal | -1.269 |
+| MACD Histogram | 0.429 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2290057 |
+| KL khớp NN hôm nay | 1857085 |
 | Room NN còn lại | 2106408575 |
-| Tỷ lệ sở hữu NN hiện tại | 0.16779455324009043 |
+| Tỷ lệ sở hữu NN hiện tại | 0.1669931209728866 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | BID      |              1857085 |     2106408575 |                0.166993 |
+| 2026-04-13 | BID      |              2389465 |     2106408575 |                0.167301 |
+| 2026-04-12 | BID      |              2389465 |     2106408575 |                0.167301 |
+| 2026-04-10 | BID      |              2859253 |     2106408575 |                0.167374 |
 | 2026-04-06 | BID      |              2687700 |     2106408575 |                0.168422 |
 | 2026-04-03 | BID      |              2661900 |     2106408575 |                0.168298 |
 
@@ -83,8 +87,8 @@
 | roe | 0.1911056105 |
 | roic | 0 |
 | roa | 0.0099908209 |
-| pe | 9.2509101331 |
-| pb | 1.6467847679 |
+| pe | 9.4739650728 |
+| pb | 1.6864915072 |
 | eps | 4259.040400694914 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +98,10 @@
 | fae | 0.0756142297176915 |
 | net_profit_margin | 0.4724577600043833 |
 | gross_margin | 0 |
-| ev | 276641658860000 |
+| ev | 283311952665000 |
 | issue_share | 7021361917 |
-| ps | 3.032888209 |
-| pcf | 1.4338186144 |
+| ps | 3.1060162242 |
+| pcf | 1.468390383 |
 | bvps | 23925.4095419864 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +126,7 @@
 
 | news_title                                                                                                            |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| BID: Quyết định về việc thay đổi địa điểm đặt trụ sở Chi nhánh Khách hàng doanh nghiệp nước ngoài I                   | 1776097046000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-dat-tru-so-chi-nhanh-khach-hang-doanh-nghiep-nuoc… |
 | BID: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                                     | 1775226165000 | https://www.hsx.vn/vi/tin-tuc/bid-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450224                                    |
 | BID: Quyết định về việc thay đổi địa điểm trụ sở Chi nhánh Trung tâm khách hàng cá nhân cao cấp Miền Nam              | 1775149956000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-tru-so-chi-nhanh-trung-tam-khach-hang-ca-nhan-cao… |
 | BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan - Hana Bank                                           | 1774980041000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan--hana-bank/2448905           |
@@ -131,7 +136,6 @@
 | BID: Công văn của UBCK về hồ sơ đăng ký chào bán cổ phiếu riêng lẻ của BIDV                                           | 1773849507000 | https://www.hsx.vn/vi/tin-tuc/bid-cong-van-cua-ubck-ve-ho-so-dang-ky-chao-ban-co-phieu-rieng-le-cua-bidv/2445044          |
 | BID: Nghị quyết và Biên bản kiểm phiếu lấy ý kiến cổ đông bằng văn bản                                                | 1773769040000 | https://www.hsx.vn/vi/tin-tuc/bid-nghi-quyet-va-bien-ban-kiem-phieu-lay-y-kien-co-dong-bang-van-ban/2444860               |
 | BID: Thông báo về việc ký hợp đồng kiểm toán BCTC 2026 - 2027                                                         | 1773251176000 | https://www.hsx.vn/vi/tin-tuc/bid-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-2026--2027/2443608                         |
-| BID: Quyết định của HĐQT về việc giao dịch với bên liên quan - BIC                                                    | 1773251082000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-lien-quan--bic/2443607                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,9 +161,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BID      | 2026-03-12 00:00:00 |  41.8  |  41.9  | 40.65 |   40.75 |  6452900 |
-| BID      | 2026-03-13 00:00:00 |  40.6  |  41.25 | 39.95 |   40.65 |  7923500 |
-| BID      | 2026-03-16 00:00:00 |  40.5  |  41.2  | 40    |   40.3  |  5174500 |
 | BID      | 2026-03-17 00:00:00 |  40.8  |  41.3  | 40.35 |   40.45 |  6922000 |
 | BID      | 2026-03-18 00:00:00 |  41.1  |  43    | 41    |   41.3  | 14609300 |
 | BID      | 2026-03-19 00:00:00 |  40.9  |  41.1  | 40.1  |   40.65 |  6392700 |
@@ -176,22 +177,14 @@
 | BID      | 2026-04-03 00:00:00 |  39.7  |  39.75 | 39.05 |   39.05 |  7279600 |
 | BID      | 2026-04-06 00:00:00 |  39.05 |  39.4  | 38.65 |   39.35 |  5679400 |
 | BID      | 2026-04-07 00:00:00 |  39.4  |  39.5  | 39    |   39.4  |  4798100 |
-| BID      | 2026-04-08 00:00:00 |  40.5  |  40.7  | 40.05 |   40.65 |  8200900 |
+| BID      | 2026-04-08 00:00:00 |  40.5  |  41.45 | 40.05 |   41.45 | 15053900 |
+| BID      | 2026-04-09 00:00:00 |  41    |  41.15 | 40.5  |   40.6  |  8138800 |
+| BID      | 2026-04-10 00:00:00 |  41.1  |  41.95 | 40.65 |   40.8  |  8968200 |
+| BID      | 2026-04-13 00:00:00 |  40.5  |  40.75 | 40.25 |   40.35 |  5770800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BID      | 2026-04-08 11:24:46 |   40.65 |      300 | Sell         | 460749914 |
-| BID      | 2026-04-08 11:24:46 |   40.65 |      900 | Sell         | 460749923 |
-| BID      | 2026-04-08 11:24:57 |   40.7  |      200 | Buy          | 460750205 |
-| BID      | 2026-04-08 11:24:57 |   40.7  |      100 | Buy          | 460750206 |
-| BID      | 2026-04-08 11:24:57 |   40.7  |      100 | Buy          | 460750207 |
-| BID      | 2026-04-08 11:24:57 |   40.7  |     2800 | Buy          | 460750204 |
-| BID      | 2026-04-08 11:25:07 |   40.7  |      100 | Buy          | 460750486 |
-| BID      | 2026-04-08 11:25:07 |   40.7  |      100 | Buy          | 460750488 |
-| BID      | 2026-04-08 11:25:07 |   40.7  |      300 | Buy          | 460750489 |
-| BID      | 2026-04-08 11:25:15 |   40.65 |      500 | Sell         | 460750659 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

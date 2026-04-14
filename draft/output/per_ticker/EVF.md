@@ -1,6 +1,6 @@
 # EVF — EVF
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 14/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -11,59 +11,63 @@
 | --- | --- |
 | symbol | EVF |
 | exchange | HOSE |
-| ev | 10267638300000 |
-| ceiling | 14150 |
-| floor | 12350 |
-| ref_price | 13250 |
-| open | 13250 |
-| match_price | 13500 |
-| close_price | 13500 |
-| price_change | 250 |
-| price_change_pct | 0.01886792 |
-| high | 13500 |
-| low | 13250 |
-| total_volume | 4290601 |
+| ev | 10419751487400 |
+| ceiling | 14750 |
+| floor | 12850 |
+| ref_price | 13800 |
+| open | 13650 |
+| match_price | 13700 |
+| close_price | 13700 |
+| price_change | -100 |
+| price_change_pct | -0.00724638 |
+| high | 14000 |
+| low | 13650 |
+| total_volume | 11197578 |
 | high_price_1y | 16500 |
-| low_price_1y | 7940 |
-| pct_low_change_1y | 0.7002518892 |
-| pct_high_change_1y | -0.1692307692 |
-| foreign_volume | 209300 |
+| low_price_1y | 8660 |
+| pct_low_change_1y | 0.5375982043 |
+| pct_high_change_1y | -0.1569230769 |
+| foreign_volume | 280800 |
 | foreign_room | 114084870 |
-| avg_match_volume_2w | 10933593 |
-| foreign_holding_room | 3854295 |
-| current_holding_ratio | 0.005067668030648583 |
+| avg_match_volume_2w | 9292139 |
+| foreign_holding_room | 3771995 |
+| current_holding_ratio | 0.004959459115938532 |
 | max_holding_ratio | 0.15 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.95 |
-| EMA20 | 13.68 |
-| EMA50 | 13.2 |
-| RSI(14) | 54.4 |
+| Giá đóng cửa | 13.7 |
+| EMA20 | 13.71 |
+| EMA50 | 13.27 |
+| RSI(14) | 51.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.137 |
-| MACD Signal | 0.236 |
-| MACD Histogram | -0.099 |
+| MACD | 0.116 |
+| MACD Signal | 0.182 |
+| MACD Histogram | -0.066 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 209300 |
+| KL khớp NN hôm nay | 280800 |
 | Room NN còn lại | 114084870 |
-| Tỷ lệ sở hữu NN hiện tại | 0.005067668030648583 |
+| Tỷ lệ sở hữu NN hiện tại | 0.004959459115938532 |
 | Tỷ lệ sở hữu NN tối đa | 0.15 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | EVF      |               280800 |      114084870 |              0.00495946 |
+| 2026-04-13 | EVF      |               176100 |      114084870 |              0.0050632  |
+| 2026-04-12 | EVF      |               176100 |      114084870 |              0.0050632  |
+| 2026-04-10 | EVF      |               177700 |      114084870 |              0.00506767 |
 | 2026-04-06 | EVF      |               353515 |      114084870 |              0.00579511 |
 | 2026-04-03 | EVF      |               307630 |      114084870 |              0.00472918 |
 
@@ -83,8 +87,8 @@
 | roe | 0.0947216447 |
 | roic | 0 |
 | roa | 0.0125383088 |
-| pe | 11.5966933382 |
-| pb | 1.0396251365 |
+| pe | 11.7684962025 |
+| pb | 1.0550269904 |
 | eps | 1175.8837959845157 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +98,10 @@
 | fae | 0.02419755031469816 |
 | net_profit_margin | 0.47275869159678835 |
 | gross_margin | 0 |
-| ev | 10267638300000 |
+| ev | 10419751460000 |
 | issue_share | 760565802 |
-| ps | 4.638488842 |
-| pcf | 6.6395709217 |
+| ps | 4.7072071952 |
+| pcf | 6.7379349353 |
 | bvps | 12985.4497796246 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,16 +126,16 @@
 
 | news_title                                                                                                            |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| EVF: Điều lệ tổ chức và hoạt động                                                                                     | 1775834414000 | https://www.hsx.vn/vi/tin-tuc/evf-dieu-le-to-chuc-va-hoat-dong/2451996                                                    |
+| EVF: Quy chế quản trị nội bộ                                                                                          | 1775834386000 | https://www.hsx.vn/vi/tin-tuc/evf-quy-che-quan-tri-noi-bo/2451995                                                         |
+| EVF: Quy chế tổ chức và hoạt động của HĐQT                                                                            | 1775834280000 | https://www.hsx.vn/vi/tin-tuc/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt/2451994                                           |
+| EVF: Công văn CBTT về banh hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                          | 1775834266000 | https://www.hsx.vn/vi/tin-tuc/evf-cong-van-cbtt-ve-banh-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb/… |
+| EVF: Công văn CBTT về ban hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                           | 1775834220000 | https://www.hsx.vn/vi/tin-tuc/evf-cong-van-cbtt-ve-ban-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb/2… |
 | EVN Finance (EVF): Lợi nhuận quý I/2026 ước hoàn thành 25% kế hoạch năm                                               | 1775488560000 | https://www.tinnhanhchungkhoan.vn/evn-finance-evf-loi-nhuan-quy-i2026-uoc-hoan-thanh-25-ke-hoach-nam-post388280.html      |
 | EVF: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                            | 1775469750000 | https://www.hsx.vn/vi/tin-tuc/evf-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2450582                           |
 | EVF: CBTT bổ nhiệm lại KTT                                                                                            | 1774625529000 | https://www.hsx.vn/vi/tin-tuc/evf-cbtt-bo-nhiem-lai-ktt/2447418                                                           |
 | EVF: Nghị quyết HĐQT về việc phê duyệt phương án phát hành Trái phiếu tăng vốn cấp 2 theo hình thức riêng lẻ năm 2026 | 1773248635000 | https://www.hsx.vn/vi/tin-tuc/evf-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2-theo-h… |
 | EVF: Thư mời tham dự ĐHĐCĐ thường niên 2026                                                                           | 1772816308000 | https://www.hsx.vn/vi/tin-tuc/evf-thu-moi-tham-du-dhdcd-thuong-nien-2026/2442462                                          |
-| EVF: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                              | 1772816191000 | https://www.hsx.vn/vi/tin-tuc/evf-tai-lieu-hop-dhdcd-thuong-nien-2026/2442461                                             |
-| EVF: Báo cáo thường niên năm 2025                                                                                     | 1772729652000 | https://www.hsx.vn/vi/tin-tuc/evf-bao-cao-thuong-nien-nam-2025/2442111                                                    |
-| EVF: Giải trình biến động KQKD năm 2025 so với cùng kỳ năm trước                                                      | 1771001761000 | https://www.hsx.vn/vi/tin-tuc/evf-giai-trinh-bien-dong-kqkd-nam-2025-so-voi-cung-ky-nam-truoc/2439252                     |
-| EVF: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                        | 1770387991000 | https://www.hsx.vn/vi/tin-tuc/evf-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| EVF: Thông báo và Nghị quyết HĐQT về ngày đăng ký cuối cùng để thực hiện quyền họp ĐHĐCĐ thường niên năm 2026         | 1770052650000 | https://www.hsx.vn/vi/tin-tuc/evf-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-hop-dhdcd-th… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -155,9 +159,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EVF      | 2026-03-12 00:00:00 |  14.75 |  15.25 | 14.35 |   14.7  | 22065700 |
-| EVF      | 2026-03-13 00:00:00 |  14.5  |  15.2  | 14.25 |   15.1  | 19282100 |
-| EVF      | 2026-03-16 00:00:00 |  15.15 |  15.15 | 14.05 |   14.05 | 21501000 |
 | EVF      | 2026-03-17 00:00:00 |  14    |  14.35 | 13.3  |   13.95 | 14158700 |
 | EVF      | 2026-03-18 00:00:00 |  13.95 |  14.5  | 13.65 |   13.8  |  9517600 |
 | EVF      | 2026-03-19 00:00:00 |  13.55 |  14.25 | 13.05 |   13.75 | 15746700 |
@@ -173,22 +174,15 @@
 | EVF      | 2026-04-02 00:00:00 |  13.7  |  14.05 | 13.5  |   13.75 |  9342200 |
 | EVF      | 2026-04-03 00:00:00 |  13.8  |  13.95 | 13.25 |   13.3  | 14014600 |
 | EVF      | 2026-04-06 00:00:00 |  13.25 |  13.5  | 13.2  |   13.25 |  6232900 |
-| EVF      | 2026-04-07 00:00:00 |  13.25 |  13.4  | 13.25 |   13.35 |  1970300 |
+| EVF      | 2026-04-07 00:00:00 |  13.25 |  13.5  | 13.25 |   13.5  |  4288000 |
+| EVF      | 2026-04-08 00:00:00 |  14.05 |  14.2  | 13.8  |   13.95 | 10687700 |
+| EVF      | 2026-04-09 00:00:00 |  13.95 |  14.1  | 13.8  |   13.85 |  6399400 |
+| EVF      | 2026-04-10 00:00:00 |  13.9  |  14.2  | 13.65 |   13.8  |  6603700 |
+| EVF      | 2026-04-13 00:00:00 |  13.65 |  14    | 13.65 |   13.7  |  5566600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EVF      | 2026-04-07 11:17:11 |    13.3 |      100 | Buy          | 460056512 |
-| EVF      | 2026-04-07 11:17:11 |    13.3 |     1000 | Buy          | 460056513 |
-| EVF      | 2026-04-07 11:17:11 |    13.3 |      600 | Buy          | 460056514 |
-| EVF      | 2026-04-07 11:17:25 |    13.3 |      300 | Buy          | 460057012 |
-| EVF      | 2026-04-07 11:17:25 |    13.3 |      600 | Buy          | 460057010 |
-| EVF      | 2026-04-07 11:17:25 |    13.3 |      100 | Buy          | 460057011 |
-| EVF      | 2026-04-07 11:17:27 |    13.3 |      900 | Buy          | 460057097 |
-| EVF      | 2026-04-07 11:17:27 |    13.3 |     2200 | Buy          | 460057099 |
-| EVF      | 2026-04-07 11:17:39 |    13.3 |      100 | Buy          | 460057391 |
-| EVF      | 2026-04-07 11:17:41 |    13.3 |      700 | Buy          | 460057427 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

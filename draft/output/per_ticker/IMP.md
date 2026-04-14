@@ -1,6 +1,6 @@
 # IMP — IMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:12  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 14/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
@@ -11,59 +11,61 @@
 | --- | --- |
 | symbol | IMP |
 | exchange | HOSE |
-| ev | 8547497391000 |
-| ceiling | 59500 |
-| floor | 51900 |
-| ref_price | 55700 |
-| open | 55600 |
-| match_price | 55500 |
-| close_price | 55500 |
-| price_change | -200 |
-| price_change_pct | -0.00359066 |
-| high | 55600 |
-| low | 55200 |
-| total_volume | 12743 |
+| ev | 8609100975800 |
+| ceiling | 59300 |
+| floor | 51700 |
+| ref_price | 55500 |
+| open | 55300 |
+| match_price | 55900 |
+| close_price | 55900 |
+| price_change | 400 |
+| price_change_pct | 0.00720721 |
+| high | 56000 |
+| low | 55300 |
+| total_volume | 34778 |
 | high_price_1y | 57000 |
-| low_price_1y | 35753 |
-| pct_low_change_1y | 0.4461410183 |
-| pct_high_change_1y | -0.0211640212 |
-| foreign_volume | 2500 |
+| low_price_1y | 40606 |
+| pct_low_change_1y | 0.3438533733 |
+| pct_high_change_1y | -0.0141093474 |
+| foreign_volume | 2100 |
 | foreign_room | 120091737 |
-| avg_match_volume_2w | 34274 |
-| foreign_holding_room | 78342920 |
-| current_holding_ratio | 0.5085790398902351 |
+| avg_match_volume_2w | 24992 |
+| foreign_holding_room | 78344320 |
+| current_holding_ratio | 0.5085881282757057 |
 | max_holding_ratio | 0.7796 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 55.3 |
-| EMA20 | 55.11 |
-| EMA50 | 54.32 |
-| RSI(14) | 53.6 |
+| Giá đóng cửa | 56.0 |
+| EMA20 | 55.37 |
+| EMA50 | 54.58 |
+| RSI(14) | 60.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.299 |
-| MACD Signal | 0.3 |
-| MACD Histogram | -0.001 |
-| MACD nhận xét | MACD gần cắt Signal (chú ý) |
+| MACD | 0.333 |
+| MACD Signal | 0.312 |
+| MACD Histogram | 0.021 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2500 |
+| KL khớp NN hôm nay | 2100 |
 | Room NN còn lại | 120091737 |
-| Tỷ lệ sở hữu NN hiện tại | 0.5085790398902351 |
+| Tỷ lệ sở hữu NN hiện tại | 0.5085881282757057 |
 | Tỷ lệ sở hữu NN tối đa | 0.7796 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | IMP      |                 2100 |      120091737 |                0.508588 |
+| 2026-04-12 | IMP      |                 1100 |      120091737 |                0.508588 |
 | 2026-04-06 | IMP      |                  400 |      120091737 |                0.508589 |
 | 2026-04-03 | IMP      |                 5900 |      120091737 |                0.508578 |
 
@@ -83,8 +85,8 @@
 | roe | 0.155530474 |
 | roic | 0.1835570153 |
 | roa | 0.1320638828 |
-| pe | 24.4870873927 |
-| pb | 3.7066078832 |
+| pe | 24.6635709054 |
+| pb | 3.7333221742 |
 | eps | 2266.5006707423227 |
 | current_ratio | 4.0474772999 |
 | cash_ratio | 0.507993601 |
@@ -94,12 +96,12 @@
 | fae | 0.3386235345907376 |
 | net_profit_margin | 0.1430257260379298 |
 | gross_margin | 0.410294569177121 |
-| ev | 8549373291000 |
+| ev | 8610990395800 |
 | issue_share | 154042762 |
-| ps | 3.5022834529 |
-| pcf | 157.8213170816 |
+| ps | 3.5275251354 |
+| pcf | 158.9587680155 |
 | bvps | 14973.2590414797 |
-| ev_per_ebitda | 15.115769144 |
+| ev_per_ebitda | 15.2244119008 |
 | at | 0.9233575418 |
 | fat | 2.9771988787 |
 | acp | 49.81064717745506 |
@@ -120,18 +122,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                     |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Dược phẩm Imexpharm (IMP): Mục tiêu lợi nhuận 2026 đạt 502 tỷ đồng, tăng trưởng 12%            | 1774612200000 | https://www.tinnhanhchungkhoan.vn/duoc-pham-imexpharm-imp-muc-tieu-loi-nhuan-2026-dat-502-ty-dong-tang-truong-12-post387… |
-| IMP: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                              | 1774548502000 | https://www.hsx.vn/vi/tin-tuc/imp-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447156                                    |
-| IMP: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                      | 1774548458000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2447155             |
-| Tổ chức ngoại chào mua công khai hơn 120 triệu cổ phiếu IMP giá 57.400 đồng                    | 1773220920000 | https://vneconomy.vn/to-chuc-ngoai-chao-mua-cong-khai-hon-120-trieu-co-phieu-imp-gia-57400-dong.htm                       |
-| IMP: Thông báo chào mua công khai cổ phiếu IMP của LIAN SGP                                    | 1773164804000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-chao-mua-cong-khai-co-phieu-imp-cua-lian-sgp/2443249                          |
-| IMP: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                    | 1770888228000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2438581          |
-| IMP: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1770741854000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| IMP: Nghị quyết HĐQT về kế hoạch triệu tập ĐHĐCĐ thường niên năm 2026                          | 1770399237000 | https://www.hsx.vn/vi/tin-tuc/imp-nghi-quyet-hdqt-ve-ke-hoach-trieu-tap-dhdcd-thuong-nien-nam-2026/2437638                |
-| IMP: Nghị quyết HĐQT về việc thành lập Chi nhánh Hải phòng                                     | 1770399172000 | https://www.hsx.vn/vi/tin-tuc/imp-nghi-quyet-hdqt-ve-viec-thanh-lap-chi-nhanh-hai-phong/2437635                           |
-| IMP: Nghị quyết HĐQT về việc phê duyệt hạn mức tín dụng năm 2026                               | 1770399100000 | https://www.hsx.vn/vi/tin-tuc/imp-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-tin-dung-nam-2026/2437632                     |
+| news_title                                                                          |   public_date | news_source_link                                                                                                          |
+|:------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| IMP: Thông báo giao dịch cổ phiếu của Người nội bộ Huỳnh Văn Nhung                  | 1775845920000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-huynh-van-nhung/2452209                   |
+| IMP: Giấy phép môi trường Nhà máy Công nghệ cao Bình Dương                          | 1775845917000 | https://www.hsx.vn/vi/tin-tuc/imp-giay-phep-moi-truong-nha-may-cong-nghe-cao-binh-duong/2452208                           |
+| IMP: Thông báo giao dịch cổ phiếu của Người nội bộ Ngô Minh Tuấn, Trần Thị Đào      | 1775756700000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-ngo-minh-tuan-tran-thi-dao/2451820        |
+| IMP: Link công bố Báo cáo thường niên năm 2025                                      | 1775645954000 | https://www.hsx.vn/vi/tin-tuc/imp-link-cong-bo-bao-cao-thuong-nien-nam-2025/2451296                                       |
+| Dược phẩm Imexpharm (IMP): Mục tiêu lợi nhuận 2026 đạt 502 tỷ đồng, tăng trưởng 12% | 1774612200000 | https://www.tinnhanhchungkhoan.vn/duoc-pham-imexpharm-imp-muc-tieu-loi-nhuan-2026-dat-502-ty-dong-tang-truong-12-post387… |
+| IMP: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                   | 1774548502000 | https://www.hsx.vn/vi/tin-tuc/imp-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447156                                    |
+| IMP: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026           | 1774548458000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2447155             |
+| Tổ chức ngoại chào mua công khai hơn 120 triệu cổ phiếu IMP giá 57.400 đồng         | 1773220920000 | https://vneconomy.vn/to-chuc-ngoai-chao-mua-cong-khai-hon-120-trieu-co-phieu-imp-gia-57400-dong.htm                       |
+| IMP: Thông báo chào mua công khai cổ phiếu IMP của LIAN SGP                         | 1773164804000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-chao-mua-cong-khai-co-phieu-imp-cua-lian-sgp/2443249                          |
+| IMP: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026         | 1770888228000 | https://www.hsx.vn/vi/tin-tuc/imp-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2438581          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +159,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| IMP      | 2026-03-12 00:00:00 |   56.7 |   56.8 |  55.4 |    56.1 |    50700 |
-| IMP      | 2026-03-13 00:00:00 |   55.7 |   56.7 |  55   |    55   |    77000 |
-| IMP      | 2026-03-16 00:00:00 |   55.1 |   56.7 |  55.1 |    55.6 |   113900 |
-| IMP      | 2026-03-17 00:00:00 |   56.5 |   56.5 |  55.6 |    56.1 |    35200 |
 | IMP      | 2026-03-18 00:00:00 |   55.6 |   56   |  55   |    55.1 |    51000 |
 | IMP      | 2026-03-19 00:00:00 |   55.2 |   55.3 |  55   |    55   |    31500 |
 | IMP      | 2026-03-20 00:00:00 |   54.7 |   55.4 |  54.3 |    54.5 |    70000 |
@@ -175,22 +173,27 @@
 | IMP      | 2026-04-02 00:00:00 |   55.7 |   55.7 |  55.4 |    55.6 |    12200 |
 | IMP      | 2026-04-03 00:00:00 |   55.9 |   55.9 |  55.3 |    55.7 |    25400 |
 | IMP      | 2026-04-06 00:00:00 |   56   |   56   |  55.3 |    55.7 |    17700 |
-| IMP      | 2026-04-07 00:00:00 |   55.6 |   55.6 |  55.2 |    55.3 |     7800 |
+| IMP      | 2026-04-07 00:00:00 |   55.6 |   55.6 |  55.2 |    55.5 |    12700 |
+| IMP      | 2026-04-08 00:00:00 |   56   |   56   |  55.1 |    55.6 |    30400 |
+| IMP      | 2026-04-09 00:00:00 |   56.6 |   56.6 |  55.5 |    55.6 |    30600 |
+| IMP      | 2026-04-10 00:00:00 |   55.7 |   55.7 |  55.5 |    55.5 |    24200 |
+| IMP      | 2026-04-13 00:00:00 |   55.3 |   56   |  55.3 |    55.9 |    34700 |
+| IMP      | 2026-04-14 00:00:00 |   55.9 |   56.3 |  55.9 |    56   |    29200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| IMP      | 2026-04-08 09:15:00 |    56   |      200 | ATO          | 460337822 |
-| IMP      | 2026-04-08 09:15:50 |    55.7 |      100 | Sell         | 460342040 |
-| IMP      | 2026-04-08 09:26:33 |    55.7 |      200 | Sell         | 460407443 |
-| IMP      | 2026-04-08 09:28:32 |    55.6 |      100 | Sell         | 460416387 |
-| IMP      | 2026-04-08 09:28:59 |    55.6 |      400 | Sell         | 460418128 |
-| IMP      | 2026-04-08 09:36:34 |    55.6 |      100 | Buy          | 460445786 |
-| IMP      | 2026-04-08 09:40:18 |    55.6 |      100 | Buy          | 460457874 |
-| IMP      | 2026-04-08 09:46:45 |    55.7 |      100 | Sell         | 460474178 |
-| IMP      | 2026-04-08 09:49:26 |    55.8 |      100 | Buy          | 460479752 |
-| IMP      | 2026-04-08 09:54:09 |    55.8 |      100 | Buy          | 460490884 |
+| IMP      | 2026-04-14 09:15:00 |    55.9 |      200 | ATO          | 463045116 |
+| IMP      | 2026-04-14 09:16:14 |    56.3 |      100 | Buy          | 463049711 |
+| IMP      | 2026-04-14 09:16:25 |    56.3 |      100 | Buy          | 463050308 |
+| IMP      | 2026-04-14 09:18:36 |    56   |      300 | Sell         | 463058390 |
+| IMP      | 2026-04-14 09:18:36 |    56   |      100 | Sell         | 463058391 |
+| IMP      | 2026-04-14 09:21:02 |    56   |      400 | Buy          | 463066862 |
+| IMP      | 2026-04-14 09:25:28 |    56   |     2000 | Buy          | 463079450 |
+| IMP      | 2026-04-14 09:31:42 |    56.1 |      100 | Buy          | 463096110 |
+| IMP      | 2026-04-14 09:47:43 |    56   |      100 | Sell         | 463130741 |
+| IMP      | 2026-04-14 09:55:11 |    56   |      300 | Buy          | 463145918 |
 
 <!-- END:DAILY -->
 

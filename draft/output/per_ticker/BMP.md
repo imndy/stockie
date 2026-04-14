@@ -1,6 +1,6 @@
 # BMP — BMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:10  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 14/04/2026 07:21  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
@@ -11,59 +11,63 @@
 | --- | --- |
 | symbol | BMP |
 | exchange | HOSE |
-| ev | 10191686781000 |
-| ceiling | 133700 |
-| floor | 116300 |
-| ref_price | 125000 |
-| open | 126100 |
-| match_price | 124500 |
-| close_price | 124500 |
-| price_change | -500 |
-| price_change_pct | -0.004 |
-| high | 126100 |
-| low | 123600 |
-| total_volume | 132818 |
+| ev | 10969365692000 |
+| ceiling | 142300 |
+| floor | 123700 |
+| ref_price | 133000 |
+| open | 131500 |
+| match_price | 134000 |
+| close_price | 134000 |
+| price_change | 1000 |
+| price_change_pct | 0.0075188 |
+| high | 135500 |
+| low | 130500 |
+| total_volume | 253877 |
 | high_price_1y | 191000 |
-| low_price_1y | 92286 |
-| pct_low_change_1y | 0.2668827909 |
-| pct_high_change_1y | -0.3405720339 |
-| foreign_volume | 58915 |
+| low_price_1y | 112825 |
+| pct_low_change_1y | 0.1733149869 |
+| pct_high_change_1y | -0.2902542373 |
+| foreign_volume | 132105 |
 | foreign_room | 81860938 |
-| avg_match_volume_2w | 191406 |
-| foreign_holding_room | 66401322 |
-| current_holding_ratio | 0.8111478273068408 |
+| avg_match_volume_2w | 213280 |
+| foreign_holding_room | 65970257 |
+| current_holding_ratio | 0.8058820068736569 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 129.3 |
-| EMA20 | 131.91 |
-| EMA50 | 142.77 |
-| RSI(14) | 42.1 |
+| Giá đóng cửa | 134.0 |
+| EMA20 | 132.36 |
+| EMA50 | 141.75 |
+| RSI(14) | 49.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -5.898 |
-| MACD Signal | -6.794 |
-| MACD Histogram | 0.896 |
+| MACD | -3.771 |
+| MACD Signal | -5.559 |
+| MACD Histogram | 1.787 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 58915 |
+| KL khớp NN hôm nay | 132105 |
 | Room NN còn lại | 81860938 |
-| Tỷ lệ sở hữu NN hiện tại | 0.8111478273068408 |
+| Tỷ lệ sở hữu NN hiện tại | 0.8058820068736569 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | BMP      |               132105 |       81860938 |                0.805882 |
+| 2026-04-13 | BMP      |                33000 |       81860938 |                0.806535 |
+| 2026-04-12 | BMP      |                33000 |       81860938 |                0.806535 |
+| 2026-04-10 | BMP      |                59710 |       81860938 |                0.809708 |
 | 2026-04-06 | BMP      |                90805 |       81860938 |                0.813141 |
 | 2026-04-03 | BMP      |               116105 |       81860938 |                0.812943 |
 
@@ -83,8 +87,8 @@
 | roe | 0.4404734553 |
 | roic | 0.5670792723 |
 | roa | 0.3735138506 |
-| pe | 8.2944535163 |
-| pb | 3.5419065755 |
+| pe | 8.927363624 |
+| pb | 3.8121725391 |
 | eps | 15010.030468524561 |
 | current_ratio | 5.7030819218 |
 | cash_ratio | 0.6149087476 |
@@ -94,12 +98,12 @@
 | fae | 0.09259352901278625 |
 | net_profit_margin | 0.22301802061363762 |
 | gross_margin | 0.46093624424310686 |
-| ev | 10191686781000 |
+| ev | 10969365692000 |
 | issue_share | 81860938 |
-| ps | 1.8498126053 |
-| pcf | 8.3614514706 |
+| ps | 1.9909629647 |
+| pcf | 8.9994738719 |
 | bvps | 35150.5601142635 |
-| ev_per_ebitda | 5.667741559 |
+| ev_per_ebitda | 6.1107613466 |
 | at | 1.6748146611 |
 | fat | 20.7269888778 |
 | acp | 6.372681418956507 |
@@ -110,7 +114,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 3.515056011426353 |
 | rtq10 | 0.1742426122 |
-| dividend | 0.0522088353 |
+| dividend | 0.0485074627 |
 | ebitda | 1755404459978 |
 | ebit | 1662879339994 |
 | le | 0.0190793413 |
@@ -122,6 +126,7 @@
 
 | news_title                                                                            |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| BMP: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                                     | 1775671582000 | https://www.hsx.vn/vi/tin-tuc/bmp-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026/2451554                                    |
 | BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                     | 1774893576000 | https://www.hsx.vn/vi/tin-tuc/bmp-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc/2448299                    |
 | BMP: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026           | 1774537496000 | https://www.hsx.vn/vi/tin-tuc/bmp-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2446915          |
 | BMP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026   | 1773744884000 | https://www.hsx.vn/vi/tin-tuc/bmp-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026/2444752  |
@@ -131,7 +136,6 @@
 | BMP: Nghị quyết HĐQT số 03 ngày 22/01/2026                                            | 1769193118000 | https://www.hsx.vn/vi/tin-tuc/bmp-nghi-quyet-hdqt-so-03-ngay-22012026/2433456                                             |
 | BMP: Thông báo ngày ĐKCC tạm ứng cổ tức đợt 1 năm 2025 bằng tiền                      | 1761835391000 | https://www.hsx.vn/vi/tin-tuc/bmp-thong-bao-ngay-dkcc-tam-ung-co-tuc-dot-1-nam-2025-bang-tien/2414762                     |
 | Lãi lớn quý III/2025, Nhựa Bình Minh (BMP) sắp tạm ứng cổ tức tỷ lệ 65% bằng tiền mặt | 1761575700000 | https://www.tinnhanhchungkhoan.vn/lai-lon-quy-iii2025-nhua-binh-minh-bmp-sap-tam-ung-co-tuc-ty-le-65-bang-tien-mat-post3… |
-| BMP: Thông báo về ngày đăng ký cuối cùng để chi tạm ứng cổ tức đợt 1 năm 2025         | 1761562753000 | https://www.hsx.vn/vi/tin-tuc/bmp-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-chi-tam-ung-co-tuc-dot-1-nam-2025/2413502        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,9 +161,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BMP      | 2026-03-12 00:00:00 |  145   |  145   | 142.1 |   143.5 |    87000 |
-| BMP      | 2026-03-13 00:00:00 |  142.2 |  143   | 138.3 |   138.5 |   382300 |
-| BMP      | 2026-03-16 00:00:00 |  138.4 |  140.5 | 137.5 |   138.4 |    98600 |
 | BMP      | 2026-03-17 00:00:00 |  146.4 |  146.4 | 140   |   140.3 |   163300 |
 | BMP      | 2026-03-18 00:00:00 |  140   |  140   | 136   |   136.7 |   312100 |
 | BMP      | 2026-03-19 00:00:00 |  134   |  134   | 127.5 |   128   |   880300 |
@@ -176,22 +177,14 @@
 | BMP      | 2026-04-03 00:00:00 |  129.5 |  129.8 | 125.9 |   126.1 |   205600 |
 | BMP      | 2026-04-06 00:00:00 |  126.3 |  127   | 124.9 |   125   |   129500 |
 | BMP      | 2026-04-07 00:00:00 |  126.1 |  126.1 | 123.6 |   124.5 |   131800 |
-| BMP      | 2026-04-08 00:00:00 |  128.2 |  130   | 126.5 |   129.3 |   273600 |
+| BMP      | 2026-04-08 00:00:00 |  128.2 |  133.2 | 126.5 |   133.2 |   596100 |
+| BMP      | 2026-04-09 00:00:00 |  133.2 |  133.2 | 129.3 |   130.4 |   145100 |
+| BMP      | 2026-04-10 00:00:00 |  130.3 |  133.7 | 130.2 |   133   |   145200 |
+| BMP      | 2026-04-13 00:00:00 |  131.5 |  135.5 | 130.5 |   134   |   251700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BMP      | 2026-04-08 11:05:12 |   128.4 |      300 | Sell         | 460716802 |
-| BMP      | 2026-04-08 11:05:50 |   128.4 |      300 | Sell         | 460717640 |
-| BMP      | 2026-04-08 11:06:06 |   128.5 |     1600 | Buy          | 460718011 |
-| BMP      | 2026-04-08 11:06:06 |   128.5 |      100 | Buy          | 460718012 |
-| BMP      | 2026-04-08 11:06:06 |   128.5 |      300 | Buy          | 460718010 |
-| BMP      | 2026-04-08 11:06:38 |   128.5 |      200 | Buy          | 460718743 |
-| BMP      | 2026-04-08 11:06:38 |   128.5 |      200 | Buy          | 460718744 |
-| BMP      | 2026-04-08 11:07:13 |   128.5 |      100 | Buy          | 460719522 |
-| BMP      | 2026-04-08 11:09:27 |   128.5 |      300 | Buy          | 460723049 |
-| BMP      | 2026-04-08 11:09:27 |   128.5 |      200 | Buy          | 460723048 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

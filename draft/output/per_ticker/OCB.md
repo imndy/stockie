@@ -1,6 +1,6 @@
 # OCB — OCB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:14  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | OCB |
 | exchange | HOSE |
-| ev | 29027269895600 |
-| ceiling | 11700 |
-| floor | 10200 |
-| ref_price | 10950 |
-| open | 11000 |
-| match_price | 10900 |
-| close_price | 10900 |
-| price_change | -50 |
-| price_change_pct | -0.00456621 |
-| high | 11050 |
-| low | 10800 |
-| total_volume | 808945 |
+| ev | 30625101266000 |
+| ceiling | 12400 |
+| floor | 10800 |
+| ref_price | 11600 |
+| open | 11550 |
+| match_price | 11500 |
+| close_price | 11500 |
+| price_change | -100 |
+| price_change_pct | -0.00862069 |
+| high | 11550 |
+| low | 11350 |
+| total_volume | 2159469 |
 | high_price_1y | 15400 |
-| low_price_1y | 7799 |
-| pct_low_change_1y | 0.3009982246 |
-| pct_high_change_1y | -0.2534246575 |
-| foreign_volume | 114100 |
+| low_price_1y | 8607 |
+| pct_low_change_1y | 0.2713326376 |
+| pct_high_change_1y | -0.2123287671 |
+| foreign_volume | 36600 |
 | foreign_room | 585871502 |
-| avg_match_volume_2w | 964022 |
-| foreign_holding_room | 521694879 |
-| current_holding_ratio | 0.19590110270625088 |
+| avg_match_volume_2w | 1260250 |
+| foreign_holding_room | 522608411 |
+| current_holding_ratio | 0.19624414215969632 |
 | max_holding_ratio | 0.22 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 11.3 |
-| EMA20 | 11.09 |
-| EMA50 | 11.3 |
-| RSI(14) | 55.2 |
+| Giá đóng cửa | 11.6 |
+| EMA20 | 11.26 |
+| EMA50 | 11.35 |
+| RSI(14) | 59.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.039 |
-| MACD Signal | -0.076 |
-| MACD Histogram | 0.036 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.081 |
+| MACD Signal | 0.003 |
+| MACD Histogram | 0.078 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 114100 |
+| KL khớp NN hôm nay | 36600 |
 | Room NN còn lại | 585871502 |
-| Tỷ lệ sở hữu NN hiện tại | 0.19590110270625088 |
+| Tỷ lệ sở hữu NN hiện tại | 0.19624414215969632 |
 | Tỷ lệ sở hữu NN tối đa | 0.22 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | OCB      |                36600 |      585871502 |                0.196244 |
 | 2026-04-06 | OCB      |                62200 |      585871502 |                0.195978 |
 | 2026-04-03 | OCB      |               157120 |      585871502 |                0.195953 |
 
@@ -83,8 +84,8 @@
 | roe | 0.1222665415 |
 | roic | 0 |
 | roa | 0.0133795063 |
-| pe | 7.2385742508 |
-| pb | 0.855638777 |
+| pe | 7.6370278793 |
+| pb | 0.9027381592 |
 | eps | 1505.8213982947846 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.02046125104546055 |
 | net_profit_margin | 0.43357635591385957 |
 | gross_margin | 0 |
-| ev | 29027269895600 |
+| ev | 30625101266000 |
 | issue_share | 2663052284 |
-| ps | 2.5045662761 |
-| pcf | 1.6963424551 |
+| ps | 2.6424323097 |
+| pcf | 1.789719104 |
 | bvps | 12739.020592429 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -120,18 +121,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| OCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                | 1774373552000 | https://www.hsx.vn/vi/tin-tuc/ocb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2446414                                         |
-| OCB đặt mục tiêu lợi nhuận trước thuế năm 2026 ở mức 6.960 tỷ đồng                                          | 1774123620000 | https://www.tinnhanhchungkhoan.vn/ocb-dat-muc-tieu-loi-nhuan-truoc-thue-nam-2026-o-muc-6960-ty-dong-post387176.html       |
-| OCB: Nghị quyết HĐQT thông qua kế hoạch kinh doanh năm 2026                                                 | 1774028894000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-thong-qua-ke-hoach-kinh-doanh-nam-2026/2445726                          |
-| OCB: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách khối CMB và Phòng quản lý chuyển đổi | 1774028796000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-thay-doi-nhan-su--bo-nhiem-pho-tong-giam-doc-phu-trach-khoi-cmb-va-phong-qua… |
-| OCB: Vợ Thành viên HĐQT đăng ký bán 500.000 cổ phiếu                                                        | 1773912900000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-nguyen-viet-trieu… |
-| OCB: Giải trình biến động LNST năm 2025 sau kiểm toán so với cùng kỳ năm trước                              | 1773853049000 | https://www.hsx.vn/vi/tin-tuc/ocb-giai-trinh-bien-dong-lnst-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc/2445112       |
-| OCB: Nghị quyết HĐQT về việc thay đổi địa điểm Phòng GD Lê Chân                                             | 1772728080000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-phong-gd-le-chan/2442059                      |
-| OCB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                 | 1771003839000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2439373          |
-| OCB: Nghị quyết HĐQT về ngày ĐKCC chốt DSCĐ để thực hiện quyền tham dự ĐHĐCĐ TN 2026                        | 1770823186000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-ve-ngay-dkcc-chot-dscd-de-thuc-hien-quyen-tham-du-dhdcd-tn-2026/243842… |
-| OCB: Nghị quyết HĐQT số 13/2026 đến 21/2026 ngày 09/02/2026                                                 | 1770659624000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-so-132026-den-212026-ngay-09022026/2438016                              |
+| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| OCB: Thông báo nhận được Công văn của NHNN Chi nhánh Khu vực 6 về việc thay đổi địa điểm Chi nhánh Hải Phòng - PGD Lê Ch… | 1776098551000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-nhan-duoc-cong-van-cua-nhnn-chi-nhanh-khu-vuc-6-ve-viec-thay-doi-dia-diem-ch… |
+| OCB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Việt Triều                         | 1775846380000 | https://www.hsx.vn/vi/tin-tuc/ocb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-viet… |
+| OCB: Nhắc nhở chậm công bố thông tin Báo cáo thường niên năm 2025                                                         | 1775812189000 | https://www.hsx.vn/vi/tin-tuc/ocb-nhac-nho-cham-cong-bo-thong-tin-bao-cao-thuong-nien-nam-2025/2451839                    |
+| OCB: Báo cáo thường niên năm 2025                                                                                         | 1775730187000 | https://www.hsx.vn/vi/tin-tuc/ocb-bao-cao-thuong-nien-nam-2025/2451645                                                    |
+| OCB: Nghị quyết HĐQT số 40/2026 ngày 07/04/2026                                                                           | 1775669751000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-so-402026-ngay-07042026/2451519                                         |
+| OCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                              | 1774373552000 | https://www.hsx.vn/vi/tin-tuc/ocb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2446414                                         |
+| OCB đặt mục tiêu lợi nhuận trước thuế năm 2026 ở mức 6.960 tỷ đồng                                                        | 1774123620000 | https://www.tinnhanhchungkhoan.vn/ocb-dat-muc-tieu-loi-nhuan-truoc-thue-nam-2026-o-muc-6960-ty-dong-post387176.html       |
+| OCB: Nghị quyết HĐQT thông qua kế hoạch kinh doanh năm 2026                                                               | 1774028894000 | https://www.hsx.vn/vi/tin-tuc/ocb-nghi-quyet-hdqt-thong-qua-ke-hoach-kinh-doanh-nam-2026/2445726                          |
+| OCB: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách khối CMB và Phòng quản lý chuyển đổi               | 1774028796000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-thay-doi-nhan-su--bo-nhiem-pho-tong-giam-doc-phu-trach-khoi-cmb-va-phong-qua… |
+| OCB: Vợ Thành viên HĐQT đăng ký bán 500.000 cổ phiếu                                                                      | 1773912900000 | https://www.hsx.vn/vi/tin-tuc/ocb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-nguyen-viet-trieu… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -152,10 +153,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| OCB      | 2026-03-12 00:00:00 |  10.85 |  10.85 | 10.65 |   10.7  |  1573200 |
-| OCB      | 2026-03-13 00:00:00 |  10.7  |  10.75 | 10.6  |   10.7  |  1195400 |
-| OCB      | 2026-03-16 00:00:00 |  10.7  |  10.8  | 10.7  |   10.75 |   875800 |
-| OCB      | 2026-03-17 00:00:00 |  10.75 |  10.95 | 10.75 |   10.9  |  1103400 |
 | OCB      | 2026-03-18 00:00:00 |  10.9  |  11    | 10.8  |   10.95 |  1451500 |
 | OCB      | 2026-03-19 00:00:00 |  10.9  |  11    | 10.8  |   11    |  1931800 |
 | OCB      | 2026-03-20 00:00:00 |  10.95 |  11.05 | 10.9  |   10.9  |  1136900 |
@@ -170,22 +167,27 @@
 | OCB      | 2026-04-02 00:00:00 |  11.2  |  11.2  | 11.05 |   11.2  |   518100 |
 | OCB      | 2026-04-03 00:00:00 |  11.2  |  11.2  | 11    |   11    |   782200 |
 | OCB      | 2026-04-06 00:00:00 |  11    |  11.05 | 10.9  |   10.95 |   612600 |
-| OCB      | 2026-04-07 00:00:00 |  11    |  11.05 | 10.95 |   10.95 |   187200 |
+| OCB      | 2026-04-07 00:00:00 |  11    |  11.05 | 10.8  |   10.9  |   807900 |
+| OCB      | 2026-04-08 00:00:00 |  11.2  |  11.6  | 11.05 |   11.6  |  3582300 |
+| OCB      | 2026-04-09 00:00:00 |  11.6  |  11.6  | 11.35 |   11.4  |   706600 |
+| OCB      | 2026-04-10 00:00:00 |  11.5  |  11.8  | 11.45 |   11.6  |  2340300 |
+| OCB      | 2026-04-13 00:00:00 |  11.55 |  11.55 | 11.35 |   11.5  |  1563700 |
+| OCB      | 2026-04-14 00:00:00 |  11.5  |  11.65 | 11.5  |   11.6  |  1773000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| OCB      | 2026-04-07 10:23:12 |   11    |     5000 | Buy          | 459979755 |
-| OCB      | 2026-04-07 10:24:31 |   10.95 |      200 | Sell         | 459982009 |
-| OCB      | 2026-04-07 10:24:44 |   10.95 |      100 | Sell         | 459982292 |
-| OCB      | 2026-04-07 10:24:56 |   10.95 |      200 | Sell         | 459982598 |
-| OCB      | 2026-04-07 10:25:09 |   10.95 |      100 | Sell         | 459982873 |
-| OCB      | 2026-04-07 10:25:22 |   10.95 |      200 | Sell         | 459983185 |
-| OCB      | 2026-04-07 10:25:34 |   10.95 |      100 | Sell         | 459983454 |
-| OCB      | 2026-04-07 10:25:47 |   10.95 |      200 | Sell         | 459983712 |
-| OCB      | 2026-04-07 10:26:00 |   10.95 |      100 | Sell         | 459984001 |
-| OCB      | 2026-04-07 10:26:13 |   10.95 |      200 | Sell         | 459984421 |
+| OCB      | 2026-04-14 14:08:55 |   11.55 |     5000 | Buy          | 463551010 |
+| OCB      | 2026-04-14 14:09:32 |   11.55 |     1000 | Sell         | 463552960 |
+| OCB      | 2026-04-14 14:09:35 |   11.55 |     1000 | Sell         | 463553128 |
+| OCB      | 2026-04-14 14:09:43 |   11.55 |     5000 | Sell         | 463553684 |
+| OCB      | 2026-04-14 14:09:44 |   11.55 |    15000 | Sell         | 463553736 |
+| OCB      | 2026-04-14 14:10:26 |   11.55 |      600 | Sell         | 463556045 |
+| OCB      | 2026-04-14 14:10:35 |   11.55 |     4200 | Sell         | 463556479 |
+| OCB      | 2026-04-14 14:10:35 |   11.55 |      100 | Sell         | 463556480 |
+| OCB      | 2026-04-14 14:10:35 |   11.55 |      100 | Sell         | 463556481 |
+| OCB      | 2026-04-14 14:10:35 |   11.55 |      100 | Sell         | 463556482 |
 
 <!-- END:DAILY -->
 

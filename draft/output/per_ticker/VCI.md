@@ -1,6 +1,6 @@
 # VCI — VCI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:17  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 14/04/2026 19:51  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VCI |
 | exchange | HOSE |
-| ev | 31215588360000 |
-| ceiling | 28100 |
-| floor | 24500 |
-| ref_price | 26300 |
-| open | 26700 |
-| match_price | 27200 |
-| close_price | 27200 |
-| price_change | 900 |
-| price_change_pct | 0.03422053 |
-| high | 27200 |
-| low | 26050 |
-| total_volume | 7362995 |
+| ev | 23887810000000 |
+| ceiling | 29850 |
+| floor | 25950 |
+| ref_price | 27900 |
+| open | 27500 |
+| match_price | 28100 |
+| close_price | 28100 |
+| price_change | 200 |
+| price_change_pct | 0.00716846 |
+| high | 28300 |
+| low | 27400 |
+| total_volume | 9615918 |
 | high_price_1y | 35842 |
-| low_price_1y | 23230 |
-| pct_low_change_1y | 0.1708912211 |
-| pct_high_change_1y | -0.2222370231 |
-| foreign_volume | 611535 |
+| low_price_1y | 23701 |
+| pct_low_change_1y | 0.1855892338 |
+| pct_high_change_1y | -0.1965022187 |
+| foreign_volume | 2522087 |
 | foreign_room | 850100000 |
-| avg_match_volume_2w | 10043629 |
-| foreign_holding_room | 170608254 |
-| current_holding_ratio | 0.20069198211975062 |
+| avg_match_volume_2w | 11377257 |
+| foreign_holding_room | 174763165 |
+| current_holding_ratio | 0.20557953770144688 |
 | max_holding_ratio | 1 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.3 |
-| EMA20 | 26.54 |
-| EMA50 | 26.57 |
-| RSI(14) | 48.0 |
+| Giá đóng cửa | 27.95 |
+| EMA20 | 27.23 |
+| EMA50 | 26.89 |
+| RSI(14) | 55.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.089 |
-| MACD Signal | -0.113 |
-| MACD Histogram | 0.023 |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.351 |
+| MACD Signal | 0.166 |
+| MACD Histogram | 0.185 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 611535 |
+| KL khớp NN hôm nay | 2522087 |
 | Room NN còn lại | 850100000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20069198211975062 |
+| Tỷ lệ sở hữu NN hiện tại | 0.20557953770144688 |
 | Tỷ lệ sở hữu NN tối đa | 1 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VCI      |              2522087 |      850100000 |                0.20558  |
 | 2026-04-06 | VCI      |               784100 |      850100000 |                0.201213 |
 | 2026-04-03 | VCI      |               737309 |      850100000 |                0.20002  |
 
@@ -83,8 +84,8 @@
 | roe | 0.0867058054 |
 | roic | 0.071735071 |
 | roa | 0.0428753231 |
-| pe | 17.2306288141 |
-| pb | 1.283889663 |
+| pe | 17.8007599146 |
+| pb | 1.3263713063 |
 | eps | 1578.5842927396777 |
 | current_ratio | 2.0703420484 |
 | cash_ratio | 0.3146670239 |
@@ -94,12 +95,12 @@
 | fae | 0.004179365146770196 |
 | net_profit_margin | 0.2694578724359751 |
 | gross_margin | 0.5199028588092829 |
-| ev | 23122720000000 |
+| ev | 23887810000000 |
 | issue_share | 850100000 |
-| ps | 4.642928581 |
-| pcf | -2.6303508656 |
+| ps | 4.7965548943 |
+| pcf | -2.7173845339 |
 | bvps | 21185.6211503929 |
-| ev_per_ebitda | 14.6307803968 |
+| ev_per_ebitda | 14.9419494517 |
 | at | 0.1591169806 |
 | fat | 88.5065229909 |
 | acp | None |
@@ -110,7 +111,7 @@
 | rtq4 | 0 |
 | charter_capital_ratio | 1.5693094752439027 |
 | rtq10 | 0.9992266339 |
-| dividend | 0.0275735294 |
+| dividend | 0.0266903915 |
 | ebitda | 2458759918670 |
 | ebit | 2444332841702 |
 | le | 0.8919845799 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                     |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VCI: Vợ ông Tô Hải - Thành viên HĐQT đăng ký bán gần 17 triệu cổ phiếu                         | 1775584200000 | https://www.hsx.vn/vi/tin-tuc/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-truong-nguyen-thi… |
 | VCI: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết                                  | 1775226749000 | https://www.hsx.vn/vi/tin-tuc/vci-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet/2450233                        |
 | VCI: Nghị quyết HĐQT về việc phát hành, niêm yết và chào bán chứng quyền                       | 1775226719000 | https://www.hsx.vn/vi/tin-tuc/vci-nghi-quyet-hdqt-ve-viec-phat-hanh-niem-yet-va-chao-ban-chung-quyen/2450232              |
 | VCI: Điều lệ công ty                                                                           | 1775226620000 | https://www.hsx.vn/vi/tin-tuc/vci-dieu-le-cong-ty/2450231                                                                 |
@@ -131,14 +133,13 @@
 | VCI: Nghị quyết HĐQT về việc bầu Phó Chủ tịch HĐQT thường trực nhiệm kỳ 2026-2031              | 1775051249000 | https://www.hsx.vn/vi/tin-tuc/vci-nghi-quyet-hdqt-ve-viec-bau-pho-chu-tich-hdqt-thuong-truc-nhiem-ky-20262031/2449171     |
 | VCI: Nghị quyết HĐQT về việc bầu Chủ tịch HĐQT nhiệm kỳ 2026-2031                              | 1775051194000 | https://www.hsx.vn/vi/tin-tuc/vci-nghi-quyet-hdqt-ve-viec-bau-chu-tich-hdqt-nhiem-ky-20262031/2449169                     |
 | VCI: Nghị quyết của BKS về việc bầu Trưởng Ban kiểm soát nhiệm kỳ 2026 - 2031                  | 1775050524000 | https://www.hsx.vn/vi/tin-tuc/vci-nghi-quyet-cua-bks-ve-viec-bau-truong-ban-kiem-soat-nhiem-ky-2026--2031/2449159         |
-| VCI: Quy chế nội bộ về quản trị công ty                                                        | 1775038186000 | https://www.hsx.vn/vi/tin-tuc/vci-quy-che-noi-bo-ve-quan-tri-cong-ty/2449039                                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 | event_list_name          | event_title                                                 | public_date   | record_date   | exright_date   |   ratio |   value |
 |:-------------------------|:------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | VCI - Trả cổ tức Đợt 2 năm 2025 bằng tiền 250 đồng/cổ phiếu | 2026-03-24    | 2026-03-27    | 2026-03-26     |   0.025 |     250 |
 | Phát hành cổ phiếu       | VCI - Phát hành cổ phiếu thưởng tỷ lệ 35%                   | 2026-03-24    | 2026-03-27    | 2026-03-26     |   0.35  |       0 |
+| Trả cổ tức bằng tiền mặt | VCI - Trả cổ tức Đợt 2 năm 2025 bằng tiền 250 đồng/cổ phiếu | 2026-03-24    | 2026-03-27    | 2026-03-26     |   0.025 |     250 |
 | Niêm yết thêm            | VCI - Niêm yết bổ sung 127.500.000 cổ phiếu                 | 2026-01-09    | 1753-01-01    | 1753-01-01     |   0     |       0 |
 | Trả cổ tức bằng tiền mặt | VCI - Trả cổ tức Đợt 1 năm 2025 bằng tiền 500 đồng/cổ phiếu | 2025-12-31    | 2026-01-09    | 2026-01-08     |   0.05  |     500 |
 | Niêm yết thêm            | VCI - Niêm yết bổ sung 4.500.520 cổ phiếu                   | 2025-08-05    | 1753-01-01    | 1753-01-01     |   0     |       0 |
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCI      | 2026-03-12 00:00:00 |  26.99 |  27.32 | 26.22 |   26.92 | 12448617 |
-| VCI      | 2026-03-13 00:00:00 |  26.44 |  27.69 | 25.96 |   27.17 | 14188818 |
-| VCI      | 2026-03-16 00:00:00 |  27.28 |  27.72 | 26.99 |   27.17 |  8939037 |
-| VCI      | 2026-03-17 00:00:00 |  27.47 |  28.13 | 27.25 |   27.39 | 10022266 |
 | VCI      | 2026-03-18 00:00:00 |  27.5  |  27.54 | 26.14 |   26.47 | 16472448 |
 | VCI      | 2026-03-19 00:00:00 |  26.11 |  26.11 | 25.48 |   25.78 | 15189783 |
 | VCI      | 2026-03-20 00:00:00 |  25.74 |  26.33 | 25.41 |   26.25 | 14296920 |
@@ -175,22 +172,27 @@
 | VCI      | 2026-04-02 00:00:00 |  27.05 |  27.5  | 26.65 |   26.95 | 10870893 |
 | VCI      | 2026-04-03 00:00:00 |  26.95 |  27.2  | 26.25 |   26.5  | 10414957 |
 | VCI      | 2026-04-06 00:00:00 |  26.5  |  26.9  | 26.3  |   26.3  |  6433864 |
-| VCI      | 2026-04-07 00:00:00 |  26.7  |  26.8  | 26.2  |   26.3  |  2731100 |
+| VCI      | 2026-04-07 00:00:00 |  26.7  |  27.2  | 26.05 |   27.2  |  7212995 |
+| VCI      | 2026-04-08 00:00:00 |  28.75 |  29    | 27.85 |   29    | 20082500 |
+| VCI      | 2026-04-09 00:00:00 |  28.5  |  28.75 | 28    |   28    | 10773500 |
+| VCI      | 2026-04-10 00:00:00 |  28.3  |  28.5  | 27.85 |   27.9  | 10573300 |
+| VCI      | 2026-04-13 00:00:00 |  27.5  |  28.3  | 27.4  |   28.1  |  9510200 |
+| VCI      | 2026-04-14 00:00:00 |  28.4  |  28.5  | 27.9  |   27.95 |  6704400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      200 | Sell         | 460068720 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      300 | Sell         | 460068751 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      100 | Sell         | 460068750 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      100 | Sell         | 460068749 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      100 | Sell         | 460068748 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      100 | Sell         | 460068747 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |     1000 | Sell         | 460068746 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |     6000 | Sell         | 460068744 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      500 | Sell         | 460068743 |
-| VCI      | 2026-04-07 11:24:06 |   26.25 |      200 | Sell         | 460068742 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      200 | Buy          | 463618824 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      200 | Buy          | 463618881 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      800 | Buy          | 463618828 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |    10200 | Buy          | 463618875 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      700 | Buy          | 463618876 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      400 | Buy          | 463618878 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      200 | Buy          | 463618879 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      200 | Buy          | 463618827 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      400 | Buy          | 463618877 |
+| VCI      | 2026-04-14 14:27:49 |   27.95 |      100 | Buy          | 463618883 |
 
 <!-- END:DAILY -->
 

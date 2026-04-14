@@ -1,6 +1,6 @@
 # VPB — VPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:18  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 14/04/2026 19:53  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VPB |
 | exchange | HOSE |
-| ev | 206678709806050 |
-| ceiling | 27350 |
-| floor | 23850 |
-| ref_price | 25600 |
-| open | 25600 |
-| match_price | 26050 |
-| close_price | 26050 |
-| price_change | 450 |
-| price_change_pct | 0.01757813 |
-| high | 26100 |
-| low | 25500 |
-| total_volume | 11434602 |
+| ev | 213422544840000 |
+| ceiling | 29200 |
+| floor | 25400 |
+| ref_price | 27300 |
+| open | 27000 |
+| match_price | 26900 |
+| close_price | 26900 |
+| price_change | -400 |
+| price_change_pct | -0.01465201 |
+| high | 27200 |
+| low | 26800 |
+| total_volume | 21848889 |
 | high_price_1y | 38900 |
-| low_price_1y | 14749 |
-| pct_low_change_1y | 0.6776875605 |
-| pct_high_change_1y | -0.3260025873 |
-| foreign_volume | 2854800 |
+| low_price_1y | 15138 |
+| pct_low_change_1y | 0.6746821061 |
+| pct_high_change_1y | -0.3040103493 |
+| foreign_volume | 4527143 |
 | foreign_room | 2380177080 |
-| avg_match_volume_2w | 14964491 |
-| foreign_holding_room | 1964737948 |
-| current_holding_ratio | 0.24763761876310006 |
+| avg_match_volume_2w | 14525581 |
+| foreign_holding_room | 1960176366 |
+| current_holding_ratio | 0.24706267221339734 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.1 |
-| EMA20 | 26.23 |
-| EMA50 | 26.85 |
-| RSI(14) | 55.7 |
+| Giá đóng cửa | 27.35 |
+| EMA20 | 26.57 |
+| EMA50 | 26.91 |
+| RSI(14) | 55.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | -0.142 |
-| MACD Signal | -0.308 |
-| MACD Histogram | 0.165 |
+| MACD | 0.126 |
+| MACD Signal | -0.084 |
+| MACD Histogram | 0.209 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 2854800 |
+| KL khớp NN hôm nay | 4527143 |
 | Room NN còn lại | 2380177080 |
-| Tỷ lệ sở hữu NN hiện tại | 0.24763761876310006 |
+| Tỷ lệ sở hữu NN hiện tại | 0.24706267221339734 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VPB      |              4527143 |     2380177080 |                0.247063 |
 | 2026-04-06 | VPB      |              4541400 |     2380177080 |                0.248688 |
 | 2026-04-03 | VPB      |             11020620 |     2380177080 |                0.24847  |
 
@@ -83,8 +84,8 @@
 | roe | 0.1487072493 |
 | roic | 0 |
 | roa | 0.0223027718 |
-| pe | 8.6152277135 |
-| pb | 1.2309386227 |
+| pe | 8.8963387905 |
+| pb | 1.2711036066 |
 | eps | 3023.715781684613 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.011254011489262368 |
 | net_profit_margin | 0.4089468211263942 |
 | gross_margin | 0 |
-| ev | 206678709780000 |
+| ev | 213422544840000 |
 | issue_share | 7933923601 |
-| ps | 2.7684948752 |
-| pcf | 4.6410632282 |
+| ps | 2.8588296408 |
+| pcf | 4.7924990725 |
 | bvps | 21162.7123558387 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +123,8 @@
 
 | news_title                                                                                                    |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VPB: Nghị quyết HĐQT về việc phê duyệt phương án mua lại trước hạn trái phiếu do VPBank phát hành             | 1775833142000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-mua-lai-truoc-han-trai-phieu-do-vpbank-pha… |
+| VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch cho vay hợp vốn giữa VPBank và VPB SMBC FC         | 1775747934000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-cho-vay-hop-von-giua-vpbank-va-vp… |
 | VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch triển khai dịch vụ ngân quỹ  giữa VPBank và GBBank | 1775497911000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-trien-khai-dich-vu-ngan-quy--giua… |
 | VPB: Nghị quyết HĐQT về việc thay đổi tên gọi và địa điểm Chi nhánh Quận 6                                    | 1775497826000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-ten-goi-va-dia-diem-chi-nhanh-quan-6/2450874           |
 | VPB: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch triển khai dịch vụ ngân quỹ  giữa VPBank và GBBank | 1775472711000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-trien-khai-dich-vu-ngan-qu-giua-v… |
@@ -130,8 +133,6 @@
 | VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Bến Tre                                              | 1775050788000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-ben-tre/2449161                     |
 | VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Việt Hưng                                            | 1775050699000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-viet-hung/2449141                   |
 | VPB: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Nghệ An                                              | 1775050648000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-nghe-an/2449160                     |
-| VPB: Báo cáo thường niên năm 2025                                                                             | 1774895730000 | https://www.hsx.vn/vi/tin-tuc/vpb-bao-cao-thuong-nien-nam-2025/2448338                                                    |
-| VPB: Nghị quyết HĐQT về việc ký hợp đồng biệt phái                                                            | 1774880510000 | https://www.hsx.vn/vi/tin-tuc/vpb-nghi-quyet-hdqt-ve-viec-ky-hop-dong-biet-phai/2448032                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPB      | 2026-03-12 00:00:00 |  25.85 |  26.2  | 25.5  |   25.75 | 12809200 |
-| VPB      | 2026-03-13 00:00:00 |  25.4  |  26    | 25    |   25.65 | 13865300 |
-| VPB      | 2026-03-16 00:00:00 |  25.7  |  25.75 | 25.4  |   25.5  |  7467100 |
-| VPB      | 2026-03-17 00:00:00 |  25.8  |  26.4  | 25.7  |   25.7  |  9324100 |
 | VPB      | 2026-03-18 00:00:00 |  25.95 |  26.15 | 25.4  |   25.6  |  9271600 |
 | VPB      | 2026-03-19 00:00:00 |  25.25 |  25.8  | 24.95 |   25.6  | 23991600 |
 | VPB      | 2026-03-20 00:00:00 |  25.3  |  25.9  | 25.05 |   25.05 | 15978800 |
@@ -175,22 +172,27 @@
 | VPB      | 2026-04-02 00:00:00 |  26.6  |  26.6  | 26    |   26.25 | 11441500 |
 | VPB      | 2026-04-03 00:00:00 |  26.3  |  26.4  | 25.75 |   25.8  | 16758100 |
 | VPB      | 2026-04-06 00:00:00 |  25.8  |  25.95 | 25.5  |   25.6  | 11093100 |
-| VPB      | 2026-04-07 00:00:00 |  25.6  |  25.85 | 25.5  |   25.6  |  4243400 |
+| VPB      | 2026-04-07 00:00:00 |  25.6  |  26.1  | 25.5  |   26.05 | 11428900 |
+| VPB      | 2026-04-08 00:00:00 |  27.2  |  27.75 | 26.65 |   27.6  | 24909900 |
+| VPB      | 2026-04-09 00:00:00 |  27.35 |  27.5  | 27.05 |   27.1  | 11852400 |
+| VPB      | 2026-04-10 00:00:00 |  27.5  |  27.9  | 27.3  |   27.3  | 14448500 |
+| VPB      | 2026-04-13 00:00:00 |  27    |  27.2  | 26.8  |   26.9  | 13557000 |
+| VPB      | 2026-04-14 00:00:00 |  27.3  |  27.75 | 27.1  |   27.35 | 14453500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPB      | 2026-04-07 11:21:55 |   25.5  |      200 | Sell         | 460065357 |
-| VPB      | 2026-04-07 11:21:55 |   25.5  |      400 | Sell         | 460065358 |
-| VPB      | 2026-04-07 11:21:59 |   25.5  |      100 | Sell         | 460065464 |
-| VPB      | 2026-04-07 11:22:08 |   25.55 |      200 | Buy          | 460065671 |
-| VPB      | 2026-04-07 11:22:10 |   25.55 |      100 | Buy          | 460065740 |
-| VPB      | 2026-04-07 11:22:20 |   25.5  |      400 | Sell         | 460065929 |
-| VPB      | 2026-04-07 11:22:20 |   25.5  |      200 | Sell         | 460065936 |
-| VPB      | 2026-04-07 11:22:20 |   25.5  |      100 | Sell         | 460065937 |
-| VPB      | 2026-04-07 11:22:20 |   25.5  |      100 | Sell         | 460065938 |
-| VPB      | 2026-04-07 11:22:20 |   25.5  |      100 | Sell         | 460065939 |
+| VPB      | 2026-04-14 14:24:45 |   27.3  |      500 | Sell         | 463607573 |
+| VPB      | 2026-04-14 14:24:49 |   27.35 |      900 | Buy          | 463607780 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |    22000 | Buy          | 463609083 |
+| VPB      | 2026-04-14 14:25:06 |   27.4  |    14600 | Buy          | 463609091 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |     1100 | Buy          | 463609090 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |     4000 | Buy          | 463609089 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |     2200 | Buy          | 463609082 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |      200 | Buy          | 463609087 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |      500 | Buy          | 463609086 |
+| VPB      | 2026-04-14 14:25:06 |   27.35 |     4400 | Buy          | 463609085 |
 
 <!-- END:DAILY -->
 

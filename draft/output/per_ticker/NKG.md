@@ -1,6 +1,6 @@
 # NKG — NKG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:13  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | NKG |
 | exchange | HOSE |
-| ev | 6064585437550 |
-| ceiling | 14350 |
-| floor | 12550 |
-| ref_price | 13450 |
-| open | 13450 |
-| match_price | 13550 |
-| close_price | 13550 |
-| price_change | 100 |
-| price_change_pct | 0.00743494 |
-| high | 13650 |
-| low | 13400 |
-| total_volume | 2068198 |
+| ev | 6310749422100 |
+| ceiling | 15200 |
+| floor | 13300 |
+| ref_price | 14250 |
+| open | 14000 |
+| match_price | 14100 |
+| close_price | 14100 |
+| price_change | -150 |
+| price_change_pct | -0.01052632 |
+| high | 14400 |
+| low | 14000 |
+| total_volume | 3462019 |
 | high_price_1y | 20400 |
 | low_price_1y | 11050 |
-| pct_low_change_1y | 0.1991150442 |
-| pct_high_change_1y | -0.3190954774 |
-| foreign_volume | 77600 |
+| pct_low_change_1y | 0.2477876106 |
+| pct_high_change_1y | -0.2914572864 |
+| foreign_volume | 9522 |
 | foreign_room | 223785440 |
-| avg_match_volume_2w | 3392907 |
-| foreign_holding_room | 22993747 |
-| current_holding_ratio | 0.051374537478008984 |
+| avg_match_volume_2w | 3920423 |
+| foreign_holding_room | 23771699 |
+| current_holding_ratio | 0.05311270238780346 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.4 |
-| EMA20 | 13.82 |
-| EMA50 | 14.38 |
-| RSI(14) | 39.5 |
+| Giá đóng cửa | 15.05 |
+| EMA20 | 14.06 |
+| EMA50 | 14.39 |
+| RSI(14) | 62.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.289 |
-| MACD Signal | -0.328 |
-| MACD Histogram | 0.039 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.009 |
+| MACD Signal | -0.166 |
+| MACD Histogram | 0.175 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 77600 |
+| KL khớp NN hôm nay | 9522 |
 | Room NN còn lại | 223785440 |
-| Tỷ lệ sở hữu NN hiện tại | 0.051374537478008984 |
+| Tỷ lệ sở hữu NN hiện tại | 0.05311270238780346 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | NKG      |                 9522 |      223785440 |               0.0531127 |
 | 2026-04-06 | NKG      |                46300 |      223785440 |               0.0516109 |
 | 2026-04-03 | NKG      |                40502 |      223785440 |               0.0512166 |
 
@@ -83,8 +84,8 @@
 | roe | 0.0292209942 |
 | roic | 0.0158834332 |
 | roa | 0.0131357943 |
-| pe | 30.7656006964 |
-| pb | 0.7958335647 |
+| pe | 32.0143889166 |
+| pb | 0.8281367721 |
 | eps | 440.4269604125564 |
 | current_ratio | 1.4772123809 |
 | cash_ratio | 0.1277136923 |
@@ -94,12 +95,12 @@
 | fae | 0.23636280115594893 |
 | net_profit_margin | 0.013311747181003223 |
 | gross_margin | 0.05302308876023222 |
-| ev | 6064585437550 |
+| ev | 6310749422100 |
 | issue_share | 447570881 |
-| ps | 0.4095438983 |
-| pcf | 4.5703522986 |
+| ps | 0.4261674514 |
+| pcf | 4.7558647536 |
 | bvps | 17026.1730616429 |
-| ev_per_ebitda | 20.4098194604 |
+| ev_per_ebitda | 20.8252854606 |
 | at | 0.9867821361 |
 | fat | 7.7406603483 |
 | acp | 29.44239843913578 |
@@ -122,6 +123,8 @@
 
 | news_title                                                                                                |   public_date | news_source_link                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NKG: Con trai Chủ tịch HĐQT đăng ký mua 5 triệu cổ phiếu                                                  | 1776098460000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ho-minh-phat/2452… |
+| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                             | 1775754901000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt/2451791                                          |
 | NKG: Dự thảo tài liệu ĐHĐCĐ thường niên năm 2026                                                          | 1775469984000 | https://www.hsx.vn/vi/tin-tuc/nkg-du-thao-tai-lieu-dhdcd-thuong-nien-nam-2026/2450610                                     |
 | Thép Nam Kim (NKG) muốn chào bán hơn 124,58 triệu cổ phiếu với giá 12.000 đồng/cổ phiếu                   | 1775400540000 | https://www.tinnhanhchungkhoan.vn/thep-nam-kim-nkg-muon-chao-ban-hon-12458-trieu-co-phieu-voi-gia-12000-dongco-phieu-pos… |
 | NKG: Giải trình biến động KQKD BCTC hợp nhất và riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước     | 1774516023000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-kqkd-bctc-hop-nhat-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky… |
@@ -130,8 +133,6 @@
 | NKG: Nghị quyết HĐQT về ngày chốt danh sách cổ đông để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1772030188000 | https://www.hsx.vn/vi/tin-tuc/nkg-nghi-quyet-hdqt-ve-ngay-chot-danh-sach-co-dong-de-thuc-hien-quyen-tham-du-dhdcd-thuong… |
 | NKG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Hồ Minh Phát              | 1771953256000 | https://www.hsx.vn/vi/tin-tuc/nkg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-ho-minh-pha… |
 | NKG: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước                              | 1770025553000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2435967          |
-| NKG: Báo cáo tình hình quản trị công ty năm 2025                                                          | 1770025272000 | https://www.hsx.vn/vi/tin-tuc/nkg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435941                                     |
-| Thép Nam Kim (NKG) lỗ 9,34 tỷ đồng trong quý IV/2025, đánh dấu lỗ trở lại sau 10 quý                      | 1769940720000 | https://www.tinnhanhchungkhoan.vn/thep-nam-kim-nkg-lo-934-ty-dong-trong-quy-iv2025-danh-dau-lo-tro-lai-sau-10-quy-post38… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NKG      | 2026-03-12 00:00:00 |  14.2  |  14.5  | 13.9  |   13.9  |  6087800 |
-| NKG      | 2026-03-13 00:00:00 |  13.8  |  14.25 | 13.6  |   13.9  |  4304500 |
-| NKG      | 2026-03-16 00:00:00 |  13.9  |  14.2  | 13.9  |   14    |  2238900 |
-| NKG      | 2026-03-17 00:00:00 |  14.25 |  14.3  | 14.05 |   14.05 |  3235200 |
 | NKG      | 2026-03-18 00:00:00 |  14    |  14.3  | 13.8  |   13.85 |  3811100 |
 | NKG      | 2026-03-19 00:00:00 |  13.65 |  13.95 | 13.55 |   13.7  |  4378400 |
 | NKG      | 2026-03-20 00:00:00 |  13.7  |  13.8  | 13.55 |   13.75 |  3231500 |
@@ -175,22 +172,27 @@
 | NKG      | 2026-04-02 00:00:00 |  13.8  |  14.2  | 13.7  |   13.8  |  5846600 |
 | NKG      | 2026-04-03 00:00:00 |  14    |  14    | 13.6  |   13.6  |  2199600 |
 | NKG      | 2026-04-06 00:00:00 |  13.5  |  13.85 | 13.4  |   13.45 |  2762100 |
-| NKG      | 2026-04-07 00:00:00 |  13.45 |  13.65 | 13.4  |   13.4  |  1148400 |
+| NKG      | 2026-04-07 00:00:00 |  13.45 |  13.65 | 13.4  |   13.55 |  2066200 |
+| NKG      | 2026-04-08 00:00:00 |  14.05 |  14.15 | 13.8  |   14.15 |  5511300 |
+| NKG      | 2026-04-09 00:00:00 |  14.05 |  14.65 | 13.9  |   14.4  |  7533600 |
+| NKG      | 2026-04-10 00:00:00 |  14.6  |  14.65 | 14.25 |   14.25 |  3256000 |
+| NKG      | 2026-04-13 00:00:00 |  14    |  14.4  | 14    |   14.1  |  3459100 |
+| NKG      | 2026-04-14 00:00:00 |  14.35 |  15.05 | 14.15 |   15.05 | 13074700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NKG      | 2026-04-07 11:12:51 |   13.45 |      100 | Sell         | 460050974 |
-| NKG      | 2026-04-07 11:12:51 |   13.45 |      900 | Sell         | 460050975 |
-| NKG      | 2026-04-07 11:12:51 |   13.45 |     6900 | Sell         | 460050976 |
-| NKG      | 2026-04-07 11:13:16 |   13.45 |      100 | Sell         | 460051501 |
-| NKG      | 2026-04-07 11:13:16 |   13.45 |      100 | Sell         | 460051502 |
-| NKG      | 2026-04-07 11:15:00 |   13.45 |      100 | Sell         | 460053665 |
-| NKG      | 2026-04-07 11:15:00 |   13.45 |      200 | Sell         | 460053667 |
-| NKG      | 2026-04-07 11:15:00 |   13.45 |      200 | Sell         | 460053668 |
-| NKG      | 2026-04-07 11:15:01 |   13.5  |      500 | Buy          | 460053711 |
-| NKG      | 2026-04-07 11:17:21 |   13.5  |      100 | Buy          | 460056844 |
+| NKG      | 2026-04-14 14:25:38 |   15.05 |      100 | Sell         | 463610972 |
+| NKG      | 2026-04-14 14:25:41 |   15.05 |    10000 | Sell         | 463611200 |
+| NKG      | 2026-04-14 14:25:54 |   15.05 |    19900 | Sell         | 463611997 |
+| NKG      | 2026-04-14 14:25:55 |   15.05 |      300 | Sell         | 463612064 |
+| NKG      | 2026-04-14 14:25:57 |   15.05 |     1500 | Sell         | 463612116 |
+| NKG      | 2026-04-14 14:25:58 |   15.05 |    32900 | Sell         | 463612236 |
+| NKG      | 2026-04-14 14:25:58 |   15.05 |      100 | Sell         | 463612237 |
+| NKG      | 2026-04-14 14:25:58 |   15.05 |     2000 | Sell         | 463612238 |
+| NKG      | 2026-04-14 14:25:58 |   15.05 |     5000 | Sell         | 463612239 |
+| NKG      | 2026-04-14 14:25:58 |   15.05 |     1000 | Sell         | 463612240 |
 
 <!-- END:DAILY -->
 

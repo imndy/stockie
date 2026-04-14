@@ -1,6 +1,6 @@
 # NLG — NLG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:13  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | NLG |
 | exchange | HOSE |
-| ev | 13437197509100 |
-| ceiling | 29600 |
-| floor | 25800 |
-| ref_price | 27700 |
-| open | 27700 |
-| match_price | 27700 |
-| close_price | 27700 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 28250 |
-| low | 27150 |
-| total_volume | 2054785 |
+| ev | 14213353321900 |
+| ceiling | 31200 |
+| floor | 27200 |
+| ref_price | 29200 |
+| open | 29000 |
+| match_price | 29300 |
+| close_price | 29300 |
+| price_change | 100 |
+| price_change_pct | 0.00342466 |
+| high | 29650 |
+| low | 28850 |
+| total_volume | 2408190 |
 | high_price_1y | 45632 |
 | low_price_1y | 23286 |
-| pct_low_change_1y | 0.180406443 |
-| pct_high_change_1y | -0.3568026824 |
-| foreign_volume | 307100 |
+| pct_low_change_1y | 0.2135160465 |
+| pct_high_change_1y | -0.3196504908 |
+| foreign_volume | 606911 |
 | foreign_room | 242548691 |
-| avg_match_volume_2w | 4266636 |
-| foreign_holding_room | 198493084 |
-| current_holding_ratio | 0.4091819312082333 |
+| avg_match_volume_2w | 3724523 |
+| foreign_holding_room | 200440754 |
+| current_holding_ratio | 0.4131969394689561 |
 | max_holding_ratio | 0.5 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.65 |
-| EMA20 | 28.16 |
-| EMA50 | 28.63 |
-| RSI(14) | 47.3 |
+| Giá đóng cửa | 29.15 |
+| EMA20 | 28.6 |
+| EMA50 | 28.75 |
+| RSI(14) | 54.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.17 |
-| MACD Signal | 0.173 |
-| MACD Histogram | -0.003 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.35 |
+| MACD Signal | 0.275 |
+| MACD Histogram | 0.075 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 307100 |
+| KL khớp NN hôm nay | 606911 |
 | Room NN còn lại | 242548691 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4091819312082333 |
+| Tỷ lệ sở hữu NN hiện tại | 0.4131969394689561 |
 | Tỷ lệ sở hữu NN tối đa | 0.5 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | NLG      |               606911 |      242548691 |                0.413197 |
 | 2026-04-06 | NLG      |              1519400 |      242548691 |                0.414624 |
 | 2026-04-03 | NLG      |              1599120 |      242548691 |                0.411478 |
 
@@ -83,8 +84,8 @@
 | roe | 0.0627979965 |
 | roic | 0.0523387007 |
 | roa | 0.0246603091 |
-| pe | 19.158456202 |
-| pb | 1.0612034769 |
+| pe | 20.265081831 |
+| pb | 1.1225004287 |
 | eps | 1445.8367473856274 |
 | current_ratio | 2.9821065402 |
 | cash_ratio | 1.0558531937 |
@@ -94,12 +95,12 @@
 | fae | 0.007267186730686445 |
 | net_profit_margin | 0.1242446174329501 |
 | gross_margin | 0.41758085022005037 |
-| ev | 13437197509100 |
+| ev | 14213353321900 |
 | issue_share | 485097383 |
-| ps | 2.3803350614 |
-| pcf | -15.3983223106 |
+| ps | 2.5178273393 |
+| pcf | -16.2877560903 |
 | bvps | 26102.4399203799 |
-| ev_per_ebitda | 10.877046667 |
+| ev_per_ebitda | 11.5721997629 |
 | at | 0.1984819112 |
 | fat | 45.044339324 |
 | acp | 81.1335368642304 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                              |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| NLG: Quyết định về việc thực hiện giao dịch với bên liên quan                                           | 1775840211000 | https://www.hsx.vn/vi/tin-tuc/nlg-quyet-dinh-ve-viec-thuc-hien-giao-dich-voi-ben-lien-quan/2452081                        |
 | Nam Long (NLG) đặt mục tiêu doanh thu hợp nhất năm 2026 đạt 7.630 tỷ đồng, tăng trưởng 35%              | 1775466360000 | https://www.tinnhanhchungkhoan.vn/nam-long-nlg-dat-muc-tieu-doanh-thu-hop-nhat-nam-2026-dat-7630-ty-dong-tang-truong-35-… |
 | NLG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                | 1775238257000 | https://www.hsx.vn/vi/tin-tuc/nlg-tai-lieu-hop-dhdcd-thuong-nien-2026/2450425                                             |
 | NLG: Báo cáo thường niên năm 2025                                                                       | 1775238217000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-thuong-nien-nam-2025/2450423                                                    |
@@ -131,7 +133,6 @@
 | NLG: Em ruột Thành viên HĐQT đăng ký mua 200.000 cổ phiếu                                               | 1773247440000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-cao-duy-thong/244… |
 | NLG: Quyết định về việc phê duyệt giao dịch với bên liên quan trong Quý 1/2026                          | 1773247404000 | https://www.hsx.vn/vi/tin-tuc/nlg-quyet-dinh-ve-viec-phe-duyet-giao-dich-voi-ben-lien-quan-trong-quy-12026/2443509        |
 | NLG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                             | 1772794908000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442336          |
-| NLG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Chad Ryan Ovel                                 | 1772720654000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-chad-ryan-ovel/2442017              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NLG      | 2026-03-12 00:00:00 |  26.35 |  27.15 | 26.05 |   26.9  |  3474300 |
-| NLG      | 2026-03-13 00:00:00 |  26.8  |  27.5  | 26.4  |   26.4  |  4883400 |
-| NLG      | 2026-03-16 00:00:00 |  26.8  |  28.2  | 26.55 |   28    |  6066500 |
-| NLG      | 2026-03-17 00:00:00 |  28.15 |  28.35 | 27.8  |   27.8  |  3103600 |
 | NLG      | 2026-03-18 00:00:00 |  27.7  |  28.15 | 27    |   27.7  |  2755200 |
 | NLG      | 2026-03-19 00:00:00 |  27.05 |  28.4  | 27    |   28    |  4290900 |
 | NLG      | 2026-03-20 00:00:00 |  28.1  |  28.1  | 27.55 |   27.7  |  2169900 |
@@ -175,22 +172,27 @@
 | NLG      | 2026-04-02 00:00:00 |  29.4  |  29.5  | 28.55 |   29.5  |  4351800 |
 | NLG      | 2026-04-03 00:00:00 |  29.3  |  29.65 | 28.1  |   28.1  |  5106200 |
 | NLG      | 2026-04-06 00:00:00 |  28.1  |  28.65 | 27.6  |   27.7  |  3211100 |
-| NLG      | 2026-04-07 00:00:00 |  27.7  |  28.25 | 27.65 |   27.65 |   622600 |
+| NLG      | 2026-04-07 00:00:00 |  27.7  |  28.25 | 27.15 |   27.7  |  2050800 |
+| NLG      | 2026-04-08 00:00:00 |  28.8  |  29.6  | 28.35 |   29.35 |  4280700 |
+| NLG      | 2026-04-09 00:00:00 |  29.05 |  30.2  | 28.85 |   29.4  |  4602000 |
+| NLG      | 2026-04-10 00:00:00 |  29.8  |  30.1  | 29    |   29.2  |  2488000 |
+| NLG      | 2026-04-13 00:00:00 |  29    |  29.65 | 28.85 |   29.3  |  2405000 |
+| NLG      | 2026-04-14 00:00:00 |  29.7  |  29.7  | 28.8  |   29.15 |  2577100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NLG      | 2026-04-07 11:15:30 |   27.75 |     2000 | Sell         | 460054352 |
-| NLG      | 2026-04-07 11:15:30 |   27.75 |      300 | Sell         | 460054356 |
-| NLG      | 2026-04-07 11:15:30 |   27.75 |     1800 | Sell         | 460054353 |
-| NLG      | 2026-04-07 11:15:30 |   27.75 |     1000 | Sell         | 460054354 |
-| NLG      | 2026-04-07 11:15:30 |   27.75 |      100 | Sell         | 460054355 |
-| NLG      | 2026-04-07 11:18:47 |   27.75 |      100 | Buy          | 460059390 |
-| NLG      | 2026-04-07 11:19:40 |   27.75 |     1000 | Buy          | 460061062 |
-| NLG      | 2026-04-07 11:19:53 |   27.75 |      100 | Buy          | 460061437 |
-| NLG      | 2026-04-07 11:20:36 |   27.7  |      200 | Sell         | 460063164 |
-| NLG      | 2026-04-07 11:20:36 |   27.7  |      100 | Sell         | 460063167 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606460 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606464 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606465 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |     3200 | Sell         | 463606463 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      700 | Sell         | 463606462 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      200 | Sell         | 463606467 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |     1000 | Sell         | 463606470 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606471 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606472 |
+| NLG      | 2026-04-14 14:24:28 |   28.85 |    20000 | Sell         | 463606473 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # LPB — LPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:13  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | LPB |
 | exchange | HOSE |
-| ev | 143389540800000 |
-| ceiling | 49300 |
-| floor | 42900 |
-| ref_price | 46100 |
-| open | 46600 |
-| match_price | 48000 |
-| close_price | 48000 |
-| price_change | 1900 |
-| price_change_pct | 0.04121475 |
-| high | 48550 |
-| low | 46400 |
-| total_volume | 3638780 |
+| ev | 143240176695000 |
+| ceiling | 52700 |
+| floor | 45850 |
+| ref_price | 49300 |
+| open | 49400 |
+| match_price | 47950 |
+| close_price | 47950 |
+| price_change | -1350 |
+| price_change_pct | -0.02738337 |
+| high | 50100 |
+| low | 47850 |
+| total_volume | 3883900 |
 | high_price_1y | 54700 |
-| low_price_1y | 27945 |
-| pct_low_change_1y | 0.6515958545 |
-| pct_high_change_1y | -0.1094619666 |
-| foreign_volume | 1886801 |
+| low_price_1y | 28644 |
+| pct_low_change_1y | 0.6212949227 |
+| pct_high_change_1y | -0.1103896104 |
+| foreign_volume | 239311 |
 | foreign_room | 149364105 |
-| avg_match_volume_2w | 1730223 |
-| foreign_holding_room | 23330105 |
-| current_holding_ratio | 0.007809809793323503 |
+| avg_match_volume_2w | 2093431 |
+| foreign_holding_room | 24738339 |
+| current_holding_ratio | 0.008281219574140655 |
 | max_holding_ratio | 0.05 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.3 |
-| EMA20 | 43.05 |
-| EMA50 | 42.79 |
-| RSI(14) | 75.0 |
-| RSI nhận xét | Quá mua |
+| Giá đóng cửa | 48.0 |
+| EMA20 | 45.05 |
+| EMA50 | 43.75 |
+| RSI(14) | 67.1 |
+| RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.759 |
-| MACD Signal | 0.178 |
-| MACD Histogram | 0.582 |
+| MACD | 1.639 |
+| MACD Signal | 1.036 |
+| MACD Histogram | 0.602 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1886801 |
+| KL khớp NN hôm nay | 239311 |
 | Room NN còn lại | 149364105 |
-| Tỷ lệ sở hữu NN hiện tại | 0.007809809793323503 |
+| Tỷ lệ sở hữu NN hiện tại | 0.008281219574140655 |
 | Tỷ lệ sở hữu NN tối đa | 0.05 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | LPB      |               239311 |      149364105 |              0.00828122 |
 | 2026-04-06 | LPB      |               915840 |      149364105 |              0.00774461 |
 | 2026-04-03 | LPB      |               558801 |      149364105 |              0.00746597 |
 
@@ -83,8 +84,8 @@
 | roe | 0.2523424576 |
 | roic | 0 |
 | roa | 0.0205085305 |
-| pe | 12.5533867157 |
-| pb | 3.0383984701 |
+| pe | 12.5403102712 |
+| pb | 3.0352334717 |
 | eps | 3823.669348134212 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.06908215915953039 |
 | net_profit_margin | 0.7123743399826259 |
 | gross_margin | 0 |
-| ev | 143389540800000 |
+| ev | 143240176695000 |
 | issue_share | 2987282100 |
-| ps | 6.5530652508 |
-| pcf | 2.5495424464 |
+| ps | 6.5462391411 |
+| pcf | 2.5468866731 |
 | bvps | 15797.7962643702 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                                             |   public_date | news_source_link                                                                                                          |
 |:-----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| LPB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                           | 1775639519000 | https://www.hsx.vn/vi/tin-tuc/lpb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2451322                                         |
 | LPB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả cháo bán trái phiếu ra công chúng của LPB               | 1775498860000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-… |
 | LPB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng                                                             | 1775222666000 | https://www.hsx.vn/vi/tin-tuc/lpb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung/2450187                           |
 | LPB: Giải trình BCTC kiểm toán năm 2025                                                                                | 1774964837000 | https://www.hsx.vn/vi/tin-tuc/lpb-giai-trinh-bctc-kiem-toan-nam-2025/2448390                                              |
@@ -131,7 +133,6 @@
 | LPB: Quyết định của NHNNVN về việc sửa đổi địa điểm đặt trụ sở chính tại Giấy phép thành lập và hoạt động              | 1772557460000 | https://www.hsx.vn/vi/tin-tuc/lpb-quyet-dinh-cua-nhnnvn-ve-viec-sua-doi-dia-diem-dat-tru-so-chinh-tai-giay-phep-thanh-la… |
 | LPB: Thông báo nhận được Công văn của NHNN Khu vực 2 về việc thay đổi địa điểm PGD Sài Gòn trực thuộc chi nhánh TP.HCM | 1770989614000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-2-ve-viec-thay-doi-dia-diem-pgd-sai-gon-… |
 | LPB: Điều lệ công ty                                                                                                   | 1770888017000 | https://www.hsx.vn/vi/tin-tuc/lpb-dieu-le-cong-ty/2438577                                                                 |
-| LPB: Nghị quyết HĐQT về việc phê duyệt ban điều hành Điều lệ LPBank                                                    | 1770887953000 | https://www.hsx.vn/vi/tin-tuc/lpb-nghi-quyet-hdqt-ve-viec-phe-duyet-ban-dieu-hanh-dieu-le-lpbank/2438575                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| LPB      | 2026-03-12 00:00:00 |  41.5  |  41.6  | 40.6  |   41.1  |  2167300 |
-| LPB      | 2026-03-13 00:00:00 |  41.1  |  41.8  | 40.9  |   41.5  |  1678600 |
-| LPB      | 2026-03-16 00:00:00 |  41.6  |  42    | 40.9  |   42    |  1219100 |
-| LPB      | 2026-03-17 00:00:00 |  42.3  |  44.1  | 42.2  |   43.35 |  3410600 |
 | LPB      | 2026-03-18 00:00:00 |  43.75 |  44.5  | 43.3  |   43.65 |  2196800 |
 | LPB      | 2026-03-19 00:00:00 |  43.65 |  43.9  | 41.5  |   43.9  |  4447600 |
 | LPB      | 2026-03-20 00:00:00 |  43.9  |  44    | 41.05 |   41.1  |  1920100 |
@@ -175,22 +172,27 @@
 | LPB      | 2026-04-02 00:00:00 |  42.6  |  42.6  | 41.45 |   41.8  |   995000 |
 | LPB      | 2026-04-03 00:00:00 |  41.8  |  43.5  | 41.8  |   43.1  |  2029400 |
 | LPB      | 2026-04-06 00:00:00 |  43.5  |  46.1  | 43.35 |   46.1  |  4021800 |
-| LPB      | 2026-04-07 00:00:00 |  46.6  |  48.55 | 46.4  |   48.3  |  1292800 |
+| LPB      | 2026-04-07 00:00:00 |  46.6  |  48.55 | 46.4  |   48    |  3622800 |
+| LPB      | 2026-04-08 00:00:00 |  49    |  50    | 47.45 |   47.5  |  1739200 |
+| LPB      | 2026-04-09 00:00:00 |  47.6  |  49.4  | 47.25 |   48    |  1644100 |
+| LPB      | 2026-04-10 00:00:00 |  49.35 |  49.85 | 48    |   49.3  |  2186400 |
+| LPB      | 2026-04-13 00:00:00 |  49.4  |  50.1  | 47.85 |   47.95 |  1836000 |
+| LPB      | 2026-04-14 00:00:00 |  48.5  |  49.85 | 48    |   48    |  1889000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| LPB      | 2026-04-07 11:19:44 |   48.4  |      500 | Sell         | 460061188 |
-| LPB      | 2026-04-07 11:19:44 |   48.4  |      500 | Sell         | 460061189 |
-| LPB      | 2026-04-07 11:19:56 |   48.4  |     1000 | Buy          | 460061561 |
-| LPB      | 2026-04-07 11:20:14 |   48.4  |     1000 | Buy          | 460062279 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |      500 | Sell         | 460062754 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |      500 | Sell         | 460062755 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |      500 | Sell         | 460062756 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |      300 | Sell         | 460062757 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |     1000 | Sell         | 460062758 |
-| LPB      | 2026-04-07 11:20:22 |   48.35 |      500 | Sell         | 460062759 |
+| LPB      | 2026-04-14 14:20:20 |    48   |     7800 | Sell         | 463592204 |
+| LPB      | 2026-04-14 14:20:34 |    48.2 |      100 | Buy          | 463592919 |
+| LPB      | 2026-04-14 14:20:34 |    48.2 |      100 | Buy          | 463592920 |
+| LPB      | 2026-04-14 14:20:41 |    48.2 |     1000 | Buy          | 463593333 |
+| LPB      | 2026-04-14 14:21:01 |    48.2 |      200 | Buy          | 463594447 |
+| LPB      | 2026-04-14 14:21:10 |    48.2 |     1000 | Buy          | 463595047 |
+| LPB      | 2026-04-14 14:21:21 |    48.2 |     1000 | Buy          | 463595671 |
+| LPB      | 2026-04-14 14:21:25 |    48.2 |      500 | Buy          | 463595885 |
+| LPB      | 2026-04-14 14:21:28 |    48.2 |      200 | Buy          | 463596026 |
+| LPB      | 2026-04-14 14:21:44 |    48.2 |     1000 | Buy          | 463596976 |
 
 <!-- END:DAILY -->
 

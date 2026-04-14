@@ -1,6 +1,6 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:17  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 14/04/2026 19:51  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VIB |
 | exchange | HOSE |
-| ev | 56846895190000 |
-| ceiling | 17800 |
-| floor | 15500 |
-| ref_price | 16650 |
-| open | 16700 |
-| match_price | 16700 |
-| close_price | 16700 |
-| price_change | 50 |
-| price_change_pct | 0.003003 |
-| high | 16800 |
-| low | 16550 |
-| total_volume | 2728266 |
+| ev | 60421101175000 |
+| ceiling | 18650 |
+| floor | 16250 |
+| ref_price | 17450 |
+| open | 17350 |
+| match_price | 17750 |
+| close_price | 17750 |
+| price_change | 300 |
+| price_change_pct | 0.01719198 |
+| high | 18050 |
+| low | 17300 |
+| total_volume | 21579806 |
 | high_price_1y | 24800 |
-| low_price_1y | 13754 |
-| pct_low_change_1y | 0.1676648875 |
-| pct_high_change_1y | -0.2923728814 |
-| foreign_volume | 161100 |
+| low_price_1y | 14562 |
+| pct_low_change_1y | 0.1686845549 |
+| pct_high_change_1y | -0.2478813559 |
+| foreign_volume | 1542200 |
 | foreign_room | 169859884 |
-| avg_match_volume_2w | 4616010 |
-| foreign_holding_room | 169665884 |
-| current_holding_ratio | 0.04984300804830319 |
+| avg_match_volume_2w | 6906068 |
+| foreign_holding_room | 168816184 |
+| current_holding_ratio | 0.049593390370664216 |
 | max_holding_ratio | 0.0499 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.6 |
-| EMA20 | 16.85 |
-| EMA50 | 17.1 |
-| RSI(14) | 44.8 |
+| Giá đóng cửa | 17.6 |
+| EMA20 | 17.1 |
+| EMA50 | 17.17 |
+| RSI(14) | 58.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.073 |
-| MACD Signal | -0.065 |
-| MACD Histogram | -0.008 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.127 |
+| MACD Signal | 0.025 |
+| MACD Histogram | 0.103 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 161100 |
+| KL khớp NN hôm nay | 1542200 |
 | Room NN còn lại | 169859884 |
-| Tỷ lệ sở hữu NN hiện tại | 0.04984300804830319 |
+| Tỷ lệ sở hữu NN hiện tại | 0.049593390370664216 |
 | Tỷ lệ sở hữu NN tối đa | 0.0499 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VIB      |              1542200 |      169859884 |               0.0495934 |
 | 2026-04-06 | VIB      |               901000 |      169859884 |               0.0499    |
 | 2026-04-03 | VIB      |               280200 |      169859884 |               0.0496642 |
 
@@ -83,8 +84,8 @@
 | roe | 0.1641480978 |
 | roic | 0 |
 | roa | 0.0138868386 |
-| pe | 7.802819489 |
-| pb | 1.2119648548 |
+| pe | 8.293415924 |
+| pb | 1.2881662379 |
 | eps | 2140.2519978153973 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.018054870745576476 |
 | net_profit_margin | 0.4527316407492841 |
 | gross_margin | 0 |
-| ev | 56846895190000 |
+| ev | 60421101175000 |
 | issue_share | 3404005710 |
-| ps | 2.8414012722 |
-| pcf | 4.3946793097 |
+| ps | 3.0200522504 |
+| pcf | 4.6709914818 |
 | bvps | 13779.2774553815 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -120,18 +121,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VIB: Báo cáo thường niên năm 2025                                                                                         | 1774283029000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-thuong-nien-nam-2025/2445973                                                    |
-| VIB: Thông báo về họp ĐHĐCĐ thường niên năm 2026                                                                          | 1773852901000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ve-hop-dhdcd-thuong-nien-nam-2026/2445105                                     |
-| VIB: Giấy phép về việc thành lập và hoạt động của VIB                                                                     | 1771953822000 | https://www.hsx.vn/vi/tin-tuc/vib-giay-phep-ve-viec-thanh-lap-va-hoat-dong-cua-vib/2439899                                |
-| VIB: Nghị quyết HĐQT về việc phê duyệt giao dịch với bên có liên quan                                                     | 1770733631000 | https://www.hsx.vn/vi/tin-tuc/vib-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-voi-ben-co-lien-quan/2438158                |
-| VIB: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769784894000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435268                                     |
-| VIB: Giải trình biến động LNST quý 4/2025 so với cùng kỳ năm trước                                                        | 1769701665000 | https://www.hsx.vn/vi/tin-tuc/vib-giai-trinh-bien-dong-lnst-quy-42025-so-voi-cung-ky-nam-truoc/2434785                    |
-| VIB: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                               | 1769525143000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2433967                          |
-| VIB: Trích lục Nghị quyết HĐQT phê duyệt ngày đăng ký cuối cùng để chốt danh sách cổ đông thực hiện quyền tham dự họp ĐH… | 1769103420000 | https://www.hsx.vn/vi/tin-tuc/vib-trich-luc-nghi-quyet-hdqt-phe-duyet-ngay-dang-ky-cuoi-cung-de-chot-danh-sach-co-dong-t… |
-| Unicap chuyển nhượng 15 triệu cổ phiếu VIB, thu về 268 tỷ đồng                                                            | 1767715380000 | https://vneconomy.vn/unicap-chuyen-nhuong-15-trieu-co-phieu-vib-thu-ve-268-ty-dong.htm                                    |
-| VIB: Báo cáo về thay đổi sở hữu của nhóm cổ đông lớn Công ty Cổ phần Unicap                                               | 1767634500000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-ve-thay-doi-so-huu-cua-nhom-co-dong-lon-cong-ty-co-phan-unicap/2428462          |
+| news_title                                                                                                 |   public_date | news_source_link                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VIB: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đặng Minh Trang, Đặng Thị Thu Hà | 1775833980000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-minh-trang-d… |
+| VIB: Biên bản và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                     | 1775749852000 | https://www.hsx.vn/vi/tin-tuc/vib-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2451723                               |
+| VIB đặt mục tiêu tăng 27% lợi nhuận, trả cổ tức và thưởng cổ phiếu gần 19%                                 | 1775654160000 | https://www.tinnhanhchungkhoan.vn/vib-dat-muc-tieu-tang-27-loi-nhuan-tra-co-tuc-va-thuong-co-phieu-gan-19-post388415.htm… |
+| VIB: Báo cáo thường niên năm 2025                                                                          | 1774283029000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-thuong-nien-nam-2025/2445973                                                    |
+| VIB: Thông báo về họp ĐHĐCĐ thường niên năm 2026                                                           | 1773852901000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ve-hop-dhdcd-thuong-nien-nam-2026/2445105                                     |
+| VIB: Giấy phép về việc thành lập và hoạt động của VIB                                                      | 1771953822000 | https://www.hsx.vn/vi/tin-tuc/vib-giay-phep-ve-viec-thanh-lap-va-hoat-dong-cua-vib/2439899                                |
+| VIB: Nghị quyết HĐQT về việc phê duyệt giao dịch với bên có liên quan                                      | 1770733631000 | https://www.hsx.vn/vi/tin-tuc/vib-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-voi-ben-co-lien-quan/2438158                |
+| VIB: Báo cáo tình hình quản trị công ty năm 2025                                                           | 1769784894000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435268                                     |
+| VIB: Giải trình biến động LNST quý 4/2025 so với cùng kỳ năm trước                                         | 1769701665000 | https://www.hsx.vn/vi/tin-tuc/vib-giai-trinh-bien-dong-lnst-quy-42025-so-voi-cung-ky-nam-truoc/2434785                    |
+| VIB: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                | 1769525143000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2433967                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2026-03-12 00:00:00 |  17    |  17    | 16.6  |   16.65 |  3945300 |
-| VIB      | 2026-03-13 00:00:00 |  16.65 |  17    | 16.55 |   16.9  |  4482400 |
-| VIB      | 2026-03-16 00:00:00 |  16.9  |  17    | 16.75 |   17    |  2941300 |
-| VIB      | 2026-03-17 00:00:00 |  17.1  |  17.25 | 17    |   17    |  8879700 |
 | VIB      | 2026-03-18 00:00:00 |  17.2  |  17.25 | 16.85 |   17.1  |  4526100 |
 | VIB      | 2026-03-19 00:00:00 |  16.95 |  17    | 16.6  |   16.8  |  6027800 |
 | VIB      | 2026-03-20 00:00:00 |  16.75 |  16.9  | 16.7  |   16.8  |  3343200 |
@@ -175,22 +172,27 @@
 | VIB      | 2026-04-02 00:00:00 |  17.15 |  17.15 | 16.85 |   16.9  |  4091500 |
 | VIB      | 2026-04-03 00:00:00 |  16.95 |  17    | 16.65 |   16.65 |  4380800 |
 | VIB      | 2026-04-06 00:00:00 |  16.65 |  16.85 | 16.55 |   16.65 |  3636500 |
-| VIB      | 2026-04-07 00:00:00 |  16.7  |  16.8  | 16.6  |   16.6  |  1128700 |
+| VIB      | 2026-04-07 00:00:00 |  16.7  |  16.8  | 16.55 |   16.7  |  2726400 |
+| VIB      | 2026-04-08 00:00:00 |  17.05 |  17.45 | 16.9  |   17.35 | 11248400 |
+| VIB      | 2026-04-09 00:00:00 |  17.4  |  17.4  | 17.05 |   17.15 |  4937800 |
+| VIB      | 2026-04-10 00:00:00 |  17.25 |  17.55 | 17.2  |   17.45 | 10411800 |
+| VIB      | 2026-04-13 00:00:00 |  17.35 |  18.05 | 17.3  |   17.75 | 17728900 |
+| VIB      | 2026-04-14 00:00:00 |  17.85 |  17.9  | 17.6  |   17.6  |  6829000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      500 | Sell         | 460048171 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |     4400 | Sell         | 460048185 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |     3000 | Sell         | 460048184 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      300 | Sell         | 460048183 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      100 | Sell         | 460048182 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |     1000 | Sell         | 460048181 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |     5000 | Sell         | 460048180 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      500 | Sell         | 460048172 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      200 | Sell         | 460048178 |
-| VIB      | 2026-04-07 11:11:08 |   16.65 |      300 | Sell         | 460048177 |
+| VIB      | 2026-04-14 14:27:48 |   17.65 |      500 | Buy          | 463618761 |
+| VIB      | 2026-04-14 14:27:48 |   17.65 |      100 | Buy          | 463618762 |
+| VIB      | 2026-04-14 14:27:54 |   17.65 |      800 | Buy          | 463619181 |
+| VIB      | 2026-04-14 14:27:54 |   17.65 |      200 | Buy          | 463619180 |
+| VIB      | 2026-04-14 14:27:58 |   17.65 |      100 | Buy          | 463619409 |
+| VIB      | 2026-04-14 14:28:20 |   17.65 |     2000 | Buy          | 463620886 |
+| VIB      | 2026-04-14 14:28:24 |   17.65 |      500 | Buy          | 463621232 |
+| VIB      | 2026-04-14 14:28:24 |   17.65 |     1000 | Buy          | 463621284 |
+| VIB      | 2026-04-14 14:28:26 |   17.6  |      800 | Sell         | 463621453 |
+| VIB      | 2026-04-14 14:28:26 |   17.6  |     5300 | Sell         | 463621449 |
 
 <!-- END:DAILY -->
 

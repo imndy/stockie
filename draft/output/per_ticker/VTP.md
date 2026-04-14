@@ -1,6 +1,6 @@
 # VTP — VTP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:18  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 14/04/2026 19:53  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | VTP |
 | exchange | HOSE |
-| ev | 8792735632400 |
-| ceiling | 74100 |
-| floor | 64500 |
-| ref_price | 69300 |
-| open | 69000 |
-| match_price | 72200 |
-| close_price | 72200 |
-| price_change | 2907 |
-| price_change_pct | 0.04195229 |
-| high | 74100 |
-| low | 69000 |
-| total_volume | 931691 |
+| ev | 12399218664000 |
+| ceiling | 78100 |
+| floor | 67900 |
+| ref_price | 73000 |
+| open | 72900 |
+| match_price | 71700 |
+| close_price | 71700 |
+| price_change | -1300 |
+| price_change_pct | -0.01780822 |
+| high | 73000 |
+| low | 71500 |
+| total_volume | 529470 |
 | high_price_1y | 96731 |
 | low_price_1y | 60761 |
-| pct_low_change_1y | 0.1882708125 |
-| pct_high_change_1y | -0.238547951 |
-| foreign_volume | 14600 |
+| pct_low_change_1y | 0.1800417903 |
+| pct_high_change_1y | -0.2438211647 |
+| foreign_volume | 94500 |
 | foreign_room | 59673690 |
-| avg_match_volume_2w | 701579 |
-| foreign_holding_room | 5784317 |
-| current_holding_ratio | 0.04749690026629488 |
+| avg_match_volume_2w | 579447 |
+| foreign_holding_room | 5770917 |
+| current_holding_ratio | 0.047386868526407805 |
 | max_holding_ratio | 0.49 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 72.5 |
-| EMA20 | 70.14 |
-| EMA50 | 72.68 |
-| RSI(14) | 53.6 |
+| Giá đóng cửa | 72.2 |
+| EMA20 | 71.21 |
+| EMA50 | 72.72 |
+| RSI(14) | 51.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.566 |
-| MACD Signal | -1.484 |
-| MACD Histogram | 0.918 |
+| MACD | 0.252 |
+| MACD Signal | -0.384 |
+| MACD Histogram | 0.636 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 14600 |
+| KL khớp NN hôm nay | 94500 |
 | Room NN còn lại | 59673690 |
-| Tỷ lệ sở hữu NN hiện tại | 0.04749690026629488 |
+| Tỷ lệ sở hữu NN hiện tại | 0.047386868526407805 |
 | Tỷ lệ sở hữu NN tối đa | 0.49 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | VTP      |                94500 |       59673690 |               0.0473869 |
 | 2026-04-06 | VTP      |                32900 |       59673690 |               0.0484381 |
 | 2026-04-03 | VTP      |               113000 |       59673690 |               0.0482106 |
 
@@ -83,8 +84,8 @@
 | roe | 0.2412478668 |
 | roic | 0.138119169 |
 | roa | 0.0583327361 |
-| pe | 21.7161265558 |
-| pb | 4.9726768716 |
+| pe | 21.5657378677 |
+| pb | 4.9382400511 |
 | eps | 3324.7181450435437 |
 | current_ratio | 1.0898895901 |
 | cash_ratio | 0.0671233855 |
@@ -94,12 +95,12 @@
 | fae | 0.6008680475824041 |
 | net_profit_margin | 0.019679831200932783 |
 | gross_margin | 0.055242113949272406 |
-| ev | 8792735632400 |
+| ev | 8731844111400 |
 | issue_share | 121783042 |
-| ps | 0.427369705 |
-| pcf | 11.5431914731 |
+| ps | 0.424410081 |
+| pcf | 11.4632524739 |
 | bvps | 14519.3427734791 |
-| ev_per_ebitda | 14.9371829863 |
+| ev_per_ebitda | 14.8488236734 |
 | at | 2.9640872168 |
 | fat | 22.7667846433 |
 | acp | 33.5856207725608 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| VTP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công đoàn cơ sở Tổng Công ty Cổ phần Bưu chí… | 1775843040000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-doan-co-so… |
 | VTP: Thông báo đơn xin từ nhiệm của Thành viên BKS và thông báo đề cử, ứng cử ứng viên bầu bổ sung Thành viên BKS         | 1775241101000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-va-thong-bao-de-cu-ung-cu-ung-vien-bau-b… |
 | VTP: Thông báo về ngày đăng ký cuối cùng thực hiện quyền mua cổ phiếu do chào bán thêm cổ phiếu ra công chúng cho cổ đôn… | 1774981500000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ve-ngay-dang-ky-cuoi-cung-thuc-hien-quyen-mua-co-phieu-do-chao-ban-them-co-p… |
 | VTP: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                     | 1774981320000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24489… |
@@ -131,7 +133,6 @@
 | VTP: Nghị quyết HĐQT về việc thực hiện chào bán thêm cổ phiếu cho CĐHH                                                    | 1774462200000 | https://www.hsx.vn/vi/tin-tuc/vtp-nghi-quyet-hdqt-ve-viec-thuc-hien-chao-ban-them-co-phieu-cho-cdhh/2446699               |
 | VTP: Thông báo chào bán cổ phiếu ra công chúng                                                                            | 1774462095000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-chao-ban-co-phieu-ra-cong-chung/2446696                                       |
 | VTP: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                     | 1774461960000 | https://www.hsx.vn/vi/tin-tuc/vtp-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24466… |
-| VTP: Bản cáo bạch chào bán thêm cổ phiếu ra công chúng                                                                    | 1774461900000 | https://www.hsx.vn/vi/tin-tuc/vtp-ban-cao-bach-chao-ban-them-co-phieu-ra-cong-chung/2446692                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VTP      | 2026-03-12 00:00:00 |  69.37 |  69.37 | 67.31 |   67.38 |   399466 |
-| VTP      | 2026-03-13 00:00:00 |  66.94 |  66.94 | 65.47 |   65.54 |   722277 |
-| VTP      | 2026-03-16 00:00:00 |  65.54 |  66.2  | 65.03 |   65.47 |   390545 |
-| VTP      | 2026-03-17 00:00:00 |  66.2  |  67.53 | 65.62 |   65.98 |   355278 |
 | VTP      | 2026-03-18 00:00:00 |  66.2  |  67.23 | 65.98 |   66.87 |   299780 |
 | VTP      | 2026-03-19 00:00:00 |  66.2  |  66.28 | 65.25 |   65.76 |   276163 |
 | VTP      | 2026-03-20 00:00:00 |  65.84 |  67.01 | 64.73 |   65.32 |   298954 |
@@ -175,22 +172,27 @@
 | VTP      | 2026-04-02 00:00:00 |  73.56 |  73.56 | 70.62 |   72.31 |   428366 |
 | VTP      | 2026-04-03 00:00:00 |  72.31 |  72.82 | 68.85 |   68.85 |   658600 |
 | VTP      | 2026-04-06 00:00:00 |  68.85 |  70.47 | 68.56 |   69.29 |   601127 |
-| VTP      | 2026-04-07 00:00:00 |  69    |  74.1  | 69    |   72.5  |   716200 |
+| VTP      | 2026-04-07 00:00:00 |  69    |  74.1  | 69    |   72.2  |   931691 |
+| VTP      | 2026-04-08 00:00:00 |  75.5  |  75.5  | 72.5  |   74.8  |   424423 |
+| VTP      | 2026-04-09 00:00:00 |  75.5  |  75.5  | 73.3  |   73.5  |   413812 |
+| VTP      | 2026-04-10 00:00:00 |  74    |  74    | 72.4  |   73    |   359003 |
+| VTP      | 2026-04-13 00:00:00 |  72.9  |  73    | 71.5  |   71.7  |   529470 |
+| VTP      | 2026-04-14 00:00:00 |  72    |  74.5  | 72    |   72.2  |   741600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VTP      | 2026-04-07 11:00:22 |      72 |     1000 | Sell         | 460035033 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      900 | Sell         | 460035043 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      200 | Sell         | 460035042 |
-| VTP      | 2026-04-07 11:00:22 |      72 |     1000 | Sell         | 460035041 |
-| VTP      | 2026-04-07 11:00:22 |      72 |     1000 | Sell         | 460035040 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      100 | Sell         | 460035034 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      500 | Sell         | 460035038 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      500 | Sell         | 460035037 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      200 | Sell         | 460035036 |
-| VTP      | 2026-04-07 11:00:22 |      72 |      200 | Sell         | 460035035 |
+| VTP      | 2026-04-14 14:15:21 |    72.4 |      100 | Buy          | 463571283 |
+| VTP      | 2026-04-14 14:15:33 |    72.4 |      300 | Buy          | 463571940 |
+| VTP      | 2026-04-14 14:15:38 |    72.4 |      200 | Buy          | 463572151 |
+| VTP      | 2026-04-14 14:15:39 |    72.4 |      100 | Buy          | 463572255 |
+| VTP      | 2026-04-14 14:15:44 |    72.4 |      100 | Buy          | 463572563 |
+| VTP      | 2026-04-14 14:15:44 |    72.4 |      100 | Buy          | 463572561 |
+| VTP      | 2026-04-14 14:16:00 |    72.4 |      500 | Buy          | 463573295 |
+| VTP      | 2026-04-14 14:16:01 |    72.4 |      100 | Buy          | 463573334 |
+| VTP      | 2026-04-14 14:16:04 |    72.4 |      100 | Buy          | 463573484 |
+| VTP      | 2026-04-14 14:17:07 |    72.4 |     1500 | Sell         | 463577126 |
 
 <!-- END:DAILY -->
 

@@ -1268,6 +1268,24 @@ def git_push(mode: str) -> None:
                 args, cwd=str(repo_root), capture_output=True, text=True, check=True
             )
 
+        import shutil
+
+        # Xóa stale rebase state nếu còn sót từ lần trước
+        for stale_name in ("rebase-merge", "rebase-apply"):
+            stale = Path(repo_root) / ".git" / stale_name
+            if stale.exists():
+                shutil.rmtree(stale, ignore_errors=True)
+                print(f"  [CLEAN] Removed stale {stale_name}")
+
+        # Đảm bảo đang ở trên branch main (tránh detached HEAD)
+        head = subprocess.run(
+            ["git", "branch", "--show-current"],
+            cwd=str(repo_root), capture_output=True, text=True
+        )
+        if not head.stdout.strip():
+            print("  [FIX] Detached HEAD — switching to main...")
+            _run(["git", "checkout", "main"])
+
         _run(["git", "add", "-A"])
         # Bỏ qua nếu không có gì thay đổi
         status = subprocess.run(
@@ -1278,20 +1296,8 @@ def git_push(mode: str) -> None:
             print("  (không có thay đổi, bỏ qua push)")
             return
         _run(["git", "commit", "-m", commit_msg])
-        # Xóa stale rebase state nếu còn sót từ lần trước
-        import shutil
-        rebase_merge = Path(repo_root) / ".git" / "rebase-merge"
-        rebase_apply = Path(repo_root) / ".git" / "rebase-apply"
-        for stale in (rebase_merge, rebase_apply):
-            if stale.exists():
-                shutil.rmtree(stale, ignore_errors=True)
-                print(f"  [CLEAN] Removed stale {stale.name}")
-        # Pull rebase trước để tránh non-fast-forward
-        try:
-            _run(["git", "pull", "--rebase", "--autostash"])
-        except subprocess.CalledProcessError as e:
-            print(f"  [WARN] git pull rebase thất bại: {e.stderr.strip()}")
-        _run(["git", "push"])
+        # Force-push: tất cả output là auto-generated, local luôn là mới nhất
+        _run(["git", "push", "--force-with-lease", "origin", "main"])
         print("  Push thành công!")
     except subprocess.CalledProcessError as e:
         print(f"  [WARN] Git push thất bại: {e.stderr.strip()}")

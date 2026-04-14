@@ -1,6 +1,6 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:09  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 14/04/2026 07:20  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
@@ -11,59 +11,64 @@
 | --- | --- |
 | symbol | ACB |
 | exchange | HOSE |
-| ev | 119170433096800 |
-| ceiling | 24850 |
-| floor | 21650 |
-| ref_price | 23250 |
-| open | 23250 |
-| match_price | 23200 |
-| close_price | 23200 |
-| price_change | -50 |
-| price_change_pct | -0.00215054 |
-| high | 23400 |
-| low | 23150 |
-| total_volume | 10782007 |
+| ev | 121995594226250 |
+| ceiling | 25500 |
+| floor | 22200 |
+| ref_price | 23850 |
+| open | 23800 |
+| match_price | 23750 |
+| close_price | 23750 |
+| price_change | -100 |
+| price_change_pct | -0.00419287 |
+| high | 24000 |
+| low | 23550 |
+| total_volume | 8098527 |
 | high_price_1y | 29500 |
-| low_price_1y | 17337 |
-| pct_low_change_1y | 0.2737524638 |
-| pct_high_change_1y | -0.2122241087 |
-| foreign_volume | 3914600 |
+| low_price_1y | 18924 |
+| pct_low_change_1y | 0.189376241 |
+| pct_high_change_1y | -0.1935483871 |
+| foreign_volume | 1914094 |
 | foreign_room | 1540996979 |
-| avg_match_volume_2w | 9604712 |
-| foreign_holding_room | 1413164984 |
-| current_holding_ratio | 0.2751137742544662 |
+| avg_match_volume_2w | 10135918 |
+| foreign_holding_room | 1412410506 |
+| current_holding_ratio | 0.2749668931099982 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.8 |
-| EMA20 | 23.51 |
-| EMA50 | 23.69 |
-| RSI(14) | 53.5 |
+| Giá đóng cửa | 23.75 |
+| EMA20 | 23.61 |
+| EMA50 | 23.71 |
+| RSI(14) | 52.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | -0.021 |
-| MACD Signal | -0.048 |
-| MACD Histogram | 0.027 |
+| MACD | 0.05 |
+| MACD Signal | -0.001 |
+| MACD Histogram | 0.052 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 3914600 |
+| KL khớp NN hôm nay | 1914094 |
 | Room NN còn lại | 1540996979 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2751137742544662 |
+| Tỷ lệ sở hữu NN hiện tại | 0.2749668931099982 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | ACB      |              1914094 |     1540996979 |                0.274967 |
+| 2026-04-13 | ACB      |               320300 |     1540996979 |                0.274967 |
+| 2026-04-12 | ACB      |               320300 |     1540996979 |                0.274967 |
+| 2026-04-10 | ACB      |               693000 |     1540996979 |                0.274967 |
+| 2026-04-09 | ACB      |              5180420 |     1540996979 |                0.275551 |
 | 2026-04-06 | ACB      |              2184898 |     1540996979 |                0.275202 |
 | 2026-04-03 | ACB      |              3000700 |     1540996979 |                0.275115 |
 
@@ -83,8 +88,8 @@
 | roe | 0.1755767655 |
 | roic | 0 |
 | roa | 0.0165353343 |
-| pe | 7.6270546473 |
-| pb | 1.2607996975 |
+| pe | 7.8581616462 |
+| pb | 1.2906893455 |
 | eps | 3041.803300613866 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +99,10 @@
 | fae | 0.057538787223859605 |
 | net_profit_margin | 0.580720884556225 |
 | gross_margin | 0 |
-| ev | 119170433120000 |
+| ev | 121995594250000 |
 | issue_share | 5136656599 |
-| ps | 3.5259733019 |
-| pcf | 4.2318934645 |
+| ps | 3.6095631863 |
+| pcf | 4.3322185251 |
 | bvps | 18401.0196437893 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -105,7 +110,7 @@
 | acp | None |
 | dso | 0 |
 | dpo | 0 |
-| eps_ttm | 3041.8033006139 |
+| eps_ttm | 3022.33538446 |
 | charter_capital | 51366565990000 |
 | rtq4 | 0 |
 | charter_capital_ratio | 1.8401019647371604 |
@@ -120,18 +125,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                     |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                            | 1775559500000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny/2451047                  |
-| ACB: Nghị quyết HĐQT số 1313, 1314 ngày 02/04/2026                                             | 1775239167000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-1313-1314-ngay-02042026/2450447                                      |
-| ACB: Nghị quyết HĐQT về việc bổ sung tài liệu ĐHĐCĐTN 2026                                     | 1774029843000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-sung-tai-lieu-dhdcdtn-2026/2445766                           |
-| ACB: Báo cáo thường niên năm 2025                                                              | 1774028907000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-thuong-nien-nam-2025/2445759                                                    |
-| ACB: Nghị quyết HĐQT số 845, 846, 847 ngày 16/03/2026                                          | 1773768995000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-845-846-847-ngay-16032026/2444859                                    |
-| ACB đặt mục tiêu lợi nhuận 2026 ở mức 22.274 tỷ đồng, tăng vốn lên hơn 58.000 tỷ đồng          | 1773658320000 | https://www.tinnhanhchungkhoan.vn/acb-dat-muc-tieu-loi-nhuan-2026-o-muc-22274-ty-dong-tang-von-len-hon-58000-ty-dong-pos… |
-| ACB: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                              | 1773412616000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2444107                                    |
-| ACB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                    | 1770918123000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2438916          |
-| ACB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đặng Thu Hà    | 1770918074000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dang-thu-ha… |
-| ACB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1770385713000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
+| news_title                                                                            |   public_date | news_source_link                                                                                                          |
+|:--------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| ACB: Nghị quyết HĐQT về việc bổ nhiệm lại chức vụ Kế toán trưởng                      | 1775840394000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-nhiem-lai-chuc-vu-ke-toan-truong/2452112                     |
+| ACB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                            | 1775840311000 | https://www.hsx.vn/vi/tin-tuc/acb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2452107                           |
+| ĐHCĐ ACB: Chia cổ tức 20%, lợi nhuận quý I/2026 đạt 5.400 tỷ đồng, chưa IPO ACBS      | 1775741880000 | https://www.tinnhanhchungkhoan.vn/dhcd-acb-chia-co-tuc-20-loi-nhuan-quy-i2026-dat-5400-ty-dong-chua-ipo-acbs-post388495.… |
+| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                   | 1775559500000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny/2451047                  |
+| ACB: Nghị quyết HĐQT số 1313, 1314 ngày 02/04/2026                                    | 1775239167000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-1313-1314-ngay-02042026/2450447                                      |
+| ACB: Nghị quyết HĐQT về việc bổ sung tài liệu ĐHĐCĐTN 2026                            | 1774029843000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-sung-tai-lieu-dhdcdtn-2026/2445766                           |
+| ACB: Báo cáo thường niên năm 2025                                                     | 1774028907000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-thuong-nien-nam-2025/2445759                                                    |
+| ACB: Nghị quyết HĐQT số 845, 846, 847 ngày 16/03/2026                                 | 1773768995000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-845-846-847-ngay-16032026/2444859                                    |
+| ACB đặt mục tiêu lợi nhuận 2026 ở mức 22.274 tỷ đồng, tăng vốn lên hơn 58.000 tỷ đồng | 1773658320000 | https://www.tinnhanhchungkhoan.vn/acb-dat-muc-tieu-loi-nhuan-2026-o-muc-22274-ty-dong-tang-von-len-hon-58000-ty-dong-pos… |
+| ACB: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                     | 1773412616000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2444107                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -157,9 +162,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ACB      | 2026-03-12 00:00:00 |  23    |  23.25 | 22.6  |   23.15 | 15668600 |
-| ACB      | 2026-03-13 00:00:00 |  22.95 |  23.45 | 22.8  |   23.45 | 15525700 |
-| ACB      | 2026-03-16 00:00:00 |  23.4  |  23.45 | 23.25 |   23.45 |  9534100 |
 | ACB      | 2026-03-17 00:00:00 |  23.5  |  23.85 | 23.5  |   23.75 |  9847800 |
 | ACB      | 2026-03-18 00:00:00 |  23.75 |  23.9  | 23.55 |   23.75 | 10506600 |
 | ACB      | 2026-03-19 00:00:00 |  23.5  |  23.8  | 23.25 |   23.6  | 16614600 |
@@ -176,22 +178,14 @@
 | ACB      | 2026-04-03 00:00:00 |  23.6  |  23.7  | 23.25 |   23.5  | 11386300 |
 | ACB      | 2026-04-06 00:00:00 |  23.5  |  23.5  | 23.2  |   23.25 |  5554000 |
 | ACB      | 2026-04-07 00:00:00 |  23.25 |  23.4  | 23.15 |   23.2  | 10472700 |
-| ACB      | 2026-04-08 00:00:00 |  23.7  |  23.95 | 23.55 |   23.8  |  6152900 |
+| ACB      | 2026-04-08 00:00:00 |  23.7  |  24.15 | 23.55 |   24.1  | 19727300 |
+| ACB      | 2026-04-09 00:00:00 |  24.05 |  24.05 | 23.75 |   23.85 |  5141500 |
+| ACB      | 2026-04-10 00:00:00 |  24.1  |  24.2  | 23.85 |   23.85 |  8136300 |
+| ACB      | 2026-04-13 00:00:00 |  23.8  |  24    | 23.55 |   23.75 |  8083900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ACB      | 2026-04-08 11:24:22 |   23.8  |     4400 | Buy          | 460749203 |
-| ACB      | 2026-04-08 11:24:30 |   23.75 |      900 | Sell         | 460749420 |
-| ACB      | 2026-04-08 11:24:39 |   23.8  |      200 | Buy          | 460749679 |
-| ACB      | 2026-04-08 11:24:42 |   23.75 |      800 | Sell         | 460749782 |
-| ACB      | 2026-04-08 11:24:53 |   23.75 |      800 | Sell         | 460750130 |
-| ACB      | 2026-04-08 11:24:59 |   23.8  |    34000 | Buy          | 460750287 |
-| ACB      | 2026-04-08 11:25:03 |   23.75 |      800 | Sell         | 460750365 |
-| ACB      | 2026-04-08 11:25:08 |   23.75 |      100 | Sell         | 460750495 |
-| ACB      | 2026-04-08 11:25:10 |   23.75 |      200 | Sell         | 460750536 |
-| ACB      | 2026-04-08 11:25:13 |   23.75 |      800 | Sell         | 460750620 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

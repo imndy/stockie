@@ -1,6 +1,6 @@
 # STB — STB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:16  |  🗂 Quarterly: 05/04/2026 12:22
+> 📅 Daily: 14/04/2026 19:47  |  🗂 Quarterly: 05/04/2026 12:22
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | STB |
 | exchange | HOSE |
-| ev | 116317809677200 |
-| ceiling | 65400 |
-| floor | 57000 |
-| ref_price | 61200 |
-| open | 61500 |
-| match_price | 61700 |
-| close_price | 61700 |
-| price_change | 500 |
-| price_change_pct | 0.00816993 |
-| high | 62000 |
-| low | 61000 |
-| total_volume | 2933538 |
+| ev | 126875017686800 |
+| ceiling | 71500 |
+| floor | 62300 |
+| ref_price | 66900 |
+| open | 66300 |
+| match_price | 67300 |
+| close_price | 67300 |
+| price_change | 400 |
+| price_change_pct | 0.00597907 |
+| high | 68700 |
+| low | 66000 |
+| total_volume | 5235560 |
 | high_price_1y | 70200 |
-| low_price_1y | 32400 |
-| pct_low_change_1y | 0.8640483384 |
-| pct_high_change_1y | -0.0899705015 |
-| foreign_volume | 522107 |
+| low_price_1y | 37100 |
+| pct_low_change_1y | 0.7804232804 |
+| pct_high_change_1y | -0.0073746313 |
+| foreign_volume | 1419055 |
 | foreign_room | 565564714 |
-| avg_match_volume_2w | 5436343 |
-| foreign_holding_room | 235347396 |
-| current_holding_ratio | 0.12483844368715204 |
+| avg_match_volume_2w | 6343678 |
+| foreign_holding_room | 235684635 |
+| current_holding_ratio | 0.12501732984704228 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 61.2 |
-| EMA20 | 62.15 |
-| EMA50 | 61.63 |
-| RSI(14) | 45.9 |
+| Giá đóng cửa | 66.1 |
+| EMA20 | 63.91 |
+| EMA50 | 62.54 |
+| RSI(14) | 58.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.619 |
-| MACD Signal | -0.415 |
-| MACD Histogram | -0.204 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.796 |
+| MACD Signal | 0.189 |
+| MACD Histogram | 0.607 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 522107 |
+| KL khớp NN hôm nay | 1419055 |
 | Room NN còn lại | 565564714 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12483844368715204 |
+| Tỷ lệ sở hữu NN hiện tại | 0.12501732984704228 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | STB      |              1419055 |      565564714 |                0.125017 |
 | 2026-04-06 | STB      |               863900 |      565564714 |                0.125394 |
 | 2026-04-03 | STB      |               976041 |      565564714 |                0.124885 |
 
@@ -83,8 +84,8 @@
 | roe | 0.1034338617 |
 | roic | 0 |
 | roa | 0.007133149 |
-| pe | 19.5850538389 |
-| pb | 1.9429452968 |
+| pe | 21.3626276071 |
+| pb | 2.1192904129 |
 | eps | 3150.361520965479 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.11767159075830147 |
 | net_profit_margin | 0.22260020363846145 |
 | gross_margin | 0 |
-| ev | 116317808690000 |
+| ev | 126875016610000 |
 | issue_share | 1885215716 |
-| ps | 3.6285046461 |
-| pcf | 1.2577889191 |
+| ps | 3.9578340791 |
+| pcf | 1.371948043 |
 | bvps | 31755.9120688418 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -120,18 +121,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| STB: Thông báo triệu tập ĐHĐCĐTN năm tài chính 2025                                               | 1775038023000 | https://www.hsx.vn/vi/tin-tuc/stb-thong-bao-trieu-tap-dhdcdtn-nam-tai-chinh-2025/2449035                                  |
-| STB: Nghị quyết HĐQT về việc thông qua một số tài liệu trình ĐHĐCĐTN năm tài chính 2025           | 1775037970000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thong-qua-mot-so-tai-lieu-trinh-dhdcdtn-nam-tai-chinh-2025/244… |
-| STB: Thông báo thay đổi nhân sự                                                                   | 1774879345000 | https://www.hsx.vn/vi/tin-tuc/stb-thong-bao-thay-doi-nhan-su/2448002                                                      |
-| STB: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 1774635479000 | https://www.hsx.vn/vi/tin-tuc/stb-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244765… |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Hàng Bài       | 1774627800000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-hang-bai/… |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý PGD Phương Mai           | 1774460596000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-pgd-phuong-mai/244… |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi địa điểm Chi nhánh Vĩnh Phúc               | 1773997993000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-dia-diem-chi-nhanh-vinh-phuc/2445494  |
-| STB: Nghị quyết HĐQT về việc thông qua một số tài liệu trình ĐHĐCĐ thường niên năm tài chính 2025 | 1773853595000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thong-qua-mot-so-tai-lieu-trinh-dhdcd-thuong-nien-nam-tai-chin… |
-| Sacombank (STB) muốn đổi trụ sở chính, đổi tên ngân hàng và xin gia hạn tái cơ cấu đến năm 2030   | 1773845160000 | https://www.tinnhanhchungkhoan.vn/sacombank-stb-muon-doi-tru-so-chinh-doi-ten-ngan-hang-va-xin-gia-han-tai-co-cau-den-na… |
-| STB: Thông báo thay đổi nhân sự                                                                   | 1773842142000 | https://www.hsx.vn/vi/tin-tuc/stb-thong-bao-thay-doi-nhan-su/2444969                                                      |
+| news_title                                                                                                         |   public_date | news_source_link                                                                                                          |
+|:-------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý các phòng GD trực thuộc Chi nhánh Đông Đô | 1775583892000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-cac-phong-gd-truc-… |
+| STB: Thông báo triệu tập ĐHĐCĐTN năm tài chính 2025                                                                | 1775038023000 | https://www.hsx.vn/vi/tin-tuc/stb-thong-bao-trieu-tap-dhdcdtn-nam-tai-chinh-2025/2449035                                  |
+| STB: Nghị quyết HĐQT về việc thông qua một số tài liệu trình ĐHĐCĐTN năm tài chính 2025                            | 1775037970000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thong-qua-mot-so-tai-lieu-trinh-dhdcdtn-nam-tai-chinh-2025/244… |
+| STB: Thông báo thay đổi nhân sự                                                                                    | 1774879345000 | https://www.hsx.vn/vi/tin-tuc/stb-thong-bao-thay-doi-nhan-su/2448002                                                      |
+| STB: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                               | 1774635479000 | https://www.hsx.vn/vi/tin-tuc/stb-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244765… |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Hàng Bài                        | 1774627800000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-hang-bai/… |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý PGD Phương Mai                            | 1774460596000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-pgd-phuong-mai/244… |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi địa điểm Chi nhánh Vĩnh Phúc                                | 1773997993000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-dia-diem-chi-nhanh-vinh-phuc/2445494  |
+| STB: Nghị quyết HĐQT về việc thông qua một số tài liệu trình ĐHĐCĐ thường niên năm tài chính 2025                  | 1773853595000 | https://www.hsx.vn/vi/tin-tuc/stb-nghi-quyet-hdqt-ve-viec-thong-qua-mot-so-tai-lieu-trinh-dhdcd-thuong-nien-nam-tai-chin… |
+| Sacombank (STB) muốn đổi trụ sở chính, đổi tên ngân hàng và xin gia hạn tái cơ cấu đến năm 2030                    | 1773845160000 | https://www.tinnhanhchungkhoan.vn/sacombank-stb-muon-doi-tru-so-chinh-doi-ten-ngan-hang-va-xin-gia-han-tai-co-cau-den-na… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -156,10 +157,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| STB      | 2026-03-12 00:00:00 |   65.6 |   67.1 |  65.1 |    65.7 |  6081700 |
-| STB      | 2026-03-13 00:00:00 |   65   |   67   |  64.9 |    65.8 |  6921900 |
-| STB      | 2026-03-16 00:00:00 |   65.7 |   68.9 |  65.6 |    66.6 | 10881400 |
-| STB      | 2026-03-17 00:00:00 |   67   |   69.2 |  67   |    67.6 |  8825000 |
 | STB      | 2026-03-18 00:00:00 |   67.7 |   68.8 |  62.9 |    63.3 | 33645200 |
 | STB      | 2026-03-19 00:00:00 |   63.3 |   64.7 |  62.1 |    63.4 | 11631900 |
 | STB      | 2026-03-20 00:00:00 |   63.1 |   64   |  62.7 |    63.4 |  9388100 |
@@ -174,22 +171,27 @@
 | STB      | 2026-04-02 00:00:00 |   61.6 |   62.1 |  60.7 |    61.1 |  6494800 |
 | STB      | 2026-04-03 00:00:00 |   60.8 |   62.3 |  60.6 |    60.8 |  4610800 |
 | STB      | 2026-04-06 00:00:00 |   60.8 |   62.1 |  59.6 |    61.2 |  4204600 |
-| STB      | 2026-04-07 00:00:00 |   61.5 |   61.8 |  61   |    61.2 |   806900 |
+| STB      | 2026-04-07 00:00:00 |   61.5 |   62   |  61   |    61.7 |  2931800 |
+| STB      | 2026-04-08 00:00:00 |   63.5 |   66   |  63.1 |    66   |  9822700 |
+| STB      | 2026-04-09 00:00:00 |   65.9 |   68.8 |  65.5 |    66.3 | 11522600 |
+| STB      | 2026-04-10 00:00:00 |   66.3 |   68.7 |  66.1 |    66.9 | 10148800 |
+| STB      | 2026-04-13 00:00:00 |   66.3 |   68.7 |  66   |    67.3 |  5230900 |
+| STB      | 2026-04-14 00:00:00 |   67.9 |   68.2 |  66.1 |    66.1 |  4179900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| STB      | 2026-04-07 10:51:06 |    61.4 |      100 | Sell         | 460023437 |
-| STB      | 2026-04-07 10:51:34 |    61.4 |      300 | Sell         | 460024271 |
-| STB      | 2026-04-07 10:51:52 |    61.4 |     1000 | Sell         | 460024630 |
-| STB      | 2026-04-07 10:51:52 |    61.4 |     7700 | Sell         | 460024629 |
-| STB      | 2026-04-07 10:52:10 |    61.4 |     1300 | Buy          | 460025208 |
-| STB      | 2026-04-07 10:52:14 |    61.4 |      300 | Sell         | 460025310 |
-| STB      | 2026-04-07 10:52:18 |    61.4 |      100 | Sell         | 460025423 |
-| STB      | 2026-04-07 10:52:19 |    61.4 |      300 | Sell         | 460025428 |
-| STB      | 2026-04-07 10:52:23 |    61.4 |      100 | Sell         | 460025540 |
-| STB      | 2026-04-07 10:52:32 |    61.4 |      100 | Sell         | 460026187 |
+| STB      | 2026-04-14 14:28:04 |    66.6 |      500 | Sell         | 463619831 |
+| STB      | 2026-04-14 14:28:04 |    66.6 |     1200 | Sell         | 463619832 |
+| STB      | 2026-04-14 14:28:07 |    66.6 |      100 | Buy          | 463619922 |
+| STB      | 2026-04-14 14:28:07 |    66.6 |     1900 | Buy          | 463619921 |
+| STB      | 2026-04-14 14:28:07 |    66.6 |      100 | Buy          | 463619973 |
+| STB      | 2026-04-14 14:28:08 |    66.5 |      200 | Sell         | 463620051 |
+| STB      | 2026-04-14 14:28:08 |    66.5 |     1000 | Sell         | 463620052 |
+| STB      | 2026-04-14 14:28:08 |    66.5 |      300 | Sell         | 463620053 |
+| STB      | 2026-04-14 14:28:11 |    66.5 |     2200 | Sell         | 463620243 |
+| STB      | 2026-04-14 14:28:14 |    66.5 |     2500 | Sell         | 463620449 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # SHB — SHB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 07/04/2026 12:15  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
@@ -11,59 +11,60 @@
 | --- | --- |
 | symbol | SHB |
 | exchange | HOSE |
-| ev | 74280191063400 |
-| ceiling | 15500 |
-| floor | 13500 |
-| ref_price | 14500 |
-| open | 14700 |
-| match_price | 14700 |
-| close_price | 14700 |
-| price_change | 200 |
-| price_change_pct | 0.0137931 |
-| high | 14700 |
-| low | 14450 |
-| total_volume | 58184522 |
+| ev | 68913000000000 |
+| ceiling | 16450 |
+| floor | 14350 |
+| ref_price | 15400 |
+| open | 15200 |
+| match_price | 15000 |
+| close_price | 15000 |
+| price_change | -400 |
+| price_change_pct | -0.02597403 |
+| high | 15250 |
+| low | 14950 |
+| total_volume | 119672406 |
 | high_price_1y | 19170 |
-| low_price_1y | 8908 |
-| pct_low_change_1y | 0.5973773831 |
-| pct_high_change_1y | -0.2170722978 |
-| foreign_volume | 1163671 |
+| low_price_1y | 9833 |
+| pct_low_change_1y | 0.4998527135 |
+| pct_high_change_1y | -0.2010941814 |
+| foreign_volume | 826712 |
 | foreign_room | 1378260007 |
-| avg_match_volume_2w | 72650451 |
-| foreign_holding_room | 148470930 |
-| current_holding_ratio | 0.032317036529622374 |
+| avg_match_volume_2w | 81374258 |
+| foreign_holding_room | 150123055 |
+| current_holding_ratio | 0.03267664755904411 |
 | max_holding_ratio | 0.3 |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.95 |
-| EMA20 | 14.87 |
-| EMA50 | 15.15 |
-| RSI(14) | 50.3 |
+| Giá đóng cửa | 15.1 |
+| EMA20 | 15.01 |
+| EMA50 | 15.18 |
+| RSI(14) | 51.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.086 |
-| MACD Signal | -0.113 |
-| MACD Histogram | 0.027 |
+| MACD | 0.026 |
+| MACD Signal | -0.032 |
+| MACD Histogram | 0.058 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Dòng tiền khối ngoại (snapshot hôm nay)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| KL khớp NN hôm nay | 1163671 |
+| KL khớp NN hôm nay | 826712 |
 | Room NN còn lại | 1378260007 |
-| Tỷ lệ sở hữu NN hiện tại | 0.032317036529622374 |
+| Tỷ lệ sở hữu NN hiện tại | 0.03267664755904411 |
 | Tỷ lệ sở hữu NN tối đa | 0.3 |
 
 ## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
 
 | date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
 |:-----------|:---------|---------------------:|---------------:|------------------------:|
+| 2026-04-14 | SHB      |               826712 |     1378260007 |               0.0326766 |
 | 2026-04-06 | SHB      |              1164151 |     1378260007 |               0.0332844 |
 | 2026-04-03 | SHB      |              1355162 |     1378260007 |               0.0328066 |
 
@@ -83,8 +84,8 @@
 | roe | 0.1895476675 |
 | roic | 0 |
 | roa | 0.0145902915 |
-| pe | 5.6465781153 |
-| pb | 0.9912492325 |
+| pe | 5.7618144034 |
+| pb | 1.0114788086 |
 | eps | 2603.346610944234 |
 | current_ratio | 0 |
 | cash_ratio | 0 |
@@ -94,10 +95,10 @@
 | fae | 0.08129844036493376 |
 | net_profit_margin | 0.591656893768102 |
 | gross_margin | 0 |
-| ev | 67534740000000 |
+| ev | 68913000000000 |
 | issue_share | 4594200024 |
-| ps | 2.3273807274 |
-| pcf | 1.9341054454 |
+| ps | 2.3748782932 |
+| pcf | 1.9735769851 |
 | bvps | 14829.7718862914 |
 | ev_per_ebitda | 0 |
 | at | 0 |
@@ -122,6 +123,7 @@
 
 | news_title                                                                                                           |   public_date | news_source_link                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
+| SHB: Thông báo nhận được Văn bản của UBCKNN về hồ sơ đăng ký chào bán cổ phiếu riêng lẻ                              | 1775756486000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-nhan-duoc-van-ban-cua-ubcknn-ve-ho-so-dang-ky-chao-ban-co-phieu-rieng-le/245… |
 | SHB: Danh sách người lao động được mua cổ phiếu ESOP                                                                 | 1775499183000 | https://www.hsx.vn/vi/tin-tuc/shb-danh-sach-nguoi-lao-dong-duoc-mua-co-phieu-esop/2450889                                 |
 | SHB: Nghị quyết HĐQT về việc thông qua danh sách Nhà đầu tư CK chuyên nghiệp tham gia đợt chào bán cổ phiếu riêng lẻ | 1775240538000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-nha-dau-tu-ck-chuyen-nghiep-tham-gia-dot-c… |
 | SHB: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                            | 1775065636000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/2449503             |
@@ -131,7 +133,6 @@
 | SHB: Thông báo chấm dứt hiệu lực của Giấy ủy quyền thực hiện CBTT                                                    | 1774980860000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-cham-dut-hieu-luc-cua-giay-uy-quyen-thuc-hien-cbtt/2448890                    |
 | SHB: Nghị quyết HĐQT số 12/2026 ngày 23/03/2026                                                                      | 1774462858000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-so-122026-ngay-23032026/2446745                                         |
 | SHB: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                | 1774367700000 | https://www.hsx.vn/vi/tin-tuc/shb-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh/24462… |
-| SHB: Nghị quyết HĐQT về việc thay đổi điều kiện cấp tín dụng đối với khách hàng doanh nghiệp                         | 1774367554000 | https://www.hsx.vn/vi/tin-tuc/shb-nghi-quyet-hdqt-ve-viec-thay-doi-dieu-kien-cap-tin-dung-doi-voi-khach-hang-doanh-nghie… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -148,8 +149,8 @@
 | Niêm yết thêm            | SHB - Niêm yết bổ sung 552,014,917 cổ phiếu                                     | 2023-08-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Niêm yết thêm            | SHB - Niêm yết bổ sung 400,013,397 cổ phiếu                                     | 2022-12-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Phát hành cổ phiếu       | SHB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                                   | 2022-11-10    | 2022-11-24    | 2022-11-23     |    0.15 |       0 |
-| Niêm yết thêm            | SHB - Niêm yết bổ sung 522.389.450 cổ phiếu                                     | 2022-02-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Niêm yết thêm            | SHB - Niêm yết bổ sung 16.765.292 cổ phiếu                                      | 2022-02-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+| Niêm yết thêm            | SHB - Niêm yết bổ sung 522.389.450 cổ phiếu                                     | 2022-02-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Niêm yết thêm            | SHB - Niêm yết bổ sung 202.166.220 cổ phiếu                                     | 2021-12-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
 | Phát hành cổ phiếu       | SHB - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100:28 giá 12.500 đồng/cp   | 2021-11-05    | 2021-11-12    | 2021-11-11     |    0.28 |       0 |
 
@@ -157,10 +158,6 @@
 
 | ticker   | time                |   open |   high |   low |   close |    volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| SHB      | 2026-03-12 00:00:00 |  14.39 |  14.88 | 14.24 |   14.73 |  83319228 |
-| SHB      | 2026-03-13 00:00:00 |  14.44 |  14.73 | 14.39 |   14.73 |  57530008 |
-| SHB      | 2026-03-16 00:00:00 |  14.64 |  15.08 | 14.49 |   14.98 |  84215221 |
-| SHB      | 2026-03-17 00:00:00 |  15.03 |  15.08 | 14.83 |   14.83 |  48633060 |
 | SHB      | 2026-03-18 00:00:00 |  14.83 |  14.98 | 14.69 |   14.88 |  46256550 |
 | SHB      | 2026-03-19 00:00:00 |  14.73 |  14.93 | 14.54 |   14.78 |  65443991 |
 | SHB      | 2026-03-20 00:00:00 |  14.69 |  14.88 | 14.59 |   14.69 |  35699119 |
@@ -175,22 +172,27 @@
 | SHB      | 2026-04-02 00:00:00 |  14.93 |  14.93 | 14.54 |   14.64 | 110154504 |
 | SHB      | 2026-04-03 00:00:00 |  14.85 |  14.9  | 14.4  |   14.9  |  52392092 |
 | SHB      | 2026-04-06 00:00:00 |  14.8  |  14.8  | 14.5  |   14.5  |  35906688 |
-| SHB      | 2026-04-07 00:00:00 |  14.7  |  14.7  | 14.5  |   14.55 |  28479000 |
+| SHB      | 2026-04-07 00:00:00 |  14.7  |  14.7  | 14.45 |   14.7  |  51834522 |
+| SHB      | 2026-04-08 00:00:00 |  15    |  15.35 | 14.85 |   15.3  |  80552213 |
+| SHB      | 2026-04-09 00:00:00 |  15.2  |  15.5  | 15.05 |   15.5  |  85713973 |
+| SHB      | 2026-04-10 00:00:00 |  15.55 |  15.55 | 15.2  |   15.4  | 105630991 |
+| SHB      | 2026-04-13 00:00:00 |  15.2  |  15.25 | 14.95 |   15    | 115222406 |
+| SHB      | 2026-04-14 00:00:00 |  15.1  |  15.15 | 14.8  |   15.1  |  98761800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SHB      | 2026-04-07 11:22:30 |   14.55 |     1200 | Buy          | 460066154 |
-| SHB      | 2026-04-07 11:22:30 |   14.55 |     1200 | Buy          | 460066169 |
-| SHB      | 2026-04-07 11:22:30 |   14.55 |     1200 | Buy          | 460066174 |
-| SHB      | 2026-04-07 11:22:31 |   14.55 |     1200 | Buy          | 460066188 |
-| SHB      | 2026-04-07 11:22:31 |   14.55 |     1200 | Buy          | 460066195 |
-| SHB      | 2026-04-07 11:22:36 |   14.55 |    45000 | Buy          | 460066333 |
-| SHB      | 2026-04-07 11:22:41 |   14.55 |     1200 | Buy          | 460066457 |
-| SHB      | 2026-04-07 11:22:41 |   14.55 |     1200 | Buy          | 460066462 |
-| SHB      | 2026-04-07 11:22:42 |   14.55 |     1200 | Buy          | 460066467 |
-| SHB      | 2026-04-07 11:22:42 |   14.55 |     1200 | Buy          | 460066479 |
+| SHB      | 2026-04-14 14:29:27 |   15.1  |    10000 | Sell         | 463625895 |
+| SHB      | 2026-04-14 14:29:28 |   15.15 |      100 | Buy          | 463625938 |
+| SHB      | 2026-04-14 14:29:28 |   15.15 |      500 | Buy          | 463625936 |
+| SHB      | 2026-04-14 14:29:28 |   15.15 |      400 | Buy          | 463625937 |
+| SHB      | 2026-04-14 14:29:30 |   15.1  |      300 | Sell         | 463626031 |
+| SHB      | 2026-04-14 14:29:30 |   15.15 |      100 | Buy          | 463626067 |
+| SHB      | 2026-04-14 14:29:30 |   15.15 |      400 | Buy          | 463626074 |
+| SHB      | 2026-04-14 14:29:31 |   15.15 |      200 | Buy          | 463626137 |
+| SHB      | 2026-04-14 14:29:31 |   15.1  |     1000 | Sell         | 463626163 |
+| SHB      | 2026-04-14 14:29:34 |   15.15 |     1000 | Buy          | 463626335 |
 
 <!-- END:DAILY -->
 
