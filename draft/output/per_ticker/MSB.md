@@ -1,162 +1,47 @@
 # MSB — MSB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 19/04/2026 15:34  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MSB |
-| exchange | HOSE |
-| ev | 39936000000000 |
-| ceiling | 13600 |
-| floor | 11900 |
-| ref_price | 12750 |
-| open | 12650 |
-| match_price | 12800 |
-| close_price | 12800 |
-| price_change | 50 |
-| price_change_pct | 0.00392157 |
-| high | 12800 |
-| low | 12550 |
-| total_volume | 16214642 |
-| high_price_1y | 15624 |
-| low_price_1y | 8791 |
-| pct_low_change_1y | 0.4157248318 |
-| pct_high_change_1y | -0.1696965176 |
-| foreign_volume | 911900 |
-| foreign_room | 936000000 |
-| avg_match_volume_2w | 11506632 |
-| foreign_holding_room | 898213518 |
-| current_holding_ratio | 0.28788894807692306 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.7 |
-| EMA20 | 11.88 |
-| EMA50 | 11.85 |
-| RSI(14) | 70.3 |
-| RSI nhận xét | Quá mua |
+| Giá đóng cửa | 12.65 |
+| EMA20 | 12.07 |
+| EMA50 | 11.94 |
+| RSI(14) | 67.2 |
+| RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.25 |
-| MACD Signal | 0.069 |
-| MACD Histogram | 0.181 |
+| MACD | 0.302 |
+| MACD Signal | 0.177 |
+| MACD Histogram | 0.125 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 911900 |
-| Room NN còn lại | 936000000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.28788894807692306 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | MSB      |               911900 |      936000000 |                0.287889 |
-| 2026-04-06 | MSB      |                56700 |      936000000 |                0.28734  |
-| 2026-04-03 | MSB      |               241300 |      936000000 |                0.287284 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MSB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774976857900 |
-| revenue | 21601251000000 |
-| revenue_growth | 0.15630607726235982 |
-| net_profit | 5628520000000 |
-| net_profit_growth | 0.01977451440624549 |
-| ebit_margin | 0 |
-| roe | 0.14202027 |
-| roic | 0 |
-| roa | 0.0154667481 |
-| pe | 7.0952932565 |
-| pb | 0.9408647559 |
-| eps | 1804.0128205128206 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 9.604518304149705 |
-| fae | 0.011727237426853632 |
-| net_profit_margin | 0.5141377560928556 |
-| gross_margin | 0 |
-| ev | 39936000000000 |
-| issue_share | 3120000000 |
-| ps | 2.8435342704 |
-| pcf | 3.4152867606 |
-| bvps | 13604.5057692308 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 1804.0128205128 |
-| charter_capital | 31200000000000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.360450576923077 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| MSB: Báo cáo kết quả giao dịch cổ phiếu của cổ đông nhà nước Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam | 1775833260000 | https://www.hsx.vn/vi/tin-tuc/msb-bao-cao-ket-qua-giao-dich-co-phieu-cua-co-dong-nha-nuoc-ngan-hang-thuong-mai-co-phan-h… |
-| MSB: Công ty TNHH MTV -TCT Bảo đảm an toàn Hàng Hải Việt Nam đăng ký bán gần 2,5 triệu cổ phiếu             | 1775833200000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-co-dong-nha-nuoc-cong-ty-tnhh-mtv-tct-bao-dam-an-toan… |
-| MSB: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                           | 1775238064000 | https://www.hsx.vn/vi/tin-tuc/msb-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450380                                    |
-| MSB: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Rox Living      | 1774891020000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
-| MSB: Rox Living đăng ký bán toàn bộ trên 31 triệu cổ phiếu                                                  | 1774625580000 | https://www.hsx.vn/vi/tin-tuc/msb-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-rox-living… |
-| MSB: Nghị quyết HĐQT về việc phê duyệt hạn mức tín dụng cho NLQ của NNB                                     | 1774538300000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-tin-dung-cho-nlq-cua-nnb/2446989              |
-| MSB: Nghị quyết HĐQT về việc phê duyệt hạn mức tín dụng cho NLQ của NNB                                     | 1774373358000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-tin-dung-cho-nlq-cua-nnb/2446425              |
-| MSB: Nghị quyết HĐQT về việc phê duyệt chủ trương giao kết các hợp đồng giao dịch phi tín dụng              | 1773247272000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-giao-ket-cac-hop-dong-giao-dich-phi-tin-d… |
-| MSB: CBTT thay đổi địa điểm đặt trụ sở chi nhánh Huế                                                        | 1773241018000 | https://www.hsx.vn/vi/tin-tuc/msb-cbtt-thay-doi-dia-diem-dat-tru-so-chi-nhanh-hue/2443494                                 |
-| MSB: Nghị quyết HĐQT phê duyệt hạn mức thẻ tín dụng cho người nội bộ                                        | 1772642004000 | https://www.hsx.vn/vi/tin-tuc/msb-nghi-quyet-hdqt-phe-duyet-han-muc-the-tin-dung-cho-nguoi-noi-bo/2441810                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                                                           | public_date   | record_date   | exright_date   |     ratio |   value |
-|:-------------------|:--------------------------------------------------------------------------------------|:--------------|:--------------|:---------------|----------:|--------:|
-| Niêm yết thêm      | MSB - Niêm yết bổ sung 520.000.000 cổ phiếu                                           | 2025-10-10    | 1753-01-01    | 1753-01-01     | 0         |       0 |
-| Phát hành cổ phiếu | MSB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                                         | 2025-08-28    | 2025-09-09    | 2025-09-08     | 0.2       |       0 |
-| Niêm yết thêm      | MSB - Niêm yết bổ sung 600.000.000 cổ phiếu                                           | 2024-10-10    | 1753-01-01    | 1753-01-01     | 0         |       0 |
-| Phát hành cổ phiếu | MSB - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                                         | 2024-08-20    | 2024-08-29    | 2024-08-28     | 0.3       |       0 |
-| Niêm yết thêm      | MSB - Niêm yết bổ sung 14,250,000 cổ phiếu                                            | 2023-01-10    | 1753-01-01    | 1753-01-01     | 0         |       0 |
-| Niêm yết thêm      | MSB - Niêm yết bổ sung 458,250,000 cổ phiếu                                           | 2022-11-25    | 1753-01-01    | 1753-01-01     | 0         |       0 |
-| Phát hành cổ phiếu | MSB - Phát hành cổ phiếu thưởng tỷ lệ 30%                                             | 2022-09-27    | 2022-10-11    | 2022-10-10     | 0.3       |       0 |
-| Niêm yết thêm      | MSB - Niêm yết bổ sung 352.500.000 cổ phiếu                                           | 2021-12-01    | 1753-01-01    | 1753-01-01     | 0         |       0 |
-| Phát hành cổ phiếu | MSB - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:30                                      | 2021-09-21    | 2021-10-08    | 2021-10-07     | 0.3       |       0 |
-| Phát hành cổ phiếu | MSB - Thực hiện quyền mua cổ phiếu quỹ cho CĐHH tỷ lệ 10.100:775,7 giá 11.500 đồng/cp | 2021-01-22    | 2021-01-29    | 2021-01-28     | 0.0768019 |       0 |
-| Niêm yết mới       | MSB - Chính thức niêm yết trên sàn HOSE                                               | 2020-12-15    | 1753-01-01    | 1753-01-01     | 0         |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSB      | 2026-03-18 00:00:00 |  11.4  |  11.5  | 11.3  |   11.35 |  3005500 |
-| MSB      | 2026-03-19 00:00:00 |  11.2  |  11.3  | 11.15 |   11.2  |  1967400 |
-| MSB      | 2026-03-20 00:00:00 |  11.3  |  11.35 | 11.15 |   11.25 |  3971600 |
 | MSB      | 2026-03-23 00:00:00 |  11.25 |  11.25 | 10.9  |   10.95 |  6750600 |
 | MSB      | 2026-03-24 00:00:00 |  11.2  |  11.3  | 11.1  |   11.25 |  2798300 |
 | MSB      | 2026-03-25 00:00:00 |  11.35 |  11.45 | 11.25 |   11.3  |  4478300 |
@@ -174,21 +59,24 @@
 | MSB      | 2026-04-10 00:00:00 |  12.15 |  12.9  | 12.15 |   12.75 | 34694900 |
 | MSB      | 2026-04-13 00:00:00 |  12.65 |  12.8  | 12.55 |   12.8  | 10942500 |
 | MSB      | 2026-04-14 00:00:00 |  12.9  |  13.1  | 12.65 |   12.7  | 10225400 |
+| MSB      | 2026-04-15 00:00:00 |  12.75 |  12.95 | 12.55 |   12.55 | 13069700 |
+| MSB      | 2026-04-16 00:00:00 |  12.6  |  12.75 | 12.55 |   12.65 | 10953200 |
+| MSB      | 2026-04-17 00:00:00 |  12.7  |  12.75 | 12.6  |   12.65 |  8991300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSB      | 2026-04-14 14:27:02 |    12.7 |     1000 | Sell         | 463616059 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |     3000 | Sell         | 463616014 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |      100 | Sell         | 463616015 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |    20000 | Sell         | 463616016 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |      300 | Sell         | 463616017 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |     1000 | Sell         | 463616018 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |    10000 | Sell         | 463616019 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |      200 | Sell         | 463616020 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |    15000 | Sell         | 463616021 |
-| MSB      | 2026-04-14 14:27:02 |    12.7 |      100 | Sell         | 463616022 |
+| MSB      | 2026-04-17 14:23:37 |   12.65 |      500 | Sell         | 465395858 |
+| MSB      | 2026-04-17 14:23:42 |   12.65 |     1700 | Sell         | 465396047 |
+| MSB      | 2026-04-17 14:23:48 |   12.65 |      800 | Sell         | 465396475 |
+| MSB      | 2026-04-17 14:23:50 |   12.65 |      600 | Sell         | 465396539 |
+| MSB      | 2026-04-17 14:23:50 |   12.65 |    10000 | Sell         | 465396562 |
+| MSB      | 2026-04-17 14:23:52 |   12.65 |     1500 | Sell         | 465396594 |
+| MSB      | 2026-04-17 14:23:54 |   12.65 |      800 | Sell         | 465396723 |
+| MSB      | 2026-04-17 14:23:56 |   12.7  |      700 | Buy          | 465396861 |
+| MSB      | 2026-04-17 14:24:00 |   12.65 |      800 | Sell         | 465397211 |
+| MSB      | 2026-04-17 14:24:06 |   12.65 |      900 | Sell         | 465397556 |
 
 <!-- END:DAILY -->
 

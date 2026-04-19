@@ -1,170 +1,47 @@
 # CTR — CTR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTR |
-| exchange | HOSE |
-| ev | 9745676890800 |
-| ceiling | 91500 |
-| floor | 79700 |
-| ref_price | 85600 |
-| open | 85600 |
-| match_price | 85200 |
-| close_price | 85200 |
-| price_change | -400 |
-| price_change_pct | -0.0046729 |
-| high | 85600 |
-| low | 84900 |
-| total_volume | 142857 |
-| high_price_1y | 113000 |
-| low_price_1y | 75054 |
-| pct_low_change_1y | 0.1177347243 |
-| pct_high_change_1y | -0.2111111111 |
-| foreign_volume | 14500 |
-| foreign_room | 56049080 |
-| avg_match_volume_2w | 274588 |
-| foreign_holding_room | 5882702 |
-| current_holding_ratio | 0.05142856838124223 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 85.2 |
-| EMA20 | 85.09 |
+| Giá đóng cửa | 87.2 |
+| EMA20 | 85.72 |
 | EMA50 | 86.99 |
-| RSI(14) | 49.1 |
+| RSI(14) | 54.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.385 |
-| MACD Signal | -0.897 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.155 |
+| MACD Signal | -0.357 |
 | MACD Histogram | 0.512 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 14500 |
-| Room NN còn lại | 56049080 |
-| Tỷ lệ sở hữu NN hiện tại | 0.05142856838124223 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | CTR      |                14500 |       56049080 |               0.0514286 |
-| 2026-04-13 | CTR      |                  900 |       56049080 |               0.0514058 |
-| 2026-04-12 | CTR      |                  900 |       56049080 |               0.0514058 |
-| 2026-04-10 | CTR      |                 1700 |       56049080 |               0.051405  |
-| 2026-04-06 | CTR      |                11200 |       56049080 |               0.0521874 |
-| 2026-04-03 | CTR      |                83350 |       56049080 |               0.0520982 |
-
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTR |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774029791190 |
-| revenue | 13939517269142 |
-| revenue_growth | 0.10547568467806528 |
-| net_profit | 599717125636 |
-| net_profit_growth | 0.11425776216580147 |
-| ebit_margin | 0.05267940872282437 |
-| roe | 0.3050257352 |
-| roic | 0.1695867421 |
-| roa | 0.0784364194 |
-| pe | 16.2504562138 |
-| pb | 4.7144876236 |
-| eps | 5242.929729429276 |
-| current_ratio | 1.1831166741 |
-| cash_ratio | 0.3045022677 |
-| quick_ratio | 0.7891034218 |
-| interest_coverage | -7.910653791541474 |
-| ae | 3.959771121271521 |
-| fae | 0.06483233495964898 |
-| net_profit_margin | 0.043022804452748 |
-| gross_margin | 0.07044293962436764 |
-| ev | 9745676890800 |
-| issue_share | 114385879 |
-| ps | 0.6991402 |
-| pcf | 6.6961473476 |
-| bvps | 18071.9532647032 |
-| ev_per_ebitda | 9.4607770954 |
-| at | 1.8231359018 |
-| fat | 85.8457999076 |
-| acp | 49.185001060505364 |
-| dso | 14.8963908023 |
-| dpo | 14.7056307569 |
-| eps_ttm | 5242.9297294293 |
-| charter_capital | 1143858790000 |
-| rtq4 | 0.2431294521 |
-| charter_capital_ratio | 1.8071953264703242 |
-| rtq10 | 2.9597711213 |
-| dividend | 0 |
-| ebitda | 1089063913509 |
-| ebit | 734325527620 |
-| le | 1.3378168521 |
-| de | 2.9597711213 |
-| ccc | 78.78702261970537 |
-| rtq17 | 24.5025795069 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                      |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| CTR: Báo cáo thường niên năm 2025                                                                               | 1775755075000 | https://www.hsx.vn/vi/tin-tuc/ctr-bao-cao-thuong-nien-nam-2025/2451795                                                    |
-| Viettel Contruction (CTR) đặt mục tiêu lợi nhuận 2026 tăng 3,8%, muốn lấn sân kinh doanh kim loại, BESS         | 1775489280000 | https://www.tinnhanhchungkhoan.vn/viettel-contruction-ctr-dat-muc-tieu-loi-nhuan-2026-tang-38-muon-lan-san-kinh-doanh-ki… |
-| CTR: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026                                                       | 1775066081000 | https://www.hsx.vn/vi/tin-tuc/ctr-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026/2449475                            |
-| CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                  | 1770714696000 | https://www.hsx.vn/vi/tin-tuc/ctr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| CTR: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                  | 1770142369000 | https://www.hsx.vn/vi/tin-tuc/ctr-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2436979                       |
-| CTR: Báo cáo tình hình quản trị công ty năm 2025                                                                | 1769798733000 | https://www.hsx.vn/vi/tin-tuc/ctr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435643                                     |
-| CTR: Nghị quyết HĐQT về việc phê duyệt kế hoạch SXKD, kế hoạch đầu tư, kế hoạch lao động và tiền lương năm 2026 | 1769178178000 | https://www.hsx.vn/vi/tin-tuc/ctr-nghi-quyet-hdqt-ve-viec-phe-duyet-ke-hoach-sxkd-ke-hoach-dau-tu-ke-hoach-lao-dong-va-t… |
-| CTR: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐ TN 2026                                           | 1769178071000 | https://www.hsx.vn/vi/tin-tuc/ctr-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcd-tn-2026/2433265                |
-| CTR: Thông báo thay đổi nhân sự                                                                                 | 1769178008000 | https://www.hsx.vn/vi/tin-tuc/ctr-thong-bao-thay-doi-nhan-su/2433263                                                      |
-| CTR: Thông báo Quyết định của Chi cục thuế DN lớn về việc xử phạt vi phạm hành chính về thuế                    | 1763564557000 | https://www.hsx.vn/vi/tin-tuc/ctr-thong-bao-quyet-dinh-cua-chi-cuc-thue-dn-lon-ve-viec-xu-phat-vi-pham-hanh-chinh-ve-thu… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm năm 2024 bằng tiền 2150 đồng/cổ phiếu | 2025-09-19    | 2025-10-01    | 2025-09-30     | 0.215   |    2150 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm năm 2023 bằng tiền 2720 đồng/cổ phiếu | 2024-09-24    | 2024-09-30    | 2024-09-27     | 0.272   |    2720 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1919 đồng/cổ phiếu  | 2024-01-10    | 2024-01-19    | 2024-01-18     | 0.1919  |    1919 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-06-22    | 2023-06-30    | 2023-06-29     | 0.1     |    1000 |
-| Niêm yết thêm            | CTR - Niêm yết bổ sung 21,462,006 cổ phiếu                    | 2022-08-03    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-06-10    | 2022-06-20    | 2022-06-17     | 0.1     |    1000 |
-| Phát hành cổ phiếu       | CTR - Phát hành cổ phiếu trả cổ tức tỷ lệ 23,1%               | 2022-06-10    | 2022-06-20    | 2022-06-17     | 0.231   |       0 |
-| Phát hành cổ phiếu       | CTR - Phát hành cổ phiếu thưởng tỷ lệ 29,458%                 | 2021-06-17    | 2021-06-24    | 2021-06-23     | 0.29458 |       0 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm, 2020 bằng tiền 1000 VND/CP           | 2021-06-17    | 2021-06-24    | 2021-06-23     | 0.1     |    1000 |
-| Niêm yết thêm            | CTR - Đăng ký giao dịch bổ sung 1.373.703 cổ phiếu            | 2021-01-05    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm, 2019 bằng tiền 1000 VND/CP           | 2020-07-28    | 2020-08-04    | 2020-08-03     | 0.1     |    1000 |
-| Phát hành cổ phiếu       | CTR- Phát hành cổ phiếu trả cổ tức tỷ lệ 16%                  | 2020-07-28    | 2020-08-04    | 2020-08-03     | 0.16    |       0 |
-| Niêm yết thêm            | CTR - Đăng ký giao dịch bổ sung 8.862.466 cổ phiếu            | 2019-10-28    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | CTR - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP           | 2019-08-27    | 2019-09-09    | 2019-09-06     | 0.1     |    1000 |
-| Phát hành cổ phiếu       | CTR-Phát hành cổ phiếu trả cổ tức tỷ lệ 17,1%                 | 2019-08-27    | 2019-09-09    | 2019-09-06     | 0.171   |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTR      | 2026-03-17 00:00:00 |   82.3 |   83.2 |  82   |    82.7 |   342600 |
-| CTR      | 2026-03-18 00:00:00 |   82.7 |   83.2 |  81.8 |    82.5 |   315400 |
-| CTR      | 2026-03-19 00:00:00 |   81.5 |   82   |  80.4 |    82   |   320900 |
-| CTR      | 2026-03-20 00:00:00 |   81.5 |   82.6 |  80   |    80   |   334400 |
 | CTR      | 2026-03-23 00:00:00 |   79.8 |   79.8 |  75.5 |    78.9 |   584700 |
 | CTR      | 2026-03-24 00:00:00 |   81.7 |   81.7 |  80.2 |    81.2 |   233200 |
 | CTR      | 2026-03-25 00:00:00 |   81.2 |   83.2 |  81.2 |    82.8 |   340400 |
@@ -181,10 +58,25 @@
 | CTR      | 2026-04-09 00:00:00 |   86.8 |   86.8 |  85   |    85.7 |   179300 |
 | CTR      | 2026-04-10 00:00:00 |   86.4 |   86.4 |  85.5 |    85.6 |   190400 |
 | CTR      | 2026-04-13 00:00:00 |   85.6 |   85.6 |  84.9 |    85.2 |   141900 |
+| CTR      | 2026-04-14 00:00:00 |   86   |   87   |  85.5 |    87   |   277600 |
+| CTR      | 2026-04-15 00:00:00 |   87   |   87.5 |  85.9 |    87   |   308400 |
+| CTR      | 2026-04-16 00:00:00 |   86   |   86.8 |  85.2 |    86.8 |   304600 |
+| CTR      | 2026-04-17 00:00:00 |   86.2 |   87.9 |  86.2 |    87.2 |   404000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| CTR      | 2026-04-17 13:52:01 |    86.6 |      100 | Sell         | 465298414 |
+| CTR      | 2026-04-17 13:52:32 |    86.5 |     1300 | Sell         | 465299463 |
+| CTR      | 2026-04-17 13:52:32 |    86.5 |     1000 | Sell         | 465299461 |
+| CTR      | 2026-04-17 13:52:32 |    86.6 |      500 | Sell         | 465299457 |
+| CTR      | 2026-04-17 13:52:32 |    86.5 |      100 | Sell         | 465299459 |
+| CTR      | 2026-04-17 13:52:32 |    86.5 |     1000 | Sell         | 465299460 |
+| CTR      | 2026-04-17 13:52:32 |    86.5 |      200 | Sell         | 465299458 |
+| CTR      | 2026-04-17 13:52:57 |    86.5 |      100 | Sell         | 465300301 |
+| CTR      | 2026-04-17 13:53:56 |    86.5 |      100 | Sell         | 465302803 |
+| CTR      | 2026-04-17 13:54:56 |    86.5 |      100 | Sell         | 465305071 |
 
 <!-- END:DAILY -->
 

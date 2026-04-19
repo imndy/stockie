@@ -1,166 +1,47 @@
 # VIC — VIC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:52  |  🗂 Quarterly: 03/04/2026 09:50
+> 📅 Daily: 19/04/2026 15:39  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIC |
-| exchange | HOSE |
-| ev | 1237358704000000 |
-| ceiling | 162300 |
-| floor | 141100 |
-| ref_price | 151700 |
-| open | 151700 |
-| match_price | 160000 |
-| close_price | 160000 |
-| price_change | 8300 |
-| price_change_pct | 0.05471325 |
-| high | 162000 |
-| low | 149300 |
-| total_volume | 4201784 |
-| high_price_1y | 190000 |
-| low_price_1y | 29000 |
-| pct_low_change_1y | 4.4607508532 |
-| pct_high_change_1y | -0.1061452514 |
-| foreign_volume | 1116451 |
-| foreign_room | 3713436895 |
-| avg_match_volume_2w | 3219843 |
-| foreign_holding_room | 250713247 |
-| current_holding_ratio | 0.03253467916482138 |
-| max_holding_ratio | 0.48017596 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 165.5 |
-| EMA20 | 146.58 |
-| EMA50 | 145.62 |
-| RSI(14) | 67.5 |
-| RSI nhận xét | Bình thường |
+| Giá đóng cửa | 187.9 |
+| EMA20 | 156.57 |
+| EMA50 | 150.06 |
+| RSI(14) | 76.0 |
+| RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 3.149 |
-| MACD Signal | -0.406 |
-| MACD Histogram | 3.554 |
+| MACD | 9.348 |
+| MACD Signal | 3.536 |
+| MACD Histogram | 5.812 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1116451 |
-| Room NN còn lại | 3713436895 |
-| Tỷ lệ sở hữu NN hiện tại | 0.03253467916482138 |
-| Tỷ lệ sở hữu NN tối đa | 0.48017596 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | VIC      |              1116451 |     3713436895 |               0.0325347 |
-| 2026-04-06 | VIC      |              1063672 |     3713436895 |               0.033563  |
-| 2026-04-03 | VIC      |              1244918 |     3713436895 |               0.0334516 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774539195927 |
-| revenue | 331874704000000 |
-| revenue_growth | 0.755109485903104 |
-| net_profit | 11349934000000 |
-| net_profit_growth | -0.04646666377664574 |
-| ebit_margin | 0.0109357511821876 |
-| roe | 0.0796589521 |
-| roic | 0.007452922 |
-| roa | 0.0116098404 |
-| pe | 109.0190219608 |
-| pb | 8.38510115 |
-| eps | 1467.633786491714 |
-| current_ratio | 1.1214015592 |
-| cash_ratio | 0.1278836877 |
-| quick_ratio | 0.5827443346 |
-| interest_coverage | -0.12444876044145256 |
-| ae | 7.384187003493027 |
-| fae | 1.28982452744816 |
-| net_profit_margin | 0.03420328297314119 |
-| gross_margin | 0.15876083117667322 |
-| ev | 1237358704000000 |
-| issue_share | 7706031024 |
-| ps | 3.7288084576 |
-| pcf | 17.8693145714 |
-| bvps | 19081.4633167198 |
-| ev_per_ebitda | 42.4783345621 |
-| at | 0.3394364349 |
-| fat | 1.7541881583 |
-| acp | 36.99527456453098 |
-| dso | 222.627308749 |
-| dpo | 67.2201612318 |
-| eps_ttm | 1467.6337864917 |
-| charter_capital | 77334918960000 |
-| rtq4 | 1.4616205533 |
-| charter_capital_ratio | 1.9588684780073893 |
-| rtq10 | 6.3841870035 |
-| dividend | 0 |
-| ebitda | 35294140000000 |
-| ebit | 3628893000000 |
-| le | 3.6757745110999998 |
-| de | 6.3841870035 |
-| ccc | 326.842744545331 |
-| rtq17 | 1.6395113522 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                            |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl                  | 1776099060000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
-| VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINPEARL                       | 1776074100000 | https://www.hsx.vn/vi/tin-tuc/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinp… |
-| VIC: Thông báo đính chính thông tin                                                                                   | 1775846542000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-dinh-chinh-thong-tin/2452217                                                  |
-| VIC: Nghị quyết HĐQT phê duyệt một số nội dung liên quan đến trái phiếu phát hành ra thị trường quốc tế               | 1775833496000 | https://www.hsx.vn/vi/tin-tuc/vic-nghi-quyet-hdqt-phe-duyet-mot-so-noi-dung-lien-quan-den-trai-phieu-phat-hanh-ra-thi-tr… |
-| VIC: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026, phê duyệt chương trình và tài liệu họp           | 1775150111000 | https://www.hsx.vn/vi/tin-tuc/vic-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-phe-duyet-chuong-trinh-… |
-| VIC: Giải trình chênh lệch lợi nhuận đã kiểm toán năm 2025 so với cùng kỳ năm trước                                   | 1774537315000 | https://www.hsx.vn/vi/tin-tuc/vic-giai-trinh-chenh-lech-loi-nhuan-da-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2446965  |
-| VIC: Nghị quyết HĐQT về việc niêm yết trái phiếu quốc tế và hồ sơ chào bán trái phiếu quốc tế                         | 1773424083000 | https://www.hsx.vn/vi/tin-tuc/vic-nghi-quyet-hdqt-ve-viec-niem-yet-trai-phieu-quoc-te-va-ho-so-chao-ban-trai-phieu-quoc-… |
-| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl                  | 1773237420000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
-| VIC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                        | 1772791524000 | https://www.hsx.vn/vi/tin-tuc/vic-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| VIC: Quyết định về việc chốt danh sách người sở hữu chứng khoán để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1772214396000 | https://www.hsx.vn/vi/tin-tuc/vic-quyet-dinh-ve-viec-chot-danh-sach-nguoi-so-huu-chung-khoan-de-thuc-hien-quyen-tham-du-… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                                                               | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------|:------------------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 3.853.015.512 cổ phiếu                                             | 2025-12-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | VIC - Phát hành cổ phiếu thưởng tỷ lệ 100%                                                | 2025-12-02    | 2025-12-08    | 2025-12-05     |    1    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 29.353.951 cổ phiếu                                                | 2025-09-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 9,726,000 cổ phiếu                                                 | 2024-01-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 8.720.770 cổ phiếu                                                 | 2022-02-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 422.784.201 cổ phiếu                                               | 2021-09-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 13.855.034 cổ phiếu                                                | 2020-02-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 22.640.167 cổ phiếu                                                | 2019-12-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 154.314.159 cổ phiếu                                               | 2019-06-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | VIC - Niêm yết bổ sung 553.913.276 cổ phiếu                                               | 2018-07-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu trả cổ tức tỷ lệ 1000:210                                          | 2018-06-25    | 2018-06-29    | 2018-06-28     |    0.21 |       0 |
-| Niêm yết thêm      | VIC-Niêm yết bổ sung 484.473.162 cổ phiếu                                                 | 2016-10-13    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu thưởng do tăng vốn cổ phần từ nguồn vốn chủ sở hữu tỷ lệ 1.000:225 | 2016-09-09    | 2016-09-16    | 2016-09-15     |  nan    |     nan |
-| Niêm yết thêm      | VIC-Niêm yết bổ sung 213.379.941 cổ phiếu                                                 | 2016-07-26    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu | VIC-Phát hành cổ phiếu trả cổ tức năm 2015 và Q1/2016 tỷ lệ 1.000:110                     | 2016-06-17    | 2016-06-28    | 2016-06-27     |  nan    |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIC      | 2026-03-18 00:00:00 |  148.3 |  156   | 146   |   146   |  4966200 |
-| VIC      | 2026-03-19 00:00:00 |  146.6 |  151   | 145   |   145   |  5611400 |
-| VIC      | 2026-03-20 00:00:00 |  148   |  148   | 135   |   135   | 10346200 |
 | VIC      | 2026-03-23 00:00:00 |  135.6 |  138   | 125.6 |   125.6 |  4671100 |
 | VIC      | 2026-03-24 00:00:00 |  132   |  132.4 | 122.8 |   124   |  3901200 |
 | VIC      | 2026-03-25 00:00:00 |  128   |  132.3 | 126   |   128.7 |  3013400 |
@@ -178,21 +59,24 @@
 | VIC      | 2026-04-10 00:00:00 |  151.6 |  154   | 151.5 |   151.7 |  2195500 |
 | VIC      | 2026-04-13 00:00:00 |  151.7 |  162   | 149.3 |   160   |  4051300 |
 | VIC      | 2026-04-14 00:00:00 |  162   |  165.9 | 161.9 |   165.5 |  3658000 |
+| VIC      | 2026-04-15 00:00:00 |  166.2 |  177   | 166.2 |   177   |  6640600 |
+| VIC      | 2026-04-16 00:00:00 |  180   |  189.3 | 178.9 |   189.3 |  7573800 |
+| VIC      | 2026-04-17 00:00:00 |  194.9 |  200   | 187.5 |   187.9 |  6747900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIC      | 2026-04-14 14:28:32 |   164.8 |      100 | Sell         | 463621940 |
-| VIC      | 2026-04-14 14:28:32 |   164.6 |      500 | Sell         | 463621948 |
-| VIC      | 2026-04-14 14:28:32 |   164.6 |      100 | Sell         | 463621949 |
-| VIC      | 2026-04-14 14:28:32 |   164.6 |     1100 | Sell         | 463621951 |
-| VIC      | 2026-04-14 14:28:32 |   164.6 |      900 | Sell         | 463621947 |
-| VIC      | 2026-04-14 14:28:32 |   164.6 |      100 | Sell         | 463621950 |
-| VIC      | 2026-04-14 14:28:32 |   164.7 |      200 | Sell         | 463621946 |
-| VIC      | 2026-04-14 14:28:32 |   164.5 |      100 | Sell         | 463621952 |
-| VIC      | 2026-04-14 14:28:32 |   164.5 |      200 | Sell         | 463621953 |
-| VIC      | 2026-04-14 14:28:32 |   164.5 |      300 | Sell         | 463621954 |
+| VIC      | 2026-04-17 14:28:53 |   190   |      100 | Buy          | 465417357 |
+| VIC      | 2026-04-17 14:28:53 |   190.2 |      200 | Buy          | 465417358 |
+| VIC      | 2026-04-17 14:28:54 |   189.3 |      200 | Buy          | 465417392 |
+| VIC      | 2026-04-17 14:28:54 |   189.3 |      300 | Sell         | 465417391 |
+| VIC      | 2026-04-17 14:28:54 |   189.3 |     2000 | Sell         | 465417390 |
+| VIC      | 2026-04-17 14:28:54 |   189.3 |      500 | Sell         | 465417389 |
+| VIC      | 2026-04-17 14:28:54 |   189.5 |     1000 | Sell         | 465417383 |
+| VIC      | 2026-04-17 14:28:54 |   189.3 |     3700 | Sell         | 465417387 |
+| VIC      | 2026-04-17 14:28:54 |   189.4 |      200 | Sell         | 465417386 |
+| VIC      | 2026-04-17 14:28:54 |   189.5 |     4400 | Sell         | 465417385 |
 
 <!-- END:DAILY -->
 

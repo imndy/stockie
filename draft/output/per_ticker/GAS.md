@@ -1,169 +1,47 @@
 # GAS — GAS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:26  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 19/04/2026 15:31  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | GAS |
-| exchange | HOSE |
-| ev | 194725045309200 |
-| ceiling | 86300 |
-| floor | 75100 |
-| ref_price | 80700 |
-| open | 81200 |
-| match_price | 80700 |
-| close_price | 80700 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 82200 |
-| low | 80600 |
-| total_volume | 953937 |
-| high_price_1y | 131500 |
-| low_price_1y | 51113 |
-| pct_low_change_1y | 0.4909999584 |
-| pct_high_change_1y | -0.372960373 |
-| foreign_volume | 261130 |
-| foreign_room | 1182345380 |
-| avg_match_volume_2w | 1616723 |
-| foreign_holding_room | 53560611 |
-| current_holding_ratio | 0.022197151377403152 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 80.7 |
-| EMA20 | 83.61 |
-| EMA50 | 89.5 |
-| RSI(14) | 41.7 |
+| Giá đóng cửa | 80.1 |
+| EMA20 | 82.18 |
+| EMA50 | 87.99 |
+| RSI(14) | 42.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -4.995 |
-| MACD Signal | -5.836 |
-| MACD Histogram | 0.841 |
+| MACD | -3.985 |
+| MACD Signal | -4.938 |
+| MACD Histogram | 0.952 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 261130 |
-| Room NN còn lại | 1182345380 |
-| Tỷ lệ sở hữu NN hiện tại | 0.022197151377403152 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | GAS      |               261130 |     1182345380 |               0.0221972 |
-| 2026-04-13 | GAS      |               888089 |     1182345380 |               0.0222162 |
-| 2026-04-12 | GAS      |               888089 |     1182345380 |               0.0222162 |
-| 2026-04-06 | GAS      |               550800 |     1182345380 |               0.0220895 |
-| 2026-04-03 | GAS      |               314311 |     1182345380 |               0.021966  |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | GAS |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772791783270 |
-| revenue | 135196548909363 |
-| revenue_growth | 0.30494045988937096 |
-| net_profit | 11414339911686 |
-| net_profit_growth | 0.09770472267313364 |
-| ebit_margin | 0.09712578120882573 |
-| roe | 0.1804028909 |
-| roic | 0.1858336325 |
-| roa | 0.130134985 |
-| pe | 17.0596851693 |
-| pb | 2.9372517978 |
-| eps | 4730.450720452548 |
-| current_ratio | 3.3976581634 |
-| cash_ratio | 0.3342355435 |
-| quick_ratio | 1.5436076126 |
-| interest_coverage | -60.74580357959676 |
-| ae | 1.3830526353480521 |
-| fae | 0.23577223871739417 |
-| net_profit_margin | 0.08446991569612103 |
-| gross_margin | 0.1261797717613595 |
-| ev | 194725045309200 |
-| issue_share | 2412949756 |
-| ps | 1.4410301681 |
-| pcf | 14.932629853 |
-| bvps | 27474.6618798319 |
-| ev_per_ebitda | 11.9915588263 |
-| at | 1.5406074925 |
-| fat | 7.9086599798 |
-| acp | 50.83482805011642 |
-| dso | 14.4040988013 |
-| dpo | 27.7619485778 |
-| eps_ttm | 4730.4507204525 |
-| charter_capital | 24129497560000 |
-| rtq4 | 0.0226428106 |
-| charter_capital_ratio | 2.8037628611914207 |
-| rtq10 | 0.3830526353 |
-| dividend | 0 |
-| ebitda | 15912882564527 |
-| ebit | 13124515062781 |
-| le | 0.06656803559999999 |
-| de | 0.3830526353 |
-| ccc | 93.00087542921642 |
-| rtq17 | 25.3400094679 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                          |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| GAS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trịnh Văn Bộ                        | 1776099191000 | https://www.hsx.vn/vi/tin-tuc/gas-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-trinh-van-b… |
-| GAS: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                      | 1774602734000 | https://www.hsx.vn/vi/tin-tuc/gas-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2447196                       |
-| PV GAS (GAS) đặt mục tiêu lãi sau thuế năm 2026 hơn 8.800 tỷ đồng và cổ tức tỷ lệ 20%                               | 1774422900000 | https://www.tinnhanhchungkhoan.vn/pv-gas-gas-dat-muc-tieu-lai-sau-thue-nam-2026-hon-8800-ty-dong-va-co-tuc-ty-le-20-post… |
-| GAS: Báo cáo thường niên năm 2025                                                                                   | 1774368556000 | https://www.hsx.vn/vi/tin-tuc/gas-bao-cao-thuong-nien-nam-2025/2446308                                                    |
-| GAS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                         | 1774287904000 | https://www.hsx.vn/vi/tin-tuc/gas-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2446108          |
-| GAS: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026                                                 | 1774027566000 | https://www.hsx.vn/vi/tin-tuc/gas-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2445702                  |
-| GAS: Nghị quyết HĐQT về việc chấp thuận nội dung chính của Thỏa thuận khung Hợp đồng mua bán khí mỏ Nam Du - U Minh | 1773849758000 | https://www.hsx.vn/vi/tin-tuc/gas-nghi-quyet-hdqt-ve-viec-chap-thuan-noi-dung-chinh-cua-thoa-thuan-khung-hop-dong-mua-ba… |
-| GAS: Nghị quyết HĐQT về việc chấp thuận gia hạn Hợp đồng hợp tác kinh doanh với PV Oil                              | 1773425294000 | https://www.hsx.vn/vi/tin-tuc/gas-nghi-quyet-hdqt-ve-viec-chap-thuan-gia-han-hop-dong-hop-tac-kinh-doanh-voi-pv-oil/2444… |
-| GAS: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Trịnh Văn Bộ                                               | 1773337504000 | https://www.hsx.vn/vi/tin-tuc/gas-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-trinh-van-bo/2443937                |
-| GAS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Trịnh Văn Bộ                        | 1773337500000 | https://www.hsx.vn/vi/tin-tuc/gas-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-trinh-van-b… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | GAS - Niêm yết bổ sung 70.276.837 cổ phiếu                    | 2025-10-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | GAS - Phát hành cổ phiếu thưởng tỷ lệ 3%                      | 2025-08-05    | 2025-08-29    | 2025-08-28     |    0.03 |       0 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Cả năm năm 2024 bằng tiền 2100 đồng/cổ phiếu | 2025-08-05    | 2025-08-29    | 2025-08-28     |    0.21 |    2100 |
-| Niêm yết thêm            | GAS - Niêm yết bổ sung 45.933.072 cổ phiếu                    | 2024-10-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | GAS - Phát hành cổ phiếu thưởng tỷ lệ 2%                      | 2024-08-23    | 2024-09-16    | 2024-09-13     |    0.02 |       0 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Cả năm năm 2023 bằng tiền 6000 đồng/cổ phiếu | 2024-08-23    | 2024-09-16    | 2024-09-13     |    0.6  |    6000 |
-| Niêm yết thêm            | GAS - Niêm yết bổ sung 382,789,847 cổ phiếu                   | 2023-11-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | GAS - Phát hành cổ phiếu thưởng tỷ lệ 20%                     | 2023-09-19    | 2023-09-25    | 2023-09-22     |    0.2  |       0 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Cả năm năm 2022 bằng tiền 3600 đồng/cổ phiếu | 2023-07-28    | 2023-08-30    | 2023-08-29     |    0.36 |    3600 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Cả năm năm 2021 bằng tiền 3000 đồng/cổ phiếu | 2022-06-22    | 2022-07-05    | 2022-07-04     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Cả năm, 2020 bằng tiền 3000 VND/CP           | 2021-06-16    | 2021-06-29    | 2021-06-28     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Đợt 2, 2019 bằng tiền 3500 VND/CP            | 2020-07-08    | 2020-07-15    | 2020-07-14     |    0.35 |    3500 |
-| Trả cổ tức bằng tiền mặt | GAS-Trả cổ tức Đợt 1 năm 2019 bằng tiền 1000 đồng/cp          | 2019-08-19    | 2019-08-30    | 2019-08-29     |    0.1  |    1000 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Đợt 2, 2018 bằng tiền 2000 VND/CP            | 2019-02-28    | 2019-03-18    | 2019-03-15     |    0.2  |    2000 |
-| Trả cổ tức bằng tiền mặt | GAS - Trả cổ tức Đợt 1, 2018 bằng tiền 2000 VND/CP            | 2018-08-13    | 2018-08-28    | 2018-08-27     |    0.2  |    2000 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GAS      | 2026-03-17 00:00:00 |   89   |   90.4 |  86   |    86.4 |  1712800 |
-| GAS      | 2026-03-18 00:00:00 |   86.4 |   92.4 |  86.4 |    91.7 |  2627100 |
-| GAS      | 2026-03-19 00:00:00 |   92.3 |   92.4 |  87.4 |    88.1 |  2140100 |
-| GAS      | 2026-03-20 00:00:00 |   88.1 |   88.8 |  82   |    82   |  3150400 |
 | GAS      | 2026-03-23 00:00:00 |   78.5 |   83.6 |  78.5 |    80.5 |  2980000 |
 | GAS      | 2026-03-24 00:00:00 |   82   |   82.7 |  78.8 |    80.7 |  1892400 |
 | GAS      | 2026-03-25 00:00:00 |   82   |   84.7 |  81.2 |    82.5 |  2006800 |
@@ -180,10 +58,25 @@
 | GAS      | 2026-04-09 00:00:00 |   79.9 |   79.9 |  78.1 |    78.4 |  1051600 |
 | GAS      | 2026-04-10 00:00:00 |   78.6 |   82.4 |  78.2 |    80.7 |  2856700 |
 | GAS      | 2026-04-13 00:00:00 |   81.2 |   82.2 |  80.6 |    80.7 |   948300 |
+| GAS      | 2026-04-14 00:00:00 |   81   |   81.6 |  79.1 |    79.3 |  1205900 |
+| GAS      | 2026-04-15 00:00:00 |   79.8 |   80.5 |  79.1 |    79.2 |  1038400 |
+| GAS      | 2026-04-16 00:00:00 |   79.2 |   80.2 |  78.1 |    78.4 |  1169300 |
+| GAS      | 2026-04-17 00:00:00 |   78.6 |   80.4 |  78.1 |    80.1 |  1249000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| GAS      | 2026-04-17 14:26:49 |    80.2 |      300 | Sell         | 465407645 |
+| GAS      | 2026-04-17 14:26:51 |    80.2 |      100 | Sell         | 465407894 |
+| GAS      | 2026-04-17 14:27:00 |    80.2 |      100 | Sell         | 465408552 |
+| GAS      | 2026-04-17 14:27:04 |    80.2 |     1200 | Sell         | 465408840 |
+| GAS      | 2026-04-17 14:27:04 |    80.2 |      200 | Sell         | 465408869 |
+| GAS      | 2026-04-17 14:27:06 |    80.2 |      200 | Sell         | 465408976 |
+| GAS      | 2026-04-17 14:27:07 |    80.2 |      100 | Sell         | 465409054 |
+| GAS      | 2026-04-17 14:27:08 |    80.2 |      200 | Sell         | 465409082 |
+| GAS      | 2026-04-17 14:27:09 |    80.2 |      100 | Sell         | 465409132 |
+| GAS      | 2026-04-17 14:27:09 |    80.2 |      200 | Sell         | 465409153 |
 
 <!-- END:DAILY -->
 

@@ -1,170 +1,47 @@
 # BID — BID
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:21  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BID |
-| exchange | HOSE |
-| ev | 293750631223500 |
-| ceiling | 43650 |
-| floor | 37950 |
-| ref_price | 40800 |
-| open | 40500 |
-| match_price | 40350 |
-| close_price | 40350 |
-| price_change | -450 |
-| price_change_pct | -0.01102941 |
-| high | 40750 |
-| low | 40250 |
-| total_volume | 5801576 |
-| high_price_1y | 56600 |
-| low_price_1y | 32439 |
-| pct_low_change_1y | 0.1808621318 |
-| pct_high_change_1y | -0.2663636364 |
-| foreign_volume | 1857085 |
-| foreign_room | 2106408575 |
-| avg_match_volume_2w | 8023868 |
-| foreign_holding_room | 1172519140 |
-| current_holding_ratio | 0.1669931209728866 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 40.35 |
-| EMA20 | 40.61 |
-| EMA50 | 42.35 |
-| RSI(14) | 45.9 |
+| Giá đóng cửa | 40.3 |
+| EMA20 | 40.5 |
+| EMA50 | 42.04 |
+| RSI(14) | 45.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.841 |
-| MACD Signal | -1.269 |
-| MACD Histogram | 0.429 |
+| MACD | -0.604 |
+| MACD Signal | -0.914 |
+| MACD Histogram | 0.31 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1857085 |
-| Room NN còn lại | 2106408575 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1669931209728866 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BID      |              1857085 |     2106408575 |                0.166993 |
-| 2026-04-13 | BID      |              2389465 |     2106408575 |                0.167301 |
-| 2026-04-12 | BID      |              2389465 |     2106408575 |                0.167301 |
-| 2026-04-10 | BID      |              2859253 |     2106408575 |                0.167374 |
-| 2026-04-06 | BID      |              2687700 |     2106408575 |                0.168422 |
-| 2026-04-03 | BID      |              2661900 |     2106408575 |                0.168298 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BID |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775034002040 |
-| revenue | 154992934000000 |
-| revenue_growth | 0.12079481483086822 |
-| net_profit | 29904264000000 |
-| net_profit_growth | 0.18950755720844803 |
-| ebit_margin | 0 |
-| roe | 0.1911056105 |
-| roic | 0 |
-| roa | 0.0099908209 |
-| pe | 9.4739650728 |
-| pb | 1.6864915072 |
-| eps | 4259.040400694914 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 19.191990923897084 |
-| fae | 0.0756142297176915 |
-| net_profit_margin | 0.4724577600043833 |
-| gross_margin | 0 |
-| ev | 283311952665000 |
-| issue_share | 7021361917 |
-| ps | 3.1060162242 |
-| pcf | 1.468390383 |
-| bvps | 23925.4095419864 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 4259.0404006949 |
-| charter_capital | 72800652100000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 2.3839470800564437 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                            |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| BID: Quyết định về việc thay đổi địa điểm đặt trụ sở Chi nhánh Khách hàng doanh nghiệp nước ngoài I                   | 1776097046000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-dat-tru-so-chi-nhanh-khach-hang-doanh-nghiep-nuoc… |
-| BID: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                                     | 1775226165000 | https://www.hsx.vn/vi/tin-tuc/bid-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450224                                    |
-| BID: Quyết định về việc thay đổi địa điểm trụ sở Chi nhánh Trung tâm khách hàng cá nhân cao cấp Miền Nam              | 1775149956000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-tru-so-chi-nhanh-trung-tam-khach-hang-ca-nhan-cao… |
-| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan - Hana Bank                                           | 1774980041000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan--hana-bank/2448905           |
-| BID: Thông báo công văn của UBCKNN về báo cáo kết quả đợt chào bán cổ phiếu riêng lẻ của BID                          | 1774887875000 | https://www.hsx.vn/vi/tin-tuc/bid-thong-bao-cong-van-cua-ubcknn-ve-bao-cao-ket-qua-dot-chao-ban-co-phieu-rieng-le-cua-bi… |
-| BID: Kết quả đợt chào bán cổ phiếu riêng lẻ và Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành | 1774462796000 | https://www.hsx.vn/vi/tin-tuc/bid-ket-qua-dot-chao-ban-co-phieu-rieng-le-va-thong-bao-thay-doi-so-luong-co-phieu-co-quye… |
-| BID: Quyết định về việc thay đổi địa điểm đặt trụ sở Chi nhánh Bình Hưng Sài Gòn                                      | 1774022382000 | https://www.hsx.vn/vi/tin-tuc/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-dat-tru-so-chi-nhanh-binh-hung-sai-gon/2445634     |
-| BID: Công văn của UBCK về hồ sơ đăng ký chào bán cổ phiếu riêng lẻ của BIDV                                           | 1773849507000 | https://www.hsx.vn/vi/tin-tuc/bid-cong-van-cua-ubck-ve-ho-so-dang-ky-chao-ban-co-phieu-rieng-le-cua-bidv/2445044          |
-| BID: Nghị quyết và Biên bản kiểm phiếu lấy ý kiến cổ đông bằng văn bản                                                | 1773769040000 | https://www.hsx.vn/vi/tin-tuc/bid-nghi-quyet-va-bien-ban-kiem-phieu-lay-y-kien-co-dong-bang-van-ban/2444860               |
-| BID: Thông báo về việc ký hợp đồng kiểm toán BCTC 2026 - 2027                                                         | 1773251176000 | https://www.hsx.vn/vi/tin-tuc/bid-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-2026--2027/2443608                         |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |      ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|-----------:|--------:|
-| Trả cổ tức bằng tiền mặt | BID - Trả cổ tức Cả năm năm 2024 bằng tiền 450 đồng/cổ phiếu | 2025-10-08    | 2025-10-15    | 2025-10-14     |   0.045    |     450 |
-| Niêm yết thêm            | BID - Niêm yết bổ sung 123.846.649 cổ phiếu                  | 2025-05-14    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Niêm yết thêm            | BID - Niêm yết bổ sung 1.197.079.368 cổ phiếu                | 2025-01-17    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Phát hành cổ phiếu       | BID - Phát hành cổ phiếu trả cổ tức tỷ lệ 21%                | 2024-12-17    | 2024-12-24    | 2024-12-23     |   0.21     |       0 |
-| Niêm yết thêm            | BID - Niêm yết bổ sung 641,912,084 cổ phiếu                  | 2024-01-04    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Phát hành cổ phiếu       | BID - Phát hành cổ phiếu trả cổ tức tỷ lệ 12,69%             | 2023-11-21    | 2023-11-29    | 2023-11-28     |   0.1269   |       0 |
-| Niêm yết thêm            | BID - Niêm yết bổ sung 1,036,505,776 cổ phiếu                | 2022-03-28    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Trả cổ tức bằng tiền mặt | BID - Trả cổ tức Cả năm, 2020 bằng tiền 200 VND/CP           | 2021-12-17    | 2021-12-24    | 2021-12-23     |   0.02     |     200 |
-| Phát hành cổ phiếu       | BID - Phát hành cổ phiếu trả cổ tức tỷ lệ 25,77119312%       | 2021-12-17    | 2021-12-24    | 2021-12-23     |   0.257712 |       0 |
-| Trả cổ tức bằng tiền mặt | BID - Trả cổ tức Cả năm, 2019 bằng tiền 800 VND/CP           | 2020-12-28    | 2021-01-04    | 2020-12-31     |   0.08     |     800 |
-| Niêm yết thêm            | BID - Niêm yết bổ sung 603.302.706 cổ phiếu                  | 2019-12-10    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Trả cổ tức bằng tiền mặt | BID-Trả cổ tức Cả năm năm 2018 bằng tiền 700 đồng/cp         | 2019-11-01    | 2019-11-08    | 2019-11-07     |   0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | BID - Trả cổ tức Cả năm, 2016 bằng tiền 700 VND/CP           | 2017-08-02    | 2017-08-10    | 2017-08-09     |   0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | BID-Trả cổ tức năm 2015 bằng tiền 850VND/CP                  | 2016-10-26    | 2016-11-04    | 2016-11-03     | nan        |     nan |
-| Niêm yết thêm            | BID-Niêm yết thêm 607.512.690 cổ phiếu                       | 2015-11-18    | 1753-01-01    | 1753-01-01     | nan        |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BID      | 2026-03-17 00:00:00 |  40.8  |  41.3  | 40.35 |   40.45 |  6922000 |
-| BID      | 2026-03-18 00:00:00 |  41.1  |  43    | 41    |   41.3  | 14609300 |
-| BID      | 2026-03-19 00:00:00 |  40.9  |  41.1  | 40.1  |   40.65 |  6392700 |
-| BID      | 2026-03-20 00:00:00 |  40.65 |  41.1  | 39.6  |   39.75 | 10147300 |
 | BID      | 2026-03-23 00:00:00 |  39.4  |  39.45 | 38.1  |   38.45 | 10634100 |
 | BID      | 2026-03-24 00:00:00 |  39.3  |  39.6  | 38.5  |   39.1  |  6990400 |
 | BID      | 2026-03-25 00:00:00 |  39.5  |  39.65 | 38.9  |   39.5  |  8722100 |
@@ -181,10 +58,25 @@
 | BID      | 2026-04-09 00:00:00 |  41    |  41.15 | 40.5  |   40.6  |  8138800 |
 | BID      | 2026-04-10 00:00:00 |  41.1  |  41.95 | 40.65 |   40.8  |  8968200 |
 | BID      | 2026-04-13 00:00:00 |  40.5  |  40.75 | 40.25 |   40.35 |  5770800 |
+| BID      | 2026-04-14 00:00:00 |  40.75 |  40.85 | 40.25 |   40.4  |  5565300 |
+| BID      | 2026-04-15 00:00:00 |  40.75 |  41    | 40.3  |   40.3  |  6296700 |
+| BID      | 2026-04-16 00:00:00 |  40.4  |  40.6  | 40.15 |   40.2  |  4295800 |
+| BID      | 2026-04-17 00:00:00 |  40.3  |  40.7  | 40.1  |   40.3  |  5789600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BID      | 2026-04-17 14:27:02 |   40.4  |      800 | Buy          | 465408666 |
+| BID      | 2026-04-17 14:27:03 |   40.4  |      400 | Buy          | 465408765 |
+| BID      | 2026-04-17 14:27:03 |   40.4  |      300 | Buy          | 465408702 |
+| BID      | 2026-04-17 14:27:03 |   40.4  |      100 | Buy          | 465408703 |
+| BID      | 2026-04-17 14:27:03 |   40.4  |      100 | Buy          | 465408764 |
+| BID      | 2026-04-17 14:27:06 |   40.35 |      100 | Sell         | 465408975 |
+| BID      | 2026-04-17 14:27:13 |   40.4  |      100 | Buy          | 465409448 |
+| BID      | 2026-04-17 14:27:23 |   40.4  |      600 | Buy          | 465410136 |
+| BID      | 2026-04-17 14:27:27 |   40.4  |      900 | Buy          | 465410442 |
+| BID      | 2026-04-17 14:27:27 |   40.4  |      100 | Buy          | 465410444 |
 
 <!-- END:DAILY -->
 

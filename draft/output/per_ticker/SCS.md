@@ -1,166 +1,47 @@
 # SCS — SCS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 19/04/2026 15:37  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SCS |
-| exchange | HOSE |
-| ev | 5501949329800 |
-| ceiling | 58300 |
-| floor | 50700 |
-| ref_price | 54500 |
-| open | 53900 |
-| match_price | 53900 |
-| close_price | 53900 |
-| price_change | -600 |
-| price_change_pct | -0.01100917 |
-| high | 54200 |
-| low | 53700 |
-| total_volume | 128573 |
-| high_price_1y | 63299 |
-| low_price_1y | 49639 |
-| pct_low_change_1y | 0.052734375 |
-| pct_high_change_1y | -0.1460347378 |
-| foreign_volume | 23800 |
-| foreign_room | 30623094 |
-| avg_match_volume_2w | 159001 |
-| foreign_holding_room | 11125810 |
-| current_holding_ratio | 0.11725328138268745 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 54.0 |
-| EMA20 | 53.81 |
-| EMA50 | 53.87 |
-| RSI(14) | 51.3 |
+| EMA20 | 53.88 |
+| EMA50 | 53.89 |
+| RSI(14) | 51.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.071 |
-| MACD Signal | -0.047 |
-| MACD Histogram | 0.118 |
+| MACD | 0.092 |
+| MACD Signal | 0.022 |
+| MACD Histogram | 0.07 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 23800 |
-| Room NN còn lại | 30623094 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11725328138268745 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | SCS      |                23800 |       30623094 |                0.117253 |
-| 2026-04-06 | SCS      |                12300 |       30623094 |                0.116071 |
-| 2026-04-03 | SCS      |                28500 |       30623094 |                0.115904 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SCS |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773308625533 |
-| revenue | 1196643419789 |
-| revenue_growth | 0.15407863890449733 |
-| net_profit | 751067501754 |
-| net_profit_growth | 0.08406076172080917 |
-| ebit_margin | 0.7269953143095844 |
-| roe | 0.5062009771 |
-| roic | 0.5241985301 |
-| roa | 0.3696741878 |
-| pe | 7.325505786 |
-| pb | 3.523144548 |
-| eps | 7357.853720185419 |
-| current_ratio | 2.8220132472 |
-| cash_ratio | 0.1806940714 |
-| quick_ratio | 0.399527466 |
-| interest_coverage | -2795.2057083434456 |
-| ae | 1.3869082591354545 |
-| fae | 0.2191415457005442 |
-| net_profit_margin | 0.6276452026840487 |
-| gross_margin | 0.78448810053836 |
-| ev | 5501949329800 |
-| issue_share | 94886982 |
-| ps | 4.5978185638 |
-| pcf | 7.4839442425 |
-| bvps | 15298.8329788688 |
-| ev_per_ebitda | 5.9932909398 |
-| at | 0.5889859211 |
-| fat | 3.339427262 |
-| acp | 29.7297648655568 |
-| dso | 0 |
-| dpo | 8.2694420072 |
-| eps_ttm | 7357.8537201854 |
-| charter_capital | 1020769820000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.529883297886883 |
-| rtq10 | 0.3869082591 |
-| dividend | 0.0463821892 |
-| ebitda | 916260397232 |
-| ebit | 869954159086 |
-| le | 0.0627092122 |
-| de | 0.3869082591 |
-| ccc | 37.9992068727568 |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| SCS: Nghị quyết HĐQT về việc thông qua chương trình, nội dung và tài liệu họp ĐHĐCĐ thường niên năm 2026                  | 1775490864000 | https://www.hsx.vn/vi/tin-tuc/scs-nghi-quyet-hdqt-ve-viec-thong-qua-chuong-trinh-noi-dung-va-tai-lieu-hop-dhdcd-thuong-n… |
-| SCS: Báo cáo thường niên năm 2025                                                                                         | 1774436594000 | https://www.hsx.vn/vi/tin-tuc/scs-bao-cao-thuong-nien-nam-2025/2446528                                                    |
-| SCS: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                               | 1773335094000 | https://www.hsx.vn/vi/tin-tuc/scs-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2443868                          |
-| SCS: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                            | 1773163776000 | https://www.hsx.vn/vi/tin-tuc/scs-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| SCS: Nghị quyết HĐQT về việc lập DSCĐ có quyền tham dự ĐHĐCĐTN 2026                                                       | 1773073698000 | https://www.hsx.vn/vi/tin-tuc/scs-nghi-quyet-hdqt-ve-viec-lap-dscd-co-quyen-tham-du-dhdcdtn-2026/2442860                  |
-| SCS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đoàn Thị Thu Hương                        | 1771002510000 | https://www.hsx.vn/vi/tin-tuc/scs-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-doan-thi-th… |
-| SCS: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769439989000 | https://www.hsx.vn/vi/tin-tuc/scs-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2433623                                     |
-| SCS: Thông báo ngày ĐKCC tạm ứng cổ tức đợt 1 năm 2025 bằng tiền                                                          | 1765562005000 | https://www.hsx.vn/vi/tin-tuc/scs-thong-bao-ngay-dkcc-tam-ung-co-tuc-dot-1-nam-2025-bang-tien/2423732                     |
-| SCS: Nghị quyết HĐQT thông qua việc chốt danh sách cổ đông để thực hiện quyền nhận tạm ứng cổ tức đợt 1 năm 2025 bằng ti… | 1765296462000 | https://www.hsx.vn/vi/tin-tuc/scs-nghi-quyet-hdqt-thong-qua-viec-chot-danh-sach-co-dong-de-thuc-hien-quyen-nhan-tam-ung-… |
-| SCS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Hoàng                              | 1759157479000 | https://www.hsx.vn/vi/tin-tuc/scs-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-hoan… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 1 năm 2025 bằng tiền 2500 đồng/cổ phiếu  | 2025-12-12    | 2025-12-22    | 2025-12-19     |    0.25 |    2500 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 2 năm 2024 bằng tiền 3000 đồng/cổ phiếu  | 2025-08-22    | 2025-09-03    | 2025-08-29     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 1 năm 2024 bằng tiền 3000 đồng/cổ phiếu  | 2024-12-13    | 2024-12-24    | 2024-12-23     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 2 năm 2023 bằng tiền 3000 đồng/cổ phiếu  | 2024-05-31    | 2024-06-11    | 2024-06-10     |    0.3  |    3000 |
-| Niêm yết thêm            | SCS - Niêm yết bổ sung 507,800 cổ phiếu                       | 2024-04-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 1 năm 2023 bằng tiền 2000 đồng/cổ phiếu  | 2023-12-26    | 2024-01-04    | 2024-01-03     |    0.2  |    2000 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 2 năm 2022 bằng tiền 3500 đồng/cổ phiếu  | 2023-07-25    | 2023-08-03    | 2023-08-02     |    0.35 |    3500 |
-| Niêm yết thêm            | SCS - Niêm yết bổ sung 500,000 cổ phiếu                       | 2023-04-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 1 năm 2022 bằng tiền 2500 đồng/cổ phiếu  | 2022-12-02    | 2022-12-12    | 2022-12-09     |    0.25 |    2500 |
-| Niêm yết thêm            | SCS - Niêm yết bổ sung 43,133,482 cổ phiếu                    | 2022-09-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | SCS - Phát hành cổ phiếu thưởng tỷ lệ 85%                     | 2022-07-26    | 2022-08-08    | 2022-08-05     |    0.85 |       0 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Cả năm năm 2021 bằng tiền 3000 đồng/cổ phiếu | 2022-05-12    | 2022-05-20    | 2022-05-19     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 2, 2020 bằng tiền 5000 VND/CP            | 2021-06-17    | 2021-06-30    | 2021-06-29     |    0.5  |    5000 |
-| Trả cổ tức bằng tiền mặt | SCS - Trả cổ tức Đợt 1, 2020 bằng tiền 3000 VND/CP            | 2020-12-03    | 2020-12-15    | 2020-12-14     |    0.3  |    3000 |
-| Niêm yết thêm            | SCS- Niêm yết bổ sung 190.000 cổ phiếu                        | 2020-07-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SCS      | 2026-03-18 00:00:00 |   52.9 |   53.5 |  52.5 |    53.2 |   162500 |
-| SCS      | 2026-03-19 00:00:00 |   53   |   53   |  52.3 |    52.7 |    83600 |
-| SCS      | 2026-03-20 00:00:00 |   52.5 |   52.6 |  52.3 |    52.3 |    97200 |
 | SCS      | 2026-03-23 00:00:00 |   52.3 |   52.3 |  51.2 |    51.3 |   200900 |
 | SCS      | 2026-03-24 00:00:00 |   51.6 |   52.3 |  51.6 |    51.7 |   161500 |
 | SCS      | 2026-03-25 00:00:00 |   52.2 |   53   |  52   |    52.9 |   119600 |
@@ -178,21 +59,24 @@
 | SCS      | 2026-04-10 00:00:00 |   54.6 |   54.8 |  54.3 |    54.5 |   141900 |
 | SCS      | 2026-04-13 00:00:00 |   53.9 |   54.2 |  53.7 |    53.9 |   128100 |
 | SCS      | 2026-04-14 00:00:00 |   54.2 |   54.6 |  53.6 |    54   |    84400 |
+| SCS      | 2026-04-15 00:00:00 |   54.1 |   54.6 |  54.1 |    54.3 |   128300 |
+| SCS      | 2026-04-16 00:00:00 |   54.3 |   54.4 |  53.9 |    54   |    94700 |
+| SCS      | 2026-04-17 00:00:00 |   54.1 |   54.3 |  53.6 |    54   |   143700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SCS      | 2026-04-14 11:23:29 |    54   |      100 | Sell         | 463318277 |
-| SCS      | 2026-04-14 11:24:31 |    54   |      100 | Sell         | 463319422 |
-| SCS      | 2026-04-14 11:26:38 |    54.1 |      100 | Buy          | 463322341 |
-| SCS      | 2026-04-14 11:27:09 |    54.1 |      100 | Buy          | 463323000 |
-| SCS      | 2026-04-14 11:27:09 |    54.1 |      100 | Buy          | 463323001 |
-| SCS      | 2026-04-14 11:27:36 |    54   |      100 | Sell         | 463323560 |
-| SCS      | 2026-04-14 13:00:00 |    54   |      300 | Sell         | 463330162 |
-| SCS      | 2026-04-14 13:00:00 |    54   |      200 | Sell         | 463330163 |
-| SCS      | 2026-04-14 13:00:01 |    54   |      300 | Sell         | 463333002 |
-| SCS      | 2026-04-14 13:01:43 |    54   |      100 | Sell         | 463338034 |
+| SCS      | 2026-04-17 13:10:31 |    53.8 |      100 | Sell         | 465198844 |
+| SCS      | 2026-04-17 13:12:08 |    53.9 |      200 | Buy          | 465203078 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |      600 | Sell         | 465204447 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |      700 | Sell         | 465204449 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |     1000 | Sell         | 465204450 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |      300 | Sell         | 465204451 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |      700 | Sell         | 465204452 |
+| SCS      | 2026-04-17 13:12:43 |    53.8 |      100 | Sell         | 465204446 |
+| SCS      | 2026-04-17 13:13:10 |    53.7 |      200 | Sell         | 465205720 |
+| SCS      | 2026-04-17 13:13:10 |    53.7 |      100 | Sell         | 465205721 |
 
 <!-- END:DAILY -->
 

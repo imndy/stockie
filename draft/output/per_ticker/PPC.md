@@ -1,166 +1,47 @@
 # PPC — PPC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 20:00
+> 📅 Daily: 19/04/2026 15:36  |  🗂 Quarterly: 05/04/2026 20:00
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PPC |
-| exchange | HOSE |
-| ev | 3360220500000 |
-| ceiling | 10950 |
-| floor | 9540 |
-| ref_price | 10250 |
-| open | 10150 |
-| match_price | 10300 |
-| close_price | 10300 |
-| price_change | 50 |
-| price_change_pct | 0.00487805 |
-| high | 10300 |
-| low | 10150 |
-| total_volume | 359492 |
-| high_price_1y | 12533 |
-| low_price_1y | 9600 |
-| pct_low_change_1y | 0.0699842411 |
-| pct_high_change_1y | -0.1557155598 |
-| foreign_volume | 58500 |
-| foreign_room | 159855150 |
-| avg_match_volume_2w | 513660 |
-| foreign_holding_room | 14831823 |
-| current_holding_ratio | 0.045463616718010025 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 10.2 |
-| EMA20 | 10.38 |
-| EMA50 | 10.32 |
-| RSI(14) | 44.7 |
+| Giá đóng cửa | 10.15 |
+| EMA20 | 10.33 |
+| EMA50 | 10.3 |
+| RSI(14) | 43.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.038 |
-| MACD Signal | 0.015 |
-| MACD Histogram | -0.052 |
+| MACD | -0.06 |
+| MACD Signal | -0.019 |
+| MACD Histogram | -0.041 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 58500 |
-| Room NN còn lại | 159855150 |
-| Tỷ lệ sở hữu NN hiện tại | 0.045463616718010025 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | PPC      |                58500 |      159855150 |               0.0454636 |
-| 2026-04-06 | PPC      |                51100 |      159855150 |               0.0459694 |
-| 2026-04-03 | PPC      |                71200 |      159855150 |               0.0459286 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PPC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774948681993 |
-| revenue | 6565825977006 |
-| revenue_growth | -0.1451932081915156 |
-| net_profit | 165179498132 |
-| net_profit_growth | -0.6132221159351195 |
-| ebit_margin | 0.02280530807995601 |
-| roe | 0.0367444723 |
-| roic | 0.03352506 |
-| roa | 0.0306447148 |
-| pe | 20.3428424108 |
-| pb | 0.7523363217 |
-| eps | 506.32059138964246 |
-| current_ratio | 3.1918400922 |
-| cash_ratio | 0.5067964868 |
-| quick_ratio | 1.919266664 |
-| interest_coverage | None |
-| ae | 1.1746881454737703 |
-| fae | 0.043204621851991754 |
-| net_profit_margin | 0.02515745904787465 |
-| gross_margin | 0.03851691001660078 |
-| ev | 3360220500000 |
-| issue_share | 326235000 |
-| ps | 0.5117742249 |
-| pcf | 7.1955191331 |
-| bvps | 13690.6855394669 |
-| ev_per_ebitda | 15.1342955728 |
-| at | 1.2181164524 |
-| fat | 31.847341224 |
-| acp | 76.8671331628776 |
-| dso | 44.4067551572 |
-| dpo | 42.2764641053 |
-| eps_ttm | 506.3205913896 |
-| charter_capital | 3262350000000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.369068553946695 |
-| rtq10 | 0.1746881455 |
-| dividend | 0 |
-| ebitda | 195899823415 |
-| ebit | 149735684205 |
-| le | 0 |
-| de | 0.1746881455 |
-| ccc | 163.55035242537758 |
-| rtq17 | 8.2194701844 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                             |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| PPC: Link công bố tài liệu ĐHĐCĐ bất thường năm 2026                                                                   | 1774877419000 | https://www.hsx.vn/vi/tin-tuc/ppc-link-cong-bo-tai-lieu-dhdcd-bat-thuong-nam-2026/2447957                                 |
-| PPC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                         | 1774639564000 | https://www.hsx.vn/vi/tin-tuc/ppc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2447691                       |
-| PPC: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026                                    | 1774283394000 | https://www.hsx.vn/vi/tin-tuc/ppc-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026/2445979  |
-| PPC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ bất thường năm 2026                          | 1773157105000 | https://www.hsx.vn/vi/tin-tuc/ppc-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-bat-thuong-nam-20… |
-| PPC: Thông báo và Nghị quyết HĐQT về ngày đăng ký cuối cùng chốt thời gian, địa điểm tổ chức ĐHĐCĐ bất thường năm 2026 | 1772547256000 | https://www.hsx.vn/vi/tin-tuc/ppc-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-chot-thoi-gian-dia-diem-to-chuc… |
-| PPC: Giấy chứng nhận đăng ký hoạt động chi nhánh của Ban quản lý dự án                                                 | 1770657819000 | https://www.hsx.vn/vi/tin-tuc/ppc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-cua-ban-quan-ly-du-an/2437988               |
-| PPC: Báo cáo tình hình quản trị công ty năm 2025                                                                       | 1769806346000 | https://www.hsx.vn/vi/tin-tuc/ppc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435852                                     |
-| PPC: Thông báo thay đổi nhân sự                                                                                        | 1769622855000 | https://www.hsx.vn/vi/tin-tuc/ppc-thong-bao-thay-doi-nhan-su/2434569                                                      |
-| Lợi nhuận Nhiệt điện Phả Lại trong quý IV/2025 giảm mạnh khi hụt cổ tức được chia                                      | 1769504160000 | https://baodautu.vn/loi-nhuan-nhiet-dien-pha-lai-trong-quy-iv2025-giam-manh-khi-hut-co-tuc-duoc-chia-d502237.html         |
-| PPC: Nghị quyết HĐQT số 04 ngày 22/01/2026 và Quyết định HĐQT số 326 ngày 23/01/2026                                   | 1769191999000 | https://www.hsx.vn/vi/tin-tuc/ppc-nghi-quyet-hdqt-so-04-ngay-22012026-va-quyet-dinh-hdqt-so-326-ngay-23012026/2433441     |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 2 năm 2024 bằng tiền 500 đồng/cổ phiếu  | 2025-10-28    | 2025-11-19    | 2025-11-18     |  0.05   |     500 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 1 năm 2024 bằng tiền 200 đồng/cổ phiếu  | 2024-12-05    | 2024-12-25    | 2024-12-24     |  0.02   |     200 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 3 năm 2023 bằng tiền 625 đồng/cổ phiếu  | 2024-10-18    | 2024-11-06    | 2024-11-05     |  0.0625 |     625 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 2 năm 2023 bằng tiền 1875 đồng/cổ phiếu | 2024-01-12    | 2024-01-22    | 2024-01-19     |  0.1875 |    1875 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 1 năm 2023 bằng tiền 275 đồng/cổ phiếu  | 2023-12-15    | 2023-12-27    | 2023-12-26     |  0.0275 |     275 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 2 năm 2022 bằng tiền 400 đồng/cổ phiếu  | 2023-10-02    | 2023-10-18    | 2023-10-17     |  0.04   |     400 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 1 năm 2022 bằng tiền 400 đồng/cổ phiếu  | 2023-07-06    | 2023-07-17    | 2023-07-14     |  0.04   |     400 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Cả năm năm 2021 bằng tiền 450 đồng/cổ phiếu | 2022-07-08    | 2022-07-18    | 2022-07-15     |  0.045  |     450 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 5, 2020 bằng tiền 1250 VND/CP           | 2021-09-06    | 2021-09-22    | 2021-09-21     |  0.125  |    1250 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 4, 2020 bằng tiền 1250 VND/CP           | 2021-06-30    | 2021-07-16    | 2021-07-15     |  0.125  |    1250 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức đợt 3, năm 2020 bằng tiền 1894 Đồng/cp      | 2021-05-10    | 2021-05-18    | 2021-05-17     |  0.1894 |    1894 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 2, 2020 bằng tiền 1150 VND/CP           | 2021-03-03    | 2021-03-15    | 2021-03-12     |  0.115  |    1150 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 1, 2020 bằng tiền 350 VND/CP            | 2020-12-10    | 2020-12-21    | 2020-12-18     |  0.035  |     350 |
-| Trả cổ tức bằng tiền mặt | PPC- Trả cổ tức Đợt 2 năm 2019 bằng tiền 1000 đồng/cổ phiếu  | 2020-04-09    | 2020-04-20    | 2020-04-17     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | PPC - Trả cổ tức Đợt 1, 2019 bằng tiền 1500 VND/CP           | 2019-12-13    | 2019-12-23    | 2019-12-20     |  0.15   |    1500 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PPC      | 2026-03-18 00:00:00 |  10.4  |  10.65 | 10.2  |   10.65 |   542800 |
-| PPC      | 2026-03-19 00:00:00 |  10.6  |  11.2  | 10.5  |   10.9  |  2337000 |
-| PPC      | 2026-03-20 00:00:00 |  10.95 |  11.4  | 10.8  |   10.95 |  2459200 |
 | PPC      | 2026-03-23 00:00:00 |  11.25 |  11.25 | 10.55 |   10.55 |  1123400 |
 | PPC      | 2026-03-24 00:00:00 |  10.75 |  10.8  | 10.4  |   10.65 |  1003300 |
 | PPC      | 2026-03-25 00:00:00 |  10.65 |  11.2  | 10.6  |   11.15 |  2063200 |
@@ -178,21 +59,24 @@
 | PPC      | 2026-04-10 00:00:00 |  10.25 |  10.35 | 10.1  |   10.25 |   610000 |
 | PPC      | 2026-04-13 00:00:00 |  10.15 |  10.3  | 10.15 |   10.3  |   359100 |
 | PPC      | 2026-04-14 00:00:00 |  10.3  |  10.3  | 10.2  |   10.2  |   458000 |
+| PPC      | 2026-04-15 00:00:00 |  10.3  |  10.3  | 10.15 |   10.2  |   454800 |
+| PPC      | 2026-04-16 00:00:00 |  10.25 |  10.25 | 10.15 |   10.2  |   242700 |
+| PPC      | 2026-04-17 00:00:00 |  10.25 |  10.25 | 10.15 |   10.15 |   162400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PPC      | 2026-04-14 13:48:53 |   10.25 |      800 | Sell         | 463483884 |
-| PPC      | 2026-04-14 13:51:32 |   10.25 |     1000 | Sell         | 463493270 |
-| PPC      | 2026-04-14 13:52:59 |   10.25 |    10000 | Sell         | 463497472 |
-| PPC      | 2026-04-14 13:53:40 |   10.25 |      100 | Sell         | 463499325 |
-| PPC      | 2026-04-14 13:53:54 |   10.25 |      100 | Sell         | 463499895 |
-| PPC      | 2026-04-14 13:54:11 |   10.25 |      100 | Sell         | 463500574 |
-| PPC      | 2026-04-14 13:55:11 |   10.3  |     9100 | Buy          | 463502982 |
-| PPC      | 2026-04-14 13:55:11 |   10.3  |    10000 | Buy          | 463502983 |
-| PPC      | 2026-04-14 13:55:11 |   10.3  |     2000 | Buy          | 463502984 |
-| PPC      | 2026-04-14 13:55:11 |   10.3  |      100 | Buy          | 463502985 |
+| PPC      | 2026-04-17 10:25:50 |   10.2  |      200 | Buy          | 465066459 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |     7400 | Sell         | 465070532 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |      200 | Sell         | 465070531 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |      500 | Sell         | 465070530 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |     1500 | Sell         | 465070523 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |      100 | Sell         | 465070526 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |      200 | Sell         | 465070525 |
+| PPC      | 2026-04-17 10:27:36 |   10.15 |      100 | Sell         | 465070527 |
+| PPC      | 2026-04-17 10:28:26 |   10.2  |      400 | Buy          | 465072169 |
+| PPC      | 2026-04-17 10:28:48 |   10.2  |     1100 | Buy          | 465073100 |
 
 <!-- END:DAILY -->
 

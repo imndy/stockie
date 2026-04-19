@@ -1,166 +1,47 @@
 # NKG — NKG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 19/04/2026 15:34  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NKG |
-| exchange | HOSE |
-| ev | 6310749422100 |
-| ceiling | 15200 |
-| floor | 13300 |
-| ref_price | 14250 |
-| open | 14000 |
-| match_price | 14100 |
-| close_price | 14100 |
-| price_change | -150 |
-| price_change_pct | -0.01052632 |
-| high | 14400 |
-| low | 14000 |
-| total_volume | 3462019 |
-| high_price_1y | 20400 |
-| low_price_1y | 11050 |
-| pct_low_change_1y | 0.2477876106 |
-| pct_high_change_1y | -0.2914572864 |
-| foreign_volume | 9522 |
-| foreign_room | 223785440 |
-| avg_match_volume_2w | 3920423 |
-| foreign_holding_room | 23771699 |
-| current_holding_ratio | 0.05311270238780346 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.05 |
-| EMA20 | 14.06 |
-| EMA50 | 14.39 |
-| RSI(14) | 62.9 |
+| Giá đóng cửa | 14.7 |
+| EMA20 | 14.25 |
+| EMA50 | 14.43 |
+| RSI(14) | 57.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.009 |
-| MACD Signal | -0.166 |
-| MACD Histogram | 0.175 |
+| MACD | 0.129 |
+| MACD Signal | -0.034 |
+| MACD Histogram | 0.163 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 9522 |
-| Room NN còn lại | 223785440 |
-| Tỷ lệ sở hữu NN hiện tại | 0.05311270238780346 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | NKG      |                 9522 |      223785440 |               0.0531127 |
-| 2026-04-06 | NKG      |                46300 |      223785440 |               0.0516109 |
-| 2026-04-03 | NKG      |                40502 |      223785440 |               0.0512166 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NKG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774539149410 |
-| revenue | 14899234663086 |
-| revenue_growth | -0.2804914985695679 |
-| net_profit | 197122282688 |
-| net_profit_growth | -0.564859296444485 |
-| ebit_margin | 0.015555603182650063 |
-| roe | 0.0292209942 |
-| roic | 0.0158834332 |
-| roa | 0.0131357943 |
-| pe | 32.0143889166 |
-| pb | 0.8281367721 |
-| eps | 440.4269604125564 |
-| current_ratio | 1.4772123809 |
-| cash_ratio | 0.1277136923 |
-| quick_ratio | 0.3444151018 |
-| interest_coverage | -1.048752087735562 |
-| ae | 2.1601915522762853 |
-| fae | 0.23636280115594893 |
-| net_profit_margin | 0.013311747181003223 |
-| gross_margin | 0.05302308876023222 |
-| ev | 6310749422100 |
-| issue_share | 447570881 |
-| ps | 0.4261674514 |
-| pcf | 4.7558647536 |
-| bvps | 17026.1730616429 |
-| ev_per_ebitda | 20.8252854606 |
-| at | 0.9867821361 |
-| fat | 7.7406603483 |
-| acp | 29.44239843913578 |
-| dso | 159.1591757538 |
-| dpo | 30.2717865474 |
-| eps_ttm | 440.4269604126 |
-| charter_capital | 4475708810000 |
-| rtq4 | 0.2967929112 |
-| charter_capital_ratio | 1.705962936618971 |
-| rtq10 | 1.1601915523 |
-| dividend | 0 |
-| ebitda | 592500913348 |
-| ebit | 230349627758 |
-| le | 1.1961722928 |
-| de | 1.1601915523 |
-| ccc | 218.8733607403358 |
-| rtq17 | 2.2933016477 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| NKG: Con trai Chủ tịch HĐQT đăng ký mua 5 triệu cổ phiếu                                                  | 1776098460000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ho-minh-phat/2452… |
-| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                             | 1775754901000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt/2451791                                          |
-| NKG: Dự thảo tài liệu ĐHĐCĐ thường niên năm 2026                                                          | 1775469984000 | https://www.hsx.vn/vi/tin-tuc/nkg-du-thao-tai-lieu-dhdcd-thuong-nien-nam-2026/2450610                                     |
-| Thép Nam Kim (NKG) muốn chào bán hơn 124,58 triệu cổ phiếu với giá 12.000 đồng/cổ phiếu                   | 1775400540000 | https://www.tinnhanhchungkhoan.vn/thep-nam-kim-nkg-muon-chao-ban-hon-12458-trieu-co-phieu-voi-gia-12000-dongco-phieu-pos… |
-| NKG: Giải trình biến động KQKD BCTC hợp nhất và riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước     | 1774516023000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-kqkd-bctc-hop-nhat-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky… |
-| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                             | 1774018921000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt/2445602                                          |
-| NKG: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                               | 1772183522000 | https://www.hsx.vn/vi/tin-tuc/nkg-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2440475                          |
-| NKG: Nghị quyết HĐQT về ngày chốt danh sách cổ đông để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1772030188000 | https://www.hsx.vn/vi/tin-tuc/nkg-nghi-quyet-hdqt-ve-ngay-chot-danh-sach-co-dong-de-thuc-hien-quyen-tham-du-dhdcd-thuong… |
-| NKG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Hồ Minh Phát              | 1771953256000 | https://www.hsx.vn/vi/tin-tuc/nkg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-ho-minh-pha… |
-| NKG: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước                              | 1770025553000 | https://www.hsx.vn/vi/tin-tuc/nkg-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2435967          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 131.638.903 cổ phiếu                                  | 2025-03-25    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 52.654.172 cổ phiếu                                   | 2025-01-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 12.000 đồng/cp | 2024-12-11    | 2024-12-20    | 2024-12-19     |    0.5  |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 43,879,238 cổ phiếu                                   | 2022-07-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu                | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.1  |    1000 |
-| Phát hành cổ phiếu       | NKG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                                | 2022-05-27    | 2022-06-06    | 2022-06-03     |    0.2  |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 1.000.000 cổ phiếu                                    | 2022-03-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG - Niêm yết bổ sung 36.398.700 cổ phiếu                                   | 2021-09-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG - Trả cổ tức Đợt 1, 2020 bằng tiền 300 VND/CP                            | 2020-12-09    | 2020-12-22    | 2020-12-21     |    0.03 |     300 |
-| Phát hành cổ phiếu       | NKG-Phát hành cổ phiếu trả cổ tức tỷ lệ 40%                                  | 2018-05-25    | 2018-06-12    | 2018-06-11     |    0.4  |       0 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 30.000.000 cổ phiếu                                     | 2017-12-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | NKG-Trả cổ tức Đợt 1, 2017 bằng tiền 1000 VND/CP                             | 2017-11-03    | 2017-11-17    | 2017-11-16     |    0.1  |    1000 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 948.545 cổ phiếu                                        | 2017-09-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | NKG-Niêm yết bổ sung 33.017.094 cổ phiếu                                     | 2017-06-16    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu       | NKG-Trả cổ tức bằng cổ phiếu năm 2015 và năm 2016                            | 2017-05-05    | 2017-05-18    | 2017-05-17     |    0.5  |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NKG      | 2026-03-18 00:00:00 |  14    |  14.3  | 13.8  |   13.85 |  3811100 |
-| NKG      | 2026-03-19 00:00:00 |  13.65 |  13.95 | 13.55 |   13.7  |  4378400 |
-| NKG      | 2026-03-20 00:00:00 |  13.7  |  13.8  | 13.55 |   13.75 |  3231500 |
 | NKG      | 2026-03-23 00:00:00 |  13.55 |  13.6  | 12.85 |   12.85 |  6481500 |
 | NKG      | 2026-03-24 00:00:00 |  13.3  |  13.4  | 13.05 |   13.15 |  3255500 |
 | NKG      | 2026-03-25 00:00:00 |  13.25 |  13.5  | 13.25 |   13.4  |  2834500 |
@@ -178,21 +59,24 @@
 | NKG      | 2026-04-10 00:00:00 |  14.6  |  14.65 | 14.25 |   14.25 |  3256000 |
 | NKG      | 2026-04-13 00:00:00 |  14    |  14.4  | 14    |   14.1  |  3459100 |
 | NKG      | 2026-04-14 00:00:00 |  14.35 |  15.05 | 14.15 |   15.05 | 13074700 |
+| NKG      | 2026-04-15 00:00:00 |  15.25 |  15.35 | 14.75 |   14.8  |  7230800 |
+| NKG      | 2026-04-16 00:00:00 |  14.85 |  14.95 | 14.5  |   14.8  |  6900500 |
+| NKG      | 2026-04-17 00:00:00 |  14.8  |  14.85 | 14.65 |   14.7  |  3883000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NKG      | 2026-04-14 14:25:38 |   15.05 |      100 | Sell         | 463610972 |
-| NKG      | 2026-04-14 14:25:41 |   15.05 |    10000 | Sell         | 463611200 |
-| NKG      | 2026-04-14 14:25:54 |   15.05 |    19900 | Sell         | 463611997 |
-| NKG      | 2026-04-14 14:25:55 |   15.05 |      300 | Sell         | 463612064 |
-| NKG      | 2026-04-14 14:25:57 |   15.05 |     1500 | Sell         | 463612116 |
-| NKG      | 2026-04-14 14:25:58 |   15.05 |    32900 | Sell         | 463612236 |
-| NKG      | 2026-04-14 14:25:58 |   15.05 |      100 | Sell         | 463612237 |
-| NKG      | 2026-04-14 14:25:58 |   15.05 |     2000 | Sell         | 463612238 |
-| NKG      | 2026-04-14 14:25:58 |   15.05 |     5000 | Sell         | 463612239 |
-| NKG      | 2026-04-14 14:25:58 |   15.05 |     1000 | Sell         | 463612240 |
+| NKG      | 2026-04-17 14:26:50 |   14.75 |     2500 | Buy          | 465407833 |
+| NKG      | 2026-04-17 14:26:55 |   14.7  |     1500 | Sell         | 465408175 |
+| NKG      | 2026-04-17 14:26:58 |   14.7  |     1000 | Sell         | 465408353 |
+| NKG      | 2026-04-17 14:27:00 |   14.7  |      100 | Sell         | 465408554 |
+| NKG      | 2026-04-17 14:27:00 |   14.7  |      100 | Sell         | 465408558 |
+| NKG      | 2026-04-17 14:27:03 |   14.7  |      100 | Sell         | 465408722 |
+| NKG      | 2026-04-17 14:27:03 |   14.7  |      100 | Sell         | 465408723 |
+| NKG      | 2026-04-17 14:27:03 |   14.7  |      200 | Sell         | 465408724 |
+| NKG      | 2026-04-17 14:27:03 |   14.7  |     1300 | Sell         | 465408725 |
+| NKG      | 2026-04-17 14:27:04 |   14.7  |     5500 | Sell         | 465408861 |
 
 <!-- END:DAILY -->
 

@@ -1,166 +1,47 @@
 # KDH — KDH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 13:41
+> 📅 Daily: 19/04/2026 15:33  |  🗂 Quarterly: 05/04/2026 13:41
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | KDH |
-| exchange | HOSE |
-| ev | 29402030353800 |
-| ceiling | 28000 |
-| floor | 24400 |
-| ref_price | 26200 |
-| open | 25900 |
-| match_price | 26200 |
-| close_price | 26200 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 26600 |
-| low | 25900 |
-| total_volume | 3890674 |
-| high_price_1y | 38100 |
-| low_price_1y | 22864 |
-| pct_low_change_1y | 0.0999890001 |
-| pct_high_change_1y | -0.2918918919 |
-| foreign_volume | 895796 |
-| foreign_room | 561107449 |
-| avg_match_volume_2w | 4262321 |
-| foreign_holding_room | 317814149 |
-| current_holding_ratio | 0.2832025749107435 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.2 |
-| EMA20 | 25.96 |
-| EMA50 | 26.8 |
-| RSI(14) | 51.1 |
+| Giá đóng cửa | 26.05 |
+| EMA20 | 26.05 |
+| EMA50 | 26.75 |
+| RSI(14) | 49.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.118 |
-| MACD Signal | -0.257 |
-| MACD Histogram | 0.139 |
+| MACD | -0.035 |
+| MACD Signal | -0.152 |
+| MACD Histogram | 0.117 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 895796 |
-| Room NN còn lại | 561107449 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2832025749107435 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | KDH      |               895796 |      561107449 |                0.283203 |
-| 2026-04-06 | KDH      |              1977800 |      561107449 |                0.287747 |
-| 2026-04-03 | KDH      |              2674817 |      561107449 |                0.287415 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | KDH |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774872441640 |
-| revenue | 4689097351000 |
-| revenue_growth | 0.42303871217477257 |
-| net_profit | 1045471436000 |
-| net_profit_growth | 0.29004682959683076 |
-| ebit_margin | 0.46441169093783424 |
-| roe | 0.0582151006 |
-| roic | 0.0689803148 |
-| roa | 0.0322518395 |
-| pe | 28.1232268442 |
-| pb | 1.5873376406 |
-| eps | 931.6142896798236 |
-| current_ratio | 8.9944055416 |
-| cash_ratio | 0.7237491554 |
-| quick_ratio | 2.2831858226 |
-| interest_coverage | None |
-| ae | 1.609977780382502 |
-| fae | 0.003148328782341382 |
-| net_profit_margin | 0.22477914920455302 |
-| gross_margin | 0.5920179644190148 |
-| ev | 29402030353800 |
-| issue_share | 1122214899 |
-| ps | 6.3215150029 |
-| pcf | -14.5251720712 |
-| bvps | 16505.625097747 |
-| ev_per_ebitda | 17.0281679013 |
-| at | 0.1434823452 |
-| fat | 66.4567819525 |
-| acp | 60.35505020772568 |
-| dso | 4370.0396997947 |
-| dpo | 38.6114838435 |
-| eps_ttm | 931.6142896798 |
-| charter_capital | 11222148990000 |
-| rtq4 | 0.394418637 |
-| charter_capital_ratio | 1.8859382226041894 |
-| rtq10 | 0.6099777804 |
-| dividend | 0 |
-| ebitda | 2173289983000 |
-| ebit | 2160027561000 |
-| le | 0.873971981 |
-| de | 0.6099777804 |
-| ccc | 4469.006233845926 |
-| rtq17 | 0.0835232687 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Nhà Khang Điền (KDH) hé lộ hai ứng viên tham gia Hội đồng quản trị và Ban kiểm soát thay nhóm VinaCapital                 | 1775890560000 | https://www.tinnhanhchungkhoan.vn/nha-khang-dien-kdh-he-lo-hai-ung-vien-tham-gia-hoi-dong-quan-tri-va-ban-kiem-soat-thay… |
-| KDH: Nghị quyết HĐQT về việc thông qua danh sách ứng viên thành viên HĐQT, BKS nhiệm kỳ 2022-2027                         | 1775839939000 | https://www.hsx.vn/vi/tin-tuc/kdh-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-ung-vien-thanh-vien-hdqt-bks-nhiem-ky-2022… |
-| KDH: Báo cáo thường niên năm 2025                                                                                         | 1775838575000 | https://www.hsx.vn/vi/tin-tuc/kdh-bao-cao-thuong-nien-nam-2025/2452046                                                    |
-| KDH: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Quản lý Quỹ VinaCapita… | 1775213131000 | https://www.hsx.vn/vi/tin-tuc/kdh-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
-| KDH: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐ TN 2026 và tài liệu đại hội                                 | 1775065286000 | https://www.hsx.vn/vi/tin-tuc/kdh-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcd-tn-2026-va-tai-lieu-dai-hoi/2… |
-| KDH: Báo cáo sử dụng vốn, số tiền thu được từ các đợt phát hành ESOP năm 2024 và 2025 đã kiểm toán                        | 1774893095000 | https://www.hsx.vn/vi/tin-tuc/kdh-bao-cao-su-dung-von-so-tien-thu-duoc-tu-cac-dot-phat-hanh-esop-nam-2024-va-2025-da-kie… |
-| KDH: CBTT tình hình thanh toán gốc, lãi trái phiếu năm 2025                                                               | 1774891368000 | https://www.hsx.vn/vi/tin-tuc/kdh-cbtt-tinh-hinh-thanh-toan-goc-lai-trai-phieu-nam-2025/2448249                           |
-| KDH: CBTT định kỳ về tình hình tài chính năm 2025                                                                         | 1774891244000 | https://www.hsx.vn/vi/tin-tuc/kdh-cbtt-dinh-ky-ve-tinh-hinh-tai-chinh-nam-2025/2448245                                    |
-| KDH: Báo cáo tình hình thực hiện các cam kết với người sở hữu trái phiếu                                                  | 1774889061000 | https://www.hsx.vn/vi/tin-tuc/kdh-bao-cao-tinh-hinh-thuc-hien-cac-cam-ket-voi-nguoi-so-huu-trai-phieu/2448187             |
-| KDH: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Quản lý Quỹ VinaCapital, Vis… | 1774888800000 | https://www.hsx.vn/vi/tin-tuc/kdh-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                        | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:---------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 111.072.334 cổ phiếu        | 2025-08-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | KDH - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%      | 2025-07-04    | 2025-07-18    | 2025-07-17     |    0.1  |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 101.738.850 cổ phiếu        | 2024-11-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | KDH - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%      | 2024-10-03    | 2024-10-18    | 2024-10-17     |    0.1  |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 110,091,744 cổ phiếu        | 2024-08-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 82,481,976 cổ phiếu         | 2023-10-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | KDH - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%      | 2023-09-27    | 2023-10-04    | 2023-10-03     |    0.1  |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 73,892,926 cổ phiếu         | 2022-07-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | KDH - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%      | 2022-06-27    | 2022-07-05    | 2022-07-04     |    0.1  |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 55.879.850 cổ phiếu         | 2021-06-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | KDH - Niêm yết bổ sung 8.400.000 cổ phiếu          | 2021-06-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | KDH - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:10   | 2021-06-03    | 2021-06-14    | 2021-06-11     |    0.1  |       0 |
-| Niêm yết thêm            | KDH- Niêm yết bổ sung 26.228.110 cổ phiếu          | 2020-09-08    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | KDH- Niêm yết bổ sung 8.000.000 cổ phiếu           | 2020-09-08    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | KDH - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP | 2020-08-07    | 2020-08-20    | 2020-08-19     |    0.05 |     500 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDH      | 2026-03-18 00:00:00 |  26.2  |  26.25 | 25.8  |   26.2  |  2166500 |
-| KDH      | 2026-03-19 00:00:00 |  25.7  |  26.65 | 25.55 |   26.25 |  3792700 |
-| KDH      | 2026-03-20 00:00:00 |  26.15 |  26.4  | 25.5  |   25.5  |  3900700 |
 | KDH      | 2026-03-23 00:00:00 |  25.6  |  25.6  | 23.85 |   24    |  4659400 |
 | KDH      | 2026-03-24 00:00:00 |  24.5  |  25.45 | 24.35 |   25    |  5635600 |
 | KDH      | 2026-03-25 00:00:00 |  25.4  |  26.2  | 25.15 |   25.85 |  5073300 |
@@ -178,21 +59,24 @@
 | KDH      | 2026-04-10 00:00:00 |  26.35 |  26.85 | 26.15 |   26.2  |  5239200 |
 | KDH      | 2026-04-13 00:00:00 |  25.9  |  26.6  | 25.9  |   26.2  |  3887500 |
 | KDH      | 2026-04-14 00:00:00 |  26.45 |  26.6  | 26.15 |   26.2  |  3193000 |
+| KDH      | 2026-04-15 00:00:00 |  26.3  |  26.95 | 26.3  |   26.55 |  7877300 |
+| KDH      | 2026-04-16 00:00:00 |  26.65 |  26.65 | 26.1  |   26.3  |  3476600 |
+| KDH      | 2026-04-17 00:00:00 |  26.45 |  26.45 | 26.05 |   26.05 |  2955900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| KDH      | 2026-04-14 14:20:26 |    26.2 |     1500 | Sell         | 463592522 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |     5000 | Sell         | 463592526 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |     2000 | Sell         | 463592528 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |     2000 | Sell         | 463592524 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |      600 | Sell         | 463592527 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |      300 | Sell         | 463592523 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |      500 | Sell         | 463592525 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |      100 | Sell         | 463592530 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |     1900 | Sell         | 463592531 |
-| KDH      | 2026-04-14 14:20:26 |    26.2 |      300 | Sell         | 463592532 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      100 | Sell         | 465407169 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      100 | Sell         | 465407176 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      600 | Sell         | 465407172 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      200 | Sell         | 465407173 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      100 | Sell         | 465407174 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |    10000 | Sell         | 465407175 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      200 | Sell         | 465407170 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      400 | Sell         | 465407171 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      100 | Sell         | 465407178 |
+| KDH      | 2026-04-17 14:26:42 |   26.05 |      100 | Sell         | 465407179 |
 
 <!-- END:DAILY -->
 

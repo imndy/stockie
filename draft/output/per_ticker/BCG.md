@@ -1,38 +1,13 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:20  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCG |
-| exchange | HOSE |
-| ev | 2226932929320 |
-| ceiling | 3030 |
-| floor | 2030 |
-| ref_price | 2530 |
-| open | 2530 |
-| match_price | 2530 |
-| close_price | 2530 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 2530 |
-| low | 2530 |
-| total_volume | 0 |
-| high_price_1y | 4170 |
-| low_price_1y | 2430 |
-| pct_low_change_1y | 0 |
-| pct_high_change_1y | -0.3814180929 |
-| foreign_volume | 0 |
-| foreign_room | 440105322 |
-| avg_match_volume_2w | 0 |
-| foreign_holding_room | 9999522 |
-| current_holding_ratio | 0.011360373869780198 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -51,111 +26,17 @@
 | MACD Histogram | -0.089 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 0 |
-| Room NN còn lại | 440105322 |
-| Tỷ lệ sở hữu NN hiện tại | 0.011360373869780198 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BCG      |                    0 |      440105322 |               0.0113604 |
-| 2026-04-13 | BCG      |                    0 |      440105322 |               0.0113604 |
-| 2026-04-12 | BCG      |                    0 |      440105322 |               0.0113604 |
-| 2026-04-10 | BCG      |                    0 |      440105322 |               0.0113604 |
-| 2026-04-06 | BCG      |                    0 |      440105322 |               0.0113604 |
-| 2026-04-03 | BCG      |                    0 |      440105322 |               0.0113604 |
-
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCG |
-| year_report | 2024 |
-| length_report | 5 |
-| update_date | 1743500663647 |
-| revenue | 4731106990023 |
-| revenue_growth | 0.15045619124129464 |
-| net_profit | 404013458717 |
-| net_profit_growth | 5.849644291684731 |
-| ebit_margin | 0.1148380842827514 |
-| roe | 0.0480944817 |
-| roic | 0.015225801 |
-| roa | 0.0091269514 |
-| pe | 5.5120265953 |
-| pb | 0.2237306971 |
-| eps | 458.9963339695765 |
-| current_ratio | 1.6776216625 |
-| cash_ratio | 0.0549754535 |
-| quick_ratio | 1.305958597 |
-| interest_coverage | -0.45478845794049366 |
-| ae | 2.174606024124743 |
-| fae | 0.4275468548211218 |
-| net_profit_margin | 0.09241231070468645 |
-| gross_margin | 0.2630575020171229 |
-| ev | 2226932929320 |
-| issue_share | 880210644 |
-| ps | 0.5093791143 |
-| pcf | -1.2329054576 |
-| bvps | 11308.2381290813 |
-| ev_per_ebitda | 11.3941668307 |
-| at | 0.0987633715 |
-| fat | 0.4662934123 |
-| acp | 120.00205769139309 |
-| dso | 407.8059648508 |
-| dpo | 256.6552364212 |
-| eps_ttm | 458.9963339696 |
-| charter_capital | 8802106440000 |
-| rtq4 | 0.387355864 |
-| charter_capital_ratio | 2.4305078680920835 |
-| rtq10 | 1.1746060241 |
-| dividend | 0 |
-| ebitda | 1148405992162 |
-| ebit | 502055746358 |
-| le | 0.928659299 |
-| de | 1.1746060241 |
-| ccc | 784.4632589633932 |
-| rtq17 | 0.8950334999 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                              |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| BCG: Nghị quyết HĐQT số 04 ngày 19/03/2026                                                              | 1773941973000 | https://www.hsx.vn/vi/tin-tuc/bcg-nghi-quyet-hdqt-so-04-ngay-19032026/2445463                                             |
-| BCG: Nhắc nhở chậm công bố thông tin báo cáo tài chính quý 4 năm 2025 lần 2                             | 1770800694000 | https://www.hsx.vn/vi/tin-tuc/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-tai-chinh-quy-4-nam-2025-lan-2/2438297          |
-| BCG: Xin tạm hoãn nộp BCTC kiểm toán năm 2024, 2025 và soát xét bán niên 2025                           | 1770633198000 | https://www.hsx.vn/vi/tin-tuc/bcg-xin-tam-hoan-nop-bctc-kiem-toan-nam-2024-2025-va-soat-xet-ban-nien-2025/2437762         |
-| BCG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                           | 1770299962000 | https://www.hsx.vn/vi/tin-tuc/bcg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35/2437274                        |
-| BCG: Nhắc nhở chậm CBTT BCTC quý 4/2025                                                                 | 1770201387000 | https://www.hsx.vn/vi/tin-tuc/bcg-nhac-nho-cham-cbtt-bctc-quy-42025/2437025                                               |
-| BCG: Báo cáo tình hình quản trị công ty năm 2025                                                        | 1769530863000 | https://www.hsx.vn/vi/tin-tuc/bcg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2433983                                     |
-| BCG: Thông báo thay đổi nhân sự - chấm dứt ủy quyền CBTT                                                | 1769195872000 | https://www.hsx.vn/vi/tin-tuc/bcg-thong-bao-thay-doi-nhan-su--cham-dut-uy-quyen-cbtt/2433510                              |
-| BCG: Nghị quyết HĐQT về việc tiếp nhận đơn từ nhiệm của Thành viên BKS và thông qua giao dịch liên quan | 1769104002000 | https://www.hsx.vn/vi/tin-tuc/bcg-nghi-quyet-hdqt-ve-viec-tiep-nhan-don-tu-nhiem-cua-thanh-vien-bks-va-thong-qua-giao-di… |
-| BCG: Thông báo đơn xin từ nhiệm của Thành viên BKS                                                      | 1767982116000 | https://www.hsx.vn/vi/tin-tuc/bcg-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks/2429872                                   |
-| BCG: CBTT thành lập UB tái cấu trúc                                                                     | 1767191541000 | https://www.hsx.vn/vi/tin-tuc/bcg-cbtt-thanh-lap-ub-tai-cau-truc/2427678                                                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 80.014.019 cổ phiếu                                   | 2024-08-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BCG - Phát hành cổ phiếu thưởng tỷ lệ 10%                                    | 2024-07-24    | 2024-08-02    | 2024-08-01     |    0.1  |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 266,729,003 cổ phiếu                                  | 2024-07-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BCG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 10.000 đồng/cp | 2024-05-04    | 2024-05-13    | 2024-05-10     |    0.5  |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 30,162,185 cổ phiếu                                   | 2022-09-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BCG - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                 | 2022-08-17    | 2022-08-24    | 2022-08-23     |    0.05 |       0 |
-| Trả cổ tức bằng tiền mặt | BCG - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu                 | 2022-08-17    | 2022-08-24    | 2022-08-23     |    0.05 |     500 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 57,000,000 cổ phiếu                                   | 2022-05-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 4.026.777 cổ phiếu                                    | 2022-02-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 144.741.486 cổ phiếu                                  | 2022-02-09    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BCG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2 : 1 giá 12.000 đồng/cp | 2021-11-26    | 2021-12-07    | 2021-12-06     |    0.5  |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 90.000.000 cổ phiếu                                   | 2021-09-14    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | BCG - Niêm yết bổ sung 4.069.034 cổ phiếu                                    | 2021-07-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | BCG - Trả cổ tức Cả năm, 2020 bằng tiền 800 VND/CP                           | 2021-06-16    | 2021-06-24    | 2021-06-23     |    0.08 |     800 |
-| Phát hành cổ phiếu       | BCG - Phát hành cổ phiếu trả cổ tức tỷ lệ 50:1                               | 2021-06-16    | 2021-06-24    | 2021-06-23     |    0.02 |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 

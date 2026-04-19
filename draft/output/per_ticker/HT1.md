@@ -1,164 +1,47 @@
 # HT1 — HT1
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 19/04/2026 15:32  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HT1 |
-| exchange | HOSE |
-| ev | 5742928160550 |
-| ceiling | 16400 |
-| floor | 14300 |
-| ref_price | 15350 |
-| open | 15200 |
-| match_price | 15050 |
-| close_price | 15050 |
-| price_change | -300 |
-| price_change_pct | -0.01954397 |
-| high | 15550 |
-| low | 15000 |
-| total_volume | 488289 |
-| high_price_1y | 21000 |
-| low_price_1y | 9995 |
-| pct_low_change_1y | 0.4412602648 |
-| pct_high_change_1y | -0.2512437811 |
-| foreign_volume | 71101 |
-| foreign_room | 186979056 |
-| avg_match_volume_2w | 337585 |
-| foreign_holding_room | 8622552 |
-| current_holding_ratio | 0.02259638358205964 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.6 |
-| EMA20 | 15.32 |
-| EMA50 | 15.61 |
-| RSI(14) | 52.2 |
+| Giá đóng cửa | 15.1 |
+| EMA20 | 15.3 |
+| EMA50 | 15.57 |
+| RSI(14) | 46.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.176 |
-| MACD Signal | -0.254 |
-| MACD Histogram | 0.078 |
+| MACD | -0.144 |
+| MACD Signal | -0.201 |
+| MACD Histogram | 0.057 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 71101 |
-| Room NN còn lại | 186979056 |
-| Tỷ lệ sở hữu NN hiện tại | 0.02259638358205964 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | HT1      |                71101 |      186979056 |               0.0225964 |
-| 2026-04-12 | HT1      |                50200 |      186979056 |               0.0227247 |
-| 2026-04-06 | HT1      |                26100 |      186979056 |               0.023205  |
-| 2026-04-03 | HT1      |                20100 |      186979056 |               0.0231702 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HT1 |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773851556523 |
-| revenue | 7963542745613 |
-| revenue_growth | 0.0819762116619931 |
-| net_profit | 273733616880 |
-| net_profit_growth | 3.551138821210522 |
-| ebit_margin | 0.057522689851058025 |
-| roe | 0.0550526858 |
-| roic | 0.0742294727 |
-| roa | 0.0345979207 |
-| pe | 20.9799885962 |
-| pb | 1.1307523849 |
-| eps | 717.3502469251605 |
-| current_ratio | 0.673684019 |
-| cash_ratio | 0.2106358256 |
-| quick_ratio | 0.3359936099 |
-| interest_coverage | -9.9917026752746 |
-| ae | 1.493541505680747 |
-| fae | 0.893290627917477 |
-| net_profit_margin | 0.03717192568170537 |
-| gross_margin | 0.12493998132263243 |
-| ev | 5742928160550 |
-| issue_share | 381589911 |
-| ps | 0.7798665769 |
-| pcf | 7.2066859484 |
-| bvps | 13309.7220936169 |
-| ev_per_ebitda | 5.8083468073 |
-| at | 0.9307540594 |
-| fat | 1.5310480775 |
-| acp | 10.260117718024896 |
-| dso | 38.2272218748 |
-| dpo | 63.4047777535 |
-| eps_ttm | 717.3502469252 |
-| charter_capital | 3815899110000 |
-| rtq4 | 0.0055871344 |
-| charter_capital_ratio | 1.3335806306964966 |
-| rtq10 | 0.4935415057 |
-| dividend | 0 |
-| ebitda | 1005883234366 |
-| ebit | 423596401231 |
-| le | 0.1269849958 |
-| de | 0.4935415057 |
-| ccc | 111.8921173463249 |
-| rtq17 | 9.5481696576 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                              |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HT1: Báo cáo thường niên năm 2025                                                                       | 1775560293000 | https://www.hsx.vn/vi/tin-tuc/ht1-bao-cao-thuong-nien-nam-2025/2451071                                                    |
-| HT1: Thông báo thời gian, địa điểm, chương trình và link tài liệu họp ĐHĐCĐ TN năm 2026                 | 1774879707000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-thoi-gian-dia-diem-chuong-trinh-va-link-tai-lieu-hop-dhdcd-tn-nam-2026/24480… |
-| HT1: Quyết định của HĐQT về việc ký hợp đồng với người có liên quan                                     | 1774627663000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-ky-hop-dong-voi-nguoi-co-lien-quan/2447463                  |
-| HT1: Quyết định của HĐQT về việc chấp thuận chủ trường ký hợp đồng với Người có liên quan               | 1774285964000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan/2… |
-| HT1: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                       | 1773852965000 | https://www.hsx.vn/vi/tin-tuc/ht1-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc/2445108                    |
-| HT1: Quyết định của HĐQT về việc chấp thuận chủ trương gia hạn hợp đống năm 2026 với người có liên quan | 1773324370000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-gia-han-hop-dong-nam-2026-voi-nguoi-… |
-| HT1: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                             | 1773225821000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2443380          |
-| HT1: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Tổng Giám đốc                                        | 1773133133000 | https://www.hsx.vn/vi/tin-tuc/ht1-thong-bao-thay-doi-nhan-su--bo-nhiem-lai-pho-tong-giam-doc/2442966                      |
-| HT1: Quyết định của HĐQT về việc chấp thuận chủ trương ký hợp đồng với Người có liên quan               | 1772791461000 | https://www.hsx.vn/vi/tin-tuc/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan/2… |
-| HT1: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                       | 1772559868000 | https://www.hsx.vn/vi/tin-tuc/ht1-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2441566                                    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm năm 2024 bằng tiền 100 đồng/cổ phiếu  | 2025-08-29    | 2025-09-15    | 2025-09-12     |    0.01 |     100 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm năm 2022 bằng tiền 400 đồng/cổ phiếu  | 2023-10-18    | 2023-11-08    | 2023-11-07     |    0.04 |     400 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm năm 2021 bằng tiền 600 đồng/cổ phiếu  | 2022-09-18    | 2022-09-26    | 2022-09-23     |    0.06 |     600 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm, 2020 bằng tiền 1200 VND/CP           | 2021-11-26    | 2021-12-10    | 2021-12-09     |    0.12 |    1200 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm năm 2019 bằng tiền 1200 đồng/cổ phiếu | 2020-11-17    | 2020-11-30    | 2020-11-27     |    0.12 |    1200 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm, 2018 bằng tiền 1200 VND/CP           | 2019-11-04    | 2019-11-12    | 2019-11-11     |    0.12 |    1200 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm, 2017 bằng tiền 1500 VND/CP           | 2018-09-28    | 2018-10-11    | 2018-10-10     |    0.15 |    1500 |
-| Trả cổ tức bằng tiền mặt | HT1 - Trả cổ tức Cả năm, 2016 bằng tiền 1000 VND/CP           | 2017-09-08    | 2017-09-18    | 2017-09-15     |    0.1  |    1000 |
-| Niêm yết thêm            | HT1-Niêm yết thêm 63.589.911 cổ phiếu                         | 2016-12-07    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu       | HT1-Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                   | 2016-10-12    | 2016-10-27    | 2016-10-26     |  nan    |     nan |
-| Niêm yết thêm            | Niêm yết thêm                                                 | 2014-01-06    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                      | 2011-09-15    | 2011-09-29    | 2011-09-27     |  nan    |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HT1      | 2026-03-18 00:00:00 |  16.15 |  16.45 | 15.7  |   16.2  |   563600 |
-| HT1      | 2026-03-19 00:00:00 |  16.2  |  16.3  | 15.8  |   15.9  |   383700 |
-| HT1      | 2026-03-20 00:00:00 |  15.8  |  15.9  | 15.35 |   15.55 |   699400 |
 | HT1      | 2026-03-23 00:00:00 |  15.2  |  15.4  | 14.5  |   14.5  |  1293900 |
 | HT1      | 2026-03-24 00:00:00 |  14.8  |  14.9  | 14.45 |   14.45 |   336400 |
 | HT1      | 2026-03-25 00:00:00 |  14.55 |  15.1  | 14.55 |   14.9  |   599800 |
@@ -176,21 +59,24 @@
 | HT1      | 2026-04-10 00:00:00 |  15.85 |  15.85 | 15.3  |   15.35 |   410500 |
 | HT1      | 2026-04-13 00:00:00 |  15.2  |  15.55 | 15    |   15.05 |   488200 |
 | HT1      | 2026-04-14 00:00:00 |  15.35 |  15.65 | 15.15 |   15.6  |   373600 |
+| HT1      | 2026-04-15 00:00:00 |  16.05 |  16.05 | 15.4  |   15.4  |   514100 |
+| HT1      | 2026-04-16 00:00:00 |  15.4  |  15.55 | 15.2  |   15.2  |   362400 |
+| HT1      | 2026-04-17 00:00:00 |  15.3  |  15.6  | 15.1  |   15.1  |   627800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HT1      | 2026-04-14 13:50:28 |   15.5  |      300 | Sell         | 463490300 |
-| HT1      | 2026-04-14 13:50:28 |   15.5  |     3900 | Sell         | 463490301 |
-| HT1      | 2026-04-14 13:51:51 |   15.5  |     1900 | Buy          | 463494249 |
-| HT1      | 2026-04-14 13:51:51 |   15.5  |     1900 | Buy          | 463494247 |
-| HT1      | 2026-04-14 13:51:51 |   15.5  |     3200 | Buy          | 463494251 |
-| HT1      | 2026-04-14 13:54:01 |   15.45 |      100 | Sell         | 463500210 |
-| HT1      | 2026-04-14 13:54:01 |   15.45 |      100 | Sell         | 463500211 |
-| HT1      | 2026-04-14 13:54:28 |   15.5  |      300 | Buy          | 463501310 |
-| HT1      | 2026-04-14 13:54:40 |   15.5  |      200 | Buy          | 463501828 |
-| HT1      | 2026-04-14 13:55:28 |   15.55 |      300 | Buy          | 463503749 |
+| HT1      | 2026-04-17 13:33:21 |   15.25 |     3900 | Sell         | 465254527 |
+| HT1      | 2026-04-17 13:33:21 |   15.1  |     8000 | Sell         | 465254536 |
+| HT1      | 2026-04-17 13:33:21 |   15.15 |     5000 | Sell         | 465254529 |
+| HT1      | 2026-04-17 13:33:21 |   15.15 |     4000 | Sell         | 465254530 |
+| HT1      | 2026-04-17 13:33:21 |   15.15 |     5000 | Sell         | 465254531 |
+| HT1      | 2026-04-17 13:33:21 |   15.15 |      100 | Sell         | 465254532 |
+| HT1      | 2026-04-17 13:33:21 |   15.1  |     5000 | Sell         | 465254534 |
+| HT1      | 2026-04-17 13:33:21 |   15.1  |     8000 | Sell         | 465254535 |
+| HT1      | 2026-04-17 13:33:21 |   15.1  |     1000 | Sell         | 465254533 |
+| HT1      | 2026-04-17 13:33:21 |   15.1  |      100 | Sell         | 465254537 |
 
 <!-- END:DAILY -->
 

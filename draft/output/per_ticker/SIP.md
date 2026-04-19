@@ -1,166 +1,47 @@
 # SIP — SIP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 19/04/2026 15:37  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SIP |
-| exchange | HOSE |
-| ev | 14889945994500 |
-| ceiling | 65000 |
-| floor | 56600 |
-| ref_price | 60800 |
-| open | 60600 |
-| match_price | 61500 |
-| close_price | 61500 |
-| price_change | 700 |
-| price_change_pct | 0.01151316 |
-| high | 61500 |
-| low | 60300 |
-| total_volume | 244475 |
-| high_price_1y | 67742 |
-| low_price_1y | 47316 |
-| pct_low_change_1y | 0.2951368459 |
-| pct_high_change_1y | -0.0855138252 |
-| foreign_volume | 5300 |
-| foreign_room | 118635342 |
-| avg_match_volume_2w | 280126 |
-| foreign_holding_room | 6171607 |
-| current_holding_ratio | 0.025490611627483294 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 60.6 |
-| EMA20 | 59.85 |
-| EMA50 | 58.88 |
-| RSI(14) | 54.2 |
+| Giá đóng cửa | 61.9 |
+| EMA20 | 60.27 |
+| EMA50 | 59.17 |
+| RSI(14) | 58.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.785 |
-| MACD Signal | 0.577 |
-| MACD Histogram | 0.207 |
+| MACD | 0.838 |
+| MACD Signal | 0.689 |
+| MACD Histogram | 0.149 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 5300 |
-| Room NN còn lại | 118635342 |
-| Tỷ lệ sở hữu NN hiện tại | 0.025490611627483294 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | SIP      |                 5300 |      118635342 |               0.0254906 |
-| 2026-04-06 | SIP      |                57600 |      118635342 |               0.0259623 |
-| 2026-04-03 | SIP      |                99920 |      118635342 |               0.0257954 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SIP |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774971236813 |
-| revenue | 8598287199387 |
-| revenue_growth | 0.10168881975552023 |
-| net_profit | 1322871907067 |
-| net_profit_growth | 0.13050244570284616 |
-| ebit_margin | 0.13625040214962034 |
-| roe | 0.2787244475 |
-| roic | 0.1101667669 |
-| roa | 0.0492478164 |
-| pe | 11.255773076 |
-| pb | 2.8897683574 |
-| eps | 5463.86281821786 |
-| current_ratio | 2.8649707981 |
-| cash_ratio | 0.1976450775 |
-| quick_ratio | 1.7785006502 |
-| interest_coverage | -7.244550057664184 |
-| ae | 4.931246875299788 |
-| fae | 0.22356021208736962 |
-| net_profit_margin | 0.1538898469676232 |
-| gross_margin | 0.15628199627508846 |
-| ev | 14889945994500 |
-| issue_share | 242112943 |
-| ps | 1.7321491962 |
-| pcf | 6.1028851996 |
-| bvps | 21281.9826344022 |
-| ev_per_ebitda | 11.8401588676 |
-| at | 0.3200199192 |
-| fat | 6.5920374108 |
-| acp | 17.662234601079046 |
-| dso | 14.7713175562 |
-| dpo | 9.7263277204 |
-| eps_ttm | 5463.8628182179 |
-| charter_capital | 2421129430000 |
-| rtq4 | 0.1838859368 |
-| charter_capital_ratio | 2.4013517877898 |
-| rtq10 | 3.9312468753 |
-| dividend | 0.0162601626 |
-| ebitda | 1593127035036 |
-| ebit | 1171239252504 |
-| le | 1.012496486 |
-| de | 3.9312468753 |
-| ccc | 42.159879877679046 |
-| rtq17 | 24.7100503129 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                    |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| SIP: Nghị quyết HĐQT số 1396 ngày 09/04/2026                                                  | 1775841988000 | https://www.hsx.vn/vi/tin-tuc/sip-nghi-quyet-hdqt-so-1396-ngay-09042026/2452141                                           |
-| SIP: Thông báo đơn xin từ nhiệm của Thành viên BKS                                            | 1775488833000 | https://www.hsx.vn/vi/tin-tuc/sip-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks/2450730                                   |
-| SIP: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 1774977196000 | https://www.hsx.vn/vi/tin-tuc/sip-tai-lieu-hop-dhdcd-thuong-nien-2026/2448838                                             |
-| SIP: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                | 1772559313000 | https://www.hsx.vn/vi/tin-tuc/sip-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441553                       |
-| SIP: Thông báo và Nghị quyết HĐQT về việc chốt ngày ĐKCC tổ chức ĐHĐCĐ TN 2026                | 1772459460000 | https://www.hsx.vn/vi/tin-tuc/sip-thong-bao-va-nghi-quyet-hdqt-ve-viec-chot-ngay-dkcc-to-chuc-dhdcd-tn-2026/2441057       |
-| SIP: Báo cáo tình hình quản trị công ty năm 2025                                              | 1769802341000 | https://www.hsx.vn/vi/tin-tuc/sip-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435751                                     |
-| Tâm lý dè chừng của nhà đầu tư với cổ phiếu của VRG                                           | 1763991780000 | https://baodautu.vn/tam-ly-de-chung-cua-nha-dau-tu-voi-co-phieu-cua-vrg-d439085.html                                      |
-| SIP: Thông báo về ngày đăng ký cuối cùng chi tạm ứng cổ tức đợt 1 năm 2025 bằng tiền          | 1763043674000 | https://www.hsx.vn/vi/tin-tuc/sip-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tam-ung-co-tuc-dot-1-nam-2025-bang-tien/241777… |
-| SIP: Nghị quyết HĐQT về ngày đăng ký cuối cùng để tạm ứng cổ tức đợt 1 năm 2025 bằng tiền mặt | 1762448732000 | https://www.hsx.vn/vi/tin-tuc/sip-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-de-tam-ung-co-tuc-dot-1-nam-2025-bang-tien-m… |
-| SIP: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 22                                 | 1756478384000 | https://www.hsx.vn/vi/tin-tuc/sip-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-22/2400881                        |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu | 2025-11-13    | 2025-11-20    | 2025-11-19     |    0.1  |    1000 |
-| Niêm yết thêm            | SIP - Niêm yết bổ sung 31.579.540 cổ phiếu                   | 2025-08-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | SIP - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2025-07-04    | 2025-07-15    | 2025-07-14     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Đợt 2 năm 2024 bằng tiền 700 đồng/cổ phiếu  | 2025-05-09    | 2025-05-16    | 2025-05-15     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2024-12-06    | 2024-12-13    | 2024-12-12     |    0.1  |    1000 |
-| Niêm yết thêm            | SIP - Niêm yết bổ sung 1.454.463 cổ phiếu                    | 2024-10-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | SIP - Niêm yết bổ sung 27,271,017 cổ phiếu                   | 2024-08-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | SIP - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2024-07-05    | 2024-07-11    | 2024-07-10     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Cả năm năm 2023 bằng tiền 600 đồng/cổ phiếu | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.06 |     600 |
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2023-11-30    | 2023-12-08    | 2023-12-07     |    0.1  |    1000 |
-| Niêm yết thêm            | SIP - Niêm yết bổ sung 90,903,777 cổ phiếu                   | 2023-10-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | SIP - Phát hành cổ phiếu trả cổ tức tỷ lệ 45%                | 2023-08-30    | 2023-09-08    | 2023-09-07     |    0.45 |       0 |
-| Niêm yết thêm            | SIP - Giảm đăng ký giao dịch 2,000,000 cổ phiếu              | 2022-12-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | SIP - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2022-07-08    | 2022-07-14    | 2022-07-13     |    0.1  |    1000 |
-| Niêm yết thêm            | SIP - Giao dịch bổ sung 1.588.107 cổ phiếu                   | 2021-12-03    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SIP      | 2026-03-18 00:00:00 |   57.6 |   58.2 |  56.9 |    57.1 |   173400 |
-| SIP      | 2026-03-19 00:00:00 |   56.7 |   59.5 |  56.1 |    58.8 |   544800 |
-| SIP      | 2026-03-20 00:00:00 |   58.8 |   58.8 |  55   |    55   |   573400 |
 | SIP      | 2026-03-23 00:00:00 |   55.2 |   55.9 |  54.3 |    54.9 |   369700 |
 | SIP      | 2026-03-24 00:00:00 |   55.3 |   57   |  55.2 |    55.6 |   154000 |
 | SIP      | 2026-03-25 00:00:00 |   55.9 |   57.3 |  55.9 |    56.8 |   159100 |
@@ -178,21 +59,24 @@
 | SIP      | 2026-04-10 00:00:00 |   61.6 |   61.6 |  60.7 |    60.8 |   190800 |
 | SIP      | 2026-04-13 00:00:00 |   60.6 |   61.5 |  60.3 |    61.5 |   244100 |
 | SIP      | 2026-04-14 00:00:00 |   61.8 |   62   |  60.6 |    60.6 |   206800 |
+| SIP      | 2026-04-15 00:00:00 |   60.6 |   61.5 |  60.6 |    60.9 |   242000 |
+| SIP      | 2026-04-16 00:00:00 |   61   |   61.5 |  60.4 |    61.5 |   197400 |
+| SIP      | 2026-04-17 00:00:00 |   61.5 |   62.5 |  61.1 |    61.9 |   211100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      700 | Sell         | 463457585 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      200 | Sell         | 463457591 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      100 | Sell         | 463457590 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      100 | Sell         | 463457586 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      300 | Sell         | 463457588 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      100 | Sell         | 463457587 |
-| SIP      | 2026-04-14 13:43:02 |    60.7 |      100 | Sell         | 463457589 |
-| SIP      | 2026-04-14 13:45:02 |    60.6 |      100 | Sell         | 463467150 |
-| SIP      | 2026-04-14 13:45:02 |    60.6 |      100 | Sell         | 463467149 |
-| SIP      | 2026-04-14 13:45:02 |    60.6 |      200 | Sell         | 463467145 |
+| SIP      | 2026-04-17 13:00:03 |    61.6 |      200 | Buy          | 465177515 |
+| SIP      | 2026-04-17 13:00:06 |    61.6 |      600 | Sell         | 465177614 |
+| SIP      | 2026-04-17 13:01:59 |    61.4 |      100 | Sell         | 465181750 |
+| SIP      | 2026-04-17 13:01:59 |    61.3 |     2900 | Sell         | 465181755 |
+| SIP      | 2026-04-17 13:01:59 |    61.3 |      200 | Sell         | 465181754 |
+| SIP      | 2026-04-17 13:01:59 |    61.4 |      300 | Sell         | 465181749 |
+| SIP      | 2026-04-17 13:01:59 |    61.3 |      200 | Sell         | 465181752 |
+| SIP      | 2026-04-17 13:01:59 |    61.3 |      900 | Sell         | 465181751 |
+| SIP      | 2026-04-17 13:01:59 |    61.3 |      100 | Sell         | 465181753 |
+| SIP      | 2026-04-17 13:03:54 |    61.3 |      300 | Sell         | 465185302 |
 
 <!-- END:DAILY -->
 

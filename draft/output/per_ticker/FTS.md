@@ -1,170 +1,47 @@
 # FTS — FTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:26  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FTS |
-| exchange | HOSE |
-| ev | 9632644650200 |
-| ceiling | 29950 |
-| floor | 26050 |
-| ref_price | 28000 |
-| open | 27650 |
-| match_price | 27800 |
-| close_price | 27800 |
-| price_change | -200 |
-| price_change_pct | -0.00714286 |
-| high | 28800 |
-| low | 27300 |
-| total_volume | 875192 |
-| high_price_1y | 45100 |
-| low_price_1y | 23950 |
-| pct_low_change_1y | 0.1607515658 |
-| pct_high_change_1y | -0.3696145125 |
-| foreign_volume | 83100 |
-| foreign_room | 346498009 |
-| avg_match_volume_2w | 1250575 |
-| foreign_holding_room | 86228430 |
-| current_holding_ratio | 0.24885692777530505 |
-| max_holding_ratio | 1 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.8 |
+| Giá đóng cửa | 27.55 |
 | EMA20 | 27.66 |
-| EMA50 | 29.05 |
-| RSI(14) | 49.3 |
+| EMA50 | 28.84 |
+| RSI(14) | 48.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.249 |
-| MACD Signal | -0.673 |
-| MACD Histogram | 0.424 |
+| MACD | -0.185 |
+| MACD Signal | -0.388 |
+| MACD Histogram | 0.203 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 83100 |
-| Room NN còn lại | 346498009 |
-| Tỷ lệ sở hữu NN hiện tại | 0.24885692777530505 |
-| Tỷ lệ sở hữu NN tối đa | 1 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | FTS      |                83100 |      346498009 |                0.248857 |
-| 2026-04-13 | FTS      |                84400 |      346498009 |                0.248766 |
-| 2026-04-12 | FTS      |                84400 |      346498009 |                0.248766 |
-| 2026-04-10 | FTS      |                63015 |      346498009 |                0.248935 |
-| 2026-04-06 | FTS      |               100800 |      346498009 |                0.248562 |
-| 2026-04-03 | FTS      |               187600 |      346498009 |                0.248213 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FTS |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773399771293 |
-| revenue | 1205808101002 |
-| revenue_growth | 0.05058561903658395 |
-| net_profit | 396754274822 |
-| net_profit_growth | -0.30064861601761467 |
-| ebit_margin | 0.414785855952854 |
-| roe | 0.0929391588 |
-| roic | 0.0379533785 |
-| roa | 0.0335107241 |
-| pe | 27.8064409898 |
-| pb | 2.1793479007 |
-| eps | 1145.0405616096916 |
-| current_ratio | 1.4475002231 |
-| cash_ratio | 0.5707979891 |
-| quick_ratio | 0.5799290251 |
-| interest_coverage | None |
-| ae | 3.1492729968392332 |
-| fae | 0.03004473094175373 |
-| net_profit_margin | 0.3290360004152451 |
-| gross_margin | 0.4857360804005981 |
-| ev | 9632644650200 |
-| issue_share | 346498009 |
-| ps | 7.9885386756 |
-| pcf | -10.9957315497 |
-| bvps | 12756.1092891417 |
-| ev_per_ebitda | 30.013034694 |
-| at | 0.1018451598 |
-| fat | 8.7569854594 |
-| acp | None |
-| dso | 0 |
-| dpo | 0.6459634538 |
-| eps_ttm | 999.7683633876 |
-| charter_capital | 3464980090000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.2756109289141688 |
-| rtq10 | 2.1492729968 |
-| dividend | 0 |
-| ebitda | 515679736619 |
-| ebit | 500152145289 |
-| le | 1.9814856192 |
-| de | 2.1492729968 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                  |   public_date | news_source_link                                                                                                 |
-|:----------------------------------------------------------------------------|--------------:|:-----------------------------------------------------------------------------------------------------------------|
-| FTS: Nghị quyết HĐQT số 02, 03, 04 ngày 31/03/2026                          | 1775140483000 | https://www.hsx.vn/vi/tin-tuc/fts-nghi-quyet-hdqt-so-02-03-04-ngay-31032026/2449773                              |
-| FTS: Quyết định của HĐQT về việc miễn nhiệm Phó TGĐ và bổ nhiệm TGĐ         | 1775140387000 | https://www.hsx.vn/vi/tin-tuc/fts-quyet-dinh-cua-hdqt-ve-viec-mien-nhiem-pho-tgd-va-bo-nhiem-tgd/2449759         |
-| FTS: Thông báo thay đổi nhân sự                                             | 1775140320000 | https://www.hsx.vn/vi/tin-tuc/fts-thong-bao-thay-doi-nhan-su/2449758                                             |
-| FTS: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                  | 1775065682000 | https://www.hsx.vn/vi/tin-tuc/fts-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2449504                  |
-| FTS: Báo cáo thường niên năm 2025                                           | 1774515770000 | https://www.hsx.vn/vi/tin-tuc/fts-bao-cao-thuong-nien-nam-2025/2446765                                           |
-| FTS: Quyết định của HĐQT về việc vay vốn tại HDBank                         | 1773246712000 | https://www.hsx.vn/vi/tin-tuc/fts-quyet-dinh-cua-hdqt-ve-viec-vay-von-tai-hdbank/2443537                         |
-| FTS: Thông báo mời hợp ĐHĐCĐ thường niên năm 2026                           | 1773066588000 | https://www.hsx.vn/vi/tin-tuc/fts-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026/2442788                           |
-| FTS: Báo cáo tỷ lệ an toàn tài chính tại ngày 31/12/2025 đã kiểm toán       | 1773066455000 | https://www.hsx.vn/vi/tin-tuc/fts-bao-cao-ty-le-an-toan-tai-chinh-tai-ngay-31122025-da-kiem-toan/2442786         |
-| FTS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026 | 1770225617000 | https://www.hsx.vn/vi/tin-tuc/fts-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2437164 |
-| FTS: Báo cáo tình hình quản trị công ty năm 2025                            | 1770026447000 | https://www.hsx.vn/vi/tin-tuc/fts-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435979                            |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 9.988.400 cổ phiếu                                     | 2025-08-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 30.590.243 cổ phiếu                                    | 2025-07-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu                  | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.05 |     500 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                                     | 2025-05-06    | 2025-05-15    | 2025-05-14     |    0.1  |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 5,529,950 cổ phiếu                                     | 2024-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 85,824,429 cổ phiếu                                    | 2024-06-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 40%                                     | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.4  |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu                  | 2024-05-08    | 2024-05-16    | 2024-05-15     |    0.05 |     500 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 19,505,036 cổ phiếu                                    | 2023-07-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu                  | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.05 |     500 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu thưởng tỷ lệ 10%                                     | 2023-04-26    | 2023-05-12    | 2023-05-11     |    0.1  |       0 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 47,492,654 cổ phiếu                                    | 2022-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FTS - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 1 giá 10.000 đồng/cp | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.1  |       0 |
-| Trả cổ tức bằng tiền mặt | FTS - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu                  | 2022-07-20    | 2022-07-26    | 2022-07-25     |    0.05 |     500 |
-| Niêm yết thêm            | FTS - Niêm yết bổ sung 1.037.100 cổ phiếu                                     | 2021-11-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FTS      | 2026-03-17 00:00:00 |  27.9  |  28.25 | 27.5  |   27.55 |   558500 |
-| FTS      | 2026-03-18 00:00:00 |  27.6  |  27.75 | 27    |   27.4  |   554800 |
-| FTS      | 2026-03-19 00:00:00 |  27    |  27.2  | 26.35 |   26.35 |  1138600 |
-| FTS      | 2026-03-20 00:00:00 |  26.1  |  26.8  | 24.75 |   24.75 |  1202100 |
 | FTS      | 2026-03-23 00:00:00 |  24.45 |  25.45 | 23.95 |   23.95 |  1854100 |
 | FTS      | 2026-03-24 00:00:00 |  24.8  |  25    | 24.5  |   24.8  |   662500 |
 | FTS      | 2026-03-25 00:00:00 |  24.85 |  25.75 | 24.85 |   25.4  |   647700 |
@@ -181,10 +58,25 @@
 | FTS      | 2026-04-09 00:00:00 |  28.75 |  29    | 28.35 |   28.4  |  1045000 |
 | FTS      | 2026-04-10 00:00:00 |  28.5  |  28.75 | 28    |   28    |  1119900 |
 | FTS      | 2026-04-13 00:00:00 |  27.65 |  28.8  | 27.3  |   27.8  |   873700 |
+| FTS      | 2026-04-14 00:00:00 |  28.15 |  28.4  | 27.9  |   27.95 |   760000 |
+| FTS      | 2026-04-15 00:00:00 |  28.2  |  28.4  | 27.75 |   27.75 |   617500 |
+| FTS      | 2026-04-16 00:00:00 |  27.7  |  28    | 27.4  |   27.45 |   575800 |
+| FTS      | 2026-04-17 00:00:00 |  27.6  |  28    | 27.45 |   27.55 |   583500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      500 | Sell         | 465384357 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      100 | Sell         | 465384363 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      100 | Sell         | 465384365 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |     3000 | Sell         | 465384361 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      100 | Sell         | 465384364 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      500 | Sell         | 465384359 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      100 | Sell         | 465384362 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      800 | Sell         | 465384367 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |      100 | Sell         | 465384368 |
+| FTS      | 2026-04-17 14:20:53 |    27.5 |     1000 | Sell         | 465384369 |
 
 <!-- END:DAILY -->
 

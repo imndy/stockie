@@ -1,167 +1,47 @@
 # HSG — HSG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 19/04/2026 15:32  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HSG |
-| exchange | HOSE |
-| ev | 9532078443150 |
-| ceiling | 16350 |
-| floor | 14250 |
-| ref_price | 15300 |
-| open | 15000 |
-| match_price | 15350 |
-| close_price | 15350 |
-| price_change | 50 |
-| price_change_pct | 0.00326797 |
-| high | 15400 |
-| low | 15000 |
-| total_volume | 3199916 |
-| high_price_1y | 21200 |
-| low_price_1y | 12400 |
-| pct_low_change_1y | 0.228 |
-| pct_high_change_1y | -0.2673031026 |
-| foreign_volume | 124500 |
-| foreign_room | 304281331 |
-| avg_match_volume_2w | 2878260 |
-| foreign_holding_room | 23576112 |
-| current_holding_ratio | 0.03796583519096677 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.4 |
-| EMA20 | 15.07 |
-| EMA50 | 15.24 |
-| RSI(14) | 68.7 |
+| Giá đóng cửa | 16.0 |
+| EMA20 | 15.33 |
+| EMA50 | 15.33 |
+| RSI(14) | 61.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.153 |
-| MACD Signal | -0.034 |
-| MACD Histogram | 0.187 |
+| MACD | 0.279 |
+| MACD Signal | 0.107 |
+| MACD Histogram | 0.171 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 124500 |
-| Room NN còn lại | 304281331 |
-| Tỷ lệ sở hữu NN hiện tại | 0.03796583519096677 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | HSG      |               124500 |      304281331 |               0.0379658 |
-| 2026-04-12 | HSG      |               114300 |      304281331 |               0.0378755 |
-| 2026-04-06 | HSG      |                    0 |      304281331 |               0.0354778 |
-| 2026-04-03 | HSG      |                59300 |      304281331 |               0.0353979 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HSG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1770022800970 |
-| revenue | 35523577933205 |
-| revenue_growth | -0.13442502754697563 |
-| net_profit | 628388496317 |
-| net_profit_growth | 0.08942094730298171 |
-| ebit_margin | 0.01838207388297964 |
-| roe | 0.0559450759 |
-| roic | 0.0364076114 |
-| roa | 0.0307592666 |
-| pe | 15.1690848878 |
-| pb | 0.8390652385 |
-| eps | 1011.9265673267353 |
-| current_ratio | 1.3921906975 |
-| cash_ratio | 0.0888006111 |
-| quick_ratio | 0.3150756416 |
-| interest_coverage | -3.391083241693791 |
-| ae | 1.8510655007708254 |
-| fae | 0.3678785024732591 |
-| net_profit_margin | 0.018109583593451946 |
-| gross_margin | 0.12245327901051795 |
-| ev | 9532078443150 |
-| issue_share | 620982309 |
-| ps | 0.2747058108 |
-| pcf | 3.5015414477 |
-| bvps | 18294.1674810562 |
-| ev_per_ebitda | 9.591685862 |
-| at | 1.6985076693 |
-| fat | 8.5088170133 |
-| acp | 16.756294558914576 |
-| dso | 117.8011143632 |
-| dpo | 22.5759071823 |
-| eps_ttm | 1011.9265673267 |
-| charter_capital | 6209823090000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.8319858204425916 |
-| rtq10 | 0.8510655008 |
-| dividend | 0 |
-| ebitda | 1544778224224 |
-| ebit | 637843697891 |
-| le | 0.5400000893 |
-| de | 0.8510655008 |
-| ccc | 157.13331610441458 |
-| rtq17 | 3.0984426758 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                              |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu           | 1775834038000 | https://www.hsx.vn/vi/tin-tuc/hsg-thong-bao-ngay-dkcc-tra-co-tuc-nien-do-tai-chinh-20242025-bang-co-phieu/2451988         |
-| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                          | 1775239657000 | https://www.hsx.vn/vi/tin-tuc/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025/2450454                        |
-| Hoa Sen (HSG) sắp trả cổ tức bằng cổ phiếu với tỷ lệ 30%                                | 1773782700000 | https://www.tinnhanhchungkhoan.vn/hoa-sen-hsg-sap-tra-co-tuc-bang-co-phieu-voi-ty-le-30-post386941.html                   |
-| HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                    | 1773769171000 | https://www.hsx.vn/vi/tin-tuc/hsg-cbtt-chi-tra-co-tuc-nien-do-tai-chinh-20242025/2444864                                  |
-| HSG: Nghị quyết HĐQT về việc lựa chọn đơn vị kiểm toán BCTC niên độ tài chính 2025-2026 | 1773337145000 | https://www.hsx.vn/vi/tin-tuc/hsg-nghi-quyet-hdqt-ve-viec-lua-chon-don-vi-kiem-toan-bctc-nien-do-tai-chinh-20252026/2443… |
-| HSG: Biên bản và Nghị quyết ĐHĐCĐ thường niên NĐTC 2025-2026                            | 1773076954000 | https://www.hsx.vn/vi/tin-tuc/hsg-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-ndtc-20252026/2442893                          |
-| Hoa Sen trở lại với bất động sản                                                        | 1773058860000 | https://www.tinnhanhchungkhoan.vn/hoa-sen-tro-lai-voi-bat-dong-san-post386413.html                                        |
-| Hoa Sen muốn hủy kế hoạch mua lại tối đa 100 triệu cổ phiếu đã thông qua                | 1770884220000 | https://baodautu.vn/hoa-sen-muon-huy-ke-hoach-mua-lai-toi-da-100-trieu-co-phieu-da-thong-qua-d517574.html                 |
-| HSG: Link công bố tài liệu ĐHĐCĐ năm tài chính 2025-2026                                | 1770822265000 | https://www.hsx.vn/vi/tin-tuc/hsg-link-cong-bo-tai-lieu-dhdcd-nam-tai-chinh-20252026/2438409                              |
-| HSG: Nghị quyết HĐQT về việc thay đổi tỷ lệ sở hữu tại Công ty Cổ phần Hoa Sen Sài Gòn  | 1770645508000 | https://www.hsx.vn/vi/tin-tuc/hsg-nghi-quyet-hdqt-ve-viec-thay-doi-ty-le-so-huu-tai-cong-ty-co-phan-hoa-sen-sai-gon/2437… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Phát hành cổ phiếu       | HSG - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                | 2026-04-10    | 2026-05-05    | 2026-05-04     |    0.3  |       0 |
-| Trả cổ tức bằng tiền mặt | HSG - Trả cổ tức Cả năm năm 2024 bằng tiền 500 đồng/cổ phiếu | 2025-03-26    | 2025-04-03    | 2025-04-02     |    0.05 |     500 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 5.000.000 cổ phiếu                    | 2024-11-06    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | HSG - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu | 2024-04-17    | 2024-04-25    | 2024-04-24     |    0.05 |     500 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 17,927,323 cổ phiếu                   | 2023-07-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HSG - Phát hành cổ phiếu trả cổ tức tỷ lệ 3%                 | 2023-06-21    | 2023-06-27    | 2023-06-26     |    0.03 |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 99,672,290 cổ phiếu                   | 2022-10-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HSG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2022-08-31    | 2022-09-15    | 2022-09-14     |    0.2  |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 4,900,800 cổ phiếu                    | 2022-08-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 4.400.000 cổ phiếu                    | 2021-10-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 44.456.683 cổ phiếu                   | 2021-07-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HSG - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:10             | 2021-06-09    | 2021-06-16    | 2021-06-15     |    0.1  |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 21.155.724 cổ phiếu                   | 2020-05-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HSG- Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                  | 2020-04-01    | 2020-04-24    | 2020-04-23     |    0.05 |       0 |
-| Niêm yết thêm            | HSG - Niêm yết bổ sung 38.479.161 cổ phiếu                   | 2019-05-15    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HSG      | 2026-03-18 00:00:00 |  14.75 |  14.95 | 14.6  |   14.75 |  3941700 |
-| HSG      | 2026-03-19 00:00:00 |  14.65 |  14.7  | 14.5  |   14.6  |  2837800 |
-| HSG      | 2026-03-20 00:00:00 |  14.5  |  14.65 | 14.2  |   14.2  |  2603800 |
 | HSG      | 2026-03-23 00:00:00 |  14.2  |  14.3  | 13.65 |   13.85 |  4531200 |
 | HSG      | 2026-03-24 00:00:00 |  14.4  |  14.55 | 14.2  |   14.35 |  1721500 |
 | HSG      | 2026-03-25 00:00:00 |  14.45 |  14.6  | 14.35 |   14.4  |  4120300 |
@@ -179,21 +59,24 @@
 | HSG      | 2026-04-10 00:00:00 |  15.6  |  15.65 | 15.3  |   15.3  |  2276800 |
 | HSG      | 2026-04-13 00:00:00 |  15    |  15.4  | 15    |   15.35 |  3195400 |
 | HSG      | 2026-04-14 00:00:00 |  15.5  |  16.4  | 15.35 |   16.4  | 12506600 |
+| HSG      | 2026-04-15 00:00:00 |  16.55 |  16.6  | 16.1  |   16.2  |  6408300 |
+| HSG      | 2026-04-16 00:00:00 |  16.2  |  16.3  | 15.65 |   16    |  7058500 |
+| HSG      | 2026-04-17 00:00:00 |  16    |  16.1  | 15.85 |   16    |  3632900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HSG      | 2026-04-14 14:20:30 |    16.4 |      100 | Sell         | 463592696 |
-| HSG      | 2026-04-14 14:20:31 |    16.4 |      200 | Sell         | 463592798 |
-| HSG      | 2026-04-14 14:20:34 |    16.4 |      200 | Sell         | 463592905 |
-| HSG      | 2026-04-14 14:20:39 |    16.4 |     2000 | Sell         | 463593225 |
-| HSG      | 2026-04-14 14:20:41 |    16.4 |     1000 | Sell         | 463593343 |
-| HSG      | 2026-04-14 14:20:41 |    16.4 |     1000 | Sell         | 463593328 |
-| HSG      | 2026-04-14 14:20:42 |    16.4 |     3000 | Sell         | 463593351 |
-| HSG      | 2026-04-14 14:20:45 |    16.4 |      100 | Sell         | 463593542 |
-| HSG      | 2026-04-14 14:20:51 |    16.4 |      300 | Sell         | 463593969 |
-| HSG      | 2026-04-14 14:20:52 |    16.4 |     1000 | Sell         | 463593979 |
+| HSG      | 2026-04-17 14:25:44 |   15.95 |     1000 | Sell         | 465403506 |
+| HSG      | 2026-04-17 14:25:46 |   15.95 |      500 | Sell         | 465403614 |
+| HSG      | 2026-04-17 14:25:47 |   16    |     2700 | Buy          | 465403650 |
+| HSG      | 2026-04-17 14:25:55 |   16    |     5000 | Buy          | 465404180 |
+| HSG      | 2026-04-17 14:26:06 |   16    |     2600 | Buy          | 465404886 |
+| HSG      | 2026-04-17 14:26:19 |   16    |     1800 | Buy          | 465405667 |
+| HSG      | 2026-04-17 14:26:24 |   15.95 |     5000 | Sell         | 465406069 |
+| HSG      | 2026-04-17 14:26:24 |   15.95 |    17800 | Sell         | 465406060 |
+| HSG      | 2026-04-17 14:26:24 |   15.95 |     2700 | Sell         | 465406062 |
+| HSG      | 2026-04-17 14:26:24 |   15.95 |      700 | Sell         | 465406063 |
 
 <!-- END:DAILY -->
 

@@ -1,166 +1,47 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:51  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 19/04/2026 15:39  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIB |
-| exchange | HOSE |
-| ev | 60421101175000 |
-| ceiling | 18650 |
-| floor | 16250 |
-| ref_price | 17450 |
-| open | 17350 |
-| match_price | 17750 |
-| close_price | 17750 |
-| price_change | 300 |
-| price_change_pct | 0.01719198 |
-| high | 18050 |
-| low | 17300 |
-| total_volume | 21579806 |
-| high_price_1y | 24800 |
-| low_price_1y | 14562 |
-| pct_low_change_1y | 0.1686845549 |
-| pct_high_change_1y | -0.2478813559 |
-| foreign_volume | 1542200 |
-| foreign_room | 169859884 |
-| avg_match_volume_2w | 6906068 |
-| foreign_holding_room | 168816184 |
-| current_holding_ratio | 0.049593390370664216 |
-| max_holding_ratio | 0.0499 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 17.6 |
-| EMA20 | 17.1 |
-| EMA50 | 17.17 |
-| RSI(14) | 58.2 |
+| Giá đóng cửa | 17.35 |
+| EMA20 | 17.15 |
+| EMA50 | 17.18 |
+| RSI(14) | 53.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.127 |
-| MACD Signal | 0.025 |
-| MACD Histogram | 0.103 |
+| MACD | 0.116 |
+| MACD Signal | 0.071 |
+| MACD Histogram | 0.045 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1542200 |
-| Room NN còn lại | 169859884 |
-| Tỷ lệ sở hữu NN hiện tại | 0.049593390370664216 |
-| Tỷ lệ sở hữu NN tối đa | 0.0499 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | VIB      |              1542200 |      169859884 |               0.0495934 |
-| 2026-04-06 | VIB      |               901000 |      169859884 |               0.0499    |
-| 2026-04-03 | VIB      |               280200 |      169859884 |               0.0496642 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772469897440 |
-| revenue | 36324009000000 |
-| revenue_growth | 0.11962760585986386 |
-| net_profit | 7285430000000 |
-| net_profit_growth | 0.011237467849821013 |
-| ebit_margin | 0 |
-| roe | 0.1641480978 |
-| roic | 0 |
-| roa | 0.0138868386 |
-| pe | 8.293415924 |
-| pb | 1.2881662379 |
-| eps | 2140.2519978153973 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 11.85591163826751 |
-| fae | 0.018054870745576476 |
-| net_profit_margin | 0.4527316407492841 |
-| gross_margin | 0 |
-| ev | 60421101175000 |
-| issue_share | 3404005710 |
-| ps | 3.0200522504 |
-| pcf | 4.6709914818 |
-| bvps | 13779.2774553815 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 2140.2519978154 |
-| charter_capital | 34040057100000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.377927741490187 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                 |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VIB: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đặng Minh Trang, Đặng Thị Thu Hà | 1775833980000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-minh-trang-d… |
-| VIB: Biên bản và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                     | 1775749852000 | https://www.hsx.vn/vi/tin-tuc/vib-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2451723                               |
-| VIB đặt mục tiêu tăng 27% lợi nhuận, trả cổ tức và thưởng cổ phiếu gần 19%                                 | 1775654160000 | https://www.tinnhanhchungkhoan.vn/vib-dat-muc-tieu-tang-27-loi-nhuan-tra-co-tuc-va-thuong-co-phieu-gan-19-post388415.htm… |
-| VIB: Báo cáo thường niên năm 2025                                                                          | 1774283029000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-thuong-nien-nam-2025/2445973                                                    |
-| VIB: Thông báo về họp ĐHĐCĐ thường niên năm 2026                                                           | 1773852901000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ve-hop-dhdcd-thuong-nien-nam-2026/2445105                                     |
-| VIB: Giấy phép về việc thành lập và hoạt động của VIB                                                      | 1771953822000 | https://www.hsx.vn/vi/tin-tuc/vib-giay-phep-ve-viec-thanh-lap-va-hoat-dong-cua-vib/2439899                                |
-| VIB: Nghị quyết HĐQT về việc phê duyệt giao dịch với bên có liên quan                                      | 1770733631000 | https://www.hsx.vn/vi/tin-tuc/vib-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-voi-ben-co-lien-quan/2438158                |
-| VIB: Báo cáo tình hình quản trị công ty năm 2025                                                           | 1769784894000 | https://www.hsx.vn/vi/tin-tuc/vib-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435268                                     |
-| VIB: Giải trình biến động LNST quý 4/2025 so với cùng kỳ năm trước                                         | 1769701665000 | https://www.hsx.vn/vi/tin-tuc/vib-giai-trinh-bien-dong-lnst-quy-42025-so-voi-cung-ky-nam-truoc/2434785                    |
-| VIB: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                | 1769525143000 | https://www.hsx.vn/vi/tin-tuc/vib-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2433967                          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 424.877.895 cổ phiếu                  | 2025-08-25    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 14%                    | 2025-07-14    | 2025-07-18    | 2025-07-17     |   0.14  |       0 |
-| Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Cả năm năm 2024 bằng tiền 700 đồng/cổ phiếu | 2025-04-17    | 2025-04-23    | 2025-04-22     |   0.07  |     700 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 442.320.281 cổ phiếu                  | 2024-12-11    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 17%                    | 2024-08-09    | 2024-08-23    | 2024-08-22     |   0.17  |       0 |
-| Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 2 năm 2023 bằng tiền 650 đồng/cổ phiếu  | 2024-04-15    | 2024-04-19    | 2024-04-17     |   0.065 |     650 |
-| Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 1 năm 2023 bằng tiền 600 đồng/cổ phiếu  | 2024-01-12    | 2024-01-22    | 2024-01-19     |   0.06  |     600 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 429,134,589 cổ phiếu                  | 2023-07-26    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 2 năm 2022 bằng tiền 500 đồng/cổ phiếu  | 2023-03-31    | 2023-04-07    | 2023-04-06     |   0.05  |     500 |
-| Trả cổ tức bằng tiền mặt | VIB - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-02-08    | 2023-02-10    | 2023-02-09     |   0.1   |    1000 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 10,901,143 cổ phiếu                   | 2022-07-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 486,084,050 cổ phiếu                  | 2022-07-06    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 35%                    | 2022-05-09    | 2022-05-16    | 2022-05-13     |   0.35  |       0 |
-| Niêm yết thêm            | VIB - Niêm yết bổ sung 396.803.383 cổ phiếu                  | 2021-07-20    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | VIB - Phát hành cổ phiếu thưởng tỷ lệ 40%                    | 2021-06-04    | 2021-06-10    | 2021-06-09     |   0.4   |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2026-03-18 00:00:00 |  17.2  |  17.25 | 16.85 |   17.1  |  4526100 |
-| VIB      | 2026-03-19 00:00:00 |  16.95 |  17    | 16.6  |   16.8  |  6027800 |
-| VIB      | 2026-03-20 00:00:00 |  16.75 |  16.9  | 16.7  |   16.8  |  3343200 |
 | VIB      | 2026-03-23 00:00:00 |  16.65 |  16.75 | 16.2  |   16.3  |  5663500 |
 | VIB      | 2026-03-24 00:00:00 |  16.5  |  16.9  | 16.4  |   16.7  |  4879400 |
 | VIB      | 2026-03-25 00:00:00 |  16.8  |  17.25 | 16.7  |   17.25 |  8611500 |
@@ -178,21 +59,24 @@
 | VIB      | 2026-04-10 00:00:00 |  17.25 |  17.55 | 17.2  |   17.45 | 10411800 |
 | VIB      | 2026-04-13 00:00:00 |  17.35 |  18.05 | 17.3  |   17.75 | 17728900 |
 | VIB      | 2026-04-14 00:00:00 |  17.85 |  17.9  | 17.6  |   17.6  |  6829000 |
+| VIB      | 2026-04-15 00:00:00 |  17.75 |  17.75 | 17.35 |   17.35 |  7675300 |
+| VIB      | 2026-04-16 00:00:00 |  17.4  |  17.4  | 17.1  |   17.15 |  6846200 |
+| VIB      | 2026-04-17 00:00:00 |  17.25 |  17.45 | 17.1  |   17.35 |  5665400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIB      | 2026-04-14 14:27:48 |   17.65 |      500 | Buy          | 463618761 |
-| VIB      | 2026-04-14 14:27:48 |   17.65 |      100 | Buy          | 463618762 |
-| VIB      | 2026-04-14 14:27:54 |   17.65 |      800 | Buy          | 463619181 |
-| VIB      | 2026-04-14 14:27:54 |   17.65 |      200 | Buy          | 463619180 |
-| VIB      | 2026-04-14 14:27:58 |   17.65 |      100 | Buy          | 463619409 |
-| VIB      | 2026-04-14 14:28:20 |   17.65 |     2000 | Buy          | 463620886 |
-| VIB      | 2026-04-14 14:28:24 |   17.65 |      500 | Buy          | 463621232 |
-| VIB      | 2026-04-14 14:28:24 |   17.65 |     1000 | Buy          | 463621284 |
-| VIB      | 2026-04-14 14:28:26 |   17.6  |      800 | Sell         | 463621453 |
-| VIB      | 2026-04-14 14:28:26 |   17.6  |     5300 | Sell         | 463621449 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |     2000 | Buy          | 465396827 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |      400 | Buy          | 465396834 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |     1000 | Buy          | 465396833 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |     2000 | Buy          | 465396832 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |     1000 | Buy          | 465396828 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |      100 | Buy          | 465396830 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |      200 | Buy          | 465396829 |
+| VIB      | 2026-04-17 14:23:55 |   17.35 |     5000 | Buy          | 465396831 |
+| VIB      | 2026-04-17 14:24:17 |   17.35 |     1000 | Sell         | 465398200 |
+| VIB      | 2026-04-17 14:24:18 |   17.35 |     5000 | Sell         | 465398234 |
 
 <!-- END:DAILY -->
 

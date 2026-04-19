@@ -1,168 +1,47 @@
 # EVF — EVF
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EVF |
-| exchange | HOSE |
-| ev | 10419751487400 |
-| ceiling | 14750 |
-| floor | 12850 |
-| ref_price | 13800 |
-| open | 13650 |
-| match_price | 13700 |
-| close_price | 13700 |
-| price_change | -100 |
-| price_change_pct | -0.00724638 |
-| high | 14000 |
-| low | 13650 |
-| total_volume | 11197578 |
-| high_price_1y | 16500 |
-| low_price_1y | 8660 |
-| pct_low_change_1y | 0.5375982043 |
-| pct_high_change_1y | -0.1569230769 |
-| foreign_volume | 280800 |
-| foreign_room | 114084870 |
-| avg_match_volume_2w | 9292139 |
-| foreign_holding_room | 3771995 |
-| current_holding_ratio | 0.004959459115938532 |
-| max_holding_ratio | 0.15 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.7 |
-| EMA20 | 13.71 |
-| EMA50 | 13.27 |
-| RSI(14) | 51.2 |
+| Giá đóng cửa | 13.8 |
+| EMA20 | 13.77 |
+| EMA50 | 13.36 |
+| RSI(14) | 51.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.116 |
-| MACD Signal | 0.182 |
-| MACD Histogram | -0.066 |
+| MACD | 0.12 |
+| MACD Signal | 0.148 |
+| MACD Histogram | -0.028 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 280800 |
-| Room NN còn lại | 114084870 |
-| Tỷ lệ sở hữu NN hiện tại | 0.004959459115938532 |
-| Tỷ lệ sở hữu NN tối đa | 0.15 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | EVF      |               280800 |      114084870 |              0.00495946 |
-| 2026-04-13 | EVF      |               176100 |      114084870 |              0.0050632  |
-| 2026-04-12 | EVF      |               176100 |      114084870 |              0.0050632  |
-| 2026-04-10 | EVF      |               177700 |      114084870 |              0.00506767 |
-| 2026-04-06 | EVF      |               353515 |      114084870 |              0.00579511 |
-| 2026-04-03 | EVF      |               307630 |      114084870 |              0.00472918 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EVF |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1771867874463 |
-| revenue | 5501970000000 |
-| revenue_growth | 0.28647487128166516 |
-| net_profit | 894337000000 |
-| net_profit_growth | 0.5946895806512583 |
-| ebit_margin | 0 |
-| roe | 0.0947216447 |
-| roic | 0 |
-| roa | 0.0125383088 |
-| pe | 11.7684962025 |
-| pb | 1.0550269904 |
-| eps | 1175.8837959845157 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 8.409854956654266 |
-| fae | 0.02419755031469816 |
-| net_profit_margin | 0.47275869159678835 |
-| gross_margin | 0 |
-| ev | 10419751460000 |
-| issue_share | 760565802 |
-| ps | 4.7072071952 |
-| pcf | 6.7379349353 |
-| bvps | 12985.4497796246 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 1164.1249454735 |
-| charter_capital | 7605658020000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.2985449745477775 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                            |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| EVF: Điều lệ tổ chức và hoạt động                                                                                     | 1775834414000 | https://www.hsx.vn/vi/tin-tuc/evf-dieu-le-to-chuc-va-hoat-dong/2451996                                                    |
-| EVF: Quy chế quản trị nội bộ                                                                                          | 1775834386000 | https://www.hsx.vn/vi/tin-tuc/evf-quy-che-quan-tri-noi-bo/2451995                                                         |
-| EVF: Quy chế tổ chức và hoạt động của HĐQT                                                                            | 1775834280000 | https://www.hsx.vn/vi/tin-tuc/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt/2451994                                           |
-| EVF: Công văn CBTT về banh hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                          | 1775834266000 | https://www.hsx.vn/vi/tin-tuc/evf-cong-van-cbtt-ve-banh-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb/… |
-| EVF: Công văn CBTT về ban hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                           | 1775834220000 | https://www.hsx.vn/vi/tin-tuc/evf-cong-van-cbtt-ve-ban-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb/2… |
-| EVN Finance (EVF): Lợi nhuận quý I/2026 ước hoàn thành 25% kế hoạch năm                                               | 1775488560000 | https://www.tinnhanhchungkhoan.vn/evn-finance-evf-loi-nhuan-quy-i2026-uoc-hoan-thanh-25-ke-hoach-nam-post388280.html      |
-| EVF: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                            | 1775469750000 | https://www.hsx.vn/vi/tin-tuc/evf-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2450582                           |
-| EVF: CBTT bổ nhiệm lại KTT                                                                                            | 1774625529000 | https://www.hsx.vn/vi/tin-tuc/evf-cbtt-bo-nhiem-lai-ktt/2447418                                                           |
-| EVF: Nghị quyết HĐQT về việc phê duyệt phương án phát hành Trái phiếu tăng vốn cấp 2 theo hình thức riêng lẻ năm 2026 | 1773248635000 | https://www.hsx.vn/vi/tin-tuc/evf-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2-theo-h… |
-| EVF: Thư mời tham dự ĐHĐCĐ thường niên 2026                                                                           | 1772816308000 | https://www.hsx.vn/vi/tin-tuc/evf-thu-moi-tham-du-dhdcd-thuong-nien-2026/2442462                                          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm      | EVF - Niêm yết bổ sung 56.317.513 cổ phiếu                                   | 2024-11-15    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | EVF - Phát hành cổ phiếu trả cổ tức tỷ lệ 8%                                 | 2024-10-11    | 2024-10-18    | 2024-10-17     |   0.08  |       0 |
-| Niêm yết thêm      | EVF - Niêm yết bổ sung 2,120,227 cổ phiếu                                    | 2024-01-05    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Niêm yết thêm      | EVF - Niêm yết bổ sung 351,064,031 cổ phiếu                                  | 2023-12-22    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | EVF - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 1 : 1 giá 11.000 đồng/cp | 2023-09-15    | 2023-09-22    | 2023-09-21     |   1     |       0 |
-| Niêm yết thêm      | EVF - Niêm yết bổ sung 26,577,073 cổ phiếu                                   | 2022-09-28    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | EVF - Phát hành cổ phiếu trả cổ tức tỷ lệ 8,2%                               | 2022-08-17    | 2022-08-23    | 2022-08-22     |   0.082 |       0 |
-| Niêm yết thêm      | EVF - Niêm yết bổ sung 19,779,330 cổ phiếu                                   | 2022-04-13    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | EVF - Phát hành cổ phiếu trả cổ tức tỷ lệ 6.5%                               | 2022-02-28    | 2022-03-04    | 2022-03-03     |   0.065 |       0 |
-| Phát hành cổ phiếu | EVF - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:15                             | 2021-07-12    | 2021-07-19    | 2021-07-16     |   0.15  |       0 |
-| Niêm yết thêm      | EVF - Đăng ký giao dịch bổ sung 14.981.265 cổ phiếu                          | 2020-03-26    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu | EVF- Phát hành cổ phiếu trả cổ tức tỷ lệ 100:6                               | 2020-02-13    | 2020-02-19    | 2020-02-18     |   0.06  |       0 |
-| Niêm yết mới       | EVF - Chính thức giao dịch trên sàn UPCoM                                    | 2018-07-30    | 1753-01-01    | 1753-01-01     |   0     |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EVF      | 2026-03-17 00:00:00 |  14    |  14.35 | 13.3  |   13.95 | 14158700 |
-| EVF      | 2026-03-18 00:00:00 |  13.95 |  14.5  | 13.65 |   13.8  |  9517600 |
-| EVF      | 2026-03-19 00:00:00 |  13.55 |  14.25 | 13.05 |   13.75 | 15746700 |
-| EVF      | 2026-03-20 00:00:00 |  13.7  |  14.4  | 13.65 |   13.85 | 13543600 |
 | EVF      | 2026-03-23 00:00:00 |  13.5  |  13.8  | 12.9  |   13    | 15032700 |
 | EVF      | 2026-03-24 00:00:00 |  13.4  |  13.65 | 13.15 |   13.25 |  6124600 |
 | EVF      | 2026-03-25 00:00:00 |  13.55 |  14.15 | 13.45 |   13.9  | 12085500 |
@@ -179,10 +58,25 @@
 | EVF      | 2026-04-09 00:00:00 |  13.95 |  14.1  | 13.8  |   13.85 |  6399400 |
 | EVF      | 2026-04-10 00:00:00 |  13.9  |  14.2  | 13.65 |   13.8  |  6603700 |
 | EVF      | 2026-04-13 00:00:00 |  13.65 |  14    | 13.65 |   13.7  |  5566600 |
+| EVF      | 2026-04-14 00:00:00 |  13.9  |  14    | 13.6  |   13.85 |  4598400 |
+| EVF      | 2026-04-15 00:00:00 |  14.05 |  14.6  | 13.9  |   14    | 17449600 |
+| EVF      | 2026-04-16 00:00:00 |  14    |  14    | 13.7  |   14    |  6554400 |
+| EVF      | 2026-04-17 00:00:00 |  14.05 |  14.05 | 13.8  |   13.8  |  4914300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| EVF      | 2026-04-17 14:22:58 |   13.85 |     2000 | Buy          | 465393105 |
+| EVF      | 2026-04-17 14:23:02 |   13.85 |      100 | Sell         | 465393291 |
+| EVF      | 2026-04-17 14:23:03 |   13.85 |      200 | Sell         | 465393344 |
+| EVF      | 2026-04-17 14:23:21 |   13.85 |     3000 | Sell         | 465394801 |
+| EVF      | 2026-04-17 14:23:38 |   13.85 |     1000 | Sell         | 465395878 |
+| EVF      | 2026-04-17 14:23:53 |   13.85 |      100 | Sell         | 465396671 |
+| EVF      | 2026-04-17 14:23:59 |   13.85 |     2000 | Sell         | 465397133 |
+| EVF      | 2026-04-17 14:23:59 |   13.85 |      100 | Sell         | 465397136 |
+| EVF      | 2026-04-17 14:24:09 |   13.85 |    20000 | Sell         | 465397675 |
+| EVF      | 2026-04-17 14:24:12 |   13.85 |    30000 | Sell         | 465397826 |
 
 <!-- END:DAILY -->
 

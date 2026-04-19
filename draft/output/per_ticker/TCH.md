@@ -1,166 +1,47 @@
 # TCH — TCH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:49  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 19/04/2026 15:38  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TCH |
-| exchange | HOSE |
-| ev | 15597067730400 |
-| ceiling | 18150 |
-| floor | 15850 |
-| ref_price | 17000 |
-| open | 16850 |
-| match_price | 17100 |
-| close_price | 17100 |
-| price_change | 100 |
-| price_change_pct | 0.00588235 |
-| high | 17350 |
-| low | 16750 |
-| total_volume | 8025942 |
-| high_price_1y | 25001 |
-| low_price_1y | 12850 |
-| pct_low_change_1y | 0.3307392996 |
-| pct_high_change_1y | -0.3054297521 |
-| foreign_volume | 225600 |
-| foreign_room | 465175704 |
-| avg_match_volume_2w | 12029364 |
-| foreign_holding_room | 120891779 |
-| current_holding_ratio | 0.13254090170236016 |
-| max_holding_ratio | 0.51 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 17.3 |
-| EMA20 | 16.43 |
-| EMA50 | 16.19 |
-| RSI(14) | 59.7 |
+| Giá đóng cửa | 17.1 |
+| EMA20 | 16.64 |
+| EMA50 | 16.31 |
+| RSI(14) | 56.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.49 |
-| MACD Signal | 0.418 |
-| MACD Histogram | 0.072 |
+| MACD | 0.477 |
+| MACD Signal | 0.45 |
+| MACD Histogram | 0.027 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 225600 |
-| Room NN còn lại | 465175704 |
-| Tỷ lệ sở hữu NN hiện tại | 0.13254090170236016 |
-| Tỷ lệ sở hữu NN tối đa | 0.51 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | TCH      |               225600 |      465175704 |                0.132541 |
-| 2026-04-06 | TCH      |              2052700 |      465175704 |                0.13048  |
-| 2026-04-03 | TCH      |              2440800 |      465175704 |                0.128451 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TCH |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1770031490813 |
-| revenue | 1912201092403 |
-| revenue_growth | -0.6476759415664322 |
-| net_profit | 318192023116 |
-| net_profit_growth | -0.6751997655158946 |
-| ebit_margin | 0.17604340191384774 |
-| roe | 0.0303134262 |
-| roic | 0.0229616778 |
-| roa | 0.0174498409 |
-| pe | 49.0177835939 |
-| pb | 1.3643389164 |
-| eps | 348.8529824537768 |
-| current_ratio | 2.9666837095 |
-| cash_ratio | 0.3600466795 |
-| quick_ratio | 0.5584395267 |
-| interest_coverage | 1237.2805385208585 |
-| ae | 1.4800213881154334 |
-| fae | 0.024514495709030103 |
-| net_profit_margin | 0.16640092110612623 |
-| gross_margin | 0.30409067164545445 |
-| ev | 15597067730400 |
-| issue_share | 912109224 |
-| ps | 8.1566043406 |
-| pcf | 6.6594052856 |
-| bvps | 12533.5426517954 |
-| ev_per_ebitda | 34.3703796455 |
-| at | 0.1048662517 |
-| fat | 5.4036833236 |
-| acp | 90.0465116279437 |
-| dso | 2620.053340491 |
-| dpo | 183.9066159221 |
-| eps_ttm | 348.8529824538 |
-| charter_capital | 9121092240000 |
-| rtq4 | 0.0273290465 |
-| charter_capital_ratio | 1.5645638089276686 |
-| rtq10 | 0.4800213881 |
-| dividend | 0 |
-| ebitda | 398426357483 |
-| ebit | 336630385450 |
-| le | 0.054658093 |
-| de | 0.4800213881 |
-| ccc | 2894.006468041044 |
-| rtq17 | 0.1393101409 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                 |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| TCH: Thông báo Quyết định của Thuế TP Hải Phòng về việc xử phạt vi phạm hành chính về thuế | 1775584148000 | https://www.hsx.vn/vi/tin-tuc/tch-thong-bao-quyet-dinh-cua-thue-tp-hai-phong-ve-viec-xu-phat-vi-pham-hanh-chinh-ve-thue/… |
-| TCH: Báo cáo thay đổi sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là CĐ lớn         | 1775584020000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-cd-lon/2451278   |
-| TCH: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán cổ phiếu ra công chúng       | 1774893699000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-tien-do-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung/244828… |
-| TCH: Báo cáo về thay đổi sở hữu của nhóm nhà ĐTN có liên quan là CĐ lớn                    | 1774635480000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-ve-thay-doi-so-huu-cua-nhom-nha-dtn-co-lien-quan-la-cd-lon/2447653              |
-| TCH: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1772214900000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| TCH: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1772213040000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| TCH: Giải trình chênh lệch KQKD quý 3/2025 so với cùng kỳ năm trước                        | 1769781860000 | https://www.hsx.vn/vi/tin-tuc/tch-giai-trinh-chenh-lech-kqkd-quy-32025-so-voi-cung-ky-nam-truoc/2435199                   |
-| TCH: Báo cáo tình hình quản trị công ty năm 2025                                           | 1769706204000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434880                                     |
-| TCH: Nghị quyết HĐQT về việc đầu tư tại công ty thành viên                                 | 1767633516000 | https://www.hsx.vn/vi/tin-tuc/tch-nghi-quyet-hdqt-ve-viec-dau-tu-tai-cong-ty-thanh-vien/2428504                           |
-| TCH: Báo cáo thay đổi sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là CĐ lớn         | 1767029940000 | https://www.hsx.vn/vi/tin-tuc/tch-bao-cao-thay-doi-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-cd-lon/2427321   |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 43.428.629 cổ phiếu                                    | 2025-12-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | TCH - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                  | 2025-11-14    | 2025-11-24    | 2025-11-21     |    0.05 |       0 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 200.464.752 cổ phiếu                                   | 2025-10-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | TCH - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 10 : 3 giá 10.000 đồng/cp | 2025-08-13    | 2025-08-21    | 2025-08-20     |    0.3  |       0 |
-| Trả cổ tức bằng tiền mặt | TCH - Trả cổ tức Đợt 1 năm 2023 bằng tiền 500 đồng/cổ phiếu                   | 2023-08-28    | 2023-09-05    | 2023-08-31     |    0.05 |     500 |
-| Trả cổ tức bằng tiền mặt | TCH - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1200 đồng/cổ phiếu                  | 2022-11-25    | 2022-12-02    | 2022-12-01     |    0.12 |    1200 |
-| Trả cổ tức bằng tiền mặt | TCH - Trả cổ tức Cả năm năm 2021 bằng tiền 300 đồng/cổ phiếu                  | 2022-07-15    | 2022-07-25    | 2022-07-22     |    0.03 |     300 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 49.493.875 cổ phiếu                                    | 2022-02-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | TCH - Phát hành cổ phiếu thưởng tỷ lệ 8%                                      | 2022-01-10    | 2022-01-14    | 2022-01-13     |    0.08 |       0 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 213.545.555 cổ phiếu                                   | 2021-11-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 6.000.669 cổ phiếu                                     | 2021-11-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | TCH - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 2:1 giá 12.800 đồng/cp    | 2021-09-08    | 2021-09-13    | 2021-09-10     |    0.5  |       0 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 15.015.460 cổ phiếu                                    | 2021-06-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | TCH - Niêm yết bổ sung 21.166.270 cổ phiếu                                    | 2021-05-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | TCH - Trả cổ tức Đợt 1, 2020 bằng tiền 500 VND/CP                             | 2020-12-23    | 2020-12-30    | 2020-12-29     |    0.05 |     500 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCH      | 2026-03-18 00:00:00 |  14.4  |  14.7  | 14.25 |   14.4  |  3640300 |
-| TCH      | 2026-03-19 00:00:00 |  14.25 |  15.15 | 14.2  |   14.6  |  7546200 |
-| TCH      | 2026-03-20 00:00:00 |  14.6  |  15.2  | 14.55 |   14.9  |  9013900 |
 | TCH      | 2026-03-23 00:00:00 |  14.8  |  15.2  | 14.25 |   14.95 | 12342600 |
 | TCH      | 2026-03-24 00:00:00 |  15.35 |  15.95 | 15.15 |   15.95 | 27190500 |
 | TCH      | 2026-03-25 00:00:00 |  16.2  |  17    | 16    |   16.5  | 15023600 |
@@ -178,21 +59,24 @@
 | TCH      | 2026-04-10 00:00:00 |  17.35 |  17.4  | 16.65 |   17    | 13558200 |
 | TCH      | 2026-04-13 00:00:00 |  16.85 |  17.35 | 16.75 |   17.1  |  6734100 |
 | TCH      | 2026-04-14 00:00:00 |  17.4  |  17.8  | 17.15 |   17.3  | 15569000 |
+| TCH      | 2026-04-15 00:00:00 |  17.4  |  17.7  | 17    |   17    | 11715200 |
+| TCH      | 2026-04-16 00:00:00 |  17    |  17.7  | 16.8  |   17.55 | 14124000 |
+| TCH      | 2026-04-17 00:00:00 |  17.7  |  17.7  | 17.1  |   17.1  |  8089300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCH      | 2026-04-14 14:27:26 |    17.4 |      300 | Buy          | 463617359 |
-| TCH      | 2026-04-14 14:27:28 |    17.4 |      500 | Buy          | 463617530 |
-| TCH      | 2026-04-14 14:27:31 |    17.4 |     2000 | Buy          | 463617624 |
-| TCH      | 2026-04-14 14:27:32 |    17.4 |      500 | Buy          | 463617722 |
-| TCH      | 2026-04-14 14:27:34 |    17.4 |      100 | Buy          | 463617828 |
-| TCH      | 2026-04-14 14:27:36 |    17.4 |      100 | Buy          | 463618130 |
-| TCH      | 2026-04-14 14:27:36 |    17.4 |      500 | Buy          | 463618131 |
-| TCH      | 2026-04-14 14:27:36 |    17.4 |      500 | Buy          | 463618132 |
-| TCH      | 2026-04-14 14:27:36 |    17.4 |     4900 | Buy          | 463618133 |
-| TCH      | 2026-04-14 14:27:39 |    17.4 |     1000 | Buy          | 463618242 |
+| TCH      | 2026-04-17 14:28:45 |   17.1  |      500 | Sell         | 465416521 |
+| TCH      | 2026-04-17 14:28:48 |   17.15 |      100 | Buy          | 465416810 |
+| TCH      | 2026-04-17 14:28:49 |   17.15 |     2000 | Buy          | 465416985 |
+| TCH      | 2026-04-17 14:28:50 |   17.1  |      400 | Sell         | 465417023 |
+| TCH      | 2026-04-17 14:28:50 |   17.1  |      600 | Sell         | 465417025 |
+| TCH      | 2026-04-17 14:28:53 |   17.15 |     1000 | Buy          | 465417338 |
+| TCH      | 2026-04-17 14:28:57 |   17.1  |     2400 | Sell         | 465417582 |
+| TCH      | 2026-04-17 14:29:00 |   17.15 |    19600 | Buy          | 465417814 |
+| TCH      | 2026-04-17 14:29:00 |   17.1  |      300 | Sell         | 465417914 |
+| TCH      | 2026-04-17 14:29:01 |   17.15 |      200 | Buy          | 465417958 |
 
 <!-- END:DAILY -->
 

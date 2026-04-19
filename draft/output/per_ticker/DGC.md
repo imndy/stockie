@@ -1,170 +1,47 @@
 # DGC — DGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGC |
-| exchange | HOSE |
-| ev | 20621967825900 |
-| ceiling | 57700 |
-| floor | 50300 |
-| ref_price | 54000 |
-| open | 53100 |
-| match_price | 54300 |
-| close_price | 54300 |
-| price_change | 300 |
-| price_change_pct | 0.00555556 |
-| high | 55400 |
-| low | 53100 |
-| total_volume | 2210610 |
-| high_price_1y | 106253 |
-| low_price_1y | 48250 |
-| pct_low_change_1y | 0.1059063136 |
-| pct_high_change_1y | -0.4747482056 |
-| foreign_volume | 223746 |
-| foreign_room | 186091850 |
-| avg_match_volume_2w | 3982524 |
-| foreign_holding_room | 25154108 |
-| current_holding_ratio | 0.0662334912073114 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 54.3 |
-| EMA20 | 56.64 |
-| EMA50 | 62.8 |
-| RSI(14) | 42.4 |
+| Giá đóng cửa | 54.5 |
+| EMA20 | 56.11 |
+| EMA50 | 61.65 |
+| RSI(14) | 43.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -3.523 |
-| MACD Signal | -4.137 |
-| MACD Histogram | 0.614 |
+| MACD | -2.527 |
+| MACD Signal | -3.326 |
+| MACD Histogram | 0.799 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 223746 |
-| Room NN còn lại | 186091850 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0662334912073114 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DGC      |               223746 |      186091850 |               0.0662335 |
-| 2026-04-13 | DGC      |               364607 |      186091850 |               0.0662335 |
-| 2026-04-12 | DGC      |               364607 |      186091850 |               0.0662335 |
-| 2026-04-10 | DGC      |              2034606 |      186091850 |               0.0662261 |
-| 2026-04-06 | DGC      |               128805 |      186091850 |               0.0619944 |
-| 2026-04-03 | DGC      |              1468812 |      186091850 |               0.0616934 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1769797797450 |
-| revenue | 11266651695024 |
-| revenue_growth | 0.14142893292985292 |
-| net_profit | 3024975472108 |
-| net_profit_growth | 0.01283339120492605 |
-| ebit_margin | 0.266224343383902 |
-| roe | 0.2128987843 |
-| roic | 0.1768627204 |
-| roa | 0.1710406787 |
-| pe | 6.8172503942 |
-| pb | 1.3694078674 |
-| eps | 7965.088101482185 |
-| current_ratio | 3.9513600758 |
-| cash_ratio | 0.2549976728 |
-| quick_ratio | 0.5540653387 |
-| interest_coverage | -73.53698812545905 |
-| ae | 1.2689937786572716 |
-| fae | 0.1456849656929077 |
-| net_profit_margin | 0.2686002766861653 |
-| gross_margin | 0.3154501582716298 |
-| ev | 20622015229800 |
-| issue_share | 379779286 |
-| ps | 1.8311153421 |
-| pcf | 10.1292835051 |
-| bvps | 39652.1747052919 |
-| ev_per_ebitda | 6.3761907933 |
-| at | 0.6367851917 |
-| fat | 4.7519656613 |
-| acp | 18.661119888685068 |
-| dso | 63.1221227458 |
-| dpo | 12.2390297148 |
-| eps_ttm | 7965.0881014822 |
-| charter_capital | 3797792860000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 4.056574759711881 |
-| rtq10 | 0.2689937787 |
-| dividend | 0.0552486188 |
-| ebitda | 3313529343680 |
-| ebit | 2998217718723 |
-| le | 0.1003633274 |
-| de | 0.2689937787 |
-| ccc | 94.02227234928506 |
-| rtq17 | 5.7824417831 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                            |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Cổ phiếu Hoá chất Đức Giang (DGC) vào danh sách không cấp margin sau biến cố loạt lãnh đạo bị khởi tố | 1775742060000 | https://www.tinnhanhchungkhoan.vn/co-phieu-hoa-chat-duc-giang-dgc-vao-danh-sach-khong-cap-margin-sau-bien-co-loat-lanh-d… |
-| DGC: Báo cáo thường niên năm 2025                                                                     | 1775580226000 | https://www.hsx.vn/vi/tin-tuc/dgc-bao-cao-thuong-nien-nam-2025/2451221                                                    |
-| HOSE nhắc nhở Hoá chất Đức Giang (DGC) chưa nộp Báo cáo kiểm toán năm 2025                            | 1775199900000 | https://www.tinnhanhchungkhoan.vn/hose-nhac-nho-hoa-chat-duc-giang-dgc-chua-nop-bao-cao-kiem-toan-nam-2025-post388057.ht… |
-| DGC: Nhắc nhở chậm nộp BCTC kiểm toán năm 2025                                                        | 1775146181000 | https://www.hsx.vn/vi/tin-tuc/dgc-nhac-nho-cham-nop-bctc-kiem-toan-nam-2025/2449838                                       |
-| DGC: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ bất thường năm 2026                            | 1775146104000 | https://www.hsx.vn/vi/tin-tuc/dgc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-bat-thuong-nam-2026/2449835           |
-| DGC: Xin chậm nộp BCTC kiểm toán năm 2025                                                             | 1774982159000 | https://www.hsx.vn/vi/tin-tuc/dgc-xin-cham-nop-bctc-kiem-toan-nam-2025/2448930                                            |
-| DGC: Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ bất thường năm 2026                                      | 1774546199000 | https://www.hsx.vn/vi/tin-tuc/dgc-nghi-quyet-hdqt-ve-viec-trieu-tap-dhdcd-bat-thuong-nam-2026/2447124                     |
-| DGC: Đính chính Quyết định số 198 ngày 20/03/2026                                                     | 1774462800000 | https://www.hsx.vn/vi/tin-tuc/dgc-dinh-chinh-quyet-dinh-so-198-ngay-20032026/2446743                                      |
-| DGC: Giải trình giá cổ phiếu giảm sàn 05 phiên liên tiếp (từ 17/03/2026 đến 23/03/2026)               | 1774372204000 | https://www.hsx.vn/vi/tin-tuc/dgc-giai-trinh-gia-co-phieu-giam-san-05-phien-lien-tiep-tu-17032026-den-23032026/2446409    |
-| DGC: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Kế toán trưởng                               | 1774264154000 | https://www.hsx.vn/vi/tin-tuc/dgc-thong-bao-thay-doi-nhan-su--mien-nhiem-va-bo-nhiem-ke-toan-truong/2445801               |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1 năm 2025 bằng tiền 3000 đồng/cổ phiếu | 2025-12-11    | 2025-12-25    | 2025-12-24     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1 năm 2024 bằng tiền 3000 đồng/cổ phiếu | 2024-10-30    | 2024-11-20    | 2024-11-19     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1 năm 2023 bằng tiền 3000 đồng/cổ phiếu | 2023-11-29    | 2023-12-20    | 2023-12-19     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-04-07    | 2023-04-14    | 2023-04-13     |    0.1  |    1000 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1 năm 2022 bằng tiền 3000 đồng/cổ phiếu | 2022-12-07    | 2022-12-20    | 2022-12-19     |    0.3  |    3000 |
-| Niêm yết thêm            | DGC - Niêm yết bổ sung 8,537,213 cổ phiếu                    | 2022-10-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | DGC - Niêm yết bổ sung 200,161,517 cổ phiếu                  | 2022-06-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | DGC - Phát hành cổ phiếu trả cổ tức tỷ lệ 117%               | 2022-05-27    | 2022-06-06    | 2022-06-03     |    1.17 |       0 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1, 2021 bằng tiền 1000 VND/CP           | 2021-12-22    | 2021-12-30    | 2021-12-29     |    0.1  |    1000 |
-| Niêm yết thêm            | DGC - Niêm yết bổ sung 22.313.613 cổ phiếu                   | 2021-06-03    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | DGC - Phát hành cổ phiếu trả cổ tức tỷ lệ 20:3               | 2021-04-30    | 2021-05-10    | 2021-05-07     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 1, 2020 bằng tiền 1500 VND/CP           | 2020-12-08    | 2020-12-15    | 2020-12-14     |    0.15 |    1500 |
-| Niêm yết thêm            | DGC- Niêm yết bổ sung 19.403.327 cổ phiếu                    | 2020-09-01    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | DGC - Trả cổ tức Đợt 2, 2019 bằng tiền 500 VND/CP            | 2020-07-29    | 2020-08-10    | 2020-08-07     |    0.05 |     500 |
-| Phát hành cổ phiếu       | DGC- Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2020-07-29    | 2020-08-10    | 2020-08-07     |    0.15 |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DGC      | 2026-03-17 00:00:00 |   74.7 |   75.5 | 68.8  |    68.8 |  7724600 |
-| DGC      | 2026-03-18 00:00:00 |   64   |   64   | 64    |    64   |   643800 |
-| DGC      | 2026-03-19 00:00:00 |   59.6 |   59.6 | 59.6  |    59.6 |  1376100 |
-| DGC      | 2026-03-20 00:00:00 |   55.5 |   58   | 55.5  |    55.5 | 34977300 |
 | DGC      | 2026-03-23 00:00:00 |   54.3 |   57.5 | 51.7  |    51.7 |  7143900 |
 | DGC      | 2026-03-24 00:00:00 |   53   |   53.5 | 51.7  |    52.5 |  7065700 |
 | DGC      | 2026-03-25 00:00:00 |   52.5 |   55.7 | 52.5  |    54.7 |  4337800 |
@@ -181,10 +58,25 @@
 | DGC      | 2026-04-09 00:00:00 |   55.7 |   55.8 | 52.9  |    53.1 |  6912700 |
 | DGC      | 2026-04-10 00:00:00 |   52.5 |   54.9 | 51.7  |    54   |  3815900 |
 | DGC      | 2026-04-13 00:00:00 |   53.1 |   55.4 | 53.1  |    54.3 |  2204800 |
+| DGC      | 2026-04-14 00:00:00 |   54.6 |   57.3 | 54    |    56.3 |  4533600 |
+| DGC      | 2026-04-15 00:00:00 |   56.4 |   56.7 | 54.6  |    54.6 |  2341800 |
+| DGC      | 2026-04-16 00:00:00 |   54.6 |   55   | 54    |    54.9 |  1675900 |
+| DGC      | 2026-04-17 00:00:00 |   55   |   55.9 | 54.2  |    54.5 |  2642000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DGC      | 2026-04-17 14:27:06 |    54.6 |      300 | Sell         | 465408983 |
+| DGC      | 2026-04-17 14:27:06 |    54.6 |      300 | Sell         | 465408987 |
+| DGC      | 2026-04-17 14:27:06 |    54.6 |      100 | Sell         | 465408984 |
+| DGC      | 2026-04-17 14:27:06 |    54.6 |      200 | Sell         | 465408985 |
+| DGC      | 2026-04-17 14:27:06 |    54.6 |      100 | Sell         | 465408986 |
+| DGC      | 2026-04-17 14:27:08 |    54.7 |      900 | Buy          | 465409115 |
+| DGC      | 2026-04-17 14:27:08 |    54.7 |     3300 | Buy          | 465409117 |
+| DGC      | 2026-04-17 14:27:08 |    54.7 |      200 | Buy          | 465409119 |
+| DGC      | 2026-04-17 14:27:14 |    54.6 |      400 | Sell         | 465409455 |
+| DGC      | 2026-04-17 14:27:16 |    54.7 |     4200 | Buy          | 465409543 |
 
 <!-- END:DAILY -->
 

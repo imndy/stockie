@@ -1,166 +1,47 @@
 # MBB — MBB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 19/04/2026 15:33  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MBB |
-| exchange | HOSE |
-| ev | 213054747593050 |
-| ceiling | 28550 |
-| floor | 24850 |
-| ref_price | 26700 |
-| open | 26350 |
-| match_price | 26450 |
-| close_price | 26450 |
-| price_change | -250 |
-| price_change_pct | -0.0093633 |
-| high | 26650 |
-| low | 26250 |
-| total_volume | 17180795 |
-| high_price_1y | 29500 |
-| low_price_1y | 16175 |
-| pct_low_change_1y | 0.5387980736 |
-| pct_high_change_1y | -0.0879310345 |
-| foreign_volume | 1040946 |
-| foreign_room | 1871587283 |
-| avg_match_volume_2w | 19538367 |
-| foreign_holding_room | 1844910483 |
-| current_holding_ratio | 0.22903916869553873 |
-| max_holding_ratio | 0.232351 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.7 |
-| EMA20 | 26.33 |
+| Giá đóng cửa | 26.45 |
+| EMA20 | 26.36 |
 | EMA50 | 26.43 |
-| RSI(14) | 53.5 |
+| RSI(14) | 50.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | -0.032 |
-| MACD Signal | -0.152 |
-| MACD Histogram | 0.121 |
+| MACD | -0.006 |
+| MACD Signal | -0.082 |
+| MACD Histogram | 0.077 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1040946 |
-| Room NN còn lại | 1871587283 |
-| Tỷ lệ sở hữu NN hiện tại | 0.22903916869553873 |
-| Tỷ lệ sở hữu NN tối đa | 0.232351 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | MBB      |              1040946 |     1871587283 |                0.229039 |
-| 2026-04-06 | MBB      |              3646809 |     1871587283 |                0.232351 |
-| 2026-04-03 | MBB      |              1775828 |     1871587283 |                0.231649 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MBB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773244767157 |
-| revenue | 89088116000000 |
-| revenue_growth | 0.2899750083595305 |
-| net_profit | 26778939000000 |
-| net_profit_growth | 0.1831415791907636 |
-| ebit_margin | 0 |
-| roe | 0.2113845562 |
-| roic | 0 |
-| roa | 0.0199543302 |
-| pe | 7.956056338 |
-| pb | 1.5650136658 |
-| eps | 3324.51140067674 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 11.37681453698982 |
-| fae | 0.039546874694700716 |
-| net_profit_margin | 0.5188699533465503 |
-| gross_margin | 0 |
-| ev | 213054747355000 |
-| issue_share | 8054999909 |
-| ps | 3.1473667904 |
-| pcf | 1.5510977123 |
-| bvps | 16900.810886416 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 3324.5114006767 |
-| charter_capital | 80549999090000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.7631598585285595 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                         |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| MB đặt mục tiêu lợi nhuận hơn 39.400 tỷ đồng, hướng tới mốc 2 triệu tỷ tổng tài sản trong năm 2026 | 1775137200000 | https://www.tinnhanhchungkhoan.vn/mb-dat-muc-tieu-loi-nhuan-hon-39400-ty-dong-huong-toi-moc-2-trieu-ty-tong-tai-san-tron… |
-| MBB: Thông báo nhận được Văn bản của SCIC về việc thay đổi Người đại diện phần vốn góp tại MB      | 1775068238000 | https://www.hsx.vn/vi/tin-tuc/mbb-thong-bao-nhan-duoc-van-ban-cua-scic-ve-viec-thay-doi-nguoi-dai-dien-phan-von-gop-tai-… |
-| MBB: Thông báo thay đổi nhân sự - Miễn nhiệm chức vụ thành viên HĐQT                               | 1775068140000 | https://www.hsx.vn/vi/tin-tuc/mbb-thong-bao-thay-doi-nhan-su--mien-nhiem-chuc-vu-thanh-vien-hdqt/2449537                  |
-| MBB: Báo cáo thường niên năm 2025                                                                  | 1774964314000 | https://www.hsx.vn/vi/tin-tuc/mbb-bao-cao-thuong-nien-nam-2025/2448569                                                    |
-| MBB: Nghị quyết HĐQT số 06 về việc phê duyệt phương án phát hành trái phiếu tăng vốn cấp 2         | 1774894502000 | https://www.hsx.vn/vi/tin-tuc/mbb-nghi-quyet-hdqt-so-06-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2/… |
-| MBB: Nghị quyết HĐQT số 05 về việc phê duyệt phương án phát hành trái phiếu tăng vốn cấp 2         | 1774894478000 | https://www.hsx.vn/vi/tin-tuc/mbb-nghi-quyet-hdqt-so-05-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2/… |
-| MBB: Nghị quyết HĐQT số 04 về việc phê duyệt phương án phát hành trái phiếu tăng vốn cấp 2         | 1774894448000 | https://www.hsx.vn/vi/tin-tuc/mbb-nghi-quyet-hdqt-so-04-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2/… |
-| MBB: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                                     | 1774888151000 | https://www.hsx.vn/vi/tin-tuc/mbb-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2448142                       |
-| MBB: CBTT Bà Vũ Thái Huyền từ nhiệm thôi vị trí Thành viên HĐQT                                    | 1774888080000 | https://www.hsx.vn/vi/tin-tuc/mbb-cbtt-ba-vu-thai-huyen-tu-nhiem-thoi-vi-tri-thanh-vien-hdqt/2448139                      |
-| MBB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Bắc Nghệ An                           | 1774637116000 | https://www.hsx.vn/vi/tin-tuc/mbb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-bac-nghe-an/2447665             |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 1.952.727.250 cổ phiếu                | 2025-10-03    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 32%                | 2025-08-08    | 2025-08-14    | 2025-08-13     | 0.32     |       0 |
-| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2024 bằng tiền 300 đồng/cổ phiếu | 2025-08-08    | 2025-08-14    | 2025-08-13     | 0.03     |     300 |
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 795.948.607 cổ phiếu                  | 2025-02-26    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2024-12-31    | 2025-01-08    | 2025-01-07     | 0.15     |       0 |
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 19.240.000 cổ phiếu                   | 2024-12-20    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 73,000,000 cổ phiếu                   | 2024-05-17    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu | 2024-05-17    | 2024-05-24    | 2024-05-23     | 0.05     |     500 |
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 680,097,919 cổ phiếu                  | 2023-08-17    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2023-07-12    | 2023-07-17    | 2023-07-14     | 0.15     |       0 |
-| Trả cổ tức bằng tiền mặt | MBB - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu | 2023-06-09    | 2023-06-15    | 2023-06-14     | 0.05     |     500 |
-| Niêm yết thêm            | MBB - Niêm yết bổ sung 755,664,356 cổ phiếu                  | 2022-09-27    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2022-08-16    | 2022-08-23    | 2022-08-22     | 0.2      |       0 |
-| Phát hành cổ phiếu       | MBB - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:35             | 2021-07-06    | 2021-07-13    | 2021-07-12     | 0.35     |       0 |
-| Phát hành cổ phiếu       | MBB - Sử dụng cổ phiếu quỹ chia cho CĐHH tỷ lệ 0.9237%       | 2020-12-31    | 2021-01-07    | 2021-01-06     | 0.009237 |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MBB      | 2026-03-18 00:00:00 |  26.7  |  26.9  | 25.75 |   26.3  | 14929500 |
-| MBB      | 2026-03-19 00:00:00 |  26.05 |  26.5  | 25.9  |   26.4  | 19724200 |
-| MBB      | 2026-03-20 00:00:00 |  26.3  |  26.35 | 25.95 |   25.95 | 13305900 |
 | MBB      | 2026-03-23 00:00:00 |  25.6  |  25.65 | 24.85 |   25    | 21672100 |
 | MBB      | 2026-03-24 00:00:00 |  25.75 |  26    | 25.4  |   25.6  | 13041100 |
 | MBB      | 2026-03-25 00:00:00 |  25.95 |  26.25 | 25.85 |   26    | 13825500 |
@@ -178,21 +59,24 @@
 | MBB      | 2026-04-10 00:00:00 |  26.8  |  27.1  | 26.65 |   26.7  | 30327300 |
 | MBB      | 2026-04-13 00:00:00 |  26.35 |  26.65 | 26.25 |   26.45 | 15029500 |
 | MBB      | 2026-04-14 00:00:00 |  26.7  |  26.8  | 26.5  |   26.7  | 16255100 |
+| MBB      | 2026-04-15 00:00:00 |  26.7  |  26.85 | 26.6  |   26.6  | 11553900 |
+| MBB      | 2026-04-16 00:00:00 |  26.5  |  26.6  | 26.2  |   26.3  | 12841800 |
+| MBB      | 2026-04-17 00:00:00 |  26.3  |  26.6  | 26.3  |   26.45 |  8604100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MBB      | 2026-04-14 14:27:57 |   26.65 |     1000 | Buy          | 463619328 |
-| MBB      | 2026-04-14 14:28:00 |   26.65 |      100 | Buy          | 463619524 |
-| MBB      | 2026-04-14 14:28:01 |   26.65 |      500 | Buy          | 463619610 |
-| MBB      | 2026-04-14 14:28:02 |   26.65 |     1000 | Buy          | 463619709 |
-| MBB      | 2026-04-14 14:28:15 |   26.6  |      300 | Sell         | 463620573 |
-| MBB      | 2026-04-14 14:28:16 |   26.6  |     1000 | Sell         | 463620667 |
-| MBB      | 2026-04-14 14:28:17 |   26.65 |     2000 | Buy          | 463620677 |
-| MBB      | 2026-04-14 14:28:17 |   26.65 |     1000 | Buy          | 463620680 |
-| MBB      | 2026-04-14 14:28:18 |   26.6  |     5000 | Sell         | 463620787 |
-| MBB      | 2026-04-14 14:28:23 |   26.65 |     1000 | Buy          | 463621179 |
+| MBB      | 2026-04-17 14:27:53 |   26.45 |      100 | Buy          | 465412599 |
+| MBB      | 2026-04-17 14:27:53 |   26.4  |     1000 | Sell         | 465412603 |
+| MBB      | 2026-04-17 14:27:56 |   26.4  |      800 | Sell         | 465412822 |
+| MBB      | 2026-04-17 14:27:56 |   26.4  |      100 | Sell         | 465412804 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      500 | Sell         | 465412906 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      100 | Sell         | 465412901 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      800 | Sell         | 465412896 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      200 | Sell         | 465412897 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      500 | Sell         | 465412898 |
+| MBB      | 2026-04-17 14:27:57 |   26.4  |      100 | Sell         | 465412900 |
 
 <!-- END:DAILY -->
 

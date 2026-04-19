@@ -1,171 +1,47 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:20  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ACB |
-| exchange | HOSE |
-| ev | 121995594226250 |
-| ceiling | 25500 |
-| floor | 22200 |
-| ref_price | 23850 |
-| open | 23800 |
-| match_price | 23750 |
-| close_price | 23750 |
-| price_change | -100 |
-| price_change_pct | -0.00419287 |
-| high | 24000 |
-| low | 23550 |
-| total_volume | 8098527 |
-| high_price_1y | 29500 |
-| low_price_1y | 18924 |
-| pct_low_change_1y | 0.189376241 |
-| pct_high_change_1y | -0.1935483871 |
-| foreign_volume | 1914094 |
-| foreign_room | 1540996979 |
-| avg_match_volume_2w | 10135918 |
-| foreign_holding_room | 1412410506 |
-| current_holding_ratio | 0.2749668931099982 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 23.75 |
-| EMA20 | 23.61 |
-| EMA50 | 23.71 |
-| RSI(14) | 52.0 |
+| EMA20 | 23.67 |
+| EMA50 | 23.72 |
+| RSI(14) | 51.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.05 |
-| MACD Signal | -0.001 |
-| MACD Histogram | 0.052 |
+| MACD | 0.063 |
+| MACD Signal | 0.04 |
+| MACD Histogram | 0.023 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1914094 |
-| Room NN còn lại | 1540996979 |
-| Tỷ lệ sở hữu NN hiện tại | 0.2749668931099982 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | ACB      |              1914094 |     1540996979 |                0.274967 |
-| 2026-04-13 | ACB      |               320300 |     1540996979 |                0.274967 |
-| 2026-04-12 | ACB      |               320300 |     1540996979 |                0.274967 |
-| 2026-04-10 | ACB      |               693000 |     1540996979 |                0.274967 |
-| 2026-04-09 | ACB      |              5180420 |     1540996979 |                0.275551 |
-| 2026-04-06 | ACB      |              2184898 |     1540996979 |                0.275202 |
-| 2026-04-03 | ACB      |              3000700 |     1540996979 |                0.275115 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ACB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772209454280 |
-| revenue | 58755829000000 |
-| revenue_growth | 0.15427614724697875 |
-| net_profit | 15624699000000 |
-| net_profit_growth | -0.06939160803174886 |
-| ebit_margin | 0 |
-| roe | 0.1755767655 |
-| roic | 0 |
-| roa | 0.0165353343 |
-| pe | 7.8581616462 |
-| pb | 1.2906893455 |
-| eps | 3041.803300613866 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 10.853292179169513 |
-| fae | 0.057538787223859605 |
-| net_profit_margin | 0.580720884556225 |
-| gross_margin | 0 |
-| ev | 121995594250000 |
-| issue_share | 5136656599 |
-| ps | 3.6095631863 |
-| pcf | 4.3322185251 |
-| bvps | 18401.0196437893 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 3022.33538446 |
-| charter_capital | 51366565990000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.8401019647371604 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                            |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| ACB: Nghị quyết HĐQT về việc bổ nhiệm lại chức vụ Kế toán trưởng                      | 1775840394000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-nhiem-lai-chuc-vu-ke-toan-truong/2452112                     |
-| ACB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                            | 1775840311000 | https://www.hsx.vn/vi/tin-tuc/acb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026/2452107                           |
-| ĐHCĐ ACB: Chia cổ tức 20%, lợi nhuận quý I/2026 đạt 5.400 tỷ đồng, chưa IPO ACBS      | 1775741880000 | https://www.tinnhanhchungkhoan.vn/dhcd-acb-chia-co-tuc-20-loi-nhuan-quy-i2026-dat-5400-ty-dong-chua-ipo-acbs-post388495.… |
-| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                   | 1775559500000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny/2451047                  |
-| ACB: Nghị quyết HĐQT số 1313, 1314 ngày 02/04/2026                                    | 1775239167000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-1313-1314-ngay-02042026/2450447                                      |
-| ACB: Nghị quyết HĐQT về việc bổ sung tài liệu ĐHĐCĐTN 2026                            | 1774029843000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-ve-viec-bo-sung-tai-lieu-dhdcdtn-2026/2445766                           |
-| ACB: Báo cáo thường niên năm 2025                                                     | 1774028907000 | https://www.hsx.vn/vi/tin-tuc/acb-bao-cao-thuong-nien-nam-2025/2445759                                                    |
-| ACB: Nghị quyết HĐQT số 845, 846, 847 ngày 16/03/2026                                 | 1773768995000 | https://www.hsx.vn/vi/tin-tuc/acb-nghi-quyet-hdqt-so-845-846-847-ngay-16032026/2444859                                    |
-| ACB đặt mục tiêu lợi nhuận 2026 ở mức 22.274 tỷ đồng, tăng vốn lên hơn 58.000 tỷ đồng | 1773658320000 | https://www.tinnhanhchungkhoan.vn/acb-dat-muc-tieu-loi-nhuan-2026-o-muc-22274-ty-dong-tang-von-len-hon-58000-ty-dong-pos… |
-| ACB: Thông báo tổ chức ĐHĐCĐ thường niên năm 2026                                     | 1773412616000 | https://www.hsx.vn/vi/tin-tuc/acb-thong-bao-to-chuc-dhdcd-thuong-nien-nam-2026/2444107                                    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 669.998.687 cổ phiếu                   | 2025-06-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2025-05-16    | 2025-05-26    | 2025-05-23     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-05-16    | 2025-05-26    | 2025-05-23     |    0.1  |    1000 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 582,607,554 cổ phiếu                   | 2024-06-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2024-05-24    | 2024-06-03    | 2024-05-31     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-05-24    | 2024-06-03    | 2024-05-31     |    0.1  |    1000 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 506,615,264 cổ phiếu                   | 2023-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-05-25    | 2023-06-02    | 2023-06-01     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | ACB - Trả cổ tức Cả năm năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-05-25    | 2023-06-02    | 2023-06-01     |    0.1  |    1000 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 675,487,019 cổ phiếu                   | 2022-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2022-05-25    | 2022-06-03    | 2022-06-02     |    0.25 |       0 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 440.690 cổ phiếu                       | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 539.842.824 cổ phiếu                   | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | ACB - Niêm yết bổ sung 106.101 cổ phiếu                       | 2021-07-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | ACB - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                 | 2021-06-03    | 2021-06-11    | 2021-06-10     |    0.25 |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ACB      | 2026-03-17 00:00:00 |  23.5  |  23.85 | 23.5  |   23.75 |  9847800 |
-| ACB      | 2026-03-18 00:00:00 |  23.75 |  23.9  | 23.55 |   23.75 | 10506600 |
-| ACB      | 2026-03-19 00:00:00 |  23.5  |  23.8  | 23.25 |   23.6  | 16614600 |
-| ACB      | 2026-03-20 00:00:00 |  23.4  |  23.5  | 23    |   23    | 13775200 |
 | ACB      | 2026-03-23 00:00:00 |  22.95 |  22.95 | 22.45 |   22.5  | 15858400 |
 | ACB      | 2026-03-24 00:00:00 |  22.75 |  23.1  | 22.75 |   23.1  | 14004000 |
 | ACB      | 2026-03-25 00:00:00 |  23.2  |  23.8  | 23.15 |   23.8  | 12449400 |
@@ -182,10 +58,25 @@
 | ACB      | 2026-04-09 00:00:00 |  24.05 |  24.05 | 23.75 |   23.85 |  5141500 |
 | ACB      | 2026-04-10 00:00:00 |  24.1  |  24.2  | 23.85 |   23.85 |  8136300 |
 | ACB      | 2026-04-13 00:00:00 |  23.8  |  24    | 23.55 |   23.75 |  8083900 |
+| ACB      | 2026-04-14 00:00:00 |  23.95 |  24.15 | 23.8  |   24    | 15449600 |
+| ACB      | 2026-04-15 00:00:00 |  24.15 |  24.2  | 23.8  |   23.8  |  7254600 |
+| ACB      | 2026-04-16 00:00:00 |  23.9  |  23.9  | 23.6  |   23.65 |  8623100 |
+| ACB      | 2026-04-17 00:00:00 |  23.7  |  23.85 | 23.65 |   23.75 |  6073500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| ACB      | 2026-04-17 14:23:40 |   23.8  |      100 | Sell         | 465395945 |
+| ACB      | 2026-04-17 14:23:53 |   23.8  |    19100 | Sell         | 465396635 |
+| ACB      | 2026-04-17 14:23:53 |   23.8  |      700 | Sell         | 465396636 |
+| ACB      | 2026-04-17 14:24:04 |   23.75 |      100 | Sell         | 465397433 |
+| ACB      | 2026-04-17 14:24:04 |   23.75 |      400 | Sell         | 465397434 |
+| ACB      | 2026-04-17 14:24:09 |   23.8  |      200 | Buy          | 465397696 |
+| ACB      | 2026-04-17 14:24:13 |   23.8  |     9900 | Buy          | 465397858 |
+| ACB      | 2026-04-17 14:24:18 |   23.8  |      100 | Buy          | 465398275 |
+| ACB      | 2026-04-17 14:24:53 |   23.8  |      400 | Buy          | 465400268 |
+| ACB      | 2026-04-17 14:24:53 |   23.8  |      200 | Buy          | 465400269 |
 
 <!-- END:DAILY -->
 

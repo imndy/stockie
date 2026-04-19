@@ -1,167 +1,47 @@
 # HDG — HDG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:40  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 19/04/2026 15:32  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HDG |
-| exchange | HOSE |
-| ev | 10451455738750 |
-| ceiling | 29950 |
-| floor | 26050 |
-| ref_price | 28000 |
-| open | 28400 |
-| match_price | 28250 |
-| close_price | 28250 |
-| price_change | 250 |
-| price_change_pct | 0.00892857 |
-| high | 28700 |
-| low | 28200 |
-| total_volume | 1843530 |
-| high_price_1y | 35745 |
-| low_price_1y | 18703 |
-| pct_low_change_1y | 0.4254183067 |
-| pct_high_change_1y | -0.1941786898 |
-| foreign_volume | 170900 |
-| foreign_room | 184981517 |
-| avg_match_volume_2w | 2640028 |
-| foreign_holding_room | 74480042 |
-| current_holding_ratio | 0.20131752351961324 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 28.65 |
-| EMA20 | 28.5 |
+| Giá đóng cửa | 27.9 |
+| EMA20 | 28.38 |
 | EMA50 | 28.09 |
-| RSI(14) | 51.8 |
+| RSI(14) | 47.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.143 |
-| MACD Signal | 0.311 |
-| MACD Histogram | -0.167 |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.017 |
+| MACD Signal | 0.188 |
+| MACD Histogram | -0.171 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 170900 |
-| Room NN còn lại | 184981517 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20131752351961324 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | HDG      |               170900 |      184981517 |                0.201318 |
-| 2026-04-12 | HDG      |                41400 |      184981517 |                0.201492 |
-| 2026-04-06 | HDG      |              1021500 |      184981517 |                0.201736 |
-| 2026-04-03 | HDG      |               524908 |      184981517 |                0.199138 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HDG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775038334950 |
-| revenue | 2815579404629 |
-| revenue_growth | 0.014729783281290463 |
-| net_profit | 770390274176 |
-| net_profit_growth | 1.2117956438789959 |
-| ebit_margin | 0.5244178412468463 |
-| roe | 0.1188854553 |
-| roic | 0.1115687702 |
-| roa | 0.0539956847 |
-| pe | 13.5664429953 |
-| pb | 1.5231829047 |
-| eps | 2082.3439135642293 |
-| current_ratio | 1.6569230924 |
-| cash_ratio | 0.4098022008 |
-| quick_ratio | 1.0484783366 |
-| interest_coverage | -4.874600363750154 |
-| ae | 1.748656934553554 |
-| fae | 0.9589515658480209 |
-| net_profit_margin | 0.2764683632660255 |
-| gross_margin | 0.6265835320083947 |
-| ev | 10451455738750 |
-| issue_share | 369963035 |
-| ps | 3.7506922903 |
-| pcf | 8.4050070851 |
-| bvps | 18546.6892466838 |
-| ev_per_ebitda | 7.4931494522 |
-| at | 0.1953051121 |
-| fat | 0.3356929986 |
-| acp | 194.9294112091291 |
-| dso | 288.738730443 |
-| dpo | 21.5091143895 |
-| eps_ttm | 2082.3439135642 |
-| charter_capital | 3699630350000 |
-| rtq4 | 0.4784645073 |
-| charter_capital_ratio | 2.2700599537442976 |
-| rtq10 | 0.7486569346 |
-| dividend | 0.017699115 |
-| ebitda | 1986507406687 |
-| ebit | 1461311521247 |
-| le | 1.0380331749 |
-| de | 0.7486569346 |
-| ccc | 505.1772560416291 |
-| rtq17 | 1.2641186011 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                               |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HDG: Bố đẻ kế toán trưởng đăng ký bán 200.000 cổ phiếu                                                   | 1775066940000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dao-huu-khanh/244… |
-| HDG: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                     | 1775056687000 | https://www.hsx.vn/vi/tin-tuc/hdg-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244924… |
-| HDG: Thông báo mời họp và đường dẫn tài liệu ĐHĐCĐ thường niên năm 2025                                  | 1774894114000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-moi-hop-va-duong-dan-tai-lieu-dhdcd-thuong-nien-nam-2025/2448323              |
-| HDG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2025                              | 1773225788000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2025/2443357          |
-| HDG: Mẹ Tổng giám đốc đăng ký mua 5 triệu cổ phiếu                                                       | 1773224880000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-nguoi-noi-bo-nguyen-thi-thu-ha/244… |
-| HDG: Thông báo về ngày đăng ký cuối cùng tạm ứng cổ tức đợt 1 năm 2025 bằng tiền                         | 1773159523000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tam-ung-co-tuc-dot-1-nam-2025-bang-tien/2443162     |
-| HDG: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận tạm ứng cổ tức bằng tiền đợt 1 năm 2025 | 1772618363000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-tam-ung-co-tuc-bang-tien-d… |
-| HDG: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2025           | 1772618285000 | https://www.hsx.vn/vi/tin-tuc/hdg-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| HDG: Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ TN 2026                                                     | 1772557899000 | https://www.hsx.vn/vi/tin-tuc/hdg-nghi-quyet-hdqt-ve-viec-trieu-tap-dhdcd-tn-2026/2441521                                 |
-| HDG: Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ TN 2025                                                     | 1772557860000 | https://www.hsx.vn/vi/tin-tuc/hdg-nghi-quyet-hdqt-ve-viec-trieu-tap-dhdcd-tn-2025/2441521                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | HDG - Trả cổ tức Đợt 1 năm 2025 bằng tiền 500 đồng/cổ phiếu  | 2026-03-10    | 2026-03-13    | 2026-03-12     |    0.05 |     500 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 33.631.506 cổ phiếu                   | 2025-07-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDG - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2025-06-10    | 2025-06-16    | 2025-06-13     |    0.1  |       0 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 30,574,688 cổ phiếu                   | 2024-07-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | HDG - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu | 2024-06-14    | 2024-06-25    | 2024-06-24     |    0.05 |     500 |
-| Phát hành cổ phiếu       | HDG - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2024-06-14    | 2024-06-25    | 2024-06-24     |    0.1  |       0 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 61,150,943 cổ phiếu                   | 2023-08-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDG - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                | 2023-06-28    | 2023-07-05    | 2023-07-04     |    0.25 |       0 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 40,767,083 cổ phiếu                   | 2022-08-19    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2022-06-28    | 2022-07-07    | 2022-07-06     |    0.2  |       0 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 7.481.400 cổ phiếu                    | 2022-03-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | HDG - Trả cổ tức Đợt 1, 2021 bằng tiền 1000 VND/CP           | 2022-03-11    | 2022-03-18    | 2022-03-17     |    0.1  |    1000 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 32.725.697 cổ phiếu                   | 2022-01-27    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HDG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2021-12-14    | 2021-12-22    | 2021-12-21     |    0.2  |       0 |
-| Niêm yết thêm            | HDG - Niêm yết bổ sung 9.356.700 cổ phiếu                    | 2021-09-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDG      | 2026-03-18 00:00:00 |  28.5  |  28.5  | 27.5  |   27.7  |  2301311 |
-| HDG      | 2026-03-19 00:00:00 |  27.4  |  29    | 27.3  |   28.6  |  4238698 |
-| HDG      | 2026-03-20 00:00:00 |  28.6  |  29.95 | 28.5  |   29.15 |  7104811 |
 | HDG      | 2026-03-23 00:00:00 |  28.5  |  29.3  | 27.55 |   28.2  |  3957657 |
 | HDG      | 2026-03-24 00:00:00 |  28.6  |  30    | 28.5  |   29.85 |  5853761 |
 | HDG      | 2026-03-25 00:00:00 |  30    |  31    | 29.5  |   30.6  |  5708900 |
@@ -179,21 +59,24 @@
 | HDG      | 2026-04-10 00:00:00 |  28.4  |  28.55 | 27.85 |   28    |  2782700 |
 | HDG      | 2026-04-13 00:00:00 |  28.4  |  28.7  | 28.2  |   28.25 |  1841100 |
 | HDG      | 2026-04-14 00:00:00 |  28.55 |  28.9  | 28.35 |   28.65 |  2505300 |
+| HDG      | 2026-04-15 00:00:00 |  28.85 |  29.15 | 28.3  |   28.4  |  2504200 |
+| HDG      | 2026-04-16 00:00:00 |  28.35 |  28.4  | 27.65 |   27.9  |  2356600 |
+| HDG      | 2026-04-17 00:00:00 |  27.95 |  28.15 | 27.8  |   27.9  |  1216800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDG      | 2026-04-14 14:21:40 |   28.55 |      300 | Sell         | 463596692 |
-| HDG      | 2026-04-14 14:21:43 |   28.55 |      100 | Sell         | 463596921 |
-| HDG      | 2026-04-14 14:21:47 |   28.6  |      500 | Buy          | 463597134 |
-| HDG      | 2026-04-14 14:21:51 |   28.6  |      200 | Buy          | 463597285 |
-| HDG      | 2026-04-14 14:21:59 |   28.55 |     5000 | Sell         | 463597689 |
-| HDG      | 2026-04-14 14:22:13 |   28.55 |      300 | Sell         | 463598479 |
-| HDG      | 2026-04-14 14:22:18 |   28.55 |      200 | Sell         | 463598720 |
-| HDG      | 2026-04-14 14:22:26 |   28.6  |      100 | Buy          | 463599375 |
-| HDG      | 2026-04-14 14:22:36 |   28.6  |      100 | Buy          | 463600152 |
-| HDG      | 2026-04-14 14:22:38 |   28.6  |      300 | Buy          | 463600271 |
+| HDG      | 2026-04-17 14:17:49 |   27.85 |      200 | Buy          | 465372739 |
+| HDG      | 2026-04-17 14:17:53 |   27.8  |      100 | Sell         | 465372977 |
+| HDG      | 2026-04-17 14:17:59 |   27.85 |     1800 | Buy          | 465373311 |
+| HDG      | 2026-04-17 14:18:01 |   27.85 |      200 | Sell         | 465373526 |
+| HDG      | 2026-04-17 14:18:01 |   27.85 |      100 | Sell         | 465373533 |
+| HDG      | 2026-04-17 14:18:08 |   27.85 |      100 | Sell         | 465373865 |
+| HDG      | 2026-04-17 14:18:08 |   27.85 |      100 | Sell         | 465373866 |
+| HDG      | 2026-04-17 14:18:17 |   27.85 |     3000 | Sell         | 465374399 |
+| HDG      | 2026-04-17 14:18:17 |   27.8  |      500 | Sell         | 465374400 |
+| HDG      | 2026-04-17 14:18:17 |   27.8  |     8700 | Sell         | 465374412 |
 
 <!-- END:DAILY -->
 

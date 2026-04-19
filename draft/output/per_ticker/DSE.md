@@ -1,161 +1,47 @@
 # DSE — DSE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DSE |
-| exchange | HOSE |
-| ev | 8188140000000 |
-| ceiling | 25500 |
-| floor | 22200 |
-| ref_price | 23850 |
-| open | 23800 |
-| match_price | 23900 |
-| close_price | 23900 |
-| price_change | 50 |
-| price_change_pct | 0.00209644 |
-| high | 24000 |
-| low | 23600 |
-| total_volume | 426829 |
-| high_price_1y | 30349 |
-| low_price_1y | 17842 |
-| pct_low_change_1y | 0.2574087576 |
-| pct_high_change_1y | -0.2124943675 |
-| foreign_volume | 21900 |
-| foreign_room | 342600000 |
-| avg_match_volume_2w | 304262 |
-| foreign_holding_room | 38022708 |
-| current_holding_ratio | 0.11098280210157618 |
-| max_holding_ratio | 1 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.9 |
-| EMA20 | 23.6 |
-| EMA50 | 23.66 |
-| RSI(14) | 52.9 |
+| Giá đóng cửa | 23.85 |
+| EMA20 | 23.67 |
+| EMA50 | 23.69 |
+| RSI(14) | 52.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.001 |
-| MACD Signal | -0.076 |
-| MACD Histogram | 0.078 |
+| MACD | 0.049 |
+| MACD Signal | -0.007 |
+| MACD Histogram | 0.056 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 21900 |
-| Room NN còn lại | 342600000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.11098280210157618 |
-| Tỷ lệ sở hữu NN tối đa | 1 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DSE      |                21900 |      342600000 |                0.110983 |
-| 2026-04-13 | DSE      |                 7200 |      342600000 |                0.110962 |
-| 2026-04-12 | DSE      |                 7200 |      342600000 |                0.110962 |
-| 2026-04-10 | DSE      |                 6900 |      342600000 |                0.110941 |
-| 2026-04-06 | DSE      |                23600 |      342600000 |                0.11103  |
-| 2026-04-03 | DSE      |                14100 |      342600000 |                0.11103  |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DSE |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772615963357 |
-| revenue | 1457912226141 |
-| revenue_growth | 0.8056609029197305 |
-| net_profit | 272529626638 |
-| net_profit_growth | 0.4993051044432613 |
-| ebit_margin | 0.2738701196593054 |
-| roe | 0.0654165566 |
-| roic | 0.0292486177 |
-| roa | 0.0211456055 |
-| pe | 30.0449536478 |
-| pb | 1.9031874263 |
-| eps | 795.4746837069468 |
-| current_ratio | 1.3967639485 |
-| cash_ratio | 0.2729273811 |
-| quick_ratio | 0.3086417419 |
-| interest_coverage | -5.974806671447328 |
-| ae | 3.51884382880534 |
-| fae | 0.024591579454605172 |
-| net_profit_margin | 0.1869314364413888 |
-| gross_margin | 0.39829754219156954 |
-| ev | 8188140000000 |
-| issue_share | 342600000 |
-| ps | 5.6163463432 |
-| pcf | -1.7585829722 |
-| bvps | 12557.8803590047 |
-| ev_per_ebitda | 39.1689171882 |
-| at | 0.1131195798 |
-| fat | 14.4340064007 |
-| acp | None |
-| dso | 0 |
-| dpo | 1.2020312508 |
-| eps_ttm | 795.4746837069 |
-| charter_capital | 4282498060000 |
-| rtq4 | 0.0062859811 |
-| charter_capital_ratio | 1.0046308838246152 |
-| rtq10 | 2.5188438288 |
-| dividend | 0.0292887029 |
-| ebitda | 434692301796 |
-| ebit | 399278595826 |
-| le | 2.1792634153 |
-| de | 2.5188438288 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                  |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| DSE: Quyết định của TGĐ về việc phê duyệt hạn mức tín dụng do VCB Tây Hồ cấp                | 1776100632000 | https://www.hsx.vn/vi/tin-tuc/dse-quyet-dinh-cua-tgd-ve-viec-phe-duyet-han-muc-tin-dung-do-vcb-tay-ho-cap/2452524         |
-| DSE: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                                   | 1775140569000 | https://www.hsx.vn/vi/tin-tuc/dse-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban/2449776                            |
-| DSE: Đính chính thay đổi nhân sự - bổ nhiệm, miễn nhiệm Thành viên HĐQT, BKS, Ban điều hành | 1774968331000 | https://www.hsx.vn/vi/tin-tuc/dse-dinh-chinh-thay-doi-nhan-su--bo-nhiem-mien-nhiem-thanh-vien-hdqt-bks-ban-dieu-hanh/244… |
-| DSE: Thông báo thay đổi nhân sự - Bổ nhiệm thành viên HĐQT, BKS                             | 1774891020000 | https://www.hsx.vn/vi/tin-tuc/dse-thong-bao-thay-doi-nhan-su--bo-nhiem-thanh-vien-hdqt-bks/2448266                        |
-| DSE: Thông báo đính chính ngày ĐKCC lập DS người sở hữu trái phiếu                          | 1774880998000 | https://www.hsx.vn/vi/tin-tuc/dse-thong-bao-dinh-chinh-ngay-dkcc-lap-ds-nguoi-so-huu-trai-phieu/2448038                   |
-| DSE: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                   | 1774880438000 | https://www.hsx.vn/vi/tin-tuc/dse-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo/2448031             |
-| DSE: Điều lệ tổ chức và hoạt động                                                           | 1774861971000 | https://www.hsx.vn/vi/tin-tuc/dse-dieu-le-to-chuc-va-hoat-dong/2447749                                                    |
-| DSE: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 15                               | 1774630977000 | https://www.hsx.vn/vi/tin-tuc/dse-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-15/2447552                        |
-| DSE: Nghị quyết HĐQT về việc sửa đổi, bổ sung quy chế phát hành ESOP lần 2 năm 2025         | 1774620591000 | https://www.hsx.vn/vi/tin-tuc/dse-nghi-quyet-hdqt-ve-viec-sua-doi-bo-sung-quy-che-phat-hanh-esop-lan-2-nam-2025/2447382   |
-| DSE: Thông báo ngày ĐKCC để lập danh sách người sở hữu trái phiếu                           | 1774536587000 | https://www.hsx.vn/vi/tin-tuc/dse-thong-bao-ngay-dkcc-de-lap-danh-sach-nguoi-so-huu-trai-phieu/2446951                    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | DSE - Trả cổ tức Đợt 1 năm 2025 bằng tiền 700 đồng/cổ phiếu                  | 2025-12-29    | 2026-01-08    | 2026-01-07     |    0.07 |     700 |
-| Phát hành cổ phiếu       | DSE - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 4 : 1 giá 15.000 đồng/cp | 2025-12-29    | 2026-01-12    | 2026-01-09     |    0.25 |       0 |
-| Niêm yết thêm            | DSE - Niêm yết bổ sung 2.700.000 cổ phiếu                                    | 2025-11-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | DSE - Niêm yết bổ sung 9.900.000 cổ phiếu                                    | 2025-08-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | DSE - Trả cổ tức Đợt 1 năm 2024 bằng tiền 500 đồng/cổ phiếu                  | 2024-11-25    | 2024-11-29    | 2024-11-28     |    0.05 |     500 |
-| Niêm yết mới             | DSE - Chính thức niêm yết trên HOSE                                          | 2024-06-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DSE      | 2026-03-17 00:00:00 |  23.4  |  24.2  | 23.4  |   23.95 |   374000 |
-| DSE      | 2026-03-18 00:00:00 |  23.95 |  24.5  | 23.7  |   23.7  |   413600 |
-| DSE      | 2026-03-19 00:00:00 |  23.5  |  23.5  | 23.1  |   23.4  |   334200 |
-| DSE      | 2026-03-20 00:00:00 |  23.4  |  23.5  | 23.2  |   23.25 |   308100 |
 | DSE      | 2026-03-23 00:00:00 |  23    |  23.2  | 22.65 |   22.9  |   319500 |
 | DSE      | 2026-03-24 00:00:00 |  24    |  24    | 23.2  |   23.4  |   245200 |
 | DSE      | 2026-03-25 00:00:00 |  23.75 |  24.1  | 23.5  |   23.6  |   300400 |
@@ -172,10 +58,25 @@
 | DSE      | 2026-04-09 00:00:00 |  24.25 |  24.25 | 23.6  |   23.75 |   180700 |
 | DSE      | 2026-04-10 00:00:00 |  23.75 |  24.3  | 23.7  |   23.85 |   505200 |
 | DSE      | 2026-04-13 00:00:00 |  23.8  |  24    | 23.6  |   23.9  |   426800 |
+| DSE      | 2026-04-14 00:00:00 |  24.1  |  24.45 | 23.9  |   23.9  |   436400 |
+| DSE      | 2026-04-15 00:00:00 |  24.1  |  24.3  | 23.9  |   23.9  |   404700 |
+| DSE      | 2026-04-16 00:00:00 |  24    |  24    | 23.5  |   23.7  |   412000 |
+| DSE      | 2026-04-17 00:00:00 |  23.7  |  23.9  | 23.6  |   23.85 |   447000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DSE      | 2026-04-17 13:13:15 |   23.7  |      300 | Buy          | 465205937 |
+| DSE      | 2026-04-17 13:13:15 |   23.7  |      500 | Buy          | 465205938 |
+| DSE      | 2026-04-17 13:13:19 |   23.7  |     2000 | Buy          | 465206089 |
+| DSE      | 2026-04-17 13:13:29 |   23.65 |     1800 | Sell         | 465206417 |
+| DSE      | 2026-04-17 13:13:35 |   23.65 |     3700 | Sell         | 465206603 |
+| DSE      | 2026-04-17 13:13:42 |   23.65 |     1800 | Sell         | 465206778 |
+| DSE      | 2026-04-17 13:13:47 |   23.65 |     1800 | Sell         | 465207100 |
+| DSE      | 2026-04-17 13:14:17 |   23.65 |     5700 | Sell         | 465208272 |
+| DSE      | 2026-04-17 13:14:17 |   23.65 |     1000 | Sell         | 465208273 |
+| DSE      | 2026-04-17 13:14:23 |   23.65 |     1900 | Sell         | 465208521 |
 
 <!-- END:DAILY -->
 

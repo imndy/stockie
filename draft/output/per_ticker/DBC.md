@@ -1,170 +1,47 @@
 # DBC — DBC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DBC |
-| exchange | HOSE |
-| ev | 8871176674350 |
-| ceiling | 24850 |
-| floor | 21650 |
-| ref_price | 23250 |
-| open | 23000 |
-| match_price | 23050 |
-| close_price | 23050 |
-| price_change | -200 |
-| price_change_pct | -0.00860215 |
-| high | 23150 |
-| low | 22900 |
-| total_volume | 2482330 |
-| high_price_1y | 32350 |
-| low_price_1y | 21740 |
-| pct_low_change_1y | 0.0477272727 |
-| pct_high_change_1y | -0.2626859599 |
-| foreign_volume | 32400 |
-| foreign_room | 188584666 |
-| avg_match_volume_2w | 2293265 |
-| foreign_holding_room | 6211311 |
-| current_holding_ratio | 0.016138864527854787 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.05 |
-| EMA20 | 23.28 |
-| EMA50 | 24.45 |
-| RSI(14) | 44.6 |
+| Giá đóng cửa | 23.3 |
+| EMA20 | 23.38 |
+| EMA50 | 24.32 |
+| RSI(14) | 47.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.469 |
-| MACD Signal | -0.631 |
-| MACD Histogram | 0.162 |
+| MACD | -0.24 |
+| MACD Signal | -0.419 |
+| MACD Histogram | 0.179 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 32400 |
-| Room NN còn lại | 188584666 |
-| Tỷ lệ sở hữu NN hiện tại | 0.016138864527854787 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DBC      |                32400 |      188584666 |               0.0161389 |
-| 2026-04-13 | DBC      |                 5000 |      188584666 |               0.0161389 |
-| 2026-04-12 | DBC      |                 5000 |      188584666 |               0.0161389 |
-| 2026-04-10 | DBC      |                76300 |      188584666 |               0.0161259 |
-| 2026-04-06 | DBC      |                54350 |      188584666 |               0.015944  |
-| 2026-04-03 | DBC      |                41100 |      188584666 |               0.0158095 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DBC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774893104620 |
-| revenue | 15109273137980 |
-| revenue_growth | 0.09970698278983109 |
-| net_profit | 1506767998626 |
-| net_profit_growth | 0.9591728388699289 |
-| ebit_margin | 0.12007108411226816 |
-| roe | 0.2031630301 |
-| roic | 0.128267255 |
-| roa | 0.1001231606 |
-| pe | 5.8875531485 |
-| pb | 1.099549171 |
-| eps | 3915.03896757575 |
-| current_ratio | 1.4218059341 |
-| cash_ratio | 0.0641243346 |
-| quick_ratio | 0.1704625455 |
-| interest_coverage | -6.850710636660729 |
-| ae | 1.979998904082914 |
-| fae | 0.5405937455855987 |
-| net_profit_margin | 0.10114118198751633 |
-| gross_margin | 0.18436218990863526 |
-| ev | 8871176674350 |
-| issue_share | 384866667 |
-| ps | 0.5954740845 |
-| pcf | 6.8642890794 |
-| bvps | 20963.1370817754 |
-| ev_per_ebitda | 5.8578374143 |
-| at | 0.9899346503 |
-| fat | 3.2556606112 |
-| acp | 5.717585993305307 |
-| dso | 178.3515906963 |
-| dpo | 24.5530251445 |
-| eps_ttm | 3915.0389675758 |
-| charter_capital | 3848666670000 |
-| rtq4 | 0.1371214382 |
-| charter_capital_ratio | 2.096586477967706 |
-| rtq10 | 0.9799989041 |
-| dividend | 0 |
-| ebitda | 2444869323799 |
-| ebit | 1788779442216 |
-| le | 0.8654166032 |
-| de | 0.9799989041 |
-| ccc | 208.6222018341053 |
-| rtq17 | 2.0465194539 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                              |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Dabaco Việt Nam (DBC) lên kế hoạch lãi ròng giảm 25,9% trong năm 2026, về 1.117 tỷ đồng | 1775545920000 | https://www.tinnhanhchungkhoan.vn/dabaco-viet-nam-dbc-len-ke-hoach-lai-rong-giam-259-trong-nam-2026-ve-1117-ty-dong-post… |
-| DBC: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                       | 1775498494000 | https://www.hsx.vn/vi/tin-tuc/dbc-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2450879                                    |
-| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                            | 1774963607000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-to-chuc-dhdcd-thuong-nien-nam-2026/2448550                                         |
-| DBC: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước    | 1774629395000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/244751… |
-| DBC: Thông báo về ngày đăng ký cuối cùng tham dự họp ĐHĐCĐ thường niên năm 2026         | 1773133478000 | https://www.hsx.vn/vi/tin-tuc/dbc-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-hop-dhdcd-thuong-nien-nam-2026/2442972      |
-| DBC: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                               | 1772727906000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban/2442056                            |
-| DBC: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 1772472673000 | https://www.hsx.vn/vi/tin-tuc/dbc-cbtt-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441215                            |
-| DBC: Giải trình biến động LNST BCTC HN và Cty mẹ quý 4/2025 so với cùng kỳ năm trước    | 1769702298000 | https://www.hsx.vn/vi/tin-tuc/dbc-giai-trinh-bien-dong-lnst-bctc-hn-va-cty-me-quy-42025-so-voi-cung-ky-nam-truoc/2434781  |
-| DBC: Báo cáo tình hình quản trị công ty năm 2025                                        | 1769620328000 | https://www.hsx.vn/vi/tin-tuc/dbc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434450                                     |
-| Dabaco Việt Nam (DBC): Lãi ròng quý IV/2025 giảm 37,8%, về 148,58 tỷ đồng               | 1769583060000 | https://www.tinnhanhchungkhoan.vn/dabaco-viet-nam-dbc-lai-rong-quy-iv2025-giam-378-ve-14858-ty-dong-post384465.html       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 50.197.522 cổ phiếu                                   | 2025-08-26    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DBC - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                                | 2025-07-31    | 2025-08-08    | 2025-08-07     | 0.15     |       0 |
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 92.667.286 cổ phiếu                                   | 2024-09-24    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DBC - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 3 : 1 giá 15.000 đồng/cp | 2024-07-10    | 2024-07-16    | 2024-07-15     | 0.333333 |       0 |
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 11,522,999 cổ phiếu                                   | 2022-07-27    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DBC - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                                 | 2022-06-15    | 2022-06-23    | 2022-06-22     | 0.05     |       0 |
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 115,239,430 cổ phiếu                                  | 2022-05-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DBC - Phát hành cổ phiếu thưởng tỷ lệ 100%                                   | 2022-03-30    | 2022-04-06    | 2022-04-05     | 1        |       0 |
-| Trả cổ tức bằng tiền mặt | DBC - Trả cổ tức Đợt 1, 2021 bằng tiền 2000 VND/CP                           | 2021-09-20    | 2021-09-30    | 2021-09-29     | 0.2      |    2000 |
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 10.475.519 cổ phiếu                                   | 2021-07-08    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DBC - Phát hành cổ phiếu trả cổ tức tỷ lệ 10:1                               | 2021-06-03    | 2021-06-11    | 2021-06-10     | 0.1      |       0 |
-| Trả cổ tức bằng tiền mặt | DBC - Trả cổ tức Đợt 1, 2020 bằng tiền 1500 VND/CP                           | 2020-09-11    | 2020-09-17    | 2020-09-16     | 0.15     |    1500 |
-| Niêm yết thêm            | DBC - Niêm yết bổ sung 13.664.083 cổ phiếu                                   | 2020-05-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Trả cổ tức bằng tiền mặt | DBC- Trả cổ tức Đợt 1 năm 2019 bằng tiền 500 đồng/cổ phiếu                   | 2020-03-25    | 2020-04-07    | 2020-04-06     | 0.05     |     500 |
-| Phát hành cổ phiếu       | DBC- Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                                 | 2020-03-25    | 2020-04-07    | 2020-04-06     | 0.15     |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DBC      | 2026-03-17 00:00:00 |  23.65 |  24    | 23.45 |   23.6  |  2168500 |
-| DBC      | 2026-03-18 00:00:00 |  23.7  |  23.95 | 23.4  |   23.5  |  2158600 |
-| DBC      | 2026-03-19 00:00:00 |  23.45 |  23.45 | 23    |   23.2  |  3375000 |
-| DBC      | 2026-03-20 00:00:00 |  23.2  |  23.65 | 23.05 |   23.25 |  2945700 |
 | DBC      | 2026-03-23 00:00:00 |  23.35 |  23.35 | 21.9  |   22    |  4156000 |
 | DBC      | 2026-03-24 00:00:00 |  22.5  |  22.65 | 22.3  |   22.3  |  2202200 |
 | DBC      | 2026-03-25 00:00:00 |  22.6  |  23.4  | 22.55 |   23.3  |  3045100 |
@@ -181,10 +58,25 @@
 | DBC      | 2026-04-09 00:00:00 |  23.4  |  23.4  | 23    |   23.05 |  3184400 |
 | DBC      | 2026-04-10 00:00:00 |  23.3  |  23.45 | 23.1  |   23.25 |  2144000 |
 | DBC      | 2026-04-13 00:00:00 |  23    |  23.15 | 22.9  |   23.05 |  2480500 |
+| DBC      | 2026-04-14 00:00:00 |  23.35 |  24.3  | 23.05 |   24.2  |  5644000 |
+| DBC      | 2026-04-15 00:00:00 |  24.2  |  24.25 | 23.65 |   23.7  |  3364400 |
+| DBC      | 2026-04-16 00:00:00 |  23.6  |  23.75 | 23.15 |   23.3  |  3252400 |
+| DBC      | 2026-04-17 00:00:00 |  23.4  |  23.8  | 23.2  |   23.3  |  2013800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DBC      | 2026-04-17 14:26:51 |   23.4  |     1000 | Buy          | 465407903 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |     1300 | Sell         | 465408231 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      500 | Sell         | 465408230 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |     1000 | Sell         | 465408229 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |     1000 | Sell         | 465408228 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      100 | Sell         | 465408208 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      300 | Sell         | 465408226 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      100 | Sell         | 465408225 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      200 | Sell         | 465408224 |
+| DBC      | 2026-04-17 14:26:56 |   23.35 |      500 | Sell         | 465408223 |
 
 <!-- END:DAILY -->
 

@@ -1,166 +1,47 @@
 # NT2 — NT2
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 19/04/2026 15:35  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NT2 |
-| exchange | HOSE |
-| ev | 7643108569950 |
-| ceiling | 28000 |
-| floor | 24400 |
-| ref_price | 26200 |
-| open | 26300 |
-| match_price | 26550 |
-| close_price | 26550 |
-| price_change | 350 |
-| price_change_pct | 0.01335878 |
-| high | 26800 |
-| low | 26300 |
-| total_volume | 722976 |
-| high_price_1y | 29450 |
-| low_price_1y | 16211 |
-| pct_low_change_1y | 0.5857430057 |
-| pct_high_change_1y | -0.0813148789 |
-| foreign_volume | 126100 |
-| foreign_room | 141059254 |
-| avg_match_volume_2w | 829600 |
-| foreign_holding_room | 36171197 |
-| current_holding_ratio | 0.12564852004402213 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.35 |
-| EMA20 | 26.44 |
-| EMA50 | 26.36 |
-| RSI(14) | 49.0 |
+| Giá đóng cửa | 26.0 |
+| EMA20 | 26.35 |
+| EMA50 | 26.33 |
+| RSI(14) | 46.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.151 |
-| MACD Signal | -0.112 |
-| MACD Histogram | -0.039 |
+| MACD | -0.164 |
+| MACD Signal | -0.135 |
+| MACD Histogram | -0.029 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 126100 |
-| Room NN còn lại | 141059254 |
-| Tỷ lệ sở hữu NN hiện tại | 0.12564852004402213 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | NT2      |               126100 |      141059254 |                0.125649 |
-| 2026-04-06 | NT2      |               166400 |      141059254 |                0.127766 |
-| 2026-04-03 | NT2      |               175100 |      141059254 |                0.127434 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NT2 |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772534382027 |
-| revenue | 7958219701044 |
-| revenue_growth | 0.33893844556434244 |
-| net_profit | 1130284802854 |
-| net_profit_growth | 12.635309466892755 |
-| ebit_margin | 0.1461258185339423 |
-| roe | 0.2498286299 |
-| roic | 0.1756195746 |
-| roa | 0.1257887539 |
-| pe | 6.762108586 |
-| pb | 1.5728499819 |
-| eps | 3926.290100569645 |
-| current_ratio | 1.8200214976 |
-| cash_ratio | 0.0050530895 |
-| quick_ratio | 0.8874385871 |
-| interest_coverage | -17.97633044811017 |
-| ae | 1.9083239836585808 |
-| fae | 0.18454689037818012 |
-| net_profit_margin | 0.14202734346548934 |
-| gross_margin | 0.1567952825909425 |
-| ev | 7643108569950 |
-| issue_share | 287876029 |
-| ps | 0.9604043187 |
-| pcf | 7.6186927832 |
-| bvps | 16880.1858447721 |
-| ev_per_ebitda | 5.4576692902 |
-| at | 0.8856657516 |
-| fat | 6.8063885167 |
-| acp | 153.7252415214732 |
-| dso | 18.6759874602 |
-| dpo | 94.8386774982 |
-| eps_ttm | 3926.2901005696 |
-| charter_capital | 2878760290000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.688018584477209 |
-| rtq10 | 0.9083239837 |
-| dividend | 0 |
-| ebitda | 1719252362844 |
-| ebit | 1162901367888 |
-| le | 0.3626591393 |
-| de | 0.9083239837 |
-| ccc | 267.2399064798732 |
-| rtq17 | 19.5438126513 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026                                           | 1775578824000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026/2451152      |
-| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                                                                         | 1775578800000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-viec-huy-ngay-dang-ky-cuoi-cung/2451153                                    |
-| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026                                                       | 1775240334000 | https://www.hsx.vn/vi/tin-tuc/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026/2450490                  |
-| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026                                                     | 1775240239000 | https://www.hsx.vn/vi/tin-tuc/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026/2450487                |
-| NT2: Báo cáo thường niên năm 2025                                                                                         | 1773940142000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-thuong-nien-nam-2025/2445414                                                    |
-| NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 1772559537000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2441539                       |
-| NT2: Nghị quyết HĐQT về việc triệu tập họp ĐHĐCĐ thường niên năm 2026                                                     | 1772128609000 | https://www.hsx.vn/vi/tin-tuc/nt2-nghi-quyet-hdqt-ve-viec-trieu-tap-hop-dhdcd-thuong-nien-nam-2026/2440419                |
-| NT2: Báo cáo tình hình quản trị Công ty năm 2025                                                                          | 1769588807000 | https://www.hsx.vn/vi/tin-tuc/nt2-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434105                                     |
-| NT2: Quyết định của HĐQT về việc tạm giao kế hoạch SXKD năm 2026                                                          | 1766768104000 | https://www.hsx.vn/vi/tin-tuc/nt2-quyet-dinh-cua-hdqt-ve-viec-tam-giao-ke-hoach-sxkd-nam-2026/2426712                     |
-| NT2: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền chốt danh sách cổ đông chi trả cổ tức từ nguồn lợi nhuận sau… | 1760115720000 | https://www.hsx.vn/vi/tin-tuc/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-chot-danh-sach-co-dong-chi-tra-… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Cả năm năm 2024 bằng tiền 700 đồng/cổ phiếu | 2025-10-14    | 2025-10-22    | 2025-10-21     |  0.07   |     700 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2 năm 2023 bằng tiền 800 đồng/cổ phiếu  | 2025-01-14    | 2025-01-20    | 2025-01-17     |  0.08   |     800 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 1 năm 2023 bằng tiền 700 đồng/cổ phiếu  | 2024-03-06    | 2024-03-15    | 2024-03-14     |  0.07   |     700 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1500 đồng/cổ phiếu | 2023-09-07    | 2023-09-15    | 2023-09-14     |  0.15   |    1500 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu | 2023-03-17    | 2023-03-24    | 2023-03-23     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2 năm 2021 bằng tiền 650 đồng/cổ phiếu  | 2022-09-30    | 2022-10-10    | 2022-10-07     |  0.065  |     650 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 1 năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-03-29    | 2022-04-05    | 2022-04-04     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2, 2020 bằng tiền 1000 VND/CP           | 2021-09-22    | 2021-09-30    | 2021-09-29     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức đợt 1, 2020 bằng tiền 1000 Đồng/cp          | 2021-01-29    | 2021-02-08    | 2021-02-05     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2, 2019 bằng tiền 1500 VND/CP           | 2020-07-17    | 2020-07-24    | 2020-07-23     |  0.15   |    1500 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 1, 2019 bằng tiền 1000 VND/CP           | 2019-12-31    | 2020-01-10    | 2020-01-09     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2, 2018 bằng tiền 900 VND/CP            | 2018-12-20    | 2018-12-28    | 2018-12-27     |  0.09   |     900 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 1, 2018 bằng tiền 1500 VND/CP           | 2018-09-17    | 2018-09-21    | 2018-09-20     |  0.15   |    1500 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 3, 2015 bằng tiền 2792 VND/CP           | 2018-07-10    | 2018-07-16    | 2018-07-13     |  0.2792 |    2792 |
-| Trả cổ tức bằng tiền mặt | NT2 - Trả cổ tức Đợt 2, 2017 bằng tiền 2000 VND/CP           | 2018-05-11    | 2018-05-18    | 2018-05-17     |  0.2    |    2000 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NT2      | 2026-03-18 00:00:00 |  25.55 |  26.1  | 25.45 |   26    |   901800 |
-| NT2      | 2026-03-19 00:00:00 |  25.5  |  26.1  | 25.4  |   25.9  |   613600 |
-| NT2      | 2026-03-20 00:00:00 |  26    |  26.9  | 25.7  |   25.95 |  1111000 |
 | NT2      | 2026-03-23 00:00:00 |  25.65 |  25.95 | 24.65 |   24.65 |  1340400 |
 | NT2      | 2026-03-24 00:00:00 |  25.1  |  25.9  | 25    |   25.9  |   959100 |
 | NT2      | 2026-03-25 00:00:00 |  26    |  27.7  | 25.8  |   27.7  |  2979600 |
@@ -178,21 +59,24 @@
 | NT2      | 2026-04-10 00:00:00 |  25.8  |  26.3  | 25.75 |   26.2  |   569900 |
 | NT2      | 2026-04-13 00:00:00 |  26.3  |  26.8  | 26.3  |   26.55 |   721400 |
 | NT2      | 2026-04-14 00:00:00 |  26.7  |  26.7  | 26.3  |   26.35 |   474800 |
+| NT2      | 2026-04-15 00:00:00 |  26.4  |  26.5  | 26.1  |   26.1  |   552700 |
+| NT2      | 2026-04-16 00:00:00 |  26.15 |  26.7  | 25.8  |   26.2  |   805000 |
+| NT2      | 2026-04-17 00:00:00 |  26.5  |  26.5  | 25.95 |   26    |   514700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NT2      | 2026-04-14 13:33:41 |   26.3  |      200 | Buy          | 463429863 |
-| NT2      | 2026-04-14 13:39:12 |   26.35 |      300 | Buy          | 463443698 |
-| NT2      | 2026-04-14 13:39:43 |   26.35 |      300 | Buy          | 463444999 |
-| NT2      | 2026-04-14 13:40:00 |   26.35 |     4700 | Buy          | 463445762 |
-| NT2      | 2026-04-14 13:40:00 |   26.35 |      300 | Buy          | 463445764 |
-| NT2      | 2026-04-14 13:40:27 |   26.35 |      300 | Buy          | 463446928 |
-| NT2      | 2026-04-14 13:43:42 |   26.35 |     1000 | Buy          | 463461431 |
-| NT2      | 2026-04-14 13:43:45 |   26.35 |      100 | Buy          | 463461604 |
-| NT2      | 2026-04-14 13:43:45 |   26.35 |      600 | Buy          | 463461605 |
-| NT2      | 2026-04-14 13:43:45 |   26.35 |     5000 | Buy          | 463461606 |
+| NT2      | 2026-04-17 14:14:09 |   26.15 |      400 | Buy          | 465356724 |
+| NT2      | 2026-04-17 14:14:15 |   26.15 |      900 | Sell         | 465357132 |
+| NT2      | 2026-04-17 14:14:36 |   26.15 |     2000 | Sell         | 465358991 |
+| NT2      | 2026-04-17 14:14:45 |   26.15 |      200 | Sell         | 465359471 |
+| NT2      | 2026-04-17 14:15:52 |   26.15 |      100 | Sell         | 465364780 |
+| NT2      | 2026-04-17 14:15:52 |   26.15 |      100 | Sell         | 465364781 |
+| NT2      | 2026-04-17 14:15:52 |   26.15 |     7300 | Sell         | 465364779 |
+| NT2      | 2026-04-17 14:15:53 |   26.15 |     1000 | Buy          | 465364912 |
+| NT2      | 2026-04-17 14:16:08 |   26.15 |      100 | Buy          | 465365607 |
+| NT2      | 2026-04-17 14:16:54 |   26.15 |      100 | Buy          | 465368977 |
 
 <!-- END:DAILY -->
 

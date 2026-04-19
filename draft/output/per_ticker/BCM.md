@@ -1,166 +1,47 @@
 # BCM — BCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:20  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCM |
-| exchange | HOSE |
-| ev | 57339000000000 |
-| ceiling | 59300 |
-| floor | 51700 |
-| ref_price | 55500 |
-| open | 55000 |
-| match_price | 55400 |
-| close_price | 55400 |
-| price_change | -100 |
-| price_change_pct | -0.0018018 |
-| high | 55800 |
-| low | 54500 |
-| total_volume | 486024 |
-| high_price_1y | 82277 |
-| low_price_1y | 48953 |
-| pct_low_change_1y | 0.097029703 |
-| pct_high_change_1y | -0.2955239064 |
-| foreign_volume | 22600 |
-| foreign_room | 351900000 |
-| avg_match_volume_2w | 506110 |
-| foreign_holding_room | 9960025 |
-| current_holding_ratio | 0.009623212560386474 |
-| max_holding_ratio | 0.34 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 55.4 |
-| EMA20 | 54.73 |
-| EMA50 | 57.89 |
-| RSI(14) | 49.7 |
+| Giá đóng cửa | 55.7 |
+| EMA20 | 54.89 |
+| EMA50 | 57.49 |
+| RSI(14) | 51.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.995 |
-| MACD Signal | -1.718 |
-| MACD Histogram | 0.723 |
+| MACD | -0.534 |
+| MACD Signal | -1.1 |
+| MACD Histogram | 0.567 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 22600 |
-| Room NN còn lại | 351900000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.009623212560386474 |
-| Tỷ lệ sở hữu NN tối đa | 0.34 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BCM      |                22600 |      351900000 |              0.00962321 |
-| 2026-04-13 | BCM      |                 4500 |      351900000 |              0.00962321 |
-| 2026-04-12 | BCM      |                 4500 |      351900000 |              0.00962321 |
-| 2026-04-10 | BCM      |                16600 |      351900000 |              0.00962321 |
-| 2026-04-06 | BCM      |                16100 |      351900000 |              0.0095236  |
-| 2026-04-03 | BCM      |                25800 |      351900000 |              0.00951432 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCM |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775471067173 |
-| revenue | 6974526741121 |
-| revenue_growth | 0.31260823114828046 |
-| net_profit | 3500888372407 |
-| net_profit_growth | 0.6007052753596397 |
-| ebit_margin | 0.34755739008250147 |
-| roe | 0.1652748746 |
-| roic | 0.0510691898 |
-| roa | 0.0584837389 |
-| pe | 16.3784142482 |
-| pb | 2.5176223046 |
-| eps | 3382.500842905314 |
-| current_ratio | 1.4528411002 |
-| cash_ratio | 0.1085036119 |
-| quick_ratio | 0.4116798812 |
-| interest_coverage | -1.756352971398201 |
-| ae | 2.6074730432877424 |
-| fae | 0.03367045146517204 |
-| net_profit_margin | 0.5035064935893871 |
-| gross_margin | 0.5989591357799151 |
-| ev | 57339000000000 |
-| issue_share | 1035000000 |
-| ps | 8.2466379287 |
-| pcf | -257.2110325589 |
-| bvps | 22004.889255687 |
-| ev_per_ebitda | 29.7396412393 |
-| at | 0.1161528989 |
-| fat | 7.5204165219 |
-| acp | 258.3153645975112 |
-| dso | 2829.6738834772 |
-| dpo | 58.6889740268 |
-| eps_ttm | 3382.5008429053 |
-| charter_capital | 10350000000000 |
-| rtq4 | 0.6108015697 |
-| charter_capital_ratio | 2.258132845902029 |
-| rtq10 | 1.6074730433 |
-| dividend | 0 |
-| ebitda | 2654271336651 |
-| ebit | 2416571863870 |
-| le | 1.6354560047 |
-| de | 1.6074730433 |
-| ccc | 3146.678222101511 |
-| rtq17 | 0.1289901293 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| BCM: Nghị quyết HĐQT về việc góp vốn điều lệ ban đầu thành lập Công ty TNHH MTV WTC Becamex               | 1772813357000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-gop-von-dieu-le-ban-dau-thanh-lap-cong-ty-tnhh-mtv-wtc-becamex… |
-| BCM: CBTT hoàn thành nghĩa vụ thuế                                                                        | 1770909499000 | https://www.hsx.vn/vi/tin-tuc/bcm-cbtt-hoan-thanh-nghia-vu-thue/2438744                                                   |
-| BCM: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                                | 1770394299000 | https://www.hsx.vn/vi/tin-tuc/bcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2024-bang-tien/2437549           |
-| Becamex IDC (BCM) chia cổ tức 11% bằng tiền mặt, lợi nhuận 2025 vượt hơn 42% kế hoạch                     | 1770133380000 | https://www.tinnhanhchungkhoan.vn/becamex-idc-bcm-chia-co-tuc-11-bang-tien-mat-loi-nhuan-2025-vuot-hon-42-ke-hoach-post3… |
-| BCM: Nghị quyết HĐQT về việc chi trả cổ tức năm 2024                                                      | 1770041696000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-chi-tra-co-tuc-nam-2024/2436223                                 |
-| BCM: Báo cáo tình hình quản trị công ty năm 2025                                                          | 1769798939000 | https://www.hsx.vn/vi/tin-tuc/bcm-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435652                                     |
-| BCM: Nghị quyết HĐQT về việc thông qua hợp đồng, giao dịch với người có liên quan năm 2026                | 1768410398000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-voi-nguoi-co-lien-quan-nam-2026/2… |
-| BCM: Nghị quyết HĐQT về việc thành lập Công ty TNHH MTV WTC Becamex                                       | 1766658330000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-thanh-lap-cong-ty-tnhh-mtv-wtc-becamex/2426179                  |
-| BCM: Nghị quyết HĐQT về việc góp tăng vốn điều lệ cho Công ty liên doanh TNHH Khu CN Việt Nam - Singapore | 1765899769000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-gop-tang-von-dieu-le-cho-cong-ty-lien-doanh-tnhh-khu-cn-viet-n… |
-| BCM: Nghị quyết HĐQT về việc góp tăng vốn điều lệ cho CTCP Becamex Bình Định                              | 1764692314000 | https://www.hsx.vn/vi/tin-tuc/bcm-nghi-quyet-hdqt-ve-viec-gop-tang-von-dieu-le-cho-ctcp-becamex-binh-dinh/2421497         |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm năm 2024 bằng tiền 1100 đồng/cổ phiếu | 2026-02-06    | 2026-02-13    | 2026-02-12     |    0.11 |    1100 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-10-21    | 2024-11-05    | 2024-11-04     |    0.1  |    1000 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm năm 2022 bằng tiền 800 đồng/cổ phiếu  | 2023-11-14    | 2023-11-29    | 2023-11-28     |    0.08 |     800 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm năm 2021 bằng tiền 700 đồng/cổ phiếu  | 2022-09-30    | 2022-10-10    | 2022-10-07     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Đợt 2, 2020 bằng tiền 400 VND/CP             | 2021-12-01    | 2021-12-13    | 2021-12-10     |    0.04 |     400 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm, 2020 bằng tiền 400 VND/CP            | 2021-07-01    | 2021-07-23    | 2021-07-22     |    0.04 |     400 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm, 2019 bằng tiền 400 VND/CP            | 2020-11-12    | 2020-11-26    | 2020-11-25     |    0.04 |     400 |
-| Niêm yết thêm            | BCM - Đăng ký giao dịch bổ sung 1.010.223.700 cổ phiếu        | 2019-09-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | BCM - Trả cổ tức Cả năm, 2018 bằng tiền 600 VND/CP            | 2019-06-19    | 2019-06-28    | 2019-06-27     |    0.06 |     600 |
-| Niêm yết thêm            | BCM - Đăng ký giao dịch bổ sung 1.307.300 cổ phiếu            | 2018-10-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết mới             | BCM-Chính thức đăng ký giao dịch trên UPCoM                   | 2018-02-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BCM      | 2026-03-17 00:00:00 |   54.1 |   55.4 | 54.1  |    54.1 |   419300 |
-| BCM      | 2026-03-18 00:00:00 |   54.1 |   54.8 | 53.7  |    54.1 |   475100 |
-| BCM      | 2026-03-19 00:00:00 |   53.5 |   53.9 | 52.8  |    52.8 |   746600 |
-| BCM      | 2026-03-20 00:00:00 |   52.8 |   53.7 | 52.7  |    52.8 |   545700 |
 | BCM      | 2026-03-23 00:00:00 |   51.6 |   52.3 | 49.75 |    50.5 |   913100 |
 | BCM      | 2026-03-24 00:00:00 |   51.1 |   51.8 | 50.9  |    51.5 |   385900 |
 | BCM      | 2026-03-25 00:00:00 |   51.8 |   53.7 | 51.8  |    52.9 |   533400 |
@@ -177,10 +58,25 @@
 | BCM      | 2026-04-09 00:00:00 |   54.3 |   56.3 | 54.3  |    55.2 |   644700 |
 | BCM      | 2026-04-10 00:00:00 |   55.5 |   56.5 | 55.3  |    55.5 |   433800 |
 | BCM      | 2026-04-13 00:00:00 |   55   |   55.8 | 54.5  |    55.4 |   485000 |
+| BCM      | 2026-04-14 00:00:00 |   55.4 |   56   | 55    |    55.5 |   550200 |
+| BCM      | 2026-04-15 00:00:00 |   55.8 |   55.8 | 54.6  |    54.6 |   612800 |
+| BCM      | 2026-04-16 00:00:00 |   54.8 |   55.9 | 54.4  |    55   |   546900 |
+| BCM      | 2026-04-17 00:00:00 |   55.5 |   56.5 | 55    |    55.7 |   630000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BCM      | 2026-04-17 14:14:38 |    55.5 |      100 | Sell         | 465359039 |
+| BCM      | 2026-04-17 14:14:38 |    55.5 |     3000 | Sell         | 465359043 |
+| BCM      | 2026-04-17 14:14:38 |    55.5 |      100 | Sell         | 465359040 |
+| BCM      | 2026-04-17 14:14:38 |    55.5 |      300 | Sell         | 465359041 |
+| BCM      | 2026-04-17 14:14:38 |    55.5 |     1000 | Sell         | 465359042 |
+| BCM      | 2026-04-17 14:14:59 |    55.5 |      100 | Sell         | 465360308 |
+| BCM      | 2026-04-17 14:14:59 |    55.5 |      100 | Sell         | 465360309 |
+| BCM      | 2026-04-17 14:14:59 |    55.5 |      100 | Sell         | 465360310 |
+| BCM      | 2026-04-17 14:14:59 |    55.5 |      100 | Sell         | 465360311 |
+| BCM      | 2026-04-17 14:14:59 |    55.5 |      100 | Sell         | 465360307 |
 
 <!-- END:DAILY -->
 

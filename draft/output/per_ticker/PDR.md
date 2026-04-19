@@ -1,166 +1,47 @@
 # PDR — PDR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 13:42
+> 📅 Daily: 19/04/2026 15:35  |  🗂 Quarterly: 05/04/2026 13:42
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PDR |
-| exchange | HOSE |
-| ev | 16463854753500 |
-| ceiling | 17500 |
-| floor | 15300 |
-| ref_price | 16400 |
-| open | 16300 |
-| match_price | 16500 |
-| close_price | 16500 |
-| price_change | 100 |
-| price_change_pct | 0.00609756 |
-| high | 16850 |
-| low | 16250 |
-| total_volume | 10345642 |
-| high_price_1y | 27200 |
-| low_price_1y | 13700 |
-| pct_low_change_1y | 0.164738495 |
-| pct_high_change_1y | -0.3726235741 |
-| foreign_volume | 213685 |
-| foreign_room | 498904689 |
-| avg_match_volume_2w | 12303967 |
-| foreign_holding_room | 63828424 |
-| current_holding_ratio | 0.06396855485961513 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.45 |
-| EMA20 | 16.09 |
-| EMA50 | 16.54 |
-| RSI(14) | 54.7 |
+| Giá đóng cửa | 16.15 |
+| EMA20 | 16.15 |
+| EMA50 | 16.52 |
+| RSI(14) | 50.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.104 |
-| MACD Signal | -0.023 |
-| MACD Histogram | 0.127 |
+| MACD | 0.102 |
+| MACD Signal | 0.043 |
+| MACD Histogram | 0.059 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 213685 |
-| Room NN còn lại | 498904689 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06396855485961513 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | PDR      |               213685 |      498904689 |               0.0639686 |
-| 2026-04-06 | PDR      |               494600 |      498904689 |               0.0635236 |
-| 2026-04-03 | PDR      |               268265 |      498904689 |               0.0627435 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PDR |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775052283737 |
-| revenue | 1324974747132 |
-| revenue_growth | 0.6124984829967259 |
-| net_profit | 515069907619 |
-| net_profit_growth | 2.321152836381206 |
-| ebit_margin | 0.34651267498327676 |
-| roe | 0.0440732251 |
-| roic | 0.0255519376 |
-| roa | 0.0200980152 |
-| pe | 31.9643110769 |
-| pb | 1.3306201607 |
-| eps | 516.2007077295673 |
-| current_ratio | 2.3568296837 |
-| cash_ratio | 0.0366479217 |
-| quick_ratio | 0.7190558317 |
-| interest_coverage | -1.323952232776935 |
-| ae | 2.1949759747879165 |
-| fae | 0.05901812102898895 |
-| net_profit_margin | 0.3887394146446222 |
-| gross_margin | 0.5435475793179413 |
-| ev | 16463854753500 |
-| issue_share | 997809379 |
-| ps | 12.4257875776 |
-| pcf | -5.5332911544 |
-| bvps | 12400.2329792262 |
-| ev_per_ebitda | 45.8655054246 |
-| at | 0.0517004823 |
-| fat | 1.7935835408 |
-| acp | 652.3242504720417 |
-| dso | 9291.855205957 |
-| dpo | 154.6079466546 |
-| eps_ttm | 516.2007077296 |
-| charter_capital | 9978093790000 |
-| rtq4 | 0.3572181015 |
-| charter_capital_ratio | 1.245121441227403 |
-| rtq10 | 1.1949759748 |
-| dividend | 0 |
-| ebitda | 471642515985 |
-| ebit | 459120543914 |
-| le | 0.803468845 |
-| de | 1.1949759748 |
-| ccc | 10098.787403083641 |
-| rtq17 | 0.0392817141 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| PDR: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Văn Đạt                                                   | 1775846439000 | https://www.hsx.vn/vi/tin-tuc/pdr-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-van-dat/2452215              |
-| PDR: Đính chính báo cáo tình hình quản trị năm 2025                                                                       | 1775832843000 | https://www.hsx.vn/vi/tin-tuc/pdr-dinh-chinh-bao-cao-tinh-hinh-quan-tri-nam-2025/2451963                                  |
-| PDR: Giải trình KQKD năm 2025 sau kiểm toán so với cùng kỳ năm trước                                                      | 1775035308000 | https://www.hsx.vn/vi/tin-tuc/pdr-giai-trinh-kqkd-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc/2448992                 |
-| Phát Đạt muốn huy động 2.000 tỷ đồng từ cổ đông hiện hữu để M&A                                                           | 1774981740000 | https://www.tinnhanhchungkhoan.vn/phat-dat-muon-huy-dong-2000-ty-dong-tu-co-dong-hien-huu-de-ma-post387897.html           |
-| PDR: Đính chính báo cáo tình hình quản trị năm 2025                                                                       | 1774979635000 | https://www.hsx.vn/vi/tin-tuc/pdr-dinh-chinh-bao-cao-tinh-hinh-quan-tri-nam-2025/2448815                                  |
-| PDR: Quyết định của HĐQT về việc triển khai tổ chức cuộc họp ĐHĐCĐ thường niên năm 2026                                   | 1773997909000 | https://www.hsx.vn/vi/tin-tuc/pdr-quyet-dinh-cua-hdqt-ve-viec-trien-khai-to-chuc-cuoc-hop-dhdcd-thuong-nien-nam-2026/244… |
-| PDR: Chủ tịch HĐQT đăng ký mua 3 triệu cổ phiếu                                                                           | 1773242940000 | https://www.hsx.vn/vi/tin-tuc/pdr-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-van-dat/2443496                    |
-| PDR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                            | 1772018206000 | https://www.hsx.vn/vi/tin-tuc/pdr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2… |
-| PDR: Quyết định của HĐQT về việc chốt danh sách cổ đông để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026             | 1770904359000 | https://www.hsx.vn/vi/tin-tuc/pdr-quyet-dinh-cua-hdqt-ve-viec-chot-danh-sach-co-dong-de-thuc-hien-quyen-tham-du-dhdcd-th… |
-| PDR: CBTT về việc CTCP Bất động sản ĐT và PT Cao ốc Bình Dương ký kết hợp đồng chuyển nhượng toàn bộ cổ phần tại CTCP Bấ… | 1770216032000 | https://www.hsx.vn/vi/tin-tuc/pdr-cbtt-ve-viec-ctcp-bat-dong-san-dt-va-pt-cao-oc-binh-duong-ky-ket-hop-dong-chuyen-nhuon… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                                                    | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------|:-------------------------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 18.000.000 cổ phiếu                                     | 2026-01-10    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 72.574.296 cổ phiếu                                     | 2025-08-19    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | PDR - Phát hành cổ phiếu trả cổ tức tỷ lệ 8%                                   | 2025-07-30    | 2025-08-05    | 2025-08-04     | 0.08     |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 34.095.000 cổ phiếu                                     | 2025-05-23    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 134,329,243 cổ phiếu                                    | 2024-07-10    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | PDR - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 5,5 : 1 giá 10.000 đồng/cp | 2024-05-03    | 2024-05-13    | 2024-05-10     | 0.181818 |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 67,164,621 cổ phiếu                                     | 2023-12-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 178,874,303 cổ phiếu                                    | 2022-05-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | PDR - Phát hành cổ phiếu trả cổ tức tỷ lệ 36.3%                                | 2022-04-13    | 2022-04-21    | 2022-04-20     | 0.363    |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 3.000.000 cổ phiếu                                      | 2021-12-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 3.000.000 cổ phiếu                                      | 2021-12-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 50.985.675 cổ phiếu                                     | 2021-05-17    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | PDR - Phát hành cổ phiếu trả cổ tức tỷ lệ 11.7%                                | 2021-04-20    | 2021-04-27    | 2021-04-26     | 0.117    |       0 |
-| Niêm yết thêm      | PDR - Niêm yết bổ sung 39.616.344 cổ phiếu                                     | 2021-04-08    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | PDR - Phát hành cổ phiếu trả cổ tức tỷ lệ 10:1                                 | 2021-03-18    | 2021-03-24    | 2021-03-23     | 0.1      |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PDR      | 2026-03-18 00:00:00 |  15.2  |  15.3  | 14.8  |   15.25 |  5887800 |
-| PDR      | 2026-03-19 00:00:00 |  14.9  |  15.65 | 14.9  |   15.4  | 10087900 |
-| PDR      | 2026-03-20 00:00:00 |  15.35 |  15.4  | 15.1  |   15.15 |  7858900 |
 | PDR      | 2026-03-23 00:00:00 |  14.85 |  15    | 14.1  |   14.5  | 10474100 |
 | PDR      | 2026-03-24 00:00:00 |  14.6  |  15.45 | 14.45 |   15.15 | 10501500 |
 | PDR      | 2026-03-25 00:00:00 |  15.2  |  15.5  | 14.9  |   15.3  | 10300000 |
@@ -178,21 +59,24 @@
 | PDR      | 2026-04-10 00:00:00 |  16.85 |  17.05 | 16.4  |   16.4  | 11948400 |
 | PDR      | 2026-04-13 00:00:00 |  16.3  |  16.85 | 16.25 |   16.5  | 10336800 |
 | PDR      | 2026-04-14 00:00:00 |  16.75 |  16.8  | 16.25 |   16.45 |  8329700 |
+| PDR      | 2026-04-15 00:00:00 |  16.5  |  16.85 | 16.4  |   16.45 | 13313900 |
+| PDR      | 2026-04-16 00:00:00 |  16.6  |  16.75 | 16.1  |   16.4  |  9670100 |
+| PDR      | 2026-04-17 00:00:00 |  16.5  |  16.5  | 16.15 |   16.15 |  6965800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PDR      | 2026-04-14 14:26:50 |   16.35 |    10000 | Sell         | 463615437 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |     2000 | Sell         | 463615448 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |      200 | Sell         | 463615447 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |     3000 | Sell         | 463615446 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |      100 | Sell         | 463615445 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |      100 | Sell         | 463615444 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |      100 | Sell         | 463615438 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |     1000 | Sell         | 463615442 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |     1000 | Sell         | 463615439 |
-| PDR      | 2026-04-14 14:26:50 |   16.35 |     3000 | Sell         | 463615443 |
+| PDR      | 2026-04-17 14:28:01 |   16.15 |      100 | Sell         | 465413229 |
+| PDR      | 2026-04-17 14:28:01 |   16.15 |      300 | Sell         | 465413240 |
+| PDR      | 2026-04-17 14:28:04 |   16.15 |      100 | Sell         | 465413496 |
+| PDR      | 2026-04-17 14:28:04 |   16.15 |      100 | Sell         | 465413499 |
+| PDR      | 2026-04-17 14:28:04 |   16.15 |      800 | Sell         | 465413495 |
+| PDR      | 2026-04-17 14:28:04 |   16.15 |      200 | Sell         | 465413497 |
+| PDR      | 2026-04-17 14:28:04 |   16.15 |      100 | Sell         | 465413498 |
+| PDR      | 2026-04-17 14:28:05 |   16.2  |      500 | Buy          | 465413552 |
+| PDR      | 2026-04-17 14:28:06 |   16.2  |      200 | Buy          | 465413623 |
+| PDR      | 2026-04-17 14:28:16 |   16.2  |      500 | Buy          | 465414154 |
 
 <!-- END:DAILY -->
 

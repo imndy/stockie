@@ -1,166 +1,47 @@
 # TPB — TPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:50  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 19/04/2026 15:38  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TPB |
-| exchange | HOSE |
-| ev | 45355666373550 |
-| ceiling | 17400 |
-| floor | 15200 |
-| ref_price | 16300 |
-| open | 16200 |
-| match_price | 16350 |
-| close_price | 16350 |
-| price_change | 50 |
-| price_change_pct | 0.00306748 |
-| high | 16500 |
-| low | 16100 |
-| total_volume | 7948999 |
-| high_price_1y | 21715 |
-| low_price_1y | 11320 |
-| pct_low_change_1y | 0.4387300084 |
-| pct_high_change_1y | -0.2214441425 |
-| foreign_volume | 1302920 |
-| foreign_room | 832214061 |
-| avg_match_volume_2w | 8621247 |
-| foreign_holding_room | 680371242 |
-| current_holding_ratio | 0.24526306625244973 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.45 |
-| EMA20 | 16.23 |
-| EMA50 | 16.52 |
-| RSI(14) | 52.4 |
+| Giá đóng cửa | 16.25 |
+| EMA20 | 16.25 |
+| EMA50 | 16.5 |
+| RSI(14) | 49.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.073 |
-| MACD Signal | -0.167 |
-| MACD Histogram | 0.095 |
+| MACD | -0.044 |
+| MACD Signal | -0.109 |
+| MACD Histogram | 0.065 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1302920 |
-| Room NN còn lại | 832214061 |
-| Tỷ lệ sở hữu NN hiện tại | 0.24526306625244973 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | TPB      |              1302920 |      832214061 |                0.245263 |
-| 2026-04-06 | TPB      |               434000 |      832214061 |                0.244425 |
-| 2026-04-03 | TPB      |               381100 |      832214061 |                0.244234 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TPB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775034002040 |
-| revenue | 30750567000000 |
-| revenue_growth | 0.18505514624698222 |
-| net_profit | 7402000000000 |
-| net_profit_growth | 0.21911169217380363 |
-| ebit_margin | 0 |
-| roe | 0.1769898413 |
-| roic | 0 |
-| roa | 0.0160228617 |
-| pe | 6.1274880863 |
-| pb | 1.0720856638 |
-| eps | 2668.303841582491 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 10.986214591093992 |
-| fae | 0.02633521453487098 |
-| net_profit_margin | 0.5535794535717579 |
-| gross_margin | 0 |
-| ev | 45355666815000 |
-| issue_share | 2774046873 |
-| ps | 2.3877988885 |
-| pcf | 1.7326039103 |
-| bvps | 15250.6469879799 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 2668.3038415825 |
-| charter_capital | 27740468730000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.6599849645006342 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| TPB: Nghị quyết HĐQT số 10/2026 ngày 07/04/2026                                                                           | 1775669473000 | https://www.hsx.vn/vi/tin-tuc/tpb-nghi-quyet-hdqt-so-102026-ngay-07042026/2451507                                         |
-| TPB: Thông báo mời họp và tài liệu ĐHĐCĐ thường niên năm 2026                                                             | 1775207541000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-moi-hop-va-tai-lieu-dhdcd-thuong-nien-nam-2026/2450014                        |
-| TPB: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                               | 1772818639000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442518          |
-| TPB: Thông báo về việc ký hợp đồng kiểm toán BCTC năm 2026                                                                | 1772639054000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-nam-2026/2441754                           |
-| TPB: Nghị quyết HĐQT về việc thông qua ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026                                     | 1772215232000 | https://www.hsx.vn/vi/tin-tuc/tpb-nghi-quyet-hdqt-ve-viec-thong-qua-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026/24408… |
-| TPB: Nghị quyết HĐQT thông qua cấp tín dụng cho người có liên quan của cổ đông lớn                                        | 1772214309000 | https://www.hsx.vn/vi/tin-tuc/tpb-nghi-quyet-hdqt-thong-qua-cap-tin-dung-cho-nguoi-co-lien-quan-cua-co-dong-lon/2440805   |
-| TPB: Thông báo nhận được Quyết định của NHNN về việc bổ sung nội dung hoạt động vào Giấy phép thành lập và hoạt động của… | 1770393781000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-nhan-duoc-quyet-dinh-cua-nhnn-ve-viec-bo-sung-noi-dung-hoat-dong-vao-giay-ph… |
-| TPB: Thông báo nhận được Giấy chứng nhận đăng ký doanh nghiệp của công ty con                                             | 1770029346000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-nhan-duoc-giay-chung-nhan-dang-ky-doanh-nghiep-cua-cong-ty-con/2436094        |
-| TPB: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 1769617574000 | https://www.hsx.vn/vi/tin-tuc/tpb-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434443                                     |
-| TPB: Thông báo công văn của NHNN về chấp thuận cho TPB thay đổi địa điểm Phòng GD Vĩnh Hải                                | 1769597153000 | https://www.hsx.vn/vi/tin-tuc/tpb-thong-bao-cong-van-cua-nhnn-ve-chap-thuan-cho-tpb-thay-doi-dia-diem-phong-gd-vinh-hai/… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 132.090.677 cổ phiếu                   | 2025-11-20    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | TPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                  | 2025-10-24    | 2025-10-31    | 2025-10-30     |  0.05   |       0 |
-| Trả cổ tức bằng tiền mặt | TPB - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-05-06    | 2025-05-14    | 2025-05-13     |  0.1    |    1000 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 440.321.187 cổ phiếu                   | 2024-10-14    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | TPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2024-09-13    | 2024-09-24    | 2024-09-23     |  0.2    |       0 |
-| Trả cổ tức bằng tiền mặt | TPB - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu  | 2024-06-13    | 2024-06-21    | 2024-06-20     |  0.05   |     500 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 619,879,514 cổ phiếu                   | 2023-06-29    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | TPB - Phát hành cổ phiếu thưởng tỷ lệ 39,19%                  | 2023-06-06    | 2023-06-12    | 2023-06-09     |  0.3919 |       0 |
-| Trả cổ tức bằng tiền mặt | TPB - Trả cổ tức Cả năm năm 2021 bằng tiền 2500 đồng/cổ phiếu | 2023-02-17    | 2023-03-21    | 2023-03-20     |  0.25   |    2500 |
-| Trả cổ tức bằng tiền mặt | TPB - Trả cổ tức Cả năm năm 2021 bằng tiền 2500 đồng/cổ phiếu | 2023-02-13    | 2023-02-21    | 2023-02-20     |  0.25   |    2500 |
-| Phát hành cổ phiếu       | TPB - Phát hành cổ phiếu thưởng tỷ lệ 35%                     | 2021-12-15    | 2021-12-21    | 2021-12-20     |  0.35   |       0 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 100.000.000 cổ phiếu                   | 2021-10-05    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 14.286.680 cổ phiếu                    | 2020-12-21    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 4.067.440 cổ phiếu                     | 2020-12-21    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Niêm yết thêm            | TPB - Niêm yết bổ sung 15.615.880 cổ phiếu                    | 2020-12-21    | 1753-01-01    | 1753-01-01     |  0      |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TPB      | 2026-03-18 00:00:00 |  16.2  |  16.35 | 15.9  |   16.05 |  8612200 |
-| TPB      | 2026-03-19 00:00:00 |  15.85 |  16.1  | 15.75 |   16    | 11842100 |
-| TPB      | 2026-03-20 00:00:00 |  15.9  |  16    | 15.8  |   15.8  |  4820600 |
 | TPB      | 2026-03-23 00:00:00 |  15.6  |  15.75 | 15.1  |   15.1  | 11931000 |
 | TPB      | 2026-03-24 00:00:00 |  15.5  |  15.95 | 15.35 |   15.8  | 11898000 |
 | TPB      | 2026-03-25 00:00:00 |  15.85 |  16.2  | 15.8  |   16.15 | 11989200 |
@@ -178,21 +59,24 @@
 | TPB      | 2026-04-10 00:00:00 |  16.4  |  16.9  | 16.3  |   16.3  |  8878700 |
 | TPB      | 2026-04-13 00:00:00 |  16.2  |  16.5  | 16.1  |   16.35 |  7939500 |
 | TPB      | 2026-04-14 00:00:00 |  16.5  |  16.7  | 16.4  |   16.45 |  8610800 |
+| TPB      | 2026-04-15 00:00:00 |  16.45 |  16.6  | 16.35 |   16.4  |  6809100 |
+| TPB      | 2026-04-16 00:00:00 |  16.4  |  16.45 | 16.2  |   16.25 |  6088700 |
+| TPB      | 2026-04-17 00:00:00 |  16.25 |  16.4  | 16.2  |   16.25 |  6009400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TPB      | 2026-04-14 14:26:52 |   16.5  |     1900 | Buy          | 463615546 |
-| TPB      | 2026-04-14 14:26:54 |   16.5  |      200 | Buy          | 463615651 |
-| TPB      | 2026-04-14 14:27:05 |   16.45 |     2000 | Sell         | 463616174 |
-| TPB      | 2026-04-14 14:27:14 |   16.5  |     1000 | Buy          | 463616594 |
-| TPB      | 2026-04-14 14:27:18 |   16.45 |     2000 | Sell         | 463616796 |
-| TPB      | 2026-04-14 14:27:34 |   16.5  |      900 | Buy          | 463617912 |
-| TPB      | 2026-04-14 14:27:36 |   16.5  |     1700 | Buy          | 463617985 |
-| TPB      | 2026-04-14 14:27:36 |   16.5  |      100 | Buy          | 463617987 |
-| TPB      | 2026-04-14 14:27:36 |   16.5  |      400 | Buy          | 463617988 |
-| TPB      | 2026-04-14 14:27:36 |   16.5  |    27800 | Buy          | 463617989 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      300 | Buy          | 465388251 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |     3600 | Buy          | 465388255 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      100 | Buy          | 465388256 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      100 | Buy          | 465388259 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      200 | Buy          | 465388254 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |    20000 | Buy          | 465388253 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |     6000 | Buy          | 465388258 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |     3000 | Buy          | 465388252 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      300 | Buy          | 465388257 |
+| TPB      | 2026-04-17 14:21:39 |    16.3 |      500 | Buy          | 465388261 |
 
 <!-- END:DAILY -->
 

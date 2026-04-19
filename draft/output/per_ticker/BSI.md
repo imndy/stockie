@@ -1,170 +1,47 @@
 # BSI — BSI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 19/04/2026 15:28  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSI |
-| exchange | HOSE |
-| ev | 9017198405250 |
-| ceiling | 39550 |
-| floor | 34450 |
-| ref_price | 37000 |
-| open | 36600 |
-| match_price | 36750 |
-| close_price | 36750 |
-| price_change | -250 |
-| price_change_pct | -0.00675676 |
-| high | 37250 |
-| low | 36050 |
-| total_volume | 249069 |
-| high_price_1y | 58300 |
-| low_price_1y | 31850 |
-| pct_low_change_1y | 0.1538461538 |
-| pct_high_change_1y | -0.3552631579 |
-| foreign_volume | 15600 |
-| foreign_room | 245365943 |
-| avg_match_volume_2w | 539318 |
-| foreign_holding_room | 87319628 |
-| current_holding_ratio | 0.3558750938796751 |
-| max_holding_ratio | 1 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 36.75 |
-| EMA20 | 36.19 |
-| EMA50 | 36.84 |
-| RSI(14) | 52.8 |
+| Giá đóng cửa | 36.65 |
+| EMA20 | 36.38 |
+| EMA50 | 36.83 |
+| RSI(14) | 51.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.168 |
-| MACD Signal | -0.185 |
-| MACD Histogram | 0.353 |
+| MACD | 0.2 |
+| MACD Signal | 0.049 |
+| MACD Histogram | 0.151 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 15600 |
-| Room NN còn lại | 245365943 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3558750938796751 |
-| Tỷ lệ sở hữu NN tối đa | 1 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BSI      |                15600 |      245365943 |                0.355875 |
-| 2026-04-13 | BSI      |                11700 |      245365943 |                0.355867 |
-| 2026-04-12 | BSI      |                11700 |      245365943 |                0.355867 |
-| 2026-04-10 | BSI      |                55400 |      245365943 |                0.355866 |
-| 2026-04-06 | BSI      |                25200 |      245365943 |                0.355761 |
-| 2026-04-03 | BSI      |                78100 |      245365943 |                0.355667 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSI |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774886973597 |
-| revenue | 2097190451600 |
-| revenue_growth | 0.4866602604674793 |
-| net_profit | 493666033520 |
-| net_profit_growth | 0.19511054970003217 |
-| ebit_margin | 0.4733301770402739 |
-| roe | 0.0932356644 |
-| roic | 0.06560359 |
-| roa | 0.0366454777 |
-| pe | 18.2657865702 |
-| pb | 1.6312578405 |
-| eps | 2011.9582509460165 |
-| current_ratio | 1.4650545554 |
-| cash_ratio | 0.4987617246 |
-| quick_ratio | 0.5186803523 |
-| interest_coverage | -2.6065641285518173 |
-| ae | 3.0080463984362886 |
-| fae | 0.004653284295614851 |
-| net_profit_margin | 0.23539399254052945 |
-| gross_margin | 0.57227078361451 |
-| ev | 9017198405250 |
-| issue_share | 245365943 |
-| ps | 4.2996564277 |
-| pcf | -2.1220370172 |
-| bvps | 22528.6273498478 |
-| ev_per_ebitda | 17.5361646737 |
-| at | 0.1556772003 |
-| fat | 78.6773244553 |
-| acp | None |
-| dso | 0 |
-| dpo | 0.6679239428 |
-| eps_ttm | 2011.958250946 |
-| charter_capital | 2453659430000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 2.2528627349847814 |
-| rtq10 | 2.0080463984 |
-| dividend | 0 |
-| ebitda | 1001163755407 |
-| ebit | 992663527743 |
-| le | 1.737319214 |
-| de | 2.0080463984 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                               |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Chứng khoán BIDV (BSI) lên kế hoạch lãi trước thuế kỷ lục 700 tỷ đồng                                                    | 1775123820000 | https://www.tinnhanhchungkhoan.vn/chung-khoan-bidv-bsi-len-ke-hoach-lai-truoc-thue-ky-luc-700-ty-dong-post387997.html     |
-| BSI: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                                                           | 1774893603000 | https://www.hsx.vn/vi/tin-tuc/bsi-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2448300                       |
-| BSI: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                                                  | 1774877897000 | https://www.hsx.vn/vi/tin-tuc/bsi-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025/2447987                              |
-| BSI: Giải trình biến động LNST năm 2025 so với cùng kỳ năm trước                                                         | 1774877306000 | https://www.hsx.vn/vi/tin-tuc/bsi-giai-trinh-bien-dong-lnst-nam-2025-so-voi-cung-ky-nam-truoc/2447956                     |
-| BSI: Thông báo thay đổi nhân sự - Bổ nhiệm 02 Phó Tổng Giám đốc                                                          | 1773248778000 | https://www.hsx.vn/vi/tin-tuc/bsi-thong-bao-thay-doi-nhan-su--bo-nhiem-02-pho-tong-giam-doc/2443568                       |
-| BSI: Quyết định của HĐQT phê duyệt hạn mức tín dụng tại VIB                                                              | 1772791325000 | https://www.hsx.vn/vi/tin-tuc/bsi-quyet-dinh-cua-hdqt-phe-duyet-han-muc-tin-dung-tai-vib/2442271                          |
-| BSI: Nghị quyết HĐQT về việc phê duyệt kế hoạch tổ chức ĐHĐCĐTN 2026                                                     | 1769708996000 | https://www.hsx.vn/vi/tin-tuc/bsi-nghi-quyet-hdqt-ve-viec-phe-duyet-ke-hoach-to-chuc-dhdcdtn-2026/2434954                 |
-| BSI: Báo cáo tình hình quản trị công ty năm 2025                                                                         | 1769705955000 | https://www.hsx.vn/vi/tin-tuc/bsi-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2434875                                     |
-| BSI: Nghị quyết HĐQT về việc phê duyệt điều chỉnh mã trái phiếu tại phương án phát hành trái phiếu doanh nghiệp riêng lẻ | 1769194501000 | https://www.hsx.vn/vi/tin-tuc/bsi-nghi-quyet-hdqt-ve-viec-phe-duyet-dieu-chinh-ma-trai-phieu-tai-phuong-an-phat-hanh-tra… |
-| BSI: Nghị quyết HĐQT thông qua phương án chào bán và niêm yết chứng quyền có bảo đảm                                     | 1767116585000 | https://www.hsx.vn/vi/tin-tuc/bsi-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-niem-yet-chung-quyen-co-bao-dam/242759… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | BSI - Niêm yết bổ sung 22.305.242 cổ phiếu                   | 2025-07-17    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BSI - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2025-05-30    | 2025-06-12    | 2025-06-11     |   0.1   |       0 |
-| Niêm yết thêm            | BSI - Niêm yết bổ sung 20,277,574 cổ phiếu                   | 2024-08-09    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BSI - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                | 2024-06-21    | 2024-07-10    | 2024-07-09     |   0.1   |       0 |
-| Niêm yết thêm            | BSI - Niêm yết bổ sung 14,983,007 cổ phiếu                   | 2023-08-16    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BSI - Phát hành cổ phiếu thưởng tỷ lệ 3%                     | 2023-06-15    | 2023-07-06    | 2023-07-05     |   0.03  |       0 |
-| Trả cổ tức bằng tiền mặt | BSI - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu | 2023-06-15    | 2023-07-06    | 2023-07-05     |   0.05  |     500 |
-| Niêm yết thêm            | BSI - Niêm yết bổ sung 65,730,042 cổ phiếu                   | 2022-10-14    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Trả cổ tức bằng tiền mặt | BSI - Trả cổ tức Cả năm năm 2021 bằng tiền 700 đồng/cổ phiếu | 2022-09-30    | 2022-10-10    | 2022-10-07     |   0.07  |     700 |
-| Trả cổ tức bằng tiền mặt | BSI - Trả cổ tức Đợt 1, 2019 bằng tiền 500 VND/CP            | 2019-12-17    | 2019-12-23    | 2019-12-20     |   0.05  |     500 |
-| Niêm yết thêm            | BSI - Niêm yết bổ sung 11.096.434 cổ phiếu                   | 2019-07-29    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BSI-Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                  | 2019-06-06    | 2019-06-20    | 2019-06-19     |   0.1   |       0 |
-| Trả cổ tức bằng tiền mặt | BSI - Trả cổ tức Cả năm, 2018 bằng tiền 800 VND/CP           | 2019-05-21    | 2019-05-28    | 2019-05-27     |   0.08  |     800 |
-| Niêm yết thêm            | BSI -  Niêm yết bổ sung 3.336.209 cổ phiếu                   | 2018-08-10    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BSI-Phát hành cổ phiếu trả cổ tức tỷ lệ 3,1%                 | 2018-06-12    | 2018-06-19    | 2018-06-18     |   0.031 |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BSI      | 2026-03-17 00:00:00 |  36    |  36.2  | 35.45 |   35.45 |   173400 |
-| BSI      | 2026-03-18 00:00:00 |  35.55 |  35.7  | 34.55 |   34.9  |   277300 |
-| BSI      | 2026-03-19 00:00:00 |  34.8  |  34.9  | 33.95 |   34.9  |   344100 |
-| BSI      | 2026-03-20 00:00:00 |  34.75 |  34.8  | 34.2  |   34.2  |   181500 |
 | BSI      | 2026-03-23 00:00:00 |  33.4  |  34.1  | 31.85 |   31.85 |   617800 |
 | BSI      | 2026-03-24 00:00:00 |  32.3  |  33.15 | 32.25 |   32.7  |   157300 |
 | BSI      | 2026-03-25 00:00:00 |  32.95 |  34.3  | 32.9  |   33.85 |   243000 |
@@ -181,10 +58,25 @@
 | BSI      | 2026-04-09 00:00:00 |  37.05 |  37.7  | 37    |   37.2  |   361400 |
 | BSI      | 2026-04-10 00:00:00 |  37.5  |  37.9  | 37    |   37    |   314400 |
 | BSI      | 2026-04-13 00:00:00 |  36.6  |  37.25 | 36.05 |   36.75 |   248900 |
+| BSI      | 2026-04-14 00:00:00 |  37    |  37.55 | 37    |   37.1  |   525300 |
+| BSI      | 2026-04-15 00:00:00 |  37.55 |  37.55 | 36.95 |   36.95 |   241000 |
+| BSI      | 2026-04-16 00:00:00 |  36.95 |  37.05 | 35.9  |   36.5  |   435300 |
+| BSI      | 2026-04-17 00:00:00 |  36.5  |  36.7  | 36    |   36.65 |   180600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BSI      | 2026-04-17 11:01:57 |    36.5 |      500 | Sell         | 465131866 |
+| BSI      | 2026-04-17 11:01:57 |    36.5 |      400 | Sell         | 465131871 |
+| BSI      | 2026-04-17 11:01:57 |    36.5 |      100 | Sell         | 465131870 |
+| BSI      | 2026-04-17 11:01:57 |    36.5 |      100 | Sell         | 465131867 |
+| BSI      | 2026-04-17 11:01:57 |    36.5 |      300 | Sell         | 465131868 |
+| BSI      | 2026-04-17 11:01:57 |    36.5 |     1000 | Sell         | 465131869 |
+| BSI      | 2026-04-17 11:04:05 |    36.5 |      400 | Sell         | 465134654 |
+| BSI      | 2026-04-17 11:04:05 |    36.5 |      100 | Sell         | 465134653 |
+| BSI      | 2026-04-17 11:09:39 |    36.6 |      100 | Buy          | 465142834 |
+| BSI      | 2026-04-17 11:09:39 |    36.6 |      100 | Buy          | 465142832 |
 
 <!-- END:DAILY -->
 

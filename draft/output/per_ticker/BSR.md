@@ -1,162 +1,47 @@
 # BSR — BSR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 19/04/2026 15:28  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSR |
-| exchange | HOSE |
-| ev | 136949646412100 |
-| ceiling | 28600 |
-| floor | 24900 |
-| ref_price | 26750 |
-| open | 27250 |
-| match_price | 27350 |
-| close_price | 27350 |
-| price_change | 600 |
-| price_change_pct | 0.02242991 |
-| high | 27850 |
-| low | 26800 |
-| total_volume | 13453316 |
-| high_price_1y | 39600 |
-| low_price_1y | 9071 |
-| pct_low_change_1y | 1.9446597761 |
-| pct_high_change_1y | -0.2774108322 |
-| foreign_volume | 1709906 |
-| foreign_room | 2453576846 |
-| avg_match_volume_2w | 14770009 |
-| foreign_holding_room | 82696126 |
-| current_holding_ratio | 0.0165151141704603 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.35 |
-| EMA20 | 27.38 |
-| EMA50 | 26.85 |
-| RSI(14) | 49.0 |
+| Giá đóng cửa | 26.7 |
+| EMA20 | 27.01 |
+| EMA50 | 26.76 |
+| RSI(14) | 47.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | -0.885 |
-| MACD Signal | -0.746 |
-| MACD Histogram | -0.139 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1709906 |
-| Room NN còn lại | 2453576846 |
-| Tỷ lệ sở hữu NN hiện tại | 0.0165151141704603 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BSR      |              1709906 |     2453576846 |               0.0165151 |
-| 2026-04-13 | BSR      |              4942700 |     2453576846 |               0.0168755 |
-| 2026-04-12 | BSR      |              4942700 |     2453576846 |               0.0168755 |
-| 2026-04-10 | BSR      |              2621105 |     2453576846 |               0.016592  |
-| 2026-04-06 | BSR      |              2085795 |     2453576846 |               0.0173718 |
-| 2026-04-03 | BSR      |              2783200 |     2453576846 |               0.0170756 |
+| Giá vs EMA50 | Dưới |
+| MACD | -0.748 |
+| MACD Signal | -0.781 |
+| MACD Histogram | 0.033 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSR |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774602632907 |
-| revenue | 141582149107302 |
-| revenue_growth | 0.1508211660314681 |
-| net_profit | 5213612063223 |
-| net_profit_growth | 7.260747981258211 |
-| ebit_margin | 0.03205302724370038 |
-| roe | 0.089900177 |
-| roic | 0.063901893 |
-| roa | 0.0600888515 |
-| pe | 26.2677093638 |
-| pb | 2.2643425753 |
-| eps | 1041.20232264105 |
-| current_ratio | 2.9545684785 |
-| cash_ratio | 0.3207664321 |
-| quick_ratio | 0.8902742533 |
-| interest_coverage | -16.58419067402319 |
-| ae | 1.407021747364428 |
-| fae | 0.1866075217588894 |
-| net_profit_margin | 0.036823936464417686 |
-| gross_margin | 0.04318283494384872 |
-| ev | 136949646412100 |
-| issue_share | 5007299686 |
-| ps | 0.9672804607 |
-| pcf | 26.0455926288 |
-| bvps | 12078.5610348252 |
-| ev_per_ebitda | 20.7458843366 |
-| at | 1.631787834 |
-| fat | 11.5540103607 |
-| acp | 31.899520715379367 |
-| dso | 38.6490599548 |
-| dpo | 34.779651326 |
-| eps_ttm | 1041.202322641 |
-| charter_capital | 50072996860000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.2084973823926424 |
-| rtq10 | 0.4070217474 |
-| dividend | 0 |
-| ebitda | 6740034899604 |
-| ebit | 4538136482558 |
-| le | 0.1735849478 |
-| de | 0.4070217474 |
-| ccc | 105.32823199617937 |
-| rtq17 | 9.4439554397 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                  |   public_date | news_source_link                                                                                                 |
-|:----------------------------------------------------------------------------|--------------:|:-----------------------------------------------------------------------------------------------------------------|
-| ĐHĐCĐ BSR: Đổi tên, hướng tới mục tiêu lãi 2.162 tỷ đồng năm 2026           | 1776089340000 | https://baodautu.vn/dhdcd-bsr-doi-ten-huong-toi-muc-tieu-lai-2162-ty-dong-nam-2026-d568307.html                  |
-| BSR: CBTT giao dịch với người có liên quan PVOIL Lào                        | 1775154428000 | https://www.hsx.vn/vi/tin-tuc/bsr-cbtt-giao-dich-voi-nguoi-co-lien-quan-pvoil-lao/2449971                        |
-| BSR: Giải trình một số nội dung liên quan BCTC năm 2025 đã kiểm toán        | 1774546506000 | https://www.hsx.vn/vi/tin-tuc/bsr-giai-trinh-mot-so-noi-dung-lien-quan-bctc-nam-2025-da-kiem-toan/2447126        |
-| BSR: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                | 1774288839000 | https://www.hsx.vn/vi/tin-tuc/bsr-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2446113                                |
-| BSR: Công bố không đáp ứng điều kiện công ty đại chúng                      | 1773941196000 | https://www.hsx.vn/vi/tin-tuc/bsr-cong-bo-khong-dap-ung-dieu-kien-cong-ty-dai-chung/2445427                      |
-| BSR: Quyết định của HĐQT số 574 ngày 24/02/2026                             | 1772030510000 | https://www.hsx.vn/vi/tin-tuc/bsr-quyet-dinh-cua-hdqt-so-574-ngay-24022026/2440085                               |
-| BSR: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026 | 1771003345000 | https://www.hsx.vn/vi/tin-tuc/bsr-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2439347 |
-| BSR: CBTT giao dịch với người có liên quan                                  | 1770054146000 | https://www.hsx.vn/vi/tin-tuc/bsr-cbtt-giao-dich-voi-nguoi-co-lien-quan/2436703                                  |
-| BSR: Giải trình chênh lệch LNST quý 4/2025 so với cùng kỳ năm trước         | 1769799549000 | https://www.hsx.vn/vi/tin-tuc/bsr-giai-trinh-chenh-lech-lnst-quy-42025-so-voi-cung-ky-nam-truoc/2435690          |
-| BSR: Báo cáo tình hình quản trị năm 2025                                    | 1769007802000 | https://www.hsx.vn/vi/tin-tuc/bsr-bao-cao-tinh-hinh-quan-tri-nam-2025/2432609                                    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | BSR - Niêm yết bổ sung 1.906.800.070 cổ phiếu                | 2025-11-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | BSR - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                | 2025-10-15    | 2025-10-30    | 2025-10-29     |    0.3  |       0 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2023 bằng tiền 700 đồng/cổ phiếu | 2024-09-17    | 2024-10-15    | 2024-10-14     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2022 bằng tiền 700 đồng/cổ phiếu | 2023-06-28    | 2023-08-23    | 2023-08-22     |    0.07 |     700 |
-| Trả cổ tức bằng tiền mặt | BSR - Trả cổ tức Cả năm năm 2021 bằng tiền 300 đồng/cổ phiếu | 2022-07-13    | 2022-07-27    | 2022-07-26     |    0.03 |     300 |
-| Niêm yết thêm            | BSR - Đăng ký giao dịch bổ sung 2.691.400 cổ phiếu           | 2018-12-14    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết mới             | BSR-Chính thức đăng ký giao dịch trên UPCoM                  | 2018-02-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BSR      | 2026-03-17 00:00:00 |  31.9  |  32.75 | 30.5  |   30.5  | 16522700 |
-| BSR      | 2026-03-18 00:00:00 |  28.45 |  32.6  | 28.45 |   30.65 | 37080100 |
-| BSR      | 2026-03-19 00:00:00 |  31.9  |  32    | 29.3  |   29.3  | 16049500 |
-| BSR      | 2026-03-20 00:00:00 |  29    |  29.95 | 27.25 |   28.05 | 34027800 |
 | BSR      | 2026-03-23 00:00:00 |  27.1  |  29    | 26.1  |   26.1  | 25169500 |
 | BSR      | 2026-03-24 00:00:00 |  26.75 |  27.45 | 24.65 |   26.4  | 20130400 |
 | BSR      | 2026-03-25 00:00:00 |  26.95 |  28.2  | 26.8  |   27.5  | 16946200 |
@@ -173,10 +58,25 @@
 | BSR      | 2026-04-09 00:00:00 |  25.8  |  26    | 25    |   25    |  8885200 |
 | BSR      | 2026-04-10 00:00:00 |  25.4  |  26.75 | 25.1  |   26.75 | 20100100 |
 | BSR      | 2026-04-13 00:00:00 |  27.25 |  27.85 | 26.8  |   27.35 | 13428700 |
+| BSR      | 2026-04-14 00:00:00 |  27.9  |  27.9  | 26.1  |   26.3  | 16976800 |
+| BSR      | 2026-04-15 00:00:00 |  26.3  |  26.95 | 25.9  |   26.15 | 11319000 |
+| BSR      | 2026-04-16 00:00:00 |  26.1  |  26.5  | 25.8  |   25.8  |  9596200 |
+| BSR      | 2026-04-17 00:00:00 |  26.3  |  26.9  | 25.8  |   26.7  | 10425100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BSR      | 2026-04-17 14:28:43 |   26.65 |     5000 | Buy          | 465416426 |
+| BSR      | 2026-04-17 14:28:43 |   26.65 |     1000 | Sell         | 465416429 |
+| BSR      | 2026-04-17 14:28:43 |   26.65 |      500 | Buy          | 465416427 |
+| BSR      | 2026-04-17 14:28:43 |   26.65 |      500 | Buy          | 465416428 |
+| BSR      | 2026-04-17 14:28:44 |   26.7  |     1600 | Buy          | 465416508 |
+| BSR      | 2026-04-17 14:28:46 |   26.65 |      300 | Sell         | 465416582 |
+| BSR      | 2026-04-17 14:28:46 |   26.65 |      100 | Sell         | 465416575 |
+| BSR      | 2026-04-17 14:28:48 |   26.65 |      100 | Sell         | 465416819 |
+| BSR      | 2026-04-17 14:28:52 |   26.65 |      400 | Sell         | 465417175 |
+| BSR      | 2026-04-17 14:28:52 |   26.65 |      500 | Sell         | 465417176 |
 
 <!-- END:DAILY -->
 

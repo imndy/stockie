@@ -1,170 +1,47 @@
 # DPM — DPM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DPM |
-| exchange | HOSE |
-| ev | 19921803115300 |
-| ceiling | 31100 |
-| floor | 27100 |
-| ref_price | 29100 |
-| open | 29300 |
-| match_price | 29300 |
-| close_price | 29300 |
-| price_change | 200 |
-| price_change_pct | 0.00687285 |
-| high | 29700 |
-| low | 29300 |
-| total_volume | 3878895 |
-| high_price_1y | 35800 |
-| low_price_1y | 16988 |
-| pct_low_change_1y | 0.6547143206 |
-| pct_high_change_1y | -0.1382352941 |
-| foreign_volume | 997752 |
-| foreign_room | 339995380 |
-| avg_match_volume_2w | 5159913 |
-| foreign_holding_room | 42904761 |
-| current_holding_ratio | 0.06309609403648941 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 29.3 |
-| EMA20 | 29.19 |
-| EMA50 | 28.24 |
-| RSI(14) | 51.2 |
+| Giá đóng cửa | 28.9 |
+| EMA20 | 29.01 |
+| EMA50 | 28.3 |
+| RSI(14) | 49.6 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | -0.008 |
-| MACD Signal | 0.192 |
-| MACD Histogram | -0.2 |
+| MACD | -0.095 |
+| MACD Signal | 0.028 |
+| MACD Histogram | -0.123 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 997752 |
-| Room NN còn lại | 339995380 |
-| Tỷ lệ sở hữu NN hiện tại | 0.06309609403648941 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DPM      |               997752 |      339995380 |               0.0630961 |
-| 2026-04-13 | DPM      |              1071672 |      339995380 |               0.0624162 |
-| 2026-04-12 | DPM      |              1071672 |      339995380 |               0.0624162 |
-| 2026-04-10 | DPM      |               534900 |      339995380 |               0.0618316 |
-| 2026-04-06 | DPM      |              1716513 |      339995380 |               0.061338  |
-| 2026-04-03 | DPM      |               146685 |      339995380 |               0.058722  |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DPM |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775034002040 |
-| revenue | 16820114094194 |
-| revenue_growth | 0.23160838374442252 |
-| net_profit | 1073241128259 |
-| net_profit_growth | 0.9957486899852329 |
-| ebit_margin | 0.06094437710223619 |
-| roe | 0.0960193315 |
-| roic | 0.0643131723 |
-| roa | 0.0625274929 |
-| pe | 18.5640754651 |
-| pb | 1.7550456563 |
-| eps | 1578.3172210761845 |
-| current_ratio | 2.4068080908 |
-| cash_ratio | 0.193804774 |
-| quick_ratio | 0.4243139721 |
-| interest_coverage | -7.108388846255162 |
-| ae | 1.5414066495990464 |
-| fae | 0.21354226499569384 |
-| net_profit_margin | 0.06479211831216139 |
-| gross_margin | 0.17740214706399535 |
-| ev | 19923729297300 |
-| issue_share | 679990761 |
-| ps | 1.2028057739 |
-| pcf | -11.18661414 |
-| bvps | 16694.7223825045 |
-| ev_per_ebitda | 16.3755261705 |
-| at | 0.9650478253 |
-| fat | 6.4030450427 |
-| acp | 14.660609429282847 |
-| dso | 69.1790216174 |
-| dpo | 18.2455693202 |
-| eps_ttm | 1578.3172210762 |
-| charter_capital | 6799907610000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.6959843438211066 |
-| rtq10 | 0.5414066496 |
-| dividend | 0 |
-| ebitda | 1399622604853 |
-| ebit | 1009505689058 |
-| le | 0.3610810507 |
-| de | 0.5414066496 |
-| ccc | 102.08520036688284 |
-| rtq17 | 5.2761659744 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                           |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| DPM: Link công bố Báo cáo thường niên năm 2025                                       | 1776100224000 | https://www.hsx.vn/vi/tin-tuc/dpm-link-cong-bo-bao-cao-thuong-nien-nam-2025/2452518                                       |
-| DPM: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Tổng Giám đốc                     | 1775833816000 | https://www.hsx.vn/vi/tin-tuc/dpm-thong-bao-thay-doi-nhan-su--bo-nhiem-lai-pho-tong-giam-doc/2451985                      |
-| Phú Mỹ (DPM) đẩy mạnh xuất khẩu ure kỹ thuật, tận dụng cơ hội giá thế giới tăng cao  | 1775681160000 | https://www.tinnhanhchungkhoan.vn/phu-my-dpm-day-manh-xuat-khau-ure-ky-thuat-tan-dung-co-hoi-gia-the-gioi-tang-cao-post3… |
-| DPM: Công bố thông tin BCTC HN và Riêng năm 2025 đã kiểm toán                        | 1774545005000 | https://www.hsx.vn/vi/tin-tuc/dpm-cong-bo-thong-tin-bctc-hn-va-rieng-nam-2025-da-kiem-toan/2447113                        |
-| DPM: Giải trình biến động KQKD năm 2025 sau kiểm toán so với cùng kỳ năm trước       | 1774544530000 | https://www.hsx.vn/vi/tin-tuc/dpm-giai-trinh-bien-dong-kqkd-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc/2447102       |
-| DPM: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                                    | 1774541115000 | https://www.hsx.vn/vi/tin-tuc/dpm-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026/2447031                                    |
-| DPM: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                          | 1773412147000 | https://www.hsx.vn/vi/tin-tuc/dpm-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026/2444090                          |
-| DPM: Nghị quyết HĐQT về việc thông qua kế hoạch triệu tập họp ĐHĐCĐ thường niên 2026 | 1772730919000 | https://www.hsx.vn/vi/tin-tuc/dpm-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-trieu-tap-hop-dhdcd-thuong-nien-2026/244213… |
-| 2 tháng đầu năm, PVFCCo - Phú Mỹ (DPM) vượt kế hoạch nhiều chỉ tiêu                  | 1772520240000 | https://www.tinnhanhchungkhoan.vn/2-thang-dau-nam-pvfcco-phu-my-dpm-vuot-ke-hoach-nhieu-chi-tieu-post386050.html          |
-| DPM: Báo cáo tình hình quản trị công ty năm 2025                                     | 1769448174000 | https://www.hsx.vn/vi/tin-tuc/dpm-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2433786                                     |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm            | DPM - Niêm yết bổ sung 288.590.761 cổ phiếu                   | 2025-09-22    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu       | DPM - Phát hành cổ phiếu thưởng tỷ lệ 73,7476%                | 2025-07-23    | 2025-08-08    | 2025-08-07     | 0.737476 |       0 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Cả năm năm 2024 bằng tiền 1500 đồng/cổ phiếu | 2025-07-10    | 2025-07-16    | 2025-07-15     | 0.15     |    1500 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Cả năm năm 2023 bằng tiền 2000 đồng/cổ phiếu | 2024-08-15    | 2024-08-22    | 2024-08-21     | 0.2      |    2000 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2 năm 2022 bằng tiền 3000 đồng/cổ phiếu  | 2023-08-15    | 2023-08-23    | 2023-08-22     | 0.3      |    3000 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 1 năm 2022 bằng tiền 4000 đồng/cổ phiếu  | 2023-02-10    | 2023-02-17    | 2023-02-16     | 0.4      |    4000 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2 năm 2021 bằng tiền 4000 đồng/cổ phiếu  | 2022-07-14    | 2022-07-21    | 2022-07-20     | 0.4      |    4000 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 1, 2021 bằng tiền 1000 VND/CP            | 2022-01-21    | 2022-01-28    | 2022-01-27     | 0.1      |    1000 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2, 2020 bằng tiền 700 VND/CP             | 2021-06-28    | 2021-07-06    | 2021-07-05     | 0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 1, 2020 bằng tiền 700 VND/CP             | 2021-01-15    | 2021-01-26    | 2021-01-25     | 0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2, 2019 bằng tiền 700 VND/CP             | 2020-07-27    | 2020-08-06    | 2020-08-05     | 0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | DPM- Trả cổ tức Đợt 1 năm 2019 bằng tiền 500 đồng/cổ phiếu    | 2020-04-16    | 2020-04-28    | 2020-04-27     | 0.05     |     500 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2, 2018 bằng tiền 500 VND/CP             | 2019-06-04    | 2019-06-14    | 2019-06-13     | 0.05     |     500 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 1, 2018 bằng tiền 500 VND/CP             | 2019-02-19    | 2019-02-28    | 2019-02-27     | 0.05     |     500 |
-| Trả cổ tức bằng tiền mặt | DPM - Trả cổ tức Đợt 2, 2017 bằng tiền 1000 VND/CP            | 2018-06-01    | 2018-06-15    | 2018-06-14     | 0.1      |    1000 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DPM      | 2026-03-17 00:00:00 |  30    |  30.5  | 28.75 |   28.75 | 26655800 |
-| DPM      | 2026-03-18 00:00:00 |  29    |  30.75 | 28.85 |   30.75 |  7434500 |
-| DPM      | 2026-03-19 00:00:00 |  31.65 |  31.7  | 29.75 |   30.75 | 10387100 |
-| DPM      | 2026-03-20 00:00:00 |  30.8  |  30.85 | 28.7  |   28.85 |  9134100 |
 | DPM      | 2026-03-23 00:00:00 |  28.7  |  29.9  | 28    |   28.7  |  8107900 |
 | DPM      | 2026-03-24 00:00:00 |  29.75 |  29.75 | 28.45 |   28.8  |  4313800 |
 | DPM      | 2026-03-25 00:00:00 |  29    |  29.9  | 28.7  |   29.4  |  5732000 |
@@ -181,10 +58,25 @@
 | DPM      | 2026-04-09 00:00:00 |  28.75 |  29.45 | 28.4  |   28.5  |  3240000 |
 | DPM      | 2026-04-10 00:00:00 |  28.6  |  29.65 | 28.4  |   29.1  |  5892100 |
 | DPM      | 2026-04-13 00:00:00 |  29.3  |  29.7  | 29.3  |   29.3  |  3874500 |
+| DPM      | 2026-04-14 00:00:00 |  29.5  |  29.5  | 28.65 |   28.7  |  4443700 |
+| DPM      | 2026-04-15 00:00:00 |  28.8  |  29    | 28.3  |   28.35 |  4142400 |
+| DPM      | 2026-04-16 00:00:00 |  28.55 |  28.9  | 28.25 |   28.65 |  2675300 |
+| DPM      | 2026-04-17 00:00:00 |  28.65 |  29.45 | 28.5  |   28.9  |  5571000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DPM      | 2026-04-17 14:24:12 |   28.9  |      100 | Sell         | 465397838 |
+| DPM      | 2026-04-17 14:24:30 |   28.9  |     1900 | Sell         | 465399060 |
+| DPM      | 2026-04-17 14:24:37 |   28.9  |     4700 | Sell         | 465399333 |
+| DPM      | 2026-04-17 14:24:37 |   28.9  |     3000 | Sell         | 465399321 |
+| DPM      | 2026-04-17 14:24:49 |   28.95 |      500 | Buy          | 465400078 |
+| DPM      | 2026-04-17 14:25:06 |   28.95 |     2000 | Buy          | 465401017 |
+| DPM      | 2026-04-17 14:25:06 |   28.95 |     1000 | Buy          | 465401018 |
+| DPM      | 2026-04-17 14:25:06 |   28.95 |     1000 | Buy          | 465401019 |
+| DPM      | 2026-04-17 14:25:13 |   28.9  |      200 | Sell         | 465401664 |
+| DPM      | 2026-04-17 14:25:21 |   28.9  |      100 | Sell         | 465402156 |
 
 <!-- END:DAILY -->
 

@@ -1,167 +1,47 @@
 # KDC — KDC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 19/04/2026 15:33  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | KDC |
-| exchange | HOSE |
-| ev | 14113567589200 |
-| ceiling | 52200 |
-| floor | 45400 |
-| ref_price | 48800 |
-| open | 48500 |
-| match_price | 48700 |
-| close_price | 48700 |
-| price_change | -100 |
-| price_change_pct | -0.00204918 |
-| high | 48800 |
-| low | 48250 |
-| total_volume | 275997 |
-| high_price_1y | 57619 |
-| low_price_1y | 46000 |
-| pct_low_change_1y | 0.0188284519 |
-| pct_high_change_1y | -0.1547985574 |
-| foreign_volume | 26263 |
-| foreign_room | 144903158 |
-| avg_match_volume_2w | 178915 |
-| foreign_holding_room | 46378307 |
-| current_holding_ratio | 0.16003207811385312 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.85 |
-| EMA20 | 49.16 |
-| EMA50 | 49.9 |
-| RSI(14) | 44.1 |
+| Giá đóng cửa | 48.0 |
+| EMA20 | 48.88 |
+| EMA50 | 49.7 |
+| RSI(14) | 37.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.492 |
-| MACD Signal | -0.543 |
-| MACD Histogram | 0.051 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 26263 |
-| Room NN còn lại | 144903158 |
-| Tỷ lệ sở hữu NN hiện tại | 0.16003207811385312 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | KDC      |                26263 |      144903158 |                0.160032 |
-| 2026-04-12 | KDC      |                10377 |      144903158 |                0.160032 |
-| 2026-04-06 | KDC      |                23700 |      144903158 |                0.160347 |
-| 2026-04-03 | KDC      |                12480 |      144903158 |                0.160282 |
+| MACD | -0.539 |
+| MACD Signal | -0.532 |
+| MACD Histogram | -0.007 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | KDC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775063115903 |
-| revenue | 9291536690397 |
-| revenue_growth | 0.08150619724151074 |
-| net_profit | 522443281291 |
-| net_profit_growth | 13.002519425811007 |
-| ebit_margin | -0.005507385806583589 |
-| roe | 0.0760878228 |
-| roic | -0.004381219 |
-| roa | 0.0381529991 |
-| pe | 27.0145451088 |
-| pb | 1.9848151398 |
-| eps | 1802.7325577369404 |
-| current_ratio | 1.317476214 |
-| cash_ratio | 0.3043618443 |
-| quick_ratio | 0.9277358937 |
-| interest_coverage | 0.2504772277286061 |
-| ae | 1.797252827281873 |
-| fae | 0.32593514063810863 |
-| net_profit_margin | 0.057699696097020046 |
-| gross_margin | 0.18495729720855053 |
-| ev | 14113567589200 |
-| issue_share | 289806316 |
-| ps | 1.558731043 |
-| pcf | 163.774014982 |
-| bvps | 24536.2900677775 |
-| ev_per_ebitda | 50.0211397106 |
-| at | 0.6612339701 |
-| fat | 3.5405162198 |
-| acp | 15.648906114866076 |
-| dso | 68.7586259257 |
-| dpo | 28.1379763384 |
-| eps_ttm | 1802.7325577369 |
-| charter_capital | 2898063160000 |
-| rtq4 | 0.0484314982 |
-| charter_capital_ratio | 2.6700725599434487 |
-| rtq10 | 0.7972528273 |
-| dividend | 0 |
-| ebitda | 324179667824 |
-| ebit | -49866756790 |
-| le | 0.5193386189 |
-| de | 0.7972528273 |
-| ccc | 112.54550837896608 |
-| rtq17 | 5.3084248716 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                       |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| KDC: Nghị quyết HĐQT về việc thay đổi thời gian tổ chức ĐHĐCĐ thường niên 2026                   | 1775149615000 | https://www.hsx.vn/vi/tin-tuc/kdc-nghi-quyet-hdqt-ve-viec-thay-doi-thoi-gian-to-chuc-dhdcd-thuong-nien-2026/2449891       |
-| KDC: Giải trình biến động lợi nhuận năm 2025 sau kiểm toán so với cùng kỳ năm trước              | 1775033550000 | https://www.hsx.vn/vi/tin-tuc/kdc-giai-trinh-bien-dong-loi-nhuan-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc/2448944  |
-| KDC: CBTT mua lại cổ phiếu VOC                                                                   | 1774877219000 | https://www.hsx.vn/vi/tin-tuc/kdc-cbtt-mua-lai-co-phieu-voc/2447953                                                       |
-| KDC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                   | 1774639596000 | https://www.hsx.vn/vi/tin-tuc/kdc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2447692                       |
-| KDC: Nghị quyết HĐQT số KDC04/2026 ngày 25/03/2026                                               | 1774460924000 | https://www.hsx.vn/vi/tin-tuc/kdc-nghi-quyet-hdqt-so-kdc042026-ngay-25032026/2446656                                      |
-| KDC: Điều lệ công ty đã cập nhật các ngành nghề kinh doanh                                       | 1773941828000 | https://www.hsx.vn/vi/tin-tuc/kdc-dieu-le-cong-ty-da-cap-nhat-cac-nganh-nghe-kinh-doanh/2445444                           |
-| KDC: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Trần Quốc Nguyên                        | 1773420599000 | https://www.hsx.vn/vi/tin-tuc/kdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-quoc-nguyen/2444206            |
-| KDC: Biên bản họp và Nghị quyết ĐHĐCĐ bất thường năm 2026                                        | 1772820800000 | https://www.hsx.vn/vi/tin-tuc/kdc-bien-ban-hop-va-nghi-quyet-dhdcd-bat-thuong-nam-2026/2442605                            |
-| KDC: Nghị quyết HĐQT về việc bầu Chủ tọa ĐHĐCĐ bất thường năm 2026                               | 1772820765000 | https://www.hsx.vn/vi/tin-tuc/kdc-nghi-quyet-hdqt-ve-viec-bau-chu-toa-dhdcd-bat-thuong-nam-2026/2442604                   |
-| KDC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Trần Vinh Nguyên | 1771861358000 | https://www.hsx.vn/vi/tin-tuc/kdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-tran-vinh-n… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |       ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|------------:|--------:|
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm năm 2024 bằng tiền 1200 đồng/cổ phiếu | 2025-12-31    | 2026-01-14    | 2026-01-13     |   0.12      |    1200 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm năm 2023 bằng tiền 600 đồng/cổ phiếu  | 2024-10-04    | 2024-10-15    | 2024-10-14     |   0.06      |     600 |
-| Phát hành cổ phiếu       | KDC - Sử dụng 22.517.346 cổ phiếu quỹ chia cho CĐHH           | 2024-06-06    | 2024-06-14    | 2024-06-13     |   0.0842434 |       0 |
-| Niêm yết thêm            | KDC - Niêm yết bổ sung 10,064,960 cổ phiếu                    | 2024-01-11    | 1753-01-01    | 1753-01-01     |   0         |       0 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1000 đồng/cổ phiếu  | 2023-12-29    | 2024-01-12    | 2024-01-11     |   0.1       |    1000 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Đợt 1 năm 2022 bằng tiền 600 đồng/cổ phiếu   | 2022-08-05    | 2022-08-22    | 2022-08-19     |   0.06      |     600 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm năm 2021 bằng tiền 600 đồng/cổ phiếu  | 2022-04-01    | 2022-04-20    | 2022-04-19     |   0.06      |     600 |
-| Phát hành cổ phiếu       | KDC - Sử dụng cổ phiếu quỹ chia cho CĐHH tỷ lệ 10%            | 2021-11-23    | 2021-12-01    | 2021-11-30     |   0.1       |       0 |
-| Niêm yết thêm            | KDC - Niêm yết bổ sung 23.087.959 cổ phiếu                    | 2021-01-26    | 1753-01-01    | 1753-01-01     |   0         |       0 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Đợt 1, 2020 bằng tiền 1000 VND/CP            | 2020-12-02    | 2020-12-18    | 2020-12-17     |   0.1       |    1000 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm, 2019 bằng tiền 1600 VND/CP           | 2020-08-11    | 2020-08-28    | 2020-08-27     |   0.16      |    1600 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP           | 2019-11-21    | 2019-12-02    | 2019-11-29     |   0.1       |    1000 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm, 2017 bằng tiền 1600 VND/CP           | 2018-08-01    | 2018-08-10    | 2018-08-09     |   0.16      |    1600 |
-| Trả cổ tức bằng tiền mặt | KDC - Trả cổ tức Cả năm, 2016 bằng tiền 1600 VND/CP           | 2017-07-12    | 2017-07-26    | 2017-07-25     |   0.16      |    1600 |
-| Trả cổ tức bằng tiền mặt | KDC-Trả cổ tức năm 2015 bằng tiền mặt 1.400VND/CP             | 2016-08-30    | 2016-09-16    | 2016-09-15     | nan         |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDC      | 2026-03-18 00:00:00 |  50.6  |  50.6  | 50.1  |   50.5  |   228100 |
-| KDC      | 2026-03-19 00:00:00 |  50.5  |  50.5  | 50    |   50    |   209000 |
-| KDC      | 2026-03-20 00:00:00 |  49.9  |  49.95 | 49    |   49.95 |   477800 |
 | KDC      | 2026-03-23 00:00:00 |  49.95 |  49.95 | 48.65 |   49.5  |   170800 |
 | KDC      | 2026-03-24 00:00:00 |  49.5  |  50.1  | 48.05 |   48.05 |   109700 |
 | KDC      | 2026-03-25 00:00:00 |  48.1  |  49.6  | 48.05 |   49.6  |   386500 |
@@ -179,21 +59,24 @@
 | KDC      | 2026-04-10 00:00:00 |  49    |  49.1  | 48.6  |   48.8  |   199600 |
 | KDC      | 2026-04-13 00:00:00 |  48.5  |  48.8  | 48.25 |   48.7  |   275800 |
 | KDC      | 2026-04-14 00:00:00 |  48.6  |  49.2  | 48.5  |   48.85 |   210300 |
+| KDC      | 2026-04-15 00:00:00 |  48.85 |  49    | 47.05 |   48.45 |   392300 |
+| KDC      | 2026-04-16 00:00:00 |  48.55 |  48.55 | 47.9  |   47.9  |   165200 |
+| KDC      | 2026-04-17 00:00:00 |  48.4  |  48.4  | 47.45 |   48    |   229200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| KDC      | 2026-04-14 10:27:45 |   48.75 |      100 | Sell         | 463212090 |
-| KDC      | 2026-04-14 10:33:20 |   48.8  |      100 | Buy          | 463225009 |
-| KDC      | 2026-04-14 10:34:54 |   48.8  |      100 | Buy          | 463228441 |
-| KDC      | 2026-04-14 10:37:55 |   48.9  |      200 | Buy          | 463234107 |
-| KDC      | 2026-04-14 10:39:51 |   48.9  |      400 | Buy          | 463237534 |
-| KDC      | 2026-04-14 10:40:03 |   48.9  |      100 | Buy          | 463237810 |
-| KDC      | 2026-04-14 10:43:17 |   48.9  |      200 | Buy          | 463243561 |
-| KDC      | 2026-04-14 10:44:18 |   48.85 |      100 | Buy          | 463245166 |
-| KDC      | 2026-04-14 10:44:18 |   48.9  |      100 | Buy          | 463245167 |
-| KDC      | 2026-04-14 10:46:57 |   48.9  |      200 | Buy          | 463248997 |
+| KDC      | 2026-04-17 13:29:29 |   47.5  |      200 | Sell         | 465242490 |
+| KDC      | 2026-04-17 13:29:29 |   47.5  |      800 | Sell         | 465242491 |
+| KDC      | 2026-04-17 13:30:28 |   47.55 |     1300 | Buy          | 465245712 |
+| KDC      | 2026-04-17 13:30:28 |   47.55 |      100 | Buy          | 465245711 |
+| KDC      | 2026-04-17 13:30:28 |   47.55 |      100 | Buy          | 465245713 |
+| KDC      | 2026-04-17 13:30:40 |   47.55 |     2000 | Sell         | 465246171 |
+| KDC      | 2026-04-17 13:30:59 |   47.55 |     1200 | Sell         | 465247489 |
+| KDC      | 2026-04-17 13:31:06 |   47.55 |      300 | Sell         | 465247937 |
+| KDC      | 2026-04-17 13:33:38 |   47.55 |      400 | Sell         | 465255315 |
+| KDC      | 2026-04-17 13:33:55 |   47.55 |      100 | Sell         | 465256069 |
 
 <!-- END:DAILY -->
 

@@ -1,170 +1,47 @@
 # EIB — EIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EIB |
-| exchange | HOSE |
-| ev | 42889203270000 |
-| ceiling | 24700 |
-| floor | 21500 |
-| ref_price | 23100 |
-| open | 22900 |
-| match_price | 22950 |
-| close_price | 22950 |
-| price_change | -150 |
-| price_change_pct | -0.00649351 |
-| high | 23500 |
-| low | 22750 |
-| total_volume | 42871860 |
-| high_price_1y | 31650 |
-| low_price_1y | 17500 |
-| pct_low_change_1y | 0.2679558011 |
-| pct_high_change_1y | -0.2620578778 |
-| foreign_volume | 877347 |
-| foreign_room | 560090574 |
-| avg_match_volume_2w | 13954952 |
-| foreign_holding_room | 56447051 |
-| current_holding_ratio | 0.03020480020209988 |
-| max_holding_ratio | 0.2997043 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.95 |
-| EMA20 | 22.63 |
-| EMA50 | 22.45 |
-| RSI(14) | 53.4 |
+| Giá đóng cửa | 22.4 |
+| EMA20 | 22.62 |
+| EMA50 | 22.47 |
+| RSI(14) | 48.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.139 |
-| MACD Signal | 0.12 |
-| MACD Histogram | 0.019 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 877347 |
-| Room NN còn lại | 560090574 |
-| Tỷ lệ sở hữu NN hiện tại | 0.03020480020209988 |
-| Tỷ lệ sở hữu NN tối đa | 0.2997043 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | EIB      |               877347 |      560090574 |               0.0302048 |
-| 2026-04-13 | EIB      |               432872 |      560090574 |               0.0304871 |
-| 2026-04-12 | EIB      |               432872 |      560090574 |               0.0304871 |
-| 2026-04-10 | EIB      |               626400 |      560090574 |               0.0307241 |
-| 2026-04-06 | EIB      |              1800800 |      560090574 |               0.0326659 |
-| 2026-04-03 | EIB      |               448805 |      560090574 |               0.032306  |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.064 |
+| MACD Signal | 0.11 |
+| MACD Histogram | -0.046 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EIB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774966675310 |
-| revenue | 15521993000000 |
-| revenue_growth | 0.17288083980179952 |
-| net_profit | 1136939000000 |
-| net_profit_growth | -0.6582488779020345 |
-| ebit_margin | 0 |
-| roe | 0.0444935853 |
-| roic | 0 |
-| roa | 0.0044321789 |
-| pe | 37.7233987663 |
-| pb | 1.6491824041 |
-| eps | 608.3757230400984 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 10.507836761208601 |
-| fae | 0.1481240941873296 |
-| net_profit_margin | 0.19013359399366356 |
-| gross_margin | 0 |
-| ev | 42889203270000 |
-| issue_share | 1868810607 |
-| ps | 5.8820371495 |
-| pcf | 3.0747908756 |
-| bvps | 13915.9864568405 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 608.3757230401 |
-| charter_capital | 18688106070000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.3915986404715435 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                            |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Eximbank (EIB) điều chỉnh kế hoạch lợi nhuận 2026 xuống còn 1.515 tỷ đồng                             | 1775754180000 | https://www.tinnhanhchungkhoan.vn/eximbank-eib-dieu-chinh-ke-hoach-loi-nhuan-2026-xuong-con-1515-ty-dong-post388528.html  |
-| EIB: Nghị quyết HĐQT thông qua chương trình và tài liệu họp ĐHĐCĐ thường niên năm 2026                | 1775639468000 | https://www.hsx.vn/vi/tin-tuc/eib-nghi-quyet-hdqt-thong-qua-chuong-trinh-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2451… |
-| EIB: Giải trình biến động LNST năm 2025 đã kiểm toán so với cùng kỳ năm trước                         | 1774947960000 | https://www.hsx.vn/vi/tin-tuc/eib-giai-trinh-bien-dong-lnst-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc/2448370        |
-| Eximbank (EIB) hai lần lùi thời hạn nhận đề cử thành viên Hội đồng quản trị, Ban kiểm soát            | 1774628280000 | https://www.tinnhanhchungkhoan.vn/eximbank-eib-hai-lan-lui-thoi-han-nhan-de-cu-thanh-vien-hoi-dong-quan-tri-ban-kiem-soa… |
-| EIB: Nghị quyết HĐQT về việc điều chỉnh, cập nhật lộ trình thực hiện công tác đề cử nhân sự HĐQT, BKS | 1774548690000 | https://www.hsx.vn/vi/tin-tuc/eib-nghi-quyet-hdqt-ve-viec-dieu-chinh-cap-nhat-lo-trinh-thuc-hien-cong-tac-de-cu-nhan-su-… |
-| EIB: Nghị quyết HĐQT về việc thay đổi con dấu                                                         | 1773856604000 | https://www.hsx.vn/vi/tin-tuc/eib-nghi-quyet-hdqt-ve-viec-thay-doi-con-dau/2445154                                        |
-| Eximbank (EIB) đặt mục tiêu lợi nhuận trên 4.000 tỷ đồng trong năm 2026                               | 1773744660000 | https://www.tinnhanhchungkhoan.vn/eximbank-eib-dat-muc-tieu-loi-nhuan-tren-4000-ty-dong-trong-nam-2026-post386898.html    |
-| EIB: Nghị quyết HĐQT về kế hoạch kinh doanh năm 2026                                                  | 1773684350000 | https://www.hsx.vn/vi/tin-tuc/eib-nghi-quyet-hdqt-ve-ke-hoach-kinh-doanh-nam-2026/2444629                                 |
-| EIB: Nghị quyết HĐQT về việc điều chỉnh, cập nhật tờ trình thực hiện công tác đề cử nhân sự           | 1773338569000 | https://www.hsx.vn/vi/tin-tuc/eib-nghi-quyet-hdqt-ve-viec-dieu-chinh-cap-nhat-to-trinh-thuc-hien-cong-tac-de-cu-nhan-su/… |
-| EIB: Điều lệ công ty                                                                                  | 1772096732000 | https://www.hsx.vn/vi/tin-tuc/eib-dieu-le-cong-ty/2440215                                                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | EIB - Niêm yết bổ sung 121.854.459 cổ phiếu                  | 2024-10-11    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | EIB - Phát hành cổ phiếu trả cổ tức tỷ lệ 7%                 | 2024-09-10    | 2024-09-20    | 2024-09-19     |    0.07 |       0 |
-| Trả cổ tức bằng tiền mặt | EIB - Trả cổ tức Cả năm năm 2023 bằng tiền 300 đồng/cổ phiếu | 2024-09-10    | 2024-09-20    | 2024-09-19     |    0.03 |     300 |
-| Niêm yết thêm            | EIB - Niêm yết bổ sung 265,551,289 cổ phiếu                  | 2023-10-17    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | EIB - Phát hành cổ phiếu trả cổ tức tỷ lệ 18%                | 2023-09-13    | 2023-09-25    | 2023-09-22     |    0.18 |       0 |
-| Niêm yết thêm            | EIB - Niêm yết bổ sung 245,881,955 cổ phiếu                  | 2023-03-23    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | EIB - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2023-02-08    | 2023-02-20    | 2023-02-17     |    0.2  |       0 |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2014-05-30    | 2014-06-16    | 2014-06-12     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2013-06-04    | 2013-06-17    | 2013-06-13     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2012-12-27    | 2013-01-11    | 2013-01-09     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2012-05-22    | 2012-06-05    | 2012-06-01     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2011-12-30    | 2012-01-16    | 2012-01-12     |  nan    |     nan |
-| Niêm yết thêm            | Niêm yết thêm                                                | 2011-12-27    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
-| Phát hành cổ phiếu       | Phát hành cổ phiếu                                           | 2011-11-14    | 2011-11-30    | 2011-11-28     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2011-05-16    | 2011-06-06    | 2011-06-02     |  nan    |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EIB      | 2026-03-17 00:00:00 |  22.8  |  23.25 | 22.5  |   23    |  7822400 |
-| EIB      | 2026-03-18 00:00:00 |  23.15 |  23.55 | 22.5  |   22.85 |  9512700 |
-| EIB      | 2026-03-19 00:00:00 |  22.4  |  22.65 | 22.2  |   22.35 |  5942300 |
-| EIB      | 2026-03-20 00:00:00 |  22.25 |  22.85 | 22.25 |   22.25 |  9054700 |
 | EIB      | 2026-03-23 00:00:00 |  21.9  |  22    | 21    |   21.25 | 11502200 |
 | EIB      | 2026-03-24 00:00:00 |  21.95 |  22.2  | 21.55 |   22.15 |  4580100 |
 | EIB      | 2026-03-25 00:00:00 |  22.45 |  22.7  | 22.15 |   22.55 |  6167700 |
@@ -181,10 +58,25 @@
 | EIB      | 2026-04-09 00:00:00 |  22.9  |  23    | 22.6  |   22.6  | 13137000 |
 | EIB      | 2026-04-10 00:00:00 |  22.75 |  24.05 | 22.65 |   23.1  | 30032900 |
 | EIB      | 2026-04-13 00:00:00 |  22.9  |  23.5  | 22.75 |   22.95 | 12969000 |
+| EIB      | 2026-04-14 00:00:00 |  23.2  |  23.55 | 22.95 |   23    | 14493000 |
+| EIB      | 2026-04-15 00:00:00 |  23.15 |  23.3  | 22.7  |   22.7  | 12013700 |
+| EIB      | 2026-04-16 00:00:00 |  22.8  |  22.8  | 22.25 |   22.35 | 14998800 |
+| EIB      | 2026-04-17 00:00:00 |  22.4  |  22.8  | 22.3  |   22.4  |  9883800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| EIB      | 2026-04-17 14:27:48 |   22.4  |      200 | Sell         | 465412356 |
+| EIB      | 2026-04-17 14:27:53 |   22.45 |     1000 | Buy          | 465412628 |
+| EIB      | 2026-04-17 14:27:57 |   22.45 |    10000 | Buy          | 465412876 |
+| EIB      | 2026-04-17 14:27:58 |   22.4  |     1000 | Sell         | 465412926 |
+| EIB      | 2026-04-17 14:28:01 |   22.45 |      100 | Buy          | 465413207 |
+| EIB      | 2026-04-17 14:28:02 |   22.4  |     1000 | Sell         | 465413268 |
+| EIB      | 2026-04-17 14:28:04 |   22.45 |      500 | Buy          | 465413430 |
+| EIB      | 2026-04-17 14:28:04 |   22.4  |     4600 | Sell         | 465413444 |
+| EIB      | 2026-04-17 14:28:04 |   22.4  |      400 | Sell         | 465413445 |
+| EIB      | 2026-04-17 14:28:05 |   22.45 |      500 | Buy          | 465413534 |
 
 <!-- END:DAILY -->
 

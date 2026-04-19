@@ -1,166 +1,47 @@
 # REE — REE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 19/04/2026 15:37  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | REE |
-| exchange | HOSE |
-| ev | 36020266243500 |
-| ceiling | 70400 |
-| floor | 61200 |
-| ref_price | 65800 |
-| open | 66200 |
-| match_price | 66500 |
-| close_price | 66500 |
-| price_change | 700 |
-| price_change_pct | 0.0106383 |
-| high | 67200 |
-| low | 66100 |
-| total_volume | 828805 |
-| high_price_1y | 74200 |
-| low_price_1y | 54427 |
-| pct_low_change_1y | 0.1991896638 |
-| pct_high_change_1y | -0.0725244073 |
-| foreign_volume | 500 |
-| foreign_room | 265412488 |
-| avg_match_volume_2w | 1468140 |
-| foreign_holding_room | 265412488 |
-| current_holding_ratio | 0.4899999997969199 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 65.9 |
-| EMA20 | 65.96 |
+| Giá đóng cửa | 64.4 |
+| EMA20 | 65.61 |
 | EMA50 | 64.57 |
-| RSI(14) | 51.1 |
+| RSI(14) | 46.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | 0.541 |
-| MACD Signal | 0.901 |
-| MACD Histogram | -0.36 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.122 |
+| MACD Signal | 0.577 |
+| MACD Histogram | -0.455 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 500 |
-| Room NN còn lại | 265412488 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4899999997969199 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | REE      |                  500 |      265412488 |                0.49     |
-| 2026-04-06 | REE      |                41600 |      265412488 |                0.49     |
-| 2026-04-03 | REE      |               210700 |      265412488 |                0.489928 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | REE |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773336521517 |
-| revenue | 10025550895018 |
-| revenue_growth | 0.1942851246848851 |
-| net_profit | 2529125816261 |
-| net_profit_growth | 0.2687587869152668 |
-| ebit_margin | 0.29969780521892986 |
-| roe | 0.1269444304 |
-| roic | 0.0841671058 |
-| roa | 0.0661752679 |
-| pe | 14.2421804451 |
-| pb | 1.7196649788 |
-| eps | 4669.228862563072 |
-| current_ratio | 2.6619301051 |
-| cash_ratio | 0.8026296755 |
-| quick_ratio | 1.6170349982 |
-| interest_coverage | -4.362959915241561 |
-| ae | 1.6161470403898004 |
-| fae | 0.569819757538831 |
-| net_profit_margin | 0.2526192622495294 |
-| gross_margin | 0.3770826337687024 |
-| ev | 36020266243500 |
-| issue_share | 541658139 |
-| ps | 3.5978491169 |
-| pcf | 13.2872800197 |
-| bvps | 38670.3228951296 |
-| ev_per_ebitda | 9.9938800073 |
-| at | 0.2619565402 |
-| fat | 0.7128008815 |
-| acp | 103.69541408291188 |
-| dso | 86.6856601531 |
-| dpo | 58.0165949088 |
-| eps_ttm | 4669.2288625631 |
-| charter_capital | 5416581390000 |
-| rtq4 | 0.3782655401 |
-| charter_capital_ratio | 4.577894495305276 |
-| rtq10 | 0.6161470404 |
-| dividend | 0.015037594 |
-| ebitda | 4385355237990 |
-| ebit | 3000457880790 |
-| le | 0.8159185837 |
-| de | 0.6161470404 |
-| ccc | 248.3976691448119 |
-| rtq17 | 4.2106156815 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| REE: Nghị quyết HĐQT thông qua việc triển khai thực hiện phương án phát hành cổ phiếu để trả cổ tức năm 2025              | 1775583796000 | https://www.hsx.vn/vi/tin-tuc/ree-nghi-quyet-hdqt-thong-qua-viec-trien-khai-thuc-hien-phuong-an-phat-hanh-co-phieu-de-tr… |
-| REE: Thông báo thay đổi nhân sự                                                                                           | 1775146068000 | https://www.hsx.vn/vi/tin-tuc/ree-thong-bao-thay-doi-nhan-su/2449834                                                      |
-| REE: Quy chế nội bộ về quản trị công ty                                                                                   | 1775145967000 | https://www.hsx.vn/vi/tin-tuc/ree-quy-che-noi-bo-ve-quan-tri-cong-ty/2449832                                              |
-| REE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 1775145937000 | https://www.hsx.vn/vi/tin-tuc/ree-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2449831                               |
-| REE: Điều lệ công ty                                                                                                      | 1775145901000 | https://www.hsx.vn/vi/tin-tuc/ree-dieu-le-cong-ty/2449830                                                                 |
-| REE:  PLATINUM VICTORY PTE.LTD đăng ký mua gần 18 triệu cổ phiếu                                                          | 1774979760000 | https://www.hsx.vn/vi/tin-tuc/ree-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victor… |
-| REE: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD                | 1774979752000 | https://www.hsx.vn/vi/tin-tuc/ree-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-… |
-| ĐHĐCĐ Cơ điện Lạnh: Tập trung phát triển năng lượng tái tạo, hướng tới công suất 3.000 MW                                 | 1774965780000 | https://baodautu.vn/dhdcd-co-dien-lanh-tap-trung-phat-trien-nang-luong-tai-tao-huong-toi-cong-suat-3000-mw-d557050.html   |
-| Đại hội cổ đông Thủy điện Vĩnh Sơn - Sông Hinh (VSH): Cổ đông REE yêu cầu đẩy nhanh dự án điện mặt trời để kịp vận hành … | 1774556820000 | https://www.tinnhanhchungkhoan.vn/dai-hoi-co-dong-thuy-dien-vinh-son-song-hinh-vsh-co-dong-ree-yeu-cau-day-nhanh-du-an-d… |
-| REE: CBTT định kỳ năm 2025 của tổ chức phát hành trái phiếu                                                               | 1774462597000 | https://www.hsx.vn/vi/tin-tuc/ree-cbtt-dinh-ky-nam-2025-cua-to-chuc-phat-hanh-trai-phieu/2446718                          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1000 đồng/cổ phiếu  | 2026-02-06    | 2026-02-27    | 2026-02-26     |    0.1  |    1000 |
-| Niêm yết thêm            | REE - Niêm yết bổ sung 70.644.739 cổ phiếu                    | 2025-07-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | REE - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2025-06-04    | 2025-06-12    | 2025-06-11     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1000 đồng/cổ phiếu  | 2025-02-06    | 2025-02-28    | 2025-02-27     |    0.1  |    1000 |
-| Niêm yết thêm            | REE - Niêm yết bổ sung 61,299,140 cổ phiếu                    | 2024-06-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | REE - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2024-05-10    | 2024-05-22    | 2024-05-21     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Cả năm năm 2023 bằng tiền 1000 đồng/cổ phiếu | 2024-04-04    | 2024-04-15    | 2024-04-12     |    0.1  |    1000 |
-| Niêm yết thêm            | REE - Niêm yết bổ sung 53,303,776 cổ phiếu                    | 2023-06-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | REE - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2023-05-10    | 2023-05-22    | 2023-05-19     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu  | 2023-02-06    | 2023-03-01    | 2023-02-28     |    0.1  |    1000 |
-| Niêm yết thêm            | REE - Niêm yết bổ sung 46.351.643 cổ phiếu                    | 2022-06-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | REE - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                 | 2022-04-29    | 2022-05-18    | 2022-05-17     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-04-07    | 2022-04-20    | 2022-04-19     |    0.1  |    1000 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1, 2019 bằng tiền 1600 VND/CP            | 2020-02-14    | 2020-03-03    | 2020-03-02     |    0.16 |    1600 |
-| Trả cổ tức bằng tiền mặt | REE - Trả cổ tức Đợt 1, 2018 bằng tiền 1800 VND/CP            | 2019-02-15    | 2019-02-27    | 2019-02-26     |    0.18 |    1800 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| REE      | 2026-03-18 00:00:00 |   62.7 |   64.2 |  62   |    64   |   782200 |
-| REE      | 2026-03-19 00:00:00 |   63.1 |   66.5 |  62.7 |    65.4 |  2124200 |
-| REE      | 2026-03-20 00:00:00 |   65.4 |   69.9 |  65.1 |    67.4 |  3774400 |
 | REE      | 2026-03-23 00:00:00 |   67.5 |   69.7 |  64   |    65   |  1872100 |
 | REE      | 2026-03-24 00:00:00 |   66.8 |   67.5 |  65.3 |    66.3 |  1043400 |
 | REE      | 2026-03-25 00:00:00 |   66.7 |   70.9 |  66.3 |    70.9 |  3852100 |
@@ -178,21 +59,24 @@
 | REE      | 2026-04-10 00:00:00 |   65.4 |   66.2 |  65.1 |    65.8 |   861800 |
 | REE      | 2026-04-13 00:00:00 |   66.2 |   67.2 |  66.1 |    66.5 |   825900 |
 | REE      | 2026-04-14 00:00:00 |   66.5 |   67   |  65.9 |    65.9 |   872700 |
+| REE      | 2026-04-15 00:00:00 |   66.8 |   66.8 |  64.5 |    64.9 |  1037100 |
+| REE      | 2026-04-16 00:00:00 |   64.9 |   65.4 |  64   |    64.5 |   722500 |
+| REE      | 2026-04-17 00:00:00 |   64.8 |   64.8 |  64   |    64.4 |   569400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| REE      | 2026-04-14 14:21:24 |      66 |      700 | Sell         | 463595803 |
-| REE      | 2026-04-14 14:21:24 |      66 |     2700 | Sell         | 463595811 |
-| REE      | 2026-04-14 14:21:24 |      66 |     1000 | Sell         | 463595810 |
-| REE      | 2026-04-14 14:21:24 |      66 |      300 | Sell         | 463595804 |
-| REE      | 2026-04-14 14:21:24 |      66 |      500 | Sell         | 463595808 |
-| REE      | 2026-04-14 14:21:24 |      66 |     1000 | Sell         | 463595805 |
-| REE      | 2026-04-14 14:21:24 |      66 |      100 | Sell         | 463595809 |
-| REE      | 2026-04-14 14:21:25 |      66 |      100 | Sell         | 463595861 |
-| REE      | 2026-04-14 14:21:45 |      66 |      300 | Sell         | 463597032 |
-| REE      | 2026-04-14 14:21:47 |      66 |      100 | Sell         | 463597125 |
+| REE      | 2026-04-17 14:07:38 |    64.4 |      100 | Sell         | 465336876 |
+| REE      | 2026-04-17 14:07:58 |    64.4 |      700 | Sell         | 465337593 |
+| REE      | 2026-04-17 14:07:58 |    64.4 |      300 | Sell         | 465337594 |
+| REE      | 2026-04-17 14:08:14 |    64.4 |      200 | Sell         | 465338242 |
+| REE      | 2026-04-17 14:08:18 |    64.4 |      100 | Sell         | 465338396 |
+| REE      | 2026-04-17 14:08:18 |    64.4 |      100 | Sell         | 465338397 |
+| REE      | 2026-04-17 14:08:18 |    64.4 |     2700 | Sell         | 465338398 |
+| REE      | 2026-04-17 14:08:18 |    64.4 |      100 | Sell         | 465338395 |
+| REE      | 2026-04-17 14:09:03 |    64.4 |      300 | Sell         | 465340466 |
+| REE      | 2026-04-17 14:09:03 |    64.4 |      200 | Sell         | 465340467 |
 
 <!-- END:DAILY -->
 

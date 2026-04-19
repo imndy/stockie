@@ -1,170 +1,47 @@
 # CTG — CTG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 19/04/2026 15:28  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTG |
-| exchange | HOSE |
-| ev | 270289672080000 |
-| ceiling | 37450 |
-| floor | 32550 |
-| ref_price | 35000 |
-| open | 34800 |
-| match_price | 34800 |
-| close_price | 34800 |
-| price_change | -200 |
-| price_change_pct | -0.00571429 |
-| high | 35000 |
-| low | 34550 |
-| total_volume | 4471583 |
-| high_price_1y | 43500 |
-| low_price_1y | 23765 |
-| pct_low_change_1y | 0.3768946244 |
-| pct_high_change_1y | -0.1614457831 |
-| foreign_volume | 314215 |
-| foreign_room | 2330083391 |
-| avg_match_volume_2w | 7364037 |
-| foreign_holding_room | 1963676471 |
-| current_holding_ratio | 0.25282483174213466 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 34.8 |
-| EMA20 | 34.65 |
-| EMA50 | 35.42 |
-| RSI(14) | 49.6 |
+| Giá đóng cửa | 34.85 |
+| EMA20 | 34.71 |
+| EMA50 | 35.33 |
+| RSI(14) | 50.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.258 |
-| MACD Signal | -0.491 |
-| MACD Histogram | 0.233 |
+| MACD | -0.13 |
+| MACD Signal | -0.294 |
+| MACD Histogram | 0.164 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 314215 |
-| Room NN còn lại | 2330083391 |
-| Tỷ lệ sở hữu NN hiện tại | 0.25282483174213466 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | CTG      |               314215 |     2330083391 |                0.252825 |
-| 2026-04-13 | CTG      |               194818 |     2330083391 |                0.252824 |
-| 2026-04-12 | CTG      |               194818 |     2330083391 |                0.252824 |
-| 2026-04-10 | CTG      |              1032402 |     2330083391 |                0.252824 |
-| 2026-04-06 | CTG      |              2160800 |     2330083391 |                0.253351 |
-| 2026-04-03 | CTG      |              3357204 |     2330083391 |                0.253248 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774981684103 |
-| revenue | 143142328000000 |
-| revenue_growth | 0.15010075671687007 |
-| net_profit | 34604481000000 |
-| net_profit_growth | 0.36516441098515223 |
-| ebit_margin | 0 |
-| roe | 0.2125261854 |
-| roic | 0 |
-| roa | 0.0135341265 |
-| pe | 7.8108286635 |
-| pb | 1.5146642478 |
-| eps | 4455.353138478676 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 15.405634259952846 |
-| fae | 0.060264076695219264 |
-| net_profit_margin | 0.5207342545875675 |
-| gross_margin | 0 |
-| ev | 270289672080000 |
-| issue_share | 7766944637 |
-| ps | 3.0962864471 |
-| pcf | 3.2705298882 |
-| bvps | 22975.3888034685 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 4455.3531384787 |
-| charter_capital | 77669446370000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 2.313071785579151 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| CTG: Thông báo công văn của HNX về ngày giao dịch đầu tiên trái phiếu niêm yết của Vietinbank                             | 1775154647000 | https://www.hsx.vn/vi/tin-tuc/ctg-thong-bao-cong-van-cua-hnx-ve-ngay-giao-dich-dau-tien-trai-phieu-niem-yet-cua-vietinba… |
-| CTG: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                              | 1775151275000 | https://www.hsx.vn/vi/tin-tuc/ctg-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2449905                                         |
-| CTG: Giải trình biến động lợi nhuận năm 2025 đã kiểm toán so với cùng kỳ năm trước                                        | 1774977282000 | https://www.hsx.vn/vi/tin-tuc/ctg-giai-trinh-bien-dong-loi-nhuan-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc/2448842   |
-| CTG: Thông báo Quyết định của HNX về việc chấp thuận niêm yết trái phiếu của CTG                                          | 1774461803000 | https://www.hsx.vn/vi/tin-tuc/ctg-thong-bao-quyet-dinh-cua-hnx-ve-viec-chap-thuan-niem-yet-trai-phieu-cua-ctg/2446690     |
-| CTG: HĐQT thông qua dự thảo các thỏa thuận, hợp đồng về dịch vụ thanh toán và quản lý dòng tiền, dịch vụ Vietinbank eFAS… | 1774368197000 | https://www.hsx.vn/vi/tin-tuc/ctg-hdqt-thong-qua-du-thao-cac-thoa-thuan-hop-dong-ve-dich-vu-thanh-toan-va-quan-ly-dong-t… |
-| CTG: Quyết định thay đổi địa điểm đặt trụ sở Chi nhánh KCN Trảng Bàng                                                     | 1773937002000 | https://www.hsx.vn/vi/tin-tuc/ctg-quyet-dinh-thay-doi-dia-diem-dat-tru-so-chi-nhanh-kcn-trang-bang/2445343                |
-| CTG: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 1772732307000 | https://www.hsx.vn/vi/tin-tuc/ctg-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2442152          |
-| CTG: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                                         | 1772471526000 | https://www.hsx.vn/vi/tin-tuc/ctg-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2441159                                    |
-| CTG: Nghị quyết HĐQT thông qua hợp đồng, văn bản thỏa thuận liên quan cấp tín dụng hợp vốn cùng Indochina Bank            | 1770917824000 | https://www.hsx.vn/vi/tin-tuc/ctg-nghi-quyet-hdqt-thong-qua-hop-dong-van-ban-thoa-thuan-lien-quan-cap-tin-dung-hop-von-c… |
-| CTG: Nghị quyết HĐQT về việc phê duyệt chủ trương thay đổi địa điểm trụ sở Chi nhánh KCN Trảng Bàng                       | 1770831849000 | https://www.hsx.vn/vi/tin-tuc/ctg-nghi-quyet-hdqt-ve-viec-phe-duyet-chu-truong-thay-doi-dia-diem-tru-so-chi-nhanh-kcn-tr… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |      ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|-----------:|--------:|
-| Niêm yết thêm            | CTG - Niêm yết bổ sung 2.396.952.889 cổ phiếu                | 2026-01-22    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Phát hành cổ phiếu       | CTG - Phát hành cổ phiếu trả cổ tức tỷ lệ 44,63658403%       | 2025-12-10    | 2025-12-18    | 2025-12-17     |   0.446366 |       0 |
-| Trả cổ tức bằng tiền mặt | CTG - Trả cổ tức Cả năm năm 2024 bằng tiền 450 đồng/cổ phiếu | 2025-10-03    | 2025-10-15    | 2025-10-14     |   0.045    |     450 |
-| Niêm yết thêm            | CTG - Niêm yết bổ sung 564,241,139 cổ phiếu                  | 2024-01-05    | 1753-01-01    | 1753-01-01     |   0        |       0 |
-| Phát hành cổ phiếu       | CTG - Phát hành cổ phiếu trả cổ tức tỷ lệ 11.7415%           | 2023-11-24    | 2023-12-01    | 2023-11-30     |   0.117415 |       0 |
-| Trả cổ tức bằng tiền mặt | CTG - Trả cổ tức Cả năm, 2020 bằng tiền 800 VND/CP           | 2021-12-07    | 2021-12-15    | 2021-12-14     |   0.08     |     800 |
-| Phát hành cổ phiếu       | CTG - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:29,0695        | 2021-06-29    | 2021-07-08    | 2021-07-07     |   0.290695 |       0 |
-| Trả cổ tức bằng tiền mặt | CTG - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP           | 2020-12-11    | 2020-12-18    | 2020-12-17     |   0.05     |     500 |
-| Trả cổ tức bằng tiền mặt | CTG - Trả cổ tức Cả năm, 2016 bằng tiền 700 VND/CP           | 2017-09-20    | 2017-09-28    | 2017-09-27     |   0.07     |     700 |
-| Trả cổ tức bằng tiền mặt | CTG-Trả cổ tức năm 2015 bằng tiền 700VND/CP                  | 2017-01-06    | 2017-01-17    | 2017-01-16     | nan        |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2015-06-16    | 2015-06-25    | 2015-06-23     | nan        |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2014-05-13    | 2014-05-23    | 2014-05-21     | nan        |     nan |
-| Niêm yết thêm            | Niêm yết thêm                                                | 2013-11-05    | 1753-01-01    | 1753-01-01     | nan        |     nan |
-| Phát hành cổ phiếu       | Phát hành cổ phiếu                                           | 2013-08-29    | 2013-09-10    | 2013-09-06     | nan        |     nan |
-| Trả cổ tức bằng tiền mặt | Trả cổ tức bằng tiền mặt                                     | 2013-08-29    | 2013-09-10    | 2013-09-06     | nan        |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTG      | 2026-03-17 00:00:00 |  34.45 |  34.8  | 34.4  |   34.4  |  7184200 |
-| CTG      | 2026-03-18 00:00:00 |  34.6  |  35.75 | 34.6  |   35    | 12546300 |
-| CTG      | 2026-03-19 00:00:00 |  34.5  |  34.8  | 34.3  |   34.65 |  7530900 |
-| CTG      | 2026-03-20 00:00:00 |  34.55 |  34.6  | 33.6  |   33.6  | 10708700 |
 | CTG      | 2026-03-23 00:00:00 |  33.2  |  33.2  | 32    |   32.5  | 13238000 |
 | CTG      | 2026-03-24 00:00:00 |  33.3  |  33.95 | 33.1  |   33.55 |  6410500 |
 | CTG      | 2026-03-25 00:00:00 |  33.75 |  34.1  | 33.7  |   34.05 |  6241100 |
@@ -181,10 +58,25 @@
 | CTG      | 2026-04-09 00:00:00 |  35.05 |  35.3  | 34.8  |   35    |  6309300 |
 | CTG      | 2026-04-10 00:00:00 |  35.25 |  35.8  | 35    |   35    |  8029500 |
 | CTG      | 2026-04-13 00:00:00 |  34.8  |  35    | 34.55 |   34.8  |  4304400 |
+| CTG      | 2026-04-14 00:00:00 |  35.1  |  35.15 | 34.8  |   34.9  |  5465100 |
+| CTG      | 2026-04-15 00:00:00 |  35.2  |  35.3  | 34.85 |   35.05 |  5586500 |
+| CTG      | 2026-04-16 00:00:00 |  35.15 |  35.15 | 34.5  |   34.6  |  5773800 |
+| CTG      | 2026-04-17 00:00:00 |  34.7  |  34.9  | 34.55 |   34.85 |  3775800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| CTG      | 2026-04-17 14:23:52 |    34.7 |      200 | Sell         | 465396593 |
+| CTG      | 2026-04-17 14:24:24 |    34.7 |      100 | Sell         | 465398632 |
+| CTG      | 2026-04-17 14:24:41 |    34.7 |      400 | Sell         | 465399477 |
+| CTG      | 2026-04-17 14:24:49 |    34.7 |     2000 | Sell         | 465400107 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |      600 | Sell         | 465400186 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |      500 | Sell         | 465400185 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |     7600 | Sell         | 465400183 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |      100 | Sell         | 465400184 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |      100 | Sell         | 465400181 |
+| CTG      | 2026-04-17 14:24:51 |    34.7 |      300 | Sell         | 465400180 |
 
 <!-- END:DAILY -->
 

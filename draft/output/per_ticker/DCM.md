@@ -1,167 +1,47 @@
 # DCM — DCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DCM |
-| exchange | HOSE |
-| ev | 24881800000000 |
-| ceiling | 49800 |
-| floor | 43300 |
-| ref_price | 46550 |
-| open | 47100 |
-| match_price | 47000 |
-| close_price | 47000 |
-| price_change | 450 |
-| price_change_pct | 0.00966702 |
-| high | 48000 |
-| low | 46300 |
-| total_volume | 3209318 |
-| high_price_1y | 52900 |
-| low_price_1y | 27249 |
-| pct_low_change_1y | 0.6182692266 |
-| pct_high_change_1y | -0.0637450199 |
-| foreign_volume | 1234700 |
-| foreign_room | 259406000 |
-| avg_match_volume_2w | 4380870 |
-| foreign_holding_room | 50823445 |
-| current_holding_ratio | 0.09600197393275406 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.0 |
-| EMA20 | 45.6 |
-| EMA50 | 43.51 |
-| RSI(14) | 55.3 |
+| Giá đóng cửa | 45.4 |
+| EMA20 | 45.42 |
+| EMA50 | 43.74 |
+| RSI(14) | 50.7 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.483 |
-| MACD Signal | 0.664 |
-| MACD Histogram | -0.181 |
+| MACD | 0.193 |
+| MACD Signal | 0.433 |
+| MACD Histogram | -0.24 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 1234700 |
-| Room NN còn lại | 259406000 |
-| Tỷ lệ sở hữu NN hiện tại | 0.09600197393275406 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DCM      |              1234700 |      259406000 |               0.096002  |
-| 2026-04-13 | DCM      |              1827150 |      259406000 |               0.0951389 |
-| 2026-04-12 | DCM      |              1827150 |      259406000 |               0.0951389 |
-| 2026-04-10 | DCM      |              1343500 |      259406000 |               0.0931609 |
-| 2026-04-06 | DCM      |              1092420 |      259406000 |               0.0929298 |
-| 2026-04-03 | DCM      |               451700 |      259406000 |               0.0908688 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DCM |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772466956910 |
-| revenue | 17223063258575 |
-| revenue_growth | 0.2352880516048197 |
-| net_profit | 1959812434496 |
-| net_profit_growth | 0.3804821443107514 |
-| ebit_margin | 0.1145296846693114 |
-| roe | 0.1874763412 |
-| roic | 0.1456578235 |
-| roa | 0.1174507918 |
-| pe | 12.6960108845 |
-| pb | 2.3118089395 |
-| eps | 3701.9501973857195 |
-| current_ratio | 2.4341123478 |
-| cash_ratio | 0.6049046318 |
-| quick_ratio | 0.8170056926 |
-| interest_coverage | -27.0538785722687 |
-| ae | 1.6345234409750984 |
-| fae | 0.20153801413548814 |
-| net_profit_margin | 0.11784141959949701 |
-| gross_margin | 0.24344142911489688 |
-| ev | 24881800000000 |
-| issue_share | 529400000 |
-| ps | 1.4961159459 |
-| pcf | -32.0707194592 |
-| bvps | 20330.3997992973 |
-| ev_per_ebitda | 10.4922308618 |
-| at | 0.9966851397 |
-| fat | 8.0699983393 |
-| acp | 10.724694533740735 |
-| dso | 114.346581492 |
-| dpo | 48.9875686097 |
-| eps_ttm | 3701.9501973857 |
-| charter_capital | 5294000000000 |
-| rtq4 | 0.005262088 |
-| charter_capital_ratio | 2.0389804300644125 |
-| rtq10 | 0.634523441 |
-| dividend | 0 |
-| ebitda | 2246800476399 |
-| ebit | 1904735201737 |
-| le | 0.21670735459999999 |
-| de | 0.634523441 |
-| ccc | 174.05884463544072 |
-| rtq17 | 3.1920499523 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                         |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| Phân bón Dầu khí Cà Mau (DCM) đặt kế hoạch lợi nhuận sau thuế 1.200 tỷ đồng, cổ tức 10% trong 2026 | 1774374840000 | https://www.tinnhanhchungkhoan.vn/phan-bon-dau-khi-ca-mau-dcm-dat-ke-hoach-loi-nhuan-sau-thue-1200-ty-dong-co-tuc-10-tro… |
-| DCM: Thông báo họp ĐHĐCĐ thường niên 2026                                                          | 1774283305000 | https://www.hsx.vn/vi/tin-tuc/dcm-thong-bao-hop-dhdcd-thuong-nien-2026/2445977                                            |
-| DCM: Tài liệu họp ĐHĐCĐ thường niên 2026                                                           | 1774283254000 | https://www.hsx.vn/vi/tin-tuc/dcm-tai-lieu-hop-dhdcd-thuong-nien-2026/2445976                                             |
-| DCM: Nghị quyết HĐQT về việc thông qua Báo cáo phát triển bền vững năm 2025                        | 1773940065000 | https://www.hsx.vn/vi/tin-tuc/dcm-nghi-quyet-hdqt-ve-viec-thong-qua-bao-cao-phat-trien-ben-vung-nam-2025/2445411          |
-| DCM: Nghị quyết HĐQT về việc thông qua Báo cáo thường niên năm 2025                                | 1773940021000 | https://www.hsx.vn/vi/tin-tuc/dcm-nghi-quyet-hdqt-ve-viec-thong-qua-bao-cao-thuong-nien-nam-2025/2445409                  |
-| DCM: Báo cáo thường niên năm 2025                                                                  | 1773939898000 | https://www.hsx.vn/vi/tin-tuc/dcm-bao-cao-thuong-nien-nam-2025/2445403                                                    |
-| DCM: Báo cáo phát triển bền vững năm 2025                                                          | 1773939849000 | https://www.hsx.vn/vi/tin-tuc/dcm-bao-cao-phat-trien-ben-vung-nam-2025/2445401                                            |
-| DCM: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Đức Hạnh                           | 1773338441000 | https://www.hsx.vn/vi/tin-tuc/dcm-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-duc-hanh/2443944             |
-| DCM: Thành viên HĐQT đăng ký bán 8.000 cổ phiếu                                                    | 1772646120000 | https://www.hsx.vn/vi/tin-tuc/dcm-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-duc-hanh/2441772                   |
-| PVCFC (DCM) mở rộng chuỗi giá trị bằng CO2 thực phẩm                                               | 1772210460000 | https://www.tinnhanhchungkhoan.vn/pvcfc-dcm-mo-rong-chuoi-gia-tri-bang-co2-thuc-pham-post385894.html                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm năm 2024 bằng tiền 2000 đồng/cổ phiếu | 2025-06-20    | 2025-06-30    | 2025-06-27     |    0.2  |    2000 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm năm 2023 bằng tiền 2000 đồng/cổ phiếu | 2024-06-18    | 2024-06-25    | 2024-06-24     |    0.2  |    2000 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm năm 2022 bằng tiền 3000 đồng/cổ phiếu | 2023-08-18    | 2023-08-30    | 2023-08-29     |    0.3  |    3000 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm năm 2021 bằng tiền 1800 đồng/cổ phiếu | 2022-06-24    | 2022-07-06    | 2022-07-05     |    0.18 |    1800 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm, 2020 bằng tiền 800 VND/CP            | 2021-06-18    | 2021-07-08    | 2021-07-07     |    0.08 |     800 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm, 2019 bằng tiền 600 VND/CP            | 2020-10-21    | 2020-10-29    | 2020-10-28     |    0.06 |     600 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm, 2018 bằng tiền 900 VND/CP            | 2019-09-10    | 2019-09-26    | 2019-09-25     |    0.09 |     900 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Cả năm, 2017 bằng tiền 900 VND/CP            | 2018-08-10    | 2018-08-23    | 2018-08-22     |    0.09 |     900 |
-| Trả cổ tức bằng tiền mặt | DCM - Trả cổ tức Đợt 2, 2016 bằng tiền 500 VND/CP             | 2017-06-01    | 2017-06-16    | 2017-06-15     |    0.05 |     500 |
-| Trả cổ tức bằng tiền mặt | DCM-Tạm ứng cổ tức đợt 1 năm 2016 bằng tiền 400VND/CP         | 2016-11-02    | 2016-11-14    | 2016-11-11     |  nan    |     nan |
-| Trả cổ tức bằng tiền mặt | DCM-Trả cổ tức năm 2015 bằng tiền 800VND/cổ phiếu             | 2016-05-23    | 2016-06-03    | 2016-06-02     |  nan    |     nan |
-| Niêm yết mới             | Niêm yết mới                                                  | 2015-03-23    | 1753-01-01    | 1753-01-01     |  nan    |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DCM      | 2026-03-17 00:00:00 |  44.5  |  44.55 | 41.45 |   41.45 | 11197100 |
-| DCM      | 2026-03-18 00:00:00 |  43    |  44.35 | 41.5  |   44.35 |  5221400 |
-| DCM      | 2026-03-19 00:00:00 |  45    |  45.7  | 43.2  |   45.05 |  5443800 |
-| DCM      | 2026-03-20 00:00:00 |  44.85 |  44.9  | 43    |   43.6  |  5675400 |
 | DCM      | 2026-03-23 00:00:00 |  43.2  |  45.45 | 43.1  |   44.3  |  5838000 |
 | DCM      | 2026-03-24 00:00:00 |  45.1  |  45.95 | 44.3  |   45.35 |  3903900 |
 | DCM      | 2026-03-25 00:00:00 |  45.2  |  46.2  | 44.6  |   45.45 |  5753100 |
@@ -178,10 +58,25 @@
 | DCM      | 2026-04-09 00:00:00 |  45.1  |  45.8  | 44.75 |   45    |  2279400 |
 | DCM      | 2026-04-10 00:00:00 |  44.8  |  47.5  | 44.8  |   46.55 |  6196000 |
 | DCM      | 2026-04-13 00:00:00 |  47.1  |  48    | 46.3  |   47    |  3176300 |
+| DCM      | 2026-04-14 00:00:00 |  47.15 |  47.25 | 45.7  |   46    |  3236900 |
+| DCM      | 2026-04-15 00:00:00 |  46.2  |  46.4  | 44.45 |   44.45 |  5240700 |
+| DCM      | 2026-04-16 00:00:00 |  44.8  |  45.55 | 44.2  |   44.5  |  3994300 |
+| DCM      | 2026-04-17 00:00:00 |  45    |  46.7  | 44.8  |   45.4  |  3867400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DCM      | 2026-04-17 14:26:47 |   45.3  |      300 | Buy          | 465407503 |
+| DCM      | 2026-04-17 14:26:50 |   45.3  |      400 | Buy          | 465407815 |
+| DCM      | 2026-04-17 14:26:52 |   45.25 |      200 | Sell         | 465407939 |
+| DCM      | 2026-04-17 14:26:54 |   45.3  |      500 | Buy          | 465408078 |
+| DCM      | 2026-04-17 14:26:55 |   45.3  |      200 | Buy          | 465408168 |
+| DCM      | 2026-04-17 14:26:55 |   45.3  |      800 | Buy          | 465408167 |
+| DCM      | 2026-04-17 14:27:09 |   45.3  |      300 | Buy          | 465409127 |
+| DCM      | 2026-04-17 14:27:16 |   45.25 |      100 | Sell         | 465409566 |
+| DCM      | 2026-04-17 14:27:16 |   45.25 |      100 | Sell         | 465409564 |
+| DCM      | 2026-04-17 14:27:16 |   45.25 |      400 | Sell         | 465409559 |
 
 <!-- END:DAILY -->
 

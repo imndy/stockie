@@ -1,166 +1,47 @@
 # VGC — VGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:51  |  🗂 Quarterly: 05/04/2026 20:04
+> 📅 Daily: 19/04/2026 15:39  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VGC |
-| exchange | HOSE |
-| ev | 21162120000000 |
-| ceiling | 49750 |
-| floor | 43250 |
-| ref_price | 46500 |
-| open | 46400 |
-| match_price | 47200 |
-| close_price | 47200 |
-| price_change | 700 |
-| price_change_pct | 0.01505376 |
-| high | 47350 |
-| low | 45800 |
-| total_volume | 1257765 |
-| high_price_1y | 65743 |
-| low_price_1y | 35444 |
-| pct_low_change_1y | 0.3263240479 |
-| pct_high_change_1y | -0.2693480355 |
-| foreign_volume | 53600 |
-| foreign_room | 219691500 |
-| avg_match_volume_2w | 955461 |
-| foreign_holding_room | 8431393 |
-| current_holding_ratio | 0.01880538195606111 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.15 |
-| EMA20 | 45.96 |
-| EMA50 | 46.44 |
-| RSI(14) | 54.4 |
+| Giá đóng cửa | 46.0 |
+| EMA20 | 46.0 |
+| EMA50 | 46.4 |
+| RSI(14) | 49.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | -0.078 |
-| MACD Signal | -0.449 |
-| MACD Histogram | 0.371 |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | -0.039 |
+| MACD Signal | -0.251 |
+| MACD Histogram | 0.211 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 53600 |
-| Room NN còn lại | 219691500 |
-| Tỷ lệ sở hữu NN hiện tại | 0.01880538195606111 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | VGC      |                53600 |      219691500 |               0.0188054 |
-| 2026-04-06 | VGC      |               118900 |      219691500 |               0.0225531 |
-| 2026-04-03 | VGC      |               138100 |      219691500 |               0.0225203 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VGC |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773238370450 |
-| revenue | 13513943161664 |
-| revenue_growth | 0.12135108728017269 |
-| net_profit | 1403242274945 |
-| net_profit_growth | 0.27020728437523717 |
-| ebit_margin | 0.17228969687042614 |
-| roe | 0.1652862161 |
-| roic | 0.1337116307 |
-| roa | 0.054745662 |
-| pe | 15.0808740428 |
-| pb | 2.4496443788 |
-| eps | 3129.792070804059 |
-| current_ratio | 1.2400905341 |
-| cash_ratio | 0.2901391484 |
-| quick_ratio | 0.4240530788 |
-| interest_coverage | -8.965381082129733 |
-| ae | 2.2847532041840757 |
-| fae | 0.49934939249057797 |
-| net_profit_margin | 0.10538999615159676 |
-| gross_margin | 0.3003722418505949 |
-| ev | 21162120000000 |
-| issue_share | 448350000 |
-| ps | 1.5893732573 |
-| pcf | 6.3377197257 |
-| bvps | 19268.102916302 |
-| ev_per_ebitda | 5.7893002043 |
-| at | 0.5194578616 |
-| fat | 2.2570163198 |
-| acp | 24.05326182538554 |
-| dso | 171.3049625806 |
-| dpo | 67.151307378 |
-| eps_ttm | 3129.7920708041 |
-| charter_capital | 4483500000000 |
-| rtq4 | 0.2482429656 |
-| charter_capital_ratio | 2.5807723643254152 |
-| rtq10 | 1.2847532042 |
-| dividend | 0 |
-| ebitda | 4201302077705 |
-| ebit | 2293995587952 |
-| le | 0.7309539994 |
-| de | 1.2847532042 |
-| ccc | 262.50953178398555 |
-| rtq17 | 2.1307030135 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  |   public_date | news_source_link                                                                                                          |
-|:------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| VGC: CBTT về việc chấm dứt hoạt động chi nhánh - Công ty sen vòi Viglacera                                  | 1775494680000 | https://www.hsx.vn/vi/tin-tuc/vgc-cbtt-ve-viec-cham-dut-hoat-dong-chi-nhanh--cong-ty-sen-voi-viglacera/2450836            |
-| VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                               | 1775239020000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap/2450444                        |
-| VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                             | 1775238995000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-va-duong-dan-tai-lieu/2450443      |
-| VGC: Báo cáo thường niên năm 2025                                                                           | 1774635566000 | https://www.hsx.vn/vi/tin-tuc/vgc-bao-cao-thuong-nien-nam-2025/2447654                                                    |
-| VGC: Nghị quyết HĐQT về việc chấm dứt hoạt động Viện Nghiên cứu phát triển Viglacera                        | 1773767919000 | https://www.hsx.vn/vi/tin-tuc/vgc-nghi-quyet-hdqt-ve-viec-cham-dut-hoat-dong-vien-nghien-cuu-phat-trien-viglacera/244485… |
-| VGC: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                 | 1773424900000 | https://www.hsx.vn/vi/tin-tuc/vgc-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2444218          |
-| VGC: Nghị quyết HĐQT phê duyệt ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 1772819092000 | https://www.hsx.vn/vi/tin-tuc/vgc-nghi-quyet-hdqt-phe-duyet-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuo… |
-| VGC: Báo cáo tình hình quản trị công ty năm 2025                                                            | 1769802697000 | https://www.hsx.vn/vi/tin-tuc/vgc-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435784                                     |
-| VGC: Đính chính chỉ tiêu doanh thu của kế hoạch SXKD và ĐTPT năm 2026                                       | 1767603190000 | https://www.hsx.vn/vi/tin-tuc/vgc-dinh-chinh-chi-tieu-doanh-thu-cua-ke-hoach-sxkd-va-dtpt-nam-2026/2428233                |
-| VGC: Quyết định của HĐQT phê duyệt tạm thời kế hoạch sản xuất kinh doanh năm 2026                           | 1767190621000 | https://www.hsx.vn/vi/tin-tuc/vgc-quyet-dinh-cua-hdqt-phe-duyet-tam-thoi-ke-hoach-san-xuat-kinh-doanh-nam-2026/2427712    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm năm 2024 bằng tiền 2200 đồng/cổ phiếu | 2025-11-04    | 2025-11-12    | 2025-11-11     |   0.22  |    2200 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Đợt 2 năm 2023 bằng tiền 1250 đồng/cổ phiếu  | 2024-10-10    | 2024-10-22    | 2024-10-21     |   0.125 |    1250 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1000 đồng/cổ phiếu  | 2023-09-22    | 2023-10-02    | 2023-09-29     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Đợt 2 năm 2022 bằng tiền 1000 đồng/cổ phiếu  | 2023-05-24    | 2023-06-01    | 2023-05-31     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu  | 2022-09-21    | 2022-09-28    | 2022-09-27     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm năm 2021 bằng tiền 1500 đồng/cổ phiếu | 2022-05-12    | 2022-05-18    | 2022-05-17     |   0.15  |    1500 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm, 2020 bằng tiền 1100 VND/CP           | 2021-05-20    | 2021-05-25    | 2021-05-24     |   0.11  |    1100 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm, 2019 bằng tiền 1100 VND/CP           | 2020-07-03    | 2020-07-08    | 2020-07-07     |   0.11  |    1100 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP           | 2019-07-11    | 2019-07-18    | 2019-07-17     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm, 2017 bằng tiền 950 VND/CP            | 2018-08-01    | 2018-08-10    | 2018-08-09     |   0.095 |     950 |
-| Niêm yết thêm            | VGC - Niêm yết thêm 241,985,262 cổ phiếu                      | 2018-06-20    | 1753-01-01    | 1753-01-01     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | VGC - Trả cổ tức Cả năm, 2016 bằng tiền 950 VND/CP            | 2017-08-22    | 2017-08-31    | 2017-08-30     |   0.095 |     950 |
-| Niêm yết thêm            | VGC-Niêm yết bổ sung 120.000.000 cổ phiếu                     | 2017-07-19    | 1753-01-01    | 1753-01-01     | nan     |     nan |
-| Niêm yết thêm            | VGC-Đăng ký giao dịch bổ sung 42.500.000 cổ phiếu             | 2016-10-13    | 1753-01-01    | 1753-01-01     | nan     |     nan |
-| Trả cổ tức bằng tiền mặt | VGC-Trả cổ tức năm 2015 bằng tiền 400VND/CP                   | 2016-08-01    | 2016-08-10    | 2016-08-09     | nan     |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VGC      | 2026-03-18 00:00:00 |  46.7  |  47.35 | 43.4  |   46.55 |   579800 |
-| VGC      | 2026-03-19 00:00:00 |  45.5  |  46.6  | 45.05 |   45.9  |   767800 |
-| VGC      | 2026-03-20 00:00:00 |  45.8  |  46.6  | 44    |   44    |  1204900 |
 | VGC      | 2026-03-23 00:00:00 |  44    |  45    | 42    |   42.05 |  1194000 |
 | VGC      | 2026-03-24 00:00:00 |  43.4  |  43.8  | 42.8  |   43.05 |  1101800 |
 | VGC      | 2026-03-25 00:00:00 |  43.9  |  45.8  | 43.9  |   45.5  |   924800 |
@@ -178,21 +59,24 @@
 | VGC      | 2026-04-10 00:00:00 |  46.6  |  47.15 | 46.1  |   46.5  |  1119000 |
 | VGC      | 2026-04-13 00:00:00 |  46.4  |  47.35 | 45.8  |   47.2  |  1256600 |
 | VGC      | 2026-04-14 00:00:00 |  48    |  48    | 46.85 |   47.15 |   985200 |
+| VGC      | 2026-04-15 00:00:00 |  47.15 |  48    | 46.2  |   46.2  |  1102200 |
+| VGC      | 2026-04-16 00:00:00 |  46.25 |  47.2  | 46    |   46.2  |   670100 |
+| VGC      | 2026-04-17 00:00:00 |  46.3  |  47.2  | 46    |   46    |   662300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VGC      | 2026-04-14 14:12:15 |   47.15 |      500 | Sell         | 463562123 |
-| VGC      | 2026-04-14 14:12:15 |   47.2  |     3500 | Buy          | 463562131 |
-| VGC      | 2026-04-14 14:12:15 |   47.2  |      100 | Buy          | 463562130 |
-| VGC      | 2026-04-14 14:12:15 |   47.2  |      300 | Buy          | 463562124 |
-| VGC      | 2026-04-14 14:12:15 |   47.2  |     5000 | Buy          | 463562128 |
-| VGC      | 2026-04-14 14:12:15 |   47.2  |     1000 | Buy          | 463562129 |
-| VGC      | 2026-04-14 14:12:34 |   47.2  |      100 | Sell         | 463563009 |
-| VGC      | 2026-04-14 14:13:12 |   47.2  |     5000 | Buy          | 463565072 |
-| VGC      | 2026-04-14 14:13:12 |   47.25 |      100 | Buy          | 463565074 |
-| VGC      | 2026-04-14 14:13:12 |   47.25 |      100 | Buy          | 463565075 |
+| VGC      | 2026-04-17 14:16:14 |   46.05 |      300 | Sell         | 465366005 |
+| VGC      | 2026-04-17 14:16:14 |   46.05 |      100 | Sell         | 465366008 |
+| VGC      | 2026-04-17 14:16:22 |   46.1  |      100 | Buy          | 465366446 |
+| VGC      | 2026-04-17 14:17:00 |   46.05 |      400 | Sell         | 465369360 |
+| VGC      | 2026-04-17 14:17:00 |   46.05 |      100 | Sell         | 465369361 |
+| VGC      | 2026-04-17 14:17:00 |   46.05 |     1000 | Sell         | 465369365 |
+| VGC      | 2026-04-17 14:17:00 |   46.05 |      500 | Sell         | 465369366 |
+| VGC      | 2026-04-17 14:18:00 |   46.05 |      500 | Sell         | 465373443 |
+| VGC      | 2026-04-17 14:18:53 |   46.05 |      500 | Sell         | 465376933 |
+| VGC      | 2026-04-17 14:18:53 |   46.05 |     2100 | Sell         | 465376934 |
 
 <!-- END:DAILY -->
 

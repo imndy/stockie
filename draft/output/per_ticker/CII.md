@@ -1,170 +1,47 @@
 # CII — CII
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 19/04/2026 15:28  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CII |
-| exchange | HOSE |
-| ev | 13305308761800 |
-| ceiling | 19800 |
-| floor | 17300 |
-| ref_price | 18550 |
-| open | 18700 |
-| match_price | 19800 |
-| close_price | 19800 |
-| price_change | 1250 |
-| price_change_pct | 0.06738544 |
-| high | 19800 |
-| low | 18700 |
-| total_volume | 42752520 |
-| high_price_1y | 31350 |
-| low_price_1y | 9530 |
-| pct_low_change_1y | 0.9965979568 |
-| pct_high_change_1y | -0.3476112026 |
-| foreign_volume | 3719481 |
-| foreign_room | 268794116 |
-| avg_match_volume_2w | 21864201 |
-| foreign_holding_room | 33996084 |
-| current_holding_ratio | 0.050590518059419845 |
-| max_holding_ratio | 0.4 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 19.8 |
-| EMA20 | 18.06 |
-| EMA50 | 18.19 |
-| RSI(14) | 62.9 |
+| Giá đóng cửa | 19.0 |
+| EMA20 | 18.5 |
+| EMA50 | 18.37 |
+| RSI(14) | 55.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.469 |
-| MACD Signal | 0.279 |
-| MACD Histogram | 0.19 |
+| MACD | 0.551 |
+| MACD Signal | 0.445 |
+| MACD Histogram | 0.106 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 3719481 |
-| Room NN còn lại | 268794116 |
-| Tỷ lệ sở hữu NN hiện tại | 0.050590518059419845 |
-| Tỷ lệ sở hữu NN tối đa | 0.4 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | CII      |              3719481 |      268794116 |               0.0505905 |
-| 2026-04-13 | CII      |               314709 |      268794116 |               0.0515885 |
-| 2026-04-12 | CII      |               314709 |      268794116 |               0.0515885 |
-| 2026-04-10 | CII      |               870461 |      268794116 |               0.0526933 |
-| 2026-04-06 | CII      |               498100 |      268794116 |               0.0520863 |
-| 2026-04-03 | CII      |               875600 |      268794116 |               0.0512972 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CII |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774603291183 |
-| revenue | 3063213441857 |
-| revenue_growth | -0.037480798536508424 |
-| net_profit | 124063136235 |
-| net_profit_growth | -0.5222478546400704 |
-| ebit_margin | 0.36795499528913056 |
-| roe | 0.0165900439 |
-| roic | 0.0338955009 |
-| roa | 0.0033418885 |
-| pe | 99.8194847528 |
-| pb | 1.3873324143 |
-| eps | 198.35806655408743 |
-| current_ratio | 1.5522787703 |
-| cash_ratio | 0.1609043022 |
-| quick_ratio | 0.5644017334 |
-| interest_coverage | -0.8517279404958401 |
-| ae | 3.1382915216898404 |
-| fae | 1.3107363657514275 |
-| net_profit_margin | 0.04190943283975903 |
-| gross_margin | 0.561363933436694 |
-| ev | 12383918335800 |
-| issue_share | 671985291 |
-| ps | 4.1833779923 |
-| pcf | -24.6768053838 |
-| bvps | 14271.9940776457 |
-| ev_per_ebitda | 15.6913146426 |
-| at | 0.0797407232 |
-| fat | 0.1853877621 |
-| acp | 78.94443202171739 |
-| dso | 1019.8826571279 |
-| dpo | 165.6053245065 |
-| eps_ttm | 198.3580665541 |
-| charter_capital | 6719852910000 |
-| rtq4 | 1.3612294844 |
-| charter_capital_ratio | 1.7793705417675578 |
-| rtq10 | 2.1382915217 |
-| dividend | 0 |
-| ebitda | 2024053600445 |
-| ebit | 1089245251384 |
-| le | 3.0487850693 |
-| de | 2.1382915217 |
-| ccc | 1264.4324136561174 |
-| rtq17 | 0.357884309 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| CII: HĐQT thông qua việc thay đổi, bổ nhiệm một số chức danh Ban Điều hành công ty                                        | 1776089504000 | https://www.hsx.vn/vi/tin-tuc/cii-hdqt-thong-qua-viec-thay-doi-bo-nhiem-mot-so-chuc-danh-ban-dieu-hanh-cong-ty/2452294    |
-| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025                                                         | 1775552046000 | https://www.hsx.vn/vi/tin-tuc/cii-thu-moi-va-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2025/2450913                    |
-| CII: HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2025                                                                   | 1775551973000 | https://www.hsx.vn/vi/tin-tuc/cii-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2025/2450912                              |
-| CII: CBTT về việc UBND TP.HCM  ban hành công văn giao liên danh CII-HFIC làm nhà đầu tư đề xuất dự án BOT Võ Nguyên GIáp… | 1774880866000 | https://www.hsx.vn/vi/tin-tuc/cii-cbtt-ve-viec-ubnd-tp.hcm--ban-hanh-cong-van-giao-lien-danh-ciihfic-lam-nha-dau-tu-de-x… |
-| CII: Nghị quyết HĐQT người sở hữu trái phiếu CII425021                                                                    | 1774639790000 | https://www.hsx.vn/vi/tin-tuc/cii-nghi-quyet-hdqt-nguoi-so-huu-trai-phieu-cii425021/2447697                               |
-| CII: Giải trình biến động KQKD HN đã kiểm toán năm 2025                                                                   | 1774632790000 | https://www.hsx.vn/vi/tin-tuc/cii-giai-trinh-bien-dong-kqkd-hn-da-kiem-toan-nam-2025/2447576                              |
-| CII: Thông báo về việc Công ty TNHH MTV Khu Bắc Thủ Thiêm (Công ty con 100% vốn của CII) đã tiếp tục nhận mặt bằng để tr… | 1774459243000 | https://www.hsx.vn/vi/tin-tuc/cii-thong-bao-ve-viec-cong-ty-tnhh-mtv-khu-bac-thu-thiem-cong-ty-con-100-von-cua-cii-da-ti… |
-| CII: Thông báo chào bán trái phiếu ra công chúng                                                                          | 1773424568000 | https://www.hsx.vn/vi/tin-tuc/cii-thong-bao-chao-ban-trai-phieu-ra-cong-chung/2444302                                     |
-| CII: Nghị quyết HĐQT thông qua kế hoạch phân phối trái phiếu chuyển đổi ra công chúng năm 2026                            | 1773424534000 | https://www.hsx.vn/vi/tin-tuc/cii-nghi-quyet-hdqt-thong-qua-ke-hoach-phan-phoi-trai-phieu-chuyen-doi-ra-cong-chung-nam-2… |
-| CII: Điều chỉnh Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 42                                                  | 1773337948000 | https://www.hsx.vn/vi/tin-tuc/cii-dieu-chinh-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-42/2443941             |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                 | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | CII - Niêm yết bổ sung 46.534.870 cổ phiếu                  | 2026-02-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 511.400 cổ phiếu                     | 2025-11-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 2 năm 2023 bằng tiền 500 đồng/cổ phiếu | 2025-09-04    | 2025-09-15    | 2025-09-12     |    0.05 |     500 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 76.744.738 cổ phiếu                  | 2025-08-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | CII - Phát hành cổ phiếu thưởng tỷ lệ 14%                   | 2025-07-04    | 2025-08-06    | 2025-08-05     |    0.14 |       0 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 217.700 cổ phiếu                     | 2025-06-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 228.224.170 cổ phiếu                 | 2025-02-14    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 974.300 cổ phiếu                     | 2025-01-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 4 năm 2022 bằng tiền 300 đồng/cổ phiếu | 2024-12-20    | 2024-12-27    | 2024-12-26     |    0.03 |     300 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 1 năm 2023 bằng tiền 200 đồng/cổ phiếu | 2024-12-20    | 2024-12-27    | 2024-12-26     |    0.02 |     200 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 3 năm 2022 bằng tiền 400 đồng/cổ phiếu | 2024-06-12    | 2024-06-19    | 2024-06-18     |    0.04 |     400 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 413,300 cổ phiếu                     | 2024-06-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 2 năm 2022 bằng tiền 400 đồng/cổ phiếu | 2024-03-01    | 2024-03-15    | 2024-03-14     |    0.04 |     400 |
-| Niêm yết thêm            | CII - Niêm yết bổ sung 34,345,300 cổ phiếu                  | 2023-11-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | CII - Trả cổ tức Đợt 1 năm 2022 bằng tiền 400 đồng/cổ phiếu | 2023-10-06    | 2023-10-16    | 2023-10-13     |    0.04 |     400 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CII      | 2026-03-17 00:00:00 |  17.05 |  17.15 | 16.3  |   16.3  | 11120900 |
-| CII      | 2026-03-18 00:00:00 |  16.4  |  16.75 | 16    |   16.4  |  8545100 |
-| CII      | 2026-03-19 00:00:00 |  16.1  |  17.2  | 16.1  |   16.75 | 12158800 |
-| CII      | 2026-03-20 00:00:00 |  16.75 |  16.85 | 16.3  |   16.3  |  6993700 |
 | CII      | 2026-03-23 00:00:00 |  16.2  |  16.3  | 15.4  |   15.6  | 13018700 |
 | CII      | 2026-03-24 00:00:00 |  16.1  |  16.65 | 16.05 |   16.65 | 13483600 |
 | CII      | 2026-03-25 00:00:00 |  17.1  |  17.8  | 16.8  |   17.8  | 28451600 |
@@ -181,10 +58,25 @@
 | CII      | 2026-04-09 00:00:00 |  18.7  |  19.45 | 18.4  |   18.9  | 28967000 |
 | CII      | 2026-04-10 00:00:00 |  19.25 |  19.25 | 18.45 |   18.55 | 22459300 |
 | CII      | 2026-04-13 00:00:00 |  18.7  |  19.8  | 18.7  |   19.8  | 39108100 |
+| CII      | 2026-04-14 00:00:00 |  20.5  |  20.8  | 19.65 |   19.75 | 28674500 |
+| CII      | 2026-04-15 00:00:00 |  19.9  |  20.4  | 19.4  |   19.4  | 32093600 |
+| CII      | 2026-04-16 00:00:00 |  19.4  |  19.5  | 18.7  |   19.5  | 27460700 |
+| CII      | 2026-04-17 00:00:00 |  19.75 |  19.75 | 19    |   19    | 14805900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| CII      | 2026-04-17 14:28:59 |    19.1 |      100 | Buy          | 465417748 |
+| CII      | 2026-04-17 14:29:04 |    19.1 |      100 | Buy          | 465418144 |
+| CII      | 2026-04-17 14:29:04 |    19.1 |     1000 | Buy          | 465418124 |
+| CII      | 2026-04-17 14:29:04 |    19.1 |      600 | Buy          | 465418142 |
+| CII      | 2026-04-17 14:29:04 |    19.1 |      400 | Buy          | 465418143 |
+| CII      | 2026-04-17 14:29:05 |    19.1 |     1900 | Buy          | 465418205 |
+| CII      | 2026-04-17 14:29:05 |    19.1 |      500 | Buy          | 465418238 |
+| CII      | 2026-04-17 14:29:05 |    19.1 |      100 | Buy          | 465418204 |
+| CII      | 2026-04-17 14:29:06 |    19.1 |     4200 | Buy          | 465418282 |
+| CII      | 2026-04-17 14:29:06 |    19.1 |      300 | Buy          | 465418279 |
 
 <!-- END:DAILY -->
 

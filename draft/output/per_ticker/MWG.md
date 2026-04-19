@@ -1,6 +1,6 @@
 # MWG — MWG
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: —
+> 📅 Daily: 19/04/2026 15:34  |  🗂 Quarterly: —
 
 ---
 
@@ -317,160 +317,41 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MWG |
-| exchange | HOSE |
-| ev | 119382832907700 |
-| ceiling | 87200 |
-| floor | 75800 |
-| ref_price | 81500 |
-| open | 80800 |
-| match_price | 81300 |
-| close_price | 81300 |
-| price_change | -200 |
-| price_change_pct | -0.00245399 |
-| high | 81300 |
-| low | 79800 |
-| total_volume | 5275814 |
-| high_price_1y | 94400 |
-| low_price_1y | 51262 |
-| pct_low_change_1y | 0.4832929761 |
-| pct_high_change_1y | -0.1323372465 |
-| foreign_volume | 601642 |
-| foreign_room | 720149656 |
-| avg_match_volume_2w | 5849531 |
-| foreign_holding_room | 713813363 |
-| current_holding_ratio | 0.48568869623322747 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 81.6 |
-| EMA20 | 81.2 |
-| EMA50 | 83.07 |
-| RSI(14) | 49.6 |
+| Giá đóng cửa | 86.9 |
+| EMA20 | 81.66 |
+| EMA50 | 83.04 |
+| RSI(14) | 60.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.848 |
-| MACD Signal | -1.34 |
-| MACD Histogram | 0.492 |
+| Giá vs EMA50 | Trên |
+| MACD | -0.197 |
+| MACD Signal | -0.953 |
+| MACD Histogram | 0.756 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 601642 |
-| Room NN còn lại | 720149656 |
-| Tỷ lệ sở hữu NN hiện tại | 0.48568869623322747 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | MWG      |               601642 |      720149656 |                0.485689 |
-| 2026-04-06 | MWG      |              2964954 |      720149656 |                0.488839 |
-| 2026-04-03 | MWG      |              3750051 |      720149656 |                0.488037 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MWG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774288626163 |
-| revenue | 156836115054975 |
-| revenue_growth | 0.15981510495007553 |
-| net_profit | 7033730770169 |
-| net_profit_growth | 0.8898386335842591 |
-| ebit_margin | 0.04537281785586928 |
-| roe | 0.2330696748 |
-| roic | 0.1121094742 |
-| roa | 0.0911203016 |
-| pe | 16.9875787394 |
-| pb | 3.6652426853 |
-| eps | 4785.849781603089 |
-| current_ratio | 1.5206304451 |
-| cash_ratio | 0.0984828587 |
-| quick_ratio | 0.299052798 |
-| interest_coverage | -4.810645787935756 |
-| ae | 2.530302707343382 |
-| fae | 0.07831504778717728 |
-| net_profit_margin | 0.04510879509424101 |
-| gross_margin | 0.19882156153834502 |
-| ev | 119486055290100 |
-| issue_share | 1469693177 |
-| ps | 0.7662892085 |
-| pcf | 19.6002784978 |
-| bvps | 22181.3415863051 |
-| ev_per_ebitda | 16.1075833941 |
-| at | 2.0200118709 |
-| fat | 50.4228737543 |
-| acp | 0.5790774498042981 |
-| dso | 73.8381151327 |
-| dpo | 32.5677723999 |
-| eps_ttm | 4785.8497816031 |
-| charter_capital | 14696931770000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 2.257349894098134 |
-| rtq10 | 1.5303027073 |
-| dividend | 0 |
-| ebitda | 8965781458423 |
-| ebit | 7074899349791 |
-| le | 0.9021834178 |
-| de | 1.5303027073 |
-| ccc | 106.9849649824043 |
-| rtq17 | 4.9432464432 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                        |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                     | 1774979340000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq/2448811                        |
-| Thế giới Di động (MWG) muốn lấn sân sang tư vấn tài chính và bất động sản         | 1774886820000 | https://www.tinnhanhchungkhoan.vn/the-gioi-di-dong-mwg-muon-lan-san-sang-tu-van-tai-chinh-va-bat-dong-san-post387816.htm… |
-| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN CLQ                  | 1774631100000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-khong-con-la-co-dong-lon-cua-nhom-ndtnn-clq/2447555                     |
-| MWG: Tờ trình và Link công bố tài liệu ĐHĐCĐ thường niên 2026                     | 1774630898000 | https://www.hsx.vn/vi/tin-tuc/mwg-to-trinh-va-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447550                        |
-| MWG: Báo cáo thường niên năm 2025 và Báo cáo phát triển bền vững 2025             | 1774538363000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-thuong-nien-nam-2025-va-bao-cao-phat-trien-ben-vung-2025/2446990                |
-| MWG: Báo cáo về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1774367640000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/2446238    |
-| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                     | 1773324480000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq/2443655                        |
-| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN                      | 1773324420000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-ve-ngay-khong-con-la-co-dong-lon-cua-nhom-ndtnn/2443780                         |
-| MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan    | 1773324180000 | https://www.hsx.vn/vi/tin-tuc/mwg-bao-cao-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan/2443776       |
-| Thế Giới Di Động (MWG): Tự tin đặt mục tiêu lãi ròng năm 2026 tăng 30%            | 1772633100000 | https://tapchicongthuong.vn/the-gioi-di-dong--mwg-tu-tin-dat-muc-tieu-lai-rong-nam-2026-tang-30-468920.htm                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                   | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | MWG - Giảm niêm yết 10.000.000 cổ phiếu                       | 2025-12-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2024 bằng tiền 1000 đồng/cổ phiếu | 2025-07-01    | 2025-07-25    | 2025-07-24     |    0.1  |    1000 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 17.449.000 cổ phiếu                    | 2025-05-16    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2023 bằng tiền 500 đồng/cổ phiếu  | 2024-06-19    | 2024-07-01    | 2024-06-28     |    0.05 |     500 |
-| Niêm yết thêm            | MWG - Giảm niêm yết 1,132,539 cổ phiếu                        | 2024-05-31    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu  | 2023-07-07    | 2023-07-28    | 2023-07-27     |    0.05 |     500 |
-| Niêm yết thêm            | MWG - Giảm niêm yết 502,564 cổ phiếu                          | 2023-05-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | MWG - Giảm niêm yết 232,000 cổ phiếu                          | 2022-08-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 731,854,815 cổ phiếu                   | 2022-07-12    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | MWG - Phát hành cổ phiếu trả cổ tức tỷ lệ 100%                | 2022-06-06    | 2022-06-17    | 2022-06-16     |    1    |       0 |
-| Trả cổ tức bằng tiền mặt | MWG - Trả cổ tức Cả năm năm 2021 bằng tiền 1000 đồng/cổ phiếu | 2022-05-31    | 2022-06-08    | 2022-06-07     |    0.1  |    1000 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 237.634.298 cổ phiếu                   | 2021-09-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.742 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.742 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | MWG - Niêm yết bổ sung 2.326.744 cổ phiếu                     | 2021-05-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MWG      | 2026-03-18 00:00:00 |   82.8 |   84.3 |  82.4 |    83.7 |  4304400 |
-| MWG      | 2026-03-19 00:00:00 |   82   |   82.6 |  81.4 |    82.4 |  7916000 |
-| MWG      | 2026-03-20 00:00:00 |   82.1 |   82.1 |  79.7 |    79.7 |  6488600 |
 | MWG      | 2026-03-23 00:00:00 |   78   |   78.1 |  74.2 |    74.2 | 17473900 |
 | MWG      | 2026-03-24 00:00:00 |   76.6 |   76.8 |  75   |    76   |  7903300 |
 | MWG      | 2026-03-25 00:00:00 |   77   |   79.5 |  76.8 |    79.2 |  7550200 |
@@ -488,20 +369,23 @@
 | MWG      | 2026-04-10 00:00:00 |   81.3 |   82.2 |  81   |    81.5 |  4667000 |
 | MWG      | 2026-04-13 00:00:00 |   80.8 |   81.3 |  79.8 |    81.3 |  4806700 |
 | MWG      | 2026-04-14 00:00:00 |   82.1 |   82.7 |  81.4 |    81.6 |  4600700 |
+| MWG      | 2026-04-15 00:00:00 |   82   |   82   |  80   |    80   |  3798700 |
+| MWG      | 2026-04-16 00:00:00 |   80.2 |   82   |  80.2 |    81.3 |  5775900 |
+| MWG      | 2026-04-17 00:00:00 |   82.6 |   86.9 |  82.5 |    86.9 | 15089000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      100 | Buy          | 463615851 |
-| MWG      | 2026-04-14 14:26:59 |    81.8 |      100 | Buy          | 463615858 |
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      100 | Buy          | 463615854 |
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      500 | Buy          | 463615855 |
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      200 | Buy          | 463615856 |
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      300 | Buy          | 463615857 |
-| MWG      | 2026-04-14 14:26:59 |    81.7 |      100 | Buy          | 463615853 |
-| MWG      | 2026-04-14 14:26:59 |    81.8 |     1700 | Buy          | 463615859 |
-| MWG      | 2026-04-14 14:26:59 |    81.8 |    29900 | Buy          | 463615860 |
-| MWG      | 2026-04-14 14:26:59 |    81.8 |      100 | Buy          | 463615861 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      400 | Sell         | 465415775 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      600 | Sell         | 465415734 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |     2400 | Sell         | 465415735 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      200 | Sell         | 465415736 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      100 | Sell         | 465415737 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      100 | Sell         | 465415738 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      600 | Sell         | 465415739 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      200 | Sell         | 465415740 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      200 | Sell         | 465415741 |
+| MWG      | 2026-04-17 14:28:34 |    86.9 |      600 | Sell         | 465415742 |
 
 <!-- END:DAILY -->

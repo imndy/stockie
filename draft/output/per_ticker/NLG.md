@@ -1,166 +1,47 @@
 # NLG — NLG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 19/04/2026 15:34  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NLG |
-| exchange | HOSE |
-| ev | 14213353321900 |
-| ceiling | 31200 |
-| floor | 27200 |
-| ref_price | 29200 |
-| open | 29000 |
-| match_price | 29300 |
-| close_price | 29300 |
-| price_change | 100 |
-| price_change_pct | 0.00342466 |
-| high | 29650 |
-| low | 28850 |
-| total_volume | 2408190 |
-| high_price_1y | 45632 |
-| low_price_1y | 23286 |
-| pct_low_change_1y | 0.2135160465 |
-| pct_high_change_1y | -0.3196504908 |
-| foreign_volume | 606911 |
-| foreign_room | 242548691 |
-| avg_match_volume_2w | 3724523 |
-| foreign_holding_room | 200440754 |
-| current_holding_ratio | 0.4131969394689561 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 29.15 |
-| EMA20 | 28.6 |
+| Giá đóng cửa | 28.55 |
+| EMA20 | 28.64 |
 | EMA50 | 28.75 |
-| RSI(14) | 54.3 |
+| RSI(14) | 50.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.35 |
-| MACD Signal | 0.275 |
-| MACD Histogram | 0.075 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 606911 |
-| Room NN còn lại | 242548691 |
-| Tỷ lệ sở hữu NN hiện tại | 0.4131969394689561 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | NLG      |               606911 |      242548691 |                0.413197 |
-| 2026-04-06 | NLG      |              1519400 |      242548691 |                0.414624 |
-| 2026-04-03 | NLG      |              1599120 |      242548691 |                0.411478 |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.252 |
+| MACD Signal | 0.281 |
+| MACD Histogram | -0.029 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NLG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773937430550 |
-| revenue | 5645086579147 |
-| revenue_growth | -0.21552988085394073 |
-| net_profit | 701371622402 |
-| net_profit_growth | 0.3542745478949942 |
-| ebit_margin | 0.1886375229876293 |
-| roe | 0.0627979965 |
-| roic | 0.0523387007 |
-| roa | 0.0246603091 |
-| pe | 20.265081831 |
-| pb | 1.1225004287 |
-| eps | 1445.8367473856274 |
-| current_ratio | 2.9821065402 |
-| cash_ratio | 1.0558531937 |
-| quick_ratio | 1.3488601829 |
-| interest_coverage | -4.025163789474689 |
-| ae | 1.791964273384169 |
-| fae | 0.007267186730686445 |
-| net_profit_margin | 0.1242446174329501 |
-| gross_margin | 0.41758085022005037 |
-| ev | 14213353321900 |
-| issue_share | 485097383 |
-| ps | 2.5178273393 |
-| pcf | -16.2877560903 |
-| bvps | 26102.4399203799 |
-| ev_per_ebitda | 11.5721997629 |
-| at | 0.1984819112 |
-| fat | 45.044339324 |
-| acp | 81.1335368642304 |
-| dso | 1487.784371655 |
-| dpo | 82.7495187574 |
-| eps_ttm | 1445.8367473856 |
-| charter_capital | 4850973830000 |
-| rtq4 | 0.3038737072 |
-| charter_capital_ratio | 3.055931619216548 |
-| rtq10 | 0.7919642734 |
-| dividend | 0 |
-| ebitda | 1116525003515 |
-| ebit | 1064875149341 |
-| le | 0.6763447543000001 |
-| de | 0.7919642734 |
-| ccc | 1651.6674272766304 |
-| rtq17 | 0.2453312502 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                              |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| NLG: Quyết định về việc thực hiện giao dịch với bên liên quan                                           | 1775840211000 | https://www.hsx.vn/vi/tin-tuc/nlg-quyet-dinh-ve-viec-thuc-hien-giao-dich-voi-ben-lien-quan/2452081                        |
-| Nam Long (NLG) đặt mục tiêu doanh thu hợp nhất năm 2026 đạt 7.630 tỷ đồng, tăng trưởng 35%              | 1775466360000 | https://www.tinnhanhchungkhoan.vn/nam-long-nlg-dat-muc-tieu-doanh-thu-hop-nhat-nam-2026-dat-7630-ty-dong-tang-truong-35-… |
-| NLG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                | 1775238257000 | https://www.hsx.vn/vi/tin-tuc/nlg-tai-lieu-hop-dhdcd-thuong-nien-2026/2450425                                             |
-| NLG: Báo cáo thường niên năm 2025                                                                       | 1775238217000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-thuong-nien-nam-2025/2450423                                                    |
-| NLG: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Giám đốc Nhân sự Tập đoàn                      | 1774894179000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-thay-doi-nhan-su--mien-nhiem-va-bo-nhiem-giam-doc-nhan-su-tap-doan/2448324    |
-| NLG: Thành viên HĐQT đăng ký mua 500.000 cổ phiếu                                                       | 1773335280000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-cao-tan-thach/2443875                     |
-| NLG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hiệp, Nguyễn Nam | 1773335220000 | https://www.hsx.vn/vi/tin-tuc/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-hiep… |
-| NLG: Em ruột Thành viên HĐQT đăng ký mua 200.000 cổ phiếu                                               | 1773247440000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-cao-duy-thong/244… |
-| NLG: Quyết định về việc phê duyệt giao dịch với bên liên quan trong Quý 1/2026                          | 1773247404000 | https://www.hsx.vn/vi/tin-tuc/nlg-quyet-dinh-ve-viec-phe-duyet-giao-dich-voi-ben-lien-quan-trong-quy-12026/2443509        |
-| NLG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                             | 1772794908000 | https://www.hsx.vn/vi/tin-tuc/nlg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442336          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                     | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:--------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 100.022.079 cổ phiếu                                     | 2026-01-30    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | NLG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100 : 26 giá 25.000 đồng/cp | 2025-10-14    | 2025-10-20    | 2025-10-17     | 0.26    |       0 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Cả năm năm 2024 bằng tiền 499 đồng/cổ phiếu                    | 2025-05-30    | 2025-06-06    | 2025-06-05     | 0.0499  |     499 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 297.833 cổ phiếu                                         | 2025-02-27    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Cả năm năm 2023 bằng tiền 499 đồng/cổ phiếu                    | 2024-05-21    | 2024-05-30    | 2024-05-29     | 0.0499  |     499 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 697,171 cổ phiếu                                         | 2023-12-22    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Đợt 2 năm 2022 bằng tiền 200 đồng/cổ phiếu                     | 2023-05-19    | 2023-05-30    | 2023-05-29     | 0.02    |     200 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Đợt 1 năm 2022 bằng tiền 300 đồng/cổ phiếu                     | 2022-12-01    | 2022-12-14    | 2022-12-13     | 0.03    |     300 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 1,140,287 cổ phiếu                                       | 2022-11-15    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Đợt 2 năm 2021 bằng tiền 558.7 đồng/cổ phiếu                   | 2022-05-17    | 2022-05-25    | 2022-05-24     | 0.05587 |     558 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 1.287.652 cổ phiếu                                       | 2021-12-22    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 36.381.701 cổ phiếu                                      | 2021-12-22    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Trả cổ tức bằng tiền mặt | NLG - Trả cổ tức Đợt 1, 2021 bằng tiền 619 VND/CP                               | 2021-11-15    | 2021-11-25    | 2021-11-24     | 0.0619  |     619 |
-| Phát hành cổ phiếu       | NLG - Phát hành cổ phiếu thưởng tỷ lệ 100:6,926                                 | 2021-11-15    | 2021-11-25    | 2021-11-24     | 0.06926 |       0 |
-| Niêm yết thêm            | NLG - Niêm yết bổ sung 60.000.000 cổ phiếu                                      | 2021-09-28    | 1753-01-01    | 1753-01-01     | 0       |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NLG      | 2026-03-18 00:00:00 |  27.7  |  28.15 | 27    |   27.7  |  2755200 |
-| NLG      | 2026-03-19 00:00:00 |  27.05 |  28.4  | 27    |   28    |  4290900 |
-| NLG      | 2026-03-20 00:00:00 |  28.1  |  28.1  | 27.55 |   27.7  |  2169900 |
 | NLG      | 2026-03-23 00:00:00 |  27.4  |  27.6  | 26.35 |   26.4  |  3834200 |
 | NLG      | 2026-03-24 00:00:00 |  27.05 |  28.2  | 26.9  |   28.2  |  4817700 |
 | NLG      | 2026-03-25 00:00:00 |  28.6  |  29.65 | 28.3  |   29.3  |  6216100 |
@@ -178,21 +59,24 @@
 | NLG      | 2026-04-10 00:00:00 |  29.8  |  30.1  | 29    |   29.2  |  2488000 |
 | NLG      | 2026-04-13 00:00:00 |  29    |  29.65 | 28.85 |   29.3  |  2405000 |
 | NLG      | 2026-04-14 00:00:00 |  29.7  |  29.7  | 28.8  |   29.15 |  2577100 |
+| NLG      | 2026-04-15 00:00:00 |  29.2  |  29.6  | 28.95 |   28.95 |  3431500 |
+| NLG      | 2026-04-16 00:00:00 |  28.95 |  28.95 | 28.1  |   28.75 |  3440600 |
+| NLG      | 2026-04-17 00:00:00 |  28.8  |  28.95 | 28.45 |   28.55 |  1290500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606460 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606464 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606465 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |     3200 | Sell         | 463606463 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      700 | Sell         | 463606462 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      200 | Sell         | 463606467 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |     1000 | Sell         | 463606470 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606471 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |      100 | Sell         | 463606472 |
-| NLG      | 2026-04-14 14:24:28 |   28.85 |    20000 | Sell         | 463606473 |
+| NLG      | 2026-04-17 14:24:35 |   28.5  |      100 | Sell         | 465399268 |
+| NLG      | 2026-04-17 14:24:35 |   28.5  |     1000 | Sell         | 465399269 |
+| NLG      | 2026-04-17 14:24:36 |   28.5  |      200 | Buy          | 465399289 |
+| NLG      | 2026-04-17 14:24:41 |   28.45 |      400 | Sell         | 465399515 |
+| NLG      | 2026-04-17 14:24:44 |   28.5  |     4000 | Buy          | 465399658 |
+| NLG      | 2026-04-17 14:24:48 |   28.5  |      100 | Buy          | 465400030 |
+| NLG      | 2026-04-17 14:24:49 |   28.5  |      100 | Buy          | 465400072 |
+| NLG      | 2026-04-17 14:24:52 |   28.5  |      500 | Buy          | 465400251 |
+| NLG      | 2026-04-17 14:24:55 |   28.5  |      300 | Sell         | 465400383 |
+| NLG      | 2026-04-17 14:25:08 |   28.5  |      300 | Sell         | 465401187 |
 
 <!-- END:DAILY -->
 

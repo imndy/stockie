@@ -1,166 +1,47 @@
 # PC1 — PC1
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 19/04/2026 15:35  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PC1 |
-| exchange | HOSE |
-| ev | 11248654131050 |
-| ceiling | 29250 |
-| floor | 25450 |
-| ref_price | 27350 |
-| open | 27650 |
-| match_price | 27350 |
-| close_price | 27350 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 28000 |
-| low | 27250 |
-| total_volume | 4973687 |
-| high_price_1y | 32200 |
-| low_price_1y | 17175 |
-| pct_low_change_1y | 0.5342069244 |
-| pct_high_change_1y | -0.1275917065 |
-| foreign_volume | 465600 |
-| foreign_room | 205642671 |
-| avg_match_volume_2w | 7185861 |
-| foreign_holding_room | 69017572 |
-| current_holding_ratio | 0.1678094616661309 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.45 |
-| EMA20 | 27.13 |
-| EMA50 | 26.47 |
-| RSI(14) | 52.5 |
+| Giá đóng cửa | 26.65 |
+| EMA20 | 27.09 |
+| EMA50 | 26.53 |
+| RSI(14) | 47.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.117 |
-| MACD Signal | 0.159 |
-| MACD Histogram | -0.042 |
+| MACD | 0.052 |
+| MACD Signal | 0.124 |
+| MACD Histogram | -0.072 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 465600 |
-| Room NN còn lại | 205642671 |
-| Tỷ lệ sở hữu NN hiện tại | 0.1678094616661309 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | PC1      |               465600 |      205642671 |                0.167809 |
-| 2026-04-06 | PC1      |               594800 |      205642671 |                0.164536 |
-| 2026-04-03 | PC1      |               715500 |      205642671 |                0.163299 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PC1 |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774982200367 |
-| revenue | 13084794921097 |
-| revenue_growth | 0.29694940174212825 |
-| net_profit | 1041376121606 |
-| net_profit_growth | 1.227147619801927 |
-| ebit_margin | 0.15724784302247966 |
-| roe | 0.1730394568 |
-| roic | 0.0999631233 |
-| roa | 0.0457240103 |
-| pe | 10.801720817 |
-| pb | 1.7278975825 |
-| eps | 2532.003970795526 |
-| current_ratio | 1.4509165887 |
-| cash_ratio | 0.4894250862 |
-| quick_ratio | 1.0562747365 |
-| interest_coverage | -3.016262304807036 |
-| ae | 2.766876452704299 |
-| fae | 1.0689186768715118 |
-| net_profit_margin | 0.0795867361992016 |
-| gross_margin | 0.20778102299963783 |
-| ev | 11248654131050 |
-| issue_share | 411285343 |
-| ps | 0.8596737052 |
-| pcf | 4.9494275608 |
-| bvps | 15828.4844406624 |
-| ev_per_ebitda | 6.5126877549 |
-| at | 0.5745179722 |
-| fat | 1.3327371684 |
-| acp | 70.34497378508635 |
-| dso | 54.7281801698 |
-| dpo | 51.4983451381 |
-| eps_ttm | 2532.0039707955 |
-| charter_capital | 4112853430000 |
-| rtq4 | 0.8384061151 |
-| charter_capital_ratio | 2.1584705338154975 |
-| rtq10 | 1.7668764527 |
-| dividend | 0 |
-| ebitda | 2939323007833 |
-| ebit | 2057555777734 |
-| le | 2.1569880256 |
-| de | 1.7668764527 |
-| ccc | 176.57149909298636 |
-| rtq17 | 6.6693246307 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                            |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| PC1: Tài liệu họp ĐHĐCĐ thường niên 2026                                              | 1775034787000 | https://www.hsx.vn/vi/tin-tuc/pc1-tai-lieu-hop-dhdcd-thuong-nien-2026/2448970                                             |
-| PC1: Giải trình biến động LNST BCTC HN và Riêng năm 2025 sau kiểm toán                | 1774964659000 | https://www.hsx.vn/vi/tin-tuc/pc1-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-sau-kiem-toan/2448388               |
-| Tập đoàn PC1 (PC1) muốn rút vốn khỏi một công ty bất động sản                         | 1773135480000 | https://www.tinnhanhchungkhoan.vn/tap-doan-pc1-pc1-muon-rut-von-khoi-mot-cong-ty-bat-dong-san-post386503.html             |
-| PC1: Nghị quyết HĐQT về việc chấm dứt khoản đầu tư tại Công ty Cổ phần Đầu tư BĐS CT2 | 1772816223000 | https://www.hsx.vn/vi/tin-tuc/pc1-nghi-quyet-hdqt-ve-viec-cham-dut-khoan-dau-tu-tai-cong-ty-co-phan-dau-tu-bds-ct2/24424… |
-| PC1: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                        | 1772100682000 | https://www.hsx.vn/vi/tin-tuc/pc1-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2440272                       |
-| PC1: Đính chính nội dung báo cáo tình hình quản trị năm 2025                          | 1770917810000 | https://www.hsx.vn/vi/tin-tuc/pc1-dinh-chinh-noi-dung-bao-cao-tinh-hinh-quan-tri-nam-2025/2438927                         |
-| PC1: Nghị quyết HĐQT về kế hoạch tổ chức ĐHĐCĐTN 2026                                 | 1770830393000 | https://www.hsx.vn/vi/tin-tuc/pc1-nghi-quyet-hdqt-ve-ke-hoach-to-chuc-dhdcdtn-2026/2438509                                |
-| PC1: Báo cáo tình hình quản trị công ty năm 2025                                      | 1770029278000 | https://www.hsx.vn/vi/tin-tuc/pc1-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2436091                                     |
-| PC1: Giải trình biến động LNST trên BCTC quý 4/2025 so với cùng kỳ năm trước          | 1770027675000 | https://www.hsx.vn/vi/tin-tuc/pc1-giai-trinh-bien-dong-lnst-tren-bctc-quy-42025-so-voi-cung-ky-nam-truoc/2436025          |
-| PC1: Nghị quyết HĐQT về việc thực hiện giao dịch, hợp đồng với doanh nghiệp liên quan | 1767974516000 | https://www.hsx.vn/vi/tin-tuc/pc1-nghi-quyet-hdqt-ve-viec-thuc-hien-giao-dich-hop-dong-voi-doanh-nghiep-lien-quan/242971… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                      | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------|:-------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 53.643.222 cổ phiếu       | 2025-12-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu thưởng tỷ lệ 15%        | 2025-11-05    | 2025-11-13    | 2025-11-12     |    0.15 |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 46.646.563 cổ phiếu       | 2025-01-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%    | 2024-10-28    | 2024-11-08    | 2024-11-07     |    0.15 |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 40,562,556 cổ phiếu       | 2023-12-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%    | 2023-11-14    | 2023-11-23    | 2023-11-22     |    0.15 |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 35,273,353 cổ phiếu       | 2022-12-02    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%    | 2022-10-21    | 2022-11-02    | 2022-11-01     |    0.15 |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 5.734.541 cổ phiếu        | 2021-12-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 38.236.949 cổ phiếu       | 2021-12-28    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:20 | 2021-10-25    | 2021-11-05    | 2021-11-04     |    0.2  |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 31.864.230 cổ phiếu       | 2020-12-30    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu | PC1 - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%    | 2020-11-17    | 2020-12-02    | 2020-12-01     |    0.2  |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 26.553.635 cổ phiếu       | 2019-07-25    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm      | PC1 - Niêm yết bổ sung 17.317.452 cổ phiếu       | 2018-09-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PC1      | 2026-03-18 00:00:00 |  25.55 |  26.45 | 25.5  |   26.2  |  4998700 |
-| PC1      | 2026-03-19 00:00:00 |  25.5  |  26.45 | 25.4  |   25.7  |  6155300 |
-| PC1      | 2026-03-20 00:00:00 |  25.7  |  27.45 | 25.7  |   26.65 | 12486900 |
 | PC1      | 2026-03-23 00:00:00 |  26.65 |  26.9  | 25.15 |   25.35 |  6528700 |
 | PC1      | 2026-03-24 00:00:00 |  26.05 |  26.5  | 25.6  |   26.1  |  5306200 |
 | PC1      | 2026-03-25 00:00:00 |  26.5  |  27.9  | 26.5  |   27.9  |  7036700 |
@@ -178,21 +59,24 @@
 | PC1      | 2026-04-10 00:00:00 |  27.25 |  27.45 | 26.8  |   27.35 |  5424900 |
 | PC1      | 2026-04-13 00:00:00 |  27.65 |  28    | 27.25 |   27.35 |  4967000 |
 | PC1      | 2026-04-14 00:00:00 |  27.65 |  27.65 | 27.35 |   27.45 |  4692400 |
+| PC1      | 2026-04-15 00:00:00 |  27.6  |  27.9  | 27.3  |   27.4  |  4995100 |
+| PC1      | 2026-04-16 00:00:00 |  27.3  |  27.3  | 26.6  |   27    |  5086500 |
+| PC1      | 2026-04-17 00:00:00 |  27.2  |  27.2  | 26.65 |   26.65 |  3106600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PC1      | 2026-04-14 14:20:38 |   27.4  |     1000 | Sell         | 463593143 |
-| PC1      | 2026-04-14 14:20:38 |   27.4  |      100 | Sell         | 463593144 |
-| PC1      | 2026-04-14 14:20:49 |   27.4  |    10000 | Buy          | 463593853 |
-| PC1      | 2026-04-14 14:20:49 |   27.4  |     6700 | Buy          | 463593851 |
-| PC1      | 2026-04-14 14:20:49 |   27.4  |     3300 | Buy          | 463593854 |
-| PC1      | 2026-04-14 14:20:50 |   27.35 |     1000 | Sell         | 463593888 |
-| PC1      | 2026-04-14 14:20:52 |   27.4  |      100 | Buy          | 463594014 |
-| PC1      | 2026-04-14 14:20:54 |   27.45 |      600 | Buy          | 463594099 |
-| PC1      | 2026-04-14 14:21:17 |   27.45 |      600 | Buy          | 463595416 |
-| PC1      | 2026-04-14 14:21:18 |   27.45 |      200 | Buy          | 463595458 |
+| PC1      | 2026-04-17 14:25:36 |    26.8 |      200 | Sell         | 465403102 |
+| PC1      | 2026-04-17 14:25:36 |    26.8 |      100 | Sell         | 465403105 |
+| PC1      | 2026-04-17 14:25:36 |    26.8 |      100 | Sell         | 465403103 |
+| PC1      | 2026-04-17 14:25:36 |    26.8 |      100 | Sell         | 465403104 |
+| PC1      | 2026-04-17 14:25:40 |    26.8 |      200 | Sell         | 465403325 |
+| PC1      | 2026-04-17 14:25:41 |    26.8 |      100 | Sell         | 465403376 |
+| PC1      | 2026-04-17 14:25:41 |    26.8 |      100 | Sell         | 465403377 |
+| PC1      | 2026-04-17 14:25:41 |    26.8 |     1600 | Sell         | 465403378 |
+| PC1      | 2026-04-17 14:25:41 |    26.8 |      200 | Sell         | 465403375 |
+| PC1      | 2026-04-17 14:25:55 |    26.8 |      400 | Sell         | 465404160 |
 
 <!-- END:DAILY -->
 

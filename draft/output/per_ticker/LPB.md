@@ -1,166 +1,47 @@
 # LPB — LPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 19/04/2026 15:33  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | LPB |
-| exchange | HOSE |
-| ev | 143240176695000 |
-| ceiling | 52700 |
-| floor | 45850 |
-| ref_price | 49300 |
-| open | 49400 |
-| match_price | 47950 |
-| close_price | 47950 |
-| price_change | -1350 |
-| price_change_pct | -0.02738337 |
-| high | 50100 |
-| low | 47850 |
-| total_volume | 3883900 |
-| high_price_1y | 54700 |
-| low_price_1y | 28644 |
-| pct_low_change_1y | 0.6212949227 |
-| pct_high_change_1y | -0.1103896104 |
-| foreign_volume | 239311 |
-| foreign_room | 149364105 |
-| avg_match_volume_2w | 2093431 |
-| foreign_holding_room | 24738339 |
-| current_holding_ratio | 0.008281219574140655 |
-| max_holding_ratio | 0.05 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.0 |
-| EMA20 | 45.05 |
-| EMA50 | 43.75 |
-| RSI(14) | 67.1 |
+| Giá đóng cửa | 46.0 |
+| EMA20 | 45.54 |
+| EMA50 | 44.11 |
+| RSI(14) | 55.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.639 |
-| MACD Signal | 1.036 |
-| MACD Histogram | 0.602 |
+| MACD | 1.427 |
+| MACD Signal | 1.28 |
+| MACD Histogram | 0.147 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 239311 |
-| Room NN còn lại | 149364105 |
-| Tỷ lệ sở hữu NN hiện tại | 0.008281219574140655 |
-| Tỷ lệ sở hữu NN tối đa | 0.05 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | LPB      |               239311 |      149364105 |              0.00828122 |
-| 2026-04-06 | LPB      |               915840 |      149364105 |              0.00774461 |
-| 2026-04-03 | LPB      |               558801 |      149364105 |              0.00746597 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | LPB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774964075440 |
-| revenue | 39291632000000 |
-| revenue_growth | 0.15099724246693488 |
-| net_profit | 11422379000000 |
-| net_profit_growth | 0.175033073069366 |
-| ebit_margin | 0 |
-| roe | 0.2523424576 |
-| roic | 0 |
-| roa | 0.0205085305 |
-| pe | 12.5403102712 |
-| pb | 3.0352334717 |
-| eps | 3823.669348134212 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 12.832226468991644 |
-| fae | 0.06908215915953039 |
-| net_profit_margin | 0.7123743399826259 |
-| gross_margin | 0 |
-| ev | 143240176695000 |
-| issue_share | 2987282100 |
-| ps | 6.5462391411 |
-| pcf | 2.5468866731 |
-| bvps | 15797.7962643702 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 3823.6693481342 |
-| charter_capital | 29872821000000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.5797796264370212 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                             |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| LPB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                           | 1775639519000 | https://www.hsx.vn/vi/tin-tuc/lpb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2451322                                         |
-| LPB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả cháo bán trái phiếu ra công chúng của LPB               | 1775498860000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-… |
-| LPB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng                                                             | 1775222666000 | https://www.hsx.vn/vi/tin-tuc/lpb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung/2450187                           |
-| LPB: Giải trình BCTC kiểm toán năm 2025                                                                                | 1774964837000 | https://www.hsx.vn/vi/tin-tuc/lpb-giai-trinh-bctc-kiem-toan-nam-2025/2448390                                              |
-| LPB: Nghị quyết HĐQT về việc thay đổi địa điểm và tên gọi Văn phòng đại diện                                           | 1773240949000 | https://www.hsx.vn/vi/tin-tuc/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-dia-diem-va-ten-goi-van-phong-dai-dien/2443493         |
-| LPB: Thông báo thay đổi nhân sự                                                                                        | 1773158222000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-thay-doi-nhan-su/2443118                                                      |
-| LPB: Nghị quyết HĐQT về việc thay đổi mẫu con dấu                                                                      | 1772617406000 | https://www.hsx.vn/vi/tin-tuc/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-mau-con-dau/2441620                                    |
-| LPB: Quyết định của NHNNVN về việc sửa đổi địa điểm đặt trụ sở chính tại Giấy phép thành lập và hoạt động              | 1772557460000 | https://www.hsx.vn/vi/tin-tuc/lpb-quyet-dinh-cua-nhnnvn-ve-viec-sua-doi-dia-diem-dat-tru-so-chinh-tai-giay-phep-thanh-la… |
-| LPB: Thông báo nhận được Công văn của NHNN Khu vực 2 về việc thay đổi địa điểm PGD Sài Gòn trực thuộc chi nhánh TP.HCM | 1770989614000 | https://www.hsx.vn/vi/tin-tuc/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-2-ve-viec-thay-doi-dia-diem-pgd-sai-gon-… |
-| LPB: Điều lệ công ty                                                                                                   | 1770888017000 | https://www.hsx.vn/vi/tin-tuc/lpb-dieu-le-cong-ty/2438577                                                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                         | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:------------------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | LPB - Trả cổ tức Cả năm năm 2024 bằng tiền 2500 đồng/cổ phiếu                       | 2025-05-13    | 2025-05-20    | 2025-05-19     | 0.25    |    2500 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 429.665.684 cổ phiếu                                         | 2025-02-04    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 16,8%                                     | 2024-12-24    | 2024-12-30    | 2024-12-27     | 0.168   |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 500,000,000 cổ phiếu                                         | 2024-01-05    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 328,511,047 cổ phiếu                                         | 2023-10-06    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 19%                                       | 2023-07-21    | 2023-08-23    | 2023-08-22     | 0.19    |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 225,519,376 cổ phiếu                                         | 2022-12-15    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                                       | 2022-11-10    | 2022-11-18    | 2022-11-17     | 0.15    |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 264,999,670 cổ phiếu                                         | 2022-09-30    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 34,995,849 cổ phiếu                                          | 2022-04-28    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 100 : 21.395 giá 10.000 đồng/cp | 2022-03-31    | 2022-04-06    | 2022-04-05     | 0.21395 |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 128.951.559 cổ phiếu                                         | 2021-09-16    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 100:12                                    | 2021-07-15    | 2021-07-22    | 2021-07-21     | 0.12    |       0 |
-| Niêm yết thêm            | LPB - Niêm yết bổ sung 97.690.596 cổ phiếu                                          | 2021-01-04    | 1753-01-01    | 1753-01-01     | 0       |       0 |
-| Phát hành cổ phiếu       | LPB - Phát hành cổ phiếu trả cổ tức tỷ lệ 10%                                       | 2020-11-24    | 2020-12-04    | 2020-12-03     | 0.1     |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| LPB      | 2026-03-18 00:00:00 |  43.75 |  44.5  | 43.3  |   43.65 |  2196800 |
-| LPB      | 2026-03-19 00:00:00 |  43.65 |  43.9  | 41.5  |   43.9  |  4447600 |
-| LPB      | 2026-03-20 00:00:00 |  43.9  |  44    | 41.05 |   41.1  |  1920100 |
 | LPB      | 2026-03-23 00:00:00 |  41.1  |  42.55 | 40.95 |   41.15 |   745300 |
 | LPB      | 2026-03-24 00:00:00 |  41.3  |  41.95 | 40.95 |   41.9  |  1020400 |
 | LPB      | 2026-03-25 00:00:00 |  42    |  42.3  | 41.45 |   41.8  |   953700 |
@@ -178,21 +59,24 @@
 | LPB      | 2026-04-10 00:00:00 |  49.35 |  49.85 | 48    |   49.3  |  2186400 |
 | LPB      | 2026-04-13 00:00:00 |  49.4  |  50.1  | 47.85 |   47.95 |  1836000 |
 | LPB      | 2026-04-14 00:00:00 |  48.5  |  49.85 | 48    |   48    |  1889000 |
+| LPB      | 2026-04-15 00:00:00 |  48.6  |  48.7  | 47.7  |   47.7  |   985700 |
+| LPB      | 2026-04-16 00:00:00 |  47.95 |  47.95 | 47.05 |   47.3  |   814900 |
+| LPB      | 2026-04-17 00:00:00 |  47.9  |  47.9  | 46    |   46    |  1228900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| LPB      | 2026-04-14 14:20:20 |    48   |     7800 | Sell         | 463592204 |
-| LPB      | 2026-04-14 14:20:34 |    48.2 |      100 | Buy          | 463592919 |
-| LPB      | 2026-04-14 14:20:34 |    48.2 |      100 | Buy          | 463592920 |
-| LPB      | 2026-04-14 14:20:41 |    48.2 |     1000 | Buy          | 463593333 |
-| LPB      | 2026-04-14 14:21:01 |    48.2 |      200 | Buy          | 463594447 |
-| LPB      | 2026-04-14 14:21:10 |    48.2 |     1000 | Buy          | 463595047 |
-| LPB      | 2026-04-14 14:21:21 |    48.2 |     1000 | Buy          | 463595671 |
-| LPB      | 2026-04-14 14:21:25 |    48.2 |      500 | Buy          | 463595885 |
-| LPB      | 2026-04-14 14:21:28 |    48.2 |      200 | Buy          | 463596026 |
-| LPB      | 2026-04-14 14:21:44 |    48.2 |     1000 | Buy          | 463596976 |
+| LPB      | 2026-04-17 14:21:50 |   46.8  |      200 | Buy          | 465388960 |
+| LPB      | 2026-04-17 14:21:55 |   46.65 |      100 | Sell         | 465389293 |
+| LPB      | 2026-04-17 14:21:57 |   46.8  |      100 | Buy          | 465389375 |
+| LPB      | 2026-04-17 14:22:05 |   46.8  |      100 | Buy          | 465389874 |
+| LPB      | 2026-04-17 14:22:15 |   46.85 |      100 | Buy          | 465390509 |
+| LPB      | 2026-04-17 14:22:15 |   46.85 |      200 | Buy          | 465390536 |
+| LPB      | 2026-04-17 14:22:15 |   46.85 |      100 | Buy          | 465390508 |
+| LPB      | 2026-04-17 14:22:25 |   46.85 |      100 | Buy          | 465391186 |
+| LPB      | 2026-04-17 14:22:33 |   46.85 |      100 | Buy          | 465391622 |
+| LPB      | 2026-04-17 14:22:37 |   46.95 |     1000 | Buy          | 465391915 |
 
 <!-- END:DAILY -->
 

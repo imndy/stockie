@@ -1,167 +1,47 @@
 # HPG — HPG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:41  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 19/04/2026 15:32  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HPG |
-| exchange | HOSE |
-| ev | 213377950769000 |
-| ceiling | 29950 |
-| floor | 26050 |
-| ref_price | 28000 |
-| open | 27850 |
-| match_price | 27800 |
-| close_price | 27800 |
-| price_change | -200 |
-| price_change_pct | -0.00714286 |
-| high | 28150 |
-| low | 27800 |
-| total_volume | 23837424 |
-| high_price_1y | 30850 |
-| low_price_1y | 19499 |
-| pct_low_change_1y | 0.3371276334 |
-| pct_high_change_1y | -0.0840197694 |
-| foreign_volume | 3089441 |
-| foreign_room | 3760978268 |
-| avg_match_volume_2w | 34752028 |
-| foreign_holding_room | 1727680569 |
-| current_holding_ratio | 0.22509129760176622 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 28.55 |
-| EMA20 | 27.31 |
-| EMA50 | 27.12 |
-| RSI(14) | 62.2 |
+| Giá đóng cửa | 28.0 |
+| EMA20 | 27.49 |
+| EMA50 | 27.22 |
+| RSI(14) | 56.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.309 |
-| MACD Signal | 0.101 |
-| MACD Histogram | 0.208 |
+| MACD | 0.33 |
+| MACD Signal | 0.212 |
+| MACD Histogram | 0.118 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 3089441 |
-| Room NN còn lại | 3760978268 |
-| Tỷ lệ sở hữu NN hiện tại | 0.22509129760176622 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | HPG      |              3089441 |     3760978268 |                0.225091 |
-| 2026-04-12 | HPG      |              9616340 |     3760978268 |                0.224916 |
-| 2026-04-06 | HPG      |              3385212 |     3760978268 |                0.221596 |
-| 2026-04-03 | HPG      |             10926613 |     3760978268 |                0.22114  |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HPG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774892291083 |
-| revenue | 158332317934212 |
-| revenue_growth | 0.12642825179953457 |
-| net_profit | 15453174006223 |
-| net_profit_growth | 0.2854673878566108 |
-| ebit_margin | 0.1308489055129531 |
-| roe | 0.1269059278 |
-| roic | 0.0914420498 |
-| roa | 0.0640693587 |
-| pe | 13.8080339148 |
-| pb | 1.6517750591 |
-| eps | 2013.3206632866977 |
-| current_ratio | 1.1005787213 |
-| cash_ratio | 0.0881327018 |
-| quick_ratio | 0.2478409415 |
-| interest_coverage | -6.55812691600194 |
-| ae | 1.9653953622982543 |
-| fae | 1.0181988019010926 |
-| net_profit_margin | 0.09898514335749696 |
-| gross_margin | 0.15692032421801178 |
-| ev | 213377950769000 |
-| issue_share | 7675465855 |
-| ps | 1.3667902165 |
-| pcf | 12.2872096378 |
-| bvps | 16830.3788383112 |
-| ev_per_ebitda | 10.2861129223 |
-| at | 0.6472623724 |
-| fat | 1.5531125244 |
-| acp | 17.913678146325935 |
-| dso | 137.3891950199 |
-| dpo | 63.4387577488 |
-| eps_ttm | 2013.3206632867 |
-| charter_capital | 76754658550000 |
-| rtq4 | 0.2094131366 |
-| charter_capital_ratio | 1.7096032130882954 |
-| rtq10 | 0.9653953623 |
-| dividend | 0 |
-| ebitda | 28898303373941 |
-| ebit | 20427620113785 |
-| le | 0.9118528841 |
-| de | 0.9653953623 |
-| ccc | 218.74163091502595 |
-| rtq17 | 2.6566863569 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                   |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| HPG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trần Vũ Minh | 1776099235000 | https://www.hsx.vn/vi/tin-tuc/hpg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-tran-vu-min… |
-| Hòa Phát hợp tác với TÜV SÜD kiểm định và chứng nhận chất lượng ray đường sắt                | 1775223960000 | https://www.vietnamplus.vn/hoa-phat-hop-tac-voi-tuv-sud-kiem-dinh-va-chung-nhan-chat-luong-ray-duong-sat-post1102671.vnp  |
-| HPG: Giải trình KQKD HN và Cty mẹ năm 2025 so với cùng kỳ năm trước                          | 1774887259000 | https://www.hsx.vn/vi/tin-tuc/hpg-giai-trinh-kqkd-hn-va-cty-me-nam-2025-so-voi-cung-ky-nam-truoc/2448118                  |
-| HPG: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                               | 1774880604000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026/2448034                       |
-| HPG dự kiến chia cổ tức bằng tiền và cổ phiếu                                                | 1774686720000 | https://vneconomy.vn/hpg-du-kien-chia-co-tuc-bang-tien-va-co-phieu.htm                                                    |
-| HPG: Nghị quyết HĐQT số 04 ngày 27/03/2026                                                   | 1774635124000 | https://www.hsx.vn/vi/tin-tuc/hpg-nghi-quyet-hdqt-so-04-ngay-27032026/2447644                                             |
-| HPG: Con trai ông Trần Đình Long đăng ký mua 50 triệu cổ phiếu                               | 1773157620000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-tran-vu-minh/2443… |
-| Con trai Chủ tịch HPG đăng ký mua 50 triệu cổ phiếu                                          | 1773133680000 | https://vneconomy.vn/con-trai-chu-tich-hpg-dang-ky-mua-50-trieu-co-phieu.htm                                              |
-| HPG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                  | 1772535876000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2441364          |
-| HPG: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 1772124473000 | https://www.hsx.vn/vi/tin-tuc/hpg-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2440351                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | HPG - Niêm yết bổ sung 1.279.215.655 cổ phiếu                | 2025-07-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                | 2025-06-05    | 2025-06-27    | 2025-06-26     |    0.2  |       0 |
-| Niêm yết thêm            | HPG - Niêm yết bổ sung 581,464,500 cổ phiếu                  | 2024-06-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu thưởng tỷ lệ 10%                    | 2024-05-15    | 2024-05-24    | 2024-05-23     |    0.1  |       0 |
-| Niêm yết thêm            | HPG - Niêm yết bổ sung 1,341,862,994 cổ phiếu                | 2022-07-18    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                | 2022-06-10    | 2022-06-20    | 2022-06-17     |    0.3  |       0 |
-| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu | 2022-06-10    | 2022-06-20    | 2022-06-17     |    0.05 |     500 |
-| Niêm yết thêm            | HPG - Niêm yết bổ sung 1159.640.047 cổ phiếu                 | 2021-06-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm, 2020 bằng tiền 500 VND/CP           | 2021-05-21    | 2021-06-01    | 2021-05-31     |    0.05 |     500 |
-| Phát hành cổ phiếu       | HPG - Phát hành cổ phiếu trả cổ tức tỷ lệ 35%                | 2021-05-21    | 2021-06-01    | 2021-05-31     |    0.35 |       0 |
-| Niêm yết thêm            | HPG- Niêm yết bổ sung 552.208.544 cổ phiếu                   | 2020-08-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HPG- Phát hành cổ phiếu trả cổ tức tỷ lệ 20%                 | 2020-07-21    | 2020-07-30    | 2020-07-29     |    0.2  |       0 |
-| Trả cổ tức bằng tiền mặt | HPG - Trả cổ tức Cả năm, 2019 bằng tiền 500 VND/CP           | 2020-07-21    | 2020-07-30    | 2020-07-29     |    0.05 |     500 |
-| Niêm yết thêm            | HPG - Niêm yết bổ sung 637.166.949 cổ phiếu                  | 2019-06-24    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | HPG-Phát hành cổ phiếu trả cổ tức tỷ lệ 30%                  | 2019-05-29    | 2019-06-05    | 2019-06-04     |    0.3  |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HPG      | 2026-03-18 00:00:00 |  26.9  |  27.15 | 26.65 |   26.8  | 23058500 |
-| HPG      | 2026-03-19 00:00:00 |  26.5  |  26.85 | 26.35 |   26.7  | 36837300 |
-| HPG      | 2026-03-20 00:00:00 |  26.5  |  26.55 | 25.9  |   25.9  | 60885800 |
 | HPG      | 2026-03-23 00:00:00 |  25.65 |  26.2  | 25.25 |   25.5  | 44362900 |
 | HPG      | 2026-03-24 00:00:00 |  26    |  26.3  | 25.85 |   25.95 | 27778800 |
 | HPG      | 2026-03-25 00:00:00 |  26.3  |  26.4  | 26.1  |   26.35 | 22967100 |
@@ -179,21 +59,24 @@
 | HPG      | 2026-04-10 00:00:00 |  28.6  |  28.6  | 28    |   28    | 35473400 |
 | HPG      | 2026-04-13 00:00:00 |  27.85 |  28.15 | 27.8  |   27.8  | 23005200 |
 | HPG      | 2026-04-14 00:00:00 |  28.1  |  28.8  | 27.95 |   28.55 | 61934200 |
+| HPG      | 2026-04-15 00:00:00 |  28.7  |  28.75 | 28.05 |   28.05 | 29753200 |
+| HPG      | 2026-04-16 00:00:00 |  28.05 |  28.2  | 27.75 |   27.95 | 27972100 |
+| HPG      | 2026-04-17 00:00:00 |  27.95 |  28.25 | 27.9  |   28    | 21399500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HPG      | 2026-04-14 14:29:16 |   28.55 |    10000 | Sell         | 463625095 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     6000 | Sell         | 463625104 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |      500 | Sell         | 463625097 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     1000 | Sell         | 463625099 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     1000 | Sell         | 463625100 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |      100 | Sell         | 463625101 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     1000 | Sell         | 463625102 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     1000 | Sell         | 463625103 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |     1000 | Sell         | 463625096 |
-| HPG      | 2026-04-14 14:29:16 |   28.55 |      100 | Sell         | 463625098 |
+| HPG      | 2026-04-17 14:28:27 |      28 |     1000 | Sell         | 465415051 |
+| HPG      | 2026-04-17 14:28:30 |      28 |      100 | Sell         | 465415332 |
+| HPG      | 2026-04-17 14:28:32 |      28 |     1000 | Sell         | 465415585 |
+| HPG      | 2026-04-17 14:28:32 |      28 |      200 | Sell         | 465415582 |
+| HPG      | 2026-04-17 14:28:33 |      28 |     2200 | Sell         | 465415661 |
+| HPG      | 2026-04-17 14:28:33 |      28 |      700 | Sell         | 465415660 |
+| HPG      | 2026-04-17 14:28:33 |      28 |      100 | Sell         | 465415659 |
+| HPG      | 2026-04-17 14:28:33 |      28 |      100 | Sell         | 465415637 |
+| HPG      | 2026-04-17 14:28:33 |      28 |      100 | Sell         | 465415641 |
+| HPG      | 2026-04-17 14:28:33 |      28 |      100 | Sell         | 465415640 |
 
 <!-- END:DAILY -->
 

@@ -1,171 +1,47 @@
 # AAA — AAA
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:20  |  🗂 Quarterly: 05/04/2026 19:46
+> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 05/04/2026 19:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | AAA |
-| exchange | HOSE |
-| ev | 2760136537300 |
-| ceiling | 7580 |
-| floor | 6600 |
-| ref_price | 7090 |
-| open | 7060 |
-| match_price | 7010 |
-| close_price | 7010 |
-| price_change | -80 |
-| price_change_pct | -0.0112835 |
-| high | 7060 |
-| low | 7000 |
-| total_volume | 988663 |
-| high_price_1y | 8970 |
-| low_price_1y | 6146 |
-| pct_low_change_1y | 0.1110809962 |
-| pct_high_change_1y | -0.2079096045 |
-| foreign_volume | 64925 |
-| foreign_room | 393742730 |
-| avg_match_volume_2w | 915887 |
-| foreign_holding_room | 6730920 |
-| current_holding_ratio | 0.017094715628146327 |
-| max_holding_ratio | 1 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 7.01 |
+| Giá đóng cửa | 7.03 |
 | EMA20 | 7.06 |
-| EMA50 | 7.32 |
-| RSI(14) | 44.8 |
+| EMA50 | 7.28 |
+| RSI(14) | 45.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.094 |
-| MACD Signal | -0.136 |
-| MACD Histogram | 0.042 |
+| MACD | -0.059 |
+| MACD Signal | -0.095 |
+| MACD Histogram | 0.035 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 64925 |
-| Room NN còn lại | 393742730 |
-| Tỷ lệ sở hữu NN hiện tại | 0.017094715628146327 |
-| Tỷ lệ sở hữu NN tối đa | 1 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | AAA      |                64925 |      393742730 |               0.0170947 |
-| 2026-04-13 | AAA      |                63000 |      393742730 |               0.0170947 |
-| 2026-04-12 | AAA      |                63000 |      393742730 |               0.0170947 |
-| 2026-04-10 | AAA      |               192600 |      393742730 |               0.0170795 |
-| 2026-04-09 | AAA      |               168264 |      393742730 |               0.0165974 |
-| 2026-04-06 | AAA      |                78800 |      393742730 |               0.0167457 |
-| 2026-04-03 | AAA      |               113600 |      393742730 |               0.0167088 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | AAA |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774881433167 |
-| revenue | 10733779474757 |
-| revenue_growth | -0.16061775356397037 |
-| net_profit | 372912597362 |
-| net_profit_growth | 0.011753452021787989 |
-| ebit_margin | 0.05332834595949135 |
-| roe | 0.069043546 |
-| roic | 0.0627987422 |
-| roa | 0.0279756272 |
-| pe | 7.4015642186 |
-| pb | 0.5047406916 |
-| eps | 947.0970990677085 |
-| current_ratio | 1.3820509558 |
-| cash_ratio | 0.4932489661 |
-| quick_ratio | 0.9520171239 |
-| interest_coverage | -4.274822173220977 |
-| ae | 2.120598163063454 |
-| fae | 0.4575933573967165 |
-| net_profit_margin | 0.034760204481569586 |
-| gross_margin | 0.1391510931543113 |
-| ev | 2760136537300 |
-| issue_share | 393742730 |
-| ps | 0.2572798857 |
-| pcf | 2.8227977767 |
-| bvps | 13888.3195211427 |
-| ev_per_ebitda | 3.875772321 |
-| at | 0.8048176824 |
-| fat | 3.6872275003 |
-| acp | 32.47404036054569 |
-| dso | 44.1185092965 |
-| dpo | 28.8717840593 |
-| eps_ttm | 947.0970990677 |
-| charter_capital | 3937427300000 |
-| rtq4 | 0.1858588166 |
-| charter_capital_ratio | 1.5439600268335114 |
-| rtq10 | 1.1205981631 |
-| dividend | 0 |
-| ebitda | 1076803126223 |
-| ebit | 572114356097 |
-| le | 0.6844504365 |
-| de | 1.1205981631 |
-| ccc | 105.46433371634569 |
-| rtq17 | 8.273171642 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                  |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| AAA: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026             | 1775212744000 | https://www.hsx.vn/vi/tin-tuc/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026/2450126       |
-| AAA: Giải trình chênh lệch LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước                | 1774887134000 | https://www.hsx.vn/vi/tin-tuc/aaa-giai-trinh-chenh-lech-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc/2448116         |
-| AAA: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                 | 1772808392000 | https://www.hsx.vn/vi/tin-tuc/aaa-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2442344          |
-| AAA: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026         | 1772458865000 | https://www.hsx.vn/vi/tin-tuc/aaa-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026/2440894  |
-| AAA: Báo cáo tình hình quản trị công ty năm 2025                                            | 1769779190000 | https://www.hsx.vn/vi/tin-tuc/aaa-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435137                                     |
-| AAA: Giải trình chênh lệch LNST BCTC riêng quý 4/2025 so với cùng kỳ năm trước              | 1769598932000 | https://www.hsx.vn/vi/tin-tuc/aaa-giai-trinh-chenh-lech-lnst-bctc-rieng-quy-42025-so-voi-cung-ky-nam-truoc/2434266        |
-| AAA: Nghị quyết HĐQT về việc thông qua giao dịch với bên liên quan phát sinh trong năm 2026 | 1767974135000 | https://www.hsx.vn/vi/tin-tuc/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-lien-quan-phat-sinh-trong-nam-2026… |
-| AAA: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                      | 1758901920000 | https://www.hsx.vn/vi/tin-tuc/aaa-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet/2406560               |
-| AAA: Link công bố Báo cáo phát triển bền vững năm 2024                                      | 1758559361000 | https://www.hsx.vn/vi/tin-tuc/aaa-link-cong-bo-bao-cao-phat-trien-ben-vung-nam-2024/2405483                               |
-| AAA: Quyết định về việc thay đổi đăng ký niêm yết                                           | 1758304620000 | https://www.hsx.vn/vi/tin-tuc/aaa-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2405294                                    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 11.468.234 cổ phiếu                   | 2025-09-26    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | AAA - Trả cổ tức Cả năm năm 2024 bằng tiền 300 đồng/cổ phiếu | 2025-05-21    | 2025-06-02    | 2025-05-30     |    0.03 |     300 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 55,840,000 cổ phiếu                   | 2022-07-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 29.674.522 cổ phiếu                   | 2021-10-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 74.999.642 cổ phiếu                   | 2021-06-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 358 cổ phiếu                          | 2021-06-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 10.559.998 cổ phiếu                   | 2020-11-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | AAA- Phát hành cổ phiếu trả cổ tức tỷ lệ 5%                  | 2020-10-12    | 2020-10-20    | 2020-10-19     |    0.05 |       0 |
-| Trả cổ tức bằng tiền mặt | AAA - Trả cổ tức Đợt 2, 2019 bằng tiền 500 VND/CP            | 2020-09-07    | 2020-09-15    | 2020-09-14     |    0.05 |     500 |
-| Niêm yết thêm            | AAA- Niêm yết bổ sung 40.000.000 cổ phiếu                    | 2020-08-05    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | AAA - Trả cổ tức Đợt 1, 2019 bằng tiền 500 VND/CP            | 2019-07-26    | 2019-08-15    | 2019-08-14     |    0.05 |     500 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 4.000.000 cổ phiếu                    | 2018-10-10    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 83.599.988 cổ phiếu                   | 2018-06-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | AAA - Niêm yết bổ sung 83.599.988 cổ phiếu                   | 2018-06-07    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | AAA-Phát hành cổ phiếu cho CĐHH tỷ lệ 1:1                    | 2018-03-30    | 2018-04-10    | 2018-04-09     |    1    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| AAA      | 2026-03-17 00:00:00 |   7.25 |   7.32 |  7.14 |    7.19 |  1031800 |
-| AAA      | 2026-03-18 00:00:00 |   7.2  |   7.21 |  7.1  |    7.11 |   828400 |
-| AAA      | 2026-03-19 00:00:00 |   7.1  |   7.1  |  6.97 |    7    |  2082700 |
-| AAA      | 2026-03-20 00:00:00 |   7    |   7.02 |  6.95 |    6.95 |   617400 |
 | AAA      | 2026-03-23 00:00:00 |   6.95 |   6.95 |  6.65 |    6.69 |  1528300 |
 | AAA      | 2026-03-24 00:00:00 |   6.9  |   6.9  |  6.74 |    6.74 |  1058200 |
 | AAA      | 2026-03-25 00:00:00 |   6.81 |   6.94 |  6.81 |    6.94 |   628800 |
@@ -182,10 +58,25 @@
 | AAA      | 2026-04-09 00:00:00 |   7.09 |   7.15 |  7.04 |    7.11 |  1961000 |
 | AAA      | 2026-04-10 00:00:00 |   7.11 |   7.17 |  7.07 |    7.09 |   879500 |
 | AAA      | 2026-04-13 00:00:00 |   7.06 |   7.06 |  7    |    7.01 |   987200 |
+| AAA      | 2026-04-14 00:00:00 |   7.08 |   7.15 |  7.04 |    7.1  |   912700 |
+| AAA      | 2026-04-15 00:00:00 |   7.11 |   7.24 |  7.1  |    7.12 |  1423300 |
+| AAA      | 2026-04-16 00:00:00 |   7.12 |   7.13 |  7.02 |    7.04 |   663700 |
+| AAA      | 2026-04-17 00:00:00 |   7.1  |   7.11 |  7    |    7.03 |   630300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| AAA      | 2026-04-17 13:38:00 |    7.11 |      300 | Buy          | 465265498 |
+| AAA      | 2026-04-17 13:39:54 |    7.09 |     2000 | Sell         | 465269280 |
+| AAA      | 2026-04-17 13:40:16 |    7.1  |      300 | Buy          | 465270191 |
+| AAA      | 2026-04-17 13:40:40 |    7.09 |     9900 | Sell         | 465271206 |
+| AAA      | 2026-04-17 13:40:40 |    7.09 |      100 | Sell         | 465271208 |
+| AAA      | 2026-04-17 13:40:58 |    7.09 |      300 | Sell         | 465272677 |
+| AAA      | 2026-04-17 13:40:58 |    7.09 |      100 | Sell         | 465272678 |
+| AAA      | 2026-04-17 13:40:58 |    7.09 |      100 | Sell         | 465272679 |
+| AAA      | 2026-04-17 13:41:48 |    7.09 |      500 | Buy          | 465274572 |
+| AAA      | 2026-04-17 13:42:07 |    7.09 |      100 | Buy          | 465275598 |
 
 <!-- END:DAILY -->
 

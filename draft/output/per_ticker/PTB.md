@@ -1,166 +1,47 @@
 # PTB — PTB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:46  |  🗂 Quarterly: 05/04/2026 20:00
+> 📅 Daily: 19/04/2026 15:36  |  🗂 Quarterly: 05/04/2026 20:00
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PTB |
-| exchange | HOSE |
-| ev | 3988190070600 |
-| ceiling | 53100 |
-| floor | 46200 |
-| ref_price | 49650 |
-| open | 49550 |
-| match_price | 49650 |
-| close_price | 49650 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 49900 |
-| low | 48850 |
-| total_volume | 50843 |
-| high_price_1y | 58000 |
-| low_price_1y | 40046 |
-| pct_low_change_1y | 0.2144914143 |
-| pct_high_change_1y | -0.1424870466 |
-| foreign_volume | 12740 |
-| foreign_room | 20081521 |
-| avg_match_volume_2w | 133807 |
-| foreign_holding_room | 12618579 |
-| current_holding_ratio | 0.15709192296738878 |
-| max_holding_ratio | 0.25 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 49.75 |
-| EMA20 | 49.43 |
-| EMA50 | 50.05 |
-| RSI(14) | 50.1 |
+| Giá đóng cửa | 49.7 |
+| EMA20 | 49.5 |
+| EMA50 | 50.01 |
+| RSI(14) | 49.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.509 |
-| MACD Signal | -0.802 |
-| MACD Histogram | 0.294 |
+| MACD | -0.307 |
+| MACD Signal | -0.582 |
+| MACD Histogram | 0.275 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 12740 |
-| Room NN còn lại | 20081521 |
-| Tỷ lệ sở hữu NN hiện tại | 0.15709192296738878 |
-| Tỷ lệ sở hữu NN tối đa | 0.25 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | PTB      |                12740 |       20081521 |                0.157092 |
-| 2026-04-06 | PTB      |                12564 |       20081521 |                0.151752 |
-| 2026-04-03 | PTB      |                20240 |       20081521 |                0.151735 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PTB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773825446350 |
-| revenue | 7300100193665 |
-| revenue_growth | 0.12885612491741164 |
-| net_profit | 497279636654 |
-| net_profit_growth | 0.3488492818151306 |
-| ebit_margin | 0.0892700299356816 |
-| roe | 0.1627606043 |
-| roic | 0.1233303487 |
-| roa | 0.0837019757 |
-| pe | 6.6833456751 |
-| pb | 1.0362374655 |
-| eps | 7428.913962198949 |
-| current_ratio | 1.5324515348 |
-| cash_ratio | 0.2619023004 |
-| quick_ratio | 0.7425658793 |
-| interest_coverage | -8.39633494755143 |
-| ae | 1.9092760307490895 |
-| fae | 0.5118840326810913 |
-| net_profit_margin | 0.06812505302273672 |
-| gross_margin | 0.20543750049747156 |
-| ev | 3323491708950 |
-| issue_share | 80326084 |
-| ps | 0.4553032785 |
-| pcf | 7.4564598281 |
-| bvps | 47913.7279391473 |
-| ev_per_ebitda | 5.0800666108 |
-| at | 1.2286518983 |
-| fat | 4.4610694667 |
-| acp | 45.450164899731874 |
-| dso | 101.940949011 |
-| dpo | 33.685396317 |
-| eps_ttm | 7428.9139621989 |
-| charter_capital | 803260840000 |
-| rtq4 | 0.1072357268 |
-| charter_capital_ratio | 4.168505888189445 |
-| rtq10 | 0.9092760307 |
-| dividend | 0 |
-| ebitda | 906169474300 |
-| ebit | 651627647698 |
-| le | 0.6851831508 |
-| de | 0.9092760307 |
-| ccc | 181.07651022773186 |
-| rtq17 | 3.5805042384 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                        |   public_date | news_source_link                                                                                                          |
-|:----------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| PTB: Đính chính báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lê Anh Văn    | 1775559587000 | https://www.hsx.vn/vi/tin-tuc/ptb-dinh-chinh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van/2451063       |
-| PTB: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán năm 2025 (đã kiểm toán) | 1775469699000 | https://www.hsx.vn/vi/tin-tuc/ptb-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-nam-2025-da-kiem-toan/2450580      |
-| PTB: Báo cáo thường niên năm 2025                                                 | 1775469632000 | https://www.hsx.vn/vi/tin-tuc/ptb-bao-cao-thuong-nien-nam-2025/2450596                                                    |
-| PTB: Cập nhật chương trình và tài liệu ĐHĐCĐ thường niên 2026                     | 1775468013000 | https://www.hsx.vn/vi/tin-tuc/ptb-cap-nhat-chuong-trinh-va-tai-lieu-dhdcd-thuong-nien-2026/2450521                        |
-| PTB: Quyết định của HĐQT về việc giải thể chi nhánh                               | 1774432240000 | https://www.hsx.vn/vi/tin-tuc/ptb-quyet-dinh-cua-hdqt-ve-viec-giai-the-chi-nhanh/2446497                                  |
-| PTB: Quyết định của HĐQT về việc giải thể chi nhánh HCM                           | 1774432200000 | https://www.hsx.vn/vi/tin-tuc/ptb-quyet-dinh-cua-hdqt-ve-viec-giai-the-chi-nhanh-hcm/2446497                              |
-| PTB: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết        | 1774431960000 | https://www.hsx.vn/vi/tin-tuc/ptb-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet/2446493           |
-| PTB: Em gái Phó Tổng giám đốc đăng ký mua 100.000 cổ phiếu                        | 1774275360000 | https://www.hsx.vn/vi/tin-tuc/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-le-thuc-trinh/244… |
-| PTB: Quyết định về việc thay đổi đăng ký niêm yết                                 | 1773997500000 | https://www.hsx.vn/vi/tin-tuc/ptb-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet/2445485                                    |
-| Phú Tài (PTB) sắp góp bổ sung thêm 165,5 tỷ đồng vào hai công ty con              | 1773959460000 | https://www.tinnhanhchungkhoan.vn/phu-tai-ptb-sap-gop-bo-sung-them-1655-ty-dong-vao-hai-cong-ty-con-post387080.html       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-----------------------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | PTB - Niêm yết bổ sung 13.387.681 cổ phiếu                                   | 2026-03-25    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | PTB - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 5 : 1 giá 12.000 đồng/cp | 2025-12-09    | 2025-12-15    | 2025-12-12     |  0.2    |       0 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 2 năm 2024 bằng tiền 1500 đồng/cổ phiếu                 | 2025-06-06    | 2025-06-30    | 2025-06-27     |  0.15   |    1500 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1000 đồng/cổ phiếu                 | 2024-12-12    | 2025-01-03    | 2025-01-02     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 2 năm 2023 bằng tiền 1000 đồng/cổ phiếu                 | 2024-07-02    | 2024-07-15    | 2024-07-12     |  0.1    |    1000 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 1 năm 2023 bằng tiền 1500 đồng/cổ phiếu                 | 2023-12-20    | 2024-01-04    | 2024-01-03     |  0.15   |    1500 |
-| Niêm yết thêm            | PTB - Giảm niêm yết 1,100,000 cổ phiếu                                       | 2023-09-06    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 2 năm 2022 bằng tiền 2000 đồng/cổ phiếu                 | 2023-05-12    | 2023-05-25    | 2023-05-24     |  0.2    |    2000 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1000 đồng/cổ phiếu                 | 2022-12-09    | 2022-12-23    | 2022-12-22     |  0.1    |    1000 |
-| Niêm yết thêm            | PTB - Niêm yết bổ sung 19,438,962 cổ phiếu                                   | 2022-07-01    | 1753-01-01    | 1753-01-01     |  0      |       0 |
-| Phát hành cổ phiếu       | PTB - Phát hành cổ phiếu trả cổ tức tỷ lệ 40%                                | 2022-05-13    | 2022-05-27    | 2022-05-26     |  0.4    |       0 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu                 | 2022-05-13    | 2022-05-27    | 2022-05-26     |  0.05   |     500 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Cả năm, 2020 bằng tiền 2000 VND/CP                          | 2021-06-02    | 2021-06-10    | 2021-06-09     |  0.2    |    2000 |
-| Phát hành cổ phiếu       | PTB - Chia cổ phiếu thưởng từ nguồn cổ phiếu quỹ tỷ lệ 5,51%                 | 2021-06-02    | 2021-06-10    | 2021-06-09     |  0.0551 |       0 |
-| Trả cổ tức bằng tiền mặt | PTB - Trả cổ tức Đợt 2, 2019 bằng tiền 2000 VND/CP                           | 2020-06-30    | 2020-07-14    | 2020-07-13     |  0.2    |    2000 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PTB      | 2026-03-18 00:00:00 |  51.9  |  52    | 50.8  |   51.2  |    38600 |
-| PTB      | 2026-03-19 00:00:00 |  51.3  |  51.3  | 50.2  |   50.5  |    50100 |
-| PTB      | 2026-03-20 00:00:00 |  50.5  |  50.5  | 47.9  |   48.7  |   270000 |
 | PTB      | 2026-03-23 00:00:00 |  48.1  |  48.1  | 45.7  |   46.9  |   355300 |
 | PTB      | 2026-03-24 00:00:00 |  49.4  |  49.4  | 46.8  |   47.3  |   128400 |
 | PTB      | 2026-03-25 00:00:00 |  47.5  |  48.7  | 47.5  |   48.25 |    96800 |
@@ -178,21 +59,24 @@
 | PTB      | 2026-04-10 00:00:00 |  49.55 |  49.65 | 49    |   49.65 |   219500 |
 | PTB      | 2026-04-13 00:00:00 |  49.55 |  49.9  | 48.85 |   49.65 |    50200 |
 | PTB      | 2026-04-14 00:00:00 |  49.55 |  49.8  | 49    |   49.75 |    80000 |
+| PTB      | 2026-04-15 00:00:00 |  49.8  |  50.9  | 49.55 |   50    |   113300 |
+| PTB      | 2026-04-16 00:00:00 |  50    |  50    | 49.4  |   49.45 |    35300 |
+| PTB      | 2026-04-17 00:00:00 |  49.8  |  49.95 | 49.35 |   49.7  |   184600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PTB      | 2026-04-14 09:49:50 |   49.4  |      100 | Sell         | 463136002 |
-| PTB      | 2026-04-14 09:50:02 |   49.35 |      100 | Sell         | 463136405 |
-| PTB      | 2026-04-14 09:50:26 |   49.3  |      100 | Sell         | 463137318 |
-| PTB      | 2026-04-14 09:50:26 |   49.3  |      100 | Sell         | 463137317 |
-| PTB      | 2026-04-14 10:03:48 |   49.3  |      300 | Sell         | 463164162 |
-| PTB      | 2026-04-14 10:03:51 |   49.25 |      200 | Sell         | 463164230 |
-| PTB      | 2026-04-14 10:11:04 |   49.3  |      100 | Sell         | 463180651 |
-| PTB      | 2026-04-14 10:11:45 |   49.3  |      100 | Buy          | 463181871 |
-| PTB      | 2026-04-14 10:13:09 |   49.25 |      800 | Sell         | 463184274 |
-| PTB      | 2026-04-14 10:13:09 |   49.25 |      200 | Sell         | 463184275 |
+| PTB      | 2026-04-17 13:07:47 |   49.85 |      500 | Sell         | 465193120 |
+| PTB      | 2026-04-17 13:07:47 |   49.85 |      100 | Sell         | 465193121 |
+| PTB      | 2026-04-17 13:07:48 |   49.85 |      400 | Buy          | 465193145 |
+| PTB      | 2026-04-17 13:08:24 |   49.85 |      800 | Buy          | 465194242 |
+| PTB      | 2026-04-17 13:08:25 |   49.85 |      200 | Buy          | 465194271 |
+| PTB      | 2026-04-17 13:09:27 |   49.9  |      100 | Buy          | 465196448 |
+| PTB      | 2026-04-17 13:09:27 |   49.9  |      500 | Buy          | 465196447 |
+| PTB      | 2026-04-17 13:09:27 |   49.9  |      100 | Buy          | 465196449 |
+| PTB      | 2026-04-17 13:09:27 |   49.9  |      100 | Buy          | 465196445 |
+| PTB      | 2026-04-17 13:09:27 |   49.9  |      300 | Buy          | 465196444 |
 
 <!-- END:DAILY -->
 

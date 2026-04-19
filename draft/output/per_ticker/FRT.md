@@ -1,170 +1,47 @@
 # FRT — FRT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:26  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FRT |
-| exchange | HOSE |
-| ev | 25374965965000 |
-| ceiling | 162600 |
-| floor | 141400 |
-| ref_price | 152000 |
-| open | 151500 |
-| match_price | 149000 |
-| close_price | 149000 |
-| price_change | -3000 |
-| price_change_pct | -0.01973684 |
-| high | 151600 |
-| low | 149000 |
-| total_volume | 184506 |
-| high_price_1y | 181000 |
-| low_price_1y | 112800 |
-| pct_low_change_1y | 0.3024475524 |
-| pct_high_change_1y | -0.150997151 |
-| foreign_volume | 117660 |
-| foreign_room | 83447874 |
-| avg_match_volume_2w | 324270 |
-| foreign_holding_room | 55487729 |
-| current_holding_ratio | 0.3258200082870535 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 149.0 |
-| EMA20 | 153.3 |
-| EMA50 | 154.81 |
-| RSI(14) | 43.0 |
+| Giá đóng cửa | 152.1 |
+| EMA20 | 152.61 |
+| EMA50 | 154.27 |
+| RSI(14) | 47.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.777 |
-| MACD Signal | -1.452 |
-| MACD Histogram | -0.325 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 117660 |
-| Room NN còn lại | 83447874 |
-| Tỷ lệ sở hữu NN hiện tại | 0.3258200082870535 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | FRT      |               117660 |       83447874 |                0.32582  |
-| 2026-04-13 | FRT      |               320940 |       83447874 |                0.326539 |
-| 2026-04-12 | FRT      |               320940 |       83447874 |                0.326539 |
-| 2026-04-10 | FRT      |               170307 |       83447874 |                0.3279   |
-| 2026-04-06 | FRT      |               142800 |       83447874 |                0.329708 |
-| 2026-04-03 | FRT      |               232837 |       83447874 |                0.329323 |
+| MACD | -1.498 |
+| MACD Signal | -1.562 |
+| MACD Histogram | 0.064 |
+| MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FRT |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774603829407 |
-| revenue | 51232049640567 |
-| revenue_growth | 0 |
-| net_profit | 794864943551 |
-| net_profit_growth | 0 |
-| ebit_margin | 0.025718085774831954 |
-| roe | 0.2613281394 |
-| roic | 0.0864847631 |
-| roa | 0.0401987121 |
-| pe | 31.9236194411 |
-| pb | 6.0829929339 |
-| eps | 4667.390559359082 |
-| current_ratio | 1.1729565984 |
-| cash_ratio | 0.1545051404 |
-| quick_ratio | 0.1937460001 |
-| interest_coverage | -3.380770400980934 |
-| ae | 4.61449892129375 |
-| fae | 0.3063429045994682 |
-| net_profit_margin | 0.015560303635071446 |
-| gross_margin | 0.19595032077941607 |
-| ev | 25374965965000 |
-| issue_share | 170301785 |
-| ps | 0.4967412116 |
-| pcf | 9.2362394769 |
-| bvps | 24494.5213022987 |
-| ev_per_ebitda | 18.9689569719 |
-| at | 2.5834143745 |
-| fat | 33.8263467467 |
-| acp | 1.4620685594454663 |
-| dso | 99.103498106 |
-| dpo | 40.871185829 |
-| eps_ttm | 4667.3905593591 |
-| charter_capital | 1703017850000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 3.0176258535593155 |
-| rtq10 | 3.6144989213 |
-| dividend | 0 |
-| ebitda | 1716310610511 |
-| ebit | 1313753592287 |
-| le | 1.9558999118 |
-| de | 3.6144989213 |
-| ccc | 141.43675249444547 |
-| rtq17 | 3.6830183291 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                     |   public_date | news_source_link                                                                                                          |
-|:-----------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| FRT: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                                  | 1775154733000 | https://www.hsx.vn/vi/tin-tuc/frt-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq/2449975                        |
-| FRT: Giải trình biến động LNST BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 1774544685000 | https://www.hsx.vn/vi/tin-tuc/frt-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-tr… |
-| FPT Retail (FRT) lên kế hoạch doanh thu 59.500 tỷ đồng trong năm 2026                          | 1774361580000 | https://www.tinnhanhchungkhoan.vn/fpt-retail-frt-len-ke-hoach-doanh-thu-59500-ty-dong-trong-nam-2026-post387327.html      |
-| FRT: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 1774342425000 | https://www.hsx.vn/vi/tin-tuc/frt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2446147                                         |
-| FRT: Thông báo thay đổi nhân sự                                                                | 1772471350000 | https://www.hsx.vn/vi/tin-tuc/frt-thong-bao-thay-doi-nhan-su/2441181                                                      |
-| FPT Retail (FRT) bổ nhiệm một Phó tổng giám đốc                                                | 1772467260000 | https://www.tinnhanhchungkhoan.vn/fpt-retail-frt-bo-nhiem-mot-pho-tong-giam-doc-post386040.html                           |
-| FRT: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                    | 1770830148000 | https://www.hsx.vn/vi/tin-tuc/frt-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026/2438562          |
-| FPT Retail (FRT) lên kế hoạch doanh thu 59.500 tỷ đồng trong năm 2026                          | 1770448080000 | https://www.tinnhanhchungkhoan.vn/fpt-retail-frt-len-ke-hoach-doanh-thu-59500-ty-dong-trong-nam-2026-post384980.html      |
-| FRT: Nghị quyết HĐQT số 01 ngày 06/02/2026                                                     | 1770403551000 | https://www.hsx.vn/vi/tin-tuc/frt-nghi-quyet-hdqt-so-01-ngay-06022026/2437680                                             |
-| FRT: Giải trình biến động LNST BCTC hợp nhất và riêng quý 4/2025 so với cùng kỳ năm trước      | 1769765684000 | https://www.hsx.vn/vi/tin-tuc/frt-giai-trinh-bien-dong-lnst-bctc-hop-nhat-va-rieng-quy-42025-so-voi-cung-ky-nam-truoc/24… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 34.059.396 cổ phiếu                   | 2025-08-20    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FRT - Phát hành cổ phiếu trả cổ tức tỷ lệ 25%                | 2025-07-08    | 2025-07-17    | 2025-07-16     |    0.25 |       0 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 17,769,854 cổ phiếu                   | 2023-06-29    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FRT - Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                | 2023-05-25    | 2023-06-07    | 2023-06-06     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | FRT - Trả cổ tức Cả năm năm 2022 bằng tiền 500 đồng/cổ phiếu | 2023-05-25    | 2023-06-07    | 2023-06-06     |    0.05 |     500 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 39,490,743 cổ phiếu                   | 2022-07-04    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Trả cổ tức bằng tiền mặt | FRT - Trả cổ tức Cả năm năm 2021 bằng tiền 500 đồng/cổ phiếu | 2022-05-26    | 2022-06-08    | 2022-06-07     |    0.05 |     500 |
-| Phát hành cổ phiếu       | FRT - Phát hành cổ phiếu trả cổ tức tỷ lệ 50%                | 2022-05-26    | 2022-06-08    | 2022-06-07     |    0.5  |       0 |
-| Trả cổ tức bằng tiền mặt | FRT - Trả cổ tức Cả năm, 2019 bằng tiền 1000 VND/CP          | 2020-08-17    | 2020-08-28    | 2020-08-27     |    0.1  |    1000 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 10.301.792 cổ phiếu                   | 2019-08-22    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Phát hành cổ phiếu       | FRT-Phát hành cổ phiếu trả cổ tức tỷ lệ 15%                  | 2019-07-19    | 2019-08-01    | 2019-07-31     |    0.15 |       0 |
-| Trả cổ tức bằng tiền mặt | FRT - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP          | 2019-06-04    | 2019-06-17    | 2019-06-14     |    0.1  |    1000 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 680.000 cổ phiếu                      | 2019-05-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 680.000 cổ phiếu                      | 2019-05-21    | 1753-01-01    | 1753-01-01     |    0    |       0 |
-| Niêm yết thêm            | FRT - Niêm yết bổ sung 28.000.000  cổ phiếu                  | 2018-06-13    | 1753-01-01    | 1753-01-01     |    0    |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FRT      | 2026-03-17 00:00:00 |  151   |  154.9 | 150.5 |   152.2 |   386300 |
-| FRT      | 2026-03-18 00:00:00 |  154.2 |  154.2 | 149.7 |   149.7 |   186500 |
-| FRT      | 2026-03-19 00:00:00 |  149   |  149.6 | 147.5 |   149   |   244500 |
-| FRT      | 2026-03-20 00:00:00 |  149   |  150   | 148   |   148.6 |   157600 |
 | FRT      | 2026-03-23 00:00:00 |  145   |  150   | 144   |   150   |   439100 |
 | FRT      | 2026-03-24 00:00:00 |  150   |  158   | 150   |   158   |   377600 |
 | FRT      | 2026-03-25 00:00:00 |  158   |  158.6 | 155.3 |   158.6 |   377300 |
@@ -181,10 +58,25 @@
 | FRT      | 2026-04-09 00:00:00 |  152   |  153   | 150   |   150   |   223900 |
 | FRT      | 2026-04-10 00:00:00 |  151   |  152.4 | 149.1 |   152   |   412200 |
 | FRT      | 2026-04-13 00:00:00 |  151.5 |  151.6 | 149   |   149   |   183800 |
+| FRT      | 2026-04-14 00:00:00 |  150.8 |  151.5 | 150   |   150.5 |    78500 |
+| FRT      | 2026-04-15 00:00:00 |  152   |  152   | 148.7 |   151   |   271900 |
+| FRT      | 2026-04-16 00:00:00 |  150   |  151.5 | 149   |   151   |   330700 |
+| FRT      | 2026-04-17 00:00:00 |  150.8 |  156.7 | 150.8 |   152.1 |   814200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      100 | Buy          | 465369221 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      300 | Buy          | 465369225 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      100 | Buy          | 465369227 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      200 | Buy          | 465369223 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      200 | Buy          | 465369226 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      200 | Buy          | 465369222 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      300 | Buy          | 465369224 |
+| FRT      | 2026-04-17 14:16:58 |   151.8 |      200 | Buy          | 465369229 |
+| FRT      | 2026-04-17 14:16:58 |   151.9 |      100 | Buy          | 465369230 |
+| FRT      | 2026-04-17 14:16:58 |   151.9 |      200 | Buy          | 465369231 |
 
 <!-- END:DAILY -->
 

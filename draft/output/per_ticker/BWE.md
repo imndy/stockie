@@ -1,170 +1,47 @@
 # BWE — BWE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 19/04/2026 15:28  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BWE |
-| exchange | HOSE |
-| ev | 9500917420800 |
-| ceiling | 46200 |
-| floor | 40200 |
-| ref_price | 43200 |
-| open | 43150 |
-| match_price | 43200 |
-| close_price | 43200 |
-| price_change | 0 |
-| price_change_pct | 0 |
-| high | 43250 |
-| low | 42850 |
-| total_volume | 4534284 |
-| high_price_1y | 52774 |
-| low_price_1y | 40820 |
-| pct_low_change_1y | 0.0583099378 |
-| pct_high_change_1y | -0.1581625495 |
-| foreign_volume | 13700 |
-| foreign_room | 107765035 |
-| avg_match_volume_2w | 204360 |
-| foreign_holding_room | 7827204 |
-| current_holding_ratio | 0.035589743371490984 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 43.2 |
-| EMA20 | 43.04 |
+| Giá đóng cửa | 43.6 |
+| EMA20 | 43.19 |
 | EMA50 | 43.47 |
-| RSI(14) | 50.9 |
+| RSI(14) | 54.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.099 |
-| MACD Signal | -0.204 |
-| MACD Histogram | 0.105 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.029 |
+| MACD Signal | -0.083 |
+| MACD Histogram | 0.112 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 13700 |
-| Room NN còn lại | 107765035 |
-| Tỷ lệ sở hữu NN hiện tại | 0.035589743371490984 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | BWE      |                13700 |      107765035 |               0.0355897 |
-| 2026-04-13 | BWE      |                11300 |      107765035 |               0.0355738 |
-| 2026-04-12 | BWE      |                11300 |      107765035 |               0.0355738 |
-| 2026-04-10 | BWE      |                30300 |      107765035 |               0.0366151 |
-| 2026-04-06 | BWE      |                10618 |      107765035 |               0.0369183 |
-| 2026-04-03 | BWE      |                45100 |      107765035 |               0.0369104 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BWE |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772443523270 |
-| revenue | 4542868049098 |
-| revenue_growth | 0.14747929959025427 |
-| net_profit | 991038667809 |
-| net_profit_growth | 0.5510941523834487 |
-| ebit_margin | 0.27798468815239796 |
-| roe | 0.1751870586 |
-| roic | 0.0945279144 |
-| roa | 0.0675375533 |
-| pe | 10.8267015562 |
-| pb | 1.589349167 |
-| eps | 4506.182777214777 |
-| current_ratio | 1.2765604105 |
-| cash_ratio | 0.3571298887 |
-| quick_ratio | 0.8253159103 |
-| interest_coverage | -3.244060012989551 |
-| ae | 2.4085841027464703 |
-| fae | 0.7519955543436262 |
-| net_profit_margin | 0.2181526421410751 |
-| gross_margin | 0.4309337547586711 |
-| ev | 9500917420800 |
-| issue_share | 219928644 |
-| ps | 2.0913918956 |
-| pcf | 8.7294740195 |
-| bvps | 27180.937264402 |
-| ev_per_ebitda | 8.1556863442 |
-| at | 0.3095885184 |
-| fat | 0.937730696 |
-| acp | 45.22191333140611 |
-| dso | 147.2453343794 |
-| dpo | 53.61701543 |
-| eps_ttm | 3990.1349248077 |
-| charter_capital | 2199286440000 |
-| rtq4 | 0.8055141369 |
-| charter_capital_ratio | 2.8596904140381096 |
-| rtq10 | 1.4085841027 |
-| dividend | 0.0300925926 |
-| ebitda | 1901694763849 |
-| ebit | 1262847757946 |
-| le | 1.9296882185 |
-| de | 1.4085841027 |
-| ccc | 246.08426314080612 |
-| rtq17 | 2.4788561318 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                 |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                      | 1775579339000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-duong-dan-dang-tai-dieu-le-cong-ty-sua-doi-lan-thu-9/2451189                  |
-| BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)                | 1775140637000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-thay-doi-nhan-su-dinh-chinh-ban-cbtt-so-06-ngay-28032026/2449778              |
-| BWE: Thông báo thay đổi nhân sự                                                            | 1774880555000 | https://www.hsx.vn/vi/tin-tuc/bwe-thong-bao-thay-doi-nhan-su/2448033                                                      |
-| BWE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                     | 1774862185000 | https://www.hsx.vn/vi/tin-tuc/bwe-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026/2447753                               |
-| BIWASE (BWE) lên kế hoạch lãi tối thiểu 770 tỷ đồng và sẽ chào bán hơn 31,4 triệu cổ phiếu | 1774621800000 | https://www.tinnhanhchungkhoan.vn/biwase-bwe-len-ke-hoach-lai-toi-thieu-770-ty-dong-va-se-chao-ban-hon-314-trieu-co-phie… |
-| BWE: Tài liệu họp ĐHĐCĐ thường niên 2026                                                   | 1774603680000 | https://www.hsx.vn/vi/tin-tuc/bwe-tai-lieu-hop-dhdcd-thuong-nien-2026/2447252                                             |
-| BWE: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (chỉnh sửa lần thứ 1)                         | 1774368628000 | https://www.hsx.vn/vi/tin-tuc/bwe-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-chinh-sua-lan-thu-1/2446290                     |
-| BWE: Đường dẫn đăng tải Báo cáo thường niên năm 2025                                       | 1773766035000 | https://www.hsx.vn/vi/tin-tuc/bwe-duong-dan-dang-tai-bao-cao-thuong-nien-nam-2025/2444830                                 |
-| BWE: Đường dẫn đăng tải Báo cáo phát triển bền vững năm 2025                               | 1773765990000 | https://www.hsx.vn/vi/tin-tuc/bwe-duong-dan-dang-tai-bao-cao-phat-trien-ben-vung-nam-2025/2444829                         |
-| BWE: Báo cáo danh sách ứng viên tham gia Ban kiểm soát nhiệm kỳ II (2022-2027)             | 1773765900000 | https://www.hsx.vn/vi/tin-tuc/bwe-bao-cao-danh-sach-ung-vien-tham-gia-ban-kiem-soat-nhiem-ky-ii-20222027/2444826          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                                  | public_date   | record_date   | exright_date   |   ratio |   value |
-|:-------------------------|:-------------------------------------------------------------|:--------------|:--------------|:---------------|--------:|--------:|
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1 năm 2025 bằng tiền 1300 đồng/cổ phiếu | 2026-01-16    | 2026-02-04    | 2026-02-03     |   0.13  |    1300 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1 năm 2024 bằng tiền 1300 đồng/cổ phiếu | 2025-01-16    | 2025-02-12    | 2025-02-11     |   0.13  |    1300 |
-| Niêm yết thêm            | BWE - Niêm yết bổ sung 27,008,644 cổ phiếu                   | 2024-06-24    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Phát hành cổ phiếu       | BWE - Phát hành cổ phiếu trả cổ tức tỷ lệ 14%                | 2024-05-03    | 2024-05-20    | 2024-05-17     |   0.14  |       0 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1 năm 2022 bằng tiền 1300 đồng/cổ phiếu | 2023-01-13    | 2023-01-31    | 2023-01-30     |   0.13  |    1300 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1, 2021 bằng tiền 1200 VND/CP           | 2021-12-07    | 2022-01-04    | 2021-12-31     |   0.12  |    1200 |
-| Niêm yết thêm            | BWE - Niêm yết bổ sung 5.420.000 cổ phiếu                    | 2021-07-12    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1, 2020 bằng tiền 1200 VND/CP           | 2020-12-10    | 2021-01-07    | 2021-01-06     |   0.12  |    1200 |
-| Niêm yết thêm            | BWE - Niêm yết bổ sung 3.566.200 cổ phiếu                    | 2020-12-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Niêm yết thêm            | BWE - Niêm yết bổ sung 33.933.800 cổ phiếu                   | 2020-12-07    | 1753-01-01    | 1753-01-01     |   0     |       0 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1, 2019 bằng tiền 1000 VND/CP           | 2019-12-02    | 2019-12-31    | 2019-12-30     |   0.1   |    1000 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 1, 2018 bằng tiền 700 VND/CP            | 2018-11-30    | 2018-12-28    | 2018-12-27     |   0.07  |     700 |
-| Trả cổ tức bằng tiền mặt | BWE - Trả cổ tức Đợt 3, 2017 bằng tiền 200 VND/CP            | 2018-03-28    | 2018-04-06    | 2018-04-05     |   0.02  |     200 |
-| Trả cổ tức bằng tiền mặt | BWE-Trả cổ tức Đợt 2, 2017 bằng tiền 250 VND/CP              | 2018-01-15    | 2018-02-07    | 2018-02-06     |   0.025 |     250 |
-| Trả cổ tức bằng tiền mặt | BWE-Trả cổ tức Đợt 1, 2017 bằng tiền 250 VND/CP              | 2017-11-13    | 2017-11-21    | 2017-11-20     |   0.025 |     250 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BWE      | 2026-03-17 00:00:00 |  42.5  |  42.9  | 42.4  |   42.6  |    56000 |
-| BWE      | 2026-03-18 00:00:00 |  42.5  |  43    | 41.95 |   42.6  |   167000 |
-| BWE      | 2026-03-19 00:00:00 |  42.75 |  42.75 | 41.7  |   41.9  |   375200 |
-| BWE      | 2026-03-20 00:00:00 |  42.4  |  43.2  | 41.9  |   42.95 |   310900 |
 | BWE      | 2026-03-23 00:00:00 |  42.95 |  42.95 | 41.2  |   41.55 |   473700 |
 | BWE      | 2026-03-24 00:00:00 |  42.45 |  42.45 | 41.75 |   42.15 |   241400 |
 | BWE      | 2026-03-25 00:00:00 |  42.65 |  43.55 | 42.25 |   43    |   291500 |
@@ -181,10 +58,25 @@
 | BWE      | 2026-04-09 00:00:00 |  43.05 |  43.3  | 42.8  |   43.1  |   106200 |
 | BWE      | 2026-04-10 00:00:00 |  43.15 |  43.2  | 42.95 |   43.2  |   117800 |
 | BWE      | 2026-04-13 00:00:00 |  43.15 |  43.25 | 42.85 |   43.2  |    34000 |
+| BWE      | 2026-04-14 00:00:00 |  43.7  |  43.7  | 43.25 |   43.6  |   326800 |
+| BWE      | 2026-04-15 00:00:00 |  43.65 |  43.65 | 43.55 |   43.65 |   103900 |
+| BWE      | 2026-04-16 00:00:00 |  43.6  |  43.7  | 43.05 |   43.1  |   613200 |
+| BWE      | 2026-04-17 00:00:00 |  43.05 |  43.6  | 43.05 |   43.6  |   122800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BWE      | 2026-04-17 13:22:34 |   43.45 |      100 | Buy          | 465226147 |
+| BWE      | 2026-04-17 13:25:55 |   43.45 |      300 | Buy          | 465232801 |
+| BWE      | 2026-04-17 13:25:55 |   43.45 |      300 | Buy          | 465232800 |
+| BWE      | 2026-04-17 13:25:55 |   43.45 |      100 | Buy          | 465232795 |
+| BWE      | 2026-04-17 13:25:55 |   43.45 |      300 | Buy          | 465232797 |
+| BWE      | 2026-04-17 13:25:55 |   43.45 |      200 | Buy          | 465232799 |
+| BWE      | 2026-04-17 13:26:09 |   43.45 |      200 | Sell         | 465233157 |
+| BWE      | 2026-04-17 13:26:52 |   43.45 |      300 | Sell         | 465234862 |
+| BWE      | 2026-04-17 13:27:35 |   43.45 |      300 | Sell         | 465237311 |
+| BWE      | 2026-04-17 13:27:44 |   43.55 |      100 | Buy          | 465237702 |
 
 <!-- END:DAILY -->
 

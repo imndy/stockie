@@ -1,165 +1,47 @@
 # NAB — NAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 19/04/2026 15:34  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NAB |
-| exchange | HOSE |
-| ev | 23161767480000 |
-| ceiling | 14450 |
-| floor | 12650 |
-| ref_price | 13550 |
-| open | 13300 |
-| match_price | 13500 |
-| close_price | 13500 |
-| price_change | -50 |
-| price_change_pct | -0.00369004 |
-| high | 13500 |
-| low | 13300 |
-| total_volume | 1566706 |
-| high_price_1y | 17300 |
-| low_price_1y | 12100 |
-| pct_low_change_1y | 0.1157024793 |
-| pct_high_change_1y | -0.2058823529 |
-| foreign_volume | 107500 |
-| foreign_room | 514705944 |
-| avg_match_volume_2w | 1455008 |
-| foreign_holding_room | 15626371 |
-| current_holding_ratio | 0.009107940863414626 |
-| max_holding_ratio | 0.3 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 13.5 |
-| EMA20 | 13.21 |
-| EMA50 | 13.44 |
+| EMA20 | 13.29 |
+| EMA50 | 13.45 |
 | RSI(14) | 58.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.034 |
-| MACD Signal | -0.08 |
-| MACD Histogram | 0.113 |
+| MACD | 0.071 |
+| MACD Signal | -0.01 |
+| MACD Histogram | 0.081 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 107500 |
-| Room NN còn lại | 514705944 |
-| Tỷ lệ sở hữu NN hiện tại | 0.009107940863414626 |
-| Tỷ lệ sở hữu NN tối đa | 0.3 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | NAB      |               107500 |      514705944 |              0.00910794 |
-| 2026-04-06 | NAB      |                58600 |      514705944 |              0.00930285 |
-| 2026-04-03 | NAB      |                56400 |      514705944 |              0.00912286 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NAB |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1772560523150 |
-| revenue | 22356378000000 |
-| revenue_growth | 0.28398542428953116 |
-| net_profit | 4182234000000 |
-| net_profit_growth | 0.15944723354790133 |
-| ebit_margin | 0 |
-| roe | 0.1958006803 |
-| roic | 0 |
-| roa | 0.0126072995 |
-| pe | 5.6187416217 |
-| pb | 0.9885194006 |
-| eps | 2437.6446396238475 |
-| current_ratio | 0 |
-| cash_ratio | 0 |
-| quick_ratio | 0 |
-| interest_coverage | None |
-| ae | 17.854017412234093 |
-| fae | 0.10112912650277305 |
-| net_profit_margin | 0.48536816399744587 |
-| gross_margin | 0 |
-| ev | 23161767750000 |
-| issue_share | 1715686480 |
-| ps | 2.0080220905 |
-| pcf | 0.1952727004 |
-| bvps | 13656.7881136793 |
-| ev_per_ebitda | 0 |
-| at | 0 |
-| fat | 0 |
-| acp | None |
-| dso | 0 |
-| dpo | 0 |
-| eps_ttm | 2402.6732156487 |
-| charter_capital | 17156864800000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.3656788272878388 |
-| rtq10 | 0 |
-| dividend | 0 |
-| ebitda | 0 |
-| ebit | 0 |
-| le | 0 |
-| de | 0 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                  |   public_date | news_source_link                                                                                                          |
-|:--------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| NAB: Giấy ủy quyền thực hiện công bố thông tin                                              | 1775846700000 | https://www.hsx.vn/vi/tin-tuc/nab-giay-uy-quyen-thuc-hien-cong-bo-thong-tin/2452220                                       |
-| Nam A Bank (NAB) bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng giám đốc                      | 1775840580000 | https://www.tinnhanhchungkhoan.vn/nam-a-bank-nab-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-post388605.html    |
-| NAB: Thông báo thay đổi nhân sự - Bổ nhiệm Tổng Giám đốc                                    | 1775838906000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-thay-doi-nhan-su--bo-nhiem-tong-giam-doc/2452051                              |
-| NAB: Thông báo công văn của NHNN về chấp thuận cho NAB thay đổi địa điểm Chi nhánh Quy Nhơn | 1775239106000 | https://www.hsx.vn/vi/tin-tuc/nab-thong-bao-cong-van-cua-nhnn-ve-chap-thuan-cho-nab-thay-doi-dia-diem-chi-nhanh-quy-nhon… |
-| Nam A Bank (NAB) đạt hơn 1.620 tỷ đồng lợi nhuận trước thuế trong quý I/2026                | 1775231280000 | https://www.tinnhanhchungkhoan.vn/nam-a-bank-nab-dat-hon-1620-ty-dong-loi-nhuan-truoc-thue-trong-quy-i2026-post388107.ht… |
-| NAB: Tỷ lệ an toàn vốn tháng 12 năm 2025                                                    | 1775151832000 | https://www.hsx.vn/vi/tin-tuc/nab-ty-le-an-toan-von-thang-12-nam-2025/2449924                                             |
-| NAB: Nghị quyết HĐQT về việc triển khai phương án tăng vốn điều lệ năm 2026                 | 1774626166000 | https://www.hsx.vn/vi/tin-tuc/nab-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-tang-von-dieu-le-nam-2026/2447396          |
-| NAB: Điều lệ công ty sửa đổi                                                                | 1774462672000 | https://www.hsx.vn/vi/tin-tuc/nab-dieu-le-cong-ty-sua-doi/2446719                                                         |
-| NAB: Giấy ủy quyền thực hiện CBTT                                                           | 1774289760000 | https://www.hsx.vn/vi/tin-tuc/nab-giay-uy-quyen-thuc-hien-cbtt/2446130                                                    |
-| NAB: CBTT thay đổi nhân sự                                                                  | 1774289732000 | https://www.hsx.vn/vi/tin-tuc/nab-cbtt-thay-doi-nhan-su/2446129                                                           |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                          | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------|:-----------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm      | NAB - Niêm yết bổ sung 343.135.927 cổ phiếu          | 2025-08-12    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 25%            | 2025-07-04    | 2025-07-11    | 2025-07-10     | 0.25     |       0 |
-| Niêm yết thêm      | NAB - Niêm yết bổ sung 50.000.000 cổ phiếu           | 2025-05-21    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NAB - Niêm yết bổ sung 264,508,938 cổ phiếu          | 2024-08-16    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 25%            | 2024-07-05    | 2024-07-12    | 2024-07-11     | 0.25     |       0 |
-| Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 211,606,954 cổ phiếu | 2023-08-14    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 25%            | 2023-06-29    | 2023-07-07    | 2023-07-06     | 0.25     |       0 |
-| Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 189,994,157 cổ phiếu | 2022-11-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu thưởng tỷ lệ 10,2075%       | 2022-10-12    | 2022-10-20    | 2022-10-19     | 0.102075 |       0 |
-| Niêm yết thêm      | NAB - Đăng ký giao dịch bổ sung 143,000,000 cổ phiếu | 2022-06-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NAB - Giao dịch bổ sung 50.357.073 cổ phiếu          | 2022-03-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NAB - Phát hành cổ phiếu trả cổ tức tỷ lệ 12.487%    | 2021-11-26    | 2021-12-03    | 2021-12-02     | 0.12487  |       0 |
-| Niêm yết thêm      | NAB - Giao dịch bổ sung 67.441.515 cổ phiếu          | 2020-11-16    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết mới       | NAB- Chính thức giao dịch trên sàn UPCoM             | 2020-10-06    | 1753-01-01    | 1753-01-01     | 0        |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NAB      | 2026-03-18 00:00:00 |  13.05 |  13.2  | 12.75 |   12.75 |  2141500 |
-| NAB      | 2026-03-19 00:00:00 |  12.8  |  13    | 12.65 |   12.65 |  2393500 |
-| NAB      | 2026-03-20 00:00:00 |  12.7  |  12.85 | 12.1  |   12.1  |  4208400 |
 | NAB      | 2026-03-23 00:00:00 |  12.4  |  12.5  | 12.25 |   12.5  |  2307600 |
 | NAB      | 2026-03-24 00:00:00 |  12.55 |  12.75 | 12.5  |   12.5  |  1712000 |
 | NAB      | 2026-03-25 00:00:00 |  12.55 |  12.75 | 12.55 |   12.7  |  1045500 |
@@ -177,21 +59,24 @@
 | NAB      | 2026-04-10 00:00:00 |  13.45 |  13.65 | 13.45 |   13.55 |  2015200 |
 | NAB      | 2026-04-13 00:00:00 |  13.3  |  13.5  | 13.3  |   13.5  |  1566100 |
 | NAB      | 2026-04-14 00:00:00 |  13.55 |  13.55 | 13.4  |   13.5  |  1779500 |
+| NAB      | 2026-04-15 00:00:00 |  13.5  |  13.55 | 13.4  |   13.5  |  1397700 |
+| NAB      | 2026-04-16 00:00:00 |  13.4  |  13.5  | 13.35 |   13.5  |  1149700 |
+| NAB      | 2026-04-17 00:00:00 |  13.45 |  13.6  | 13.4  |   13.5  |  1472600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NAB      | 2026-04-14 13:55:35 |   13.4  |     4300 | Sell         | 463504227 |
-| NAB      | 2026-04-14 13:55:38 |   13.45 |     4400 | Buy          | 463504347 |
-| NAB      | 2026-04-14 13:55:38 |   13.5  |     5600 | Buy          | 463504348 |
-| NAB      | 2026-04-14 13:56:00 |   13.45 |      100 | Buy          | 463505315 |
-| NAB      | 2026-04-14 13:56:00 |   13.5  |      900 | Buy          | 463505316 |
-| NAB      | 2026-04-14 13:56:00 |   13.5  |     2000 | Buy          | 463505317 |
-| NAB      | 2026-04-14 13:57:47 |   13.45 |    15000 | Sell         | 463510436 |
-| NAB      | 2026-04-14 13:57:53 |   13.5  |     4000 | Buy          | 463510650 |
-| NAB      | 2026-04-14 13:58:49 |   13.5  |     1100 | Buy          | 463513185 |
-| NAB      | 2026-04-14 13:58:49 |   13.5  |      800 | Buy          | 463513186 |
+| NAB      | 2026-04-17 13:41:17 |    13.5 |     1700 | Buy          | 465273362 |
+| NAB      | 2026-04-17 13:41:17 |    13.5 |     3300 | Buy          | 465273364 |
+| NAB      | 2026-04-17 13:41:56 |    13.5 |      100 | Buy          | 465274837 |
+| NAB      | 2026-04-17 13:49:27 |    13.5 |    26600 | Buy          | 465293286 |
+| NAB      | 2026-04-17 13:49:27 |    13.5 |     2000 | Buy          | 465293287 |
+| NAB      | 2026-04-17 13:49:53 |    13.5 |     1000 | Sell         | 465294231 |
+| NAB      | 2026-04-17 13:50:08 |    13.5 |      200 | Sell         | 465294715 |
+| NAB      | 2026-04-17 13:50:32 |    13.5 |     5200 | Sell         | 465295496 |
+| NAB      | 2026-04-17 13:50:32 |    13.5 |    14800 | Sell         | 465295497 |
+| NAB      | 2026-04-17 13:50:37 |    13.5 |      200 | Sell         | 465295725 |
 
 <!-- END:DAILY -->
 

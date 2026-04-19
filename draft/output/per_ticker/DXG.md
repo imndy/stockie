@@ -1,170 +1,47 @@
 # DXG — DXG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 19/04/2026 15:30  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DXG |
-| exchange | HOSE |
-| ev | 17213334378750 |
-| ceiling | 16300 |
-| floor | 14200 |
-| ref_price | 15250 |
-| open | 15000 |
-| match_price | 15450 |
-| close_price | 15450 |
-| price_change | 200 |
-| price_change_pct | 0.01311475 |
-| high | 15750 |
-| low | 15000 |
-| total_volume | 19044649 |
-| high_price_1y | 24500 |
-| low_price_1y | 11368 |
-| pct_low_change_1y | 0.2958077474 |
-| pct_high_change_1y | -0.3615702479 |
-| foreign_volume | 2393357 |
-| foreign_room | 557065837 |
-| avg_match_volume_2w | 20706301 |
-| foreign_holding_room | 228643660 |
-| current_holding_ratio | 0.20522139809013148 |
-| max_holding_ratio | 0.5 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.45 |
-| EMA20 | 14.53 |
-| EMA50 | 14.86 |
-| RSI(14) | 61.5 |
+| Giá đóng cửa | 14.9 |
+| EMA20 | 14.73 |
+| EMA50 | 14.91 |
+| RSI(14) | 53.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.15 |
-| MACD Signal | -0.04 |
-| MACD Histogram | 0.19 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.208 |
+| MACD Signal | 0.109 |
+| MACD Histogram | 0.1 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 2393357 |
-| Room NN còn lại | 557065837 |
-| Tỷ lệ sở hữu NN hiện tại | 0.20522139809013148 |
-| Tỷ lệ sở hữu NN tối đa | 0.5 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | DXG      |              2393357 |      557065837 |                0.205221 |
-| 2026-04-13 | DXG      |              3793522 |      557065837 |                0.203717 |
-| 2026-04-12 | DXG      |              3793522 |      557065837 |                0.203717 |
-| 2026-04-10 | DXG      |              5389839 |      557065837 |                0.200509 |
-| 2026-04-06 | DXG      |               425200 |      557065837 |                0.196752 |
-| 2026-04-03 | DXG      |              1877605 |      557065837 |                0.196003 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DXG |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1775050525680 |
-| revenue | 4490024427662 |
-| revenue_growth | -0.06369486332418992 |
-| net_profit | 230881012655 |
-| net_profit_growth | -0.0978919998175511 |
-| ebit_margin | 0.20810800073362398 |
-| roe | 0.018697604 |
-| roic | 0.033972849 |
-| roa | 0.006871667 |
-| pe | 74.5550020801 |
-| pb | 1.2097188236 |
-| eps | 207.22955628651343 |
-| current_ratio | 2.3730646563 |
-| cash_ratio | 0.2372889331 |
-| quick_ratio | 1.2287519153 |
-| interest_coverage | -3.026309657422321 |
-| ae | 1.8204032915478425 |
-| fae | 0.018043401755883478 |
-| net_profit_margin | 0.05507808613004681 |
-| gross_margin | 0.5459449073439411 |
-| ev | 17213334378750 |
-| issue_share | 1114131675 |
-| ps | 4.106346826 |
-| pcf | 12.3849330995 |
-| bvps | 12771.5628612031 |
-| ev_per_ebitda | 19.8190891938 |
-| at | 0.1247622689 |
-| fat | 11.2302346732 |
-| acp | 143.08935175179406 |
-| dso | 2786.7460576944 |
-| dpo | 148.8393567371 |
-| eps_ttm | 207.2295562865 |
-| charter_capital | 11141316750000 |
-| rtq4 | 0.1269360133 |
-| charter_capital_ratio | 1.874330470159822 |
-| rtq10 | 0.8204032915 |
-| dividend | 0 |
-| ebitda | 939399041508 |
-| ebit | 872364842844 |
-| le | 0.35659163380000003 |
-| de | 0.8204032915 |
-| ccc | 3078.6747661832937 |
-| rtq17 | 0.1309771298 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                 |   public_date | news_source_link                                                                                                          |
-|:-------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| DXG: Báo cáo về thay đổi sở hữu của nhóm cổ đông lớn                                       | 1776089400000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-ve-thay-doi-so-huu-cua-nhom-co-dong-lon/2452292                                 |
-| Đất Xanh (DXG) muốn đổi tên công ty                                                        | 1775632920000 | https://www.tinnhanhchungkhoan.vn/dat-xanh-dxg-muon-doi-ten-cong-ty-post388383.html                                       |
-| DXG: Nghị quyết HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2026 (cập nhật)              | 1775554447000 | https://www.hsx.vn/vi/tin-tuc/dxg-nghi-quyet-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2026-cap-nhat/2450945          |
-| DXG: Phó TGĐ đăng ký bán 351.098 cổ phiếu                                                  | 1775064300000 | https://www.hsx.vn/vi/tin-tuc/dxg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-truong-son/2449489                 |
-| DXG: Giải trình chênh lệch LNST BCTC kiểm toán năm 2025 so với cùng kỳ năm trước           | 1775038747000 | https://www.hsx.vn/vi/tin-tuc/dxg-giai-trinh-chenh-lech-lnst-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc/2449063     |
-| DXG: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                          | 1774862973000 | https://www.hsx.vn/vi/tin-tuc/dxg-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026/2447810                                    |
-| DXG: Nhóm quỹ Dragon Capital đã bán gần 2,3 triệu cổ phiếu                                 | 1774546740000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| Nhóm quỹ Dragon Capital vừa bán ra 2,4 triệu cổ phiếu Đất Xanh (DXG)                       | 1773094680000 | https://www.tinnhanhchungkhoan.vn/nhom-quy-dragon-capital-vua-ban-ra-24-trieu-co-phieu-dat-xanh-dxg-post386486.html       |
-| DXG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn | 1773078720000 | https://www.hsx.vn/vi/tin-tuc/dxg-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon/… |
-| DXG nhận chuyển nhượng dự án 8,6ha                                                         | 1772534520000 | https://vneconomy.vn/dxg-nhan-chuyen-nhuong-du-an-86ha.htm                                                                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                                                   | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------|:------------------------------------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 93.500.000 cổ phiếu                                    | 2025-12-31    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 148.034.206 cổ phiếu                                   | 2025-07-04    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | DXG - Phát hành cổ phiếu thưởng tỷ lệ 17%                                     | 2025-05-28    | 2025-06-05    | 2025-06-04     | 0.17     |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 150.146.548 cổ phiếu                                   | 2025-03-25    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | DXG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 24 : 5 giá 12.000 đồng/cp | 2024-12-27    | 2025-01-07    | 2025-01-06     | 0.208333 |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 101,671,919 cổ phiếu                                   | 2024-03-05    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 9,000,000 cổ phiếu                                     | 2024-02-06    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | DXG - Phát hành cổ phiếu cho cổ đông hiện hữu tỷ lệ 6 : 1 giá 12.000 đồng/cp  | 2023-12-07    | 2023-12-15    | 2023-12-14     | 0.166667 |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 2,502,126 cổ phiếu                                     | 2022-12-02    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 1,400,000 cổ phiếu                                     | 2022-04-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 3,500,000 cổ phiếu                                     | 2022-04-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 2,100,000 cổ phiếu                                     | 2022-04-29    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 4,503,828 cổ phiếu                                     | 2022-04-26    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | DXG - Niêm yết bổ sung 77.738.381 cổ phiếu                                    | 2021-11-03    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | DXG - Phát hành cổ phiếu thưởng tỷ lệ 100:15                                  | 2021-09-01    | 2021-09-10    | 2021-09-09     | 0.15     |       0 |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXG      | 2026-03-17 00:00:00 |  14.15 |  14.45 | 13.75 |   13.75 | 24586200 |
-| DXG      | 2026-03-18 00:00:00 |  13.85 |  14.15 | 13.6  |   13.8  | 11979900 |
-| DXG      | 2026-03-19 00:00:00 |  13.65 |  14.3  | 13.6  |   14.1  | 18688400 |
-| DXG      | 2026-03-20 00:00:00 |  14.1  |  14.25 | 13.75 |   14    | 12542000 |
 | DXG      | 2026-03-23 00:00:00 |  13.7  |  13.8  | 13.05 |   13.05 | 20120900 |
 | DXG      | 2026-03-24 00:00:00 |  13.3  |  13.95 | 13.2  |   13.7  | 26909700 |
 | DXG      | 2026-03-25 00:00:00 |  13.9  |  14.25 | 13.75 |   14.15 | 20550300 |
@@ -181,10 +58,25 @@
 | DXG      | 2026-04-09 00:00:00 |  14.85 |  15.6  | 14.7  |   15.2  | 39864800 |
 | DXG      | 2026-04-10 00:00:00 |  15.55 |  15.6  | 15.1  |   15.25 | 19707500 |
 | DXG      | 2026-04-13 00:00:00 |  15    |  15.75 | 15    |   15.45 | 19029500 |
+| DXG      | 2026-04-14 00:00:00 |  15.7  |  15.7  | 15.3  |   15.35 | 14408100 |
+| DXG      | 2026-04-15 00:00:00 |  15.45 |  15.75 | 15.25 |   15.25 | 19492100 |
+| DXG      | 2026-04-16 00:00:00 |  15.25 |  15.25 | 14.8  |   15.15 | 15984900 |
+| DXG      | 2026-04-17 00:00:00 |  15.2  |  15.3  | 14.9  |   14.9  |  8748100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| DXG      | 2026-04-17 14:28:51 |   14.95 |      200 | Sell         | 465417141 |
+| DXG      | 2026-04-17 14:28:51 |   14.95 |      300 | Sell         | 465417144 |
+| DXG      | 2026-04-17 14:28:51 |   14.95 |      500 | Sell         | 465417142 |
+| DXG      | 2026-04-17 14:28:51 |   14.95 |     2000 | Sell         | 465417143 |
+| DXG      | 2026-04-17 14:28:58 |   14.95 |      100 | Sell         | 465417710 |
+| DXG      | 2026-04-17 14:28:58 |   14.95 |     2700 | Sell         | 465417639 |
+| DXG      | 2026-04-17 14:28:58 |   15    |      600 | Buy          | 465417641 |
+| DXG      | 2026-04-17 14:28:58 |   15    |      300 | Buy          | 465417642 |
+| DXG      | 2026-04-17 14:28:58 |   14.95 |     2400 | Sell         | 465417652 |
+| DXG      | 2026-04-17 14:28:58 |   14.95 |      100 | Sell         | 465417653 |
 
 <!-- END:DAILY -->
 

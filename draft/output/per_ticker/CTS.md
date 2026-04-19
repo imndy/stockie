@@ -1,170 +1,47 @@
 # CTS — CTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 14/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 19/04/2026 15:29  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTS |
-| exchange | HOSE |
-| ev | 5966050935900 |
-| ceiling | 29550 |
-| floor | 25750 |
-| ref_price | 27650 |
-| open | 27500 |
-| match_price | 28050 |
-| close_price | 28050 |
-| price_change | 400 |
-| price_change_pct | 0.01446655 |
-| high | 28250 |
-| low | 27300 |
-| total_volume | 790680 |
-| high_price_1y | 46850 |
-| low_price_1y | 20769 |
-| pct_low_change_1y | 0.2939206488 |
-| pct_high_change_1y | -0.3752783964 |
-| foreign_volume | 77300 |
-| foreign_room | 104219784 |
-| avg_match_volume_2w | 984449 |
-| foreign_holding_room | 1485198 |
-| current_holding_ratio | 0.006982810630951388 |
-| max_holding_ratio | 0.49 |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 28.05 |
-| EMA20 | 27.68 |
-| EMA50 | 29.02 |
-| RSI(14) | 50.7 |
+| Giá đóng cửa | 27.2 |
+| EMA20 | 27.64 |
+| EMA50 | 28.8 |
+| RSI(14) | 45.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.244 |
-| MACD Signal | -0.562 |
-| MACD Histogram | 0.318 |
+| MACD | -0.21 |
+| MACD Signal | -0.344 |
+| MACD Histogram | 0.133 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
-
-## Dòng tiền khối ngoại (snapshot hôm nay)
-
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 77300 |
-| Room NN còn lại | 104219784 |
-| Tỷ lệ sở hữu NN hiện tại | 0.006982810630951388 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
-
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-14 | CTS      |                77300 |      104219784 |              0.00698281 |
-| 2026-04-13 | CTS      |                39200 |      104219784 |              0.00670252 |
-| 2026-04-12 | CTS      |                39200 |      104219784 |              0.00670252 |
-| 2026-04-10 | CTS      |                 7085 |      104219784 |              0.00670252 |
-| 2026-04-06 | CTS      |                67500 |      104219784 |              0.00608436 |
-| 2026-04-03 | CTS      |               109500 |      104219784 |              0.00561881 |
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTS |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1773162556080 |
-| revenue | 2095841946317 |
-| revenue_growth | 1.030369133532637 |
-| net_profit | 577371584960 |
-| net_profit_growth | 1.4985055363464694 |
-| ebit_margin | 0.5182147541438347 |
-| roe | 0.2260503356 |
-| roic | 0.0962988735 |
-| roa | 0.0547042961 |
-| pe | 10.3331218427 |
-| pb | 2.0893657298 |
-| eps | 2714.571687726445 |
-| current_ratio | 1.2913893221 |
-| cash_ratio | 0.2937854666 |
-| quick_ratio | 0.3108493881 |
-| interest_coverage | -2.9024344899098034 |
-| ae | 4.346340498487981 |
-| fae | 0.022001808263952566 |
-| net_profit_margin | 0.27548431596886813 |
-| gross_margin | 0.5947796467145691 |
-| ev | 5966050935900 |
-| issue_share | 212693438 |
-| ps | 2.8466130027 |
-| pcf | -3.6178936278 |
-| bvps | 13425.1268697533 |
-| ev_per_ebitda | 12.4636767583 |
-| at | 0.1985749928 |
-| fat | 34.7268408535 |
-| acp | None |
-| dso | 0 |
-| dpo | 201.9021659111 |
-| eps_ttm | 2714.5716877264 |
-| charter_capital | 2126934380000 |
-| rtq4 | 0 |
-| charter_capital_ratio | 1.3425126869753263 |
-| rtq10 | 3.3463404985 |
-| dividend | 0 |
-| ebitda | 1095630627287 |
-| ebit | 1086096218935 |
-| le | 2.9497954513 |
-| de | 3.3463404985 |
-| ccc | None |
-| rtq17 | 0 |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                   |   public_date | news_source_link                                                                                                  |
-|:-----------------------------------------------------------------------------|--------------:|:------------------------------------------------------------------------------------------------------------------|
-| CTS: Giấy chứng nhận đăng ký địa điểm kinh doanh - PGD Bà Triệu              | 1775579203000 | https://www.hsx.vn/vi/tin-tuc/cts-giay-chung-nhan-dang-ky-dia-diem-kinh-doanh--pgd-ba-trieu/2451166               |
-| CTS: Nghị quyết HĐQT về việc phê duyệt hạn mức vay vốn tại VIB               | 1775239224000 | https://www.hsx.vn/vi/tin-tuc/cts-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-vay-von-tai-vib/2450448               |
-| CTS: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                 | 1774946852000 | https://www.hsx.vn/vi/tin-tuc/cts-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2448317                                 |
-| CTS: Báo cáo thường niên năm 2025                                            | 1774632929000 | https://www.hsx.vn/vi/tin-tuc/cts-bao-cao-thuong-nien-nam-2025/2447580                                            |
-| CTS: Quyết định của UBCKNN về việc sửa đổi Quyết định thành lập PGD Bà Triệu | 1774373356000 | https://www.hsx.vn/vi/tin-tuc/cts-quyet-dinh-cua-ubcknn-ve-viec-sua-doi-quyet-dinh-thanh-lap-pgd-ba-trieu/2446424 |
-| CTS: Nghị quyết HĐQT về việc thay đổi tên PGD Bà Triệu                       | 1773678955000 | https://www.hsx.vn/vi/tin-tuc/cts-nghi-quyet-hdqt-ve-viec-thay-doi-ten-pgd-ba-trieu/2444499                       |
-| CTS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026  | 1773237106000 | https://www.hsx.vn/vi/tin-tuc/cts-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2443466  |
-| CTS: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026               | 1772730451000 | https://www.hsx.vn/vi/tin-tuc/cts-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026/2442132               |
-| CTS: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                            | 1772730386000 | https://www.hsx.vn/vi/tin-tuc/cts-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026/2442130                            |
-| CTS: Báo cáo tình hình quản trị công ty năm 2025                             | 1769798769000 | https://www.hsx.vn/vi/tin-tuc/cts-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025/2435644                             |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name          | event_title                                         | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------------|:----------------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm            | CTS - Niêm yết bổ sung 63.955.127 cổ phiếu          | 2025-07-17    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 43%       | 2025-05-29    | 2025-06-06    | 2025-06-05     |   0.43   |       0 |
-| Niêm yết thêm            | CTS - Niêm yết bổ sung 33,791,500 cổ phiếu          | 2022-10-12    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 21,96%    | 2022-08-16    | 2022-08-25    | 2022-08-24     |   0.2196 |       0 |
-| Niêm yết thêm            | CTS - Niêm yết bổ sung 8,510,235 cổ phiếu           | 2022-05-13    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS - Phát hành cổ phiếu trả cổ tức tỷ lệ 8%        | 2022-03-24    | 2022-03-29    | 2022-03-28     |   0.08   |       0 |
-| Trả cổ tức bằng tiền mặt | CTS - Trả cổ tức Cả năm, 2018 bằng tiền 1000 VND/CP | 2019-09-10    | 2019-09-16    | 2019-09-13     |   0.1    |    1000 |
-| Niêm yết thêm            | CTS - Niêm yết bổ sung 8.783.640 cổ phiếu           | 2018-10-31    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS-Phát hành cổ phiếu trả cổ tức tỷ lệ 9%          | 2018-08-29    | 2018-09-10    | 2018-09-07     |   0.09   |       0 |
-| Niêm yết thêm            | CTS-Niêm yết bổ sung 7.229.179 cổ phiếu             | 2017-09-28    | 1753-01-01    | 1753-01-01     |   0      |       0 |
-| Phát hành cổ phiếu       | CTS-Trả cổ tức năm 2016 bằng cổ phiếu tỷ lệ 8%      | 2017-07-28    | 2017-08-09    | 2017-08-08     |   0.08   |     nan |
-| Niêm yết thêm            | CTS-Niêm yết bổ sung 6.693.419 cổ phiếu             | 2016-09-15    | 1753-01-01    | 1753-01-01     | nan      |     nan |
-| Phát hành cổ phiếu       | CTS-Trả cổ tức bằng cổ phiếu cho CĐHH tỷ lệ 8%      | 2016-07-01    | 2016-07-15    | 2016-07-14     | nan      |     nan |
-| Niêm yết thêm            | CTS-Niêm yết thêm 4.736.938 cổ phiếu                | 2015-11-19    | 1753-01-01    | 1753-01-01     | nan      |     nan |
-| Phát hành cổ phiếu       | Phát hành cổ phiếu                                  | 2015-09-22    | 2015-09-30    | 2015-09-28     | nan      |     nan |
+_Không có dữ liệu_
 
 ## Lịch sử giá (20 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTS      | 2026-03-17 00:00:00 |  27.45 |  28.35 | 27.25 |   27.3  |   604800 |
-| CTS      | 2026-03-18 00:00:00 |  27.3  |  27.6  | 26.75 |   26.9  |   748300 |
-| CTS      | 2026-03-19 00:00:00 |  26.5  |  26.5  | 26    |   26.3  |   780400 |
-| CTS      | 2026-03-20 00:00:00 |  26.05 |  26.6  | 26.05 |   26.25 |   892700 |
 | CTS      | 2026-03-23 00:00:00 |  26.05 |  26.05 | 24.45 |   24.45 |  1152300 |
 | CTS      | 2026-03-24 00:00:00 |  25.2  |  25.65 | 24.8  |   25.1  |   646300 |
 | CTS      | 2026-03-25 00:00:00 |  25.5  |  26.3  | 25.45 |   26.05 |   655200 |
@@ -181,10 +58,25 @@
 | CTS      | 2026-04-09 00:00:00 |  28.7  |  28.8  | 28.2  |   28.2  |   789500 |
 | CTS      | 2026-04-10 00:00:00 |  28.45 |  28.55 | 27.65 |   27.65 |   993500 |
 | CTS      | 2026-04-13 00:00:00 |  27.5  |  28.25 | 27.3  |   28.05 |   790200 |
+| CTS      | 2026-04-14 00:00:00 |  28.5  |  28.5  | 27.95 |   28.05 |   455100 |
+| CTS      | 2026-04-15 00:00:00 |  28.2  |  28.5  | 27.8  |   27.8  |   767700 |
+| CTS      | 2026-04-16 00:00:00 |  27.8  |  28.05 | 27.1  |   27.35 |   662100 |
+| CTS      | 2026-04-17 00:00:00 |  27.4  |  27.65 | 27.2  |   27.2  |   543100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      100 | Sell         | 465373504 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      100 | Sell         | 465373506 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      100 | Sell         | 465373507 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      100 | Sell         | 465373508 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      300 | Sell         | 465373509 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |     1000 | Sell         | 465373510 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      100 | Sell         | 465373511 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |     1000 | Sell         | 465373512 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |     5000 | Sell         | 465373513 |
+| CTS      | 2026-04-17 14:18:01 |    27.3 |      200 | Sell         | 465373514 |
 
 <!-- END:DAILY -->
 
