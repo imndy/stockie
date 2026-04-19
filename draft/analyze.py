@@ -226,7 +226,6 @@ def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
     }])
 
 
-FOREIGN_FLOW_CSV = BASE_DIR / "output" / "foreign_flow_history.csv"
 SNAPSHOT_MD      = BASE_DIR / "output" / "per_ticker" / "bluechip_snapshot.md"
 
 
@@ -247,43 +246,6 @@ def _last_trading_date() -> date:
     return d
 
 
-def record_foreign_flow(ticker: str, ts: pd.DataFrame) -> None:
-    """Ghi snapshot dòng tiền NN vào CSV tích lũy.
-    Dùng _last_trading_date() — luôn là ngày phiên hôm qua (T+1 logic).
-    """
-    if ts.empty:
-        return
-    r = ts.iloc[0]
-    def _g(k):
-        for c in ts.columns:
-            if k.lower() in c.lower():
-                return r[c]
-        return None
-    row = {
-        "date":                   date.today().isoformat(),
-        "ticker":                 ticker,
-        "foreign_buy_volume":     _g("foreign_volume"),   # VCI: KL khớp NN (net buy)
-        "foreign_room":           _g("foreign_room"),
-        "current_holding_ratio":  _g("current_holding_ratio"),
-    }
-    new_df = pd.DataFrame([row])
-    if FOREIGN_FLOW_CSV.exists():
-        old = pd.read_csv(FOREIGN_FLOW_CSV)
-        # Xóa dòng cùng date+ticker nếu chạy lại trong ngày
-        old = old[~((old["date"] == row["date"]) & (old["ticker"] == ticker))]
-        combined = pd.concat([old, new_df], ignore_index=True)
-    else:
-        combined = new_df
-    combined.to_csv(FOREIGN_FLOW_CSV, index=False)
-
-
-def load_foreign_flow_history(ticker: str, n: int = 10) -> pd.DataFrame:
-    """Đọc n phiên gần nhất của dòng tiền NN từ CSV tích lũy."""
-    if not FOREIGN_FLOW_CSV.exists():
-        return pd.DataFrame()
-    df = pd.read_csv(FOREIGN_FLOW_CSV)
-    df = df[df["ticker"] == ticker].sort_values("date", ascending=False).head(n)
-    return df.reset_index(drop=True)
 
 
 def fetch_price_history(stock_vci, ticker: str) -> pd.DataFrame:
@@ -570,28 +532,11 @@ def _build_daily_block(frames: dict) -> str:
     hist     = frames.get("Lịch sử giá",            pd.DataFrame())
     intra    = frames.get("Giao dịch trong ngày",   pd.DataFrame())
     events   = frames.get("Sự kiện",                pd.DataFrame())
-    ff_hist  = frames.get("Dòng tiền NN lịch sử",  pd.DataFrame())
 
     hist_tail = hist.tail(20) if not hist.empty else pd.DataFrame()
 
-    # ── Dòng tiền khối ngoại từ trading_stats ──────────────────────────────
-    foreign_lines: list[str] = []
-    if not ts_kv.empty:
-        row = ts_kv.iloc[0]
-        fv  = row.get("foreign_volume",        row.get("foreignVolume",        "—"))
-        fr  = row.get("foreign_room",          row.get("foreignRoom",          "—"))
-        hr  = row.get("current_holding_ratio", row.get("currentHoldingRatio",  "—"))
-        mr  = row.get("max_holding_ratio",     row.get("maxHoldingRatio",      "—"))
-        foreign_lines = [
-            "| Chỉ tiêu | Giá trị |",
-            "| --- | --- |",
-            f"| KL khớp NN hôm nay | {fv} |",
-            f"| Room NN còn lại | {fr} |",
-            f"| Tỷ lệ sở hữu NN hiện tại | {hr} |",
-            f"| Tỷ lệ sở hữu NN tối đa | {mr} |",
-        ]
 
-    # ── News: dùng news_title (VCI) hoặc title (KBS) ──────────────────────
+        # ── News: dùng news_title (VCI) hoặc title (KBS) ──────────────────────
     title_col = next((c for c in news.columns if "title" in c.lower()), None) if not news.empty else None
     date_col  = next((c for c in news.columns if "date" in c.lower() or "time" in c.lower()), None) if not news.empty else None
     if title_col and not news.empty:
@@ -607,14 +552,6 @@ def _build_daily_block(frames: dict) -> str:
         "## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)",
         "",
         _df_to_md_kv(tech) if not tech.empty else "_Không đủ dữ liệu lịch sử giá_",
-        "",
-        "## Dòng tiền khối ngoại (snapshot hôm nay)",
-        "",
-        ("\n".join(foreign_lines)) if foreign_lines else "_Không có dữ liệu_",
-        "",
-        "## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)",
-        "",
-        _df_to_md(ff_hist, max_rows=10) if not ff_hist.empty else "_Chưa có dữ liệu (cần chạy pipeline ≥2 lần)_",
         "",
         "## Tóm tắt chỉ số tài chính",
         "",
@@ -842,10 +779,10 @@ def fetch_vnindex(vs) -> dict:
 
 
 def _compute_signal(vs_ema20: str | None, vs_ema50: str | None,
-                    macd_h, ff_net_bn) -> str:
+                    macd_h) -> str:
     """
     ✅ TĂNG      : giá > EMA20 > EMA50, MACD hist >= 0
-    🔴 RỦI RO CAO: giá < EMA20 hoặc EMA50, NN bán ròng > 50 tỷ
+    🔴 RỦI RO CAO: giá < EMA20 và < EMA50
     ⚠️ GIẢM     : giá dưới EMA20 hoặc EMA50
     🔄 TRUNG TÍNH: còn lại
     """
@@ -853,12 +790,10 @@ def _compute_signal(vs_ema20: str | None, vs_ema50: str | None,
     above50 = isinstance(vs_ema50, str) and "trên" in vs_ema50.lower()
     try:   hist_pos = float(macd_h) >= 0
     except: hist_pos = None
-    try:   nn_heavy_sell = float(ff_net_bn) < -50
-    except: nn_heavy_sell = False
 
     if above20 and above50 and hist_pos:
         return "✅ TĂNG"
-    elif (not above20 or not above50) and nn_heavy_sell:
+    elif not above20 and not above50:
         return "🔴 RỦI RO CAO"
     elif not above20 or not above50:
         return "⚠️ GIẢM"
@@ -885,7 +820,6 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
 
     close   = _get(ts, ["match_price", "close_price", "price"])
     chg_pct = _get(ts, ["price_change_pct"])
-    ff_vol  = _get(ts, ["foreign_volume", "foreignVolume"])
     ff_room = _get(ts, ["foreign_room",   "foreignRoom"])
     max_h   = _get(ts, ["max_holding_ratio",     "maxHoldingRatio"])
     cur_h   = _get(ts, ["current_holding_ratio",  "currentHoldingRatio"])
@@ -910,14 +844,6 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
     rsi14    = _tc("RSI(14)")
     macd_h   = _tc("MACD Histogram")
 
-    # Ước tính dòng tiền NN ròng (tỷ VND): net_vol × giá / 1e9
-    ff_net_bn = None
-    if ff_vol is not None and close is not None:
-        try:
-            ff_net_bn = round(float(ff_vol) * float(close) / 1e9, 1)
-        except (ValueError, TypeError):
-            pass
-
     return {
         "ticker":    ticker,
         "close":     close,
@@ -926,14 +852,13 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
         "vs_ema50":  vs_ema50 or "—",
         "rsi14":     rsi14,
         "macd_h":    macd_h,
-        "ff_net_bn": ff_net_bn,
         "room_str":  room_str,
         "pe":        _get(rs, ["pe"]),
         "pb":        _get(rs, ["pb"]),
         "roe":       _get(rs, ["roe"]),
         "lnst_gr":   _get(rs, ["net_profit_growth"]),
         "industry":  industry_map.get(ticker, "—"),
-        "signal":    _compute_signal(vs_ema20, vs_ema50, macd_h, ff_net_bn),
+        "signal":    _compute_signal(vs_ema20, vs_ema50, macd_h),
         "events_df": ev,
     }
 
@@ -959,34 +884,13 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
     vni_ch  = vnindex_data.get("change", 0.0)
     vni_pct = vnindex_data.get("pct",    0.0)
 
-    ff_vals  = [r["ff_net_bn"] for r in snapshot_rows if r["ff_net_bn"] is not None]
-    nn_total = round(sum(ff_vals), 1) if ff_vals else None
-
-    sector_flows: dict[str, float] = {}
+    sector_by_signal: dict[str, list] = {}
     for r in snapshot_rows:
-        ind, val = r["industry"], r["ff_net_bn"]
-        if ind and ind != "—" and val is not None:
-            sector_flows[ind] = sector_flows.get(ind, 0.0) + float(val)
-    worst_sector = min(sector_flows, key=lambda k: sector_flows[k]) if sector_flows else "—"
-    best_sector  = max(sector_flows, key=lambda k: sector_flows[k]) if sector_flows else "—"
-
-    nn_month_str = "—"
-    try:
-        if FOREIGN_FLOW_CSV.exists():
-            ff_hist_df = pd.read_csv(FOREIGN_FLOW_CSV)
-            ff_hist_df["date"] = pd.to_datetime(ff_hist_df["date"])
-            month_start = run_dt.replace(day=1)
-            monthly = ff_hist_df[ff_hist_df["date"] >= month_start]
-            if not monthly.empty and "foreign_buy_volume" in monthly.columns:
-                price_map = {r["ticker"]: float(r["close"]) for r in snapshot_rows if r["close"]}
-                total_m = sum(
-                    float(row["foreign_buy_volume"]) * price_map.get(row["ticker"], 0) / 1e9
-                    for _, row in monthly.iterrows()
-                    if pd.notna(row.get("foreign_buy_volume"))
-                )
-                nn_month_str = f"{total_m:+.1f}"
-    except Exception as exc:
-        print(f"  [WARN] NN month agg: {exc}")
+        ind = r["industry"]
+        if ind and ind != "—":
+            sector_by_signal.setdefault(ind, []).append(r["signal"])
+    worst_sector = min(sector_by_signal, key=lambda k: sum(1 for s in sector_by_signal[k] if "TĂNG" in s) - sum(1 for s in sector_by_signal[k] if "GIẢM" in s or "RỦI RO" in s)) if sector_by_signal else "—"
+    best_sector  = max(sector_by_signal, key=lambda k: sum(1 for s in sector_by_signal[k] if "TĂNG" in s) - sum(1 for s in sector_by_signal[k] if "GIẢM" in s or "RỦI RO" in s)) if sector_by_signal else "—"
 
     # ── Build lines ───────────────────────────────────────────────────────
     lines: list[str] = [
@@ -1007,20 +911,16 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
     else:
         lines.append("| VN-Index đóng cửa | N/A |")
 
-    lines.append("| Khối ngoại (tổng mã theo dõi) | N/A — KL khớp NN ≠ mua/bán ròng thực |")
-
     lines += [
-        f"| Khối ngoại tích lũy tháng {run_dt.strftime('%m/%Y')} | N/A — cần nguồn buy/sell riêng biệt |",
-        "| Tự doanh HOSE | N/A — không có từ API |",
-        f"| Nhóm bị xả mạnh nhất | {worst_sector} |",
-        f"| Nhóm được mua nhiều nhất | {best_sector} |",
+        f"| Nhóm bị xả mạnh nhất (kỹ thuật) | {worst_sector} |",
+        f"| Nhóm được mua nhiều nhất (kỹ thuật) | {best_sector} |",
         "",
         "---",
         "",
-        "## 2. Bảng Scan Kỹ Thuật + Dòng Tiền",
+        "## 2. Bảng Scan Kỹ Thuật",
         "",
-        "| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | NN hôm nay (tỷ) | Tín hiệu |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | Tín hiệu |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     sorted_rows = sorted(snapshot_rows, key=lambda r: _SIGNAL_PRIORITY.get(r["signal"], 2))
@@ -1030,14 +930,13 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
             f"| {r['ticker']} | {_fmt(r['close'], '{:,.1f}')} | {pct_str}"
             f" | {r['vs_ema20']} | {r['vs_ema50']}"
             f" | {_fmt(r['rsi14'])} | {_fmt(r['macd_h'], '{:+.3f}')}"
-            f" | {_fmt(r['ff_net_bn'], '{:+.1f}')} | {r['signal']} |"
+            f" | {r['signal']} |"
         )
 
     lines += [
         "",
         "**Legend:**",
         "- Tín hiệu: ✅ TĂNG | ⚠️ GIẢM | 🔄 TRUNG TÍNH | 🔴 RỦI RO CAO",
-        "- NN hôm nay: (+) mua ròng, (−) bán ròng — đơn vị tỷ VND _(ước tính KL khớp NN × giá đóng cửa)_",
         "",
         "---",
         "",
@@ -1187,7 +1086,11 @@ def run_pipeline(mode: str) -> None:
 
         frames: dict = {}
         kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
-        vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
+        try:
+            vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
+        except Exception as _vci_err:
+            print(f"    [WARN] vs.stock VCI init failed: {_vci_err} — retrying with KBS fallback")
+            vci = kbs
 
         # ── Daily data ──
         if effective_mode in ("daily", "full"):
@@ -1198,9 +1101,6 @@ def run_pipeline(mode: str) -> None:
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
             frames["Sự kiện"]              = fetch_events(vci)
             frames["Chỉ báo kỹ thuật"]     = compute_technicals(frames["Lịch sử giá"])
-            # Tích lũy dòng tiền NN hàng ngày
-            record_foreign_flow(ticker, frames["Thống kê giao dịch"])
-            frames["Dòng tiền NN lịch sử"] = load_foreign_flow_history(ticker, n=10)
             snapshot_rows.append(_build_snapshot_row(ticker, frames, industry_map))
 
             all_sheets[f"{ticker}_TradingStats"] = frames["Thống kê giao dịch"]
