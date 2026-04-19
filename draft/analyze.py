@@ -68,6 +68,43 @@ def _throttle() -> None:
 
 warnings.filterwarnings("ignore")
 
+# ── Patch VCI Company._fetch_data và Finance._get_company_type ────────────────
+# VCI GraphQL đôi khi trả về {"errors": [...]} thay vì {"data": {...}}
+# → KeyError: 'data' hoặc 'CompanyListingInfo' → crash vs.stock(source="VCI") init
+try:
+    import vnstock.explorer.vci.company as _vci_co
+    _orig_fetch = _vci_co.Company._fetch_data
+
+    def _patched_fetch(self):
+        try:
+            return _orig_fetch(self)
+        except (KeyError, TypeError) as _e:
+            import warnings as _w
+            _w.warn(f"[VCI] Company._fetch_data response không hợp lệ ({_e}); dùng dict rỗng")
+            return {}
+
+    _vci_co.Company._fetch_data = _patched_fetch
+except Exception:
+    pass
+
+try:
+    import vnstock.explorer.vci.financial as _vci_fin
+
+    def _patched_get_company_type(self) -> str:
+        try:
+            from vnstock.explorer.vci.company import Company as _VCICompany
+            listing_info = _VCICompany(symbol=self.symbol)._fetch_data().get('CompanyListingInfo') or {}
+            icb4 = listing_info.get('icbName4', '')
+            # _ICB4_COMTYPE_CODE_MAP từ financial.py
+            return _vci_fin._ICB4_COMTYPE_CODE_MAP.get(icb4, 'CT')
+        except Exception:
+            return 'CT'  # fallback: Công ty thông thường
+
+    _vci_fin.Finance._get_company_type = _patched_get_company_type
+except Exception:
+    pass
+# ──────────────────────────────────────────────────────────────────────────────
+
 SOURCE_COMPANY = "KBS"   # company info + financials
 SOURCE_QUOTE   = "VCI"   # price history, price board, ratio_summary, trading_stats
 
@@ -1086,11 +1123,7 @@ def run_pipeline(mode: str) -> None:
 
         frames: dict = {}
         kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
-        try:
-            vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
-        except Exception as _vci_err:
-            print(f"    [WARN] vs.stock VCI init failed: {_vci_err} — retrying with KBS fallback")
-            vci = kbs
+        vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
 
         # ── Daily data ──
         if effective_mode in ("daily", "full"):
