@@ -1,13 +1,36 @@
 # BSI — BSI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BSI |
+| exchange | HOSE |
+| market_cap | 8869978839450 |
+| 52w_high | 57000 |
+| 52w_high_date | 2025-08-20 |
+| 52w_low | 31850 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 35.6335 |
+| dividend | 0 |
+| beta | 0.91 |
+| eps | 2108 |
+| eps_forward | 16.058291818376997 |
+| bvps | 22528.63 |
+| pe | 17.38 |
+| pb | 1.63 |
+| price_chg_1m | 5.70 |
+| price_chg_ytd | -18.82 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BSI |
+| pe | 17.38 |
+| pb | 1.63 |
+| roe | 9.32 |
+| roe_pct_rank | 46 |
+| roa | 3.66 |
+| roa_pct_rank | 44 |
+| eps | 2108 |
+| bvps | 22528.63 |
+| beta | 0.91 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 60 |
+| pb_pct_rank | 63 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                     | publish_time        | url                                                              |
-|:------------------------------------------|:--------------------|:-----------------------------------------------------------------|
-| BSI: Báo cáo tài chính riêng lẻ  năm 2025 | 2026-03-30T10:24:00 | /2026/03/bsi-bao-cao-tai-chinh-rieng-le-nam-2025-737-1418477.htm |
+| title                                                                  | publishtime           | url                                                                                          |
+|:-----------------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------|
+| BSI: Báo cáo tài chính  riêng lẻ Q1 2026                               | 2026-04-20T09:20:00   | /2026/04/bsi-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429969.htm                              |
+| BSI: BCTC quý 1 năm 2026                                               | 2026-04-20T00:00:00   | /2026/04/bsi-bctc-quy-1-nam-2026-737-1430178.htm                                             |
+| BSI: Báo cáo thường niên năm 2025                                      | 2026-04-17T16:56:06   | /2026/04/bsi-bao-cao-thuong-nien-nam-2025-737-1429424.htm                                    |
+| BSI: Báo cáo thường niên năm 2025                                      | 2026-04-17T00:00:00   | /2026/04/bsi-bao-cao-thuong-nien-nam-2025-737-1429211.htm                                    |
+| BSC công bố tài liệu họp đại hội, cổ phiếu bật tăng trần               | 2026-03-31T16:53:12.3 | /2026/03/bsc-cong-bo-tai-lieu-hop-dai-hoi-co-phieu-bat-tang-tran-737-1419407.htm             |
+| BSI: Quyết định hủy niêm yết chứng quyền có bảo đảm do đáo hạn (03 mã) | 2026-03-31T00:00:00   | /2026/03/bsi-quyet-dinh-huy-niem-yet-chung-quyen-co-bao-dam-do-dao-han-03-ma-741-1419633.htm |
+| BSI: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026         | 2026-03-30T18:00:03   | /2026/03/bsi-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1418948.htm       |
+| BSI: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                | 2026-03-30T13:38:17   | /2026/03/bsi-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025-737-1418583.htm              |
+| BSI: Giải trình biến động LNST năm 2025 so với cùng kỳ năm trước       | 2026-03-30T13:36:53   | /2026/03/bsi-giai-trinh-bien-dong-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418566.htm     |
+| BSI: Báo cáo tài chính riêng lẻ  năm 2025                              | 2026-03-30T10:24:00   | /2026/03/bsi-bao-cao-tai-chinh-rieng-le-nam-2025-737-1418477.htm                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

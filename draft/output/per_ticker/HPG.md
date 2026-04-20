@@ -1,13 +1,36 @@
 # HPG — HPG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 20/04/2026 23:00  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HPG |
+| exchange | HOSE |
+| market_cap | 218367003574750 |
+| 52w_high | 30350 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 20776 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 22.6599 |
+| dividend | 0 |
+| beta | 0.65 |
+| eps | 2203 |
+| eps_forward | 14.32752727347156 |
+| bvps | 17096 |
+| pe | 12.71 |
+| pb | 1.64 |
+| price_chg_1m | 9.85 |
+| price_chg_ytd | 34.24 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HPG |
+| pe | 12.71 |
+| pb | 1.64 |
+| roe | 12.62 |
+| roe_pct_rank | 53 |
+| roa | 6.41 |
+| roa_pct_rank | 55 |
+| eps | 2203 |
+| bvps | 17096 |
+| beta | 0.65 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 63 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                 | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Hòa Phát khánh thành nhà máy ống thép hơn 2,000 tỷ đồng, nâng tổng công suất lên 1.2 triệu tấn/năm    | 2026-04-20T15:31:47.14  | /2026/04/hoa-phat-khanh-thanh-nha-may-ong-thep-hon-2000-ty-dong-nang-tong-cong-suat-len-12-trieu-tannam-737-1430248.htm   |
+| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                                   | 2026-04-20T15:02:00     | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                                |
+| Mảng thức ăn chăn nuôi của Hòa Phát tăng trưởng mạnh trong quý 1                                      | 2026-04-18T12:26:52.887 | /2026/04/mang-thuc-an-chan-nuoi-cua-hoa-phat-tang-truong-manh-trong-quy-1-737-1429739.htm                                 |
+| HPG: Thông báo đường dẫn báo cáo thường niên năm 2025                                                 | 2026-04-15T16:57:44     | /2026/04/hpg-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1428150.htm                                             |
+| Theo dấu dòng tiền cá mập 14/04: Tự doanh và khối ngoại hành động trái chiều, HPG và VIC hút sự chú ý | 2026-04-14T19:25:00     | /2026/04/theo-dau-dong-tien-ca-map-1404-tu-doanh-va-khoi-ngoai-hanh-dong-trai-chieu-hpg-va-vic-hut-su-chu-y-830-1427698.… |
+| HPG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trần Vũ Minh          | 2026-04-13T16:54:54     | /2026/04/hpg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-tran-vu-minh-739-1426967.htm      |
+| Con trai Chủ tịch Trần Đình Long không mua hết 50 triệu cp HPG đăng ký                                | 2026-04-13T12:58:57.003 | /2026/04/con-trai-chu-tich-tran-dinh-long-khong-mua-het-50-trieu-cp-hpg-dang-ky-739-1426695.htm                           |
+| Theo dấu dòng tiền cá mập 09/04: HPG được khối ngoại mua ròng mạnh                                    | 2026-04-09T19:45:02.39  | /2026/04/theo-dau-dong-tien-ca-map-0904-hpg-duoc-khoi-ngoai-mua-rong-manh-830-1425755.htm                                 |
+| Phân tích kỹ thuật phiên chiều 07/04: Giằng co mạnh                                                   | 2026-04-07T13:09:50.19  | /2026/04/phan-tich-ky-thuat-phien-chieu-0704-giang-co-manh-585-1424001.htm                                                |
+| Việt Nam áp thuế tạm thời 27.83% với thép HRC khổ rộng từ Trung Quốc                                  | 2026-04-02T14:44:43.15  | /2026/04/viet-nam-ap-thue-tam-thoi-2783-voi-thep-hrc-kho-rong-tu-trung-quoc-742-1421488.htm                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

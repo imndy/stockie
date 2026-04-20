@@ -1,13 +1,36 @@
 # VTP — VTP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 20/04/2026 23:11  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VTP |
+| exchange | HOSE |
+| market_cap | 8622239373600 |
+| 52w_high | 94828 |
+| 52w_high_date | 2026-01-15 |
+| 52w_low | 60766 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 4.7139 |
+| dividend | 1081 |
+| beta | 0.8 |
+| eps | 3348 |
+| eps_forward | 21.355952595801 |
+| bvps | 14519 |
+| pe | 21.21 |
+| pb | 4.89 |
+| price_chg_1m | 8.38 |
+| price_chg_ytd | -3.62 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.015268361581920903 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VTP |
+| pe | 21.21 |
+| pb | 4.89 |
+| roe | 24.13 |
+| roe_pct_rank | 77 |
+| roa | 5.83 |
+| roa_pct_rank | 53 |
+| eps | 3348 |
+| bvps | 14519 |
+| beta | 0.8 |
+| dividend | 1081 |
+| yield | 0.015268361581920903 |
+| pe_pct_rank | 69 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VTP: Thông báo giao dịch quyền mua cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hương Giang                    | 2026-04-17T18:29:14     | /2026/04/vtp-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-huong-giang-739-14296… |
+| VTP: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Phạm Văn Tuyên, Đinh Thanh Sơn                               | 2026-04-17T18:29:14     | /2026/04/vtp-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-pham-van-tuyen-dinh-thanh-son-739-1429609.htm        |
+| VTP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công đoàn cơ sở Tổng Công ty Cổ phần Bưu chí… | 2026-04-10T17:44:34     | /2026/04/vtp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-doan-co-so-tong-cong-ty-co-phan… |
+| VTP: Thông báo đơn xin từ nhiệm của Thành viên BKS và thông báo đề cử, ứng cử ứng viên bầu bổ sung Thành viên BKS         | 2026-04-03T18:31:41     | /2026/04/vtp-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-va-thong-bao-de-cu-ung-cu-ung-vien-bau-bo-sung-thanh-vien-bks… |
+| VTP: Thông báo ngày ĐKCC thực hiện quyền mua cổ phiếu chào bán ra công chúng cho CĐHH                                     | 2026-03-31T18:22:26     | /2026/03/vtp-thong-bao-ngay-dkcc-thuc-hien-quyen-mua-co-phieu-chao-ban-ra-cong-chung-cho-cdhh-739-1420061.htm             |
+| VTP: BCTC năm 2025                                                                                                        | 2026-03-31T00:00:00     | /2026/03/vtp-bctc-nam-2025-737-1420543.htm                                                                                |
+| VTP: BCTC Hợp nhất năm 2025                                                                                               | 2026-03-31T00:00:00     | /2026/03/vtp-bctc-hop-nhat-nam-2025-737-1420545.htm                                                                       |
+| Viettel Post chốt quyền phát hành hơn 51 triệu cp giá 10,000 đồng/cp                                                      | 2026-03-30T12:27:46.133 | /2026/03/viettel-post-chot-quyen-phat-hanh-hon-51-trieu-cp-gia-10000-dongcp-764-1418434.htm                               |
+| VTP: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                                             | 2026-03-27T10:31:42     | /2026/03/vtp-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1417394.htm                                                     |
+| VTP: Thông báo chào bán cổ phiếu ra công chúng                                                                            | 2026-03-25T18:10:36     | /2026/03/vtp-thong-bao-chao-ban-co-phieu-ra-cong-chung-739-1416520.htm                                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

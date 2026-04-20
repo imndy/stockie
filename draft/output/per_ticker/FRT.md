@@ -1,13 +1,36 @@
 # FRT — FRT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FRT |
+| exchange | HOSE |
+| market_cap | 25681509178000 |
+| 52w_high | 175500 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 120784 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 32.3465 |
+| dividend | 0 |
+| beta | 0.85 |
+| eps | 5302 |
+| eps_forward | 28.78098071049853 |
+| bvps | 30176 |
+| pe | 28.69 |
+| pb | 5.04 |
+| price_chg_1m | 1.48 |
+| price_chg_ytd | 28.69 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FRT |
+| pe | 28.69 |
+| pb | 5.04 |
+| roe | 27.12 |
+| roe_pct_rank | 83 |
+| roa | 4.02 |
+| roa_pct_rank | 45 |
+| eps | 5302 |
+| bvps | 30176 |
+| beta | 0.85 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 84 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                        | publish_time        | url                                                                  |
-|:---------------------------------------------|:--------------------|:---------------------------------------------------------------------|
-| FRT: Tài liệu họp ĐHĐCĐ thường niên năm 2026 | 2026-03-24T09:00:09 | /2026/03/frt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1415441.htm |
+| title                                                                                          | publishtime         | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| FRT: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                     | 2026-04-20T10:20:24 | /2026/04/frt-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1430013.htm                                     |
+| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động       | 2026-04-17T17:12:00 | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm          |
+| FRT: Báo cáo thường niên năm 2025                                                              | 2026-04-14T17:23:45 | /2026/04/frt-bao-cao-thuong-nien-nam-2025-737-1427597.htm                                                              |
+| Nhóm Dragon Capital trở thành cổ đông lớn FPT Retail                                           | 2026-04-03T20:02:00 | /2026/04/nhom-dragon-capital-tro-thanh-co-dong-lon-fpt-retail-739-1422895.htm                                          |
+| FRT: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                                  | 2026-04-02T18:32:13 | /2026/04/frt-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq-739-1421977.htm                                  |
+| FRT: Giải trình biến động LNST BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 2026-03-26T17:04:45 | /2026/03/frt-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1417054.htm |
+| FRT: BCTC năm 2025                                                                             | 2026-03-26T00:00:00 | /2026/03/frt-bctc-nam-2025-737-1417101.htm                                                                             |
+| FRT: BCTC Hợp nhất năm 2025                                                                    | 2026-03-26T00:00:00 | /2026/03/frt-bctc-hop-nhat-nam-2025-737-1417103.htm                                                                    |
+| FRT đặt mục tiêu tăng lãi 27% sau năm lãi đậm, dự kiến kinh doanh thêm drone                   | 2026-03-24T16:45:00 | /2026/03/frt-dat-muc-tieu-tang-lai-27-sau-nam-lai-dam-du-kien-kinh-doanh-them-drone-737-1415623.htm                    |
+| FRT: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-03-24T09:00:09 | /2026/03/frt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1415441.htm                                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

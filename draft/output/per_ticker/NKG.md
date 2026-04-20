@@ -1,13 +1,36 @@
 # NKG — NKG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NKG |
+| exchange | HOSE |
+| market_cap | 6601670494750 |
+| 52w_high | 19900 |
+| 52w_high_date | 2025-09-18 |
+| 52w_low | 11300 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 5.4512 |
+| dividend | 0 |
+| beta | 0.82 |
+| eps | 460 |
+| eps_forward | 14.953004841925377 |
+| bvps | 17060 |
+| pe | 31.94 |
+| pb | 0.86 |
+| price_chg_1m | 7.27 |
+| price_chg_ytd | 22.41 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NKG |
+| pe | 31.94 |
+| pb | 0.86 |
+| roe | 2.92 |
+| roe_pct_rank | 31 |
+| roa | 1.31 |
+| roa_pct_rank | 33 |
+| eps | 460 |
+| bvps | 17060 |
+| beta | 0.82 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 91 |
+| pb_pct_rank | 36 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                 | publishtime           | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Con trai Chủ tịch muốn mua thêm hàng triệu cổ phiếu, thị giá NKG tăng trần                            | 2026-04-14T15:07:32.6 | /2026/04/con-trai-chu-tich-muon-mua-them-hang-trieu-co-phieu-thi-gia-nkg-tang-tran-739-1427342.htm                        |
+| NKG: Báo cáo thường niên năm 2025                                                                     | 2026-04-14T10:23:50   | /2026/04/nkg-bao-cao-thuong-nien-nam-2025-737-1427261.htm                                                                 |
+| NKG: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Hồ Minh Phát                | 2026-04-13T16:41:02   | /2026/04/nkg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ho-minh-phat-739-1426937.htm            |
+| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                         | 2026-04-09T17:15:01   | /2026/04/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1425653.htm                                                       |
+| NKG đặt mục tiêu lợi nhuận tăng 66%, lên kế hoạch huy động gần 1,500 tỷ                               | 2026-04-06T12:45:00   | /2026/04/nkg-dat-muc-tieu-loi-nhuan-tang-66-len-ke-hoach-huy-dong-gan-1500-ty-737-1423330.htm                             |
+| NKG: Dự thảo tài liệu ĐHĐCĐ thường niên năm 2026                                                      | 2026-04-06T10:17:24   | /2026/04/nkg-du-thao-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1423276.htm                                                  |
+| NKG: Giải trình biến động KQKD BCTC hợp nhất và riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-03-26T09:07:03   | /2026/03/nkg-giai-trinh-bien-dong-kqkd-bctc-hop-nhat-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-141667… |
+| NKG: BCTC năm 2025                                                                                    | 2026-03-25T00:00:00   | /2026/03/nkg-bctc-nam-2025-737-1416664.htm                                                                                |
+| NKG: BCTC Hợp nhất năm 2025                                                                           | 2026-03-25T00:00:00   | /2026/03/nkg-bctc-hop-nhat-nam-2025-737-1416665.htm                                                                       |
+| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                         | 2026-03-20T15:04:50   | /2026/03/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1414437.htm                                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

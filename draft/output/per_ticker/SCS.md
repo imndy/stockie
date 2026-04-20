@@ -1,13 +1,36 @@
 # SCS — SCS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 20/04/2026 23:06  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SCS |
+| exchange | HOSE |
+| market_cap | 5522364726200 |
+| 52w_high | 63121 |
+| 52w_high_date | 2025-07-24 |
+| 52w_low | 51200 |
+| 52w_low_date | 2025-12-29 |
+| foreign_ownership | 10.9998 |
+| dividend | 5500 |
+| beta | 0.52 |
+| eps | 7389 |
+| eps_forward | 5.7418282619166865 |
+| bvps | 16996 |
+| pe | 7.31 |
+| pb | 3.18 |
+| price_chg_1m | 3.44 |
+| price_chg_ytd | -1.17 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.10166358595194085 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SCS |
+| pe | 7.31 |
+| pb | 3.18 |
+| roe | 50.62 |
+| roe_pct_rank | 100 |
+| roa | 36.97 |
+| roa_pct_rank | 100 |
+| eps | 7389 |
+| bvps | 16996 |
+| beta | 0.52 |
+| dividend | 5500 |
+| yield | 0.10166358595194085 |
+| pe_pct_rank | 38 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                    | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Doanh nghiệp “1 vốn 4 lời” báo lãi hơn 173 tỷ trong quý 1                                                | 2026-04-20T14:54:47.78  | /2026/04/doanh-nghiep-1-von-4-loi-bao-lai-hon-173-ty-trong-quy-1-737-1430149.htm                                          |
+| SCS: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-17T00:00:00     | /2026/04/scs-bctc-tom-tat-quy-1-nam-2026-737-1429481.htm                                                                  |
+| SCS nhắm lợi nhuận kỷ lục 960 tỷ đồng, chia cổ tức tiền mặt 50%                                          | 2026-04-07T17:50:03.313 | /2026/04/scs-nham-loi-nhuan-ky-luc-960-ty-dong-chia-co-tuc-tien-mat-50-737-1424239.htm                                    |
+| SCS: Nghị quyết HĐQT về việc thông qua chương trình, nội dung và tài liệu họp ĐHĐCĐ thường niên năm 2026 | 2026-04-06T15:54:24     | /2026/04/scs-nghi-quyet-hdqt-ve-viec-thong-qua-chuong-trinh-noi-dung-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423… |
+| SCS: Báo cáo thường niên năm 2025                                                                        | 2026-03-25T11:03:14     | /2026/03/scs-bao-cao-thuong-nien-nam-2025-737-1416107.htm                                                                 |
+| SCS: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                              | 2026-03-12T17:09:27     | /2026/03/scs-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026-737-1411603.htm                                       |
+| SCS: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026           | 2026-03-10T17:34:49     | /2026/03/scs-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1410478.htm    |
+| SCS: Nghị quyết HĐQT về việc lập DSCĐ có quyền tham dự ĐHĐCĐTN 2026                                      | 2026-03-10T09:39:48     | /2026/03/scs-nghi-quyet-hdqt-ve-viec-lap-dscd-co-quyen-tham-du-dhdcdtn-2026-737-1410185.htm                               |
+| SCS: BCTC năm 2025                                                                                       | 2026-03-07T00:00:00     | /2026/03/scs-bctc-nam-2025-737-1410098.htm                                                                                |
+| Sân bay mới, hãng bay mới - ngành hàng không 2026 đầy biến số                                            | 2026-02-22T13:02:00     | /2026/02/san-bay-moi-hang-bay-moi-nganh-hang-khong-2026-day-bien-so-737-1403812.htm                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

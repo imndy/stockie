@@ -1,13 +1,36 @@
 # DPM — DPM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DPM |
+| exchange | HOSE |
+| market_cap | 19445855600600 |
+| 52w_high | 34000 |
+| 52w_high_date | 2026-03-12 |
+| 52w_low | 17720 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 6.1644 |
+| dividend | 1500 |
+| beta | 0.33 |
+| eps | 2218 |
+| eps_forward | 28.899711002889973 |
+| bvps | 16962 |
+| pe | 13.03 |
+| pb | 1.70 |
+| price_chg_1m | -0.87 |
+| price_chg_ytd | 56.99 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.05244755244755245 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DPM |
+| pe | 13.03 |
+| pb | 1.70 |
+| roe | 9.65 |
+| roe_pct_rank | 46 |
+| roa | 6.26 |
+| roa_pct_rank | 54 |
+| eps | 2218 |
+| bvps | 16962 |
+| beta | 0.33 |
+| dividend | 1500 |
+| yield | 0.05244755244755245 |
+| pe_pct_rank | 51 |
+| pb_pct_rank | 65 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                          | publish_time        | url                                                                                                    |
-|:-------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------|
-| DPM: Giải trình biến động KQKD năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-03-26T17:02:10 | /2026/03/dpm-giai-trinh-bien-dong-kqkd-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1417049.htm |
+| title                                                                                | publishtime             | url                                                                                                          |
+|:-------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------|
+| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                          | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                           |
+| DPM đồng hành cùng Lễ hội Sầu riêng Đắk Lắk 2026: Khởi đầu từ hoạt động thụ phấn hoa | 2026-04-20T11:20:32.49  | /2026/04/dpm-dong-hanh-cung-le-hoi-sau-rieng-dak-lak-2026-khoi-dau-tu-hoat-dong-thu-phan-hoa-735-1429993.htm |
+| DPM khởi công dự án điện mặt trời mái nhà kho 20,000 tấn tại Nhà máy Đạm Phú Mỹ      | 2026-04-20T10:48:54.797 | /2026/04/dpm-khoi-cong-du-an-dien-mat-troi-mai-nha-kho-20000-tan-tai-nha-may-dam-phu-my-737-1429942.htm      |
+| Nhà máy đạm Phú Mỹ: 22 năm vững nền tảng, bứt tốc cùng lộ trình sản xuất thông minh  | 2026-04-17T15:33:46.917 | /2026/04/nha-may-dam-phu-my-22-nam-vung-nen-tang-but-toc-cung-lo-trinh-san-xuat-thong-minh-737-1429198.htm   |
+| DPM: Link công bố Báo cáo thường niên năm 2025                                       | 2026-04-13T17:10:24     | /2026/04/dpm-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1427039.htm                                       |
+| DPM: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Tổng Giám đốc                     | 2026-04-10T15:15:42     | /2026/04/dpm-thong-bao-thay-doi-nhan-su-bo-nhiem-lai-pho-tong-giam-doc-214-1426095.htm                       |
+| DPM đẩy mạnh xuất khẩu ure kỹ thuật, tận dụng cơ hội giá thế giới tăng cao           | 2026-04-08T16:18:00     | /2026/04/dpm-day-manh-xuat-khau-ure-ky-thuat-tan-dung-co-hoi-gia-the-gioi-tang-cao-737-1425013.htm           |
+| DPM dự kiến trả cổ tức năm 2025 bằng tiền mặt, tỷ lệ 15%                             | 2026-04-02T15:31:28.34  | /2026/04/dpm-du-kien-tra-co-tuc-nam-2025-bang-tien-mat-ty-le-15-738-1421521.htm                              |
+| DPM: Công bố thông tin BCTC HN và Riêng năm 2025 đã kiểm toán                        | 2026-03-26T17:10:05     | /2026/03/dpm-cong-bo-thong-tin-bctc-hn-va-rieng-nam-2025-da-kiem-toan-737-1417069.htm                        |
+| DPM: Giải trình biến động KQKD năm 2025 sau kiểm toán so với cùng kỳ năm trước       | 2026-03-26T17:02:10     | /2026/03/dpm-giai-trinh-bien-dong-kqkd-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1417049.htm       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

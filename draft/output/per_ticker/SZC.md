@@ -1,13 +1,36 @@
 # SZC — SZC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 20:03
+> 📅 Daily: 20/04/2026 23:07  |  🗂 Quarterly: 05/04/2026 20:03
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SZC |
+| exchange | HOSE |
+| market_cap | 5219590027000 |
+| 52w_high | 38635 |
+| 52w_high_date | 2025-08-13 |
+| 52w_low | 27050 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 4.0146 |
+| dividend | 1000 |
+| beta | 0.94 |
+| eps | 1917 |
+| eps_forward | 93.38596322325985 |
+| bvps | 17797 |
+| pe | 15.18 |
+| pb | 1.64 |
+| price_chg_1m | -0.17 |
+| price_chg_ytd | -3.75 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.034482758620689655 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SZC |
+| pe | 15.18 |
+| pb | 1.64 |
+| roe | 10.94 |
+| roe_pct_rank | 49 |
+| roa | 4.21 |
+| roa_pct_rank | 46 |
+| eps | 1917 |
+| bvps | 17797 |
+| beta | 0.94 |
+| dividend | 1000 |
+| yield | 0.034482758620689655 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 63 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                   | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SZC: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                                               | 2026-04-17T18:59:01     | /2026/04/szc-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1429632.htm                          |
+| Chuyên gia Grant Thornton Việt Nam: Thông tư 99 tạo ra bước ngoặt trong kế toán ban đầu, nhưng là sự thay đổi cần thiết | 2026-04-08T13:02:00     | /2026/04/chuyen-gia-grant-thornton-viet-nam-thong-tu-99-tao-ra-buoc-ngoat-trong-ke-toan-ban-dau-nhung-la-su-thay-doi-can… |
+| SZC: Báo cáo thường niên năm 2025                                                                                       | 2026-04-08T09:15:02     | /2026/04/szc-bao-cao-thuong-nien-nam-2025-737-1424638.htm                                                                 |
+| SZC: Báo cáo thường niên năm 2025                                                                                       | 2026-04-08T09:12:34     | /2026/04/szc-bao-cao-thuong-nien-nam-2025-737-1424656.htm                                                                 |
+| SZC: Quyết định của HĐQT về việc ký hợp đồng xử lý nước thải với Công ty TNHH MTV Dịch vụ Golf Châu Đức                 | 2026-04-01T18:13:59     | /2026/04/szc-quyet-dinh-cua-hdqt-ve-viec-ky-hop-dong-xu-ly-nuoc-thai-voi-cong-ty-tnhh-mtv-dich-vu-golf-chau-duc-830-1421… |
+| Vì sao SZC lên kế hoạch lợi nhuận về thấp nhất 9 năm sau năm lãi kỷ lục?                                                | 2026-03-25T13:10:31.517 | /2026/03/vi-sao-szc-len-ke-hoach-loi-nhuan-ve-thap-nhat-9-nam-sau-nam-lai-ky-luc-737-1416130.htm                          |
+| SZC: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                                | 2026-03-25T09:48:49     | /2026/03/szc-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1416032.htm                                                          |
+| SZC: Giải trình biến động LNST BCTC HN và riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước                          | 2026-03-19T09:04:42     | /2026/03/szc-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1413850.htm    |
+| SZC: BCTC năm 2025                                                                                                      | 2026-03-18T00:00:00     | /2026/03/szc-bctc-nam-2025-737-1413875.htm                                                                                |
+| SZC: BCTC Hợp nhất năm 2025                                                                                             | 2026-03-18T00:00:00     | /2026/03/szc-bctc-hop-nhat-nam-2025-737-1413876.htm                                                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

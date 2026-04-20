@@ -1,13 +1,36 @@
 # HDB — HDB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDB |
+| exchange | HOSE |
+| market_cap | 134641933088700 |
+| 52w_high | 29700 |
+| 52w_high_date | 2025-12-31 |
+| 52w_low | 15652 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 21.8939 |
+| dividend | 0 |
+| beta | 0.9 |
+| eps | 4644 |
+| eps_forward | 6.19190656365729 |
+| bvps | 20278.87 |
+| pe | 5.64 |
+| pb | 1.29 |
+| price_chg_1m | 7.60 |
+| price_chg_ytd | 67.74 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDB |
+| pe | 5.64 |
+| pb | 1.29 |
+| roe | 25.28 |
+| roe_pct_rank | 79 |
+| roa | 2.03 |
+| roa_pct_rank | 36 |
+| eps | 4644 |
+| bvps | 20278.87 |
+| beta | 0.9 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 34 |
+| pb_pct_rank | 54 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                         | publishtime            | url                                                                                                                   |
+|:----------------------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------|
+| DCM, HDB và SAB có triển vọng gì?                                                             | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                                              |
+| HDB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Minh Đức                            | 2026-04-15T17:56:48    | /2026/04/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-minh-duc-830-1428267.htm                            |
+| Cú hích từ VIFC: HDBank cùng LSE mở lối cho các tập đoàn lớn huy động vốn xuyên biên giới     | 2026-04-14T15:30:00    | /2026/04/cu-hich-tu-vifc-hdbank-cung-lse-mo-loi-cho-cac-tap-doan-lon-huy-dong-von-xuyen-bien-gioi-757-1427356.htm     |
+| HDB: Thông báo về việc thay đổi địa điểm của PGD Thác Mơ                                      | 2026-04-10T16:37:55    | /2026/04/hdb-thong-bao-ve-viec-thay-doi-dia-diem-cua-pgd-thac-mo-830-1426235.htm                                      |
+| HDB: Biên bản kiểm phiếu và Nghị quyết ĐHĐCĐ về việc lấy ý kiến cổ đông bằng văn bản năm 2026 | 2026-04-08T17:41:15    | /2026/04/hdb-bien-ban-kiem-phieu-va-nghi-quyet-dhdcd-ve-viec-lay-y-kien-co-dong-bang-van-ban-nam-2026-737-1425157.htm |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                | 2026-04-06T20:02:00    | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC      | 2026-04-06T13:02:00    | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
+| HDBank hướng tới mốc tài sản 1.2 triệu tỷ, mục tiêu lợi nhuận tăng 41% trong năm 2026         | 2026-04-04T10:33:21.84 | /2026/04/hdbank-huong-toi-moc-tai-san-12-trieu-ty-muc-tieu-loi-nhuan-tang-41-trong-nam-2026-737-1422994.htm           |
+| HDB: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-03T18:12:41    | /2026/04/hdb-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422872.htm                                                      |
+| AGR: Nghị quyết HĐQT về việc phê duyệt thiết lập hạn mức tín dụng tại HDB                     | 2026-04-01T16:54:27    | /2026/04/agr-nghi-quyet-hdqt-ve-viec-phe-duyet-thiet-lap-han-muc-tin-dung-tai-hdb-737-1421053.htm                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # PTB — PTB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 20:00
+> 📅 Daily: 20/04/2026 23:05  |  🗂 Quarterly: 05/04/2026 20:00
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PTB |
+| exchange | HOSE |
+| market_cap | 4056467242000 |
+| 52w_high | 57900 |
+| 52w_high_date | 2026-02-27 |
+| 52w_low | 40867 |
+| 52w_low_date | 2025-10-03 |
+| foreign_ownership | 16.0184 |
+| dividend | 1500 |
+| beta | 0.83 |
+| eps | 7538 |
+| eps_forward | 4.3774199117117565 |
+| bvps | 50015 |
+| pe | 6.59 |
+| pb | 0.99 |
+| price_chg_1m | 3.70 |
+| price_chg_ytd | 17.90 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.0297029702970297 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PTB |
+| pe | 6.59 |
+| pb | 0.99 |
+| roe | 16.29 |
+| roe_pct_rank | 61 |
+| roa | 8.44 |
+| roa_pct_rank | 62 |
+| eps | 7538 |
+| bvps | 50015 |
+| beta | 0.83 |
+| dividend | 1500 |
+| yield | 0.0297029702970297 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 42 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                     | publishtime            | url                                                                                                               |
+|:------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------|
+| PTB: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức 2025   | 2026-04-20T16:30:08    | /2026/04/ptb-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-2025-737-1430550.htm   |
+| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Phan Hồng Qúy                          | 2026-04-16T18:01:40    | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-phan-hong-quy-830-1428817.htm                          |
+| PTB: Nghị quyết HĐQT về kết quả SXKD quý I/2026 và kế hoạch SXKD quý II/2026              | 2026-04-16T17:35:01    | /2026/04/ptb-nghi-quyet-hdqt-ve-ket-qua-sxkd-quy-i-2026-va-ke-hoach-sxkd-quy-ii-2026-737-1428763.htm              |
+| PTB: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo             | 2026-04-16T17:35:00    | /2026/04/ptb-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-tai-lieu-kem-theo-737-1428765.htm              |
+| PTB: Nghị quyết HĐQT về việc thông qua các giao dịch với các bên liên quan trong năm 2026 | 2026-04-16T17:26:46    | /2026/04/ptb-nghi-quyet-hdqt-ve-viec-thong-qua-cac-giao-dich-voi-cac-ben-lien-quan-trong-nam-2026-737-1428754.htm |
+| PTB: Đính chính báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lê Anh Văn            | 2026-04-07T10:59:47    | /2026/04/ptb-dinh-chinh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van-739-1423970.htm            |
+| Thuế quan ảnh hưởng triển vọng mảng gỗ, Phú Tài vẫn đặt mục tiêu tăng trưởng 2 chữ số     | 2026-04-06T17:29:13.92 | /2026/04/thue-quan-anh-huong-trien-vong-mang-go-phu-tai-van-dat-muc-tieu-tang-truong-2-chu-so-737-1423497.htm     |
+| PTB: Báo cáo thường niên năm 2025                                                         | 2026-04-06T10:03:23    | /2026/04/ptb-bao-cao-thuong-nien-nam-2025-737-1423258.htm                                                         |
+| PTB: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán năm 2025 (đã kiểm toán)         | 2026-04-06T10:03:23    | /2026/04/ptb-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-nam-2025-da-kiem-toan-737-1423260.htm           |
+| PTB: Cập nhật chương trình và tài liệu ĐHĐCĐ thường niên 2026                             | 2026-04-06T09:40:32    | /2026/04/ptb-cap-nhat-chuong-trinh-va-tai-lieu-dhdcd-thuong-nien-2026-737-1423226.htm                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

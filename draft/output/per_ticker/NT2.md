@@ -1,13 +1,36 @@
 # NT2 — NT2
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 20/04/2026 23:03  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NT2 |
+| exchange | HOSE |
+| market_cap | 7571139562700 |
+| 52w_high | 28900 |
+| 52w_high_date | 2026-03-02 |
+| 52w_low | 16743 |
+| 52w_low_date | 2025-04-24 |
+| foreign_ownership | 12.5701 |
+| dividend | 700 |
+| beta | 0.7 |
+| eps | 3969 |
+| eps_forward | 26.850350603616537 |
+| bvps | 17505 |
+| pe | 6.55 |
+| pb | 1.49 |
+| price_chg_1m | 1.35 |
+| price_chg_ytd | 48.09 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.026615969581749048 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NT2 |
+| pe | 6.55 |
+| pb | 1.49 |
+| roe | 22.42 |
+| roe_pct_rank | 73 |
+| roa | 11.22 |
+| roa_pct_rank | 72 |
+| eps | 3969 |
+| bvps | 17505 |
+| beta | 0.7 |
+| dividend | 700 |
+| yield | 0.026615969581749048 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 59 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                           | publishtime             | url                                                                                                     |
+|:--------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
+| NT2: BCTC Tóm tắt quý 1 năm 2026                                                | 2026-04-20T00:00:00     | /2026/04/nt2-bctc-tom-tat-quy-1-nam-2026-737-1430000.htm                                                |
+| MCH, NT2 và PNJ có triển vọng gì?                                               | 2026-04-13T12:01:35.44  | /2026/04/mch-nt2-va-pnj-co-trien-vong-gi-145-1426686.htm                                                |
+| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026 | 2026-04-07T16:33:33     | /2026/04/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1424218.htm |
+| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                               | 2026-04-07T16:33:32     | /2026/04/nt2-thong-bao-ve-viec-huy-ngay-dang-ky-cuoi-cung-737-1424217.htm                               |
+| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026           | 2026-04-03T18:20:59     | /2026/04/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026-737-1422891.htm           |
+| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026             | 2026-04-03T18:20:57     | /2026/04/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026-737-1422885.htm             |
+| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                             | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                              |
+| NT2: Báo cáo thường niên năm 2025                                               | 2026-03-19T17:10:23     | /2026/03/nt2-bao-cao-thuong-nien-nam-2025-737-1414161.htm                                               |
+| NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 2026-03-03T17:40:27     | /2026/03/nt2-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407832.htm                  |
+| NT2: BCTC Tóm tắt năm 2025                                                      | 2026-03-02T00:00:00     | /2026/03/nt2-bctc-tom-tat-nam-2025-737-1407164.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # SJS — SJS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 20/04/2026 23:06  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SJS |
+| exchange | HOSE |
+| market_cap | 15855408332400 |
+| 52w_high | 81300 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 32723 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 0.5768 |
+| dividend | 0 |
+| beta | 0.53 |
+| eps | 1614 |
+| eps_forward | 45.04619359664108 |
+| bvps | 10054 |
+| pe | 32.83 |
+| pb | 5.27 |
+| price_chg_1m | 8.33 |
+| price_chg_ytd | 56.78 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SJS |
+| pe | 32.83 |
+| pb | 5.27 |
+| roe | 8.91 |
+| roe_pct_rank | 45 |
+| roa | 3.38 |
+| roa_pct_rank | 42 |
+| eps | 1614 |
+| bvps | 10054 |
+| beta | 0.53 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 93 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                    | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
+| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing            | 2026-04-03T18:04:26     | /2026/04/sjs-thong-bao-thay-doi-nhan-su-bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh-marketing-214-1422853.htm         |
+| SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-31T17:15:37     | /2026/03/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1420143.htm                                                     |
+| SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026             | 2026-03-31T17:14:43     | /2026/03/sjs-nghi-quyet-hdqt-ve-viec-phe-duyet-thoi-gian-dia-diem-va-tai-lieu-hop-dhdcd-tn-nam-2026-737-1420144.htm       |
+| SJS: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                        | 2026-03-30T16:18:47     | /2026/03/sjs-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418776.htm                                 |
+| SJS: BCTC Hợp nhất năm 2025                                                                              | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-hop-nhat-nam-2025-737-1418701.htm                                                                       |
+| SJS: BCTC năm 2025                                                                                       | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-nam-2025-737-1418702.htm                                                                                |
+| Cổ đông lớn nhất bán 39 triệu cp SJS, thu hơn 2 ngàn tỷ                                                  | 2026-03-12T15:02:54.313 | /2026/03/co-dong-lon-nhat-ban-39-trieu-cp-sjs-thu-hon-2-ngan-ty-739-1411406.htm                                           |
+| SJS: Báo cáo về thay đổi sở hữu của CĐ lớn CTCP TM dịch vụ Đầu tư An Phát                                | 2026-03-11T15:41:10     | /2026/03/sjs-bao-cao-ve-thay-doi-so-huu-cua-cd-lon-ctcp-tm-dich-vu-dau-tu-an-phat-737-1410921.htm                         |
+| SJS: Báo cáo thay đổi về sở hữu của cổ đông lớn Công ty Cổ phần Thương mại Dịch vụ Đầu tư An Phát        | 2026-03-09T14:32:39     | /2026/03/sjs-bao-cao-thay-doi-ve-so-huu-cua-co-dong-lon-cong-ty-co-phan-thuong-mai-dich-vu-dau-tu-an-phat-737-1409862.ht… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

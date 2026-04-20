@@ -1,13 +1,36 @@
 # VRE — VRE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:24
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: 05/04/2026 12:24
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VRE |
+| exchange | HOSE |
+| market_cap | 66919777174500 |
+| 52w_high | 43400 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 20400 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 12.0326 |
+| dividend | 0 |
+| beta | 1.51 |
+| eps | 2837 |
+| eps_forward | 12.391466352402905 |
+| bvps | 21286 |
+| pe | 10.08 |
+| pb | 1.34 |
+| price_chg_1m | 12.62 |
+| price_chg_ytd | 44.36 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VRE |
+| pe | 10.08 |
+| pb | 1.34 |
+| roe | 14.28 |
+| roe_pct_rank | 56 |
+| roa | 11.07 |
+| roa_pct_rank | 71 |
+| eps | 2837 |
+| bvps | 21286 |
+| beta | 1.51 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 55 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                    | publishtime            | url                                                                                                            |
+|:-----------------------------------------------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------|
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?              | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm               |
+| VRE: Đính chính BCTC Hợp nhất và Riêng kiểm toán năm 2025                                | 2026-04-08T09:15:12    | /2026/04/vre-dinh-chinh-bctc-hop-nhat-va-rieng-kiem-toan-nam-2025-737-1424669.htm                              |
+| VRE: Báo cáo thường niên năm 2025                                                        | 2026-04-06T09:15:42    | /2026/04/vre-bao-cao-thuong-nien-nam-2025-737-1423285.htm                                                      |
+| Vincom Retail đặt kế hoạch tăng trưởng 2 chữ số, không chia cổ tức                       | 2026-04-01T17:32:11.06 | /2026/04/vincom-retail-dat-ke-hoach-tang-truong-2-chu-so-khong-chia-co-tuc-737-1420915.htm                     |
+| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm | 2026-04-01T16:47:00    | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm |
+| VRE: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                | 2026-03-26T15:12:48    | /2026/03/vre-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1416911.htm               |
+| VRE: Giải trình chênh lệch BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-03-16T17:12:03    | /2026/03/vre-giai-trinh-chenh-lech-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1412768.htm            |
+| VRE: BCTC Hợp nhất năm 2025                                                              | 2026-03-16T00:00:00    | /2026/03/vre-bctc-hop-nhat-nam-2025-737-1412771.htm                                                            |
+| VRE: BCTC năm 2025                                                                       | 2026-03-16T00:00:00    | /2026/03/vre-bctc-nam-2025-737-1412772.htm                                                                     |
+| VRE: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                           | 2026-03-04T09:39:40    | /2026/03/vre-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407927.htm                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

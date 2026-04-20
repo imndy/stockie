@@ -1,13 +1,36 @@
 # CTR — CTR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTR |
+| exchange | HOSE |
+| market_cap | 9963010060900 |
+| 52w_high | 108000 |
+| 52w_high_date | 2026-01-14 |
+| 52w_low | 76267 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 5.1709 |
+| dividend | 2150 |
+| beta | 0.78 |
+| eps | 5242 |
+| eps_forward | 16.036103300458095 |
+| bvps | 18086 |
+| pe | 16.64 |
+| pb | 4.82 |
+| price_chg_1m | 8.88 |
+| price_chg_ytd | 3.83 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02468427095292767 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTR |
+| pe | 16.64 |
+| pb | 4.82 |
+| roe | 30.5 |
+| roe_pct_rank | 90 |
+| roa | 7.85 |
+| roa_pct_rank | 60 |
+| eps | 5242 |
+| bvps | 18086 |
+| beta | 0.78 |
+| dividend | 2150 |
+| yield | 0.02468427095292767 |
+| pe_pct_rank | 58 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                    | publish_time        | url                                              |
-|:-------------------------|:--------------------|:-------------------------------------------------|
-| CTR: BCTC quý 4 năm 2025 | 2026-01-29T00:00:00 | /2026/01/ctr-bctc-quy-4-nam-2025-737-1397999.htm |
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| CTR: Báo cáo thường niên năm 2025                                                              | 2026-04-09T17:17:55     | /2026/04/ctr-bao-cao-thuong-nien-nam-2025-737-1425656.htm                                                              |
+| CTR: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026                                      | 2026-04-01T17:54:41     | /2026/04/ctr-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1421155.htm                                      |
+| CTR: BCTC năm 2025                                                                             | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-nam-2025-737-1414375.htm                                                                             |
+| CTR: BCTC Hợp nhất năm 2025                                                                    | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-hop-nhat-nam-2025-737-1414376.htm                                                                    |
+| CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-02-10T09:18:55     | /2026/02/ctr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1402193.htm |
+| Phân tích kỹ thuật phiên chiều 05/02: Stochastic Oscillator về vùng oversold                   | 2026-02-05T13:04:27.347 | /2026/02/phan-tich-ky-thuat-phien-chieu-0502-stochastic-oscillator-ve-vung-oversold-585-1400831.htm                    |
+| CTR: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                 | 2026-02-03T18:12:49     | /2026/02/ctr-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1399948.htm                                 |
+| CTR: Báo cáo tình hình quản trị công ty năm 2025                                               | 2026-01-30T18:45:33     | /2026/01/ctr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397913.htm                                               |
+| CTR: BCTC Hợp nhất quý 4 năm 2025                                                              | 2026-01-29T00:00:00     | /2026/01/ctr-bctc-hop-nhat-quy-4-nam-2025-737-1397989.htm                                                              |
+| CTR: BCTC quý 4 năm 2025                                                                       | 2026-01-29T00:00:00     | /2026/01/ctr-bctc-quy-4-nam-2025-737-1397999.htm                                                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

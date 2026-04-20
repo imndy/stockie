@@ -1,13 +1,36 @@
 # PC1 — PC1
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 20/04/2026 23:03  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PC1 |
+| exchange | HOSE |
+| market_cap | 10940190123800 |
+| 52w_high | 31350 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 17815 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 16.8809 |
+| dividend | 0 |
+| beta | 0.84 |
+| eps | 2895 |
+| eps_forward | 13.11096352052739 |
+| bvps | 21612 |
+| pe | 9.21 |
+| pb | 1.23 |
+| price_chg_1m | -0.19 |
+| price_chg_ytd | 44.72 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PC1 |
+| pe | 9.21 |
+| pb | 1.23 |
+| roe | 16.44 |
+| roe_pct_rank | 61 |
+| roa | 4.61 |
+| roa_pct_rank | 48 |
+| eps | 2895 |
+| bvps | 21612 |
+| beta | 0.84 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 42 |
+| pb_pct_rank | 52 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                 | publishtime             | url                                                                                                           |
+|:--------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------|
+| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                           | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                            |
+| PC1 dự phát hành 148 triệu cp để tăng vốn                                             | 2026-04-01T17:18:16.74  | /2026/04/pc1-du-phat-hanh-148-trieu-cp-de-tang-von-737-1420882.htm                                            |
+| PC1: Tài liệu họp ĐHĐCĐ thường niên 2026                                              | 2026-04-01T09:13:07     | /2026/04/pc1-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1420305.htm                                              |
+| PC1: Giải trình biến động LNST BCTC HN và Riêng năm 2025 sau kiểm toán                | 2026-03-31T13:44:19     | /2026/03/pc1-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-sau-kiem-toan-737-1419533.htm                |
+| PC1: BCTC Hợp nhất năm 2025                                                           | 2026-03-31T00:00:00     | /2026/03/pc1-bctc-hop-nhat-nam-2025-737-1419508.htm                                                           |
+| PC1: BCTC năm 2025                                                                    | 2026-03-31T00:00:00     | /2026/03/pc1-bctc-nam-2025-737-1419512.htm                                                                    |
+| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                                   | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                                    |
+| PC1 rút vốn khỏi 1 công ty bất động sản                                               | 2026-03-06T20:02:00     | /2026/03/pc1-rut-von-khoi-1-cong-ty-bat-dong-san-737-1409440.htm                                              |
+| PC1: Nghị quyết HĐQT về việc chấm dứt khoản đầu tư tại Công ty Cổ phần Đầu tư BĐS CT2 | 2026-03-06T16:59:48     | /2026/03/pc1-nghi-quyet-hdqt-ve-viec-cham-dut-khoan-dau-tu-tai-cong-ty-co-phan-dau-tu-bds-ct2-737-1409315.htm |
+| Phân tích kỹ thuật phiên chiều 26/02: Đà tăng vững chắc                               | 2026-02-26T13:12:31.91  | /2026/02/phan-tich-ky-thuat-phien-chieu-2602-da-tang-vung-chac-585-1405753.htm                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

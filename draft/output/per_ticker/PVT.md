@@ -1,13 +1,36 @@
 # PVT — PVT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 20/04/2026 23:05  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PVT |
+| exchange | HOSE |
+| market_cap | 10127018114250 |
+| 52w_high | 30700 |
+| 52w_high_date | 2026-03-06 |
+| 52w_low | 15547 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 13.2744 |
+| dividend | 0 |
+| beta | 0.67 |
+| eps | 2541 |
+| eps_forward | 8.517487282510368 |
+| bvps | 24452 |
+| pe | 8.56 |
+| pb | 0.89 |
+| price_chg_1m | -0.92 |
+| price_chg_ytd | 34.35 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PVT |
+| pe | 8.56 |
+| pb | 0.89 |
+| roe | 12.16 |
+| roe_pct_rank | 52 |
+| roa | 4.92 |
+| roa_pct_rank | 49 |
+| eps | 2541 |
+| bvps | 24452 |
+| beta | 0.67 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 40 |
+| pb_pct_rank | 37 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                           | publishtime             | url                                                                                                                    |
+|:------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Chủ tịch PVT thôi bán cổ phiếu khi giá đã hạ nhiệt                                              | 2026-04-13T20:02:00     | /2026/04/chu-tich-pvt-thoi-ban-co-phieu-khi-gia-da-ha-nhiet-739-1427081.htm                                            |
+| PVT: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Phạm Việt Anh                          | 2026-04-13T10:02:52     | /2026/04/pvt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-pham-viet-anh-739-1426660.htm                         |
+| PVT: Báo cáo thường niên năm 2025                                                               | 2026-04-13T09:46:41     | /2026/04/pvt-bao-cao-thuong-nien-nam-2025-737-1426653.htm                                                              |
+| Phân tích kỹ thuật phiên chiều 06/04: Tiếp tục điều chỉnh                                       | 2026-04-06T13:09:51.547 | /2026/04/phan-tich-ky-thuat-phien-chieu-0604-tiep-tuc-dieu-chinh-585-1423378.htm                                       |
+| PVT: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026                                  | 2026-03-25T15:21:26     | /2026/03/pvt-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1416248.htm                                 |
+| PVT: BCTC Tóm tắt Hợp nhất năm 2025                                                             | 2026-03-24T00:00:00     | /2026/03/pvt-bctc-tom-tat-hop-nhat-nam-2025-737-1416109.htm                                                            |
+| CTG, KDH và PVT có gì hấp dẫn?                                                                  | 2026-03-23T12:50:14.877 | /2026/03/ctg-kdh-va-pvt-co-gi-hap-dan-145-1415018.htm                                                                  |
+| Hãng vận tải dầu PVT Logistics đặt mục tiêu lãi sau thuế 2026 tăng 7%, tiếp tục mở rộng đội tàu | 2026-03-13T12:32:18.793 | /2026/03/hang-van-tai-dau-pvt-logistics-dat-muc-tieu-lai-sau-thue-2026-tang-7-tiep-tuc-mo-rong-doi-tau-737-1411875.htm |
+| PVT: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026  | 2026-03-10T16:29:54     | /2026/03/pvt-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1410421.htm |
+| Phân tích kỹ thuật phiên chiều 10/03: Hồi phục mạnh                                             | 2026-03-10T13:05:17.28  | /2026/03/phan-tich-ky-thuat-phien-chieu-1003-hoi-phuc-manh-585-1410269.htm                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

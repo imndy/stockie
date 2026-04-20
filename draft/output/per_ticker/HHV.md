@@ -1,13 +1,36 @@
 # HHV — HHV
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 20/04/2026 23:00  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HHV |
+| exchange | HOSE |
+| market_cap | 6976370274000 |
+| 52w_high | 16378 |
+| 52w_high_date | 2025-09-29 |
+| 52w_low | 10895 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 10.4711 |
+| dividend | 0 |
+| beta | 0.75 |
+| eps | 1262 |
+| eps_forward | 11.370045748766753 |
+| bvps | 16092 |
+| pe | 10.06 |
+| pb | 0.79 |
+| price_chg_1m | 6.25 |
+| price_chg_ytd | 15.54 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HHV |
+| pe | 10.06 |
+| pb | 0.79 |
+| roe | 9.09 |
+| roe_pct_rank | 45 |
+| roa | 1.48 |
+| roa_pct_rank | 34 |
+| eps | 1262 |
+| bvps | 16092 |
+| beta | 0.75 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 33 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                         | publishtime             | url                                                                                                   |
+|:------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------|
+| Cổ đông lớn đề cử 2 ứng viên vào Ban Kiểm soát Đèo Cả trước thềm ĐHĐCĐ        | 2026-04-14T11:22:15.84  | /2026/04/co-dong-lon-de-cu-2-ung-vien-vao-ban-kiem-soat-deo-ca-truoc-them-dhdcd-214-1427244.htm       |
+| HHV: Danh sách ứng viên bầu làm Kiểm soát viên nhiệm kỳ 2026-2031             | 2026-04-13T18:02:29     | /2026/04/hhv-danh-sach-ung-vien-bau-lam-kiem-soat-vien-nhiem-ky-20262031-830-1427131.htm              |
+| HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết        | 2026-04-09T17:51:38     | /2026/04/hhv-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1425709.htm        |
+| HHV: Quyết định về việc thay đổi đăng ký niêm yết                             | 2026-04-07T11:04:09     | /2026/04/hhv-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1423945.htm                             |
+| Đèo Cả đặt kế hoạch kinh doanh kỷ lục, muốn tăng vốn lên hơn 6.3 ngàn tỷ      | 2026-04-06T16:58:36.427 | /2026/04/deo-ca-dat-ke-hoach-kinh-doanh-ky-luc-muon-tang-von-len-hon-63-ngan-ty-737-1423376.htm       |
+| HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-06T09:29:27     | /2026/04/hhv-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1423185.htm                                      |
+| HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                            | 2026-04-02T18:35:19     | /2026/04/hhv-thong-bao-don-xin-tu-nhiem-cua-kiem-soat-vien-830-1421899.htm                            |
+| HHV: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                           | 2026-04-01T17:39:21     | /2026/04/hhv-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn-830-1421119.htm                           |
+| HHV: Giải trình biến động LNST năm 2025 đã kiểm toán so với cùng kỳ năm trước | 2026-04-01T09:16:57     | /2026/04/hhv-giai-trinh-bien-dong-lnst-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1420312.htm |
+| HHV: BCTC năm 2025                                                            | 2026-03-31T00:00:00     | /2026/03/hhv-bctc-nam-2025-737-1420020.htm                                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

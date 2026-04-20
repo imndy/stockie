@@ -1,13 +1,36 @@
 # DSE — DSE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DSE |
+| exchange | HOSE |
+| market_cap | 8205270000000 |
+| 52w_high | 30351 |
+| 52w_high_date | 2025-08-29 |
+| 52w_low | 19008 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 11.16 |
+| dividend | 700 |
+| beta | 0.77 |
+| eps | 684 |
+| eps_forward | 18.57042747021724 |
+| bvps | 15640.53 |
+| pe | 34.86 |
+| pb | 1.52 |
+| price_chg_1m | 3.01 |
+| price_chg_ytd | 22.81 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.029227557411273485 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DSE |
+| pe | 34.86 |
+| pb | 1.52 |
+| roe | 6.54 |
+| roe_pct_rank | 39 |
+| roa | 2.11 |
+| roa_pct_rank | 37 |
+| eps | 684 |
+| bvps | 15640.53 |
+| beta | 0.77 |
+| dividend | 700 |
+| yield | 0.029227557411273485 |
+| pe_pct_rank | 95 |
+| pb_pct_rank | 60 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                 | publish_time        | url                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DSE: Quyết định phê duyệt hạn mức tín dụng 2,000 tỷ đồng với Ngân hàng TMCP Ngoại thương Việt Nam – chi nhánh Tây Hồ. | 2026-04-13T00:00:00 | /2026/04/dse-quyet-dinh-phe-duyet-han-muc-tin-dung-2000-ty-dong-voi-ngan-hang-tmcp-ngoai-thuong-viet-namchi-nhanh-tay-ho… |
+| title                                                                                                                 | publishtime            | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DNSE nối tiếp đà tăng trưởng doanh thu và dư nợ margin                                                                | 2026-04-18T10:25:47.39 | /2026/04/dnse-noi-tiep-da-tang-truong-doanh-thu-va-du-no-margin-737-1429717.htm                                           |
+| DSE: Báo cáo tài chính  riêng lẻ Q1 2026                                                                              | 2026-04-17T18:39:00    | /2026/04/dse-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429651.htm                                                           |
+| DSE: BCTC Tóm tắt năm 2026                                                                                            | 2026-04-17T00:00:00    | /2026/04/dse-bctc-tom-tat-nam-2026-737-1429667.htm                                                                        |
+| DSE: BCTC quý 1 năm 2026                                                                                              | 2026-04-17T00:00:00    | /2026/04/dse-bctc-quy-1-nam-2026-737-1430182.htm                                                                          |
+| DSE: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan và hợp đồng nguyên tắc                          | 2026-04-15T11:01:43    | /2026/04/dse-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-co-lien-quan-va-hop-dong-nguyen-tac-737-1427875.htm      |
+| DSE: Quyết định về việc thay đổi đăng ký niêm yết                                                                     | 2026-04-15T10:40:32    | /2026/04/dse-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1427831.htm                                                 |
+| DSE: Quyết định của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh về việc thay đổi đăng ký niêm yết cổ phiếu DSE     | 2026-04-15T00:00:00    | /2026/04/dse-quyet-dinh-cua-so-giao-dich-chung-khoan-thanh-pho-ho-chi-minh-ve-viec-thay-doi-dang-ky-niem-yet-co-phieu-ds… |
+| DSE: Nghị quyết Hội đồng quản trị thông qua việc chấp thuận giao dịch với các bên có liên quan                        | 2026-04-14T00:00:00    | /2026/04/dse-nghi-quyet-hoi-dong-quan-tri-thong-qua-viec-chap-thuan-giao-dich-voi-cac-ben-co-lien-quan-737-1427663.htm    |
+| DSE: Quyết định của TGĐ về việc phê duyệt hạn mức tín dụng do VCB Tây Hồ cấp                                          | 2026-04-13T17:17:12    | /2026/04/dse-quyet-dinh-cua-tgd-ve-viec-phe-duyet-han-muc-tin-dung-do-vcb-tay-ho-cap-830-1427016.htm                      |
+| DSE: Quyết định phê duyệt hạn mức tín dụng 2,000 tỷ đồng với Ngân hàng TMCP Ngoại thương Việt Nam – chi nhánh Tây Hồ. | 2026-04-13T00:00:00    | /2026/04/dse-quyet-dinh-phe-duyet-han-muc-tin-dung-2000-ty-dong-voi-ngan-hang-tmcp-ngoai-thuong-viet-namchi-nhanh-tay-ho… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

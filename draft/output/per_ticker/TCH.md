@@ -1,13 +1,36 @@
 # TCH — TCH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TCH |
+| exchange | HOSE |
+| market_cap | 15597067730400 |
+| 52w_high | 24645 |
+| 52w_high_date | 2025-10-13 |
+| 52w_low | 12850 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 13.8572 |
+| dividend | 0 |
+| beta | 1.05 |
+| eps | 476 |
+| eps_forward | 9.174754937466801 |
+| bvps | 21356 |
+| pe | 35.94 |
+| pb | 0.80 |
+| price_chg_1m | 14.77 |
+| price_chg_ytd | 24.55 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2024 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TCH |
+| pe | 35.94 |
+| pb | 0.80 |
+| roe | 8.67 |
+| roe_pct_rank | 44 |
+| roa | 5.71 |
+| roa_pct_rank | 52 |
+| eps | 476 |
+| bvps | 21356 |
+| beta | 1.05 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 33 |
+| financial_date | 12/2024 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                       | publishtime             | url                                                                                                                |
+|:--------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| TCH: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan                       | 2026-04-17T18:58:19     | /2026/04/tch-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-co-lien-quan-737-1429633.htm                      |
+| TCH bị phạt và truy thu thuế hơn 20 tỷ đồng, nhóm Dragon Capital lại tăng sở hữu lên hơn 6% | 2026-04-08T10:59:52.73  | /2026/04/tch-bi-phat-va-truy-thu-thue-hon-20-ty-dong-nhom-dragon-capital-lai-tang-so-huu-len-hon-6-737-1424673.htm |
+| TCH: Thông báo Quyết định của Thuế TP Hải Phòng về việc xử phạt vi phạm hành chính về thuế  | 2026-04-07T17:56:22     | /2026/04/tch-thong-bao-quyet-dinh-cua-thue-tp-hai-phong-ve-viec-xu-phat-vi-pham-hanh-chinh-ve-thue-830-1424380.htm |
+| TCH: Báo cáo thay đổi sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là CĐ lớn          | 2026-04-07T17:48:44     | /2026/04/tch-bao-cao-thay-doi-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-cd-lon-737-1424352.htm         |
+| TCH: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán cổ phiếu ra công chúng        | 2026-03-30T18:04:52     | /2026/03/tch-bao-cao-tien-do-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-739-1418943.htm       |
+| Dragon Capital tiếp tục bán ra 2.5 triệu cp TCH, giảm tỷ lệ xuống dưới 6%                   | 2026-03-30T11:12:58.223 | /2026/03/dragon-capital-tiep-tuc-ban-ra-25-trieu-cp-tch-giam-ty-le-xuong-duoi-6-739-1418377.htm                    |
+| TCH: Báo cáo về thay đổi sở hữu của nhóm nhà ĐTN có liên quan là CĐ lớn                     | 2026-03-27T18:18:38     | /2026/03/tch-bao-cao-ve-thay-doi-so-huu-cua-nhom-nha-dtn-co-lien-quan-la-cd-lon-739-1417997.htm                    |
+| Thanh tra phát hiện nhiều bất cập tại các dự án NOXH của TCH ở Hải Phòng                    | 2026-03-14T17:27:37.623 | /2026/03/thanh-tra-phat-hien-nhieu-bat-cap-tai-cac-du-an-noxh-cua-tch-o-hai-phong-737-1412318.htm                  |
+| Động thái lạ của Dragon Capital tại TCH trước chuỗi giảm điểm liên tiếp                     | 2026-03-02T11:18:20.273 | /2026/03/dong-thai-la-cua-dragon-capital-tai-tch-truoc-chuoi-giam-diem-lien-tiep-739-1406837.htm                   |
+| TCH: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn  | 2026-02-27T17:55:13     | /2026/02/tch-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon-737-1406606.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

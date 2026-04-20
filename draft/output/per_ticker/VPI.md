@@ -1,13 +1,36 @@
 # VPI — VPI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VPI |
+| exchange | HOSE |
+| market_cap | 19459014281600 |
+| 52w_high | 61500 |
+| 52w_high_date | 2026-04-17 |
+| 52w_low | 48400 |
+| 52w_low_date | 2025-05-15 |
+| foreign_ownership | 9.7676 |
+| dividend | 0 |
+| beta | 0.47 |
+| eps | 1236 |
+| eps_forward | 56.23731231368533 |
+| bvps | 17122 |
+| pe | 49.76 |
+| pb | 3.59 |
+| price_chg_1m | 4.83 |
+| price_chg_ytd | 13.64 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VPI |
+| pe | 49.76 |
+| pb | 3.59 |
+| roe | 7.48 |
+| roe_pct_rank | 41 |
+| roa | 3.04 |
+| roa_pct_rank | 41 |
+| eps | 1236 |
+| bvps | 17122 |
+| beta | 0.47 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VPI: CBTT giao dịch liên quan trái phiếu                                                                                  | 2026-04-20T16:39:59 | /2026/04/vpi-cbtt-giao-dich-lien-quan-trai-phieu-785-1430573.htm                                                          |
+| VPI: Báo cáo thường niên năm 2025                                                                                         | 2026-04-17T19:39:05 | /2026/04/vpi-bao-cao-thuong-nien-nam-2025-737-1429672.htm                                                                 |
+| Văn Phú tổ chức triển lãm bất động sản “Muôn vị nhân sinh” tại Thành phố Hồ Chí Minh                                      | 2026-04-17T14:47:00 | /2026/04/van-phu-to-chuc-trien-lam-bat-dong-san-muon-vi-nhan-sinh-tai-thanh-pho-ho-chi-minh-4222-1429135.htm              |
+| VPI: Nghị quyết HĐQT số 1304 ngày 13/04/2026                                                                              | 2026-04-14T17:31:46 | /2026/04/vpi-nghi-quyet-hdqt-so-1304-ngay-13-04-2026-737-1427618.htm                                                      |
+| VPI: Thông báo thay đổi nhân sự                                                                                           | 2026-04-03T18:12:40 | /2026/04/vpi-thong-bao-thay-doi-nhan-su-214-1422869.htm                                                                   |
+| VPI: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                                  | 2026-04-03T14:21:22 | /2026/04/vpi-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422553.htm                                                          |
+| VPI: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 so với cùng kỳ năm trước                                        | 2026-04-01T16:30:34 | /2026/04/vpi-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1421018.htm                |
+| VPI: BCTC năm 2025                                                                                                        | 2026-03-31T00:00:00 | /2026/03/vpi-bctc-nam-2025-737-1420923.htm                                                                                |
+| VPI: BCTC Hợp nhất năm 2025                                                                                               | 2026-03-31T00:00:00 | /2026/03/vpi-bctc-hop-nhat-nam-2025-737-1420925.htm                                                                       |
+| Văn Phú khởi công dự án Vlasta Premier - Phú Hội: Kiến tạo chuẩn sống tinh hoa tại “giao lộ di sản – hiện đại” trung tâm… | 2026-03-30T10:22:00 | /2026/03/van-phu-khoi-cong-du-an-vlasta-premier-phu-hoi-kien-tao-chuan-song-tinh-hoa-tai-giao-lo-di-san-8211-hien-dai-tr… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

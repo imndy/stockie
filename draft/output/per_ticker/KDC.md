@@ -1,13 +1,36 @@
 # KDC — KDC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 20/04/2026 23:01  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KDC |
+| exchange | HOSE |
+| market_cap | 13939683799600 |
+| 52w_high | 57620 |
+| 52w_high_date | 2025-06-20 |
+| 52w_low | 47800 |
+| 52w_low_date | 2026-04-07 |
+| foreign_ownership | 16.0192 |
+| dividend | 1200 |
+| beta | 0.1 |
+| eps | 1917 |
+| eps_forward | 17.388406280112736 |
+| bvps | 26700 |
+| pe | 25.04 |
+| pb | 1.80 |
+| price_chg_1m | -3.70 |
+| price_chg_ytd | -11.58 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02494802494802495 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KDC |
+| pe | 25.04 |
+| pb | 1.80 |
+| roe | 7.83 |
+| roe_pct_rank | 42 |
+| roa | 3.81 |
+| roa_pct_rank | 44 |
+| eps | 1917 |
+| bvps | 26700 |
+| beta | 0.1 |
+| dividend | 1200 |
+| yield | 0.02494802494802495 |
+| pe_pct_rank | 77 |
+| pb_pct_rank | 68 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                               | publishtime             | url                                                                                                         |
+|:------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------|
+| Vợ Chủ tịch Trần Kim Thành đăng ký mua 2 triệu cp KDC                               | 2026-04-20T19:03:54.407 | /2026/04/vo-chu-tich-tran-kim-thanh-dang-ky-mua-2-trieu-cp-kdc-739-1430714.htm                              |
+| KDC: Báo cáo thường niên năm 2025                                                   | 2026-04-20T16:03:22     | /2026/04/kdc-bao-cao-thuong-nien-nam-2025-737-1430467.htm                                                   |
+| KDC: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Xuân Liễu             | 2026-04-14T17:36:16     | /2026/04/kdc-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-xuan-lieu-830-1427634.htm             |
+| KDC: Nghị quyết HĐQT về việc thay đổi thời gian tổ chức ĐHĐCĐ thường niên 2026      | 2026-04-02T17:06:55     | /2026/04/kdc-nghi-quyet-hdqt-ve-viec-thay-doi-thoi-gian-to-chuc-dhdcd-thuong-nien-2026-737-1422129.htm      |
+| KDC: Giải trình biến động lợi nhuận năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-04-01T08:52:30     | /2026/04/kdc-giai-trinh-bien-dong-loi-nhuan-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1420267.htm |
+| KDC: BCTC Hợp nhất năm 2025                                                         | 2026-03-31T00:00:00     | /2026/03/kdc-bctc-hop-nhat-nam-2025-737-1420272.htm                                                         |
+| KDC: BCTC năm 2025                                                                  | 2026-03-31T00:00:00     | /2026/03/kdc-bctc-nam-2025-737-1420273.htm                                                                  |
+| KDC: CBTT mua lại cổ phiếu VOC                                                      | 2026-03-30T13:26:59     | /2026/03/kdc-cbtt-mua-lai-co-phieu-voc-739-1418557.htm                                                      |
+| KDC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                      | 2026-03-27T19:33:04     | /2026/03/kdc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1418106.htm                      |
+| KDC: Nghị quyết HĐQT số KDC04/2026 ngày 25/03/2026                                  | 2026-03-25T17:48:44     | /2026/03/kdc-nghi-quyet-hdqt-so-kdc04-2026-ngay-25-03-2026-737-1416491.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

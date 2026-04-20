@@ -1,13 +1,36 @@
 # CTD — CTD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTD |
+| exchange | HOSE |
+| market_cap | 8839533532000 |
+| 52w_high | 92751 |
+| 52w_high_date | 2025-10-31 |
+| 52w_low | 66404 |
+| 52w_low_date | 2025-08-25 |
+| foreign_ownership | 49 |
+| dividend | 1000 |
+| beta | 0.81 |
+| eps | 7520 |
+| eps_forward | 11.666141098127348 |
+| bvps | 90563 |
+| pe | 10.48 |
+| pb | 0.87 |
+| price_chg_1m | 5.01 |
+| price_chg_ytd | 21.23 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.012048192771084338 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTD |
+| pe | 10.48 |
+| pb | 0.87 |
+| eps | 7520 |
+| bvps | 90563 |
+| beta | 0.81 |
+| dividend | 1000 |
+| yield | 0.012048192771084338 |
+| pe_pct_rank | 45 |
+| pb_pct_rank | 36 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                               | publish_time            | url                                                                        |
-|:----------------------------------------------------|:------------------------|:---------------------------------------------------------------------------|
-| Phân tích kỹ thuật phiên chiều 27/02: Giằng co mạnh | 2026-02-27T13:07:04.993 | /2026/02/phan-tich-ky-thuat-phien-chieu-2702-giang-co-manh-585-1406194.htm |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CTD: Thông báo Quyết định của HNX về việc chấp thuận niêm yết trái phiếu của CTD                                          | 2026-04-17T19:05:02     | /2026/04/ctd-thong-bao-quyet-dinh-cua-hnx-ve-viec-chap-thuan-niem-yet-trai-phieu-cua-ctd-741-1429639.htm                  |
+| CTD: Thông báo về ngày đăng ký cuối cùng phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                   | 2026-04-10T09:08:46     | /2026/04/ctd-thong-bao-ve-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-737-1425… |
+| CTD: Thông báo phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH và thông báo chốt DS nhận cổ phiếu phát hành               | 2026-04-06T18:09:59     | /2026/04/ctd-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-va-thong-bao-chot-ds-nhan-co-phieu-phat-hanh-830-… |
+| CTD: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-03T17:31:40     | /2026/04/ctd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon… |
+| Phân tích kỹ thuật phiên chiều 03/04: Giằng co mạnh                                                                       | 2026-04-03T13:02:40.49  | /2026/04/phan-tich-ky-thuat-phien-chieu-0304-giang-co-manh-585-1422465.htm                                                |
+| CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH                         | 2026-03-26T17:43:33     | /2026/03/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-737-1417171.ht… |
+| CTD: BCTC 6 tháng đầu năm 2026                                                                                            | 2026-02-28T00:00:00     | /2026/02/ctd-bctc-6-thang-dau-nam-2026-737-1406935.htm                                                                    |
+| CTD: BCTC Hợp nhất 6 tháng đầu năm 2026                                                                                   | 2026-02-28T00:00:00     | /2026/02/ctd-bctc-hop-nhat-6-thang-dau-nam-2026-737-1406936.htm                                                           |
+| CTD: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 30                                                             | 2026-02-27T16:32:25     | /2026/02/ctd-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-30-737-1406444.htm                                     |
+| Phân tích kỹ thuật phiên chiều 27/02: Giằng co mạnh                                                                       | 2026-02-27T13:07:04.993 | /2026/02/phan-tich-ky-thuat-phien-chieu-2702-giang-co-manh-585-1406194.htm                                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

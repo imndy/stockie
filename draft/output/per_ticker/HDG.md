@@ -1,13 +1,36 @@
 # HDG — HDG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDG |
+| exchange | HOSE |
+| market_cap | 10469953890500 |
+| 52w_high | 35058 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 20079 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 20.2419 |
+| dividend | 500 |
+| beta | 0.84 |
+| eps | 1981 |
+| eps_forward | 9.765351552655895 |
+| bvps | 22644 |
+| pe | 14.08 |
+| pb | 1.23 |
+| price_chg_1m | -2.92 |
+| price_chg_ytd | 37.28 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.0176678445229682 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDG |
+| pe | 14.08 |
+| pb | 1.23 |
+| roe | 11.99 |
+| roe_pct_rank | 51 |
+| roa | 4.94 |
+| roa_pct_rank | 49 |
+| eps | 1981 |
+| bvps | 22644 |
+| beta | 0.84 |
+| dividend | 500 |
+| yield | 0.0176678445229682 |
+| pe_pct_rank | 53 |
+| pb_pct_rank | 52 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                             | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HDG: Báo cáo thường niên năm 2025                                                                 | 2026-04-20T16:57:56    | /2026/04/hdg-bao-cao-thuong-nien-nam-2025-737-1430619.htm                                                                 |
+| HDG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Thị Thu Hà | 2026-04-17T15:43:45    | /2026/04/hdg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-thi-thu-ha-739-1429312.ht… |
+| HDG: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đào Hữu Khanh           | 2026-04-01T18:09:57    | /2026/04/hdg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dao-huu-khanh-739-1421189.htm           |
+| HDG: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-04-01T15:18:07    | /2026/04/hdg-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1420841.htm              |
+| HDG: BCTC Kiểm toán năm 2025                                                                      | 2026-03-31T00:00:00    | /2026/03/hdg-bctc-kiem-toan-nam-2025-737-1420843.htm                                                                      |
+| HDG: BCTC Hợp nhất Kiểm toán năm 2025                                                             | 2026-03-31T00:00:00    | /2026/03/hdg-bctc-hop-nhat-kiem-toan-nam-2025-737-1420840.htm                                                             |
+| HDG: Thông báo mời họp và đường dẫn tài liệu ĐHĐCĐ thường niên năm 2025                           | 2026-03-30T18:12:50    | /2026/03/hdg-thong-bao-moi-hop-va-duong-dan-tai-lieu-dhdcd-thuong-nien-nam-2025-737-1418997.htm                           |
+| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                                 | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                                  |
+| Mẹ Tổng Giám đốc Hà Đô muốn chi trăm tỷ gom cổ phiếu                                              | 2026-03-12T18:00:00    | /2026/03/me-tong-giam-doc-ha-do-muon-chi-tram-ty-gom-co-phieu-739-1411536.htm                                             |
+| HDG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2025                       | 2026-03-11T10:43:08    | /2026/03/hdg-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2025-737-1410744.htm                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

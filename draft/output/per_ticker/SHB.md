@@ -1,13 +1,36 @@
 # SHB — SHB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 20/04/2026 23:06  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SHB |
+| exchange | HOSE |
+| market_cap | 70283668721400 |
+| 52w_high | 18793 |
+| 52w_high_date | 2025-09-03 |
+| 52w_low | 10514 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 3.2793 |
+| dividend | 500 |
+| beta | 0.65 |
+| eps | 2884 |
+| eps_forward | 6.834354019538212 |
+| bvps | 14801.94 |
+| pe | 5.31 |
+| pb | 1.03 |
+| price_chg_1m | 4.09 |
+| price_chg_ytd | 41.56 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.032679738562091505 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SHB |
+| pe | 5.31 |
+| pb | 1.03 |
+| roe | 19.05 |
+| roe_pct_rank | 66 |
+| roa | 1.46 |
+| roa_pct_rank | 34 |
+| eps | 2884 |
+| bvps | 14801.94 |
+| beta | 0.65 |
+| dividend | 500 |
+| yield | 0.032679738562091505 |
+| pe_pct_rank | 33 |
+| pb_pct_rank | 44 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SHB125017: Thông qua Phương án phát hành, Phương án sử dụng và trả nợ vốn thu được từ đợt chào bán Trái phiếu SHB phát h… | 2026-04-20T16:51:00     | /2026/04/shb125017-thong-qua-phuong-an-phat-hanh-phuong-an-su-dung-va-tra-no-von-thu-duoc-tu-dot-chao-ban-trai-phieu-shb… |
+| SHB: Thông báo giao dịch quyền mua cổ phiếu của người có liên quan đến Người nội bộ Đỗ Vinh Quang                         | 2026-04-20T16:39:56     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-do-vinh-quang-739-1430577.ht… |
+| SHB: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Đỗ Quang Hiển, Đỗ Quang Vinh                                 | 2026-04-20T16:39:53     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-do-quang-hien-do-quang-vinh-739-1430581.htm          |
+| SHB: Thông báo giao dịch quyền mua cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Tập đoàn T&T, Công… | 2026-04-20T16:35:44     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-tap-doan-t… |
+| SHB hợp tác chiến lược với Huawei: Bứt phá công nghệ, kiến tạo Ngân hàng tương lai                                        | 2026-04-20T09:58:41.183 | /2026/04/shb-hop-tac-chien-luoc-voi-huawei-but-pha-cong-nghe-kien-tao-ngan-hang-tuong-lai-757-1429854.htm                 |
+| SHB: Thông báo nhận được Giấy phép thành lập và hoạt động ngân hàng                                                       | 2026-04-17T18:29:14     | /2026/04/shb-thong-bao-nhan-duoc-giay-phep-thanh-lap-va-hoat-dong-ngan-hang-830-1429610.htm                               |
+| SHB: Nghị quyết HĐQT về việc cấp bảo lãnh thanh toán đối với khách hàng doanh nghiệp                                      | 2026-04-17T18:21:49     | /2026/04/shb-nghi-quyet-hdqt-ve-viec-cap-bao-lanh-thanh-toan-doi-voi-khach-hang-doanh-nghiep-737-1429604.htm              |
+| SHB125010: Thông qua Phương án phát hành, Phương án sử dụng và trả nợ vốn thu được từ đợt chào bán Trái phiếu SHB phát h… | 2026-04-17T10:15:00     | /2026/04/shb125010-thong-qua-phuong-an-phat-hanh-phuong-an-su-dung-va-tra-no-von-thu-duoc-tu-dot-chao-ban-trai-phieu-shb… |
+| Theo dấu dòng tiền cá mập 16/04: Khối ngoại bán ròng hơn 1 ngàn tỷ đồng, tự doanh mua mạnh SHB                            | 2026-04-16T20:49:21.047 | /2026/04/theo-dau-dong-tien-ca-map-1604-khoi-ngoai-ban-rong-hon-1-ngan-ty-dong-tu-doanh-mua-manh-shb-830-1428914.htm      |
+| SHB: Thông báo phát hành cổ phiếu  theo chương trình lựa chọn cho người lao động trong công ty                            | 2026-04-16T16:57:11     | /2026/04/shb-thong-bao-phat-hanh-co-phieu-theo-chuong-trinh-lua-chon-cho-nguoi-lao-dong-trong-cong-ty-830-1428687.htm     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

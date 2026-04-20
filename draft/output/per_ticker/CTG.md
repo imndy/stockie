@@ -1,13 +1,36 @@
 # CTG — CTG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTG |
+| exchange | HOSE |
+| market_cap | 272619756758700 |
+| 52w_high | 41500 |
+| 52w_high_date | 2026-01-12 |
+| 52w_low | 25288 |
+| 52w_low_date | 2025-04-28 |
+| foreign_ownership | 25.3084 |
+| dividend | 450 |
+| beta | 0.91 |
+| eps | 6441 |
+| eps_forward | 8.32855367555683 |
+| bvps | 33452.79 |
+| pe | 5.41 |
+| pb | 1.04 |
+| price_chg_1m | 4.46 |
+| price_chg_ytd | 36.58 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.01282051282051282 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTG |
+| pe | 5.41 |
+| pb | 1.04 |
+| roe | 21.08 |
+| roe_pct_rank | 71 |
+| roa | 1.34 |
+| roa_pct_rank | 33 |
+| eps | 6441 |
+| bvps | 33452.79 |
+| beta | 0.91 |
+| dividend | 450 |
+| yield | 0.01282051282051282 |
+| pe_pct_rank | 33 |
+| pb_pct_rank | 44 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publish_time        | url                                                                                                             |
-|:-----------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------|
-| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC | 2026-04-06T13:02:00 | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm |
+| title                                                                                                 | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CTG: Báo cáo thường niên năm 2025                                                                     | 2026-04-20T17:09:14     | /2026/04/ctg-bao-cao-thuong-nien-nam-2025-737-1430669.htm                                                                 |
+| CTG: HĐQT thông qua hợp đồng đại diện nhận TSBĐ và văn bản ủy quyền giữa Vietinbank và Vietinbank Lào | 2026-04-15T18:13:57     | /2026/04/ctg-hdqt-thong-qua-hop-dong-dai-dien-nhan-tsbd-va-van-ban-uy-quyen-giua-vietinbank-va-vietinbank-lao-830-142829… |
+| CTG: HĐQT thông qua dự thảo hợp đồng cấp bảo lãnh hạn mức ký kết giữa VietinBank với VBI              | 2026-04-14T17:49:32     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-cap-bao-lanh-han-muc-ky-ket-giua-vietinbank-voi-vbi-830-1427667.htm          |
+| CTG: HĐQT thông qua dự thảo hợp đồng tiền gửi có kỳ hạn giữa VietinBank với VietinGold và VBI         | 2026-04-14T17:47:47     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-tien-gui-co-ky-han-giua-vietinbank-voi-vietingold-va-vbi-830-1427664.htm     |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                  | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| Lộ trình thoái vốn của VietinBank tại Cảng Sài Gòn gặp khó                                            | 2026-04-09T11:45:13.093 | /2026/04/lo-trinh-thoai-von-cua-vietinbank-tai-cang-sai-gon-gap-kho-739-1425383.htm                                       |
+| Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                         | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                           | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                        | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC              | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

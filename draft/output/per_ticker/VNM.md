@@ -1,6 +1,6 @@
 # VNM — VNM
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: —
 
 ---
 
@@ -341,7 +341,30 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VNM |
+| exchange | HOSE |
+| market_cap | 128532259867500 |
+| 52w_high | 73400 |
+| 52w_high_date | 2026-01-20 |
+| 52w_low | 51704 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 48.9382 |
+| dividend | 4850 |
+| beta | 0.53 |
+| eps | 4503 |
+| eps_forward | 13.035647072083087 |
+| bvps | 16499 |
+| pe | 13.61 |
+| pb | 3.72 |
+| price_chg_1m | 2.50 |
+| price_chg_ytd | 17.69 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.07886178861788617 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -362,11 +385,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VNM |
+| pe | 13.61 |
+| pb | 3.72 |
+| roe | 26.65 |
+| roe_pct_rank | 82 |
+| roa | 17.37 |
+| roa_pct_rank | 94 |
+| eps | 4503 |
+| bvps | 16499 |
+| beta | 0.53 |
+| dividend | 4850 |
+| yield | 0.07886178861788617 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                      | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD | 2026-04-08T17:41:11     | /2026/04/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victory-pte-ltd-739-1… |
+| VNM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD       | 2026-04-08T17:41:10     | /2026/04/vnm-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victory-pte-ltd-739-1425185… |
+| Phân tích kỹ thuật phiên chiều 07/04: Giằng co mạnh                                                        | 2026-04-07T13:09:50.19  | /2026/04/phan-tich-ky-thuat-phien-chieu-0704-giang-co-manh-585-1424001.htm                                                |
+| Vinamilk đặt kế hoạch lãi sau thuế hợp nhất hơn 9.8 ngàn tỷ                                                | 2026-04-01T13:15:25.967 | /2026/04/vinamilk-dat-ke-hoach-lai-sau-thue-hop-nhat-hon-98-ngan-ty-737-1420640.htm                                       |
+| VNM: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                          | 2026-04-01T10:10:26     | /2026/04/vnm-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1420407.htm                                                 |
+| Trang trại bò sữa của VNM ở Tây Ninh tăng gấp đôi quy mô lên 16,000 con, dự kiến vận hành đầu 2028         | 2026-03-24T17:08:25     | /2026/03/trang-trai-bo-sua-cua-vnm-o-tay-ninh-tang-gap-doi-quy-mo-len-16000-con-du-kien-van-hanh-dau-2028-737-1415674.ht… |
+| Vinamilk tròn 50 tuổi sẽ làm gì?                                                                           | 2026-03-21T10:08:51.517 | /2026/03/vinamilk-tron-50-tuoi-se-lam-gi-737-1414710.htm                                                                  |
+| VNM: Báo cáo thường niên năm 2025                                                                          | 2026-03-20T17:05:31     | /2026/03/vnm-bao-cao-thuong-nien-nam-2025-737-1414540.htm                                                                 |
+| VNM ETF tiếp đà bán ròng trong tuần công bố review danh mục                                                | 2026-03-19T14:08:38.503 | /2026/03/vnm-etf-tiep-da-ban-rong-trong-tuan-cong-bo-review-danh-muc-3358-1413950.htm                                     |
+| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                       | 2026-03-18T11:02:00     | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

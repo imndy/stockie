@@ -1,13 +1,36 @@
 # HDC — HDC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDC |
+| exchange | HOSE |
+| market_cap | 3735410477700 |
+| 52w_high | 37488 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 16300 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 1.9857 |
+| dividend | 0 |
+| beta | 0.98 |
+| eps | 3550 |
+| eps_forward | 8.739282012626024 |
+| bvps | 14703 |
+| pe | 5.23 |
+| pb | 1.26 |
+| price_chg_1m | 6.86 |
+| price_chg_ytd | -6.26 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HDC |
+| pe | 5.23 |
+| pb | 1.26 |
+| roe | 24.63 |
+| roe_pct_rank | 78 |
+| roa | 11.66 |
+| roa_pct_rank | 73 |
+| eps | 3550 |
+| bvps | 14703 |
+| beta | 0.98 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 33 |
+| pb_pct_rank | 53 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                          | publishtime         | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| HDC: Link công bố Báo cáo thường niên năm 2025                                                 | 2026-04-20T16:03:23 | /2026/04/hdc-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430465.htm                                                 |
+| Hodeco lên kế hoạch lãi giảm, tiếp tục tìm vốn qua kênh trái phiếu                             | 2026-04-04T14:02:00 | /2026/04/hodeco-len-ke-hoach-lai-giam-tiep-tuc-tim-von-qua-kenh-trai-phieu-737-1423011.htm                             |
+| HDC: Thông báo về việc thay đổi mối quan hệ với Công ty Cổ phần Đầu tư & Xây dựng HODECO       | 2026-04-03T15:30:33 | /2026/04/hdc-thong-bao-ve-viec-thay-doi-moi-quan-he-voi-cong-ty-co-phan-dau-tu-xay-dung-hodeco-737-1422607.htm         |
+| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu ra công chúng      | 2026-03-31T16:12:18 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-ra-cong-chung-785-1419770.htm      |
+| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu riêng lẻ           | 2026-03-31T16:11:43 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-rieng-le-785-1419773.htm           |
+| HDC: Giải trình doanh thu, lợi nhuận trên BCTC kiểm toán năm 2025                              | 2026-03-31T15:43:42 | /2026/03/hdc-giai-trinh-doanh-thu-loi-nhuan-tren-bctc-kiem-toan-nam-2025-737-1419735.htm                               |
+| HDC: BCTC năm 2025                                                                             | 2026-03-31T00:00:00 | /2026/03/hdc-bctc-nam-2025-737-1419714.htm                                                                             |
+| HDC: BCTC Hợp nhất năm 2025                                                                    | 2026-03-31T00:00:00 | /2026/03/hdc-bctc-hop-nhat-nam-2025-737-1419715.htm                                                                    |
+| HDC: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Đoàn Hữu Hà Vinh, Đoàn Hữu Thuận      | 2026-03-30T13:36:52 | /2026/03/hdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-huu-ha-vinh-doan-huu-thuan-739-1418581.htm       |
+| HDC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đoàn Hữu Hà An | 2026-03-30T13:36:49 | /2026/03/hdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-doan-huu-ha-an-739-1418569.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

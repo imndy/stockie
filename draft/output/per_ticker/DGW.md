@@ -1,13 +1,36 @@
 # DGW — DGW
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DGW |
+| exchange | HOSE |
+| market_cap | 10173760200000 |
+| 52w_high | 56000 |
+| 52w_high_date | 2026-02-03 |
+| 52w_low | 31123 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 24.0383 |
+| dividend | 500 |
+| beta | 1.1 |
+| eps | 2496 |
+| eps_forward | 19.44487937403992 |
+| bvps | 15701 |
+| pe | 18.41 |
+| pb | 2.93 |
+| price_chg_1m | 9.52 |
+| price_chg_ytd | 43.93 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.010869565217391304 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DGW |
+| pe | 18.41 |
+| pb | 2.93 |
+| roe | 17.12 |
+| roe_pct_rank | 62 |
+| roa | 5.55 |
+| roa_pct_rank | 52 |
+| eps | 2496 |
+| bvps | 15701 |
+| beta | 1.1 |
+| dividend | 500 |
+| yield | 0.010869565217391304 |
+| pe_pct_rank | 63 |
+| pb_pct_rank | 99 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                       | publish_time        | url                                                 |
-|:----------------------------|:--------------------|:----------------------------------------------------|
-| DGW: BCTC Hợp nhất năm 2025 | 2026-03-24T00:00:00 | /2026/03/dgw-bctc-hop-nhat-nam-2025-737-1416011.htm |
+| title                                                                                                | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                  | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
+| DGW: Thông báo thay đổi nhân sự - Miễn nhiệm Trưởng phòng Tài chính và Trưởng phòng kiểm toán nội bộ | 2026-04-16T09:08:51     | /2026/04/dgw-thong-bao-thay-doi-nhan-su-mien-nhiem-truong-phong-tai-chinh-va-truong-phong-kiem-toan-noi-bo-737-1428384.h… |
+| DGW: Nghị quyết HĐQT về việc miễn nhiệm Trưởng phòng Tài chính                                       | 2026-04-16T09:07:17     | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-mien-nhiem-truong-phong-tai-chinh-737-1428380.htm                                    |
+| DGW: Báo cáo thường niên năm 2025                                                                    | 2026-04-14T09:07:16     | /2026/04/dgw-bao-cao-thuong-nien-nam-2025-737-1427209.htm                                                                 |
+| DGW: Danh sách ứng cử viên HĐQT nhiệm kỳ 20265 - 2031                                                | 2026-04-13T10:13:53     | /2026/04/dgw-danh-sach-ung-cu-vien-hdqt-nhiem-ky-20265-2031-830-1426671.htm                                               |
+| DGW, DPG và FPT có gì hấp dẫn?                                                                       | 2026-03-30T12:25:26.237 | /2026/03/dgw-dpg-va-fpt-co-gi-hap-dan-145-1418486.htm                                                                     |
+| Digiworld lên kế hoạch tăng trưởng doanh thu 18%, chuẩn bị tái cấu trúc theo mô hình holdings        | 2026-03-26T11:53:00     | /2026/03/digiworld-len-ke-hoach-tang-truong-doanh-thu-18-chuan-bi-tai-cau-truc-theo-mo-hinh-holdings-737-1416741.htm      |
+| DGW: Tài liệu họp ĐHĐCĐ thường niên 2026 và link tài liệu                                            | 2026-03-25T15:21:26     | /2026/03/dgw-tai-lieu-hop-dhdcd-thuong-nien-2026-va-link-tai-lieu-737-1416250.htm                                         |
+| DGW: Giải trình KQKD HN và Riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước                     | 2026-03-25T09:36:13     | /2026/03/dgw-giai-trinh-kqkd-hn-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1416014.htm                  |
+| DGW: BCTC Hợp nhất năm 2025                                                                          | 2026-03-24T00:00:00     | /2026/03/dgw-bctc-hop-nhat-nam-2025-737-1416011.htm                                                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

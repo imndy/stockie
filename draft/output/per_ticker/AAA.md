@@ -1,13 +1,36 @@
 # AAA — AAA
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 19:46
+> 📅 Daily: 20/04/2026 22:54  |  🗂 Quarterly: 05/04/2026 19:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | AAA |
+| exchange | HOSE |
+| market_cap | 2771948819200 |
+| 52w_high | 8850 |
+| 52w_high_date | 2025-12-09 |
+| 52w_low | 6309 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 1.743 |
+| dividend | 300 |
+| beta | 0.71 |
+| eps | 940 |
+| eps_forward | 7.342189915194051 |
+| bvps | 15440 |
+| pe | 7.48 |
+| pb | 0.46 |
+| price_chg_1m | 1.29 |
+| price_chg_ytd | 4.73 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.04261363636363636 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | AAA |
+| pe | 7.48 |
+| pb | 0.46 |
+| roe | 6.88 |
+| roe_pct_rank | 40 |
+| roa | 2.8 |
+| roa_pct_rank | 40 |
+| eps | 940 |
+| bvps | 15440 |
+| beta | 0.71 |
+| dividend | 300 |
+| yield | 0.04261363636363636 |
+| pe_pct_rank | 38 |
+| pb_pct_rank | 18 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                            | publish_time        | url                                                                      |
-|:-------------------------------------------------|:--------------------|:-------------------------------------------------------------------------|
-| AAA: Báo cáo tình hình quản trị công ty năm 2025 | 2026-01-30T13:19:50 | /2026/01/aaa-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397347.htm |
+| title                                                                                 | publishtime         | url                                                                                                           |
+|:--------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------|
+| AAA: Nghị quyết HĐQT về việc thông qua tài liệu họp ĐHĐCĐTN 2026 và link tài liệu họp | 2026-04-16T18:01:43 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-tai-lieu-hop-dhdcdtn-2026-va-link-tai-lieu-hop-737-1428812.htm |
+| AAA: Báo cáo thường niên năm 2025                                                     | 2026-04-16T16:19:39 | /2026/04/aaa-bao-cao-thuong-nien-nam-2025-737-1428883.htm                                                     |
+| AAA: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026       | 2026-04-03T10:39:48 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026-737-1422397.htm        |
+| AAA: Giải trình chênh lệch LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-30T16:12:14 | /2026/03/aaa-giai-trinh-chenh-lech-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1418781.htm          |
+| AAA: BCTC Hợp nhất năm 2025                                                           | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-hop-nhat-nam-2025-737-1418616.htm                                                           |
+| AAA: BCTC Hợp nhất năm 2025                                                           | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-hop-nhat-nam-2025-737-1419076.htm                                                           |
+| AAA: BCTC năm 2025                                                                    | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-nam-2025-737-1418766.htm                                                                    |
+| AAA: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026           | 2026-03-06T14:47:12 | /2026/03/aaa-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1409135.htm           |
+| AAA: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026   | 2026-03-02T13:41:05 | /2026/03/aaa-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026-737-1406971.htm   |
+| AAA: Báo cáo tình hình quản trị công ty năm 2025                                      | 2026-01-30T13:19:50 | /2026/01/aaa-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397347.htm                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # CII — CII
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CII |
+| exchange | HOSE |
+| market_cap | 12767720529000 |
+| 52w_high | 30350 |
+| 52w_high_date | 2025-10-17 |
+| 52w_low | 9905 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 5.096 |
+| dividend | 500 |
+| beta | 1.03 |
+| eps | 252 |
+| eps_forward | 27.636363636363637 |
+| bvps | 19133 |
+| pe | 75.48 |
+| pb | 0.99 |
+| price_chg_1m | 16.56 |
+| price_chg_ytd | 85.40 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02631578947368421 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CII |
+| pe | 75.48 |
+| pb | 0.99 |
+| roe | 3.57 |
+| roe_pct_rank | 32 |
+| roa | 0.36 |
+| roa_pct_rank | 29 |
+| eps | 252 |
+| bvps | 19133 |
+| beta | 1.03 |
+| dividend | 500 |
+| yield | 0.02631578947368421 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 42 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                             | publish_time        | url                                                                                       |
-|:------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------|
-| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025 | 2026-04-07T09:00:30 | /2026/04/cii-thu-moi-va-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2025-737-1423796.htm |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CII: Thông báo đường dẫn báo cáo thường niên năm 2025                                                                     | 2026-04-15T10:56:54     | /2026/04/cii-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1427840.htm                                             |
+| CII: HĐQT thông qua việc thay đổi, bổ nhiệm một số chức danh Ban Điều hành công ty                                        | 2026-04-13T14:11:44     | /2026/04/cii-hdqt-thong-qua-viec-thay-doi-bo-nhiem-mot-so-chuc-danh-ban-dieu-hanh-cong-ty-214-1426776.htm                 |
+| Phân tích kỹ thuật phiên chiều 13/04: Giằng co                                                                            | 2026-04-13T12:54:04.247 | /2026/04/phan-tich-ky-thuat-phien-chieu-1304-giang-co-585-1426693.htm                                                     |
+| CII tiếp tục dừng cổ tức để dồn lực cho loạt dự án vốn gần 540,000 tỷ                                                     | 2026-04-07T17:32:00.997 | /2026/04/cii-tiep-tuc-dung-co-tuc-de-don-luc-cho-loat-du-an-von-gan-540000-ty-737-1424129.htm                             |
+| CII424002: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:43:00     | /2026/04/cii424002-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
+| CII124021: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:43:00     | /2026/04/cii124021-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
+| CII425021: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:42:00     | /2026/04/cii425021-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
+| CII đổi cách “mời” cổ đông đi họp, tiền nhận có thể lên tới hàng chục triệu                                               | 2026-04-07T14:40:34.13  | /2026/04/cii-doi-cach-moi-co-dong-di-hop-tien-nhan-co-the-len-toi-hang-chuc-trieu-737-1424003.htm                         |
+| CII: HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2025                                                                   | 2026-04-07T09:00:32     | /2026/04/cii-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2025-737-1423797.htm                                           |
+| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025                                                         | 2026-04-07T09:00:30     | /2026/04/cii-thu-moi-va-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2025-737-1423796.htm                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

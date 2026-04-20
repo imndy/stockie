@@ -1,13 +1,36 @@
 # EVF — EVF
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | EVF |
+| exchange | HOSE |
+| market_cap | 10533836357700 |
+| 52w_high | 16250 |
+| 52w_high_date | 2025-08-14 |
+| 52w_low | 9150 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 0.5368 |
+| dividend | 0 |
+| beta | 0.95 |
+| eps | 1176 |
+| eps_forward | 7.921383142378252 |
+| bvps | 12985.45 |
+| pe | 11.74 |
+| pb | 1.06 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | 50.54 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | EVF |
+| pe | 11.74 |
+| pb | 1.06 |
+| roe | 9.47 |
+| roe_pct_rank | 46 |
+| roa | 1.25 |
+| roa_pct_rank | 33 |
+| eps | 1176 |
+| bvps | 12985.45 |
+| beta | 0.95 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 48 |
+| pb_pct_rank | 45 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                 | publish_time        | url                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| EVF: Nghị quyết HĐQT về việc phê duyệt phương án phát hành Trái phiếu tăng vốn cấp 2 theo hình thức riêng lẻ năm 2026 | 2026-03-11T17:03:55 | /2026/03/evf-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2-theo-hinh-thuc-rieng-le-nam… |
+| title                                                                                                                 | publishtime            | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Phân tích kỹ thuật phiên chiều 15/04: Tiếp tục đi lên                                                                 | 2026-04-15T13:33:01.5  | /2026/04/phan-tich-ky-thuat-phien-chieu-1504-tiep-tuc-di-len-585-1427891.htm                                              |
+| EVF: Điều lệ tổ chức và hoạt động                                                                                     | 2026-04-10T15:23:41    | /2026/04/evf-dieu-le-to-chuc-va-hoat-dong-737-1426109.htm                                                                 |
+| EVF: Quy chế quản trị nội bộ                                                                                          | 2026-04-10T15:19:46    | /2026/04/evf-quy-che-quan-tri-noi-bo-143-1426108.htm                                                                      |
+| EVF: Quy chế tổ chức và hoạt động của HĐQT                                                                            | 2026-04-10T15:18:52    | /2026/04/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1426107.htm                                                        |
+| EVF: Công văn CBTT về banh hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                          | 2026-04-10T15:17:46    | /2026/04/evf-cong-van-cbtt-ve-banh-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb-737-1426106.htm        |
+| EVF: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                            | 2026-04-06T10:03:21    | /2026/04/evf-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1423259.htm                                        |
+| Đại hội cổ đông EVF thông qua kế hoạch lợi nhuận nghìn tỷ                                                             | 2026-04-03T16:02:00    | /2026/04/dai-hoi-co-dong-evf-thong-qua-ke-hoach-loi-nhuan-nghin-ty-737-1422582.htm                                        |
+| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ                                                                  | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm                                               |
+| EVF: CBTT bổ nhiệm lại KTT                                                                                            | 2026-03-27T15:32:09    | /2026/03/evf-cbtt-bo-nhiem-lai-ktt-214-1417610.htm                                                                        |
+| EVF: Nghị quyết HĐQT về việc phê duyệt phương án phát hành Trái phiếu tăng vốn cấp 2 theo hình thức riêng lẻ năm 2026 | 2026-03-11T17:03:55    | /2026/03/evf-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-cap-2-theo-hinh-thuc-rieng-le-nam… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

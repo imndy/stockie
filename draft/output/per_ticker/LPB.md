@@ -1,13 +1,36 @@
 # LPB — LPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 20/04/2026 23:01  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | LPB |
+| exchange | HOSE |
+| market_cap | 137414976600000 |
+| 52w_high | 53900 |
+| 52w_high_date | 2025-10-29 |
+| 52w_low | 29575 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 0.8856 |
+| dividend | 2500 |
+| beta | 0.37 |
+| eps | 3835 |
+| eps_forward | 9.242329870808302 |
+| bvps | 15797.8 |
+| pe | 12.00 |
+| pb | 2.91 |
+| price_chg_1m | 11.92 |
+| price_chg_ytd | 45.67 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.05434782608695652 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | LPB |
+| pe | 12.00 |
+| pb | 2.91 |
+| roe | 25.23 |
+| roe_pct_rank | 79 |
+| roa | 2.05 |
+| roa_pct_rank | 36 |
+| eps | 3835 |
+| bvps | 15797.8 |
+| beta | 0.37 |
+| dividend | 2500 |
+| yield | 0.05434782608695652 |
+| pe_pct_rank | 49 |
+| pb_pct_rank | 99 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                    | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| LPB: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T17:07:54     | /2026/04/lpb-bao-cao-thuong-nien-nam-2025-737-1430645.htm                                                                 |
+| Giải pháp tài chính toàn diện: “Chìa khóa” giúp doanh nghiệp tối ưu vận hành và giữ chân nhân sự         | 2026-04-14T08:00:00     | /2026/04/giai-phap-tai-chinh-toan-dien-chia-khoa-giup-doanh-nghiep-toi-uu-van-hanh-va-giu-chan-nhan-su-757-1426962.htm    |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                     | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| LPB “dậy sóng” trước phương án chia cổ tức 30%                                                           | 2026-04-08T09:30:55.1   | /2026/04/lpb-day-song-truoc-phuong-an-chia-co-tuc-30-737-1424590.htm                                                      |
+| LPB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                             | 2026-04-08T09:11:59     | /2026/04/lpb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1424655.htm                                                      |
+| LPBank thu ròng hơn 1,000 tỷ từ đợt 1 chào bán trái phiếu ra công chúng                                  | 2026-04-07T09:29:16.437 | /2026/04/lpbank-thu-rong-hon-1000-ty-tu-dot-1-chao-ban-trai-phieu-ra-cong-chung-3118-1423771.htm                          |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                              | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                           | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+| LPB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả cháo bán trái phiếu ra công chúng của LPB | 2026-04-06T18:07:40     | /2026/04/lpb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-chung-cua-lpb-739-142… |
+| LPB: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng                                               | 2026-04-03T13:24:26     | /2026/04/lpb-bao-cao-ket-qua-dot-chao-ban-trai-phieu-ra-cong-chung-739-1422510.htm                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

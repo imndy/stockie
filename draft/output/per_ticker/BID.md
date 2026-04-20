@@ -1,13 +1,36 @@
 # BID — BID
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BID |
+| exchange | HOSE |
+| market_cap | 284716225734350 |
+| 52w_high | 55000 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 34170 |
+| 52w_low_date | 2025-04-28 |
+| foreign_ownership | 16.6398 |
+| dividend | 450 |
+| beta | 0.91 |
+| eps | 4278 |
+| eps_forward | 13.735982821500391 |
+| bvps | 24726.16 |
+| pe | 9.42 |
+| pb | 1.63 |
+| price_chg_1m | 2.01 |
+| price_chg_ytd | 14.05 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.011097410604192354 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BID |
+| pe | 9.42 |
+| pb | 1.63 |
+| roe | 19.14 |
+| roe_pct_rank | 67 |
+| roa | 0.98 |
+| roa_pct_rank | 31 |
+| eps | 4278 |
+| bvps | 24726.16 |
+| beta | 0.91 |
+| dividend | 450 |
+| yield | 0.011097410604192354 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 63 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                       | publish_time        | url                                                                                               |
-|:----------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------|
-| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan - Hana Bank | 2026-03-31T18:01:13 | /2026/03/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan-hana-bank-739-1419975.htm |
+| title                                                                                                    | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BID: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T10:07:03     | /2026/04/bid-bao-cao-thuong-nien-nam-2025-737-1429985.htm                                                                 |
+| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan (BIC)                                    | 2026-04-14T17:19:48     | /2026/04/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan-bic-739-1427580.htm                               |
+| BID: Quyết định về việc thay đổi địa điểm đặt trụ sở Chi nhánh Khách hàng doanh nghiệp nước ngoài I      | 2026-04-13T16:17:26     | /2026/04/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-dat-tru-so-chi-nhanh-khach-hang-doanh-nghiep-nuoc-ngoai-i-737-1426903.… |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                     | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                              | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                           | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC                 | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
+| BID: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                        | 2026-04-03T14:22:45     | /2026/04/bid-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1422550.htm                                                 |
+| BID: Quyết định về việc thay đổi địa điểm trụ sở Chi nhánh Trung tâm khách hàng cá nhân cao cấp Miền Nam | 2026-04-02T17:12:36     | /2026/04/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-tru-so-chi-nhanh-trung-tam-khach-hang-ca-nhan-cao-cap-mien-nam-737-142… |
+| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan - Hana Bank                              | 2026-03-31T18:01:13     | /2026/03/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan-hana-bank-739-1419975.htm                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

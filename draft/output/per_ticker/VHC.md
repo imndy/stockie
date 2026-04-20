@@ -1,13 +1,36 @@
 # VHC — VHC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VHC |
+| exchange | HOSE |
+| market_cap | 14073213069300 |
+| 52w_high | 69200 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 42279 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 19.5805 |
+| dividend | 2000 |
+| beta | 0.56 |
+| eps | 6001 |
+| eps_forward | 8.599356942051838 |
+| bvps | 44495 |
+| pe | 10.22 |
+| pb | 1.38 |
+| price_chg_1m | 9.04 |
+| price_chg_ytd | 35.17 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.03189792663476874 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VHC |
+| pe | 10.22 |
+| pb | 1.38 |
+| roe | 15.29 |
+| roe_pct_rank | 58 |
+| roa | 10.63 |
+| roa_pct_rank | 70 |
+| eps | 6001 |
+| bvps | 44495 |
+| beta | 0.56 |
+| dividend | 2000 |
+| yield | 0.03189792663476874 |
+| pe_pct_rank | 45 |
+| pb_pct_rank | 56 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                        | publishtime             | url                                                                                                  |
+|:-----------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| Công ty của bà Trương Thị Lệ Khanh muốn nâng cổ tức tiền mặt lên 30%         | 2026-04-10T11:20:19.733 | /2026/04/cong-ty-cua-ba-truong-thi-le-khanh-muon-nang-co-tuc-tien-mat-len-30-738-1425950.htm         |
+| Vĩnh Hoàn chốt thời gian mua lại 15 triệu cp                                 | 2026-04-09T18:54:43.403 | /2026/04/vinh-hoan-chot-thoi-gian-mua-lai-15-trieu-cp-739-1425449.htm                                |
+| VHC: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                           | 2026-04-09T17:17:21     | /2026/04/vhc-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1425648.htm                           |
+| VHC: Thông báo về việc mua lại cổ phiếu quỹ                                  | 2026-04-08T18:02:01     | /2026/04/vhc-thong-bao-ve-viec-mua-lai-co-phieu-quy-739-1425198.htm                                  |
+| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước | 2026-03-31T16:17:44     | /2026/03/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419780.htm |
+| VHC: BCTC năm 2025                                                           | 2026-03-30T00:00:00     | /2026/03/vhc-bctc-nam-2025-737-1419789.htm                                                           |
+| VHC: BCTC Hợp nhất năm 2025                                                  | 2026-03-30T00:00:00     | /2026/03/vhc-bctc-hop-nhat-nam-2025-737-1419795.htm                                                  |
+| VHC: Nghị quyết HĐQT số 10 ngày 23/03/2026                                   | 2026-03-23T17:20:41     | /2026/03/vhc-nghi-quyet-hdqt-so-10-ngay-23-03-2026-737-1415269.htm                                   |
+| VHC: Thông báo đơn xin từ nhiệm của Thành viên BKS                           | 2026-03-18T15:23:29     | /2026/03/vhc-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-214-1413573.htm                           |
+| Vĩnh Hoàn có thể chi gần ngàn tỷ mua cổ phiếu quỹ                            | 2026-03-12T19:30:42.2   | /2026/03/vinh-hoan-co-the-chi-gan-ngan-ty-mua-co-phieu-quy-739-1411701.htm                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

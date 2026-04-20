@@ -1,13 +1,36 @@
 # POW — POW
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 20/04/2026 23:04  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | POW |
+| exchange | HOSE |
+| market_cap | 40342170797200 |
+| 52w_high | 16550 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 9724 |
+| 52w_low_date | 2025-04-28 |
+| foreign_ownership | 2.9544 |
+| dividend | 0 |
+| beta | 0.72 |
+| eps | 988 |
+| eps_forward | 32.8515111695138 |
+| bvps | 15835 |
+| pe | 13.41 |
+| pb | 0.84 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | 32.41 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | POW |
+| pe | 13.41 |
+| pb | 0.84 |
+| roe | 7.98 |
+| roe_pct_rank | 43 |
+| roa | 2.78 |
+| roa_pct_rank | 40 |
+| eps | 988 |
+| bvps | 15835 |
+| beta | 0.72 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 35 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                 | publishtime            | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| POW: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                           | 2026-04-10T18:46:51    | /2026/04/pow-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1426461.htm                       |
+| POW: Báo cáo thường niên năm 2025                                                                     | 2026-04-06T16:00:18    | /2026/04/pow-bao-cao-thuong-nien-nam-2025-737-1423540.htm                                                                 |
+| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                                     | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                                  |
+| POW: Giải trình một số chỉ tiêu trên BCTC năm 2025 sau kiểm toán so với cùng kỳ năm trước             | 2026-03-20T17:49:26    | /2026/03/pow-giai-trinh-mot-so-chi-tieu-tren-bctc-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1414610.htm         |
+| POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414591.htm                                                                       |
+| POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414592.htm                                                                       |
+| POW: BCTC năm 2025                                                                                    | 2026-03-20T00:00:00    | /2026/03/pow-bctc-nam-2025-737-1414593.htm                                                                                |
+| POW: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                            | 2026-03-13T19:25:48    | /2026/03/pow-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet-741-1412247.htm                        |
+| POW: Nghị quyết HĐQT về việc chấp thuận giao dịch với CTCP Dịch vụ kỹ thuật Điện lực Dầu khí Việt Nam | 2026-03-13T18:13:58    | /2026/03/pow-nghi-quyet-hdqt-ve-viec-chap-thuan-giao-dich-voi-ctcp-dich-vu-ky-thuat-dien-luc-dau-khi-viet-nam-737-141223… |
+| POW: Báo cáo thay đổi phương án sử dụng số tiền thu được từ đợt chào bán                              | 2026-03-13T18:10:47    | /2026/03/pow-bao-cao-thay-doi-phuong-an-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-739-1412223.htm                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

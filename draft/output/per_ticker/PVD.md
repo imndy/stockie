@@ -1,13 +1,36 @@
 # PVD — PVD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 20/04/2026 23:05  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PVD |
+| exchange | HOSE |
+| market_cap | 18260658197100 |
+| 52w_high | 45000 |
+| 52w_high_date | 2026-03-04 |
+| 52w_low | 16527 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 11.2832 |
+| dividend | 500 |
+| beta | 0.66 |
+| eps | 1855 |
+| eps_forward | 34.95219002235681 |
+| bvps | 30756 |
+| pe | 17.95 |
+| pb | 1.08 |
+| price_chg_1m | -4.09 |
+| price_chg_ytd | 87.14 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.015220700152207 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PVD |
+| pe | 17.95 |
+| pb | 1.08 |
+| roe | 6.34 |
+| roe_pct_rank | 39 |
+| roa | 4 |
+| roa_pct_rank | 45 |
+| eps | 1855 |
+| bvps | 30756 |
+| beta | 0.66 |
+| dividend | 500 |
+| yield | 0.015220700152207 |
+| pe_pct_rank | 62 |
+| pb_pct_rank | 46 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                              | publishtime            | url                                                                                                       |
+|:-----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------|
+| PVD: Báo cáo thường niên năm 2025                                                  | 2026-04-20T13:45:01    | /2026/04/pvd-bao-cao-thuong-nien-nam-2025-737-1430170.htm                                                 |
+| Dragon Capital không còn là cổ đông lớn tại PVD                                    | 2026-04-16T10:07:00    | /2026/04/dragon-capital-khong-con-la-co-dong-lon-tai-pvd-739-1428357.htm                                  |
+| PVD: Báo cáo về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn  | 2026-04-15T16:57:45    | /2026/04/pvd-bao-cao-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon-737-1428149.htm |
+| PVD lên kế hoạch phát hành gần 372 triệu cp thưởng, dồn lực đầu tư hơn 4.2 ngàn tỷ | 2026-04-10T17:43:00    | /2026/04/pvd-len-ke-hoach-phat-hanh-gan-372-trieu-cp-thuong-don-luc-dau-tu-hon-42-ngan-ty-737-1426202.htm |
+| PVD: Nghị quyết HĐQT số 01/04/2026 và 01/04/2026 ngày 07/04/2026                   | 2026-04-08T17:30:57    | /2026/04/pvd-nghi-quyet-hdqt-so-01-04-2026-va-01-04-2026-ngay-07-04-2026-737-1425192.htm                  |
+| PVD: Thông báo nhận được Đơn từ nhiệm thành viên BKS                               | 2026-04-03T16:29:33    | /2026/04/pvd-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-bks-214-1422746.htm                              |
+| PVD: Thư mời tham dự và link tài liệu họp ĐHĐCĐ TN 2026                            | 2026-04-01T16:21:28    | /2026/04/pvd-thu-moi-tham-du-va-link-tai-lieu-hop-dhdcd-tn-2026-737-1420943.htm                           |
+| PVD: Giải trình BCTC HN và Cty mẹ kiểm toán năm 2025 so với cùng kỳ năm trước      | 2026-03-31T13:38:51    | /2026/03/pvd-giai-trinh-bctc-hn-va-cty-me-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1419490.htm     |
+| Dragon Capital chi hơn 40 tỷ để trở lại làm cổ đông lớn PV Drilling                | 2026-03-30T11:14:22.09 | /2026/03/dragon-capital-chi-hon-40-ty-de-tro-lai-lam-co-dong-lon-pv-drilling-739-1418386.htm              |
+| PVD: BCTC năm 2025                                                                 | 2026-03-30T00:00:00    | /2026/03/pvd-bctc-nam-2025-737-1419461.htm                                                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # HT1 — HT1
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 20/04/2026 23:00  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HT1 |
+| exchange | HOSE |
+| market_cap | 5762007656100 |
+| 52w_high | 20100 |
+| 52w_high_date | 2025-10-22 |
+| 52w_low | 10442 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.262 |
+| dividend | 100 |
+| beta | 0.82 |
+| eps | 717 |
+| eps_forward | 14.372328983562243 |
+| bvps | 13336 |
+| pe | 21.05 |
+| pb | 1.13 |
+| price_chg_1m | -2.89 |
+| price_chg_ytd | 39.94 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.006622516556291391 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HT1 |
+| pe | 21.05 |
+| pb | 1.13 |
+| eps | 717 |
+| bvps | 13336 |
+| beta | 0.82 |
+| dividend | 100 |
+| yield | 0.006622516556291391 |
+| pe_pct_rank | 67 |
+| pb_pct_rank | 48 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                   | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HT1: Báo cáo thường niên năm 2025                                                                       | 2026-04-07T11:11:33     | /2026/04/ht1-bao-cao-thuong-nien-nam-2025-737-1423948.htm                                                                 |
+| Áp lực kép từ chi phí và dư cung, Vicem Hà Tiên vẫn lên kế hoạch lãi gần gấp rưỡi                       | 2026-03-31T14:29:59.897 | /2026/03/ap-luc-kep-tu-chi-phi-va-du-cung-vicem-ha-tien-van-len-ke-hoach-lai-gan-gap-ruoi-737-1419450.htm                 |
+| HT1: Thông báo thời gian, địa điểm, chương trình và link tài liệu họp ĐHĐCĐ TN năm 2026                 | 2026-03-30T14:08:27     | /2026/03/ht1-thong-bao-thoi-gian-dia-diem-chuong-trinh-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1418622.htm             |
+| HT1: Quyết định của HĐQT về việc ký hợp đồng với người có liên quan                                     | 2026-03-27T16:09:46     | /2026/03/ht1-quyet-dinh-cua-hdqt-ve-viec-ky-hop-dong-voi-nguoi-co-lien-quan-739-1417682.htm                               |
+| HT1: Quyết định của HĐQT về việc chấp thuận chủ trường ký hợp đồng với Người có liên quan               | 2026-03-23T17:20:41     | /2026/03/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan-739-1415270.htm         |
+| HT1: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                       | 2026-03-18T16:56:05     | /2026/03/ht1-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1413674.htm                                 |
+| HT1: BCTC năm 2025                                                                                      | 2026-03-18T00:00:00     | /2026/03/ht1-bctc-nam-2025-737-1413584.htm                                                                                |
+| HT1: BCTC Hợp nhất năm 2025                                                                             | 2026-03-18T00:00:00     | /2026/03/ht1-bctc-hop-nhat-nam-2025-737-1413585.htm                                                                       |
+| HT1: Quyết định của HĐQT về việc chấp thuận chủ trương gia hạn hợp đống năm 2026 với người có liên quan | 2026-03-12T14:07:52     | /2026/03/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-gia-han-hop-dong-nam-2026-voi-nguoi-co-lien-quan-739-1411… |
+| HT1: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                             | 2026-03-11T10:43:41     | /2026/03/ht1-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1410745.htm                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

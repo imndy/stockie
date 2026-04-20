@@ -1,13 +1,36 @@
 # VIC — VIC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 03/04/2026 09:50
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIC |
+| exchange | HOSE |
+| market_cap | 1477096952136000 |
+| 52w_high | 191000 |
+| 52w_high_date | 2026-04-20 |
+| 52w_low | 29300 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 3.4264 |
+| dividend | 0 |
+| beta | 1.72 |
+| eps | 1785 |
+| eps_forward | 145.31196832369227 |
+| bvps | 19584 |
+| pe | 105.25 |
+| pb | 9.59 |
+| price_chg_1m | 41.48 |
+| price_chg_ytd | 477.91 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIC |
+| pe | 105.25 |
+| pb | 9.59 |
+| eps | 1785 |
+| bvps | 19584 |
+| beta | 1.72 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                 | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VIC: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T14:04:32     | /2026/04/vic-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1430215.htm                                               |
+| VIC đưa VN-Index trở lại hít thở bầu không khí 1,800                                                  | 2026-04-18T20:30:00     | /2026/04/vic-dua-vn-index-tro-lai-hit-tho-bau-khong-khi-1800-830-1429736.htm                                              |
+| VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINPEARL       | 2026-04-17T19:39:06     | /2026/04/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinpearl-739-1429670.htm   |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                           | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| Thị trường chứng quyền ngày 16/04/2026: Nhóm chứng quyền VIC và VHM tỏa sáng                          | 2026-04-15T20:00:00     | /2026/04/thi-truong-chung-quyen-ngay-16042026-nhom-chung-quyen-vic-va-vhm-toa-sang-1636-1428021.htm                       |
+| Theo dấu dòng tiền cá mập 14/04: Tự doanh và khối ngoại hành động trái chiều, HPG và VIC hút sự chú ý | 2026-04-14T19:25:00     | /2026/04/theo-dau-dong-tien-ca-map-1404-tu-doanh-va-khoi-ngoai-hanh-dong-trai-chieu-hpg-va-vic-hut-su-chu-y-830-1427698.… |
+| Hãng gọi xe của tỷ phú Phạm Nhật Vượng đổi tên thành Green SM                                         | 2026-04-14T14:53:49.61  | /2026/04/hang-goi-xe-cua-ty-phu-pham-nhat-vuong-doi-ten-thanh-green-sm-737-1427336.htm                                    |
+| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band                                              | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm                                           |
+| VIC: Báo cáo thường niên năm 2025                                                                     | 2026-04-14T10:24:46     | /2026/04/vic-bao-cao-thuong-nien-nam-2025-737-1427262.htm                                                                 |
+| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl  | 2026-04-13T16:51:54     | /2026/04/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan-vinpearl-739-1427124… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

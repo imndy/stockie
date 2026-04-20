@@ -1,13 +1,36 @@
 # VJC — VJC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VJC |
+| exchange | HOSE |
+| market_cap | 103709466850200 |
+| 52w_high | 219100 |
+| 52w_high_date | 2025-11-25 |
+| 52w_low | 83500 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 6.5143 |
+| dividend | 0 |
+| beta | 0.77 |
+| eps | 3805 |
+| eps_forward | 47.81292185894919 |
+| bvps | 42005 |
+| pe | 46.73 |
+| pb | 4.23 |
+| price_chg_1m | 11.44 |
+| price_chg_ytd | 102.66 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VJC |
+| pe | 46.73 |
+| pb | 4.23 |
+| roe | 10.12 |
+| roe_pct_rank | 47 |
+| roa | 1.78 |
+| roa_pct_rank | 35 |
+| eps | 3805 |
+| bvps | 42005 |
+| beta | 0.77 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                        | publishtime             | url                                                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VJC: Báo cáo thường niên năm 2025                                                                            | 2026-04-20T13:40:23     | /2026/04/vjc-bao-cao-thuong-nien-nam-2025-737-1430158.htm                                                                 |
+| Vietjet và SPDB Financial Leasing ký kết thoả thuận tài trợ thuê mua 10 tàu bay Comac                        | 2026-04-18T11:28:05.527 | /2026/04/vietjet-va-spdb-financial-leasing-ky-ket-thoa-thuan-tai-tro-thue-mua-10-tau-bay-comac-737-1429734.htm            |
+| Chính phủ 'bật đèn xanh' cho Vietjet tham gia đầu tư hạ tầng hàng không                                      | 2026-04-16T18:15:26.147 | /2026/04/chinh-phu-bat-den-xanh-cho-vietjet-tham-gia-dau-tu-ha-tang-hang-khong-768-1428714.htm                            |
+| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                            | 2026-04-06T09:15:55     | /2026/04/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026-737-1423206.htm                                                 |
+| VJC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Phước Hùng Anh Victor | 2026-04-02T17:47:28     | /2026/04/vjc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-phuoc-hung-anh-victor-739… |
+| VJC: Giải trình biến động KQKD kiểm toán năm 2025 so với cùng kỳ năm trước                                   | 2026-03-30T16:09:47     | /2026/03/vjc-giai-trinh-bien-dong-kqkd-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1418778.htm                        |
+| VJC: BCTC năm 2025                                                                                           | 2026-03-30T00:00:00     | /2026/03/vjc-bctc-nam-2025-737-1418749.htm                                                                                |
+| VJC: BCTC Hợp nhất năm 2025                                                                                  | 2026-03-30T00:00:00     | /2026/03/vjc-bctc-hop-nhat-nam-2025-737-1418751.htm                                                                       |
+| VJC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên 2026                                      | 2026-03-13T19:21:30     | /2026/03/vjc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-2026-737-1412248.htm                           |
+| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                              | 2026-03-10T17:51:50     | /2026/03/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1410504.htm                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

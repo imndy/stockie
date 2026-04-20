@@ -1,13 +1,36 @@
 # DXG — DXG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DXG |
+| exchange | HOSE |
+| market_cap | 16685762835000 |
+| 52w_high | 24200 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 11951 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 20.5175 |
+| dividend | 0 |
+| beta | 1.06 |
+| eps | 250 |
+| eps_forward | 13.833826956465225 |
+| bvps | 18754 |
+| pe | 59.61 |
+| pb | 0.79 |
+| price_chg_1m | 7.14 |
+| price_chg_ytd | 23.30 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,12 +51,38 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DXG |
+| pe | 59.61 |
+| pb | 0.79 |
+| roe | 3.19 |
+| roe_pct_rank | 32 |
+| roa | 0.68 |
+| roa_pct_rank | 30 |
+| eps | 250 |
+| bvps | 18754 |
+| beta | 1.06 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 33 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publish_time            | url                                                                                                                       |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DXG: Nghị quyết HĐQT về việc giao và ủy quyền cho TGĐ quyết định và thực hiện thủ tục thay đổi tên công ty                | 2026-04-20T09:25:41     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-giao-va-uy-quyen-cho-tgd-quyet-dinh-va-thuc-hien-thu-tuc-thay-doi-ten-cong-ty-737-1… |
+| DXG: Thông báo thay đổi nhân sự - HĐQT                                                                                    | 2026-04-17T19:22:40     | /2026/04/dxg-thong-bao-thay-doi-nhan-su-hdqt-214-1429648.htm                                                              |
+| DXG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                                  | 2026-04-17T19:22:40     | /2026/04/dxg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429649.htm                                                          |
+| DXG: Nghị quyết HĐQT về việc thông qua ký kết thực hiện, hợp đồng, giao dịch với các bên liên quan                        | 2026-04-17T19:14:29     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-thong-qua-ky-ket-thuc-hien-hop-dong-giao-dich-voi-cac-ben-lien-quan-737-1429643.htm  |
+| DXG: Nghị quyết HĐQT về việc thay đổi nhân sự UBKT                                                                        | 2026-04-17T19:14:29     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-thay-doi-nhan-su-ubkt-737-1429644.htm                                                |
+| DXG: Thông báo thay đổi nhân sự - Chủ tịch UBKT                                                                           | 2026-04-17T19:14:28     | /2026/04/dxg-thong-bao-thay-doi-nhan-su-chu-tich-ubkt-214-1429645.htm                                                     |
+| DXG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-17T16:52:07     | /2026/04/dxg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429408.htm                                            |
+| ĐHĐCĐ Đất Xanh 2026: Đặt mục tiêu doanh thu 5,000 tỷ, tái cấu trúc cho chiến lược tăng trưởng bền vững                    | 2026-04-17T14:12:00     | /2026/04/dhdcd-dat-xanh-2026-dat-muc-tieu-doanh-thu-5000-ty-tai-cau-truc-cho-chien-luoc-tang-truong-ben-vung-737-1429171… |
+| Ông Lương Trí Thìn: Đất Xanh đổi tên để thoát định vị “công ty dịch vụ”                                                   | 2026-04-17T11:25:44.737 | /2026/04/ong-luong-tri-thin-dat-xanh-doi-ten-de-thoat-dinh-vi-cong-ty-dich-vu-737-1429045.htm                             |
 | Đất Xanh kiện toàn bộ máy thượng tầng: Khi doanh nghiệp lớn chủ động xác lập chiến lược phát triển trong kỷ nguyên vươn … | 2026-04-16T19:28:21.627 | /2026/04/dat-xanh-kien-toan-bo-may-thuong-tang-khi-doanh-nghiep-lon-chu-dong-xac-lap-chien-luoc-phat-trien-trong-ky-nguy… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)

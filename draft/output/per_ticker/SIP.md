@@ -1,13 +1,36 @@
 # SIP — SIP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 20/04/2026 23:06  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SIP |
+| exchange | HOSE |
+| market_cap | 14841523405900 |
+| 52w_high | 67254 |
+| 52w_high_date | 2025-07-24 |
+| 52w_low | 47501 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.5258 |
+| dividend | 1700 |
+| beta | 0.74 |
+| eps | 6169 |
+| eps_forward | 18.000988745746938 |
+| bvps | 24181 |
+| pe | 10.03 |
+| pb | 2.56 |
+| price_chg_1m | 11.45 |
+| price_chg_ytd | 19.08 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02773246329526917 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SIP |
+| pe | 10.03 |
+| pb | 2.56 |
+| roe | 28.01 |
+| roe_pct_rank | 85 |
+| roa | 5.04 |
+| roa_pct_rank | 50 |
+| eps | 6169 |
+| bvps | 24181 |
+| beta | 0.74 |
+| dividend | 1700 |
+| yield | 0.02773246329526917 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 89 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                             | publishtime             | url                                                                                                       |
+|:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| SIP: Báo cáo thường niên năm 2025                                                 | 2026-04-20T15:56:31     | /2026/04/sip-bao-cao-thuong-nien-nam-2025-737-1430469.htm                                                 |
+| SIP: Nghị quyết HĐQT về việc điều chỉnh tài liệu họp ĐHĐCĐTN 2026                 | 2026-04-17T17:47:44     | /2026/04/sip-nghi-quyet-hdqt-ve-viec-dieu-chinh-tai-lieu-hop-dhdcdtn-2026-737-1429538.htm                 |
+| SIP: Nghị quyết HĐQT số 1396 ngày 09/04/2026                                      | 2026-04-10T17:26:28     | /2026/04/sip-nghi-quyet-hdqt-so-1396-ngay-09-04-2026-737-1426311.htm                                      |
+| SIP: Thông báo đơn xin từ nhiệm của Thành viên BKS                                | 2026-04-06T15:28:10     | /2026/04/sip-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-214-1423475.htm                                |
+| SIP đặt kế hoạch đi lùi sau năm lãi kỷ lục, dự kiến cho thuê 60ha đất công nghiệp | 2026-04-01T14:30:43.887 | /2026/04/sip-dat-ke-hoach-di-lui-sau-nam-lai-ky-luc-du-kien-cho-thue-60ha-dat-cong-nghiep-737-1420636.htm |
+| SIP: Tài liệu họp ĐHĐCĐ thường niên 2026                                          | 2026-03-31T17:15:06     | /2026/03/sip-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1419884.htm                                          |
+| SIP: BCTC Hợp nhất năm 2025                                                       | 2026-03-30T00:00:00     | /2026/03/sip-bctc-hop-nhat-nam-2025-737-1419571.htm                                                       |
+| SIP: BCTC năm 2025                                                                | 2026-03-30T00:00:00     | /2026/03/sip-bctc-nam-2025-737-1419573.htm                                                                |
+| SIP: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                    | 2026-03-03T17:40:28     | /2026/03/sip-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407825.htm                    |
+| SIP: Nghị quyết HĐQT về việc chốt ngày ĐKCC tổ chức ĐHĐCĐ TN 2026                 | 2026-03-02T13:53:55     | /2026/03/sip-nghi-quyet-hdqt-ve-viec-chot-ngay-dkcc-to-chuc-dhdcd-tn-2026-737-1406987.htm                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

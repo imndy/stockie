@@ -1,13 +1,36 @@
 # VPB — VPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VPB |
+| exchange | HOSE |
+| market_cap | 222546557008050 |
+| 52w_high | 38650 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 16063 |
+| 52w_low_date | 2025-04-25 |
+| foreign_ownership | 24.6921 |
+| dividend | 500 |
+| beta | 1.15 |
+| eps | 3314 |
+| eps_forward | 5422.264875239924 |
+| bvps | 23519.86 |
+| pe | 8.52 |
+| pb | 1.20 |
+| price_chg_1m | 11.98 |
+| price_chg_ytd | 69.98 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.017825311942959002 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VPB |
+| pe | 8.52 |
+| pb | 1.20 |
+| roe | 14.87 |
+| roe_pct_rank | 58 |
+| roa | 2.2 |
+| roa_pct_rank | 37 |
+| eps | 3314 |
+| bvps | 23519.86 |
+| beta | 1.15 |
+| dividend | 500 |
+| yield | 0.017825311942959002 |
+| pe_pct_rank | 40 |
+| pb_pct_rank | 51 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                              | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VPB: Nghị quyết HĐQT số 104/2026 ngày 17/04/2026                                                   | 2026-04-17T17:13:33     | /2026/04/vpb-nghi-quyet-hdqt-so-104-2026-ngay-17-04-2026-737-1429459.htm                                                  |
+| VPBank duy trì tăng trưởng mạnh mẽ trong quý 1/2026, quy mô tín dụng vượt 1 triệu tỷ đồng          | 2026-04-17T16:42:00     | /2026/04/vpbank-duy-tri-tang-truong-manh-me-trong-quy-12026-quy-mo-tin-dung-vuot-1-trieu-ty-dong-737-1429322.htm          |
+| VPB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                       | 2026-04-17T15:52:13     | /2026/04/vpb-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1429333.htm                      |
+| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
+| VPB: BCTC quý 2 năm 2026                                                                           | 2026-04-17T00:00:00     | /2026/04/vpb-bctc-quy-2-nam-2026-737-1429318.htm                                                                          |
+| VPB: BCTC Hợp nhất quý 2 năm 2026                                                                  | 2026-04-17T00:00:00     | /2026/04/vpb-bctc-hop-nhat-quy-2-nam-2026-737-1429319.htm                                                                 |
+| VPBank dự kiến phát hành riêng lẻ cho 1 cổ đông ngoại, tăng vốn lên gần 106,244 tỷ                 | 2026-04-16T14:15:00     | /2026/04/vpbank-du-kien-phat-hanh-rieng-le-cho-1-co-dong-ngoai-tang-von-len-gan-106244-ty-757-1428453.htm                 |
+| Chiến lược phủ phân khúc: Nền tảng giúp VPBank mở rộng dư địa tăng trưởng tín dụng                 | 2026-04-16T11:16:50.377 | /2026/04/chien-luoc-phu-phan-khuc-nen-tang-giup-vpbank-mo-rong-du-dia-tang-truong-tin-dung-757-1428415.htm                |
+| VPB: Nghị quyết HĐQT về việc phê duyệt phương án mua lại trước hạn trái phiếu VPB12503 và VPB12505 | 2026-04-15T14:55:28     | /2026/04/vpb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-mua-lai-truoc-han-trai-phieu-vpb12503-va-vpb12505-737-1428305.h… |
+| VPB: Link công bố cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên 2026                                | 2026-04-15T14:53:29     | /2026/04/vpb-link-cong-bo-cap-nhat-bo-sung-tai-lieu-dhdcd-thuong-nien-2026-737-1428304.htm                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # HSG — HSG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:06  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 20/04/2026 23:00  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HSG |
+| exchange | HOSE |
+| market_cap | 10059913405800 |
+| 52w_high | 20950 |
+| 52w_high_date | 2025-09-04 |
+| 52w_low | 12500 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 4.0318 |
+| dividend | 0 |
+| beta | 0.74 |
+| eps | 1009 |
+| eps_forward | 19.87133311806056 |
+| bvps | 18320 |
+| pe | 15.86 |
+| pb | 0.87 |
+| price_chg_1m | 14.08 |
+| price_chg_ytd | 18.25 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HSG |
+| pe | 15.86 |
+| pb | 0.87 |
+| eps | 1009 |
+| bvps | 18320 |
+| beta | 0.74 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 57 |
+| pb_pct_rank | 36 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                       | publishtime            | url                                                                                                                 |
+|:--------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|
+| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông | 2026-04-14T17:27:28    | /2026/04/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thanh-lap-chi-nhanh-hoa-sen-quy-nhon-dong-737-1427593.htm |
+| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu               | 2026-04-10T15:15:42    | /2026/04/hsg-thong-bao-ngay-dkcc-tra-co-tuc-nien-do-tai-chinh-20242025-bang-co-phieu-738-1426098.htm                |
+| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                              | 2026-04-03T18:12:41    | /2026/04/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-738-1422875.htm                               |
+| Hoa Sen sắp phát hành hơn 186 triệu cổ phiếu để trả cổ tức                                  | 2026-03-18T16:23:08.51 | /2026/03/hoa-sen-sap-phat-hanh-hon-186-trieu-co-phieu-de-tra-co-tuc-738-1413563.htm                                 |
+| HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                        | 2026-03-17T17:40:53    | /2026/03/hsg-cbtt-chi-tra-co-tuc-nien-do-tai-chinh-20242025-738-1413298.htm                                         |
+| HSG: Nghị quyết HĐQT về việc lựa chọn đơn vị kiểm toán BCTC niên độ tài chính 2025-2026     | 2026-03-12T17:39:05    | /2026/03/hsg-nghi-quyet-hdqt-ve-viec-lua-chon-don-vi-kiem-toan-bctc-nien-do-tai-chinh-20252026-737-1411673.htm      |
+| HSG: Biên bản và Nghị quyết ĐHĐCĐ thường niên NĐTC 2025-2026                                | 2026-03-10T09:39:37    | /2026/03/hsg-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-ndtc-20252026-737-1410199.htm                                 |
+| Ông Lê Phước Vũ: "Mở rộng mảng tôn thép bây giờ là không khôn ngoan"                        | 2026-03-07T15:30:40.67 | /2026/03/ong-le-phuoc-vu-mo-rong-mang-ton-thep-bay-gio-la-khong-khon-ngoan-737-1409542.htm                          |
+| Những câu chuyện đáng chờ đợi của ngành thép                                                | 2026-02-25T13:02:00    | /2026/02/nhung-cau-chuyen-dang-cho-doi-cua-nganh-thep-737-1404608.htm                                               |
+| HSG: Link công bố tài liệu ĐHĐCĐ năm tài chính 2025-2026                                    | 2026-02-11T15:04:25    | /2026/02/hsg-link-cong-bo-tai-lieu-dhdcd-nam-tai-chinh-20252026-737-1402911.htm                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

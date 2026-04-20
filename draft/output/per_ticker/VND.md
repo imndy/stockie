@@ -1,13 +1,36 @@
 # VND — VND
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 20:05
+> 📅 Daily: 20/04/2026 23:10  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VND |
+| exchange | HOSE |
+| market_cap | 25422408463600 |
+| 52w_high | 26800 |
+| 52w_high_date | 2025-09-03 |
+| 52w_low | 14105 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 9.9425 |
+| dividend | 500 |
+| beta | 1.11 |
+| eps | 1328 |
+| eps_forward | 13.692396789939604 |
+| bvps | 13731.14 |
+| pe | 12.46 |
+| pb | 1.21 |
+| price_chg_1m | 8.79 |
+| price_chg_ytd | 10.08 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.029940119760479042 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VND |
+| pe | 12.46 |
+| pb | 1.21 |
+| roe | 9.96 |
+| roe_pct_rank | 47 |
+| roa | 4.22 |
+| roa_pct_rank | 46 |
+| eps | 1328 |
+| bvps | 13731.14 |
+| beta | 1.11 |
+| dividend | 500 |
+| yield | 0.029940119760479042 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 51 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                    | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00 | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
+| VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12 | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
+| VND: VNDIRECT công bố Báo cáo thường niên năm 2025                                                       | 2026-04-17T00:00:00 | /2026/04/vnd-vndirect-cong-bo-bao-cao-thuong-nien-nam-2025-737-1429616.htm                                                |
+| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5                              | 2026-04-10T15:05:14 | /2026/04/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-1426088.htm                       |
+| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                | 2026-04-09T15:32:17 | /2026/04/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1425534.htm                          |
+| VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
+| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026                  | 2026-04-08T16:30:59 | /2026/04/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1425046.htm           |
+| VND: VNDIRECT công bố Nghị quyết HĐQT về việc chào bán chứng quyền có bảo đảm đợt 1 năm 2026             | 2026-04-07T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nghi-quyet-hdqt-ve-viec-chao-ban-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1424345.htm      |
+| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                                  | 2026-03-31T15:44:48 | /2026/03/vnd-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025-737-1419736.htm                                           |
+| VND: Báo cáo tài chính riêng lẻ  năm 2025                                                                | 2026-03-30T21:18:00 | /2026/03/vnd-bao-cao-tai-chinh-rieng-le-nam-2025-737-1419114.htm                                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

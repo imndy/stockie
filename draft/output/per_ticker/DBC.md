@@ -1,13 +1,36 @@
 # DBC — DBC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DBC |
+| exchange | HOSE |
+| market_cap | 8948150007750 |
+| 52w_high | 31250 |
+| 52w_high_date | 2025-08-12 |
+| 52w_low | 22000 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 1.6175 |
+| dividend | 0 |
+| beta | 0.8 |
+| eps | 4266 |
+| eps_forward | 8.905059832065096 |
+| bvps | 20966 |
+| pe | 5.46 |
+| pb | 1.11 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | -0.17 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DBC |
+| pe | 5.46 |
+| pb | 1.11 |
+| roe | 20.31 |
+| roe_pct_rank | 69 |
+| roa | 10.01 |
+| roa_pct_rank | 68 |
+| eps | 4266 |
+| bvps | 20966 |
+| beta | 0.8 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 33 |
+| pb_pct_rank | 48 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                               | publish_time        | url                                                         |
-|:------------------------------------|:--------------------|:------------------------------------------------------------|
-| DBC: BCTC Tóm tắt Hợp nhất năm 2025 | 2026-03-27T00:00:00 | /2026/03/dbc-bctc-tom-tat-hop-nhat-nam-2025-737-1417910.htm |
+| title                                                                                | publishtime            | url                                                                                                          |
+|:-------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------|
+| DBC: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-15T11:02:44    | /2026/04/dbc-bao-cao-phat-trien-ben-vung-nam-2025-830-1427876.htm                                            |
+| DBC: Báo cáo thường niên năm 2025                                                    | 2026-04-15T11:01:19    | /2026/04/dbc-bao-cao-thuong-nien-nam-2025-737-1427874.htm                                                    |
+| DBC - Tăng trưởng giữa biến động (Kỳ 2)                                              | 2026-04-09T11:02:00    | /2026/04/dbc-tang-truong-giua-bien-dong-ky-2-582-1423775.htm                                                 |
+| DBC - Tăng trưởng giữa biến động (Kỳ 1)                                              | 2026-04-07T09:43:00.68 | /2026/04/dbc-tang-truong-giua-bien-dong-ky-1-582-1415421.htm                                                 |
+| DBC: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                    | 2026-04-06T18:01:34    | /2026/04/dbc-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1423698.htm                                    |
+| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                         | 2026-03-31T13:26:47    | /2026/03/dbc-cbtt-to-chuc-dhdcd-thuong-nien-nam-2026-737-1419470.htm                                         |
+| Dabaco kỷ niệm 30 năm thành lập và ra mắt bộ nhận diện, tầm nhìn mới                 | 2026-03-30T08:02:00    | /2026/03/dabaco-ky-niem-30-nam-thanh-lap-va-ra-mat-bo-nhan-dien-tam-nhin-moi-737-1418253.htm                 |
+| DBC: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước | 2026-03-27T16:36:35    | /2026/03/dbc-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1417740.htm |
+| DBC: BCTC Tóm tắt năm 2025                                                           | 2026-03-27T00:00:00    | /2026/03/dbc-bctc-tom-tat-nam-2025-737-1417909.htm                                                           |
+| DBC: BCTC Tóm tắt Hợp nhất năm 2025                                                  | 2026-03-27T00:00:00    | /2026/03/dbc-bctc-tom-tat-hop-nhat-nam-2025-737-1417910.htm                                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

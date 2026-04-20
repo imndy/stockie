@@ -1,13 +1,36 @@
 # PAN — PAN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 20/04/2026 23:03  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PAN |
+| exchange | HOSE |
+| market_cap | 6747300425000 |
+| 52w_high | 35350 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 22023 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 21.2194 |
+| dividend | 500 |
+| beta | 0.44 |
+| eps | 3223 |
+| eps_forward | 5.72018976729553 |
+| bvps | 43488 |
+| pe | 9.93 |
+| pb | 0.74 |
+| price_chg_1m | 14.34 |
+| price_chg_ytd | 40.08 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.015479876160990712 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PAN |
+| pe | 9.93 |
+| pb | 0.74 |
+| roe | 13.07 |
+| roe_pct_rank | 54 |
+| roa | 3.4 |
+| roa_pct_rank | 43 |
+| eps | 3223 |
+| bvps | 43488 |
+| beta | 0.44 |
+| dividend | 500 |
+| yield | 0.015479876160990712 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 30 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                | publishtime             | url                                                                                                        |
+|:-------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
+| PAN: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-20T13:49:15     | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                          |
+| PAN: Báo cáo thường niên năm 2025                                                    | 2026-04-20T13:48:42     | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                  |
+| PAN: BCTC quý 1 năm 2026                                                             | 2026-04-20T00:00:00     | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                           |
+| PAN Group đặt mục tiêu lợi nhuận tăng 86% nhờ thoái vốn Bibica, muốn chia cổ tức 30% | 2026-04-09T12:34:11.64  | /2026/04/pan-group-dat-muc-tieu-loi-nhuan-tang-86-nho-thoai-von-bibica-muon-chia-co-tuc-30-737-1425377.htm |
+| PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                   | 2026-04-01T09:13:53     | /2026/04/pan-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1420304.htm                                 |
+| PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-31T15:38:46     | /2026/03/pan-giai-trinh-bien-dong-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419700.htm        |
+| PAN: BCTC Hợp nhất năm 2025                                                          | 2026-03-31T00:00:00     | /2026/03/pan-bctc-hop-nhat-nam-2025-737-1419726.htm                                                        |
+| PAN: BCTC năm 2025                                                                   | 2026-03-31T00:00:00     | /2026/03/pan-bctc-nam-2025-737-1419727.htm                                                                 |
+| PAN hoàn tất chuyển nhượng Bibica cho đối tác ngoại                                  | 2026-03-26T19:11:54.977 | /2026/03/pan-hoan-tat-chuyen-nhuong-bibica-cho-doi-tac-ngoai-764-1417013.htm                               |
+| PAN: Nghị quyết HĐQT số 04-03/2026 ngày 26/03/2026                                   | 2026-03-26T17:25:57     | /2026/03/pan-nghi-quyet-hdqt-so-0403-2026-ngay-26-03-2026-737-1417084.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

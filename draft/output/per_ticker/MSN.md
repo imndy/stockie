@@ -1,13 +1,36 @@
 # MSN — MSN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MSN |
+| exchange | HOSE |
+| market_cap | 121335255774600 |
+| 52w_high | 88500 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 58100 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 24.4639 |
+| dividend | 0 |
+| beta | 0.8 |
+| eps | 2756 |
+| eps_forward | 24.795708315139418 |
+| bvps | 29647 |
+| pe | 28.84 |
+| pb | 2.68 |
+| price_chg_1m | 11.92 |
+| price_chg_ytd | 37.59 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MSN |
+| pe | 28.84 |
+| pb | 2.68 |
+| roe | 15.76 |
+| roe_pct_rank | 59 |
+| roa | 2.97 |
+| roa_pct_rank | 40 |
+| eps | 2756 |
+| bvps | 29647 |
+| beta | 0.8 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 85 |
+| pb_pct_rank | 92 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                         | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Masan Consumer tăng trưởng hai chữ số quý 1: Triển vọng hoàn thành kế hoạch 2026 rõ nét?                      | 2026-04-20T12:52:00     | /2026/04/masan-consumer-tang-truong-hai-chu-so-quy-1-trien-vong-hoan-thanh-ke-hoach-2026-ro-net-737-1430118.htm           |
+| MSN: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Le Danny                                             | 2026-04-14T18:01:38     | /2026/04/msn-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-danny-739-1427687.htm                                 |
+| Một cổ phiếu VN-30 dự báo lãi quý 1 tăng trưởng 3 chữ số, được khối ngoại mua ròng mạnh nhất top 3 thị trường | 2026-04-14T14:32:08.923 | /2026/04/mot-co-phieu-vn-30-du-bao-lai-quy-1-tang-truong-3-chu-so-duoc-khoi-ngoai-mua-rong-manh-nhat-top-3-thi-truong-83… |
+| Một cổ phiếu, ba câu chuyện tăng trưởng: MSN đang ở thời điểm nào?                                            | 2026-04-07T08:02:00     | /2026/04/mot-co-phieu-ba-cau-chuyen-tang-truong-msn-dang-o-thoi-diem-nao-737-1423384.htm                                  |
+| Động lực nào giúp Masan đặt mục tiêu tăng trưởng lợi nhuận 7,900 tỷ đồng?                                     | 2026-04-03T17:00:00     | /2026/04/dong-luc-nao-giup-masan-dat-muc-tieu-tang-truong-loi-nhuan-7900-ty-dong-737-1422606.htm                          |
+| Masan công bố kế hoạch phân phối gần 55 triệu cp MSR                                                          | 2026-04-03T16:30:00     | /2026/04/masan-cong-bo-ke-hoach-phan-phoi-gan-55-trieu-cp-msr-737-1422548.htm                                             |
+| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                      | 2026-04-03T10:37:36     | /2026/04/msn-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422399.htm                                                          |
+| MSN: Báo cáo thường niên năm 2025                                                                             | 2026-04-02T14:30:36     | /2026/04/msn-bao-cao-thuong-nien-nam-2025-737-1421528.htm                                                                 |
+| MSN: Nghị quyết HĐQT về việc công ty TNHH Tầm Nhìn Masan bán cổ phần MSR ra thị trường                        | 2026-04-01T17:45:33     | /2026/04/msn-nghi-quyet-hdqt-ve-viec-cong-ty-tnhh-tam-nhin-masan-ban-co-phan-msr-ra-thi-truong-737-1421116.htm            |
+| MSN: Đính chính một số nội dung của Báo cáo tình hình quản trị công ty năm 2025                               | 2026-04-01T17:44:10     | /2026/04/msn-dinh-chinh-mot-so-noi-dung-cua-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1421126.htm                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

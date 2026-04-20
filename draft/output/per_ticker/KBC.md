@@ -1,13 +1,36 @@
 # KBC — KBC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 20/04/2026 23:01  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KBC |
+| exchange | HOSE |
+| market_cap | 32961416565000 |
+| 52w_high | 41150 |
+| 52w_high_date | 2025-09-05 |
+| 52w_low | 21350 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 9.3072 |
+| dividend | 0 |
+| beta | 1.14 |
+| eps | 2526 |
+| eps_forward | 11.002844101784941 |
+| bvps | 28399 |
+| pe | 13.88 |
+| pb | 1.23 |
+| price_chg_1m | 20.48 |
+| price_chg_ytd | 60.55 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KBC |
+| pe | 13.88 |
+| pb | 1.23 |
+| roe | 9.4 |
+| roe_pct_rank | 46 |
+| roa | 3.75 |
+| roa_pct_rank | 44 |
+| eps | 2526 |
+| bvps | 28399 |
+| beta | 1.14 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 53 |
+| pb_pct_rank | 52 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| KBC: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                                                 | 2026-04-20T10:03:59     | /2026/04/kbc-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1429970.htm                          |
+| Ông Đặng Thành Tâm kêu gọi cổ đông đi cùng “đoàn tàu” KBC để chờ ngày hái thành quả                                       | 2026-04-18T16:18:16.327 | /2026/04/ong-dang-thanh-tam-keu-goi-co-dong-di-cung-doan-tau-kbc-de-cho-ngay-hai-thanh-qua-830-1429765.htm                |
+| ĐHĐCĐ KBC: “Khát” vốn nhưng vẫn cam kết chia cổ tức 2026                                                                  | 2026-04-18T12:27:00     | /2026/04/dhdcd-kbc-khat-von-nhung-van-cam-ket-chia-co-tuc-2026-737-1429716.htm                                            |
+| KBC: Báo cáo về ngày trở thành cổ đông lớn Công ty Cổ phần Chứng khoán VPBank                                             | 2026-04-16T17:43:08     | /2026/04/kbc-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cong-ty-co-phan-chung-khoan-vpbank-739-1428780.htm                     |
+| Phân tích kỹ thuật phiên chiều 16/04: Sự tích cực kéo dài                                                                 | 2026-04-16T13:12:00     | /2026/04/phan-tich-ky-thuat-phien-chieu-1604-su-tich-cuc-keo-dai-585-1428452.htm                                          |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| VPBankS trở thành cổ đông lớn KBC                                                                                         | 2026-04-15T23:17:00     | /2026/04/vpbanks-tro-thanh-co-dong-lon-kbc-739-1428326.htm                                                                |
+| VPX: VPBankS trở thành cổ đông lớn của KBC                                                                                | 2026-04-15T18:06:49     | /2026/04/vpx-vpbanks-tro-thanh-co-dong-lon-cua-kbc-739-1428286.htm                                                        |
+| ISC: VPBankS_CBTT_VPBankS trở thành cổ đông lớn của KBC/ VPBankS_Disclosure the information VPBankS becoming to be major… | 2026-04-15T00:00:00     | /2026/04/isc-vpbanks_cbtt_vpbanks-tro-thanh-co-dong-lon-cua-kbc-vpbanks_disclosure-the-information-vpbanks-becoming-to-b… |
+| Theo dấu dòng tiền cá mập 07/04: KBC hút tiền tự doanh, khối ngoại tiếp tục bán ròng                                      | 2026-04-07T19:32:00     | /2026/04/theo-dau-dong-tien-ca-map-0704-kbc-hut-tien-tu-doanh-khoi-ngoai-tiep-tuc-ban-rong-830-1424404.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

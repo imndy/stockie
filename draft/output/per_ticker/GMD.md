@@ -1,13 +1,36 @@
 # GMD — GMD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GMD |
+| exchange | HOSE |
+| market_cap | 31645937087800 |
+| 52w_high | 84400 |
+| 52w_high_date | 2026-02-27 |
+| 52w_low | 45293 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 41.99 |
+| dividend | 2000 |
+| beta | 0.78 |
+| eps | 3934 |
+| eps_forward | 15.908252459275086 |
+| bvps | 34842 |
+| pe | 18.96 |
+| pb | 2.14 |
+| price_chg_1m | -3.89 |
+| price_chg_ytd | 57.59 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.026954177897574125 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GMD |
+| pe | 18.96 |
+| pb | 2.14 |
+| roe | 15.54 |
+| roe_pct_rank | 59 |
+| roa | 8.88 |
+| roa_pct_rank | 64 |
+| eps | 3934 |
+| bvps | 34842 |
+| beta | 0.78 |
+| dividend | 2000 |
+| yield | 0.026954177897574125 |
+| pe_pct_rank | 64 |
+| pb_pct_rank | 77 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title              | publish_time        | url                                        |
-|:-------------------|:--------------------|:-------------------------------------------|
-| GMD: BCTC năm 2025 | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-nam-2025-737-1419504.htm |
+| title                                                                                            | publishtime         | url                                                                                                                      |
+|:-------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                              | 2026-04-20T15:02:00 | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                               |
+| GMD: Báo cáo thường niên năm 2025                                                                | 2026-04-20T13:42:29 | /2026/04/gmd-bao-cao-thuong-nien-nam-2025-737-1430161.htm                                                                |
+| GMD động thổ Gemalink giai đoạn 2: Củng cố vị thế cảng nước sâu số 1 Việt Nam                    | 2026-04-17T14:52:00 | /2026/04/gmd-dong-tho-gemalink-giai-doan-2-cung-co-vi-the-cang-nuoc-sau-so-1-viet-nam-737-1429145.htm                    |
+| GMD: Nghị quyết HĐQT về việc chuyển nhượng cổ phần tại FCC                                       | 2026-04-16T16:57:05 | /2026/04/gmd-nghi-quyet-hdqt-ve-viec-chuyen-nhuong-co-phan-tai-fcc-737-1428676.htm                                       |
+| GMD: Nghị quyết HĐQT về việc thông qua chương trình và các tài liệu trình ĐHĐCĐ thường niên 2026 | 2026-04-16T13:25:32 | /2026/04/gmd-nghi-quyet-hdqt-ve-viec-thong-qua-chuong-trinh-va-cac-tai-lieu-trinh-dhdcd-thuong-nien-2026-737-1428473.htm |
+| GMD: CBTT nội dung Nghị quyết HĐQT số 057 về việc chuyển nhượng cổ phần                          | 2026-04-07T11:10:03 | /2026/04/gmd-cbtt-noi-dung-nghi-quyet-hdqt-so-057-ve-viec-chuyen-nhuong-co-phan-737-1423950.htm                          |
+| GMD: Gemadept và CJ Logistics tối ưu hóa Chiến lược hợp tác giữa hai doanh nghiệp                | 2026-03-31T18:11:37 | /2026/03/gmd-gemadept-va-cj-logistics-toi-uu-hoa-chien-luoc-hop-tac-giua-hai-doanh-nghiep-830-1420018.htm                |
+| Gemadept và CJ Logistics hợp tác để tối ưu hóa chuỗi cung ứng                                    | 2026-03-31T09:54:00 | /2026/03/gemadept-va-cj-logistics-hop-tac-de-toi-uu-hoa-chuoi-cung-ung-737-1419195.htm                                   |
+| GMD: BCTC Hợp nhất năm 2025                                                                      | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-hop-nhat-nam-2025-737-1419502.htm                                                                      |
+| GMD: BCTC năm 2025                                                                               | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-nam-2025-737-1419504.htm                                                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

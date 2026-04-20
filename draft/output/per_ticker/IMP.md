@@ -1,13 +1,36 @@
 # IMP — IMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 20/04/2026 23:00  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | IMP |
+| exchange | HOSE |
+| market_cap | 8624501872000 |
+| 52w_high | 56700 |
+| 52w_high_date | 2026-03-11 |
+| 52w_low | 41598 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 50.8622 |
+| dividend | 500 |
+| beta | 0.21 |
+| eps | 2267 |
+| eps_forward | 17.542435839009134 |
+| bvps | 14977 |
+| pe | 24.79 |
+| pb | 3.75 |
+| price_chg_1m | 2.75 |
+| price_chg_ytd | 30.13 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.008928571428571428 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | IMP |
+| pe | 24.79 |
+| pb | 3.75 |
+| roe | 15.55 |
+| roe_pct_rank | 59 |
+| roa | 13.21 |
+| roa_pct_rank | 79 |
+| eps | 2267 |
+| bvps | 14977 |
+| beta | 0.21 |
+| dividend | 500 |
+| yield | 0.008928571428571428 |
+| pe_pct_rank | 76 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| IMP: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                              | 2026-04-20T16:57:55    | /2026/04/imp-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430621.htm                      |
+| IMP: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00    | /2026/04/imp-bctc-quy-1-nam-2026-737-1430679.htm                                                                          |
+| IMP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ SK Investment Vina III Pte. Ltd., Công ty Cổ… | 2026-04-15T16:47:29    | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-sk-investment-vina-iii-pte-ltd-cong-… |
+| IMP: Thông báo giao dịch cổ phiếu của Người nội bộ Huỳnh Văn Nhung                                                        | 2026-04-10T18:34:01    | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-huynh-van-nhung-830-1426445.htm                                |
+| IMP: Giấy phép môi trường Nhà máy Công nghệ cao Bình Dương                                                                | 2026-04-10T18:31:57    | /2026/04/imp-giay-phep-moi-truong-nha-may-cong-nghe-cao-binh-duong-830-1426450.htm                                        |
+| IMP: Thông báo giao dịch cổ phiếu của Người nội bộ Ngô Minh Tuấn, Trần Thị Đào                                            | 2026-04-09T17:45:08    | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-ngo-minh-tuan-tran-thi-dao-830-1425707.htm                     |
+| IMP: Link công bố Báo cáo thường niên năm 2025                                                                            | 2026-04-08T11:01:14    | /2026/04/imp-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1424784.htm                                                    |
+| Imexpharm hướng đến chuỗi 5 năm phá kỷ lục lợi nhuận                                                                      | 2026-03-28T16:00:42.06 | /2026/03/imexpharm-huong-den-chuoi-5-nam-pha-ky-luc-loi-nhuan-737-1418178.htm                                             |
+| IMP: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                                         | 2026-03-26T18:08:22    | /2026/03/imp-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1417239.htm                                                 |
+| IMP: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                                 | 2026-03-26T18:07:38    | /2026/03/imp-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1417240.htm                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

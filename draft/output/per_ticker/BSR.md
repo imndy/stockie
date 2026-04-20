@@ -1,13 +1,36 @@
 # BSR — BSR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BSR |
+| exchange | HOSE |
+| market_cap | 130940886788900 |
+| 52w_high | 37850 |
+| 52w_high_date | 2026-03-04 |
+| 52w_low | 9288 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 1.62 |
+| dividend | 0 |
+| beta | 0.67 |
+| eps | 1539 |
+| eps_forward | 61.838478819741994 |
+| bvps | 12079 |
+| pe | 17.35 |
+| pb | 2.21 |
+| price_chg_1m | -6.77 |
+| price_chg_ytd | 164.76 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BSR |
+| pe | 17.35 |
+| pb | 2.21 |
+| roe | 8.95 |
+| roe_pct_rank | 45 |
+| roa | 5.98 |
+| roa_pct_rank | 53 |
+| eps | 1539 |
+| bvps | 12079 |
+| beta | 0.67 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 60 |
+| pb_pct_rank | 79 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                | publish_time        | url                                                                                          |
-|:---------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------|
-| BSR: Giải trình một số nội dung liên quan BCTC năm 2025 đã kiểm toán | 2026-03-26T17:35:06 | /2026/03/bsr-giai-trinh-mot-so-noi-dung-lien-quan-bctc-nam-2025-da-kiem-toan-737-1417135.htm |
+| title                                                                | publishtime             | url                                                                                          |
+|:---------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------|
+| BSR: Thông báo thay đổi nhân sự - miễn nhiệm Phó TGĐ                 | 2026-04-20T17:52:27     | /2026/04/bsr-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tgd-214-1430768.htm                   |
+| BSR: Thông báo ký hợp đồng kiểm toán BCTC 2026                       | 2026-04-20T17:51:56     | /2026/04/bsr-thong-bao-ky-hop-dong-kiem-toan-bctc-2026-737-1430769.htm                       |
+| BSR: Báo cáo thường niên năm 2025                                    | 2026-04-16T16:57:07     | /2026/04/bsr-bao-cao-thuong-nien-nam-2025-737-1428691.htm                                    |
+| BSR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026               | 2026-04-14T17:54:29     | /2026/04/bsr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1427673.htm               |
+| BSR: Thông báo thay đổi nhân sự (kèm NQ)                             | 2026-04-14T17:53:40     | /2026/04/bsr-thong-bao-thay-doi-nhan-su-kem-nq-214-1427697.htm                               |
+| ĐHĐCĐ BSR: Mở rộng kinh doanh quốc tế là hướng đi chiến lược         | 2026-04-13T11:16:00     | /2026/04/dhdcd-bsrmo-rong-kinh-doanh-quoc-te-la-huong-di-chien-luoc-737-1426633.htm          |
+| Vì đâu công ty chứng khoán gọi tên BSR, EIB, REE?                    | 2026-04-06T14:28:15.65  | /2026/04/vi-dau-cong-ty-chung-khoan-goi-ten-bsr-eib-ree-145-1423333.htm                      |
+| BSR: CBTT giao dịch với người có liên quan PVOIL Lào                 | 2026-04-02T18:27:08     | /2026/04/bsr-cbtt-giao-dich-voi-nguoi-co-lien-quan-pvoil-lao-739-1421969.htm                 |
+| Phân tích kỹ thuật phiên chiều 01/04: Tiếp tục tăng                  | 2026-04-01T13:13:22.467 | /2026/04/phan-tich-ky-thuat-phien-chieu-0104-tiep-tuc-tang-585-1420624.htm                   |
+| BSR: Giải trình một số nội dung liên quan BCTC năm 2025 đã kiểm toán | 2026-03-26T17:35:06     | /2026/03/bsr-giai-trinh-mot-so-noi-dung-lien-quan-bctc-nam-2025-da-kiem-toan-737-1417135.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # BWE — BWE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BWE |
+| exchange | HOSE |
+| market_cap | 9665863903800 |
+| 52w_high | 51314 |
+| 52w_high_date | 2025-05-07 |
+| 52w_low | 40818 |
+| 52w_low_date | 2025-12-26 |
+| foreign_ownership | 3.4447 |
+| dividend | 1300 |
+| beta | 0.36 |
+| eps | 4478 |
+| eps_forward | 13.698414942582906 |
+| bvps | 28603 |
+| pe | 9.74 |
+| pb | 1.52 |
+| price_chg_1m | 2.33 |
+| price_chg_ytd | 0.38 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02957906712172924 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BWE |
+| pe | 9.74 |
+| pb | 1.52 |
+| roe | 14.78 |
+| roe_pct_rank | 57 |
+| roa | 6.09 |
+| roa_pct_rank | 54 |
+| eps | 4478 |
+| bvps | 28603 |
+| beta | 0.36 |
+| dividend | 1300 |
+| yield | 0.02957906712172924 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 60 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                              | publish_time        | url                                                                                      |
-|:-------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------|
-| BWE: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (chỉnh sửa lần thứ 1) | 2026-03-24T16:10:28 | /2026/03/bwe-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-chinh-sua-lan-thu-1-737-1415733.htm |
+| title                                                                                               | publishtime             | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BWE: Nghị quyết HĐQT về việc thông qua Hồ sơ đăng ký chào bán cổ phiếu ra công chúng                | 2026-04-20T17:41:38     | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-ho-so-dang-ky-chao-ban-co-phieu-ra-cong-chung-737-1430752.htm              |
+| BWE: Nghị quyết HĐQT về việc thông qua phương án tách Công ty và thành lập 4 công ty mới            | 2026-04-17T17:58:41     | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-phuong-an-tach-cong-ty-va-thanh-lap-4-cong-ty-moi-737-1429559.htm          |
+| BWE: Nghị quyết HĐQT số 25 ngày 13/04/2026                                                          | 2026-04-14T17:21:22     | /2026/04/bwe-nghi-quyet-hdqt-so-25-ngay-13-04-2026-737-1427577.htm                                                        |
+| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                               | 2026-04-07T16:33:28     | /2026/04/bwe-thong-bao-duong-dan-dang-tai-dieu-le-cong-ty-sua-doi-lan-thu-9-737-1424223.htm                               |
+| BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)                         | 2026-04-02T14:37:17     | /2026/04/bwe-thong-bao-thay-doi-nhan-su-dinh-chinh-ban-cbtt-so-06-ngay-28-03-2026-214-1421552.htm                         |
+| BWE: Thông báo thay đổi nhân sự                                                                     | 2026-03-30T14:22:35     | /2026/03/bwe-thong-bao-thay-doi-nhan-su-214-1418635.htm                                                                   |
+| BWE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                              | 2026-03-30T09:16:25     | /2026/03/bwe-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1418344.htm                                            |
+| Chủ tịch Biwase Nguyễn Văn Thiền lý giải vì sao giá nước chưa thể tăng dù chịu nhiều áp lực đầu vào | 2026-03-28T11:01:42.343 | /2026/03/chu-tich-biwase-nguyen-van-thien-ly-giai-vi-sao-gia-nuoc-chua-the-tang-du-chiu-nhieu-ap-luc-dau-vao-737-1417968… |
+| BWE: Tài liệu họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-27T09:28:00     | /2026/03/bwe-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1417340.htm                                                          |
+| BWE: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (chỉnh sửa lần thứ 1)                                  | 2026-03-24T16:10:28     | /2026/03/bwe-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-chinh-sua-lan-thu-1-737-1415733.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

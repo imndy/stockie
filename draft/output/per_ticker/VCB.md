@@ -1,6 +1,6 @@
 # VCB — VCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: —
 
 ---
 
@@ -320,7 +320,30 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCB |
+| exchange | HOSE |
+| market_cap | 502176073149400 |
+| 52w_high | 76000 |
+| 52w_high_date | 2026-01-14 |
+| 52w_low | 55341 |
+| 52w_low_date | 2025-06-11 |
+| foreign_ownership | 20.2177 |
+| dividend | 450 |
+| beta | 0.79 |
+| eps | 4542 |
+| eps_forward | 16.207058105708153 |
+| bvps | 27231.3 |
+| pe | 13.10 |
+| pb | 2.18 |
+| price_chg_1m | 3.62 |
+| price_chg_ytd | 4.11 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.0074875207986688855 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -341,11 +364,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCB |
+| pe | 13.10 |
+| pb | 2.18 |
+| roe | 16.61 |
+| roe_pct_rank | 61 |
+| roa | 1.55 |
+| roa_pct_rank | 34 |
+| eps | 4542 |
+| bvps | 27231.3 |
+| beta | 0.79 |
+| dividend | 450 |
+| yield | 0.0074875207986688855 |
+| pe_pct_rank | 51 |
+| pb_pct_rank | 78 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                           | publishtime             | url                                                                                                                   |
+|:------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| VCB: Báo cáo thường niên năm 2025                                                               | 2026-04-17T09:05:58     | /2026/04/vcb-bao-cao-thuong-nien-nam-2025-737-1428979.htm                                                             |
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                           | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                        |
+| DSE: Quyết định của TGĐ về việc phê duyệt hạn mức tín dụng do VCB Tây Hồ cấp                    | 2026-04-13T17:17:12     | /2026/04/dse-quyet-dinh-cua-tgd-ve-viec-phe-duyet-han-muc-tin-dung-do-vcb-tay-ho-cap-830-1427016.htm                  |
+| Em trai Tổng Giám đốc Vietcombank ứng cử vào HĐQT SMC                                           | 2026-04-13T17:09:02.953 | /2026/04/em-trai-tong-giam-doc-vietcombank-ung-cu-vao-hdqt-smc-214-1426861.htm                                        |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                            | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                          |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                     | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                     |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                  | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
+| VCB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Tân Định                           | 2026-04-06T18:14:05     | /2026/04/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-tan-dinh-737-1423707.htm                         |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC        | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
+| Vietcombank muốn tăng vốn điều lệ lên 94,238 tỷ, lập ngân hàng thành viên tại VIFC vốn 3,000 tỷ | 2026-04-03T14:13:13.18  | /2026/04/vietcombank-muon-tang-von-dieu-le-len-94238-ty-lap-ngan-hang-thanh-vien-tai-vifc-von-3000-ty-737-1422480.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

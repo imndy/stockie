@@ -1,13 +1,36 @@
 # DIG — DIG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DIG |
+| exchange | HOSE |
+| market_cap | 11428787590850 |
+| 52w_high | 24600 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 12287 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.6419 |
+| dividend | 0 |
+| beta | 1.01 |
+| eps | 1025 |
+| eps_forward | 15.917561451770343 |
+| bvps | 12592 |
+| pe | 14.00 |
+| pb | 1.14 |
+| price_chg_1m | 7.49 |
+| price_chg_ytd | 5.97 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DIG |
+| pe | 14.00 |
+| pb | 1.14 |
+| roe | 6.91 |
+| roe_pct_rank | 40 |
+| roa | 3.45 |
+| roa_pct_rank | 43 |
+| eps | 1025 |
+| bvps | 12592 |
+| beta | 1.01 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 53 |
+| pb_pct_rank | 49 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                            | publish_time        | url                                                                                      |
-|:-----------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------|
-| DIG: Giải trình BCTC kiểm toán năm 2025 so với cùng kỳ năm trước | 2026-03-30T16:05:48 | /2026/03/dig-giai-trinh-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1418763.htm |
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Tập đoàn DIC mở hệ thống tham dự và bỏ phiếu điện tử ĐHĐCĐ từ ngày 17/4                        | 2026-04-18T11:05:00     | /2026/04/tap-doan-dic-mo-he-thong-tham-du-va-bo-phieu-dien-tu-dhdcd-tu-ngay-174-737-1429727.htm                        |
+| DIG: Thông báo đường dẫn báo cáo thường niên năm 2026                                          | 2026-04-17T08:59:24     | /2026/04/dig-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2026-737-1428967.htm                                          |
+| DIG: Thông báo đường dẫn báo cáo phát triển bền vững năm 2025                                  | 2026-04-17T08:58:57     | /2026/04/dig-thong-bao-duong-dan-bao-cao-phat-trien-ben-vung-nam-2025-830-1428972.htm                                  |
+| DIG ‘chơi lớn’ tặng cổ đông ủy quyền dự đại hội tới 20 triệu đồng/người                        | 2026-04-03T12:30:00     | /2026/04/dig-8216choi-lon8217-tang-co-dong-uy-quyen-du-dai-hoi-toi-20-trieu-dongnguoi-737-1422426.htm                  |
+| DIG: Thông báo về việc hoàn tất thoái toàn bộ vốn góp tại Công ty Cổ phần Gạch men Anh Em DIC  | 2026-04-01T18:18:54     | /2026/04/dig-thong-bao-ve-viec-hoan-tat-thoai-toan-bo-von-gop-tai-cong-ty-co-phan-gach-men-anh-em-dic-830-1421198.htm  |
+| DIG: Nghị quyết HĐQT về việc thông qua chủ trương giải thể CTCP Đầu tư Phát triển Tầm nhìn DIC | 2026-03-31T18:37:12     | /2026/03/dig-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-giai-the-ctcp-dau-tu-phat-trien-tam-nhin-dic-737-1420047.htm |
+| DIG lên kế hoạch đi lùi, muốn vay 1.4 ngàn tỷ giữa áp lực lãi suất cao                         | 2026-03-31T17:45:43.197 | /2026/03/dig-len-ke-hoach-di-lui-muon-vay-14-ngan-ty-giua-ap-luc-lai-suat-cao-737-1419803.htm                          |
+| DIG: Nghị quyết HĐQT về việc thông qua tài liệu,  thời gian chính thức họp ĐHĐCĐTN 2026        | 2026-03-31T14:43:08     | /2026/03/dig-nghi-quyet-hdqt-ve-viec-thong-qua-tai-lieu-thoi-gian-chinh-thuc-hop-dhdcdtn-2026-737-1419605.htm          |
+| DIG: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                              | 2026-03-31T14:41:45     | /2026/03/dig-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1419603.htm                                              |
+| DIG: Giải trình BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                               | 2026-03-30T16:05:48     | /2026/03/dig-giai-trinh-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1418763.htm                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

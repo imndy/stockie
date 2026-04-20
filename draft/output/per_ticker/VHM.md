@@ -1,13 +1,36 @@
 # VHM — VHM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VHM |
+| exchange | HOSE |
+| market_cap | 595985481780400 |
+| 52w_high | 149500 |
+| 52w_high_date | 2026-01-07 |
+| 52w_low | 55000 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 8.1388 |
+| dividend | 0 |
+| beta | 1.77 |
+| eps | 10019 |
+| eps_forward | 13.270848532383022 |
+| bvps | 60356 |
+| pe | 13.54 |
+| pb | 2.25 |
+| price_chg_1m | 45.10 |
+| price_chg_ytd | 163.82 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VHM |
+| pe | 13.54 |
+| pb | 2.25 |
+| roe | 17.97 |
+| roe_pct_rank | 64 |
+| roa | 6.09 |
+| roa_pct_rank | 54 |
+| eps | 10019 |
+| bvps | 60356 |
+| beta | 1.77 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 80 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                 | publishtime            | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Vinhomes nâng lợi nhuận mục tiêu thêm 10,000 tỷ                                                                       | 2026-04-20T18:34:31.58 | /2026/04/vinhomes-nang-loi-nhuan-muc-tieu-them-10000-ty-737-1430614.htm                                                   |
+| VHM: CBTT điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                              | 2026-04-20T10:03:57    | /2026/04/vhm-cbtt-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429995.htm                                          |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                           | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| Thị trường chứng quyền ngày 16/04/2026: Nhóm chứng quyền VIC và VHM tỏa sáng                                          | 2026-04-15T20:00:00    | /2026/04/thi-truong-chung-quyen-ngay-16042026-nhom-chung-quyen-vic-va-vhm-toa-sang-1636-1428021.htm                       |
+| Nhịp đập Thị trường 13/04: Thị trường phân hóa, nhóm cổ phiếu VIC và VHM nâng đỡ chỉ số                               | 2026-04-13T16:02:00    | /2026/04/nhip-dap-thi-truong-1304-thi-truong-phan-hoa-nhom-co-phieu-vic-va-vhm-nang-do-chi-so-1636-1426645.htm            |
+| VHM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Tập đoàn Vingroup - Công ty Cổ phần | 2026-04-13T14:12:02    | /2026/04/vhm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-tap-doan-vingroup-cong-ty-co-p… |
+| VHM: Báo cáo thường niên năm 2025                                                                                     | 2026-04-13T14:11:34    | /2026/04/vhm-bao-cao-thuong-nien-nam-2025-737-1426751.htm                                                                 |
+| VHM: Nghị quyết HĐQT về việc thành lập các Chi nhánh của Công ty                                                      | 2026-04-09T17:49:56    | /2026/04/vhm-nghi-quyet-hdqt-ve-viec-thanh-lap-cac-chi-nhanh-cua-cong-ty-737-1425706.htm                                  |
+| VHM: Nghị quyết HĐQT về việc chào bán và phát hành trái phiếu doanh nghiệp theo hình thức riêng lẻ                    | 2026-04-09T17:48:50    | /2026/04/vhm-nghi-quyet-hdqt-ve-viec-chao-ban-va-phat-hanh-trai-phieu-doanh-nghiep-theo-hinh-thuc-rieng-le-737-1425704.h… |
+| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm                              | 2026-04-01T16:47:00    | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

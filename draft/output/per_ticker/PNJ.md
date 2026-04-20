@@ -1,13 +1,36 @@
 # PNJ — PNJ
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 20/04/2026 23:04  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PNJ |
+| exchange | HOSE |
+| market_cap | 39232147305000 |
+| 52w_high | 127000 |
+| 52w_high_date | 2026-01-30 |
+| 52w_low | 65375 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 48.9994 |
+| dividend | 2400 |
+| beta | 0.93 |
+| eps | 8369 |
+| eps_forward | 19.333229990542392 |
+| bvps | 38915 |
+| pe | 13.26 |
+| pb | 2.85 |
+| price_chg_1m | 0.70 |
+| price_chg_ytd | 62.80 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.020869565217391306 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PNJ |
+| pe | 13.26 |
+| pb | 2.85 |
+| roe | 23.07 |
+| roe_pct_rank | 75 |
+| roa | 15.14 |
+| roa_pct_rank | 86 |
+| eps | 8369 |
+| bvps | 38915 |
+| beta | 0.93 |
+| dividend | 2400 |
+| yield | 0.020869565217391306 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 97 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PNJ: Đính chính tài liệu ĐHĐCĐ thường niên năm 2026                                                                       | 2026-04-16T17:18:50     | /2026/04/pnj-dinh-chinh-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1428739.htm                                               |
+| PNJ: Thông báo về ngày đăng ký cuối cùng phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                   | 2026-04-15T10:43:57     | /2026/04/pnj-thong-bao-ve-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-737-1427… |
+| PNJ: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 40                                                             | 2026-04-13T16:20:42     | /2026/04/pnj-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-40-737-1426910.htm                                     |
+| MCH, NT2 và PNJ có triển vọng gì?                                                                                         | 2026-04-13T12:01:35.44  | /2026/04/mch-nt2-va-pnj-co-trien-vong-gi-145-1426686.htm                                                                  |
+| PNJ chốt quyền nhận cổ phiếu thưởng 50%                                                                                   | 2026-04-13T10:32:46.813 | /2026/04/pnj-chot-quyen-nhan-co-phieu-thuong-50-764-1426635.htm                                                           |
+| PNJ: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ phiếu phát hành để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-10T17:39:30     | /2026/04/pnj-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-phieu-phat-hanh-de-tang-von-co-phan-tu-nguon… |
+| PNJ: Nghị quyết HĐQT số 221/2026 ngày 10/04/2026                                                                          | 2026-04-10T16:48:29     | /2026/04/pnj-nghi-quyet-hdqt-so-221-2026-ngay-10-04-2026-737-1426275.htm                                                  |
+| PNJ: HĐQT công bố danh sách các ứng cử viên được đề cử để bầu chọn thành viên HĐQT nhiệm kỳ 2026-2031                     | 2026-04-10T16:47:27     | /2026/04/pnj-hdqt-cong-bo-danh-sach-cac-ung-cu-vien-duoc-de-cu-de-bau-chon-thanh-vien-hdqt-nhiem-ky-20262031-214-1426274… |
+| PNJ: Báo cáo thường niên năm 2025                                                                                         | 2026-04-08T10:57:40     | /2026/04/pnj-bao-cao-thuong-nien-nam-2025-737-1424783.htm                                                                 |
+| Ông Phan Quốc Công tiếp quản vị trí Tổng Giám đốc PNJ                                                                     | 2026-04-03T20:30:46.38  | /2026/04/ong-phan-quoc-cong-tiep-quan-vi-tri-tong-giam-doc-pnj-214-1422686.htm                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

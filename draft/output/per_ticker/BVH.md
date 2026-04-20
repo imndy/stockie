@@ -1,13 +1,36 @@
 # BVH — BVH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BVH |
+| exchange | HOSE |
+| market_cap | 53669935837200 |
+| 52w_high | 86000 |
+| 52w_high_date | 2026-02-25 |
+| 52w_low | 42547 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 27.2985 |
+| dividend | 1055 |
+| beta | 0.96 |
+| eps | 4012 |
+| eps_forward | 23.825229145540646 |
+| bvps | 34499.89 |
+| pe | 18.09 |
+| pb | 2.10 |
+| price_chg_1m | -4.87 |
+| price_chg_ytd | 63.89 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.014591977869986169 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BVH |
+| pe | 18.09 |
+| pb | 2.10 |
+| roe | 12.41 |
+| roe_pct_rank | 52 |
+| roa | 1.09 |
+| roa_pct_rank | 32 |
+| eps | 4012 |
+| bvps | 34499.89 |
+| beta | 0.96 |
+| dividend | 1055 |
+| yield | 0.014591977869986169 |
+| pe_pct_rank | 62 |
+| pb_pct_rank | 76 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                | publish_time        | url                                                                                          |
-|:---------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------|
-| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Trần Thị Thụy Anh | 2026-02-13T16:57:23 | /2026/02/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-thi-thuy-anh-830-1404119.htm |
+| title                                                                                        | publishtime            | url                                                                                                                 |
+|:---------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|
+| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Vũ Thanh Hải                              | 2026-04-08T16:23:11    | /2026/04/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-vu-thanh-hai-830-1425024.htm                             |
+| BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                                             | 2026-04-06T09:29:25    | /2026/04/bvh-quyet-dinh-cua-hdqt-ve-viec-bo-nhiem-can-bo-214-1423187.htm                                            |
+| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ                                         | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm                                         |
+| BVH: BCTC năm 2025                                                                           | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-nam-2025-737-1419929.htm                                                                          |
+| BVH: BCTC Hợp nhất năm 2025                                                                  | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-hop-nhat-nam-2025-737-1419932.htm                                                                 |
+| BVH: CBTT giao dịch với người có liên quan                                                   | 2026-03-27T18:29:35    | /2026/03/bvh-cbtt-giao-dich-voi-nguoi-co-lien-quan-739-1418032.htm                                                  |
+| BVH: Nghị quyết HĐQT về việc phê duyệt nội dung chủ yếu của các hợp đồng, giao dịch với BVSC | 2026-03-27T17:38:10    | /2026/03/bvh-nghi-quyet-hdqt-ve-viec-phe-duyet-noi-dung-chu-yeu-cua-cac-hop-dong-giao-dich-voi-bvsc-737-1417838.htm |
+| BVH: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Trần Thị Thụy Anh                   | 2026-03-23T17:20:40    | /2026/03/bvh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-thi-thuy-anh-739-1415274.htm                  |
+| Bảo hiểm phi nhân thọ 2025 và chuyến tàu lượn lợi nhuận                                      | 2026-02-14T13:02:00    | /2026/02/bao-hiem-phi-nhan-tho-2025-va-chuyen-tau-luon-loi-nhuan-737-1403629.htm                                    |
+| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Trần Thị Thụy Anh                         | 2026-02-13T16:57:23    | /2026/02/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-thi-thuy-anh-830-1404119.htm                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

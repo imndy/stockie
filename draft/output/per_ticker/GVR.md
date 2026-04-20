@@ -1,13 +1,36 @@
 # GVR — GVR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GVR |
+| exchange | HOSE |
+| market_cap | 132000000000000 |
+| 52w_high | 45750 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 21986 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 0.6806 |
+| dividend | 400 |
+| beta | 1.07 |
+| eps | 1372 |
+| eps_forward | 26.94008845999196 |
+| bvps | 15638 |
+| pe | 24.42 |
+| pb | 2.14 |
+| price_chg_1m | 7.32 |
+| price_chg_ytd | 36.61 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.012121212121212121 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GVR |
+| pe | 24.42 |
+| pb | 2.14 |
+| roe | 10.51 |
+| roe_pct_rank | 48 |
+| roa | 6.62 |
+| roa_pct_rank | 56 |
+| eps | 1372 |
+| bvps | 15638 |
+| beta | 1.07 |
+| dividend | 400 |
+| yield | 0.012121212121212121 |
+| pe_pct_rank | 75 |
+| pb_pct_rank | 77 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                            | publish_time        | url                                                                      |
-|:-------------------------------------------------|:--------------------|:-------------------------------------------------------------------------|
-| GVR: Báo cáo tình hình quản trị công ty năm 2025 | 2026-01-30T19:08:40 | /2026/01/gvr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397986.htm |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23     | /2026/04/gvr-bao-cao-thuong-nien-nam-2025-737-1429990.htm                                                                 |
+| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57     | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
+| GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
+| GVR: BCTC Tóm tắt Hợp nhất năm 2025                                                                                       | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-hop-nhat-nam-2025-737-1419161.htm                                                               |
+| Phân tích kỹ thuật phiên chiều 23/03: Điều chỉnh mạnh                                                                     | 2026-03-23T13:10:11.82  | /2026/03/phan-tich-ky-thuat-phien-chieu-2303-dieu-chinh-manh-585-1415026.htm                                              |
+| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                                      | 2026-03-18T11:02:00     | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
+| Tập đoàn Cao su Việt Nam đặt mục tiêu doanh thu 2 tỷ USD sau năm 2030                                                     | 2026-02-27T22:05:00     | /2026/02/tap-doan-cao-su-viet-nam-dat-muc-tieu-doanh-thu-2-ty-usd-sau-nam-2030-737-1406648.htm                            |
+| Phân tích kỹ thuật phiên chiều 24/02: Giằng co mạnh                                                                       | 2026-02-24T13:14:50.463 | /2026/02/phan-tich-ky-thuat-phien-chieu-2402-giang-co-manh-585-1405019.htm                                                |
+| Cổ phiếu Tập đoàn Công nghiệp Cao su thăng hoa, nhưng lợi nhuận giảm gần nửa trong quý 4/2025                             | 2026-02-03T11:03:57.33  | /2026/02/co-phieu-tap-doan-cong-nghiep-cao-su-thang-hoa-nhung-loi-nhuan-giam-gan-nua-trong-quy-42025-737-1399433.htm      |
+| GVR: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-30T19:08:40     | /2026/01/gvr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397986.htm                                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

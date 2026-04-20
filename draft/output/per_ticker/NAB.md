@@ -1,13 +1,36 @@
 # NAB — NAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NAB |
+| exchange | HOSE |
+| market_cap | 23161767480000 |
+| 52w_high | 17000 |
+| 52w_high_date | 2025-08-22 |
+| 52w_low | 12100 |
+| 52w_low_date | 2026-03-20 |
+| foreign_ownership | 0.9293 |
+| dividend | 0 |
+| beta | 0.5 |
+| eps | 2773 |
+| eps_forward | 3.7357729314195107 |
+| bvps | 13656.79 |
+| pe | 4.87 |
+| pb | 0.99 |
+| price_chg_1m | 11.57 |
+| price_chg_ytd | 3.28 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NAB |
+| pe | 4.87 |
+| pb | 0.99 |
+| eps | 2773 |
+| bvps | 13656.79 |
+| beta | 0.5 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 32 |
+| pb_pct_rank | 42 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                       | publishtime             | url                                                                                               |
+|:----------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------|
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt       | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm    |
+| NAB: Thông báo chào bán trái phiếu ra công chúng                            | 2026-04-14T18:05:35     | /2026/04/nab-thong-bao-chao-ban-trai-phieu-ra-cong-chung-739-1427694.htm                          |
+| Nam A Bank giảm lãi suất cho vay, tung gói hỗ trợ doanh nghiệp vừa và nhỏ   | 2026-04-11T20:02:00     | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-tung-goi-ho-tro-doanh-nghiep-vua-va-nho-757-1426553.htm |
+| Nam A Bank giảm lãi suất cho vay lên đến 3%                                 | 2026-04-11T13:12:39.39  | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-len-den-3-757-1426535.htm                               |
+| NAB: Giấy ủy quyền thực hiện công bố thông tin                              | 2026-04-10T18:45:09     | /2026/04/nab-giay-uy-quyen-thuc-hien-cong-bo-thong-tin-830-1426459.htm                            |
+| NAB: Thông báo thay đổi nhân sự - Bổ nhiệm Tổng Giám đốc                    | 2026-04-10T16:35:06     | /2026/04/nab-thong-bao-thay-doi-nhan-su-bo-nhiem-tong-giam-doc-214-1426338.htm                    |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                        | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                      |
+| Nam A Bank bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng Giám đốc            | 2026-04-10T15:28:26.637 | /2026/04/nam-a-bank-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-214-1426066.htm         |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                              | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

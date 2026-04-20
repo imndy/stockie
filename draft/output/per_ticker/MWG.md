@@ -1,6 +1,6 @@
 # MWG — MWG
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: —
 
 ---
 
@@ -317,7 +317,30 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MWG |
+| exchange | HOSE |
+| market_cap | 128193374081700 |
+| 52w_high | 93700 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 54811 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 48.8402 |
+| dividend | 1000 |
+| beta | 1.21 |
+| eps | 4775 |
+| eps_forward | 13.882210482426784 |
+| bvps | 22442 |
+| pe | 18.20 |
+| pb | 3.87 |
+| price_chg_1m | 9.54 |
+| price_chg_ytd | 57.57 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.011454753722794959 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -338,11 +361,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MWG |
+| pe | 18.20 |
+| pb | 3.87 |
+| roe | 23.08 |
+| roe_pct_rank | 75 |
+| roa | 9.12 |
+| roa_pct_rank | 64 |
+| eps | 4775 |
+| bvps | 22442 |
+| beta | 1.21 |
+| dividend | 1000 |
+| yield | 0.011454753722794959 |
+| pe_pct_rank | 61 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                         | publishtime         | url                                                                                                |
+|:------------------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------------|
+| MWG: Quy chế hoạt động của HĐQT và Quy chế Quản trị nội bộ                    | 2026-04-20T14:08:28 | /2026/04/mwg-quy-che-hoat-dong-cua-hdqt-va-quy-che-quan-tri-noi-bo-143-1430221.htm                 |
+| MWG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                        | 2026-04-20T14:07:33 | /2026/04/mwg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430220.htm                     |
+| MWG: Điều lệ công ty                                                          | 2026-04-20T14:07:00 | /2026/04/mwg-dieu-le-cong-ty-737-1430219.htm                                                       |
+| CEO Vũ Đăng Linh: MWG không thay đổi kế hoạch, đã lãi 2.7 ngàn tỷ trong quý 1 | 2026-04-18T16:17:00 | /2026/04/ceo-vu-dang-linhmwg-khong-thay-doi-ke-hoach-da-lai-27-ngan-ty-trong-quy-1-737-1429724.htm |
+| Doanh thu Điện Máy Xanh tăng trưởng 33% trong quý 1                           | 2026-04-08T20:10:00 | /2026/04/doanh-thu-dien-may-xanh-tang-truong-33-trong-quy-1-737-1425218.htm                        |
+| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                 | 2026-03-31T17:49:56 | /2026/03/mwg-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq-739-1419998.htm              |
+| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN CLQ              | 2026-03-27T17:05:36 | /2026/03/mwg-bao-cao-ve-ngay-khong-con-la-co-dong-lon-cua-nhom-ndtnn-clq-739-1417805.htm           |
+| MWG: Tờ trình và Link công bố tài liệu ĐHĐCĐ thường niên 2026                 | 2026-03-27T17:03:07 | /2026/03/mwg-to-trinh-va-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1417792.htm              |
+| Thế giới Di động muốn chia cổ tức kỷ lục trên 2.9 ngàn tỷ                     | 2026-03-27T11:30:00 | /2026/03/the-gioi-di-dong-muon-chia-co-tuc-ky-luc-tren-29-ngan-ty-738-1417370.htm                  |
+| MWG: Báo cáo thường niên năm 2025 và Báo cáo phát triển bền vững 2025         | 2026-03-26T15:19:23 | /2026/03/mwg-bao-cao-thuong-nien-nam-2025-va-bao-cao-phat-trien-ben-vung-2025-737-1417202.htm      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

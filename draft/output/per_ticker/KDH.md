@@ -1,13 +1,36 @@
 # KDH — KDH
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 05/04/2026 13:41
+> 📅 Daily: 20/04/2026 23:01  |  🗂 Quarterly: 05/04/2026 13:41
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KDH |
+| exchange | HOSE |
+| market_cap | 29177587374000 |
+| 52w_high | 37000 |
+| 52w_high_date | 2025-08-18 |
+| 52w_low | 23799 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 28.2514 |
+| dividend | 0 |
+| beta | 0.97 |
+| eps | 996 |
+| eps_forward | 29.233859655029235 |
+| bvps | 18865 |
+| pe | 26.15 |
+| pb | 1.38 |
+| price_chg_1m | 1.96 |
+| price_chg_ytd | 6.61 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | KDH |
+| pe | 26.15 |
+| pb | 1.38 |
+| roe | 8.04 |
+| roe_pct_rank | 43 |
+| roa | 3.25 |
+| roa_pct_rank | 42 |
+| eps | 996 |
+| bvps | 18865 |
+| beta | 0.97 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 79 |
+| pb_pct_rank | 56 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| KDH: Nghị quyết HĐQT về việc thông qua danh sách ứng viên thành viên HĐQT, BKS nhiệm kỳ 2022-2027                         | 2026-04-10T16:52:19     | /2026/04/kdh-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-ung-vien-thanh-vien-hdqt-bks-nhiem-ky-20222027-737-1426260.htm   |
+| KDH: Báo cáo thường niên năm 2025                                                                                         | 2026-04-10T16:29:35     | /2026/04/kdh-bao-cao-thuong-nien-nam-2025-737-1426353.htm                                                                 |
+| Khang Điền lên kế hoạch lãi 1,500 tỷ, mở bán hơn 600 căn hộ Gladia trong quý 3                                            | 2026-04-03T16:38:10.827 | /2026/04/khang-dien-len-ke-hoach-lai-1500-ty-mo-ban-hon-600-can-ho-gladia-trong-quy-3-737-1422577.htm                     |
+| KDH: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Quản lý Quỹ VinaCapita… | 2026-04-03T10:45:31     | /2026/04/kdh-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-quan-ly-quy-vi… |
+| KDH: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐ TN 2026 và tài liệu đại hội                                 | 2026-04-01T17:41:26     | /2026/04/kdh-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcd-tn-2026-va-tai-lieu-dai-hoi-737-1421124.htm         |
+| KDH: Báo cáo sử dụng vốn, số tiền thu được từ các đợt phát hành ESOP năm 2024 và 2025 đã kiểm toán                        | 2026-03-30T17:51:35     | /2026/03/kdh-bao-cao-su-dung-von-so-tien-thu-duoc-tu-cac-dot-phat-hanh-esop-nam-2024-va-2025-da-kiem-toan-737-1418959.ht… |
+| KDH: CBTT tình hình thanh toán gốc, lãi trái phiếu năm 2025                                                               | 2026-03-30T17:22:48     | /2026/03/kdh-cbtt-tinh-hinh-thanh-toan-goc-lai-trai-phieu-nam-2025-785-1418879.htm                                        |
+| KDH: CBTT định kỳ về tình hình tài chính năm 2025                                                                         | 2026-03-30T17:20:44     | /2026/03/kdh-cbtt-dinh-ky-ve-tinh-hinh-tai-chinh-nam-2025-830-1418878.htm                                                 |
+| KDH: Báo cáo tình hình thực hiện các cam kết với người sở hữu trái phiếu                                                  | 2026-03-30T16:45:24     | /2026/03/kdh-bao-cao-tinh-hinh-thuc-hien-cac-cam-ket-voi-nguoi-so-huu-trai-phieu-739-1418825.htm                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

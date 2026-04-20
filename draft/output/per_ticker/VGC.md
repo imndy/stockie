@@ -1,13 +1,36 @@
 # VGC — VGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 20:04
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VGC |
+| exchange | HOSE |
+| market_cap | 20736187500000 |
+| 52w_high | 64599 |
+| 52w_high_date | 2025-08-19 |
+| 52w_low | 35587 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 1.8666 |
+| dividend | 2200 |
+| beta | 1.02 |
+| eps | 3130 |
+| eps_forward | 11.331919306880692 |
+| bvps | 25738 |
+| pe | 14.70 |
+| pb | 1.79 |
+| price_chg_1m | 5.11 |
+| price_chg_ytd | 15.58 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.04756756756756757 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VGC |
+| pe | 14.70 |
+| pb | 1.79 |
+| eps | 3130 |
+| bvps | 25738 |
+| beta | 1.02 |
+| dividend | 2200 |
+| yield | 0.04756756756756757 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 67 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                    | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VGC: Thông báo đề cử ứng viên để bầu bổ sung vào HĐQT                                                    | 2026-04-20T17:44:05 | /2026/04/vgc-thong-bao-de-cu-ung-vien-de-bau-bo-sung-vao-hdqt-830-1430736.htm                                             |
+| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00 | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
+| VGC: Quyết định của HĐQT về việc chấm dứt hoạt động chi nhánh - Công ty sen vòi Viglacera                | 2026-04-06T16:58:34 | /2026/04/vgc-quyet-dinh-cua-hdqt-ve-viec-cham-dut-hoat-dong-chi-nhanh-cong-ty-sen-voi-viglacera-737-1423607.htm           |
+| VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                          | 2026-04-03T18:04:28 | /2026/04/vgc-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-va-duong-dan-tai-lieu-737-1422863.htm                   |
+| VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                            | 2026-04-03T18:04:28 | /2026/04/vgc-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap-214-1422867.htm                                     |
+| VGC: Báo cáo thường niên năm 2025                                                                        | 2026-03-27T18:19:26 | /2026/03/vgc-bao-cao-thuong-nien-nam-2025-737-1418013.htm                                                                 |
+| VGC: Nghị quyết HĐQT về việc chấm dứt hoạt động Viện Nghiên cứu phát triển Viglacera                     | 2026-03-17T17:18:39 | /2026/03/vgc-nghi-quyet-hdqt-ve-viec-cham-dut-hoat-dong-vien-nghien-cuu-phat-trien-viglacera-737-1413281.htm              |
+| VGC: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                              | 2026-03-13T18:01:40 | /2026/03/vgc-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1412220.htm                       |
+| VGC: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                                | 2026-03-10T00:00:00 | /2026/03/vgc-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1410348.htm                                                         |
+| VGC: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-03-10T00:00:00 | /2026/03/vgc-bctc-tom-tat-quy-1-nam-2026-737-1410350.htm                                                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

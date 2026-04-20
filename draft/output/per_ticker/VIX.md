@@ -1,13 +1,36 @@
 # VIX — VIX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 20:05
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIX |
+| exchange | HOSE |
+| market_cap | 26646879529200 |
+| 52w_high | 33419 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 9586 |
+| 52w_low_date | 2025-04-29 |
+| foreign_ownership | 8.8141 |
+| dividend | 0 |
+| beta | 1.3 |
+| eps | 3424 |
+| eps_forward | 5.153849778531712 |
+| bvps | 14099.98 |
+| pe | 5.11 |
+| pb | 1.24 |
+| price_chg_1m | 7.08 |
+| price_chg_ytd | 70.79 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIX |
+| pe | 5.11 |
+| pb | 1.24 |
+| roe | 28.85 |
+| roe_pct_rank | 87 |
+| roa | 20.12 |
+| roa_pct_rank | 100 |
+| eps | 3424 |
+| bvps | 14099.98 |
+| beta | 1.3 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 32 |
+| pb_pct_rank | 52 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                               | publishtime             | url                                                                                                         |
+|:------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------|
+| Lợi nhuận thấp nhất 5 quý, VIX nói do thị trường chứng khoán giảm                   | 2026-04-17T19:25:50.513 | /2026/04/loi-nhuan-thap-nhat-5-quy-vix-noi-do-thi-truong-chung-khoan-giam-737-1429560.htm                   |
+| VIX: Báo cáo tài chính  riêng lẻ Q1 2026                                            | 2026-04-17T15:32:00     | /2026/04/vix-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429360.htm                                             |
+| VIX: BCTC quý 2 năm 2026                                                            | 2026-04-17T00:00:00     | /2026/04/vix-bctc-quy-2-nam-2026-737-1429368.htm                                                            |
+| VIX: BCTC quý 1 năm 2026                                                            | 2026-04-17T00:00:00     | /2026/04/vix-bctc-quy-1-nam-2026-737-1430212.htm                                                            |
+| VIX: Nghị quyết HĐQT về việc thông qua phương án xử lý cổ phiếu còn dư              | 2026-04-16T17:43:08     | /2026/04/vix-nghi-quyet-hdqt-ve-viec-thong-qua-phuong-an-xu-ly-co-phieu-con-du-737-1428778.htm              |
+| VIX: Nghị quyết của HĐQT thông qua phương án xử lý cổ phiếu còn dư của đợt chào bán | 2026-04-16T00:00:00     | /2026/04/vix-nghi-quyet-cua-hdqt-thong-qua-phuong-an-xu-ly-co-phieu-con-du-cua-dot-chao-ban-739-1428894.htm |
+| VIX: Báo cáo thường niên năm 2025                                                   | 2026-04-09T15:49:08     | /2026/04/vix-bao-cao-thuong-nien-nam-2025-737-1425552.htm                                                   |
+| VIX: Báo cáo thường niên năm 2025                                                   | 2026-04-08T00:00:00     | /2026/04/vix-bao-cao-thuong-nien-nam-2025-737-1425210.htm                                                   |
+| VIX: Báo cáo thường niên năm 2025/The Annual Report for 2025.                       | 2026-04-08T00:00:00     | /2026/04/vix-bao-cao-thuong-nien-nam-2025-the-annual-report-for-2025-737-1425211.htm                        |
+| VIX: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Cao Thị Hồng               | 2026-04-07T11:09:16     | /2026/04/vix-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-cao-thi-hong-739-1423947.htm               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

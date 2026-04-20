@@ -1,13 +1,36 @@
 # GAS — GAS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GAS |
+| exchange | HOSE |
+| market_cap | 191105620675200 |
+| 52w_high | 128700 |
+| 52w_high_date | 2026-03-04 |
+| 52w_low | 54162 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.2162 |
+| dividend | 2100 |
+| beta | 0.79 |
+| eps | 4833 |
+| eps_forward | 21.430004681961073 |
+| bvps | 28038 |
+| pe | 16.57 |
+| pb | 2.86 |
+| price_chg_1m | -3.41 |
+| price_chg_ytd | 43.97 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.026515151515151516 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GAS |
+| pe | 16.57 |
+| pb | 2.86 |
+| roe | 17.91 |
+| roe_pct_rank | 64 |
+| roa | 13.02 |
+| roa_pct_rank | 78 |
+| eps | 4833 |
+| bvps | 28038 |
+| beta | 0.79 |
+| dividend | 2100 |
+| yield | 0.026515151515151516 |
+| pe_pct_rank | 59 |
+| pb_pct_rank | 97 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                               | publish_time            | url                                                                                                        |
-|:------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
-| PV GAS triển khai kho cảng LPG tại Hải Phòng, tổng mức đầu tư trên 7.5 ngàn tỷ đồng | 2026-03-18T18:48:26.147 | /2026/03/pv-gas-trien-khai-kho-cang-lpg-tai-hai-phong-tong-muc-dau-tu-tren-75-ngan-ty-dong-737-1413763.htm |
+| title                                                                                        | publishtime             | url                                                                                                                  |
+|:---------------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| GAS: Nghị quyết HĐQT số 34 ngày 19/04/2026                                                   | 2026-04-20T17:41:35     | /2026/04/gas-nghi-quyet-hdqt-so-34-ngay-19-04-2026-737-1430755.htm                                                   |
+| GAS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trịnh Văn Bộ | 2026-04-13T16:53:11     | /2026/04/gas-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-trinh-van-bo-739-1427125.htm |
+| PV GAS nhập khẩu bổ sung gần 60.000 tấn LNG, chủ động đảm bảo nguồn khí cho mùa khô          | 2026-04-10T21:51:01.323 | /2026/04/pv-gas-nhap-khau-bo-sung-gan-60000-tan-lng-chu-dong-dam-bao-nguon-khi-cho-mua-kho-34-1426486.htm            |
+| PGD: CBTT hợp đồng/giao dịch với người có liên quan của PV GAS D                             | 2026-04-01T18:18:52     | /2026/04/pgd-cbtt-hop-dong-giao-dich-voi-nguoi-co-lien-quan-cua-pv-gas-d-739-1421197.htm                             |
+| GAS: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 2026-03-27T09:12:14     | /2026/03/gas-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1417337.htm                               |
+| GAS: Báo cáo thường niên năm 2025                                                            | 2026-03-24T16:09:16     | /2026/03/gas-bao-cao-thuong-nien-nam-2025-737-1415727.htm                                                            |
+| GAS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                  | 2026-03-23T17:50:45     | /2026/03/gas-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1415315.htm                  |
+| PV GAS nhập gần 38,000 tấn LPG từ Australia                                                  | 2026-03-20T21:15:00     | /2026/03/pv-gas-nhap-gan-38000-tan-lpg-tu-australia-34-1414670.htm                                                   |
+| GAS: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026                          | 2026-03-20T17:26:06     | /2026/03/gas-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1414554.htm                          |
+| PV GAS triển khai kho cảng LPG tại Hải Phòng, tổng mức đầu tư trên 7.5 ngàn tỷ đồng          | 2026-03-18T18:48:26.147 | /2026/03/pv-gas-trien-khai-kho-cang-lpg-tai-hai-phong-tong-muc-dau-tu-tren-75-ngan-ty-dong-737-1413763.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

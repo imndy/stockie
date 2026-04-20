@@ -1,6 +1,6 @@
 # TCB — TCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 23:07  |  🗂 Quarterly: —
 
 ---
 
@@ -338,7 +338,30 @@ _Không có dữ liệu_
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TCB |
+| exchange | HOSE |
+| market_cap | 231011437496400 |
+| 52w_high | 41300 |
+| 52w_high_date | 2025-10-13 |
+| 52w_low | 24501 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 22.5386 |
+| dividend | 1000 |
+| beta | 1.09 |
+| eps | 3576 |
+| eps_forward | 7.254967684461771 |
+| bvps | 25330.98 |
+| pe | 9.02 |
+| pb | 1.27 |
+| price_chg_1m | 9.21 |
+| price_chg_ytd | 28.71 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.03067484662576687 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -359,11 +382,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TCB |
+| pe | 9.02 |
+| pb | 1.27 |
+| roe | 15.85 |
+| roe_pct_rank | 60 |
+| roa | 2.33 |
+| roa_pct_rank | 38 |
+| eps | 3576 |
+| bvps | 25330.98 |
+| beta | 1.09 |
+| dividend | 1000 |
+| yield | 0.03067484662576687 |
+| pe_pct_rank | 42 |
+| pb_pct_rank | 53 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                          | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                         |
+| TCB: Nghị quyết HĐQT về việc phê duyệt giao dịch cấp thẻ tín dụng cho NLQ của NNB              | 2026-04-14T18:00:06     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-cap-the-tin-dung-cho-nlq-cua-nnb-737-1427684.htm              |
+| TCB: Nghị quyết HĐQT về việc phê duyệt cấp tín dụng cho CTCP Phúc Long Heritage                | 2026-04-13T14:13:35     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-cap-tin-dung-cho-ctcp-phuc-long-heritage-737-1426771.htm                |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                           | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                           |
+| TCB: Nghị quyết HĐQT về phê duyệt hạn mức tín dụng cho Công ty TNHH Phân phối Masterise Retail | 2026-04-09T17:47:29     | /2026/04/tcb-nghi-quyet-hdqt-ve-phe-duyet-han-muc-tin-dung-cho-cong-ty-tnhh-phan-phoi-masterise-retail-737-1425702.htm |
+| TCB: Báo cáo thường niên năm 2025                                                              | 2026-04-07T14:02:03     | /2026/04/tcb-bao-cao-thuong-nien-nam-2025-737-1424023.htm                                                              |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                    | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                      |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                 | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                   |
+| TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-04-06T15:16:29     | /2026/04/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423464.htm                                                   |
+| TCB: Quyết định của HĐQT về việc phê duyệt thay đổi địa điểm chi nhánh Hà Nội                  | 2026-04-06T15:15:46     | /2026/04/tcb-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-thay-doi-dia-diem-chi-nhanh-ha-noi-737-1423461.htm                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

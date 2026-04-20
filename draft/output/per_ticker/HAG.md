@@ -1,13 +1,36 @@
 # HAG — HAG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HAG |
+| exchange | HOSE |
+| market_cap | 20785348241200 |
+| 52w_high | 18850 |
+| 52w_high_date | 2025-11-17 |
+| 52w_low | 11850 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.0915 |
+| dividend | 0 |
+| beta | 0.73 |
+| eps | 1908 |
+| eps_forward | 18.94370363628089 |
+| bvps | 11192 |
+| pe | 8.73 |
+| pb | 1.49 |
+| price_chg_1m | 6.49 |
+| price_chg_ytd | 32.26 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | HAG |
+| pe | 8.73 |
+| pb | 1.49 |
+| roe | 19.08 |
+| roe_pct_rank | 66 |
+| roa | 8.65 |
+| roa_pct_rank | 63 |
+| eps | 1908 |
+| bvps | 11192 |
+| beta | 0.73 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 41 |
+| pb_pct_rank | 59 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                      | publish_time        | url                                                                                |
-|:-----------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------|
-| HAG: Link công bố cập nhật tài liệu ĐHĐCĐ thường niên 2026 | 2026-04-01T18:26:44 | /2026/04/hag-link-cong-bo-cap-nhat-tai-lieu-dhdcd-thuong-nien-2026-737-1421214.htm |
+| title                                                                        | publishtime             | url                                                                                                 |
+|:-----------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------|
+| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG          | 2026-04-20T15:02:00     | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm          |
+| HAG: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và link điều lệ sửa đổi | 2026-04-20T10:01:26     | /2026/04/hag-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-link-dieu-le-sua-doi-737-1429964.htm |
+| HAG: Thông báo giao dịch cổ phiếu của người nội bộ Đoàn Nguyên Đức           | 2026-04-17T14:48:23     | /2026/04/hag-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-nguyen-duc-830-1429235.htm          |
+| Bầu Đức: Trả nợ xong, sau này cổ tức luôn trả bằng tiền mặt                  | 2026-04-17T11:42:00     | /2026/04/bau-duc-tra-no-xong-sau-nay-co-tuc-luon-tra-bang-tien-mat-737-1428975.htm                  |
+| Chủ tịch HAGL mua xong 4 triệu cp HAG trước thềm đại hội thường niên         | 2026-04-16T19:38:05.893 | /2026/04/chu-tich-hagl-mua-xong-4-trieu-cp-hag-truoc-them-dai-hoi-thuong-nien-739-1428863.htm       |
+| HAG: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Đoàn Nguyên Đức     | 2026-04-16T17:43:07     | /2026/04/hag-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-nguyen-duc-739-1428782.htm    |
+| HAG: Thông báo đường dẫn báo cáo thường niên năm 2025                        | 2026-04-16T16:37:27     | /2026/04/hag-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1428699.htm                       |
+| Loạt nhân sự Thaco vào HĐQT HAGL Agrico sau khi HAG thoái vốn                | 2026-04-15T18:44:44.97  | /2026/04/loat-nhan-su-thaco-vao-hdqt-hagl-agrico-sau-khi-hag-thoai-von-737-1428182.htm              |
+| Công ty bầu Đức được Bộ Tài chính xóa nợ lãi trái phiếu 1.5 ngàn tỷ          | 2026-04-01T19:11:45.24  | /2026/04/cong-ty-bau-duc-duoc-bo-tai-chinh-xoa-no-lai-trai-phieu-15-ngan-ty-3118-1421170.htm        |
+| HAG: Link công bố cập nhật tài liệu ĐHĐCĐ thường niên 2026                   | 2026-04-01T18:26:44     | /2026/04/hag-link-cong-bo-cap-nhat-tai-lieu-dhdcd-thuong-nien-2026-737-1421214.htm                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

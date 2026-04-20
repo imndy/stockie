@@ -1,13 +1,36 @@
 # NLG — NLG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NLG |
+| exchange | HOSE |
+| market_cap | 13849530284650 |
+| 52w_high | 43088 |
+| 52w_high_date | 2025-08-14 |
+| 52w_low | 24156 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 41.3219 |
+| dividend | 499 |
+| beta | 1.06 |
+| eps | 1821 |
+| eps_forward | 16.869135685755477 |
+| bvps | 38497 |
+| pe | 15.67 |
+| pb | 0.74 |
+| price_chg_1m | 3.07 |
+| price_chg_ytd | 12.70 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.017478108581436076 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | NLG |
+| pe | 15.67 |
+| pb | 0.74 |
+| roe | 6.44 |
+| roe_pct_rank | 39 |
+| roa | 2.47 |
+| roa_pct_rank | 38 |
+| eps | 1821 |
+| bvps | 38497 |
+| beta | 1.06 |
+| dividend | 499 |
+| yield | 0.017478108581436076 |
+| pe_pct_rank | 56 |
+| pb_pct_rank | 30 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                         | publishtime         | url                                                                                                                   |
+|:----------------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------------|
+| Lộ diện danh sách ứng viên HĐQT Nam Long nhiệm kỳ 2026-2031                                   | 2026-04-16T14:02:00 | /2026/04/lo-dien-danh-sach-ung-vien-hdqt-nam-long-nhiem-ky-2026-2031-737-1430119.htm                                  |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                   | 2026-04-16T09:02:00 | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                      |
+| NLG: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Cao Tấn Thạch                        | 2026-04-15T17:35:22 | /2026/04/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-cao-tan-thach-739-1428215.htm                        |
+| NLG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Cao Duy Thông | 2026-04-14T18:00:42 | /2026/04/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-cao-duy-thong-739-1427685.htm |
+| NLG: Quyết định về việc thực hiện giao dịch với bên liên quan                                 | 2026-04-10T16:56:51 | /2026/04/nlg-quyet-dinh-ve-viec-thuc-hien-giao-dich-voi-ben-lien-quan-830-1426261.htm                                 |
+| NLG: Báo cáo thường niên năm 2025                                                             | 2026-04-03T17:47:55 | /2026/04/nlg-bao-cao-thuong-nien-nam-2025-737-1422826.htm                                                             |
+| NLG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-03T17:44:17 | /2026/04/nlg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422825.htm                                                      |
+| NLG: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Giám đốc Nhân sự Tập đoàn            | 2026-03-30T18:12:50 | /2026/03/nlg-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-giam-doc-nhan-su-tap-doan-214-1419000.htm              |
+| NLG: BCTC Tóm tắt năm 2025                                                                    | 2026-03-18T00:00:00 | /2026/03/nlg-bctc-tom-tat-nam-2025-737-1413758.htm                                                                    |
+| NLG: BCTC Tóm tắt Hợp nhất năm 2025                                                           | 2026-03-18T00:00:00 | /2026/03/nlg-bctc-tom-tat-hop-nhat-nam-2025-737-1413759.htm                                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

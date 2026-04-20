@@ -1,13 +1,36 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BCG |
+| exchange | HOSE |
+| market_cap | 2226932929320 |
+| 52w_high | 4090 |
+| 52w_high_date | 2025-07-16 |
+| 52w_low | 2530 |
+| 52w_low_date | 2025-10-08 |
+| foreign_ownership | 1.136 |
+| dividend | 0 |
+| beta | 0 |
+| eps | 565 |
+| eps_forward | 6.357263110284695 |
+| bvps | 24305 |
+| pe | 4.48 |
+| pb | 0.10 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | -13.65 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2024 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BCG |
+| pe | 4.48 |
+| pb | 0.10 |
+| roe | 14.53 |
+| roe_pct_rank | 57 |
+| roa | 13.11 |
+| roa_pct_rank | 79 |
+| eps | 565 |
+| bvps | 24305 |
+| beta | 0 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 31 |
+| pb_pct_rank | 1 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                 | publish_time        | url                                                                                           |
-|:----------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------|
-| BCG: Ông Phạm Minh Tuấn là người ủy quyền thực hiện công bố thông tin | 2026-01-27T14:13:00 | /2026/01/bcg-ong-pham-minh-tuan-la-nguoi-uy-quyen-thuc-hien-cong-bo-thong-tin-214-1395569.htm |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BCG: Nghị quyết HĐQT về việc ký kết hợp thỏa thuận bảo mật thông tin với BCG Energy và thông qua giao dịch với các bên l… | 2026-04-20T09:59:28 | /2026/04/bcg-nghi-quyet-hdqt-ve-viec-ky-ket-hop-thoa-thuan-bao-mat-thong-tin-voi-bcg-energy-va-thong-qua-giao-dich-voi-c… |
+| BCG: Nghị quyết HĐQT số 07/2026 ngày 14/04/2026                                                                           | 2026-04-14T17:27:30 | /2026/04/bcg-nghi-quyet-hdqt-so-07-2026-ngay-14-04-2026-737-1427612.htm                                                   |
+| BCG: Nghị quyết HĐQT số 04 ngày 19/03/2026                                                                                | 2026-03-19T17:39:33 | /2026/03/bcg-nghi-quyet-hdqt-so-04-ngay-19-03-2026-737-1414230.htm                                                        |
+| BCG: Nhắc nhở chậm công bố thông tin báo cáo tài chính quý 4 năm 2025 lần 2                                               | 2026-02-11T09:04:54 | /2026/02/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-tai-chinh-quy-4-nam-2025-lan-2-737-1402689.htm                       |
+| Cùng lý do "bất khả kháng", BCG và TCD lại xin hoãn loạt BCTC kiểm toán                                                   | 2026-02-09T14:15:00 | /2026/02/cung-ly-do-bat-kha-khang-bcg-va-tcd-lai-xin-hoan-loat-bctc-kiem-toan-737-1401816.htm                             |
+| BCG: Xin tạm hoãn nộp BCTC kiểm toán năm 2024. 2025 và soát xét bán niên 2025                                             | 2026-02-09T10:33:18 | /2026/02/bcg-xin-tam-hoan-nop-bctc-kiem-toan-nam-2024-2025-va-soat-xet-ban-nien-2025-737-1401793.htm                      |
+| BCG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-02-05T13:59:22 | /2026/02/bcg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1400881.htm                                     |
+| BCG: Nhắc nhở chậm CBTT BCTC quý 4/2025                                                                                   | 2026-02-04T10:36:27 | /2026/02/bcg-nhac-nho-cham-cbtt-bctc-quy-4-2025-737-1400279.htm                                                           |
+| BCG: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-27T16:21:03 | /2026/01/bcg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1395701.htm                                                  |
+| BCG: Ông Phạm Minh Tuấn là người ủy quyền thực hiện công bố thông tin                                                     | 2026-01-27T14:13:00 | /2026/01/bcg-ong-pham-minh-tuan-la-nguoi-uy-quyen-thuc-hien-cong-bo-thong-tin-214-1395569.htm                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

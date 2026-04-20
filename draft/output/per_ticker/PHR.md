@@ -1,13 +1,36 @@
 # PHR — PHR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 20/04/2026 23:04  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PHR |
+| exchange | HOSE |
+| market_cap | 8400950276000 |
+| 52w_high | 69000 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 39913 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 13.8 |
+| dividend | 1350 |
+| beta | 0.72 |
+| eps | 3784 |
+| eps_forward | 34.203619284431554 |
+| bvps | 31417 |
+| pe | 16.36 |
+| pb | 1.97 |
+| price_chg_1m | 5.98 |
+| price_chg_ytd | 42.28 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.021774193548387097 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PHR |
+| pe | 16.36 |
+| pb | 1.97 |
+| roe | 13.02 |
+| roe_pct_rank | 54 |
+| roa | 8.49 |
+| roa_pct_rank | 62 |
+| eps | 3784 |
+| bvps | 31417 |
+| beta | 0.72 |
+| dividend | 1350 |
+| yield | 0.021774193548387097 |
+| pe_pct_rank | 58 |
+| pb_pct_rank | 72 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PHR: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 đã kiểm toán                                                    | 2026-04-17T18:04:51     | /2026/04/phr-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-737-1429561.htm                            |
+| PHR: Ứng cử, đề cử nhân sự bầu bổ sung thành viên HĐQT nhiệm kỳ 2023-2028                                                 | 2026-04-07T17:41:22     | /2026/04/phr-ung-cu-de-cu-nhan-su-bau-bo-sung-thanh-vien-hdqt-nhiem-ky-20232028-214-1424356.htm                           |
+| PHR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-02T17:37:25     | /2026/04/phr-bao-cao-thuong-nien-nam-2025-737-1421797.htm                                                                 |
+| PHR: Thông báo thay đổi nhân sự                                                                                           | 2026-03-31T17:55:00     | /2026/03/phr-thong-bao-thay-doi-nhan-su-214-1419963.htm                                                                   |
+| PHR: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                               | 2026-03-31T13:40:19     | /2026/03/phr-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026-737-1419491.htm                                       |
+| PHR: Nghị quyết HĐQT về việc phê duyệt mua mủ cao su thành phẩm của Công ty TNHH Phát triển Cao su Phước Hòa - Kampong T… | 2026-03-30T14:06:11     | /2026/03/phr-nghi-quyet-hdqt-ve-viec-phe-duyet-mua-mu-cao-su-thanh-pham-cua-cong-ty-tnhh-phat-trien-cao-su-phuoc-hoa-kam… |
+| PHR: BCTC Hợp nhất năm 2025                                                                                               | 2026-03-30T00:00:00     | /2026/03/phr-bctc-hop-nhat-nam-2025-737-1418752.htm                                                                       |
+| PHR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-26T00:00:00     | /2026/03/phr-bctc-tom-tat-nam-2025-737-1417071.htm                                                                        |
+| PHR: Thông báo và Nghị quyết HĐQT về chốt danh sách cổ đông, thời gian tổ chức ĐHĐCĐ thường niên năm 2026                 | 2026-03-25T10:08:38     | /2026/03/phr-thong-bao-va-nghi-quyet-hdqt-ve-chot-danh-sach-co-dong-thoi-gian-to-chuc-dhdcd-thuong-nien-nam-2026-737-141… |
+| KBC, VPB, PHR có gì hấp dẫn?                                                                                              | 2026-03-16T12:16:44.187 | /2026/03/kbc-vpb-phr-co-gi-hap-dan-145-1412552.htm                                                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # FTS — FTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FTS |
+| exchange | HOSE |
+| market_cap | 9528695247500 |
+| 52w_high | 44100 |
+| 52w_high_date | 2025-07-28 |
+| 52w_low | 23950 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 24.8616 |
+| dividend | 500 |
+| beta | 0.9 |
+| eps | 1202 |
+| eps_forward | 17.35640801103754 |
+| bvps | 13072.36 |
+| pe | 22.92 |
+| pb | 2.11 |
+| price_chg_1m | 11.11 |
+| price_chg_ytd | -22.18 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.01818181818181818 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FTS |
+| pe | 22.92 |
+| pb | 2.11 |
+| roe | 9.29 |
+| roe_pct_rank | 46 |
+| roa | 3.35 |
+| roa_pct_rank | 42 |
+| eps | 1202 |
+| bvps | 13072.36 |
+| beta | 0.9 |
+| dividend | 500 |
+| yield | 0.01818181818181818 |
+| pe_pct_rank | 71 |
+| pb_pct_rank | 76 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                  | publish_time        | url                                                                            |
-|:-------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------|
-| ĐHĐCĐ FPTS: Cổ đông hiến kế 3 sáng kiến để chuyển mình | 2026-03-31T15:42:28 | /2026/03/dhdcd-fpts-co-dong-hien-ke-3-sang-kien-de-chuyen-minh-737-1419582.htm |
+| title                                                                                | publishtime         | url                                                                                                          |
+|:-------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------|
+| FPTS lãi ròng gần 160 tỷ quý đầu năm, quy mô tự doanh và margin biến động trái ngược | 2026-04-20T16:00:00 | /2026/04/fpts-lai-rong-gan-160-ty-quy-dau-nam-quy-mo-tu-doanh-va-margin-bien-dong-trai-nguoc-737-1430229.htm |
+| FTS: Báo cáo tài chính riêng lẻ Quý I / 2026                                         | 2026-04-17T00:00:00 | /2026/04/fts-bao-cao-tai-chinh-rieng-le-quy-i-2026-737-1429634.htm                                           |
+| FTS: BCTC quý 1 năm 2026                                                             | 2026-04-17T00:00:00 | /2026/04/fts-bctc-quy-1-nam-2026-737-1430205.htm                                                             |
+| FTS: Nghị quyết HĐQT số 02. 03. 04 ngày 31/03/2026                                   | 2026-04-02T14:34:43 | /2026/04/fts-nghi-quyet-hdqt-so-02-03-04-ngay-31-03-2026-737-1421549.htm                                     |
+| FTS: Quyết định của HĐQT về việc miễn nhiệm Phó TGĐ và bổ nhiệm TGĐ                  | 2026-04-02T14:33:07 | /2026/04/fts-quyet-dinh-cua-hdqt-ve-viec-mien-nhiem-pho-tgd-va-bo-nhiem-tgd-214-1421547.htm                  |
+| FTS: Thông báo thay đổi nhân sự                                                      | 2026-04-02T14:32:00 | /2026/04/fts-thong-bao-thay-doi-nhan-su-214-1421545.htm                                                      |
+| FTS: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                           | 2026-04-01T17:48:02 | /2026/04/fts-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1421142.htm                           |
+| FTS: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên năm 2026                           | 2026-04-01T00:00:00 | /2026/04/fts-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-nam-2026-737-1421006.htm                           |
+| FTS: Nghị quyết Hội đồng quản trị ngày 31/3/2026.                                    | 2026-04-01T00:00:00 | /2026/04/fts-nghi-quyet-hoi-dong-quan-tri-ngay-31-3-2026-737-1421112.htm                                     |
+| ĐHĐCĐ FPTS: Cổ đông hiến kế 3 sáng kiến để chuyển mình                               | 2026-03-31T15:42:28 | /2026/03/dhdcd-fpts-co-dong-hien-ke-3-sang-kien-de-chuyen-minh-737-1419582.htm                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

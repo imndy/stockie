@@ -1,13 +1,36 @@
 # STB — STB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 12:22
+> 📅 Daily: 20/04/2026 23:07  |  🗂 Quarterly: 05/04/2026 12:22
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | STB |
+| exchange | HOSE |
+| market_cap | 121030848967200 |
+| 52w_high | 67800 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 38850 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 12.4493 |
+| dividend | 0 |
+| beta | 0.6 |
+| eps | 3150 |
+| eps_forward | 8.235758893011058 |
+| bvps | 31755.91 |
+| pe | 20.32 |
+| pb | 2.02 |
+| price_chg_1m | 1.26 |
+| price_chg_ytd | 66.54 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | STB |
+| pe | 20.32 |
+| pb | 2.02 |
+| roe | 10.34 |
+| roe_pct_rank | 48 |
+| roa | 0.71 |
+| roa_pct_rank | 30 |
+| eps | 3150 |
+| bvps | 31755.91 |
+| beta | 0.6 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 66 |
+| pb_pct_rank | 74 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                              | publishtime             | url                                                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| STB: Báo cáo thường niên năm 2025                                                                                  | 2026-04-17T16:56:06     | /2026/04/stb-bao-cao-thuong-nien-nam-2025-737-1429423.htm                                                                 |
+| SACOMBANK hợp tác với Cục Thuế triển khai giải pháp hỗ trợ hàng triệu hộ kinh doanh trên toàn quốc                 | 2026-04-15T21:18:19.05  | /2026/04/sacombank-hop-tac-voi-cuc-thue-trien-khai-giai-phap-ho-tro-hang-trieu-ho-kinh-doanh-tren-toan-quoc-757-1428320.… |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Đông Đô                         | 2026-04-13T17:28:58     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-dong-do-737-1427067.htm         |
+| SACOMBANK hưởng ứng chủ trương giảm lãi suất của Ngân hàng Nhà nước                                                | 2026-04-10T18:02:49.44  | /2026/04/sacombank-huong-ung-chu-truong-giam-lai-suat-cua-ngan-hang-nha-nuoc-757-1426257.htm                              |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                               | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý các phòng GD trực thuộc Chi nhánh Đông Đô | 2026-04-07T17:44:52     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-cac-phong-gd-truc-thuoc-chi-nhanh-dong-… |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                        | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                                     | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+| Theo dấu dòng tiền cá mập 06/04: Tự doanh bán ròng 543 tỷ đồng cổ phiếu STB                                        | 2026-04-06T19:07:10.15  | /2026/04/theo-dau-dong-tien-ca-map-0604-tu-doanh-ban-rong-543-ty-dong-co-phieu-stb-830-1423683.htm                        |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC                           | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

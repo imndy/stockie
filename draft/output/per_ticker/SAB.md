@@ -1,13 +1,36 @@
 # SAB — SAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 20/04/2026 23:05  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SAB |
+| exchange | HOSE |
+| market_cap | 58356587926000 |
+| 52w_high | 53700 |
+| 52w_high_date | 2026-01-14 |
+| 52w_low | 42046 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 58.4808 |
+| dividend | 5000 |
+| beta | 0.74 |
+| eps | 3449 |
+| eps_forward | 12.069605814632077 |
+| bvps | 17933 |
+| pe | 13.19 |
+| pb | 2.54 |
+| price_chg_1m | 6.81 |
+| price_chg_ytd | 6.50 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.10989010989010989 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SAB |
+| pe | 13.19 |
+| pb | 2.54 |
+| roe | 19.28 |
+| roe_pct_rank | 67 |
+| roa | 13.4 |
+| roa_pct_rank | 80 |
+| eps | 3449 |
+| bvps | 17933 |
+| beta | 0.74 |
+| dividend | 5000 |
+| yield | 0.10989010989010989 |
+| pe_pct_rank | 51 |
+| pb_pct_rank | 88 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                 | publishtime            | url                                                                                            |
+|:----------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------|
+| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (cập nhật lần 2)         | 2026-04-20T17:41:39    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-lan-2-737-1430750.htm            |
+| DCM, HDB và SAB có triển vọng gì?                                     | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                       |
+| SAB: Tài liệu họp ĐHĐCĐ thường niên 2026 (cập nhật)                   | 2026-04-16T18:01:40    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-2026-cap-nhat-737-1428818.htm                      |
+| SAB: Link công bố Báo cáo phát triển bền vững 2025                    | 2026-04-16T15:08:02    | /2026/04/sab-link-cong-bo-bao-cao-phat-trien-ben-vung-2025-830-1428614.htm                     |
+| SAB: Link công bố Báo cáo thường niên năm 2025                        | 2026-04-16T15:06:52    | /2026/04/sab-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1428613.htm                         |
+| Ông chủ Bia Sài Gòn đặt mục tiêu tăng trưởng doanh thu sau năm đi lùi | 2026-04-02T10:30:00.91 | /2026/04/ong-chu-bia-sai-gon-dat-muc-tieu-tang-truong-doanh-thu-sau-nam-di-lui-737-1421312.htm |
+| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                          | 2026-04-01T18:15:15    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1421190.htm                           |
+| SAB: Thông báo đơn xin từ nhiệm của Thành viên HĐQT                   | 2026-03-31T17:57:11    | /2026/03/sab-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-hdqt-214-1419981.htm                    |
+| SAB: BCTC năm 2025                                                    | 2026-03-26T00:00:00    | /2026/03/sab-bctc-nam-2025-737-1417105.htm                                                     |
+| SAB: BCTC Hợp nhất năm 2025                                           | 2026-03-26T00:00:00    | /2026/03/sab-bctc-hop-nhat-nam-2025-737-1417106.htm                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

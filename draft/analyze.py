@@ -32,6 +32,7 @@ from datetime import datetime, date, timedelta
 from pathlib import Path
 
 import pandas as pd
+import requests
 
 # ── Rate limiting ──────────────────────────────────────────────────────────────────────────────
 # Thấp hơn giới hạn thực tế 3 req — tăng lên nếu có API key cao hơn:
@@ -78,9 +79,9 @@ try:
     def _patched_fetch(self):
         try:
             return _orig_fetch(self)
-        except (KeyError, TypeError) as _e:
+        except Exception as _e:
             import warnings as _w
-            _w.warn(f"[VCI] Company._fetch_data response không hợp lệ ({_e}); dùng dict rỗng")
+            _w.warn(f"[VCI] Company._fetch_data thất bại ({type(_e).__name__}: {_e}); dùng dict rỗng")
             return {}
 
     _vci_co.Company._fetch_data = _patched_fetch
@@ -171,20 +172,108 @@ def safe_call(func, *args, max_retries: int = 2, **kwargs) -> pd.DataFrame:
     return pd.DataFrame()
 
 
+# ── KBS stockinfo/info fallback ────────────────────────────────────────────
+_KBS_INFO_URL = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/info/{symbol}?l=1"
+_KBS_NEWS_URL = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/news/{symbol}?l=1"
+_KBS_HEADERS  = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+
+def _fetch_kbs_info(ticker: str) -> dict:
+    """Gọi KBS stockinfo/info/{ticker} — trả dict thô hoặc {} nếu lỗi."""
+    try:
+        url = _KBS_INFO_URL.format(symbol=ticker)
+        r = requests.get(url, headers=_KBS_HEADERS, timeout=10)
+        if r.status_code == 200:
+            return r.json()
+    except Exception:
+        pass
+    return {}
+
+
 # ── Fetch — Daily ────────────────────────────────────────────────────────────
-def fetch_trading_stats(stock_vci) -> pd.DataFrame:
-    """24-column trading statistics — VCI source only."""
-    return safe_call(stock_vci.company.trading_stats)
+def fetch_trading_stats(stock_vci, ticker: str = "") -> pd.DataFrame:
+    """Trading statistics — VCI trước, fallback KBS stockinfo/info."""
+    df = safe_call(stock_vci.company.trading_stats)
+    if not df.empty:
+        return df
+    if not ticker:
+        return df
+    info = _fetch_kbs_info(ticker)
+    if not info:
+        return pd.DataFrame()
+    # Map KBS fields → readable names
+    row = {
+        "symbol":            info.get("SB"),
+        "exchange":          info.get("Exchange"),
+        "market_cap":        info.get("MC"),
+        "52w_high":          info.get("MAP52"),
+        "52w_high_date":     info.get("MAD52"),
+        "52w_low":           info.get("MIP52"),
+        "52w_low_date":      info.get("MID52"),
+        "foreign_ownership": info.get("FTO"),
+        "dividend":          info.get("DIV"),
+        "beta":              info.get("BT"),
+        "eps":               info.get("EPS"),
+        "eps_forward":       info.get("FEPS"),
+        "bvps":              info.get("BVPS"),
+        "pe":                info.get("PER"),
+        "pb":                info.get("PBR"),
+        "price_chg_1m":      info.get("CMCM"),
+        "price_chg_ytd":     info.get("CMCY"),
+        "price_chg_1m_rank": info.get("CMCME"),
+        "price_chg_ytd_rank":info.get("CMCYE"),
+        "yield":             info.get("YD"),
+        "financial_date":    info.get("FID"),
+        "source":            "KBS",
+    }
+    return pd.DataFrame([{k: v for k, v in row.items() if v is not None}])
 
 
-def fetch_ratio_summary(stock_vci) -> pd.DataFrame:
-    """46-column ratio summary — VCI source only."""
-    return safe_call(stock_vci.company.ratio_summary)
+def fetch_ratio_summary(stock_vci, ticker: str = "") -> pd.DataFrame:
+    """Ratio summary — VCI trước, fallback KBS stockinfo/info."""
+    df = safe_call(stock_vci.company.ratio_summary)
+    if not df.empty:
+        return df
+    if not ticker:
+        return pd.DataFrame()
+    info = _fetch_kbs_info(ticker)
+    if not info:
+        return pd.DataFrame()
+    row = {
+        "symbol":   info.get("SB"),
+        "pe":       info.get("PER"),
+        "pb":       info.get("PBR"),
+        "roe":      info.get("ROE"),
+        "roe_pct_rank": info.get("ROEP"),
+        "roa":      info.get("ROA"),
+        "roa_pct_rank": info.get("ROAP"),
+        "eps":      info.get("EPS"),
+        "bvps":     info.get("BVPS"),
+        "beta":     info.get("BT"),
+        "dividend": info.get("DIV"),
+        "yield":    info.get("YD"),
+        "pe_pct_rank": info.get("PERP"),
+        "pb_pct_rank": info.get("PBRP"),
+        "financial_date": info.get("FID"),
+        "source":   "KBS",
+    }
+    return pd.DataFrame([{k: v for k, v in row.items() if v is not None}])
 
 
-def fetch_news(stock_vci, stock_kbs=None) -> pd.DataFrame:
-    """Top 10 tin tức gần nhất — thử VCI trước, fallback KBS."""
+def fetch_news(stock_vci, stock_kbs=None, ticker: str = "") -> pd.DataFrame:
+    """Top 10 tin tức gần nhất — VCI → KBS direct API (20 items) → KBS vnstock."""
     df = safe_call(stock_vci.company.news)
+    if df.empty and ticker:
+        # KBS direct endpoint trả 20 bài, ưu tiên hơn company.news() (chỉ 1 bài)
+        try:
+            url = _KBS_NEWS_URL.format(symbol=ticker)
+            r = requests.get(url, headers=_KBS_HEADERS, timeout=10)
+            if r.status_code == 200:
+                data = r.json()
+                if isinstance(data, list) and data:
+                    df = pd.DataFrame(data)
+                    df.columns = [c.lower() for c in df.columns]
+        except Exception:
+            pass
     if df.empty and stock_kbs is not None:
         df = safe_call(stock_kbs.company.news)
     return df.head(10) if not df.empty else df
@@ -1130,9 +1219,9 @@ def run_pipeline(mode: str) -> None:
 
         # ── Daily data ──
         if effective_mode in ("daily", "full"):
-            frames["Thống kê giao dịch"]   = fetch_trading_stats(vci)
-            frames["Tóm tắt chỉ số"]       = fetch_ratio_summary(vci)
-            frames["Tin tức"]              = fetch_news(vci, kbs)
+            frames["Thống kê giao dịch"]   = fetch_trading_stats(vci, ticker)
+            frames["Tóm tắt chỉ số"]       = fetch_ratio_summary(vci, ticker)
+            frames["Tin tức"]              = fetch_news(vci, kbs, ticker)
             frames["Lịch sử giá"]          = fetch_price_history(vci, ticker)
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
             frames["Sự kiện"]              = fetch_events(vci, kbs)

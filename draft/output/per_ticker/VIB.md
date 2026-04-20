@@ -1,13 +1,36 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 20/04/2026 23:09  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIB |
+| exchange | HOSE |
+| market_cap | 59570099925000 |
+| 52w_high | 23600 |
+| 52w_high_date | 2025-08-22 |
+| 52w_low | 15237 |
+| 52w_low_date | 2025-04-25 |
+| foreign_ownership | 4.951 |
+| dividend | 700 |
+| beta | 0.8 |
+| eps | 2319 |
+| eps_forward | 5.11337848431799 |
+| bvps | 13779.28 |
+| pe | 7.48 |
+| pb | 1.26 |
+| price_chg_1m | 4.17 |
+| price_chg_ytd | 13.20 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.04 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VIB |
+| pe | 7.48 |
+| pb | 1.26 |
+| roe | 16.41 |
+| roe_pct_rank | 61 |
+| roa | 1.39 |
+| roa_pct_rank | 33 |
+| eps | 2319 |
+| bvps | 13779.28 |
+| beta | 0.8 |
+| dividend | 700 |
+| yield | 0.04 |
+| pe_pct_rank | 38 |
+| pb_pct_rank | 53 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                      | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VIB: Trích lục Nghị quyết HĐQT số 020.26.BOD.1 ngày 17/04/2026                                             | 2026-04-17T17:13:33     | /2026/04/vib-trich-luc-nghi-quyet-hdqt-so-020-26-bod-1-ngay-17-04-2026-737-1429460.htm                                    |
+| VIB: Nghị quyết HĐQT số 020.26.BOD ngày 17/04/2026                                                         | 2026-04-17T17:13:32     | /2026/04/vib-nghi-quyet-hdqt-so-020-26-bod-ngay-17-04-2026-737-1429461.htm                                                |
+| VIB: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                        | 2026-04-15T17:06:40     | /2026/04/vib-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1428172.htm                                               |
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                                      | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                            |
+| Phân tích kỹ thuật phiên chiều 13/04: Giằng co                                                             | 2026-04-13T12:54:04.247 | /2026/04/phan-tich-ky-thuat-phien-chieu-1304-giang-co-585-1426693.htm                                                     |
+| Làn sóng "Wealth Management" tại Việt Nam: Khi giới thượng lưu thay đổi cách quản trị dòng tiền            | 2026-04-13T11:06:31.197 | /2026/04/lan-song-wealth-management-tai-viet-nam-khi-gioi-thuong-luu-thay-doi-cach-quan-tri-dong-tien-757-1426649.htm     |
+| VIB: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đặng Minh Trang, Đặng Thị Thu Hà | 2026-04-10T15:15:42     | /2026/04/vib-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-minh-trang-dang-thi-thu-ha-739-14… |
+| VIB: Biên bản và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                     | 2026-04-09T15:51:37     | /2026/04/vib-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1425550.htm                                            |
+| ĐHĐCĐ VIB: Chia cổ tức gần 19%, tăng trưởng 20-30%/năm giai đoạn 2027-2036                                 | 2026-04-08T12:27:00     | /2026/04/dhdcd-vib-chia-co-tuc-gan-19-tang-truong-20-30nam-giai-doan-2027-2036-737-1424021.htm                            |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

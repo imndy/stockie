@@ -1,13 +1,36 @@
 # BMP — BMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BMP |
+| exchange | HOSE |
+| market_cap | 12590212264400 |
+| 52w_high | 188800 |
+| 52w_high_date | 2025-12-17 |
+| 52w_low | 121200 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 80.5813 |
+| dividend | 12750 |
+| beta | 0.69 |
+| eps | 15218 |
+| eps_forward | 11.491568323619944 |
+| bvps | 38864 |
+| pe | 9.73 |
+| pb | 3.81 |
+| price_chg_1m | 18.76 |
+| price_chg_ytd | 28.61 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.08289986996098829 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BMP |
+| pe | 9.73 |
+| pb | 3.81 |
+| roe | 44.05 |
+| roe_pct_rank | 100 |
+| roa | 37.35 |
+| roa_pct_rank | 100 |
+| eps | 15218 |
+| bvps | 38864 |
+| beta | 0.69 |
+| dividend | 12750 |
+| yield | 0.08289986996098829 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title              | publish_time        | url                                        |
-|:-------------------|:--------------------|:-------------------------------------------|
-| BMP: BCTC năm 2025 | 2026-03-27T00:00:00 | /2026/03/bmp-bctc-nam-2025-737-1417849.htm |
+| title                                                             | publishtime             | url                                                                                       |
+|:------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------|
+| Nhựa Bình Minh chia cổ tức tiền mặt kỷ lục 148.6% cho năm 2025    | 2026-04-17T14:36:29.44  | /2026/04/nhua-binh-minh-chia-co-tuc-tien-mat-ky-luc-1486-cho-nam-2025-738-1429129.htm     |
+| BMP: BCTC quý 1 năm 2026                                          | 2026-04-17T00:00:00     | /2026/04/bmp-bctc-quy-1-nam-2026-737-1429494.htm                                          |
+| BMP: BCTC Hợp nhất quý 1 năm 2026                                 | 2026-04-17T00:00:00     | /2026/04/bmp-bctc-hop-nhat-quy-1-nam-2026-737-1429495.htm                                 |
+| BMP: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                     | 2026-04-16T18:01:47     | /2026/04/bmp-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1428808.htm                       |
+| BMP: Báo cáo thường niên năm 2025                                 | 2026-04-14T17:20:25     | /2026/04/bmp-bao-cao-thuong-nien-nam-2025-737-1427578.htm                                 |
+| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band          | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm           |
+| BMP: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                 | 2026-04-08T18:06:22     | /2026/04/bmp-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026-737-1425217.htm                 |
+| BMP công bố tài liệu đại hội, cổ phiếu bật tăng trần              | 2026-04-08T17:55:21.153 | /2026/04/bmp-cong-bo-tai-lieu-dai-hoi-co-phieu-bat-tang-tran-830-1425071.htm              |
+| BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước | 2026-03-30T17:59:36     | /2026/03/bmp-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418946.htm |
+| BMP: BCTC năm 2025                                                | 2026-03-27T00:00:00     | /2026/03/bmp-bctc-nam-2025-737-1417849.htm                                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

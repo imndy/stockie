@@ -1,6 +1,6 @@
 # SSI — SSI
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 23:07  |  🗂 Quarterly: —
 
 ---
 
@@ -333,7 +333,30 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| exchange | HOSE |
+| market_cap | 72117279920400 |
+| 52w_high | 37787 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 19780 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 32.2894 |
+| dividend | 1000 |
+| beta | 1.09 |
+| eps | 2120 |
+| eps_forward | 16.739860804099653 |
+| bvps | 15467.38 |
+| pe | 13.47 |
+| pb | 1.85 |
+| price_chg_1m | 7.42 |
+| price_chg_ytd | 39.46 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.03454231433506045 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -354,11 +377,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| pe | 13.47 |
+| pb | 1.85 |
+| roe | 13.54 |
+| roe_pct_rank | 55 |
+| roa | 4.71 |
+| roa_pct_rank | 48 |
+| eps | 2120 |
+| bvps | 15467.38 |
+| beta | 1.09 |
+| dividend | 1000 |
+| yield | 0.03454231433506045 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 69 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SSI quý 1/2026: Doanh thu hợp nhất 3,295 tỷ đồng, lãi trước thuế 1,593 tỷ đồng                                            | 2026-04-20T11:39:16.317 | /2026/04/ssi-quy-12026-doanh-thu-hop-nhat-3295-ty-dong-lai-truoc-thue-1593-ty-dong-737-1430025.htm                        |
+| SSI: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T08:19:00     | /2026/04/ssi-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429861.htm                                                           |
+| SSI: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00     | /2026/04/ssi-bctc-quy-1-nam-2026-737-1430003.htm                                                                          |
+| SSI: Báo cáo phát triển bền vững 2025                                                                                     | 2026-04-15T16:57:43     | /2026/04/ssi-bao-cao-phat-trien-ben-vung-2025-830-1428152.htm                                                             |
+| SSI: Báo cáo thường niên năm 2025                                                                                         | 2026-04-15T16:53:52     | /2026/04/ssi-bao-cao-thuong-nien-nam-2025-737-1428154.htm                                                                 |
+| SSI: Báo cáo Thường niên năm 2025                                                                                         | 2026-04-15T00:00:00     | /2026/04/ssi-bao-cao-thuong-nien-nam-2025-737-1428218.htm                                                                 |
+| SSI: Thông báo danh sách ứng cử viên HĐQT nhiệm kỳ 2026-2031                                                              | 2026-04-09T17:43:57     | /2026/04/ssi-thong-bao-danh-sach-ung-cu-vien-hdqt-nhiem-ky-20262031-830-1425673.htm                                       |
+| Chuyên gia SSI: Triển vọng nâng hạng MSCI được cải thiện sau kỳ đánh giá của FTSE                                         | 2026-04-08T11:32:43.013 | /2026/04/chuyen-gia-ssi-trien-vong-nang-hang-msci-duoc-cai-thien-sau-ky-danh-gia-cua-ftse-145-1424724.htm                 |
+| SSI: CBTT NQ HĐQT số 13/2026/NQ-HĐQT về việc thông qua hồ sơ đăng ký chào bán cổ phiếu riêng lẻ tăng VĐL/Board of Direct… | 2026-04-08T00:00:00     | /2026/04/ssi-cbtt-nq-hdqt-so-13-2026-nqhdqt-ve-viec-thong-qua-ho-so-dang-ky-chao-ban-co-phieu-rieng-le-tang-vdl-board-of… |
+| SSI: Nghị quyết HĐQT về việc thông qua chào bán chứng quyền có bảo đảm                                                    | 2026-04-03T18:29:06     | /2026/04/ssi-nghi-quyet-hdqt-ve-viec-thong-qua-chao-ban-chung-quyen-co-bao-dam-737-1422901.htm                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

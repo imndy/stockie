@@ -1,13 +1,36 @@
 # CTS — CTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTS |
+| exchange | HOSE |
+| market_cap | 5849069545000 |
+| 52w_high | 44900 |
+| 52w_high_date | 2025-10-17 |
+| 52w_low | 21659 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 0.7086 |
+| dividend | 0 |
+| beta | 1.1 |
+| eps | 2757 |
+| eps_forward | 19.45274841588832 |
+| bvps | 13666.41 |
+| pe | 9.87 |
+| pb | 1.99 |
+| price_chg_1m | 4.76 |
+| price_chg_ytd | 17.85 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CTS |
+| pe | 9.87 |
+| pb | 1.99 |
+| roe | 22.61 |
+| roe_pct_rank | 74 |
+| roa | 5.47 |
+| roa_pct_rank | 51 |
+| eps | 2757 |
+| bvps | 13666.41 |
+| beta | 1.1 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 73 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                             | publish_time        | url                                                       |
-|:----------------------------------|:--------------------|:----------------------------------------------------------|
-| CTS: Báo cáo thường niên năm 2025 | 2026-03-27T17:38:09 | /2026/03/cts-bao-cao-thuong-nien-nam-2025-737-1417839.htm |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CTS: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T13:16:00 | /2026/04/cts-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430179.htm                                                           |
+| CTS: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-20T00:00:00 | /2026/04/cts-bctc-tom-tat-quy-1-nam-2026-737-1430856.htm                                                                  |
+| CTS: VBSE: CBTT cập nhật, bổ sung tài liệu họp Đại hội đồng cổ đông thường niên 2026/ VBSE: Information disclosure of up… | 2026-04-20T00:00:00 | /2026/04/cts-vbse-cbtt-cap-nhat-bo-sung-tai-lieu-hop-dai-hoi-dong-co-dong-thuong-nien-2026-vbse-information-disclosure-o… |
+| CTS: Giấy chứng nhận đăng ký địa điểm kinh doanh - PGD Bà Triệu                                                           | 2026-04-07T16:33:30 | /2026/04/cts-giay-chung-nhan-dang-ky-dia-diem-kinh-doanh-pgd-ba-trieu-830-1424220.htm                                     |
+| CTS: Nghị quyết HĐQT về việc phê duyệt hạn mức vay vốn tại VIB                                                            | 2026-04-03T18:04:26 | /2026/04/cts-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-vay-von-tai-vib-737-1422857.htm                                    |
+| CTS: VBSE: CBTT Nghị quyết HĐQT về việc Phê duyệt hạn mức vay vốn tại Ngân hàng TMCP Quốc Tế Việt Nam/ VBSE: Announces t… | 2026-04-03T00:00:00 | /2026/04/cts-vbse-cbtt-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-vay-von-tai-ngan-hang-tmcp-quoc-te-viet-nam-vbse-announ… |
+| Dự báo VN-Index đi ngang dài trong 2026, Chứng khoán VietinBank đặt kế hoạch lợi nhuận giảm 36%                           | 2026-04-01T12:32:00 | /2026/04/du-bao-vn-index-di-ngang-dai-trong-2026-chung-khoan-vietinbank-dat-ke-hoach-loi-nhuan-giam-36-737-1420479.htm    |
+| CTS: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                              | 2026-03-31T08:51:17 | /2026/03/cts-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1419194.htm                                                      |
+| CTS: VBSE: CBTT tài liệu họp Đại hội đồng cổ đông thường niên 2026/ VBSE: Information disclosure of 2026 AGM Materials    | 2026-03-30T00:00:00 | /2026/03/cts-vbse-cbtt-tai-lieu-hop-dai-hoi-dong-co-dong-thuong-nien-2026-vbse-information-disclosure-of-2026-agm-materi… |
+| CTS: Báo cáo thường niên năm 2025                                                                                         | 2026-03-27T17:38:09 | /2026/03/cts-bao-cao-thuong-nien-nam-2025-737-1417839.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

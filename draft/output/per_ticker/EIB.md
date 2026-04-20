@@ -1,13 +1,36 @@
 # EIB — EIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | EIB |
+| exchange | HOSE |
+| market_cap | 42004349687850 |
+| 52w_high | 31100 |
+| 52w_high_date | 2025-08-19 |
+| 52w_low | 18400 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 2.9832 |
+| dividend | 0 |
+| beta | 1.19 |
+| eps | 610 |
+| eps_forward | 8.068873599654191 |
+| bvps | 13961.48 |
+| pe | 36.70 |
+| pb | 1.60 |
+| price_chg_1m | 1.35 |
+| price_chg_ytd | 19.00 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | EIB |
+| pe | 36.70 |
+| pb | 1.60 |
+| roe | 4.45 |
+| roe_pct_rank | 34 |
+| roa | 0.44 |
+| roa_pct_rank | 29 |
+| eps | 610 |
+| bvps | 13961.48 |
+| beta | 1.19 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 62 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                          | publish_time        | url                                                                  |
-|:-----------------------------------------------|:--------------------|:---------------------------------------------------------------------|
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông? | 2026-04-06T20:02:00 | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm |
+| title                                                                                                            | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| EIB: Báo cáo thường niên năm 2025                                                                                | 2026-04-17T15:49:48     | /2026/04/eib-bao-cao-thuong-nien-nam-2025-737-1429337.htm                                                                 |
+| EIB: Cập nhật tài liệu ĐHĐCĐ thường niên năm 2026                                                                | 2026-04-15T16:47:38     | /2026/04/eib-cap-nhat-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1428138.htm                                                 |
+| EIB: Thông báo nhận được Đơn rút đơn từ nhiệm thành viên HĐQT                                                    | 2026-04-15T16:47:37     | /2026/04/eib-thong-bao-nhan-duoc-don-rut-don-tu-nhiem-thanh-vien-hdqt-214-1428156.htm                                     |
+| Eximbank được LSEG trao giải cao nhất “Best Market Maker”, khẳng định năng lực trên thị trường giao dịch quốc tế | 2026-04-14T08:32:00     | /2026/04/eximbank-duoc-lseg-trao-giai-cao-nhat-best-market-maker-khang-dinh-nang-luc-tren-thi-truong-giao-dich-quoc-te-7… |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                             | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                        | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
+| Eximbank điều chỉnh kế hoạch lợi nhuận 2026                                                                      | 2026-04-09T11:23:20.483 | /2026/04/eximbank-dieu-chinh-ke-hoach-loi-nhuan-2026-757-1425353.htm                                                      |
+| EIB: Nghị quyết HĐQT thông qua chương trình và tài liệu họp ĐHĐCĐ thường niên năm 2026                           | 2026-04-08T09:11:08     | /2026/04/eib-nghi-quyet-hdqt-thong-qua-chuong-trinh-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1424654.htm            |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                      | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                                   | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

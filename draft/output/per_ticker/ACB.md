@@ -1,13 +1,36 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | ACB |
+| exchange | HOSE |
+| market_cap | 123022925546050 |
+| 52w_high | 29450 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 19971 |
+| 52w_low_date | 2025-04-25 |
+| foreign_ownership | 27.5391 |
+| dividend | 1000 |
+| beta | 0.74 |
+| eps | 3230 |
+| eps_forward | 6.826693954279834 |
+| bvps | 18401.02 |
+| pe | 7.35 |
+| pb | 1.29 |
+| price_chg_1m | 4.13 |
+| price_chg_ytd | 16.98 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.04175365344467641 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | ACB |
+| pe | 7.35 |
+| pb | 1.29 |
+| roe | 17.56 |
+| roe_pct_rank | 63 |
+| roa | 1.65 |
+| roa_pct_rank | 35 |
+| eps | 3230 |
+| bvps | 18401.02 |
+| beta | 0.74 |
+| dividend | 1000 |
+| yield | 0.04175365344467641 |
+| pe_pct_rank | 38 |
+| pb_pct_rank | 54 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                          | publish_time        | url                                                                  |
-|:-----------------------------------------------|:--------------------|:---------------------------------------------------------------------|
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông? | 2026-04-06T20:02:00 | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm |
+| title                                                                                   | publishtime             | url                                                                                                             |
+|:----------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------|
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                   | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                  |
+| ACB: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức 2025 | 2026-04-14T17:55:14     | /2026/04/acb-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-2025-737-1427674.htm |
+| ACB: Nghị quyết HĐQT về việc bổ nhiệm lại chức vụ Kế toán trưởng                        | 2026-04-10T17:08:06     | /2026/04/acb-nghi-quyet-hdqt-ve-viec-bo-nhiem-lai-chuc-vu-ke-toan-truong-737-1426277.htm                        |
+| ACB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                              | 2026-04-10T16:58:31     | /2026/04/acb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1426263.htm                              |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                    | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                    |
+| ĐHĐCĐ ACB: Lãi trước thuế quý 1 đạt 5,400 tỷ, mảng bancassurance tăng trưởng 33%        | 2026-04-09T12:26:00     | /2026/04/dhdcd-acb-lai-truoc-thue-quy-1-dat-5400-ty-mang-bancassurance-tang-truong-33-737-1425022.htm           |
+| Nhóm Âu Lạc nâng tỷ lệ sở hữu tại ACB lên hơn 5%                                        | 2026-04-07T17:02:44.977 | /2026/04/nhom-au-lac-nang-ty-le-so-huu-tai-acb-len-hon-5-739-1424111.htm                                        |
+| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                     | 2026-04-07T10:58:20     | /2026/04/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny-739-1423928.htm                     |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường             | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm               |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                          | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

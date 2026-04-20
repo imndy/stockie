@@ -1,13 +1,36 @@
 # OCB — OCB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 20/04/2026 23:03  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | OCB |
+| exchange | HOSE |
+| market_cap | 31290864337000 |
+| 52w_high | 14600 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 9051 |
+| 52w_low_date | 2025-04-25 |
+| foreign_ownership | 19.6684 |
+| dividend | 700 |
+| beta | 0.71 |
+| eps | 1593 |
+| eps_forward | 4.495817932765521 |
+| bvps | 12746.07 |
+| pe | 7.37 |
+| pb | 0.92 |
+| price_chg_1m | 7.80 |
+| price_chg_ytd | 26.14 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.059574468085106386 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | OCB |
+| pe | 7.37 |
+| pb | 0.92 |
+| roe | 12.28 |
+| roe_pct_rank | 52 |
+| roa | 1.33 |
+| roa_pct_rank | 33 |
+| eps | 1593 |
+| bvps | 12746.07 |
+| beta | 0.71 |
+| dividend | 700 |
+| yield | 0.059574468085106386 |
+| pe_pct_rank | 38 |
+| pb_pct_rank | 39 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| OCB ra mắt giải chạy trực tuyến “Green Race 2026 - Theo dấu Bình Minh”                                                    | 2026-04-17T08:32:00     | /2026/04/ocb-ra-mat-giai-chay-truc-tuyen-green-race-2026-theo-dau-binh-minh-757-1428875.htm                               |
+| OCB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-15T18:13:55     | /2026/04/ocb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1428296.htm                                            |
+| OCB: Thông báo thay đổi nhân sự                                                                                           | 2026-04-15T18:13:53     | /2026/04/ocb-thong-bao-thay-doi-nhan-su-214-1428298.htm                                                                   |
+| ĐHĐCĐ OCB: Mục tiêu đạt Top 5 ngân hàng về hiệu quả và phát triển bền vững vào 2030                                       | 2026-04-15T12:07:00     | /2026/04/dhdcd-ocb-muc-tieu-dat-top-5-ngan-hang-ve-hieu-qua-va-phat-trien-ben-vung-vao-2030-737-1426958.htm               |
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                                                     | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                            |
+| OCB: Thông báo nhận được Công văn của NHNN Chi nhánh Khu vực 6 về việc thay đổi địa điểm Chi nhánh Hải Phòng - PGD Lê Ch… | 2026-04-13T16:42:31     | /2026/04/ocb-thong-bao-nhan-duoc-cong-van-cua-nhnn-chi-nhanh-khu-vuc-6-ve-viec-thay-doi-dia-diem-chi-nhanh-hai-phong-pgd… |
+| Đại tiệc ưu đãi chào mừng sinh nhật OCB 30                                                                                | 2026-04-13T08:40:56.91  | /2026/04/dai-tiec-uu-dai-chao-mung-sinh-nhat-ocb-30-757-1426595.htm                                                       |
+| OCB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Việt Triều                         | 2026-04-10T18:39:40     | /2026/04/ocb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-viet-trieu-739-1426452.ht… |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                                      | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| Miễn phí trải nghiệm gói giải pháp thanh toán toàn diện OCB Smart Merchant                                                | 2026-04-10T08:53:44.877 | /2026/04/mien-phi-trai-nghiem-goi-giai-phap-thanh-toan-toan-dien-ocb-smart-merchant-757-1425886.htm                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

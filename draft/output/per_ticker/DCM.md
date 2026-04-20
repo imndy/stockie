@@ -1,13 +1,36 @@
 # DCM — DCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DCM |
+| exchange | HOSE |
+| market_cap | 23823000000000 |
+| 52w_high | 50200 |
+| 52w_high_date | 2026-03-12 |
+| 52w_low | 29044 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 9.4238 |
+| dividend | 2000 |
+| beta | 0.21 |
+| eps | 3653 |
+| eps_forward | 20.489953604246026 |
+| bvps | 20288 |
+| pe | 12.43 |
+| pb | 2.24 |
+| price_chg_1m | 3.21 |
+| price_chg_ytd | 54.44 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.044444444444444446 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DCM |
+| pe | 12.43 |
+| pb | 2.24 |
+| roe | 18.33 |
+| roe_pct_rank | 65 |
+| roa | 11.48 |
+| roa_pct_rank | 73 |
+| eps | 3653 |
+| bvps | 20288 |
+| beta | 0.21 |
+| dividend | 2000 |
+| yield | 0.044444444444444446 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 80 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                               | publish_time        | url                                                                                         |
-|:--------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------|
-| DCM: Nghị quyết HĐQT về việc thông qua Báo cáo thường niên năm 2025 | 2026-03-19T17:10:25 | /2026/03/dcm-nghi-quyet-hdqt-ve-viec-thong-qua-bao-cao-thuong-nien-nam-2025-737-1414158.htm |
+| title                                                                        | publishtime             | url                                                                                                  |
+|:-----------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| DCM: Cập nhật, điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                | 2026-04-20T13:48:06     | /2026/04/dcm-cap-nhat-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1430176.htm                 |
+| DCM, HDB và SAB có triển vọng gì?                                            | 2026-04-20T12:29:08.79  | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                             |
+| Phân bón Cà Mau ước lãi trước thuế quý 1 hơn 837 tỷ                          | 2026-04-14T17:52:51.737 | /2026/04/phan-bon-ca-mau-uoc-lai-truoc-thue-quy-1-hon-837-ty-737-1427512.htm                         |
+| DCM: Quyết định của HĐQT về việc thành lập Chi nhánh - Thương mại & Dịch vụ  | 2026-04-13T18:03:56     | /2026/04/dcm-quyet-dinh-cua-hdqt-ve-viec-thanh-lap-chi-nhanh-thuong-mai-dich-vu-737-1427133.htm      |
+| Phân tích kỹ thuật phiên chiều 27/03: Tiếp tục thử thách vượt SMA 200 ngày   | 2026-03-27T13:06:11.497 | /2026/03/phan-tich-ky-thuat-phien-chieu-2703-tiep-tuc-thu-thach-vuot-sma-200-ngay-585-1417435.htm    |
+| Đạm Cà Mau lên kế hoạch lợi nhuận 2026 giảm mạnh, cổ tức dự kiến còn một nửa | 2026-03-25T12:27:05.293 | /2026/03/dam-ca-mau-len-ke-hoach-loi-nhuan-2026-giam-manh-co-tuc-du-kien-con-mot-nua-737-1416111.htm |
+| DCM: Tài liệu họp ĐHĐCĐ thường niên 2026                                     | 2026-03-23T16:31:24     | /2026/03/dcm-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1415200.htm                                     |
+| DCM: Thông báo họp ĐHĐCĐ thường niên 2026                                    | 2026-03-23T16:31:23     | /2026/03/dcm-thong-bao-hop-dhdcd-thuong-nien-2026-737-1415177.htm                                    |
+| DCM: Báo cáo phát triển bền vững năm 2025                                    | 2026-03-19T17:10:25     | /2026/03/dcm-bao-cao-phat-trien-ben-vung-nam-2025-830-1414156.htm                                    |
+| DCM: Nghị quyết HĐQT về việc thông qua Báo cáo thường niên năm 2025          | 2026-03-19T17:10:25     | /2026/03/dcm-nghi-quyet-hdqt-ve-viec-thong-qua-bao-cao-thuong-nien-nam-2025-737-1414158.htm          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,13 +1,36 @@
 # TLG — TLG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 20:03
+> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: 05/04/2026 20:03
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TLG |
+| exchange | HOSE |
+| market_cap | 4884334004000 |
+| 52w_high | 58802 |
+| 52w_high_date | 2025-12-08 |
+| 52w_low | 38487 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 11.4725 |
+| dividend | 5000 |
+| beta | 0.76 |
+| eps | 5198 |
+| eps_forward | 10.896984881506015 |
+| bvps | 26184 |
+| pe | 9.77 |
+| pb | 1.94 |
+| price_chg_1m | 3.27 |
+| price_chg_ytd | 25.03 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.09881422924901186 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TLG |
+| pe | 9.77 |
+| pb | 1.94 |
+| roe | 18.46 |
+| roe_pct_rank | 65 |
+| roa | 13.04 |
+| roa_pct_rank | 78 |
+| eps | 5198 |
+| bvps | 26184 |
+| beta | 0.76 |
+| dividend | 5000 |
+| yield | 0.09881422924901186 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 72 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                          | publishtime             | url                                                                                                                   |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| TLG: Báo cáo thường niên năm 2025                                                              | 2026-04-20T15:49:06     | /2026/04/tlg-bao-cao-thuong-nien-nam-2025-737-1430449.htm                                                             |
+| “Vua bút bi” Cô Gia Thọ ứng cử HĐQT Nhà sách Phương Nam giữa kế hoạch thoái vốn của Thiên Long | 2026-04-15T11:30:00     | /2026/04/vua-but-bi-co-gia-tho-ung-cu-hdqt-nha-sach-phuong-nam-giua-ke-hoach-thoai-von-cua-thien-long-214-1427814.htm |
+| Thiên Long đặt kế hoạch thận trọng trước nguy cơ lạm phát đẩy chi phí                          | 2026-04-02T16:36:21.813 | /2026/04/thien-long-dat-ke-hoach-than-trong-truoc-nguy-co-lam-phat-day-chi-phi-737-1421524.htm                        |
+| TLG: Dự thảo tài liệu họp ĐHĐCĐ thường niên năm tài chính 2025                                 | 2026-04-02T16:14:44     | /2026/04/tlg-du-thao-tai-lieu-hop-dhdcd-thuong-nien-nam-tai-chinh-2025-737-1421718.htm                                |
+| Nhóm lãnh đạo đến từ Thiên Long đồng loạt từ nhiệm tại Nhà sách Phương Nam                     | 2026-04-01T17:32:00     | /2026/04/nhom-lanh-dao-den-tu-thien-long-dong-loat-tu-nhiem-tai-nha-sach-phuong-nam-214-1420901.htm                   |
+| Thiên Long lập công ty mới gần 145 tỷ để tái cấu trúc khoản đầu tư Nhà sách Phương Nam         | 2026-03-30T10:38:35.973 | /2026/03/thien-long-lap-cong-ty-moi-gan-145-ty-de-tai-cau-truc-khoan-dau-tu-nha-sach-phuong-nam-737-1418345.htm       |
+| TLG: BCTC Tóm tắt Hợp nhất năm 2025                                                            | 2026-03-30T00:00:00     | /2026/03/tlg-bctc-tom-tat-hop-nhat-nam-2025-737-1418793.htm                                                           |
+| TLG: BCTC Tóm tắt năm 2025                                                                     | 2026-03-30T00:00:00     | /2026/03/tlg-bctc-tom-tat-nam-2025-737-1418794.htm                                                                    |
+| TLG: Nghị quyết HĐQT về việc công ty con góp vốn thành lập công ty mới                         | 2026-03-27T17:13:58     | /2026/03/tlg-nghi-quyet-hdqt-ve-viec-cong-ty-con-gop-von-thanh-lap-cong-ty-moi-737-1417821.htm                        |
+| TLG: Đính chính Nghị quyết HĐQT số 06/2026/NQ-HĐQT                                             | 2026-03-27T17:13:00     | /2026/03/tlg-dinh-chinh-nghi-quyet-hdqt-so-06-2026-nqhdqt-737-1417820.htm                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

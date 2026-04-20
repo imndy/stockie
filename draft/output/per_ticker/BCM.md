@@ -1,13 +1,36 @@
 # BCM — BCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BCM |
+| exchange | HOSE |
+| market_cap | 59305500000000 |
+| 52w_high | 78638 |
+| 52w_high_date | 2026-01-20 |
+| 52w_low | 50500 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 0.9915 |
+| dividend | 1100 |
+| beta | 0.79 |
+| eps | 3361 |
+| eps_forward | 23.3399120877279 |
+| bvps | 22529 |
+| pe | 16.57 |
+| pb | 2.47 |
+| price_chg_1m | 8.52 |
+| price_chg_ytd | 7.95 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.019197207678883072 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BCM |
+| pe | 16.57 |
+| pb | 2.47 |
+| roe | 15.98 |
+| roe_pct_rank | 60 |
+| roa | 5.83 |
+| roa_pct_rank | 53 |
+| eps | 3361 |
+| bvps | 22529 |
+| beta | 0.79 |
+| dividend | 1100 |
+| yield | 0.019197207678883072 |
+| pe_pct_rank | 58 |
+| pb_pct_rank | 86 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                | publish_time        | url                                                                          |
-|:-----------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------|
-| BCM: Nghị quyết HĐQT về việc chi trả cổ tức năm 2024 | 2026-02-02T14:14:56 | /2026/02/bcm-nghi-quyet-hdqt-ve-viec-chi-tra-co-tuc-nam-2024-737-1398904.htm |
+| title                                                                                       | publishtime         | url                                                                                                                 |
+|:--------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------|
+| BCM: Báo cáo phát triển bền vững năm 2025                                                   | 2026-04-20T17:08:20 | /2026/04/bcm-bao-cao-phat-trien-ben-vung-nam-2025-830-1430668.htm                                                   |
+| BCM: BCTC năm 2025                                                                          | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-nam-2025-737-1420941.htm                                                                          |
+| BCM: BCTC Hợp nhất năm 2025                                                                 | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-hop-nhat-nam-2025-737-1420942.htm                                                                 |
+| BCM: Nghị quyết HĐQT về việc góp vốn điều lệ ban đầu thành lập Công ty TNHH MTV WTC Becamex | 2026-03-06T16:09:17 | /2026/03/bcm-nghi-quyet-hdqt-ve-viec-gop-von-dieu-le-ban-dau-thanh-lap-cong-ty-tnhh-mtv-wtc-becamex-737-1409258.htm |
+| Của để dành doanh nghiệp bất động sản tăng 60% trong năm 2025                               | 2026-02-25T11:02:00 | /2026/02/cua-de-danh-doanh-nghiep-bat-dong-san-tang-60-trong-nam-2025-737-1404929.htm                               |
+| Nợ vay doanh nghiệp bất động sản trên sàn lên gần 400 ngàn tỷ đồng trong năm 2025           | 2026-02-24T10:02:00 | /2026/02/no-vay-doanh-nghiep-bat-dong-san-tren-san-len-gan-400-ngan-ty-dong-trong-nam-2025-737-1403939.htm          |
+| BCM: CBTT hoàn thành nghĩa vụ thuế                                                          | 2026-02-12T15:27:02 | /2026/02/bcm-cbtt-hoan-thanh-nghia-vu-thue-830-1403432.htm                                                          |
+| Tuần cuối năm Ất Tỵ: Cổ tức nhỏ giọt, nổi bật BCM chốt quyền chia ngàn tỷ                   | 2026-02-08T15:00:00 | /2026/02/tuan-cuoi-nam-at-ty-co-tuc-nho-giot-noi-bat-bcm-chot-quyen-chia-ngan-ty-738-1401644.htm                    |
+| BCM: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                  | 2026-02-06T16:16:22 | /2026/02/bcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2024-bang-tien-737-1401448.htm                  |
+| BCM: Nghị quyết HĐQT về việc chi trả cổ tức năm 2024                                        | 2026-02-02T14:14:56 | /2026/02/bcm-nghi-quyet-hdqt-ve-viec-chi-tra-co-tuc-nam-2024-737-1398904.htm                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

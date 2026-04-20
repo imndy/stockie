@@ -1,13 +1,36 @@
 # GEX — GEX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GEX |
+| exchange | HOSE |
+| market_cap | 36953236920600 |
+| 52w_high | 65400 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 24204 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 7.3656 |
+| dividend | 1300 |
+| beta | 1.33 |
+| eps | 1738 |
+| eps_forward | 9.735421206742902 |
+| bvps | 33397 |
+| pe | 22.44 |
+| pb | 1.17 |
+| price_chg_1m | 18.52 |
+| price_chg_ytd | 61.81 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.031746031746031744 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GEX |
+| pe | 22.44 |
+| pb | 1.17 |
+| roe | 11.08 |
+| roe_pct_rank | 49 |
+| roa | 2.32 |
+| roa_pct_rank | 38 |
+| eps | 1738 |
+| bvps | 33397 |
+| beta | 1.33 |
+| dividend | 1300 |
+| yield | 0.031746031746031744 |
+| pe_pct_rank | 71 |
+| pb_pct_rank | 50 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                             | publish_time        | url                                                       |
-|:----------------------------------|:--------------------|:----------------------------------------------------------|
-| GEX: Giấy ủy quyền thực hiện CBTT | 2026-04-03T17:33:58 | /2026/04/gex-giay-uy-quyen-thuc-hien-cbtt-830-1422806.htm |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| GEX: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu và nhận cổ phiếu phát hàn… | 2026-04-20T17:51:05     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-co-phieu-va-nhan-co-phieu-… |
+| GEX: Nghị quyết HĐQT về việc chốt DSCĐ và thông báo phát hành                                                             | 2026-04-20T14:06:27     | /2026/04/gex-nghi-quyet-hdqt-ve-viec-chot-dscd-va-thong-bao-phat-hanh-737-1430216.htm                                     |
+| GEX: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức và tăng VCP từ NVCSH của GEX      | 2026-04-17T19:22:39     | /2026/04/gex-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-va-tang-vcp-tu-nvcsh-cua… |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                                 | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
+| GEX: Nghị quyết HĐQT số 18/2026 ngày 08/04/2026                                                                           | 2026-04-09T14:08:41     | /2026/04/gex-nghi-quyet-hdqt-so-18-2026-ngay-08-04-2026-737-1425451.htm                                                   |
+| GELEX Electric tổ chức thành công ĐHĐCĐ thường niên 2026                                                                  | 2026-04-08T12:17:00     | /2026/04/gelex-electric-to-chuc-thanh-cong-dhdcd-thuong-nien-2026-737-1424806.htm                                         |
+| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 21                                                             | 2026-04-08T08:49:24     | /2026/04/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-21-737-1424691.htm                                     |
+| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 20                                                             | 2026-04-03T18:21:02     | /2026/04/gex-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-20-737-1422888.htm                                     |
+| GEX: Giấy ủy quyền thực hiện CBTT                                                                                         | 2026-04-03T17:33:58     | /2026/04/gex-giay-uy-quyen-thuc-hien-cbtt-830-1422806.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

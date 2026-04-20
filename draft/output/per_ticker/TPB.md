@@ -1,13 +1,36 @@
 # TPB — TPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TPB |
+| exchange | HOSE |
+| market_cap | 45494368717200 |
+| 52w_high | 21017 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 11907 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 24.6454 |
+| dividend | 1000 |
+| beta | 0.92 |
+| eps | 2776 |
+| eps_forward | 5.008692007052239 |
+| bvps | 16589.03 |
+| pe | 5.85 |
+| pb | 0.98 |
+| price_chg_1m | 3.80 |
+| price_chg_ytd | 39.82 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.06097560975609756 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | TPB |
+| pe | 5.85 |
+| pb | 0.98 |
+| eps | 2776 |
+| bvps | 16589.03 |
+| beta | 0.92 |
+| dividend | 1000 |
+| yield | 0.06097560975609756 |
+| pe_pct_rank | 34 |
+| pb_pct_rank | 42 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                           | publishtime             | url                                                                                                                   |
+|:------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| TPB: Link công bố Báo cáo thường niên năm 2025                                                  | 2026-04-20T15:59:12     | /2026/04/tpb-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430472.htm                                                |
+| TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 cập nhật                       | 2026-04-15T16:57:44     | /2026/04/tpb-thong-bao-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-737-1428151.htm                     |
+| Tổng Giám đốc TPBank: Mặt bằng huy động bình ổn quanh mốc 7%, hé mở dư địa kéo giảm chi phí vốn | 2026-04-10T17:44:30.753 | /2026/04/tong-giam-doc-tpbank-mat-bang-huy-dong-binh-on-quanh-moc-7-he-mo-du-dia-keo-giam-chi-phi-von-757-1426226.htm |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                            | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                          |
+| TPB: Nghị quyết HĐQT số 10/2026 ngày 07/04/2026                                                 | 2026-04-08T17:31:13     | /2026/04/tpb-nghi-quyet-hdqt-so-10-2026-ngay-07-04-2026-737-1425147.htm                                               |
+| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                     | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                     |
+| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                  | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
+| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC        | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
+| TPBank muốn lập ngân hàng thành viên tại VIFC vốn 3,000 tỷ đồng                                 | 2026-04-03T15:00:00     | /2026/04/tpbank-muon-lap-ngan-hang-thanh-vien-tai-vifc-von-3000-ty-dong-757-1422529.htm                               |
+| TPB: Thông báo mời họp và tài liệu ĐHĐCĐ thường niên năm 2026                                   | 2026-04-03T09:12:21     | /2026/04/tpb-thong-bao-moi-hop-va-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1422307.htm                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

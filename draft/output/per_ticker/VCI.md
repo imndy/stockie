@@ -1,13 +1,36 @@
 # VCI — VCI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCI |
+| exchange | HOSE |
+| market_cap | 31445114745000 |
+| 52w_high | 34986 |
+| 52w_high_date | 2025-08-29 |
+| 52w_low | 23711 |
+| 52w_low_date | 2025-12-12 |
+| foreign_ownership | 20.3101 |
+| dividend | 750 |
+| beta | 0.98 |
+| eps | 1862 |
+| eps_forward | 10.090332500480493 |
+| bvps | 21185.62 |
+| pe | 14.66 |
+| pb | 1.29 |
+| price_chg_1m | 4.32 |
+| price_chg_ytd | 1.99 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02737226277372263 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VCI |
+| pe | 14.66 |
+| pb | 1.29 |
+| roe | 8.67 |
+| roe_pct_rank | 44 |
+| roa | 4.29 |
+| roa_pct_rank | 47 |
+| eps | 1862 |
+| bvps | 21185.62 |
+| beta | 0.98 |
+| dividend | 750 |
+| yield | 0.02737226277372263 |
+| pe_pct_rank | 54 |
+| pb_pct_rank | 53 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VCI: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T17:19:00     | /2026/04/vci-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430780.htm                                                           |
+| VCI: BCTC năm 2026                                                                                                        | 2026-04-20T00:00:00     | /2026/04/vci-bctc-nam-2026-737-1430834.htm                                                                                |
+| VCI: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00     | /2026/04/vci-bctc-quy-1-nam-2026-737-1430835.htm                                                                          |
+| VCI: Quyết định về việc thay đổi đăng ký niêm yết                                                                         | 2026-04-17T09:49:18     | /2026/04/vci-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1429029.htm                                                 |
+| VCI: Tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                              | 2026-04-14T09:08:55     | /2026/04/vci-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-739-1427211.htm      |
+| VCI: Về việc tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu/ Regarding the repo… | 2026-04-13T00:00:00     | /2026/04/vci-ve-viec-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-regarding-t… |
+| Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                                             | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
+| Chủ chuỗi Katinat, Phê La muốn bán toàn bộ cổ phần tại VCI                                                                | 2026-04-08T11:00:00     | /2026/04/chu-chuoi-katinat-phe-la-muon-ban-toan-bo-co-phan-tai-vci-739-1424666.htm                                        |
+| VCI: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Trương Nguyễn Thiên Kim                         | 2026-04-07T17:56:22     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-truong-nguyen-thien-kim-739-1424378.ht… |
+| VCI: Thông báo giao dịch cổ phiếu của người có liên quan của người nội bộ/Notice of the transaction in share of affiliat… | 2026-04-07T00:00:00     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-notice-of-the-transaction-in-share-of-… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

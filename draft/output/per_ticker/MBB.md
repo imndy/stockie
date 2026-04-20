@@ -1,13 +1,36 @@
 # MBB — MBB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:07  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 20/04/2026 23:01  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MBB |
+| exchange | HOSE |
+| market_cap | 212249247602150 |
+| 52w_high | 29000 |
+| 52w_high_date | 2026-02-11 |
+| 52w_low | 17213 |
+| 52w_low_date | 2025-04-21 |
+| foreign_ownership | 23.226 |
+| dividend | 300 |
+| beta | 0.82 |
+| eps | 3980 |
+| eps_forward | 10.495323728161196 |
+| bvps | 17631.6 |
+| pe | 6.64 |
+| pb | 1.50 |
+| price_chg_1m | 1.54 |
+| price_chg_ytd | 51.11 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.011385199240986717 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | MBB |
+| pe | 6.64 |
+| pb | 1.50 |
+| roe | 21.14 |
+| roe_pct_rank | 71 |
+| roa | 1.95 |
+| roa_pct_rank | 36 |
+| eps | 3980 |
+| bvps | 17631.6 |
+| beta | 0.82 |
+| dividend | 300 |
+| yield | 0.011385199240986717 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 59 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                       | publishtime         | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026                       | 2026-04-20T16:57:57 | /2026/04/mbb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-thuong-nam-2026-737-1430618.htm             |
+| MBB: Thông báo thay đổi nhân sự                                                                             | 2026-04-20T16:30:07 | /2026/04/mbb-thong-bao-thay-doi-nhan-su-214-1430551.htm                                                                   |
+| MBB: Biên bản họp ĐHĐCĐ                                                                                     | 2026-04-20T09:15:24 | /2026/04/mbb-bien-ban-hop-dhdcd-737-1429892.htm                                                                           |
+| MBB: Nghị quyết ĐHĐCĐ bầu thay thế Thành viên HĐQT nhiệm kỳ 2024-2029                                       | 2026-04-20T09:14:50 | /2026/04/mbb-nghi-quyet-dhdcd-bau-thay-the-thanh-vien-hdqt-nhiem-ky-20242029-737-1429898.htm                              |
+| MBB: Nghị quyết ĐHĐCĐ cập nhật phương án khắc phục dự kiến trong trường hợp được can thiệp sớm              | 2026-04-20T09:13:48 | /2026/04/mbb-nghi-quyet-dhdcd-cap-nhat-phuong-an-khac-phuc-du-kien-trong-truong-hop-duoc-can-thiep-som-737-1429877.htm    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung điều lệ năm 2026                                             | 2026-04-20T09:13:05 | /2026/04/mbb-nghi-quyet-dhdcd-ve-viec-sua-doi-bo-sung-dieu-le-nam-2026-737-1429880.htm                                    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung Quy chế tổ chức và hoạt động HĐQT và Quy chế Quản trị nội bộ | 2026-04-20T09:12:16 | /2026/04/mbb-nghi-quyet-dhdcd-ve-viec-sua-doi-bo-sung-quy-che-to-chuc-va-hoat-dong-hdqt-va-quy-che-quan-tri-noi-bo-737-1… |
+| MBB: Nghị quyết ĐHĐCĐ thông qua BCTC và phương án phân phối lợi nhuận năm 2025                              | 2026-04-20T09:09:51 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-bctc-va-phuong-an-phan-phoi-loi-nhuan-nam-2025-737-1429868.htm                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua các vấn đề tại ĐHĐCĐTN 2026                                                 | 2026-04-20T09:08:39 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-cac-van-de-tai-dhdcdtn-2026-737-1429875.htm                                       |
+| MBB: Nghị quyết ĐHĐCĐ thông qua phương án tăng vốn điều lệ                                                  | 2026-04-20T09:06:56 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-phuong-an-tang-von-dieu-le-737-1429874.htm                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

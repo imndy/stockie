@@ -1,13 +1,36 @@
 # PPC — PPC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 20:00
+> 📅 Daily: 20/04/2026 23:04  |  🗂 Quarterly: 05/04/2026 20:00
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PPC |
+| exchange | HOSE |
+| market_cap | 3254222498100 |
+| 52w_high | 12199 |
+| 52w_high_date | 2025-05-06 |
+| 52w_low | 9626 |
+| 52w_low_date | 2025-10-20 |
+| foreign_ownership | 4.6157 |
+| dividend | 500 |
+| beta | 0.34 |
+| eps | 530 |
+| eps_forward | 8.377697990177872 |
+| bvps | 13945 |
+| pe | 19.16 |
+| pb | 0.73 |
+| price_chg_1m | -7.31 |
+| price_chg_ytd | -8.58 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.04926108374384237 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PPC |
+| pe | 19.16 |
+| pb | 0.73 |
+| roe | 3.78 |
+| roe_pct_rank | 33 |
+| roa | 3.15 |
+| roa_pct_rank | 41 |
+| eps | 530 |
+| bvps | 13945 |
+| beta | 0.34 |
+| dividend | 500 |
+| yield | 0.04926108374384237 |
+| pe_pct_rank | 64 |
+| pb_pct_rank | 30 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                  | publishtime         | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PPC: BCTC Tóm tắt quý 1 năm 2026                                                                                       | 2026-04-20T00:00:00 | /2026/04/ppc-bctc-tom-tat-quy-1-nam-2026-737-1430675.htm                                                                  |
+| PPC: Báo cáo thường niên năm 2025                                                                                      | 2026-04-16T17:53:45 | /2026/04/ppc-bao-cao-thuong-nien-nam-2025-737-1428851.htm                                                                 |
+| PPC: Bổ sung tài liệu họp ĐHĐCĐ bất thường năm 2026                                                                    | 2026-04-16T17:53:43 | /2026/04/ppc-bo-sung-tai-lieu-hop-dhdcd-bat-thuong-nam-2026-737-1428854.htm                                               |
+| PPC: Link công bố tài liệu ĐHĐCĐ bất thường năm 2026                                                                   | 2026-03-30T13:36:53 | /2026/03/ppc-link-cong-bo-tai-lieu-dhdcd-bat-thuong-nam-2026-737-1418565.htm                                              |
+| PPC: BCTC Tóm tắt năm 2025                                                                                             | 2026-03-30T00:00:00 | /2026/03/ppc-bctc-tom-tat-nam-2025-737-1418987.htm                                                                        |
+| PPC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                         | 2026-03-27T19:33:05 | /2026/03/ppc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1418104.htm                                    |
+| PPC: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026                                    | 2026-03-23T16:31:21 | /2026/03/ppc-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026-737-1415175.htm               |
+| PPC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ bất thường năm 2026                          | 2026-03-10T15:38:25 | /2026/03/ppc-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-bat-thuong-nam-2026-737-1410363.htm     |
+| PPC: Thông báo và Nghị quyết HĐQT về ngày đăng ký cuối cùng chốt thời gian, địa điểm tổ chức ĐHĐCĐ bất thường năm 2026 | 2026-03-03T14:14:16 | /2026/03/ppc-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-chot-thoi-gian-dia-diem-to-chuc-dhdcd-bat-thuong-nam… |
+| PPC: Giấy chứng nhận đăng ký hoạt động chi nhánh của Ban quản lý dự án                                                 | 2026-02-09T17:23:39 | /2026/02/ppc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-cua-ban-quan-ly-du-an-737-1402096.htm                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

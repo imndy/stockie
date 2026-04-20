@@ -1,13 +1,36 @@
 # PLX — PLX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 20/04/2026 23:04  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PLX |
+| exchange | HOSE |
+| market_cap | 50124863670750 |
+| 52w_high | 69500 |
+| 52w_high_date | 2026-03-04 |
+| 52w_low | 32027 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 14.4978 |
+| dividend | 1200 |
+| beta | 0.84 |
+| eps | 2057 |
+| eps_forward | 16.153227208584862 |
+| bvps | 23199 |
+| pe | 19.42 |
+| pb | 1.72 |
+| price_chg_1m | -7.83 |
+| price_chg_ytd | 19.92 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.030418250950570342 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,11 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | PLX |
+| pe | 19.42 |
+| pb | 1.72 |
+| roe | 10.34 |
+| roe_pct_rank | 48 |
+| roa | 3.22 |
+| roa_pct_rank | 42 |
+| eps | 2057 |
+| bvps | 23199 |
+| beta | 0.84 |
+| dividend | 1200 |
+| yield | 0.030418250950570342 |
+| pe_pct_rank | 64 |
+| pb_pct_rank | 65 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                          | publishtime            | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| PLX: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đào Thị Thu Hà | 2026-04-17T17:05:10    | /2026/04/plx-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dao-thi-thu-ha-739-1429449.htm |
+| Petrolimex không còn đáp ứng điều kiện công ty đại chúng                                       | 2026-04-14T18:32:00    | /2026/04/petrolimex-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-741-1427539.htm                                      |
+| PLX: Thông báo về việc không đáp ứng điều kiện công ty đại chúng                               | 2026-04-14T15:33:30    | /2026/04/plx-thong-bao-ve-viec-khong-dap-ung-dieu-kien-cong-ty-dai-chung-830-1427438.htm                               |
+| Petrolimex: Tác động của xe điện sẽ dần mạnh mẽ hơn, làm giảm sản lượng xăng thành phố         | 2026-04-08T09:45:30.19 | /2026/04/petrolimex-tac-dong-cua-xe-dien-se-dan-manh-me-hon-lam-giam-san-luong-xang-thanh-pho-737-1424337.htm          |
+| PLX: Thư mời tham dự và link tài liệu họp ĐHĐCĐ TN 2026                                        | 2026-04-03T17:56:04    | /2026/04/plx-thu-moi-tham-du-va-link-tai-lieu-hop-dhdcd-tn-2026-737-1422835.htm                                        |
+| PLX: Giải trình BCTC năm 2025 so với cùng kỳ năm trước                                         | 2026-04-02T17:48:44    | /2026/04/plx-giai-trinh-bctc-nam-2025-so-voi-cung-ky-nam-truoc-737-1422038.htm                                         |
+| PLX: BCTC Hợp nhất năm 2025                                                                    | 2026-03-31T00:00:00    | /2026/03/plx-bctc-hop-nhat-nam-2025-737-1420869.htm                                                                    |
+| PLX: BCTC năm 2025                                                                             | 2026-03-31T00:00:00    | /2026/03/plx-bctc-nam-2025-737-1420870.htm                                                                             |
+| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                           | 2026-03-18T11:02:00    | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                           |
+| Phân tích kỹ thuật phiên chiều 12/03: Rung lắc mạnh                                            | 2026-03-12T13:05:40.11 | /2026/03/phan-tich-ky-thuat-phien-chieu-1203-rung-lac-manh-585-1411390.htm                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

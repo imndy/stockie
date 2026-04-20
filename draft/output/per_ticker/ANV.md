@@ -1,13 +1,36 @@
 # ANV — ANV
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | ANV |
+| exchange | HOSE |
+| market_cap | 6762896050000 |
+| 52w_high | 32285 |
+| 52w_high_date | 2025-10-13 |
+| 52w_low | 14230 |
+| 52w_low_date | 2025-05-15 |
+| foreign_ownership | 4.1164 |
+| dividend | 1000 |
+| beta | 0.89 |
+| eps | 3754 |
+| eps_forward | 6.230545122853889 |
+| bvps | 13246 |
+| pe | 6.66 |
+| pb | 1.89 |
+| price_chg_1m | 10.20 |
+| price_chg_ytd | 72.05 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.03937007874015748 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,35 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | ANV |
+| pe | 6.66 |
+| pb | 1.89 |
+| eps | 3754 |
+| bvps | 13246 |
+| beta | 0.89 |
+| dividend | 1000 |
+| yield | 0.03937007874015748 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 70 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                             | publish_time        | url                                                                                       |
-|:------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------|
-| ANV: Thông báo giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên | 2026-03-11T08:28:49 | /2026/03/anv-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-830-1410592.htm |
+| title                                                                   | publishtime             | url                                                                                             |
+|:------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------|
+| Phó Tổng giám đốc Doãn Chí Thiên đã gom thêm 1 triệu cổ phiếu ANV       | 2026-04-18T12:06:20.123 | /2026/04/pho-tong-giam-doc-doan-chi-thien-da-gom-them-1-trieu-co-phieu-anv-739-1429737.htm      |
+| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên | 2026-04-17T09:39:52     | /2026/04/anv-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-739-1429017.htm |
+| ANV: Báo cáo thường niên năm 2025                                       | 2026-04-08T11:01:17     | /2026/04/anv-bao-cao-thuong-nien-nam-2025-737-1424780.htm                                       |
+| ANV: BCTC Hợp nhất năm 2025                                             | 2026-03-26T00:00:00     | /2026/03/anv-bctc-hop-nhat-nam-2025-737-1416888.htm                                             |
+| ANV: BCTC năm 2025                                                      | 2026-03-26T00:00:00     | /2026/03/anv-bctc-nam-2025-737-1416890.htm                                                      |
+| Phó Tổng ANV gom tiếp 1 triệu cp                                        | 2026-03-24T12:12:22.89  | /2026/03/pho-tong-anv-gom-tiep-1-trieu-cp-739-1415506.htm                                       |
+| ANV: Thông báo giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên       | 2026-03-24T09:26:34     | /2026/03/anv-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-830-1415455.htm       |
+| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên | 2026-03-23T18:06:41     | /2026/03/anv-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-739-1415333.htm |
+| Lãnh đạo ANV thông báo mua thêm 1 triệu cp, thị giá tăng trần           | 2026-03-11T17:17:12.633 | /2026/03/lanh-dao-anv-thong-bao-mua-them-1-trieu-cp-thi-gia-tang-tran-739-1410946.htm           |
+| ANV: Thông báo giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên       | 2026-03-11T08:28:49     | /2026/03/anv-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-830-1410592.htm       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

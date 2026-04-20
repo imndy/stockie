@@ -1,13 +1,36 @@
 # CMG — CMG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 20/04/2026 22:56  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CMG |
+| exchange | HOSE |
+| market_cap | 6742481286600 |
+| 52w_high | 41767 |
+| 52w_high_date | 2025-08-14 |
+| 52w_low | 27905 |
+| 52w_low_date | 2025-04-22 |
+| foreign_ownership | 37.5101 |
+| dividend | 0 |
+| beta | 0.66 |
+| eps | 1933 |
+| eps_forward | 13.130971737581525 |
+| bvps | 18850 |
+| pe | 14.87 |
+| pb | 1.53 |
+| price_chg_1m | -2.20 |
+| price_chg_ytd | -2.00 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0 |
+| financial_date | 12/2024 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | CMG |
+| pe | 14.87 |
+| pb | 1.53 |
+| roe | 12.18 |
+| roe_pct_rank | 52 |
+| roa | 4.79 |
+| roa_pct_rank | 49 |
+| eps | 1933 |
+| bvps | 18850 |
+| beta | 0.66 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 60 |
+| financial_date | 12/2024 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                   | publish_time        | url                                                                                                             |
-|:----------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------|
-| CMG: Nghị quyết HĐQT về việc điều chỉnh phương án thành lập Công ty TNHH CMC Investment | 2026-02-10T17:24:32 | /2026/02/cmg-nghi-quyet-hdqt-ve-viec-dieu-chinh-phuong-an-thanh-lap-cong-ty-tnhh-cmc-investment-737-1402586.htm |
+| title                                                                                                       | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CMG đặt mục tiêu doanh thu tăng 20% trong năm 2026                                                          | 2026-04-02T15:17:55.757 | /2026/04/cmg-dat-muc-tieu-doanh-thu-tang-20-trong-nam-2026-737-1421500.htm                                                |
+| CMG: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ Công ty TNHH An ninh An toàn Thông tin CMC | 2026-03-26T17:43:19     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le-cong-ty-tnhh-an-ninh-an-toan-thong-tin-cmc-737-… |
+| CMG: Nghị quyết HĐQT về việc thông qua chủ trương thực hiện giao dịch với bên liên quan trong năm 2026      | 2026-03-19T16:14:04     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thuc-hien-giao-dich-voi-ben-lien-quan-trong-nam-2026-737-14141… |
+| CMG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                      | 2026-03-13T18:02:18     | /2026/03/cmg-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1412214.htm                            |
+| CMG: Quyết định về việc thay đổi đăng ký niêm yết                                                           | 2026-03-06T17:01:02     | /2026/03/cmg-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1409328.htm                                                 |
+| CMG: Điều lệ công ty sửa đổi, bổ sung lần thứ 27                                                            | 2026-02-27T16:58:16     | /2026/02/cmg-dieu-le-cong-ty-sua-doi-bo-sung-lan-thu-27-737-1406502.htm                                                   |
+| CMG: Báo cáo tình hình sử dụng vốn cổ phiếu                                                                 | 2026-02-27T13:42:25     | /2026/02/cmg-bao-cao-tinh-hinh-su-dung-von-co-phieu-737-1406214.htm                                                       |
+| CMG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 27                                               | 2026-02-26T14:14:35     | /2026/02/cmg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-27-737-1405804.htm                                     |
+| CMC Group “làm mới” kế hoạch lập công ty đầu tư công nghệ sau gần 3 năm                                     | 2026-02-11T10:55:55.71  | /2026/02/cmc-group-lam-moi-ke-hoach-lap-cong-ty-dau-tu-cong-nghe-sau-gan-3-nam-737-1402718.htm                            |
+| CMG: Nghị quyết HĐQT về việc điều chỉnh phương án thành lập Công ty TNHH CMC Investment                     | 2026-02-10T17:24:32     | /2026/02/cmg-nghi-quyet-hdqt-ve-viec-dieu-chinh-phuong-an-thanh-lap-cong-ty-tnhh-cmc-investment-737-1402586.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,6 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 20/04/2026 22:12  |  🗂 Quarterly: —
+> 📅 Daily: 20/04/2026 22:58  |  🗂 Quarterly: —
 
 ---
 
@@ -327,7 +327,30 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FPT |
+| exchange | HOSE |
+| market_cap | 130999697604900 |
+| 52w_high | 110945 |
+| 52w_high_date | 2025-07-22 |
+| 52w_low | 73100 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 32.4011 |
+| dividend | 2000 |
+| beta | 0.83 |
+| eps | 6017 |
+| eps_forward | 11.13306799521278 |
+| bvps | 25682 |
+| pe | 12.63 |
+| pb | 2.96 |
+| price_chg_1m | 3.08 |
+| price_chg_ytd | -19.27 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.02600780234070221 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -348,13 +371,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | FPT |
+| pe | 12.63 |
+| pb | 2.96 |
+| roe | 28.25 |
+| roe_pct_rank | 86 |
+| roa | 11.71 |
+| roa_pct_rank | 74 |
+| eps | 6017 |
+| bvps | 25682 |
+| beta | 0.83 |
+| dividend | 2000 |
+| yield | 0.02600780234070221 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publish_time        | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| FPT: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH MTV Đầu tư SCIC | 2026-04-14T18:07:25 | /2026/04/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-tnhh-mtv-dau-tu-scic-737-142… |
+| title                                                                                                    | publishtime            | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| FPT: Quy chế nội bộ về quản trị công ty sửa đổi                                                          | 2026-04-20T13:43:43    | /2026/04/fpt-quy-che-noi-bo-ve-quan-tri-cong-ty-sua-doi-143-1430164.htm                                                   |
+| FPT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T13:43:06    | /2026/04/fpt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430163.htm                                            |
+| FPT: Thông báo thay đổi nhân sự                                                                          | 2026-04-20T10:17:06    | /2026/04/fpt-thong-bao-thay-doi-nhan-su-214-1430010.htm                                                                   |
+| FPT: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                      | 2026-04-20T10:16:28    | /2026/04/fpt-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1429994.htm                                               |
+| FPT: Quy chế hoạt động của HĐQT sửa đổi                                                                  | 2026-04-20T10:16:23    | /2026/04/fpt-quy-che-hoat-dong-cua-hdqt-sua-doi-143-1430009.htm                                                           |
+| Số hóa ĐHĐCĐ: Từ giải pháp tình thế đến chiến lược quản trị toàn diện                                    | 2026-04-20T08:02:00    | /2026/04/so-hoa-dhdcd-tu-giai-phap-tinh-the-den-chien-luoc-quan-tri-toan-dien-737-1429714.htm                             |
+| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động                 | 2026-04-17T17:12:00    | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm             |
+| Ông Trương Gia Bình: AI là cuộc chơi không thể đảo ngược, đặt mục tiêu làm chủ công nghệ lõi             | 2026-04-16T17:24:00    | /2026/04/ong-truong-gia-binh-ai-la-cuoc-choi-khong-the-dao-nguoc-dat-muc-tieu-lam-chu-cong-nghe-loi-737-1428608.htm       |
+| FPT triển khai giải pháp số cho Tập đoàn Điện lực Chugoku                                                | 2026-04-15T18:22:54.65 | /2026/04/fpt-trien-khai-giai-phap-so-cho-tap-doan-dien-luc-chugoku-4264-1428196.htm                                       |
+| FPT: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH MTV Đầu tư SCIC | 2026-04-14T18:07:25    | /2026/04/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-tnhh-mtv-dau-tu-scic-737-142… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

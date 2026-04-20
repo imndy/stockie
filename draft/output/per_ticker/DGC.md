@@ -1,13 +1,36 @@
 # DGC — DGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 20/04/2026 22:57  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DGC |
+| exchange | HOSE |
+| market_cap | 20166233730300 |
+| 52w_high | 103379 |
+| 52w_high_date | 2025-08-12 |
+| 52w_low | 49100 |
+| 52w_low_date | 2026-03-30 |
+| foreign_ownership | 6.6338 |
+| dividend | 3000 |
+| beta | 0.6 |
+| eps | 7995 |
+| eps_forward | 6.8993280434265225 |
+| bvps | 40566 |
+| pe | 6.82 |
+| pb | 1.34 |
+| price_chg_1m | -4.32 |
+| price_chg_ytd | -37.38 |
+| price_chg_1m_rank | 12.70 |
+| price_chg_ytd_rank | 50.54 |
+| yield | 0.05649717514124294 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
 
@@ -28,13 +51,39 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | DGC |
+| pe | 6.82 |
+| pb | 1.34 |
+| roe | 21.91 |
+| roe_pct_rank | 72 |
+| roa | 17.1 |
+| roa_pct_rank | 93 |
+| eps | 7995 |
+| bvps | 40566 |
+| beta | 0.6 |
+| dividend | 3000 |
+| yield | 0.05649717514124294 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 55 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                        | publish_time        | url                                                                                                  |
-|:-----------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------|
-| Thành viên DGC bị phạt và truy thu thuế hơn 1 tỷ đồng, dời ĐHĐCĐ thường niên | 2026-04-06T14:02:00 | /2026/04/thanh-vien-dgc-bi-phat-va-truy-thu-thue-hon-1-ty-dong-doi-dhdcd-thuong-nien-737-1423317.htm |
+| title                                                                                   | publishtime             | url                                                                                                           |
+|:----------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------|
+| DGC ấn định nội dung đại hội bất thường, chọn lại đơn vị kiểm toán                      | 2026-04-18T12:44:20.977 | /2026/04/dgc-an-dinh-noi-dung-dai-hoi-bat-thuong-chon-lai-don-vi-kiem-toan-737-1429746.htm                    |
+| DGC vào diện cảnh báo                                                                   | 2026-04-17T18:03:37.513 | /2026/04/dgc-vao-dien-canh-bao-830-1429428.htm                                                                |
+| DGC: Nghị quyết HĐQT thông qua tài liệu họp ĐHĐCĐ bất thường năm 2026                   | 2026-04-17T17:24:24     | /2026/04/dgc-nghi-quyet-hdqt-thong-qua-tai-lieu-hop-dhdcd-bat-thuong-nam-2026-737-1429496.htm                 |
+| DGC: Thông báo mời họp và tài liệu ĐHĐCĐ bất thường năm 2026                            | 2026-04-17T17:22:15     | /2026/04/dgc-thong-bao-moi-hop-va-tai-lieu-dhdcd-bat-thuong-nam-2026-737-1429486.htm                          |
+| DGC: Quyết định về việc đưa cổ phiếu vào diện cảnh báo                                  | 2026-04-17T14:38:55     | /2026/04/dgc-quyet-dinh-ve-viec-dua-co-phieu-vao-dien-canh-bao-830-1429221.htm                                |
+| DGC: Thông báo về việc đưa cổ phiếu vào diện cảnh báo                                   | 2026-04-17T14:37:37     | /2026/04/dgc-thong-bao-ve-viec-dua-co-phieu-vao-dien-canh-bao-830-1429220.htm                                 |
+| HOSE cắt margin DGC                                                                     | 2026-04-09T15:08:34.13  | /2026/04/hose-cat-margin-dgc-830-1425447.htm                                                                  |
+| HOSE: Thông báo danh sách bổ sung chứng khoán không đủ điều kiện giao dịch ký quỹ - DGC | 2026-04-09T09:06:13     | /2026/04/hose-thong-bao-danh-sach-bo-sung-chung-khoan-khong-du-dieu-kien-giao-dich-ky-quy-dgc-830-1425329.htm |
+| DGC: Báo cáo thường niên năm 2025                                                       | 2026-04-07T16:43:46     | /2026/04/dgc-bao-cao-thuong-nien-nam-2025-737-1424288.htm                                                     |
+| Thành viên DGC bị phạt và truy thu thuế hơn 1 tỷ đồng, dời ĐHĐCĐ thường niên            | 2026-04-06T14:02:00     | /2026/04/thanh-vien-dgc-bi-phat-va-truy-thu-thue-hon-1-ty-dong-doi-dhdcd-thuong-nien-737-1423317.htm          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
