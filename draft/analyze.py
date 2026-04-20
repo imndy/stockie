@@ -182,19 +182,22 @@ def fetch_ratio_summary(stock_vci) -> pd.DataFrame:
     return safe_call(stock_vci.company.ratio_summary)
 
 
-def fetch_news(stock_vci) -> pd.DataFrame:
-    """Top 10 tin tức gần nhất — VCI source (trả về 10 bản ghi)."""
-    return safe_call(stock_vci.company.news)
+def fetch_news(stock_vci, stock_kbs=None) -> pd.DataFrame:
+    """Top 10 tin tức gần nhất — thử VCI trước, fallback KBS."""
+    df = safe_call(stock_vci.company.news)
+    if df.empty and stock_kbs is not None:
+        df = safe_call(stock_kbs.company.news)
+    return df.head(10) if not df.empty else df
 
 
-def fetch_events(stock_vci) -> pd.DataFrame:
+def fetch_events(stock_vci, stock_kbs=None) -> pd.DataFrame:
     """
-    Lịch sự kiện — VCI source.
+    Lịch sự kiện — VCI trước, fallback KBS.
     VCI chỉ có: AIS (niêm yết thêm), DIV (cổ tức), ISS (phát hành).
-    KHÔNG có ĐHCĐ, chốt quyền từ VCI.
-    Hiển thị 15 sự kiện gần nhất (không lọc theo ngày).
     """
     ev = safe_call(stock_vci.company.events)
+    if ev.empty and stock_kbs is not None:
+        ev = safe_call(stock_kbs.company.events)
     if ev.empty:
         return ev
     ev = ev.sort_values("public_date", ascending=False)
@@ -1129,10 +1132,10 @@ def run_pipeline(mode: str) -> None:
         if effective_mode in ("daily", "full"):
             frames["Thống kê giao dịch"]   = fetch_trading_stats(vci)
             frames["Tóm tắt chỉ số"]       = fetch_ratio_summary(vci)
-            frames["Tin tức"]              = fetch_news(vci)
+            frames["Tin tức"]              = fetch_news(vci, kbs)
             frames["Lịch sử giá"]          = fetch_price_history(vci, ticker)
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
-            frames["Sự kiện"]              = fetch_events(vci)
+            frames["Sự kiện"]              = fetch_events(vci, kbs)
             frames["Chỉ báo kỹ thuật"]     = compute_technicals(frames["Lịch sử giá"])
             snapshot_rows.append(_build_snapshot_row(ticker, frames, industry_map))
 

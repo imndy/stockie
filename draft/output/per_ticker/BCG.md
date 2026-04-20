@@ -1,6 +1,6 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 19/04/2026 15:27  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 20/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
@@ -32,7 +32,9 @@ _Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                 | publish_time        | url                                                                                           |
+|:----------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------|
+| BCG: Ông Phạm Minh Tuấn là người ủy quyền thực hiện công bố thông tin | 2026-01-27T14:13:00 | /2026/01/bcg-ong-pham-minh-tuan-la-nguoi-uy-quyen-thuc-hien-cong-bo-thong-tin-214-1395569.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 

@@ -1,5 +1,5 @@
 # 📊 Bluechip Daily Snapshot
-> 🕐 Cập nhật: 2026-04-19 15:40 | Nguồn: auto-generated từ per_ticker/
+> 🕐 Cập nhật: 2026-04-20 22:13 | Nguồn: auto-generated từ per_ticker/
 
 ---
 
@@ -7,8 +7,8 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| VN-Index đóng cửa | 1,817.17 (-2.66, -0.15%) |
-| Nhóm bị xả mạnh nhất (kỹ thuật) | Chứng khoán |
+| VN-Index đóng cửa | 1,837.11 (+19.94, +1.10%) |
+| Nhóm bị xả mạnh nhất (kỹ thuật) | SX Nhựa - Hóa chất |
 | Nhóm được mua nhiều nhất (kỹ thuật) | Ngân hàng |
 
 ---
@@ -17,106 +17,106 @@
 
 | Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | Tín hiệu |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ACB | — | — | Trên | Trên | 51.5 | +0.023 | ✅ TĂNG |
-| ANV | — | — | Trên | Trên | 55.4 | +0.232 | ✅ TĂNG |
-| BMP | — | — | Trên | Trên | 61.3 | +3.451 | ✅ TĂNG |
-| BWE | — | — | Trên | Trên | 54.6 | +0.112 | ✅ TĂNG |
-| CII | — | — | Trên | Trên | 55.5 | +0.106 | ✅ TĂNG |
-| CTR | — | — | Trên | Trên | 54.7 | +0.512 | ✅ TĂNG |
-| DGW | — | — | Trên | Trên | 53.5 | +0.192 | ✅ TĂNG |
-| DSE | — | — | Trên | Trên | 52.3 | +0.056 | ✅ TĂNG |
-| DXS | — | — | Trên | Trên | 53.4 | +0.024 | ✅ TĂNG |
-| GEX | — | — | Trên | Trên | 55.1 | +0.298 | ✅ TĂNG |
-| HAG | — | — | Trên | Trên | 58.9 | +0.097 | ✅ TĂNG |
-| HCM | — | — | Trên | Trên | 75.0 | +0.385 | ✅ TĂNG |
-| HDB | — | — | Trên | Trên | 53.8 | +0.141 | ✅ TĂNG |
-| HHV | — | — | Trên | Trên | 56.8 | +0.072 | ✅ TĂNG |
-| HPG | — | — | Trên | Trên | 56.3 | +0.118 | ✅ TĂNG |
-| HSG | — | — | Trên | Trên | 61.5 | +0.171 | ✅ TĂNG |
-| IMP | — | — | Trên | Trên | 62.2 | +0.025 | ✅ TĂNG |
-| KBC | — | — | Trên | Trên | 64.8 | +0.425 | ✅ TĂNG |
-| LPB | — | — | Trên | Trên | 55.1 | +0.147 | ✅ TĂNG |
-| MBB | — | — | Trên | Trên | 50.7 | +0.077 | ✅ TĂNG |
-| MSB | — | — | Trên | Trên | 67.2 | +0.125 | ✅ TĂNG |
-| MSN | — | — | Trên | Trên | 62.7 | +0.439 | ✅ TĂNG |
-| MWG | — | — | Trên | Trên | 60.5 | +0.756 | ✅ TĂNG |
-| NAB | — | — | Trên | Trên | 58.2 | +0.081 | ✅ TĂNG |
-| NKG | — | — | Trên | Trên | 57.2 | +0.163 | ✅ TĂNG |
-| OCB | — | — | Trên | Trên | 61.3 | +0.064 | ✅ TĂNG |
-| PAN | — | — | Trên | Trên | 55.8 | +0.047 | ✅ TĂNG |
-| PHR | — | — | Trên | Trên | 50.7 | +0.009 | ✅ TĂNG |
-| PNJ | — | — | Trên | Trên | 51.6 | +0.571 | ✅ TĂNG |
-| SCS | — | — | Trên | Trên | 51.0 | +0.070 | ✅ TĂNG |
-| SHB | — | — | Trên | Trên | 53.1 | +0.067 | ✅ TĂNG |
-| SIP | — | — | Trên | Trên | 58.8 | +0.149 | ✅ TĂNG |
-| SJS | — | — | Trên | Trên | 61.7 | +0.483 | ✅ TĂNG |
-| STB | — | — | Trên | Trên | 51.0 | +0.148 | ✅ TĂNG |
-| TCB | — | — | Trên | Trên | 57.1 | +0.361 | ✅ TĂNG |
-| TCH | — | — | Trên | Trên | 56.0 | +0.027 | ✅ TĂNG |
-| TLG | — | — | Trên | Trên | 54.8 | +0.322 | ✅ TĂNG |
-| VHC | — | — | Trên | Trên | 57.2 | +0.380 | ✅ TĂNG |
-| VHM | — | — | Trên | Trên | 69.0 | +2.618 | ✅ TĂNG |
-| VIB | — | — | Trên | Trên | 53.7 | +0.045 | ✅ TĂNG |
-| VIC | — | — | Trên | Trên | 76.0 | +5.812 | ✅ TĂNG |
-| VJC | — | — | Trên | Trên | 65.7 | +2.183 | ✅ TĂNG |
-| VPB | — | — | Trên | Trên | 61.9 | +0.232 | ✅ TĂNG |
-| VPI | — | — | Trên | Trên | 67.8 | +0.315 | ✅ TĂNG |
-| VRE | — | — | Trên | Trên | 57.6 | +0.380 | ✅ TĂNG |
-| CTD | — | — | Trên | Trên | 51.4 | -0.007 | 🔄 TRUNG TÍNH |
-| EVF | — | — | Trên | Trên | 51.7 | -0.028 | 🔄 TRUNG TÍNH |
-| GMD | — | — | Trên | Trên | 50.2 | -0.069 | 🔄 TRUNG TÍNH |
-| VCG | — | — | Trên | Trên | 53.0 | -0.039 | 🔄 TRUNG TÍNH |
-| BCM | — | — | Trên | Dưới | 51.5 | +0.567 | ⚠️ GIẢM |
-| BSI | — | — | Trên | Dưới | 51.8 | +0.151 | ⚠️ GIẢM |
-| CTG | — | — | Trên | Dưới | 50.0 | +0.164 | ⚠️ GIẢM |
-| DCM | — | — | Dưới | Trên | 50.7 | -0.240 | ⚠️ GIẢM |
-| DIG | — | — | Trên | Dưới | 51.0 | +0.088 | ⚠️ GIẢM |
-| DPM | — | — | Dưới | Trên | 49.6 | -0.123 | ⚠️ GIẢM |
-| DXG | — | — | Trên | Dưới | 53.1 | +0.100 | ⚠️ GIẢM |
-| GVR | — | — | Trên | Dưới | 51.3 | +0.332 | ⚠️ GIẢM |
-| PC1 | — | — | Dưới | Trên | 47.5 | -0.072 | ⚠️ GIẢM |
-| POW | — | — | Trên | Dưới | 51.6 | +0.089 | ⚠️ GIẢM |
-| PTB | — | — | Trên | Dưới | 49.9 | +0.275 | ⚠️ GIẢM |
-| SAB | — | — | Trên | Dưới | 51.9 | +0.262 | ⚠️ GIẢM |
-| SSI | — | — | Trên | Dưới | 50.9 | +0.268 | ⚠️ GIẢM |
-| SZC | — | — | Trên | Dưới | 48.6 | +0.220 | ⚠️ GIẢM |
-| VCB | — | — | Trên | Dưới | 48.9 | +0.333 | ⚠️ GIẢM |
-| VCI | — | — | Dưới | Trên | 50.8 | +0.045 | ⚠️ GIẢM |
-| VIX | — | — | Trên | Dưới | 51.5 | +0.165 | ⚠️ GIẢM |
-| VND | — | — | Trên | Dưới | 50.2 | +0.152 | ⚠️ GIẢM |
-| AAA | — | — | Dưới | Dưới | 45.9 | +0.035 | 🔴 RỦI RO CAO |
+| ACB | — | — | Trên | Trên | 54.3 | +0.030 | ✅ TĂNG |
+| ANV | — | — | Trên | Trên | 58.1 | +0.243 | ✅ TĂNG |
+| BMP | — | — | Trên | Trên | 65.6 | +3.681 | ✅ TĂNG |
+| BWE | — | — | Trên | Trên | 58.1 | +0.133 | ✅ TĂNG |
+| CII | — | — | Trên | Trên | 55.5 | +0.060 | ✅ TĂNG |
+| CTD | — | — | Trên | Trên | 60.8 | +0.279 | ✅ TĂNG |
+| CTR | — | — | Trên | Trên | 54.3 | +0.470 | ✅ TĂNG |
+| DGW | — | — | Trên | Trên | 53.7 | +0.202 | ✅ TĂNG |
+| DSE | — | — | Trên | Trên | 53.5 | +0.057 | ✅ TĂNG |
+| DXG | — | — | Trên | Trên | 54.4 | +0.074 | ✅ TĂNG |
+| DXS | — | — | Trên | Trên | 52.9 | +0.001 | ✅ TĂNG |
+| GEX | — | — | Trên | Trên | 61.3 | +0.294 | ✅ TĂNG |
+| HAG | — | — | Trên | Trên | 54.1 | +0.067 | ✅ TĂNG |
+| HCM | — | — | Trên | Trên | 78.6 | +0.400 | ✅ TĂNG |
+| HDB | — | — | Trên | Trên | 60.8 | +0.170 | ✅ TĂNG |
+| HHV | — | — | Trên | Trên | 57.7 | +0.058 | ✅ TĂNG |
+| HPG | — | — | Trên | Trên | 60.0 | +0.121 | ✅ TĂNG |
+| HSG | — | — | Trên | Trên | 63.8 | +0.162 | ✅ TĂNG |
+| IMP | — | — | Trên | Trên | 58.8 | +0.016 | ✅ TĂNG |
+| KBC | — | — | Trên | Trên | 64.3 | +0.398 | ✅ TĂNG |
+| LPB | — | — | Trên | Trên | 55.1 | +0.003 | ✅ TĂNG |
+| MSB | — | — | Trên | Trên | 61.0 | +0.092 | ✅ TĂNG |
+| MSN | — | — | Trên | Trên | 63.6 | +0.469 | ✅ TĂNG |
+| MWG | — | — | Trên | Trên | 61.1 | +0.972 | ✅ TĂNG |
+| NAB | — | — | Trên | Trên | 58.2 | +0.070 | ✅ TĂNG |
+| NKG | — | — | Trên | Trên | 57.8 | +0.147 | ✅ TĂNG |
+| OCB | — | — | Trên | Trên | 61.3 | +0.065 | ✅ TĂNG |
+| PAN | — | — | Trên | Trên | 58.1 | +0.075 | ✅ TĂNG |
+| PNJ | — | — | Trên | Trên | 57.7 | +0.892 | ✅ TĂNG |
+| PTB | — | — | Trên | Trên | 54.2 | +0.310 | ✅ TĂNG |
+| SCS | — | — | Trên | Trên | 51.8 | +0.059 | ✅ TĂNG |
+| SHB | — | — | Trên | Trên | 53.1 | +0.055 | ✅ TĂNG |
+| SIP | — | — | Trên | Trên | 55.8 | +0.101 | ✅ TĂNG |
+| SJS | — | — | Trên | Trên | 63.0 | +0.435 | ✅ TĂNG |
+| STB | — | — | Trên | Trên | 51.8 | +0.080 | ✅ TĂNG |
+| TCB | — | — | Trên | Trên | 59.3 | +0.363 | ✅ TĂNG |
+| TCH | — | — | Trên | Trên | 56.0 | +0.003 | ✅ TĂNG |
+| TLG | — | — | Trên | Trên | 53.7 | +0.255 | ✅ TĂNG |
+| VCI | — | — | Trên | Trên | 51.5 | +0.014 | ✅ TĂNG |
+| VHC | — | — | Trên | Trên | 62.4 | +0.429 | ✅ TĂNG |
+| VHM | — | — | Trên | Trên | 74.0 | +2.800 | ✅ TĂNG |
+| VIB | — | — | Trên | Trên | 55.9 | +0.046 | ✅ TĂNG |
+| VIC | — | — | Trên | Trên | 77.1 | +5.854 | ✅ TĂNG |
+| VJC | — | — | Trên | Trên | 61.5 | +1.901 | ✅ TĂNG |
+| VPB | — | — | Trên | Trên | 59.9 | +0.226 | ✅ TĂNG |
+| VPI | — | — | Trên | Trên | 63.2 | +0.375 | ✅ TĂNG |
+| VRE | — | — | Trên | Trên | 61.6 | +0.379 | ✅ TĂNG |
+| EVF | — | — | Trên | Trên | 52.5 | -0.028 | 🔄 TRUNG TÍNH |
+| PHR | — | — | Trên | Trên | 51.1 | -0.001 | 🔄 TRUNG TÍNH |
+| VCG | — | — | Trên | Trên | 52.5 | -0.054 | 🔄 TRUNG TÍNH |
+| BCM | — | — | Trên | Dưới | 57.9 | +0.646 | ⚠️ GIẢM |
+| BID | — | — | Trên | Dưới | 47.5 | +0.303 | ⚠️ GIẢM |
+| CTG | — | — | Trên | Dưới | 52.0 | +0.165 | ⚠️ GIẢM |
+| DCM | — | — | Dưới | Trên | 49.4 | -0.231 | ⚠️ GIẢM |
+| DIG | — | — | Trên | Dưới | 51.0 | +0.063 | ⚠️ GIẢM |
+| DPM | — | — | Dưới | Trên | 47.9 | -0.111 | ⚠️ GIẢM |
+| EIB | — | — | Dưới | Trên | 49.8 | -0.047 | ⚠️ GIẢM |
+| FPT | — | — | Trên | Dưới | 47.7 | +0.651 | ⚠️ GIẢM |
+| GMD | — | — | Dưới | Trên | 49.2 | -0.027 | ⚠️ GIẢM |
+| GVR | — | — | Trên | Dưới | 49.4 | +0.311 | ⚠️ GIẢM |
+| HDC | — | — | Trên | Dưới | 49.6 | +0.084 | ⚠️ GIẢM |
+| HDG | — | — | Dưới | Trên | 49.9 | -0.140 | ⚠️ GIẢM |
+| PC1 | — | — | Dưới | Trên | 47.2 | -0.092 | ⚠️ GIẢM |
+| POW | — | — | Trên | Dưới | 49.6 | +0.081 | ⚠️ GIẢM |
+| REE | — | — | Dưới | Trên | 49.6 | -0.387 | ⚠️ GIẢM |
+| SAB | — | — | Trên | Dưới | 51.9 | +0.224 | ⚠️ GIẢM |
+| SSI | — | — | Trên | Dưới | 53.7 | +0.258 | ⚠️ GIẢM |
+| TPB | — | — | Trên | Dưới | 51.8 | +0.064 | ⚠️ GIẢM |
+| VCB | — | — | Trên | Dưới | 52.2 | +0.343 | ⚠️ GIẢM |
+| VGC | — | — | Trên | Dưới | 50.7 | +0.184 | ⚠️ GIẢM |
+| VIX | — | — | Trên | Dưới | 50.5 | +0.111 | ⚠️ GIẢM |
+| VND | — | — | Trên | Dưới | 52.0 | +0.137 | ⚠️ GIẢM |
+| AAA | — | — | Dưới | Dưới | 46.5 | +0.032 | 🔴 RỦI RO CAO |
 | BCG | — | — | Dưới | Dưới | 19.3 | -0.089 | 🔴 RỦI RO CAO |
-| BID | — | — | Dưới | Dưới | 45.8 | +0.310 | 🔴 RỦI RO CAO |
-| BSR | — | — | Dưới | Dưới | 47.7 | +0.033 | 🔴 RỦI RO CAO |
-| BVH | — | — | Dưới | Dưới | 39.9 | -1.245 | 🔴 RỦI RO CAO |
-| CMG | — | — | Dưới | Dưới | 42.9 | +0.181 | 🔴 RỦI RO CAO |
-| CTS | — | — | Dưới | Dưới | 45.5 | +0.133 | 🔴 RỦI RO CAO |
-| DBC | — | — | Dưới | Dưới | 47.4 | +0.179 | 🔴 RỦI RO CAO |
-| DGC | — | — | Dưới | Dưới | 43.6 | +0.799 | 🔴 RỦI RO CAO |
-| EIB | — | — | Dưới | Dưới | 48.2 | -0.046 | 🔴 RỦI RO CAO |
-| FPT | — | — | Dưới | Dưới | 45.2 | +0.599 | 🔴 RỦI RO CAO |
-| FRT | — | — | Dưới | Dưới | 47.9 | +0.064 | 🔴 RỦI RO CAO |
-| FTS | — | — | Dưới | Dưới | 48.0 | +0.203 | 🔴 RỦI RO CAO |
-| GAS | — | — | Dưới | Dưới | 42.3 | +0.952 | 🔴 RỦI RO CAO |
-| HDC | — | — | Dưới | Dưới | 47.7 | +0.103 | 🔴 RỦI RO CAO |
-| HDG | — | — | Dưới | Dưới | 47.0 | -0.171 | 🔴 RỦI RO CAO |
-| HT1 | — | — | Dưới | Dưới | 46.3 | +0.057 | 🔴 RỦI RO CAO |
-| KDC | — | — | Dưới | Dưới | 37.5 | -0.007 | 🔴 RỦI RO CAO |
-| KDH | — | — | Dưới | Dưới | 49.3 | +0.117 | 🔴 RỦI RO CAO |
-| NLG | — | — | Dưới | Dưới | 50.1 | -0.029 | 🔴 RỦI RO CAO |
-| NT2 | — | — | Dưới | Dưới | 46.4 | -0.029 | 🔴 RỦI RO CAO |
-| PDR | — | — | Dưới | Dưới | 50.0 | +0.059 | 🔴 RỦI RO CAO |
-| PLX | — | — | Dưới | Dưới | 40.5 | +0.480 | 🔴 RỦI RO CAO |
-| PPC | — | — | Dưới | Dưới | 43.2 | -0.041 | 🔴 RỦI RO CAO |
-| PVD | — | — | Dưới | Dưới | 44.7 | -0.027 | 🔴 RỦI RO CAO |
-| PVT | — | — | Dưới | Dưới | 46.8 | +0.037 | 🔴 RỦI RO CAO |
-| REE | — | — | Dưới | Dưới | 46.1 | -0.455 | 🔴 RỦI RO CAO |
-| SBT | — | — | Dưới | Dưới | 43.1 | +0.054 | 🔴 RỦI RO CAO |
-| SSB | — | — | Dưới | Dưới | 48.3 | -0.010 | 🔴 RỦI RO CAO |
-| TPB | — | — | Dưới | Dưới | 49.1 | +0.065 | 🔴 RỦI RO CAO |
-| VGC | — | — | Dưới | Dưới | 49.5 | +0.211 | 🔴 RỦI RO CAO |
-| VNM | — | — | Dưới | Dưới | 46.1 | +0.202 | 🔴 RỦI RO CAO |
-| VTP | — | — | Dưới | Dưới | 49.2 | +0.210 | 🔴 RỦI RO CAO |
+| BSI | — | — | Dưới | Dưới | 48.6 | +0.082 | 🔴 RỦI RO CAO |
+| BSR | — | — | Dưới | Dưới | 45.6 | +0.049 | 🔴 RỦI RO CAO |
+| BVH | — | — | Dưới | Dưới | 39.5 | -1.224 | 🔴 RỦI RO CAO |
+| CMG | — | — | Dưới | Dưới | 45.1 | +0.181 | 🔴 RỦI RO CAO |
+| CTS | — | — | Dưới | Dưới | 47.7 | +0.114 | 🔴 RỦI RO CAO |
+| DBC | — | — | Dưới | Dưới | 46.9 | +0.154 | 🔴 RỦI RO CAO |
+| DGC | — | — | Dưới | Dưới | 41.1 | +0.681 | 🔴 RỦI RO CAO |
+| FRT | — | — | Dưới | Dưới | 45.9 | +0.080 | 🔴 RỦI RO CAO |
+| FTS | — | — | Dưới | Dưới | 47.6 | +0.164 | 🔴 RỦI RO CAO |
+| GAS | — | — | Dưới | Dưới | 41.0 | +0.945 | 🔴 RỦI RO CAO |
+| HT1 | — | — | Dưới | Dưới | 46.3 | +0.046 | 🔴 RỦI RO CAO |
+| KDC | — | — | Dưới | Dưới | 38.8 | -0.003 | 🔴 RỦI RO CAO |
+| KDH | — | — | Dưới | Dưới | 48.8 | +0.091 | 🔴 RỦI RO CAO |
+| MBB | — | — | Dưới | Dưới | 49.6 | +0.060 | 🔴 RỦI RO CAO |
+| NLG | — | — | Dưới | Dưới | 50.1 | -0.054 | 🔴 RỦI RO CAO |
+| NT2 | — | — | Dưới | Dưới | 49.1 | -0.010 | 🔴 RỦI RO CAO |
+| PDR | — | — | Dưới | Dưới | 50.0 | +0.035 | 🔴 RỦI RO CAO |
+| PLX | — | — | Dưới | Dưới | 39.3 | +0.474 | 🔴 RỦI RO CAO |
+| PPC | — | — | Dưới | Dưới | 43.2 | -0.037 | 🔴 RỦI RO CAO |
+| PVD | — | — | Dưới | Dưới | 42.8 | -0.016 | 🔴 RỦI RO CAO |
+| PVT | — | — | Dưới | Dưới | 45.6 | +0.040 | 🔴 RỦI RO CAO |
+| SBT | — | — | Dưới | Dưới | 42.0 | +0.050 | 🔴 RỦI RO CAO |
+| SSB | — | — | Dưới | Dưới | 48.3 | -0.012 | 🔴 RỦI RO CAO |
+| SZC | — | — | Dưới | Dưới | 47.8 | +0.205 | 🔴 RỦI RO CAO |
+| VNM | — | — | Dưới | Dưới | 47.1 | +0.184 | 🔴 RỦI RO CAO |
+| VTP | — | — | Dưới | Dưới | 48.7 | +0.127 | 🔴 RỦI RO CAO |
 
 **Legend:**
 - Tín hiệu: ✅ TĂNG | ⚠️ GIẢM | 🔄 TRUNG TÍNH | 🔴 RỦI RO CAO
@@ -248,10 +248,10 @@ _Không có sự kiện trong khoảng thời gian này (dữ liệu VCI: AIS/DI
 > Mã trong danh sách: **BID, CTG, HPG, VHM, VIC, VRE**
 
 ### Tín hiệu hôm nay
-- ✅ TĂNG (45): ACB, ANV, BMP, BWE, CII, CTR, DGW, DSE, DXS, GEX, HAG, HCM, HDB, HHV, HPG, HSG, IMP, KBC, LPB, MBB, MSB, MSN, MWG, NAB, NKG, OCB, PAN, PHR, PNJ, SCS, SHB, SIP, SJS, STB, TCB, TCH, TLG, VHC, VHM, VIB, VIC, VJC, VPB, VPI, VRE
-- 🔄 TRUNG TÍNH (4): CTD, EVF, GMD, VCG
-- ⚠️ GIẢM (18): BCM, BSI, CTG, DCM, DIG, DPM, DXG, GVR, PC1, POW, PTB, SAB, SSI, SZC, VCB, VCI, VIX, VND
-- 🔴 RỦI RO CAO (33): AAA, BCG, BID, BSR, BVH, CMG, CTS, DBC, DGC, EIB, FPT, FRT, FTS, GAS, HDC, HDG, HT1, KDC, KDH, NLG, NT2, PDR, PLX, PPC, PVD, PVT, REE, SBT, SSB, TPB, VGC, VNM, VTP
+- ✅ TĂNG (47): ACB, ANV, BMP, BWE, CII, CTD, CTR, DGW, DSE, DXG, DXS, GEX, HAG, HCM, HDB, HHV, HPG, HSG, IMP, KBC, LPB, MSB, MSN, MWG, NAB, NKG, OCB, PAN, PNJ, PTB, SCS, SHB, SIP, SJS, STB, TCB, TCH, TLG, VCI, VHC, VHM, VIB, VIC, VJC, VPB, VPI, VRE
+- 🔄 TRUNG TÍNH (3): EVF, PHR, VCG
+- ⚠️ GIẢM (22): BCM, BID, CTG, DCM, DIG, DPM, EIB, FPT, GMD, GVR, HDC, HDG, PC1, POW, REE, SAB, SSI, TPB, VCB, VGC, VIX, VND
+- 🔴 RỦI RO CAO (28): AAA, BCG, BSI, BSR, BVH, CMG, CTS, DBC, DGC, FRT, FTS, GAS, HT1, KDC, KDH, MBB, NLG, NT2, PDR, PLX, PPC, PVD, PVT, SBT, SSB, SZC, VNM, VTP
 
 ---
 
