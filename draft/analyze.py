@@ -184,9 +184,67 @@ def safe_call(func, *args, max_retries: int = 2, **kwargs) -> pd.DataFrame:
 
 
 # ── KBS stockinfo/info fallback ────────────────────────────────────────────
-_KBS_INFO_URL = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/info/{symbol}?l=1"
-_KBS_NEWS_URL = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/news/{symbol}?l=1"
-_KBS_HEADERS  = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+_KBS_INFO_URL         = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/info/{symbol}?l=1"
+_KBS_NEWS_URL         = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/stockinfo/news/{symbol}?l=1"
+_KBS_SECTOR_ALL_URL   = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/sector/all"
+_KBS_SECTOR_STOCK_URL = "https://kbbuddywts.kbsec.com.vn/iis-server/investment/sector/stock"
+_KBS_HEADERS          = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+
+
+def _build_sector_rs_cache() -> dict:
+    """
+    Gọi KBS sector API một lần — trả về dict {TICKER: {sector_name, sector_code,
+    sector_change, ticker_change, rs_day}} cho toàn bộ mã trong 25 ngành.
+    25 lần gọi HTTP, không dùng _throttle() (API khác vnstock).
+    """
+    result: dict = {}
+    try:
+        r = requests.get(_KBS_SECTOR_ALL_URL, headers=_KBS_HEADERS, timeout=10)
+        if r.status_code != 200:
+            print(f"  [WARN] sector/all HTTP {r.status_code}")
+            return result
+        sectors = r.json()
+        for s in sectors:
+            code = s.get("code")
+            if code is None:
+                continue
+            try:
+                r2 = requests.get(
+                    _KBS_SECTOR_STOCK_URL,
+                    params={"code": code},
+                    headers=_KBS_HEADERS,
+                    timeout=10,
+                )
+                if r2.status_code != 200:
+                    continue
+                for st in r2.json().get("stocks", []):
+                    sym = (st.get("sb") or "").strip().upper()
+                    if not sym:
+                        continue
+                    ch_str = st.get("ch", "")
+                    try:
+                        t_ch = float(ch_str) if ch_str not in ("", None) else None
+                    except (ValueError, TypeError):
+                        t_ch = None
+                    s_ch = s.get("change")
+                    try:
+                        s_ch = float(s_ch)
+                    except (TypeError, ValueError):
+                        s_ch = None
+                    rs = round(t_ch - s_ch, 2) if (t_ch is not None and s_ch is not None) else None
+                    result[sym] = {
+                        "sector_name":   s.get("name", "—"),
+                        "sector_code":   code,
+                        "sector_change": round(s_ch, 2) if s_ch is not None else None,
+                        "ticker_change": round(t_ch, 2) if t_ch is not None else None,
+                        "rs_day":        rs,
+                    }
+            except Exception as exc:
+                print(f"  [WARN] sector/stock code={code}: {exc}".encode('ascii', 'replace').decode())
+    except Exception as exc:
+        print(f"  [WARN] _build_sector_rs_cache: {exc}".encode('ascii', 'replace').decode())
+    print(f"  [INFO] Sector RS cache: {len(result)} tickers from {len(sectors) if 'sectors' in dir() else '?'} sectors.")
+    return result
 
 def _fetch_kbs_info(ticker: str) -> dict:
     """Gọi KBS stockinfo/info/{ticker} — trả dict thô hoặc {} nếu lỗi."""
@@ -870,6 +928,42 @@ def _build_daily_block(frames: dict, ticker: str = "") -> str:
             "",
         ]
 
+    # ── RS vs Ngành ───────────────────────────────────────────────────────
+    rs_info = frames.get("RS Ngành", {})
+    if rs_info:
+        s_name = rs_info.get("sector_name", "—")
+        s_ch   = rs_info.get("sector_change")
+        t_ch   = rs_info.get("ticker_change")
+        rs_val = rs_info.get("rs_day")
+        if rs_val is not None:
+            if rs_val > 0:
+                comment = "CP **mạnh hơn** ngành"
+            elif rs_val < 0:
+                comment = "CP **yếu hơn** ngành"
+            else:
+                comment = "CP ngang với ngành"
+        else:
+            comment = "—"
+        rs_section_lines = [
+            "## RS vs Ngành",
+            "",
+            "| Chỉ tiêu | Giá trị |",
+            "| --- | --- |",
+            f"| Ngành (KBS) | {s_name} |",
+            f"| % Ngành hôm nay | {f'{s_ch:+.2f}%' if s_ch is not None else '—'} |",
+            f"| % Cổ phiếu hôm nay | {f'{t_ch:+.2f}%' if t_ch is not None else '—'} |",
+            f"| RS (CP − Ngành) | {f'{rs_val:+.2f}%' if rs_val is not None else '—'} |",
+            f"| Nhận xét | {comment} |",
+            "",
+        ]
+    else:
+        rs_section_lines = [
+            "## RS vs Ngành",
+            "",
+            "> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.",
+            "",
+        ]
+
     lines = [
         "## Thống kê giao dịch",
         "",
@@ -896,11 +990,7 @@ def _build_daily_block(frames: dict, ticker: str = "") -> str:
         "",
         _df_to_md(events, max_rows=15),
         "",
-        "## RS vs Ngành",
-        "",
-        "> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.",
-        "> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).",
-        "",
+        *rs_section_lines,
         "## Lịch sử giá (90 phiên gần nhất)",
         "",
         _df_to_md(hist.tail(90) if not hist.empty else hist, max_rows=90),
@@ -1514,6 +1604,12 @@ def run_pipeline(
         print("Đang lấy VN-Index...")
         vnindex_data = fetch_vnindex(vs)
 
+    # ── Sector RS cache (25 HTTP calls, một lần cho toàn pipeline) ───────
+    sector_rs_cache: dict = {}
+    if mode in ("daily", "full"):
+        print("Building Sector RS cache from KBS...")
+        sector_rs_cache = _build_sector_rs_cache()
+
     # ── Per-ticker ──
     for i, ticker in enumerate(tickers):
         # ── New-ticker detection: if no .md exists, force full for this ticker ──
@@ -1546,6 +1642,7 @@ def run_pipeline(
             frames["Sự kiện"]              = fetch_events(vci, kbs)
             frames["Chỉ báo kỹ thuật"]        = compute_technicals(frames["Lịch sử giá"])
             frames["Vùng hỗ trợ / kháng cự"]  = compute_support_resist(frames["Lịch sử giá"])
+            frames["RS Ngành"]                 = sector_rs_cache.get(ticker.upper(), {})
             snapshot_rows.append(_build_snapshot_row(ticker, frames, industry_map))
 
             all_sheets[f"{ticker}_TradingStats"] = frames["Thống kê giao dịch"]
