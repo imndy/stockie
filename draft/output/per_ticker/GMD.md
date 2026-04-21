@@ -1,133 +1,46 @@
 # GMD — GMD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | GMD |
-| exchange | HOSE |
-| market_cap | 31560638066000 |
-| 52w_high | 84400 |
-| 52w_high_date | 2026-02-27 |
-| 52w_low | 45293 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 41.9826 |
-| dividend | 2000 |
-| beta | 0.77 |
-| eps | 3934 |
-| eps_forward | 15.822953518474684 |
-| bvps | 34842 |
-| pe | 18.86 |
-| pb | 2.13 |
-| price_chg_1m | -4.15 |
-| price_chg_ytd | 60.30 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.02702702702702703 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 74.0 |
-| EMA20 | 74.39 |
-| EMA50 | 73.64 |
-| RSI(14) | 48.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | -0.346 |
-| MACD Signal | -0.337 |
-| MACD Histogram | -0.009 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | GMD |
-| pe | 18.86 |
-| pb | 2.13 |
-| roe | 15.54 |
-| roe_pct_rank | 59 |
-| roa | 8.88 |
-| roa_pct_rank | 64 |
-| eps | 3934 |
-| bvps | 34842 |
-| beta | 0.77 |
-| dividend | 2000 |
-| yield | 0.02702702702702703 |
-| pe_pct_rank | 63 |
-| pb_pct_rank | 77 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                            | publishtime         | url                                                                                                                      |
-|:-------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                              | 2026-04-20T15:02:00 | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                               |
-| GMD: Báo cáo phát triển bền vững năm 2025                                                        | 2026-04-20T13:43:01 | /2026/04/gmd-bao-cao-phat-trien-ben-vung-nam-2025-830-1430162.htm                                                        |
-| GMD: Báo cáo thường niên năm 2025                                                                | 2026-04-20T13:42:29 | /2026/04/gmd-bao-cao-thuong-nien-nam-2025-737-1430161.htm                                                                |
-| GMD động thổ Gemalink giai đoạn 2: Củng cố vị thế cảng nước sâu số 1 Việt Nam                    | 2026-04-17T14:52:00 | /2026/04/gmd-dong-tho-gemalink-giai-doan-2-cung-co-vi-the-cang-nuoc-sau-so-1-viet-nam-737-1429145.htm                    |
-| GMD: Nghị quyết HĐQT về việc chuyển nhượng cổ phần tại FCC                                       | 2026-04-16T16:57:05 | /2026/04/gmd-nghi-quyet-hdqt-ve-viec-chuyen-nhuong-co-phan-tai-fcc-737-1428676.htm                                       |
-| GMD: Nghị quyết HĐQT về việc thông qua chương trình và các tài liệu trình ĐHĐCĐ thường niên 2026 | 2026-04-16T13:25:32 | /2026/04/gmd-nghi-quyet-hdqt-ve-viec-thong-qua-chuong-trinh-va-cac-tai-lieu-trinh-dhdcd-thuong-nien-2026-737-1428473.htm |
-| GMD: CBTT nội dung Nghị quyết HĐQT số 057 về việc chuyển nhượng cổ phần                          | 2026-04-07T11:10:03 | /2026/04/gmd-cbtt-noi-dung-nghi-quyet-hdqt-so-057-ve-viec-chuyen-nhuong-co-phan-737-1423950.htm                          |
-| GMD: Gemadept và CJ Logistics tối ưu hóa Chiến lược hợp tác giữa hai doanh nghiệp                | 2026-03-31T18:11:37 | /2026/03/gmd-gemadept-va-cj-logistics-toi-uu-hoa-chien-luoc-hop-tac-giua-hai-doanh-nghiep-830-1420018.htm                |
-| Gemadept và CJ Logistics hợp tác để tối ưu hóa chuỗi cung ứng                                    | 2026-03-31T09:54:00 | /2026/03/gemadept-va-cj-logistics-hop-tac-de-toi-uu-hoa-chuoi-cung-ung-737-1419195.htm                                   |
-| GMD: BCTC Hợp nhất năm 2025                                                                      | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-hop-nhat-nam-2025-737-1419502.htm                                                                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GMD      | 2026-03-25 00:00:00 |   74.4 |   77.4 |  74.4 |    77.2 |  1417700 |
-| GMD      | 2026-03-26 00:00:00 |   77.3 |   77.8 |  74   |    77.8 |  2235400 |
-| GMD      | 2026-03-27 00:00:00 |   77.8 |   78.8 |  76.6 |    78.5 |  2122600 |
-| GMD      | 2026-03-30 00:00:00 |   77.3 |   79.8 |  76.7 |    78.5 |  1378300 |
-| GMD      | 2026-03-31 00:00:00 |   78.8 |   80.8 |  77.9 |    79.5 |  1966400 |
-| GMD      | 2026-04-01 00:00:00 |   80.9 |   80.9 |  76.7 |    77.4 |  2333600 |
-| GMD      | 2026-04-02 00:00:00 |   76.1 |   76.8 |  72   |    74   |  4951700 |
-| GMD      | 2026-04-03 00:00:00 |   74   |   74   |  69.9 |    70.7 |  3641400 |
-| GMD      | 2026-04-06 00:00:00 |   70.9 |   71.9 |  70.4 |    71.2 |  1230800 |
-| GMD      | 2026-04-07 00:00:00 |   71.5 |   72.5 |  70.2 |    71.9 |  1308700 |
-| GMD      | 2026-04-08 00:00:00 |   73.3 |   75.1 |  72.7 |    74.5 |  2957300 |
-| GMD      | 2026-04-09 00:00:00 |   74.3 |   74.4 |  73.2 |    73.6 |   691100 |
-| GMD      | 2026-04-10 00:00:00 |   73.7 |   74.3 |  72.6 |    72.6 |   854000 |
-| GMD      | 2026-04-13 00:00:00 |   71.5 |   73.8 |  71   |    73.3 |  1237600 |
-| GMD      | 2026-04-14 00:00:00 |   73.4 |   75.4 |  73.4 |    74.4 |  1978000 |
-| GMD      | 2026-04-15 00:00:00 |   75   |   75.2 |  73.8 |    74.3 |  1076100 |
-| GMD      | 2026-04-16 00:00:00 |   74.2 |   75.1 |  73.5 |    73.6 |  1374800 |
-| GMD      | 2026-04-17 00:00:00 |   74.6 |   76   |  74.2 |    74.6 |  1521300 |
-| GMD      | 2026-04-20 00:00:00 |   75   |   75.7 |  74   |    74.2 |   692900 |
-| GMD      | 2026-04-21 00:00:00 |   74.8 |   75.3 |  73.9 |    74   |   769900 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408715 |
-| GMD      | 2026-04-21 14:09:07 |    74.1 |      300 | Sell         | 466408719 |
-| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408716 |
-| GMD      | 2026-04-21 14:09:07 |    74.1 |     5000 | Sell         | 466408717 |
-| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408718 |
-| GMD      | 2026-04-21 14:10:01 |    74.1 |     1000 | Sell         | 466411514 |
-| GMD      | 2026-04-21 14:10:01 |    74.1 |      700 | Sell         | 466411509 |
-| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411510 |
-| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411513 |
-| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411512 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

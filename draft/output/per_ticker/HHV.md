@@ -1,133 +1,46 @@
 # HHV — HHV
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HHV |
-| exchange | HOSE |
-| market_cap | 6894295329600 |
-| 52w_high | 16378 |
-| 52w_high_date | 2025-09-29 |
-| 52w_low | 10895 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 10.4534 |
-| dividend | 0 |
-| beta | 0.75 |
-| eps | 1262 |
-| eps_forward | 11.414809708407567 |
-| bvps | 16092 |
-| pe | 10.10 |
-| pb | 0.79 |
-| price_chg_1m | 5.00 |
-| price_chg_ytd | 13.71 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 12.6 |
-| EMA20 | 12.47 |
-| EMA50 | 12.39 |
-| RSI(14) | 54.2 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.184 |
-| MACD Signal | 0.149 |
-| MACD Histogram | 0.035 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HHV |
-| pe | 10.10 |
-| pb | 0.79 |
-| roe | 9.09 |
-| roe_pct_rank | 45 |
-| roa | 1.48 |
-| roa_pct_rank | 34 |
-| eps | 1262 |
-| bvps | 16092 |
-| beta | 0.75 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 33 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                         | publishtime             | url                                                                                                   |
-|:------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------|
-| HHV: Báo cáo thường niên năm 2025                                             | 2026-04-21T08:51:17     | /2026/04/hhv-bao-cao-thuong-nien-nam-2025-737-1430938.htm                                             |
-| Cổ đông lớn đề cử 2 ứng viên vào Ban Kiểm soát Đèo Cả trước thềm ĐHĐCĐ        | 2026-04-14T11:22:15.84  | /2026/04/co-dong-lon-de-cu-2-ung-vien-vao-ban-kiem-soat-deo-ca-truoc-them-dhdcd-214-1427244.htm       |
-| HHV: Danh sách ứng viên bầu làm Kiểm soát viên nhiệm kỳ 2026-2031             | 2026-04-13T18:02:29     | /2026/04/hhv-danh-sach-ung-vien-bau-lam-kiem-soat-vien-nhiem-ky-20262031-830-1427131.htm              |
-| HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết        | 2026-04-09T17:51:38     | /2026/04/hhv-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1425709.htm        |
-| HHV: Quyết định về việc thay đổi đăng ký niêm yết                             | 2026-04-07T11:04:09     | /2026/04/hhv-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1423945.htm                             |
-| Đèo Cả đặt kế hoạch kinh doanh kỷ lục, muốn tăng vốn lên hơn 6.3 ngàn tỷ      | 2026-04-06T16:58:36.427 | /2026/04/deo-ca-dat-ke-hoach-kinh-doanh-ky-luc-muon-tang-von-len-hon-63-ngan-ty-737-1423376.htm       |
-| HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-06T09:29:27     | /2026/04/hhv-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1423185.htm                                      |
-| HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                            | 2026-04-02T18:35:19     | /2026/04/hhv-thong-bao-don-xin-tu-nhiem-cua-kiem-soat-vien-830-1421899.htm                            |
-| HHV: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                           | 2026-04-01T17:39:21     | /2026/04/hhv-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn-830-1421119.htm                           |
-| HHV: Giải trình biến động LNST năm 2025 đã kiểm toán so với cùng kỳ năm trước | 2026-04-01T09:16:57     | /2026/04/hhv-giai-trinh-bien-dong-lnst-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1420312.htm |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HHV      | 2026-03-25 00:00:00 |  11.7  |  12.2  | 11.7  |   12.1  |  5447500 |
-| HHV      | 2026-03-26 00:00:00 |  12.1  |  12.25 | 11.9  |   12.05 |  5351400 |
-| HHV      | 2026-03-27 00:00:00 |  12.05 |  12.45 | 12    |   12.2  |  7486200 |
-| HHV      | 2026-03-30 00:00:00 |  11.95 |  12.25 | 11.9  |   12.1  |  5342400 |
-| HHV      | 2026-03-31 00:00:00 |  12.25 |  12.45 | 12.1  |   12.3  |  6071100 |
-| HHV      | 2026-04-01 00:00:00 |  12.55 |  12.55 | 12.3  |   12.3  |  6437700 |
-| HHV      | 2026-04-02 00:00:00 |  12.25 |  12.4  | 12.1  |   12.1  |  5221000 |
-| HHV      | 2026-04-03 00:00:00 |  12.1  |  12.25 | 11.8  |   11.85 |  4673200 |
-| HHV      | 2026-04-06 00:00:00 |  12.1  |  12.15 | 11.65 |   11.75 |  5515400 |
-| HHV      | 2026-04-07 00:00:00 |  11.75 |  12    | 11.65 |   11.8  |  2811600 |
-| HHV      | 2026-04-08 00:00:00 |  12.15 |  12.35 | 12    |   12.25 |  7375600 |
-| HHV      | 2026-04-09 00:00:00 |  12.25 |  13.1  | 12.05 |   12.9  | 26653800 |
-| HHV      | 2026-04-10 00:00:00 |  13.1  |  13.15 | 12.7  |   12.75 |  8332100 |
-| HHV      | 2026-04-13 00:00:00 |  12.65 |  13.45 | 12.6  |   12.9  | 15379100 |
-| HHV      | 2026-04-14 00:00:00 |  13.1  |  13.2  | 12.85 |   12.95 |  9116300 |
-| HHV      | 2026-04-15 00:00:00 |  13    |  13.2  | 12.9  |   12.9  |  8388800 |
-| HHV      | 2026-04-16 00:00:00 |  12.85 |  12.9  | 12.6  |   12.7  |  7134800 |
-| HHV      | 2026-04-17 00:00:00 |  12.65 |  12.85 | 12.6  |   12.7  |  6367000 |
-| HHV      | 2026-04-20 00:00:00 |  12.7  |  12.95 | 12.7  |   12.75 |  5301700 |
-| HHV      | 2026-04-21 00:00:00 |  12.75 |  12.8  | 12.6  |   12.6  |  5740800 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HHV      | 2026-04-21 14:22:45 |   12.65 |     1000 | Sell         | 466459902 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |     7800 | Sell         | 466459909 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |      300 | Sell         | 466459908 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |      500 | Sell         | 466459907 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |      500 | Sell         | 466459903 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |     2000 | Sell         | 466459905 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |      400 | Sell         | 466459906 |
-| HHV      | 2026-04-21 14:22:45 |   12.65 |      200 | Sell         | 466459904 |
-| HHV      | 2026-04-21 14:23:05 |   12.6  |      100 | Sell         | 466461706 |
-| HHV      | 2026-04-21 14:23:14 |   12.6  |      900 | Sell         | 466462382 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

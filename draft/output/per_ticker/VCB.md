@@ -1,6 +1,6 @@
 # VCB — VCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 19:43  |  🗂 Quarterly: —
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: —
 
 ---
 
@@ -320,126 +320,39 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VCB |
-| exchange | HOSE |
-| market_cap | 497998235602400 |
-| 52w_high | 76000 |
-| 52w_high_date | 2026-01-14 |
-| 52w_low | 55341 |
-| 52w_low_date | 2025-06-11 |
-| foreign_ownership | 20.2094 |
-| dividend | 450 |
-| beta | 0.79 |
-| eps | 4542 |
-| eps_forward | 16.370490624421176 |
-| bvps | 27231.3 |
-| pe | 13.23 |
-| pb | 2.21 |
-| price_chg_1m | 2.76 |
-| price_chg_ytd | 3.07 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.007550335570469798 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 59.6 |
-| EMA20 | 59.45 |
-| EMA50 | 60.66 |
-| RSI(14) | 49.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.25 |
-| MACD Signal | -0.556 |
-| MACD Histogram | 0.306 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VCB |
-| pe | 13.23 |
-| pb | 2.21 |
-| roe | 16.61 |
-| roe_pct_rank | 61 |
-| roa | 1.55 |
-| roa_pct_rank | 34 |
-| eps | 4542 |
-| bvps | 27231.3 |
-| beta | 0.79 |
-| dividend | 450 |
-| yield | 0.007550335570469798 |
-| pe_pct_rank | 52 |
-| pb_pct_rank | 79 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                           | publishtime             | url                                                                                                                   |
-|:------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
-| VCB: Báo cáo thường niên năm 2025                                                               | 2026-04-17T09:05:58     | /2026/04/vcb-bao-cao-thuong-nien-nam-2025-737-1428979.htm                                                             |
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                           | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                        |
-| DSE: Quyết định của TGĐ về việc phê duyệt hạn mức tín dụng do VCB Tây Hồ cấp                    | 2026-04-13T17:17:12     | /2026/04/dse-quyet-dinh-cua-tgd-ve-viec-phe-duyet-han-muc-tin-dung-do-vcb-tay-ho-cap-830-1427016.htm                  |
-| Em trai Tổng Giám đốc Vietcombank ứng cử vào HĐQT SMC                                           | 2026-04-13T17:09:02.953 | /2026/04/em-trai-tong-giam-doc-vietcombank-ung-cu-vao-hdqt-smc-214-1426861.htm                                        |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                            | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                          |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                     | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                     |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                  | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
-| VCB: Quyết định của HĐQT về việc thay đổi địa điểm Chi nhánh Tân Định                           | 2026-04-06T18:14:05     | /2026/04/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-diem-chi-nhanh-tan-dinh-737-1423707.htm                         |
-| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC        | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
-| Vietcombank muốn tăng vốn điều lệ lên 94,238 tỷ, lập ngân hàng thành viên tại VIFC vốn 3,000 tỷ | 2026-04-03T14:13:13.18  | /2026/04/vietcombank-muon-tang-von-dieu-le-len-94238-ty-lap-ngan-hang-thanh-vien-tai-vifc-von-3000-ty-737-1422480.htm |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCB      | 2026-03-25 00:00:00 |   58.8 |   59.1 |  58   |    58.4 |  8558200 |
-| VCB      | 2026-03-26 00:00:00 |   58.5 |   58.6 |  57.5 |    57.9 |  6217800 |
-| VCB      | 2026-03-27 00:00:00 |   58   |   59   |  57.9 |    58.8 |  6135900 |
-| VCB      | 2026-03-30 00:00:00 |   57.9 |   58.5 |  57.8 |    58   |  5546000 |
-| VCB      | 2026-03-31 00:00:00 |   58.2 |   58.9 |  58   |    58.1 |  5481100 |
-| VCB      | 2026-04-01 00:00:00 |   58.9 |   59.2 |  58.5 |    59   |  8254700 |
-| VCB      | 2026-04-02 00:00:00 |   58.7 |   58.8 |  58.1 |    58.2 |  5664500 |
-| VCB      | 2026-04-03 00:00:00 |   58.3 |   58.5 |  57.7 |    57.7 |  5919600 |
-| VCB      | 2026-04-06 00:00:00 |   57.8 |   58.2 |  57.7 |    58   |  4303300 |
-| VCB      | 2026-04-07 00:00:00 |   58   |   58.3 |  57.7 |    58   |  3889100 |
-| VCB      | 2026-04-08 00:00:00 |   59.2 |   60.3 |  58.8 |    60.2 | 13743100 |
-| VCB      | 2026-04-09 00:00:00 |   60   |   60.1 |  59.3 |    59.4 |  6217700 |
-| VCB      | 2026-04-10 00:00:00 |   59.6 |   61   |  59.6 |    59.8 |  7655400 |
-| VCB      | 2026-04-13 00:00:00 |   59.5 |   59.5 |  59   |    59.2 |  5088700 |
-| VCB      | 2026-04-14 00:00:00 |   59.7 |   59.8 |  59.1 |    59.3 |  5548100 |
-| VCB      | 2026-04-15 00:00:00 |   59.7 |   60.5 |  59.6 |    59.9 |  8919600 |
-| VCB      | 2026-04-16 00:00:00 |   60   |   60.1 |  59.3 |    59.4 |  4174500 |
-| VCB      | 2026-04-17 00:00:00 |   59.4 |   59.9 |  59.4 |    59.5 |  4257800 |
-| VCB      | 2026-04-20 00:00:00 |   59.6 |   60.5 |  59.5 |    60.1 |  6442900 |
-| VCB      | 2026-04-21 00:00:00 |   60.4 |   60.6 |  59.6 |    59.6 |  6379000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCB      | 2026-04-21 14:29:02 |    59.8 |      300 | Buy          | 466493329 |
-| VCB      | 2026-04-21 14:29:02 |    59.8 |      300 | Buy          | 466493332 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |     1000 | Buy          | 466493360 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |    16300 | Buy          | 466493334 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |     5000 | Buy          | 466493337 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |      100 | Buy          | 466493338 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |      200 | Buy          | 466493340 |
-| VCB      | 2026-04-21 14:29:02 |    59.8 |      200 | Buy          | 466493333 |
-| VCB      | 2026-04-21 14:29:02 |    59.8 |     3500 | Buy          | 466493331 |
-| VCB      | 2026-04-21 14:29:02 |    59.9 |     5000 | Buy          | 466493352 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->

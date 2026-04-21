@@ -1,133 +1,46 @@
 # SCS — SCS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:41  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SCS |
-| exchange | HOSE |
-| market_cap | 5512157028000 |
-| 52w_high | 63121 |
-| 52w_high_date | 2025-07-24 |
-| 52w_low | 51200 |
-| 52w_low_date | 2025-12-29 |
-| foreign_ownership | 11.0415 |
-| dividend | 5500 |
-| beta | 0.52 |
-| eps | 7389 |
-| eps_forward | 5.752461277216532 |
-| bvps | 16996 |
-| pe | 7.32 |
-| pb | 3.18 |
-| price_chg_1m | 3.25 |
-| price_chg_ytd | 0.83 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.10185185185185185 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 54.0 |
-| EMA20 | 53.91 |
-| EMA50 | 53.9 |
-| RSI(14) | 50.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.09 |
-| MACD Signal | 0.048 |
-| MACD Histogram | 0.042 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SCS |
-| pe | 7.32 |
-| pb | 3.18 |
-| roe | 50.62 |
-| roe_pct_rank | 100 |
-| roa | 36.97 |
-| roa_pct_rank | 100 |
-| eps | 7389 |
-| bvps | 16996 |
-| beta | 0.52 |
-| dividend | 5500 |
-| yield | 0.10185185185185185 |
-| pe_pct_rank | 38 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Doanh nghiệp “1 vốn 4 lời” báo lãi hơn 173 tỷ trong quý 1                                                | 2026-04-20T14:54:47.78  | /2026/04/doanh-nghiep-1-von-4-loi-bao-lai-hon-173-ty-trong-quy-1-737-1430149.htm                                          |
-| SCS: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-17T00:00:00     | /2026/04/scs-bctc-tom-tat-quy-1-nam-2026-737-1429481.htm                                                                  |
-| SCS nhắm lợi nhuận kỷ lục 960 tỷ đồng, chia cổ tức tiền mặt 50%                                          | 2026-04-07T17:50:03.313 | /2026/04/scs-nham-loi-nhuan-ky-luc-960-ty-dong-chia-co-tuc-tien-mat-50-737-1424239.htm                                    |
-| SCS: Nghị quyết HĐQT về việc thông qua chương trình, nội dung và tài liệu họp ĐHĐCĐ thường niên năm 2026 | 2026-04-06T15:54:24     | /2026/04/scs-nghi-quyet-hdqt-ve-viec-thong-qua-chuong-trinh-noi-dung-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423… |
-| SCS: Báo cáo thường niên năm 2025                                                                        | 2026-03-25T11:03:14     | /2026/03/scs-bao-cao-thuong-nien-nam-2025-737-1416107.htm                                                                 |
-| SCS: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                              | 2026-03-12T17:09:27     | /2026/03/scs-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026-737-1411603.htm                                       |
-| SCS: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026           | 2026-03-10T17:34:49     | /2026/03/scs-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1410478.htm    |
-| SCS: Nghị quyết HĐQT về việc lập DSCĐ có quyền tham dự ĐHĐCĐTN 2026                                      | 2026-03-10T09:39:48     | /2026/03/scs-nghi-quyet-hdqt-ve-viec-lap-dscd-co-quyen-tham-du-dhdcdtn-2026-737-1410185.htm                               |
-| SCS: BCTC năm 2025                                                                                       | 2026-03-07T00:00:00     | /2026/03/scs-bctc-nam-2025-737-1410098.htm                                                                                |
-| Sân bay mới, hãng bay mới - ngành hàng không 2026 đầy biến số                                            | 2026-02-22T13:02:00     | /2026/02/san-bay-moi-hang-bay-moi-nganh-hang-khong-2026-day-bien-so-737-1403812.htm                                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SCS      | 2026-03-25 00:00:00 |   52.2 |   53   |  52   |    52.9 |   119600 |
-| SCS      | 2026-03-26 00:00:00 |   52.8 |   53.1 |  52.1 |    52.5 |   199700 |
-| SCS      | 2026-03-27 00:00:00 |   52.5 |   54.5 |  52.5 |    54.3 |   359700 |
-| SCS      | 2026-03-30 00:00:00 |   53.7 |   54.1 |  53   |    53.7 |   157300 |
-| SCS      | 2026-03-31 00:00:00 |   53.7 |   54.6 |  53.5 |    54.3 |   370700 |
-| SCS      | 2026-04-01 00:00:00 |   54.8 |   55   |  54.2 |    54.3 |   128500 |
-| SCS      | 2026-04-02 00:00:00 |   54   |   55.1 |  53.5 |    54.4 |   173700 |
-| SCS      | 2026-04-03 00:00:00 |   54.2 |   54.8 |  53.8 |    53.9 |   115000 |
-| SCS      | 2026-04-06 00:00:00 |   53.9 |   54.2 |  53.1 |    53.1 |    81000 |
-| SCS      | 2026-04-07 00:00:00 |   53.9 |   53.9 |  52.9 |    53.1 |    80800 |
-| SCS      | 2026-04-08 00:00:00 |   54.6 |   54.6 |  53.6 |    54.2 |   166600 |
-| SCS      | 2026-04-09 00:00:00 |   54.2 |   55   |  54   |    54.5 |   199000 |
-| SCS      | 2026-04-10 00:00:00 |   54.6 |   54.8 |  54.3 |    54.5 |   141900 |
-| SCS      | 2026-04-13 00:00:00 |   53.9 |   54.2 |  53.7 |    53.9 |   128100 |
-| SCS      | 2026-04-14 00:00:00 |   54.2 |   54.6 |  53.6 |    54   |    84400 |
-| SCS      | 2026-04-15 00:00:00 |   54.1 |   54.6 |  54.1 |    54.3 |   128300 |
-| SCS      | 2026-04-16 00:00:00 |   54.3 |   54.4 |  53.9 |    54   |    94700 |
-| SCS      | 2026-04-17 00:00:00 |   54.1 |   54.3 |  53.6 |    54   |   143700 |
-| SCS      | 2026-04-20 00:00:00 |   54.5 |   54.5 |  54   |    54.1 |   105500 |
-| SCS      | 2026-04-21 00:00:00 |   54.3 |   54.4 |  53.9 |    54   |   134600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SCS      | 2026-04-21 11:21:23 |    54   |      600 | Buy          | 466206319 |
-| SCS      | 2026-04-21 11:21:23 |    54   |      800 | Buy          | 466206320 |
-| SCS      | 2026-04-21 11:21:43 |    54   |     2500 | Buy          | 466206909 |
-| SCS      | 2026-04-21 11:21:43 |    54   |      500 | Buy          | 466206908 |
-| SCS      | 2026-04-21 11:21:58 |    54   |     1000 | Buy          | 466207244 |
-| SCS      | 2026-04-21 11:22:07 |    53.9 |      100 | Sell         | 466207438 |
-| SCS      | 2026-04-21 11:23:46 |    54   |     2800 | Buy          | 466209437 |
-| SCS      | 2026-04-21 11:23:46 |    54   |      300 | Buy          | 466209438 |
-| SCS      | 2026-04-21 11:27:00 |    54   |      100 | Sell         | 466213364 |
-| SCS      | 2026-04-21 13:00:01 |    54   |      500 | Sell         | 466221891 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,161 +1,188 @@
 # NVL — NVL
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 05/04/2026 13:42  |  🗂 Quarterly: 05/04/2026 13:42
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 13:42
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NVL |
 | exchange | HOSE |
-| ev | 31917865250700 |
-| ceiling | 14850 |
-| floor | 12950 |
-| ref_price | 13900 |
-| open | 13900 |
-| match_price | 14300 |
-| close_price | 14300 |
-| price_change | 400 |
-| price_change_pct | 0.02877698 |
-| high | 14750 |
-| low | 13900 |
-| total_volume | 27602993 |
-| high_price_1y | 19300 |
-| low_price_1y | 7880 |
-| pct_low_change_1y | 0.7654320988 |
-| pct_high_change_1y | -0.2433862434 |
-| foreign_volume | 6307270 |
-| foreign_room | 1093689089 |
-| avg_match_volume_2w | 18530831 |
-| foreign_holding_room | 121605471 |
-| current_holding_ratio | 0.054482285129073986 |
-| max_holding_ratio | 0.49 |
+| market_cap | 39506728317300 |
+| 52w_high | 18900 |
+| 52w_high_date | 2025-08-14 |
+| 52w_low | 10500 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 5.645 |
+| dividend | 0 |
+| beta | 0.86 |
+| eps | 863 |
+| eps_forward | 35.47639733565016 |
+| bvps | 28741 |
+| pe | 19.87 |
+| pb | 0.60 |
+| price_chg_1m | 31.60 |
+| price_chg_ytd | 71.84 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.3 |
-| EMA20 | 13.4 |
-| EMA50 | 13.05 |
-| RSI(14) | 60.8 |
-| RSI nhận xét | Bình thường |
+| Giá đóng cửa | 17.7 |
+| MA5 | 17.28 |
+| MA10 | 16.995 |
+| EMA20 | 15.823 |
+| EMA50 | 14.447 |
+| Slope MA20 (5p, %) | 6.42 |
+| ATR(14) | 0.788 |
+| RSI(14) | 74.4 |
+| RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.507 |
-| MACD Signal | 0.403 |
-| MACD Histogram | 0.104 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| MACD | 1.17 |
+| MACD Signal | 1.039 |
+| MACD Histogram | 0.132 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 16264648 |
 
-## Dòng tiền khối ngoại (snapshot hôm nay)
+## Vùng hỗ trợ / Kháng cự
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| KL khớp NN hôm nay | 6307270 |
-| Room NN còn lại | 1093689089 |
-| Tỷ lệ sở hữu NN hiện tại | 0.054482285129073986 |
-| Tỷ lệ sở hữu NN tối đa | 0.49 |
+| Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
+|:---------------|----------:|:------------|:--------------|
+| ▶ Giá hiện tại |    17.7   | —           | —             |
+| 🟢 Hỗ trợ       |    14.9   | 1.31        | 1             |
+| 🟢 Hỗ trợ       |    14.65  | 0.72        | 1             |
+| 🟢 Hỗ trợ       |    13.373 | 1.83        | 2             |
 
-## Dòng tiền khối ngoại lịch sử (10 phiên tích lũy)
-
-| date       | ticker   |   foreign_buy_volume |   foreign_room |   current_holding_ratio |
-|:-----------|:---------|---------------------:|---------------:|------------------------:|
-| 2026-04-03 | NVL      |              6307270 |     1093689089 |               0.0544823 |
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NVL |
-| year_report | 2025 |
-| length_report | 5 |
-| update_date | 1774611821797 |
-| revenue | 6966355811153 |
-| revenue_growth | -0.23274805373423688 |
-| net_profit | 1743741158759 |
-| net_profit_growth | 1.2701472683011852 |
-| ebit_margin | 0.36238711675870694 |
-| roe | 0.0419304987 |
-| roic | 0.0199890898 |
-| roa | 0.007151084 |
-| pe | 18.3042449221 |
-| pb | 0.703980056 |
-| eps | 781.23954639187 |
-| current_ratio | 2.1547826349 |
-| cash_ratio | 0.0457876679 |
-| quick_ratio | 0.5353621097 |
-| interest_coverage | -17.00266928463044 |
-| ae | 4.243422642047185 |
-| fae | 0.03227082322287579 |
-| net_profit_margin | 0.25033077383048125 |
-| gross_margin | 0.6352829333616128 |
-| ev | 31917865250700 |
-| issue_share | 2232018549 |
-| ps | 4.5821157957 |
-| pcf | -5.1937883043 |
-| bvps | 20313.0754595584 |
-| ev_per_ebitda | 26.6013203117 |
-| at | 0.0285665396 |
-| fat | 3.6296881037 |
-| acp | 164.28185680497455 |
-| dso | 21606.1495557368 |
-| dpo | 1187.8084583245 |
-| eps_ttm | 781.2395463919 |
-| charter_capital | 22320185490000 |
-| rtq4 | 0.6057210542 |
-| charter_capital_ratio | 2.6385529099768696 |
-| rtq10 | 3.243422642 |
+| pe | 19.87 |
+| pb | 0.60 |
+| roe | 3.43 |
+| roe_pct_rank | 32 |
+| roa | 0.7 |
+| roa_pct_rank | 30 |
+| eps | 863 |
+| bvps | 28741 |
+| beta | 0.86 |
 | dividend | 0 |
-| ebitda | 3567986977176 |
-| ebit | 2524297437454 |
-| le | 1.7500129315 |
-| de | 3.243422642 |
-| ccc | 22958.239870866273 |
-| rtq17 | 0.0168933386 |
+| yield | 0 |
+| pe_pct_rank | 66 |
+| pb_pct_rank | 24 |
+| financial_date | 12/2025 |
+| source | KBS |
+
+## Khối lượng & Tỷ lệ lưu hành
+
+| Ngày       |       KL | vs Avg60   | Turnover (%)   |
+|:-----------|---------:|:-----------|:---------------|
+| 2026-04-15 | 36700200 | +125.6%    | 1.644%         |
+| 2026-04-16 | 28122400 | +72.9%     | 1.260%         |
+| 2026-04-17 | 16760800 | +3.1%      | 0.751%         |
+| 2026-04-20 | 11247700 | -30.8%     | 0.504%         |
+| 2026-04-21 | 48772400 | +199.9%    | 2.185%         |
+
+- KL trung bình 60 phiên: **16,264,648**
+- Số CP lưu hành: **2,232,018,549**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                           |   public_date | news_source_link                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------------------|--------------:|:--------------------------------------------------------------------------------------------------------------------------|
-| NVL: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                                         | 1775207374000 | https://www.hsx.vn/vi/tin-tuc/nvl-tai-lieu-hop-dhdcd-thuong-nien-nam-2026/2450005                                         |
-| NVL: Nghị quyết HĐQT thông qua chương trình họp ĐHĐCĐ thường niên năm 2026                                           | 1775207332000 | https://www.hsx.vn/vi/tin-tuc/nvl-nghi-quyet-hdqt-thong-qua-chuong-trinh-hop-dhdcd-thuong-nien-nam-2026/2449962           |
-| NVL: Thông báo về việc đề cử ứng viên để bầu thành viên HĐQT                                                         | 1775207220000 | https://www.hsx.vn/vi/tin-tuc/nvl-thong-bao-ve-viec-de-cu-ung-vien-de-bau-thanh-vien-hdqt/2449959                         |
-| NVL: Nghị quyết HĐQT về việc phát hành cổ phiếu để chuyển đổi trái phiếu chuyển đổi                                  | 1774979569000 | https://www.hsx.vn/vi/tin-tuc/nvl-nghi-quyet-hdqt-ve-viec-phat-hanh-co-phieu-de-chuyen-doi-trai-phieu-chuyen-doi/2448813  |
-| NVL: Nghị quyết HĐQT số 10, 11 ngày 26/03/2026                                                                       | 1774631191000 | https://www.hsx.vn/vi/tin-tuc/nvl-nghi-quyet-hdqt-so-10-11-ngay-26032026/2447556                                          |
-| NVL: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Novagroup          | 1774537173000 | https://www.hsx.vn/vi/tin-tuc/nvl-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
-| NVL: Đính chính báo cáo kết quả chuyển đổi trái phiếu chuyển đổi quốc tế thành cổ phiếu                              | 1774022559000 | https://www.hsx.vn/vi/tin-tuc/nvl-dinh-chinh-bao-cao-ket-qua-chuyen-doi-trai-phieu-chuyen-doi-quoc-te-thanh-co-phieu/244… |
-| NVL: Diamond Properties đăng ký bán trên 2,1 triệu cổ phiếu                                                          | 1773164340000 | https://www.hsx.vn/vi/tin-tuc/nvl-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-diamond-pr… |
-| NVL: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                          | 1772818563000 | https://www.hsx.vn/vi/tin-tuc/nvl-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026/2442549          |
-| NVL: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Diamond Properties | 1772459300000 | https://www.hsx.vn/vi/tin-tuc/nvl-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-c… |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| NVL: Nghị quyết HĐQT về việc bổ sung, điều chỉnh tài liệu họp ĐHĐCĐ thường niên năm 2026                                  | 2026-04-20T16:57:56     | /2026/04/nvl-nghi-quyet-hdqt-ve-viec-bo-sung-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1430620.htm           |
+| NVL: Nghị quyết HĐQT về việc thông qua danh sách ứng viên được cổ đông đề cử vào vị trí Thành viên HĐQT                   | 2026-04-20T16:16:28     | /2026/04/nvl-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-ung-vien-duoc-co-dong-de-cu-vao-vi-tri-thanh-vien-hdqt-737-1430… |
+| Ông Bùi Cao Nhật Quân được đề cử vào HĐQT Novaland, muốn phát hành gần 168 triệu cp thưởng                                | 2026-04-20T15:10:08.317 | /2026/04/ong-bui-cao-nhat-quan-duoc-de-cu-vao-hdqt-novaland-muon-phat-hanh-gan-168-trieu-cp-thuong-214-1430150.htm        |
+| NovaGroup chuyển giao ghế Chủ tịch: Ông Bùi Cao Nhật Quân thay ông Bùi Thành Nhơn                                         | 2026-04-16T23:37:55.707 | /2026/04/novagroup-chuyen-giao-ghe-chu-tich-ong-bui-cao-nhat-quan-thay-ong-bui-thanh-nhon-214-1428933.htm                 |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| NVL: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP DIAMOND PROPERTIES                       | 2026-04-15T14:56:48     | /2026/04/nvl-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-diamond-properties-739-1427985.… |
+| NVL: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Novagroup, Công ty Cổ … | 2026-04-15T10:59:38     | /2026/04/nvl-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-novagroup-cong… |
+| NVL: Thông báo đường dẫn báo cáo thường niên năm 2025                                                                     | 2026-04-15T10:56:26     | /2026/04/nvl-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1427858.htm                                             |
+| Doanh thu kỷ lục hơn 22 ngàn tỷ của Novaland năm nay đến từ đâu?                                                          | 2026-04-15T00:57:16.893 | /2026/04/doanh-thu-ky-luc-hon-22-ngan-ty-cua-novaland-nam-nay-den-tu-dau-737-1427738.htm                                  |
+| Doanh nghiệp liên quan ông Bùi Thành Nhơn bán chưa đầy một nửa số cổ phiếu NVL đăng ký                                    | 2026-04-13T10:47:59.02  | /2026/04/doanh-nghiep-lien-quan-ong-bui-thanh-nhon-ban-chua-day-mot-nua-so-co-phieu-nvl-dang-ky-739-1426592.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| event_list_name    | event_title                                   | public_date   | record_date   | exright_date   |    ratio |   value |
-|:-------------------|:----------------------------------------------|:--------------|:--------------|:---------------|---------:|--------:|
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 20.750.394 cổ phiếu    | 2026-02-13    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 163.658.391 cổ phiếu   | 2026-02-04    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 97.505.226 cổ phiếu    | 2025-11-12    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 270,729 cổ phiếu       | 2023-01-10    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NVL - Phát hành cổ phiếu thưởng tỷ lệ 24,75%  | 2022-10-14    | 2022-11-14    | 2022-11-11     | 0.2475   |       0 |
-| Phát hành cổ phiếu | NVL - Phát hành cổ phiếu thưởng tỷ lệ 24,75%  | 2022-10-07    | 2022-10-18    | 2022-10-17     | 0.2475   |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 54,145 cổ phiếu        | 2022-07-22    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 54,145 cổ phiếu        | 2022-07-01    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 19,304,200 cổ phiếu    | 2022-06-03    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 456.815.700 cổ phiếu   | 2022-01-28    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NVL - Phát hành cổ phiếu trả cổ tức tỷ lệ 31% | 2021-12-06    | 2021-12-27    | 2021-12-24     | 0.31     |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 5.952.034 cổ phiếu     | 2021-07-27    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 385.914.534 cổ phiếu   | 2021-07-09    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Niêm yết thêm      | NVL - Niêm yết bổ sung 7.029.266 cổ phiếu     | 2021-06-01    | 1753-01-01    | 1753-01-01     | 0        |       0 |
-| Phát hành cổ phiếu | NVL - Phát hành cổ phiếu thưởng tỷ lệ 555:198 | 2021-05-31    | 2021-06-10    | 2021-06-09     | 0.356757 |       0 |
+_Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
+
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
+| NVL      | 2025-12-08 00:00:00 |  14.85 |  14.85 | 14.4  |   14.7  |  6037300 |
+| NVL      | 2025-12-09 00:00:00 |  14.6  |  14.6  | 14.1  |   14.45 |  8493800 |
+| NVL      | 2025-12-10 00:00:00 |  14.5  |  14.5  | 14.15 |   14.45 |  5168900 |
+| NVL      | 2025-12-11 00:00:00 |  14.4  |  14.75 | 14.3  |   14.35 |  4059500 |
+| NVL      | 2025-12-12 00:00:00 |  14.35 |  14.5  | 13.35 |   13.35 | 12520500 |
+| NVL      | 2025-12-15 00:00:00 |  13.25 |  13.55 | 13.2  |   13.3  |  6696800 |
+| NVL      | 2025-12-16 00:00:00 |  13.2  |  13.85 | 13    |   13.55 |  6461900 |
+| NVL      | 2025-12-17 00:00:00 |  13.55 |  13.55 | 13.25 |   13.25 |  4326100 |
+| NVL      | 2025-12-18 00:00:00 |  13.45 |  13.45 | 13.05 |   13.25 |  3938100 |
+| NVL      | 2025-12-19 00:00:00 |  13.3  |  13.85 | 13.25 |   13.85 |  7577000 |
+| NVL      | 2025-12-22 00:00:00 |  13.8  |  13.95 | 13.65 |   13.8  |  6436400 |
+| NVL      | 2025-12-23 00:00:00 |  13.9  |  13.9  | 13.4  |   13.45 |  7107400 |
+| NVL      | 2025-12-24 00:00:00 |  13.45 |  13.7  | 13.25 |   13.4  |  6451500 |
+| NVL      | 2025-12-25 00:00:00 |  13.35 |  13.9  | 13.3  |   13.3  |  8748800 |
+| NVL      | 2025-12-26 00:00:00 |  13.4  |  13.5  | 12.65 |   13.25 | 10173900 |
+| NVL      | 2025-12-29 00:00:00 |  13.55 |  14.15 | 13.55 |   14.15 | 15253500 |
+| NVL      | 2025-12-30 00:00:00 |  14.55 |  14.65 | 13.9  |   13.9  |  8445000 |
+| NVL      | 2025-12-31 00:00:00 |  13.95 |  14.05 | 13.35 |   13.35 |  7442800 |
+| NVL      | 2026-01-05 00:00:00 |  13.6  |  13.75 | 13.2  |   13.35 |  8515100 |
+| NVL      | 2026-01-06 00:00:00 |  13.5  |  13.7  | 13.3  |   13.35 |  8728100 |
+| NVL      | 2026-01-07 00:00:00 |  13.35 |  13.45 | 13.05 |   13.2  | 10517800 |
+| NVL      | 2026-01-08 00:00:00 |  13.3  |  13.5  | 13.1  |   13.3  |  8042700 |
+| NVL      | 2026-01-09 00:00:00 |  13.25 |  13.3  | 12.5  |   12.55 | 22081700 |
+| NVL      | 2026-01-12 00:00:00 |  12.6  |  13.05 | 12.2  |   12.8  | 11835400 |
+| NVL      | 2026-01-13 00:00:00 |  13.1  |  13.1  | 12.75 |   12.75 |  8220000 |
+| NVL      | 2026-01-14 00:00:00 |  12.75 |  13.2  | 12.7  |   12.9  |  9642300 |
+| NVL      | 2026-01-15 00:00:00 |  12.95 |  13.1  | 12.75 |   12.8  |  5566600 |
+| NVL      | 2026-01-16 00:00:00 |  12.95 |  13.1  | 12.8  |   13.05 |  8177300 |
+| NVL      | 2026-01-19 00:00:00 |  13.05 |  13.1  | 12.8  |   12.95 |  4809500 |
+| NVL      | 2026-01-20 00:00:00 |  12.8  |  12.95 | 12.75 |   12.75 |  6554800 |
+| NVL      | 2026-01-21 00:00:00 |  12.6  |  12.9  | 12.5  |   12.6  |  5163900 |
+| NVL      | 2026-01-22 00:00:00 |  12.75 |  13.35 | 12.3  |   12.8  | 14204500 |
+| NVL      | 2026-01-23 00:00:00 |  12.95 |  13    | 12.5  |   12.5  |  7998800 |
+| NVL      | 2026-01-26 00:00:00 |  12.5  |  12.65 | 11.85 |   11.85 | 12176700 |
+| NVL      | 2026-01-27 00:00:00 |  12    |  12.15 | 11.4  |   11.4  | 11701500 |
+| NVL      | 2026-01-28 00:00:00 |  11.65 |  12    | 11.4  |   11.9  |  6951800 |
+| NVL      | 2026-01-29 00:00:00 |  12    |  12.15 | 11.9  |   12.15 |  3854600 |
+| NVL      | 2026-01-30 00:00:00 |  12.3  |  13    | 12.15 |   13    | 13138500 |
+| NVL      | 2026-02-02 00:00:00 |  13.3  |  13.4  | 12.6  |   12.85 | 11835500 |
+| NVL      | 2026-02-03 00:00:00 |  12.75 |  13.1  | 12.75 |   12.85 |  6061600 |
+| NVL      | 2026-02-04 00:00:00 |  12.85 |  12.85 | 12.55 |   12.55 |  4681100 |
+| NVL      | 2026-02-05 00:00:00 |  12.55 |  12.7  | 12.35 |   12.35 |  4754600 |
+| NVL      | 2026-02-06 00:00:00 |  12.1  |  12.45 | 12    |   12.2  |  7101300 |
+| NVL      | 2026-02-09 00:00:00 |  12.15 |  12.4  | 12.1  |   12.2  |  3929200 |
+| NVL      | 2026-02-10 00:00:00 |  12.2  |  12.45 | 12.2  |   12.3  |  4514500 |
+| NVL      | 2026-02-11 00:00:00 |  12.3  |  12.8  | 12.3  |   12.8  |  6272500 |
+| NVL      | 2026-02-12 00:00:00 |  12.8  |  13    | 12.65 |   12.95 |  5348900 |
+| NVL      | 2026-02-13 00:00:00 |  12.95 |  12.95 | 12.65 |   12.65 |  5097700 |
+| NVL      | 2026-02-23 00:00:00 |  12.75 |  12.8  | 12.6  |   12.75 |  2900000 |
+| NVL      | 2026-02-24 00:00:00 |  12.7  |  12.8  | 12.65 |   12.75 |  4747600 |
+| NVL      | 2026-02-25 00:00:00 |  12.75 |  12.9  | 12.6  |   12.65 |  4315700 |
+| NVL      | 2026-02-26 00:00:00 |  12.65 |  12.8  | 12.5  |   12.6  |  4121000 |
+| NVL      | 2026-02-27 00:00:00 |  12.65 |  12.65 | 12.2  |   12.3  |  6771300 |
+| NVL      | 2026-03-02 00:00:00 |  11.6  |  12    | 11.6  |   11.6  |  8979900 |
+| NVL      | 2026-03-03 00:00:00 |  11.55 |  11.8  | 11.5  |   11.55 |  8407000 |
+| NVL      | 2026-03-04 00:00:00 |  11.55 |  11.75 | 10.9  |   11.1  | 14106300 |
+| NVL      | 2026-03-05 00:00:00 |  11.45 |  11.6  | 11.1  |   11.15 |  7449900 |
+| NVL      | 2026-03-06 00:00:00 |  11.4  |  11.45 | 11.1  |   11.25 |  5562800 |
 | NVL      | 2026-03-09 00:00:00 |  10.5  |  10.7  | 10.5  |   10.5  | 10761000 |
 | NVL      | 2026-03-10 00:00:00 |  10    |  10.8  | 10    |   10.65 | 11911100 |
 | NVL      | 2026-03-11 00:00:00 |  10.6  |  11.3  | 10.55 |   11.1  |  9647400 |
@@ -176,21 +203,33 @@
 | NVL      | 2026-04-01 00:00:00 |  14.45 |  14.55 | 13.9  |   14.15 | 13962300 |
 | NVL      | 2026-04-02 00:00:00 |  13.9  |  14.15 | 13.75 |   13.9  |  7095900 |
 | NVL      | 2026-04-03 00:00:00 |  13.9  |  14.75 | 13.9  |   14.3  | 26691600 |
+| NVL      | 2026-04-06 00:00:00 |  14.4  |  15.2  | 14.35 |   14.55 | 23143000 |
+| NVL      | 2026-04-07 00:00:00 |  14.75 |  14.9  | 14    |   14.75 | 16772400 |
+| NVL      | 2026-04-08 00:00:00 |  15.2  |  15.75 | 14.9  |   15.75 | 30279800 |
+| NVL      | 2026-04-09 00:00:00 |  15.95 |  16.85 | 15.9  |   16.7  | 81700700 |
+| NVL      | 2026-04-10 00:00:00 |  16.95 |  17.45 | 16.6  |   16.8  | 26344600 |
+| NVL      | 2026-04-13 00:00:00 |  16.7  |  17.5  | 16.55 |   17.2  | 29274200 |
+| NVL      | 2026-04-14 00:00:00 |  17.35 |  17.5  | 16.7  |   17.1  | 23862100 |
+| NVL      | 2026-04-15 00:00:00 |  17.4  |  18.2  | 17.4  |   17.5  | 36700200 |
+| NVL      | 2026-04-16 00:00:00 |  17.5  |  17.5  | 16.65 |   17    | 28122400 |
+| NVL      | 2026-04-17 00:00:00 |  17    |  17.45 | 16.85 |   17.05 | 16760800 |
+| NVL      | 2026-04-20 00:00:00 |  17.05 |  17.25 | 16.85 |   17.15 | 11247700 |
+| NVL      | 2026-04-21 00:00:00 |  17.3  |  18.1  | 17.2  |   17.7  | 48772400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NVL      | 2026-04-03 14:26:56 |   14.35 |     2000 | Sell         | 459293310 |
-| NVL      | 2026-04-03 14:26:56 |   14.35 |      500 | Sell         | 459293311 |
-| NVL      | 2026-04-03 14:27:02 |   14.35 |    28200 | Buy          | 459293706 |
-| NVL      | 2026-04-03 14:27:02 |   14.35 |      100 | Buy          | 459293689 |
-| NVL      | 2026-04-03 14:27:02 |   14.35 |     1800 | Buy          | 459293707 |
-| NVL      | 2026-04-03 14:27:07 |   14.35 |      500 | Buy          | 459294012 |
-| NVL      | 2026-04-03 14:27:07 |   14.35 |      100 | Buy          | 459294011 |
-| NVL      | 2026-04-03 14:27:07 |   14.35 |      700 | Buy          | 459294009 |
-| NVL      | 2026-04-03 14:27:07 |   14.35 |     3500 | Buy          | 459294013 |
-| NVL      | 2026-04-03 14:27:07 |   14.35 |      800 | Buy          | 459293995 |
+| NVL      | 2026-04-21 14:28:22 |   17.75 |     3000 | Sell         | 466488924 |
+| NVL      | 2026-04-21 14:28:22 |   17.75 |     2800 | Sell         | 466488925 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |     1000 | Sell         | 466489214 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |     2000 | Sell         | 466489215 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |      500 | Sell         | 466489216 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |      900 | Sell         | 466489212 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |     2000 | Sell         | 466489221 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |    10000 | Sell         | 466489223 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |      200 | Sell         | 466489224 |
+| NVL      | 2026-04-21 14:28:25 |   17.75 |      300 | Sell         | 466489225 |
 
 <!-- END:DAILY -->
 

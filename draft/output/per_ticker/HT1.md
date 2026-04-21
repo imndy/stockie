@@ -1,129 +1,46 @@
 # HT1 — HT1
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 19:55
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HT1 |
-| exchange | HOSE |
-| market_cap | 5838325638300 |
-| 52w_high | 20100 |
-| 52w_high_date | 2025-10-22 |
-| 52w_low | 10442 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 2.2716 |
-| dividend | 100 |
-| beta | 0.81 |
-| eps | 717 |
-| eps_forward | 14.372328983562243 |
-| bvps | 13336 |
-| pe | 21.05 |
-| pb | 1.13 |
-| price_chg_1m | -1.61 |
-| price_chg_ytd | 42.44 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.006535947712418301 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 15.3 |
-| EMA20 | 15.28 |
-| EMA50 | 15.54 |
-| RSI(14) | 49.2 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.125 |
-| MACD Signal | -0.176 |
-| MACD Histogram | 0.052 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HT1 |
-| pe | 21.05 |
-| pb | 1.13 |
-| eps | 717 |
-| bvps | 13336 |
-| beta | 0.81 |
-| dividend | 100 |
-| yield | 0.006535947712418301 |
-| pe_pct_rank | 68 |
-| pb_pct_rank | 48 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                     | publishtime             | url                                                                                                               |
-|:------------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------------|
-| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                  | 2026-04-21T09:14:21     | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430964.htm                                  |
-| HT1: BCTC quý 1 năm 2026                                                                  | 2026-04-20T00:00:00     | /2026/04/ht1-bctc-quy-1-nam-2026-737-1430970.htm                                                                  |
-| HT1: Báo cáo thường niên năm 2025                                                         | 2026-04-07T11:11:33     | /2026/04/ht1-bao-cao-thuong-nien-nam-2025-737-1423948.htm                                                         |
-| Áp lực kép từ chi phí và dư cung, Vicem Hà Tiên vẫn lên kế hoạch lãi gần gấp rưỡi         | 2026-03-31T14:29:59.897 | /2026/03/ap-luc-kep-tu-chi-phi-va-du-cung-vicem-ha-tien-van-len-ke-hoach-lai-gan-gap-ruoi-737-1419450.htm         |
-| HT1: Thông báo thời gian, địa điểm, chương trình và link tài liệu họp ĐHĐCĐ TN năm 2026   | 2026-03-30T14:08:27     | /2026/03/ht1-thong-bao-thoi-gian-dia-diem-chuong-trinh-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1418622.htm     |
-| HT1: Quyết định của HĐQT về việc ký hợp đồng với người có liên quan                       | 2026-03-27T16:09:46     | /2026/03/ht1-quyet-dinh-cua-hdqt-ve-viec-ky-hop-dong-voi-nguoi-co-lien-quan-739-1417682.htm                       |
-| HT1: Quyết định của HĐQT về việc chấp thuận chủ trường ký hợp đồng với Người có liên quan | 2026-03-23T17:20:41     | /2026/03/ht1-quyet-dinh-cua-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-nguoi-co-lien-quan-739-1415270.htm |
-| HT1: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                         | 2026-03-18T16:56:05     | /2026/03/ht1-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1413674.htm                         |
-| HT1: BCTC năm 2025                                                                        | 2026-03-18T00:00:00     | /2026/03/ht1-bctc-nam-2025-737-1413584.htm                                                                        |
-| HT1: BCTC Hợp nhất năm 2025                                                               | 2026-03-18T00:00:00     | /2026/03/ht1-bctc-hop-nhat-nam-2025-737-1413585.htm                                                               |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HT1      | 2026-03-25 00:00:00 |  14.55 |  15.1  | 14.55 |   14.9  |   599800 |
-| HT1      | 2026-03-26 00:00:00 |  15.1  |  15.1  | 14.6  |   14.7  |   306300 |
-| HT1      | 2026-03-27 00:00:00 |  14.65 |  15.1  | 14.65 |   15.05 |   311600 |
-| HT1      | 2026-03-30 00:00:00 |  14.95 |  15.1  | 14.7  |   15.1  |   335100 |
-| HT1      | 2026-03-31 00:00:00 |  15.1  |  15.3  | 15.05 |   15.25 |   304200 |
-| HT1      | 2026-04-01 00:00:00 |  15.35 |  15.5  | 15.25 |   15.4  |   194600 |
-| HT1      | 2026-04-02 00:00:00 |  15.4  |  15.4  | 14.9  |   15.15 |   303700 |
-| HT1      | 2026-04-03 00:00:00 |  15.25 |  15.25 | 14.8  |   14.95 |   206000 |
-| HT1      | 2026-04-06 00:00:00 |  14.9  |  14.9  | 14.6  |   14.6  |   227700 |
-| HT1      | 2026-04-07 00:00:00 |  14.6  |  14.8  | 14.5  |   14.6  |   256000 |
-| HT1      | 2026-04-08 00:00:00 |  15.3  |  15.3  | 14.9  |   15.1  |   384200 |
-| HT1      | 2026-04-09 00:00:00 |  15    |  15.7  | 14.9  |   15.55 |   597900 |
-| HT1      | 2026-04-10 00:00:00 |  15.85 |  15.85 | 15.3  |   15.35 |   410500 |
-| HT1      | 2026-04-13 00:00:00 |  15.2  |  15.55 | 15    |   15.05 |   488200 |
-| HT1      | 2026-04-14 00:00:00 |  15.35 |  15.65 | 15.15 |   15.6  |   373600 |
-| HT1      | 2026-04-15 00:00:00 |  16.05 |  16.05 | 15.4  |   15.4  |   514100 |
-| HT1      | 2026-04-16 00:00:00 |  15.4  |  15.55 | 15.2  |   15.2  |   362400 |
-| HT1      | 2026-04-17 00:00:00 |  15.3  |  15.6  | 15.1  |   15.1  |   627800 |
-| HT1      | 2026-04-20 00:00:00 |  15.2  |  15.45 | 15.1  |   15.1  |   203100 |
-| HT1      | 2026-04-21 00:00:00 |  15.3  |  15.55 | 15.15 |   15.3  |   447700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HT1      | 2026-04-21 13:41:03 |   15.3  |      200 | Sell         | 466323422 |
-| HT1      | 2026-04-21 13:41:03 |   15.25 |      100 | Sell         | 466323435 |
-| HT1      | 2026-04-21 13:41:03 |   15.25 |      100 | Sell         | 466323429 |
-| HT1      | 2026-04-21 13:41:03 |   15.25 |      400 | Sell         | 466323433 |
-| HT1      | 2026-04-21 13:41:03 |   15.25 |     9300 | Sell         | 466323431 |
-| HT1      | 2026-04-21 13:41:03 |   15.25 |      100 | Sell         | 466323430 |
-| HT1      | 2026-04-21 13:41:03 |   15.3  |     8000 | Sell         | 466323423 |
-| HT1      | 2026-04-21 13:41:03 |   15.3  |     5000 | Sell         | 466323427 |
-| HT1      | 2026-04-21 13:41:03 |   15.3  |      500 | Sell         | 466323426 |
-| HT1      | 2026-04-21 13:41:03 |   15.3  |     1000 | Sell         | 466323425 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

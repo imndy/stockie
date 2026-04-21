@@ -1,133 +1,46 @@
 # EIB — EIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:34  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EIB |
-| exchange | HOSE |
-| market_cap | 42749437930650 |
-| 52w_high | 31100 |
-| 52w_high_date | 2025-08-19 |
-| 52w_low | 18400 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 3.0675 |
-| dividend | 0 |
-| beta | 1.19 |
-| eps | 610 |
-| eps_forward | 27.816154339566783 |
-| bvps | 13961.48 |
-| pe | 36.95 |
-| pb | 1.62 |
-| price_chg_1m | 3.15 |
-| price_chg_ytd | 22.07 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 22.95 |
-| EMA20 | 22.64 |
-| EMA50 | 22.49 |
-| RSI(14) | 53.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.073 |
-| MACD Signal | 0.093 |
-| MACD Histogram | -0.02 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | EIB |
-| pe | 36.95 |
-| pb | 1.62 |
-| roe | 4.45 |
-| roe_pct_rank | 34 |
-| roa | 0.44 |
-| roa_pct_rank | 29 |
-| eps | 610 |
-| bvps | 13961.48 |
-| beta | 1.19 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 63 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                            | publishtime             | url                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| EIB: Báo cáo thường niên năm 2025                                                                                | 2026-04-17T15:49:48     | /2026/04/eib-bao-cao-thuong-nien-nam-2025-737-1429337.htm                                                                 |
-| EIB: Cập nhật tài liệu ĐHĐCĐ thường niên năm 2026                                                                | 2026-04-15T16:47:38     | /2026/04/eib-cap-nhat-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1428138.htm                                                 |
-| EIB: Thông báo nhận được Đơn rút đơn từ nhiệm thành viên HĐQT                                                    | 2026-04-15T16:47:37     | /2026/04/eib-thong-bao-nhan-duoc-don-rut-don-tu-nhiem-thanh-vien-hdqt-214-1428156.htm                                     |
-| Eximbank được LSEG trao giải cao nhất “Best Market Maker”, khẳng định năng lực trên thị trường giao dịch quốc tế | 2026-04-14T08:32:00     | /2026/04/eximbank-duoc-lseg-trao-giai-cao-nhat-best-market-maker-khang-dinh-nang-luc-tren-thi-truong-giao-dich-quoc-te-7… |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                             | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                        | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
-| Eximbank điều chỉnh kế hoạch lợi nhuận 2026                                                                      | 2026-04-09T11:23:20.483 | /2026/04/eximbank-dieu-chinh-ke-hoach-loi-nhuan-2026-757-1425353.htm                                                      |
-| EIB: Nghị quyết HĐQT thông qua chương trình và tài liệu họp ĐHĐCĐ thường niên năm 2026                           | 2026-04-08T09:11:08     | /2026/04/eib-nghi-quyet-hdqt-thong-qua-chuong-trinh-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1424654.htm            |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                      | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                                   | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EIB      | 2026-03-25 00:00:00 |  22.45 |  22.7  | 22.15 |   22.55 |  6167700 |
-| EIB      | 2026-03-26 00:00:00 |  22.7  |  22.75 | 22.25 |   22.4  |  5525400 |
-| EIB      | 2026-03-27 00:00:00 |  22.45 |  22.85 | 22.3  |   22.75 |  5592900 |
-| EIB      | 2026-03-30 00:00:00 |  22.35 |  23.3  | 22.1  |   23    | 10282800 |
-| EIB      | 2026-03-31 00:00:00 |  23.1  |  23.9  | 23    |   23.6  | 16665300 |
-| EIB      | 2026-04-01 00:00:00 |  23.9  |  24.05 | 23.35 |   23.4  | 14700700 |
-| EIB      | 2026-04-02 00:00:00 |  23.1  |  23.35 | 22.85 |   22.85 |  8547300 |
-| EIB      | 2026-04-03 00:00:00 |  22.85 |  23.1  | 22.15 |   22.15 | 12603900 |
-| EIB      | 2026-04-06 00:00:00 |  22.2  |  22.45 | 21.8  |   22.1  |  8088900 |
-| EIB      | 2026-04-07 00:00:00 |  22.45 |  22.45 | 21.8  |   22.1  |  7262800 |
-| EIB      | 2026-04-08 00:00:00 |  22.85 |  23.2  | 22.6  |   23.05 | 15475400 |
-| EIB      | 2026-04-09 00:00:00 |  22.9  |  23    | 22.6  |   22.6  | 13137000 |
-| EIB      | 2026-04-10 00:00:00 |  22.75 |  24.05 | 22.65 |   23.1  | 30032900 |
-| EIB      | 2026-04-13 00:00:00 |  22.9  |  23.5  | 22.75 |   22.95 | 12969000 |
-| EIB      | 2026-04-14 00:00:00 |  23.2  |  23.55 | 22.95 |   23    | 14493000 |
-| EIB      | 2026-04-15 00:00:00 |  23.15 |  23.3  | 22.7  |   22.7  | 12013700 |
-| EIB      | 2026-04-16 00:00:00 |  22.8  |  22.8  | 22.25 |   22.35 | 14998800 |
-| EIB      | 2026-04-17 00:00:00 |  22.4  |  22.8  | 22.3  |   22.4  |  9883800 |
-| EIB      | 2026-04-20 00:00:00 |  22.7  |  22.9  | 22.45 |   22.55 |  7546700 |
-| EIB      | 2026-04-21 00:00:00 |  22.8  |  23.4  | 22.55 |   22.95 | 18291600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EIB      | 2026-04-21 14:27:31 |   22.95 |     5000 | Buy          | 466484060 |
-| EIB      | 2026-04-21 14:27:31 |   22.95 |    12200 | Buy          | 466484066 |
-| EIB      | 2026-04-21 14:27:31 |   22.95 |      100 | Buy          | 466484061 |
-| EIB      | 2026-04-21 14:27:31 |   22.95 |      100 | Buy          | 466484062 |
-| EIB      | 2026-04-21 14:27:31 |   22.95 |      100 | Buy          | 466484063 |
-| EIB      | 2026-04-21 14:27:34 |   22.95 |     6000 | Buy          | 466484287 |
-| EIB      | 2026-04-21 14:27:50 |   22.95 |      200 | Buy          | 466486062 |
-| EIB      | 2026-04-21 14:27:55 |   22.95 |      100 | Buy          | 466486512 |
-| EIB      | 2026-04-21 14:27:56 |   22.9  |      600 | Sell         | 466486526 |
-| EIB      | 2026-04-21 14:27:56 |   22.9  |     1400 | Sell         | 466486527 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

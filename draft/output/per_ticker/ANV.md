@@ -1,129 +1,46 @@
 # ANV — ANV
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ANV |
-| exchange | HOSE |
-| market_cap | 6643080962500 |
-| 52w_high | 32285 |
-| 52w_high_date | 2025-10-13 |
-| 52w_low | 14230 |
-| 52w_low_date | 2025-05-15 |
-| foreign_ownership | 4.046 |
-| dividend | 1000 |
-| beta | 0.9 |
-| eps | 3754 |
-| eps_forward | 6.330233844819551 |
-| bvps | 13246 |
-| pe | 6.77 |
-| pb | 1.92 |
-| price_chg_1m | 8.24 |
-| price_chg_ytd | 66.28 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.04008016032064128 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 24.95 |
-| EMA20 | 24.44 |
-| EMA50 | 24.85 |
-| RSI(14) | 54.1 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.18 |
-| MACD Signal | -0.03 |
-| MACD Histogram | 0.21 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ANV |
-| pe | 6.77 |
-| pb | 1.92 |
-| eps | 3754 |
-| bvps | 13246 |
-| beta | 0.9 |
-| dividend | 1000 |
-| yield | 0.04008016032064128 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 71 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                   | publishtime             | url                                                                                             |
-|:------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------|
-| Phó Tổng giám đốc Doãn Chí Thiên đã gom thêm 1 triệu cổ phiếu ANV       | 2026-04-18T12:06:20.123 | /2026/04/pho-tong-giam-doc-doan-chi-thien-da-gom-them-1-trieu-co-phieu-anv-739-1429737.htm      |
-| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên | 2026-04-17T09:39:52     | /2026/04/anv-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-739-1429017.htm |
-| ANV: Báo cáo thường niên năm 2025                                       | 2026-04-08T11:01:17     | /2026/04/anv-bao-cao-thuong-nien-nam-2025-737-1424780.htm                                       |
-| ANV: BCTC Hợp nhất năm 2025                                             | 2026-03-26T00:00:00     | /2026/03/anv-bctc-hop-nhat-nam-2025-737-1416888.htm                                             |
-| ANV: BCTC năm 2025                                                      | 2026-03-26T00:00:00     | /2026/03/anv-bctc-nam-2025-737-1416890.htm                                                      |
-| Phó Tổng ANV gom tiếp 1 triệu cp                                        | 2026-03-24T12:12:22.89  | /2026/03/pho-tong-anv-gom-tiep-1-trieu-cp-739-1415506.htm                                       |
-| ANV: Thông báo giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên       | 2026-03-24T09:26:34     | /2026/03/anv-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-830-1415455.htm       |
-| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên | 2026-03-23T18:06:41     | /2026/03/anv-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-739-1415333.htm |
-| Lãnh đạo ANV thông báo mua thêm 1 triệu cp, thị giá tăng trần           | 2026-03-11T17:17:12.633 | /2026/03/lanh-dao-anv-thong-bao-mua-them-1-trieu-cp-thi-gia-tang-tran-739-1410946.htm           |
-| ANV: Thông báo giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên       | 2026-03-11T08:28:49     | /2026/03/anv-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-830-1410592.htm       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ANV      | 2026-03-25 00:00:00 |  22.45 |  23.15 | 22.4  |   23.1  |  1193100 |
-| ANV      | 2026-03-26 00:00:00 |  23.1  |  23.1  | 22.75 |   22.75 |   612600 |
-| ANV      | 2026-03-27 00:00:00 |  22.75 |  23.55 | 22.75 |   23.45 |   813600 |
-| ANV      | 2026-03-30 00:00:00 |  22.95 |  23.5  | 22.6  |   23.45 |   845800 |
-| ANV      | 2026-03-31 00:00:00 |  23.45 |  24.1  | 23.45 |   23.55 |   968100 |
-| ANV      | 2026-04-01 00:00:00 |  24    |  24.2  | 23.7  |   23.85 |   873700 |
-| ANV      | 2026-04-02 00:00:00 |  23.8  |  24    | 23.55 |   23.75 |   708100 |
-| ANV      | 2026-04-03 00:00:00 |  23.75 |  24    | 23.55 |   23.6  |   469800 |
-| ANV      | 2026-04-06 00:00:00 |  23.5  |  23.7  | 22.8  |   22.8  |   662100 |
-| ANV      | 2026-04-07 00:00:00 |  22.75 |  23.7  | 22.75 |   23.7  |   736500 |
-| ANV      | 2026-04-08 00:00:00 |  24.35 |  24.65 | 23.85 |   24.65 |  1540700 |
-| ANV      | 2026-04-09 00:00:00 |  24.2  |  25.4  | 24.1  |   25    |  1688200 |
-| ANV      | 2026-04-10 00:00:00 |  25.2  |  25.4  | 24.9  |   24.9  |   638500 |
-| ANV      | 2026-04-13 00:00:00 |  24.8  |  24.8  | 24.35 |   24.35 |   633200 |
-| ANV      | 2026-04-14 00:00:00 |  24.7  |  25    | 24.25 |   24.9  |   761900 |
-| ANV      | 2026-04-15 00:00:00 |  25.3  |  25.3  | 24.45 |   24.45 |   636400 |
-| ANV      | 2026-04-16 00:00:00 |  24.4  |  24.75 | 24.15 |   24.75 |   877100 |
-| ANV      | 2026-04-17 00:00:00 |  24.9  |  25.25 | 24.6  |   25    |  1111600 |
-| ANV      | 2026-04-20 00:00:00 |  24.95 |  25.6  | 24.9  |   25.4  |  1550100 |
-| ANV      | 2026-04-21 00:00:00 |  25.4  |  25.45 | 24.95 |   24.95 |   588800 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ANV      | 2026-04-21 14:04:54 |   25.05 |      300 | Sell         | 466389843 |
-| ANV      | 2026-04-21 14:05:57 |   25.05 |      500 | Sell         | 466396480 |
-| ANV      | 2026-04-21 14:07:19 |   25.05 |     1000 | Sell         | 466401454 |
-| ANV      | 2026-04-21 14:08:53 |   25.05 |      400 | Sell         | 466407944 |
-| ANV      | 2026-04-21 14:08:53 |   25.05 |      300 | Sell         | 466407943 |
-| ANV      | 2026-04-21 14:08:53 |   25.05 |     4000 | Sell         | 466407940 |
-| ANV      | 2026-04-21 14:08:53 |   25.05 |      100 | Sell         | 466407941 |
-| ANV      | 2026-04-21 14:08:53 |   25.05 |      200 | Sell         | 466407942 |
-| ANV      | 2026-04-21 14:09:20 |   25.05 |     1000 | Buy          | 466409282 |
-| ANV      | 2026-04-21 14:09:53 |   25.05 |     1100 | Buy          | 466411050 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

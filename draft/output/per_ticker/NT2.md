@@ -1,133 +1,46 @@
 # NT2 — NT2
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NT2 |
-| exchange | HOSE |
-| market_cap | 7441595349650 |
-| 52w_high | 28900 |
-| 52w_high_date | 2026-03-02 |
-| 52w_low | 16743 |
-| 52w_low_date | 2025-04-24 |
-| foreign_ownership | 12.6031 |
-| dividend | 700 |
-| beta | 0.7 |
-| eps | 3969 |
-| eps_forward | 27.160162341350574 |
-| bvps | 17505 |
-| pe | 6.63 |
-| pb | 1.50 |
-| price_chg_1m | -0.39 |
-| price_chg_ytd | 48.38 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.027079303675048357 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 25.85 |
-| EMA20 | 26.3 |
-| EMA50 | 26.31 |
-| RSI(14) | 45.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.168 |
-| MACD Signal | -0.144 |
-| MACD Histogram | -0.024 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NT2 |
-| pe | 6.63 |
-| pb | 1.50 |
-| roe | 22.42 |
-| roe_pct_rank | 73 |
-| roa | 11.22 |
-| roa_pct_rank | 72 |
-| eps | 3969 |
-| bvps | 17505 |
-| beta | 0.7 |
-| dividend | 700 |
-| yield | 0.027079303675048357 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 59 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                           | publishtime             | url                                                                                                     |
-|:--------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
-| NT2: BCTC Tóm tắt quý 1 năm 2026                                                | 2026-04-20T00:00:00     | /2026/04/nt2-bctc-tom-tat-quy-1-nam-2026-737-1430000.htm                                                |
-| MCH, NT2 và PNJ có triển vọng gì?                                               | 2026-04-13T12:01:35.44  | /2026/04/mch-nt2-va-pnj-co-trien-vong-gi-145-1426686.htm                                                |
-| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026 | 2026-04-07T16:33:33     | /2026/04/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1424218.htm |
-| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                               | 2026-04-07T16:33:32     | /2026/04/nt2-thong-bao-ve-viec-huy-ngay-dang-ky-cuoi-cung-737-1424217.htm                               |
-| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026           | 2026-04-03T18:20:59     | /2026/04/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026-737-1422891.htm           |
-| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026             | 2026-04-03T18:20:57     | /2026/04/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026-737-1422885.htm             |
-| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                             | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                              |
-| NT2: Báo cáo thường niên năm 2025                                               | 2026-03-19T17:10:23     | /2026/03/nt2-bao-cao-thuong-nien-nam-2025-737-1414161.htm                                               |
-| NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 2026-03-03T17:40:27     | /2026/03/nt2-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407832.htm                  |
-| NT2: BCTC Tóm tắt năm 2025                                                      | 2026-03-02T00:00:00     | /2026/03/nt2-bctc-tom-tat-nam-2025-737-1407164.htm                                                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NT2      | 2026-03-25 00:00:00 |  26    |  27.7  | 25.8  |   27.7  |  2979600 |
-| NT2      | 2026-03-26 00:00:00 |  28.15 |  28.15 | 27.1  |   27.75 |  1455700 |
-| NT2      | 2026-03-27 00:00:00 |  27.7  |  28    | 27.25 |   27.9  |   950600 |
-| NT2      | 2026-03-30 00:00:00 |  27.25 |  28.6  | 27.25 |   27.9  |  1371700 |
-| NT2      | 2026-03-31 00:00:00 |  28.1  |  28.1  | 27.5  |   27.6  |   846800 |
-| NT2      | 2026-04-01 00:00:00 |  27.9  |  28.25 | 27.55 |   27.7  |  1394400 |
-| NT2      | 2026-04-02 00:00:00 |  27.7  |  27.7  | 26.9  |   27    |   815600 |
-| NT2      | 2026-04-03 00:00:00 |  27.1  |  27.35 | 26    |   26    |  1139400 |
-| NT2      | 2026-04-06 00:00:00 |  26.05 |  26.25 | 25.2  |   25.2  |  1022600 |
-| NT2      | 2026-04-07 00:00:00 |  25.2  |  25.6  | 25    |   25.2  |   411000 |
-| NT2      | 2026-04-08 00:00:00 |  25.95 |  26.3  | 25.5  |   26.2  |   602200 |
-| NT2      | 2026-04-09 00:00:00 |  26.2  |  26.2  | 25.6  |   25.7  |   761100 |
-| NT2      | 2026-04-10 00:00:00 |  25.8  |  26.3  | 25.75 |   26.2  |   569900 |
-| NT2      | 2026-04-13 00:00:00 |  26.3  |  26.8  | 26.3  |   26.55 |   721400 |
-| NT2      | 2026-04-14 00:00:00 |  26.7  |  26.7  | 26.3  |   26.35 |   474800 |
-| NT2      | 2026-04-15 00:00:00 |  26.4  |  26.5  | 26.1  |   26.1  |   552700 |
-| NT2      | 2026-04-16 00:00:00 |  26.15 |  26.7  | 25.8  |   26.2  |   805000 |
-| NT2      | 2026-04-17 00:00:00 |  26.5  |  26.5  | 25.95 |   26    |   514700 |
-| NT2      | 2026-04-20 00:00:00 |  26.3  |  26.45 | 26    |   26.3  |   778300 |
-| NT2      | 2026-04-21 00:00:00 |  26.6  |  26.6  | 25.8  |   25.85 |  1100300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NT2      | 2026-04-21 14:09:26 |   25.85 |      900 | Buy          | 466409634 |
-| NT2      | 2026-04-21 14:09:44 |   25.9  |      300 | Buy          | 466410501 |
-| NT2      | 2026-04-21 14:09:53 |   25.9  |      600 | Buy          | 466411011 |
-| NT2      | 2026-04-21 14:09:57 |   25.85 |      300 | Sell         | 466411291 |
-| NT2      | 2026-04-21 14:09:57 |   25.85 |     1300 | Sell         | 466411293 |
-| NT2      | 2026-04-21 14:10:16 |   25.85 |     1100 | Sell         | 466412276 |
-| NT2      | 2026-04-21 14:10:39 |   25.85 |      600 | Sell         | 466413576 |
-| NT2      | 2026-04-21 14:10:39 |   25.85 |      300 | Sell         | 466413577 |
-| NT2      | 2026-04-21 14:10:39 |   25.85 |      600 | Sell         | 466413578 |
-| NT2      | 2026-04-21 14:10:42 |   25.85 |      100 | Sell         | 466413713 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

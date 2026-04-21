@@ -1,129 +1,46 @@
 # TPB — TPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TPB |
-| exchange | HOSE |
-| market_cap | 45078261686250 |
-| 52w_high | 21017 |
-| 52w_high_date | 2025-08-21 |
-| 52w_low | 11907 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 24.6564 |
-| dividend | 1000 |
-| beta | 0.92 |
-| eps | 2776 |
-| eps_forward | 4.416925442837174 |
-| bvps | 16589.03 |
-| pe | 5.91 |
-| pb | 0.99 |
-| price_chg_1m | 2.85 |
-| price_chg_ytd | 34.97 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.061538461538461535 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 16.25 |
-| EMA20 | 16.26 |
-| EMA50 | 16.48 |
-| RSI(14) | 49.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.028 |
-| MACD Signal | -0.08 |
-| MACD Histogram | 0.052 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TPB |
-| pe | 5.91 |
-| pb | 0.99 |
-| eps | 2776 |
-| bvps | 16589.03 |
-| beta | 0.92 |
-| dividend | 1000 |
-| yield | 0.061538461538461535 |
-| pe_pct_rank | 34 |
-| pb_pct_rank | 42 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                           | publishtime             | url                                                                                                                   |
-|:------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
-| TPB: Link công bố Báo cáo thường niên năm 2025                                                  | 2026-04-20T15:59:12     | /2026/04/tpb-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430472.htm                                                |
-| TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 cập nhật                       | 2026-04-15T16:57:44     | /2026/04/tpb-thong-bao-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-737-1428151.htm                     |
-| Tổng Giám đốc TPBank: Mặt bằng huy động bình ổn quanh mốc 7%, hé mở dư địa kéo giảm chi phí vốn | 2026-04-10T17:44:30.753 | /2026/04/tong-giam-doc-tpbank-mat-bang-huy-dong-binh-on-quanh-moc-7-he-mo-du-dia-keo-giam-chi-phi-von-757-1426226.htm |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                            | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                          |
-| TPB: Nghị quyết HĐQT số 10/2026 ngày 07/04/2026                                                 | 2026-04-08T17:31:13     | /2026/04/tpb-nghi-quyet-hdqt-so-10-2026-ngay-07-04-2026-737-1425147.htm                                               |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                     | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                     |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                  | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
-| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC        | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
-| TPBank muốn lập ngân hàng thành viên tại VIFC vốn 3,000 tỷ đồng                                 | 2026-04-03T15:00:00     | /2026/04/tpbank-muon-lap-ngan-hang-thanh-vien-tai-vifc-von-3000-ty-dong-757-1422529.htm                               |
-| TPB: Thông báo mời họp và tài liệu ĐHĐCĐ thường niên năm 2026                                   | 2026-04-03T09:12:21     | /2026/04/tpb-thong-bao-moi-hop-va-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1422307.htm                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TPB      | 2026-03-25 00:00:00 |  15.85 |  16.2  | 15.8  |   16.15 | 11989200 |
-| TPB      | 2026-03-26 00:00:00 |  16.15 |  16.15 | 15.9  |   15.9  |  6802600 |
-| TPB      | 2026-03-27 00:00:00 |  15.9  |  16.3  | 15.9  |   16.25 |  9247800 |
-| TPB      | 2026-03-30 00:00:00 |  15.9  |  16.2  | 15.85 |   15.95 |  5128400 |
-| TPB      | 2026-03-31 00:00:00 |  16.05 |  16.5  | 16    |   16.3  | 11363300 |
-| TPB      | 2026-04-01 00:00:00 |  16.55 |  16.75 | 16.3  |   16.35 | 11594500 |
-| TPB      | 2026-04-02 00:00:00 |  16.25 |  16.25 | 15.95 |   16    |  5650100 |
-| TPB      | 2026-04-03 00:00:00 |  16.15 |  16.15 | 15.95 |   16    |  4118600 |
-| TPB      | 2026-04-06 00:00:00 |  16    |  16.1  | 15.85 |   15.85 |  4698000 |
-| TPB      | 2026-04-07 00:00:00 |  15.95 |  16    | 15.55 |   15.75 |  9187900 |
-| TPB      | 2026-04-08 00:00:00 |  16.2  |  16.6  | 16.15 |   16.5  | 17311600 |
-| TPB      | 2026-04-09 00:00:00 |  16.45 |  16.45 | 16.25 |   16.25 |  5397600 |
-| TPB      | 2026-04-10 00:00:00 |  16.4  |  16.9  | 16.3  |   16.3  |  8878700 |
-| TPB      | 2026-04-13 00:00:00 |  16.2  |  16.5  | 16.1  |   16.35 |  7939500 |
-| TPB      | 2026-04-14 00:00:00 |  16.5  |  16.7  | 16.4  |   16.45 |  8610800 |
-| TPB      | 2026-04-15 00:00:00 |  16.45 |  16.6  | 16.35 |   16.4  |  6809100 |
-| TPB      | 2026-04-16 00:00:00 |  16.4  |  16.45 | 16.2  |   16.25 |  6088700 |
-| TPB      | 2026-04-17 00:00:00 |  16.25 |  16.4  | 16.2  |   16.25 |  6009400 |
-| TPB      | 2026-04-20 00:00:00 |  16.25 |  16.5  | 16.25 |   16.4  |  6485400 |
-| TPB      | 2026-04-21 00:00:00 |  16.45 |  16.5  | 16.25 |   16.25 |  6860400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TPB      | 2026-04-21 14:27:20 |   16.25 |      900 | Sell         | 466483155 |
-| TPB      | 2026-04-21 14:27:20 |   16.25 |    10000 | Sell         | 466483171 |
-| TPB      | 2026-04-21 14:27:20 |   16.25 |     3500 | Sell         | 466483159 |
-| TPB      | 2026-04-21 14:27:20 |   16.25 |      500 | Sell         | 466483156 |
-| TPB      | 2026-04-21 14:27:20 |   16.25 |     5000 | Sell         | 466483157 |
-| TPB      | 2026-04-21 14:27:20 |   16.25 |      200 | Sell         | 466483158 |
-| TPB      | 2026-04-21 14:27:21 |   16.25 |    50000 | Sell         | 466483233 |
-| TPB      | 2026-04-21 14:27:31 |   16.25 |    28000 | Sell         | 466484009 |
-| TPB      | 2026-04-21 14:27:33 |   16.25 |      400 | Sell         | 466484233 |
-| TPB      | 2026-04-21 14:27:36 |   16.25 |     4000 | Sell         | 466484593 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

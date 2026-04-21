@@ -1,133 +1,46 @@
 # BSR — BSR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSR |
-| exchange | HOSE |
-| market_cap | 130690521804600 |
-| 52w_high | 37850 |
-| 52w_high_date | 2026-03-04 |
-| 52w_low | 9288 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 1.5999 |
-| dividend | 0 |
-| beta | 0.66 |
-| eps | 1539 |
-| eps_forward | 60.564652477013226 |
-| bvps | 12079 |
-| pe | 16.99 |
-| pb | 2.16 |
-| price_chg_1m | -6.95 |
-| price_chg_ytd | 168.46 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 26.1 |
-| EMA20 | 26.85 |
-| EMA50 | 26.71 |
-| RSI(14) | 45.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.694 |
-| MACD Signal | -0.754 |
-| MACD Histogram | 0.06 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSR |
-| pe | 16.99 |
-| pb | 2.16 |
-| roe | 8.95 |
-| roe_pct_rank | 45 |
-| roa | 5.98 |
-| roa_pct_rank | 53 |
-| eps | 1539 |
-| bvps | 12079 |
-| beta | 0.66 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 60 |
-| pb_pct_rank | 78 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                | publishtime             | url                                                                                          |
-|:---------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------|
-| BSR: Thông báo thay đổi nhân sự - miễn nhiệm Phó TGĐ                 | 2026-04-20T17:52:27     | /2026/04/bsr-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tgd-214-1430768.htm                   |
-| BSR: Thông báo ký hợp đồng kiểm toán BCTC 2026                       | 2026-04-20T17:51:56     | /2026/04/bsr-thong-bao-ky-hop-dong-kiem-toan-bctc-2026-737-1430769.htm                       |
-| BSR: Báo cáo thường niên năm 2025                                    | 2026-04-16T16:57:07     | /2026/04/bsr-bao-cao-thuong-nien-nam-2025-737-1428691.htm                                    |
-| BSR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026               | 2026-04-14T17:54:29     | /2026/04/bsr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1427673.htm               |
-| BSR: Thông báo thay đổi nhân sự (kèm NQ)                             | 2026-04-14T17:53:40     | /2026/04/bsr-thong-bao-thay-doi-nhan-su-kem-nq-214-1427697.htm                               |
-| ĐHĐCĐ BSR: Mở rộng kinh doanh quốc tế là hướng đi chiến lược         | 2026-04-13T11:16:00     | /2026/04/dhdcd-bsrmo-rong-kinh-doanh-quoc-te-la-huong-di-chien-luoc-737-1426633.htm          |
-| Vì đâu công ty chứng khoán gọi tên BSR, EIB, REE?                    | 2026-04-06T14:28:15.65  | /2026/04/vi-dau-cong-ty-chung-khoan-goi-ten-bsr-eib-ree-145-1423333.htm                      |
-| BSR: CBTT giao dịch với người có liên quan PVOIL Lào                 | 2026-04-02T18:27:08     | /2026/04/bsr-cbtt-giao-dich-voi-nguoi-co-lien-quan-pvoil-lao-739-1421969.htm                 |
-| Phân tích kỹ thuật phiên chiều 01/04: Tiếp tục tăng                  | 2026-04-01T13:13:22.467 | /2026/04/phan-tich-ky-thuat-phien-chieu-0104-tiep-tuc-tang-585-1420624.htm                   |
-| BSR: Giải trình một số nội dung liên quan BCTC năm 2025 đã kiểm toán | 2026-03-26T17:35:06     | /2026/03/bsr-giai-trinh-mot-so-noi-dung-lien-quan-bctc-nam-2025-da-kiem-toan-737-1417135.htm |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BSR      | 2026-03-25 00:00:00 |  26.95 |  28.2  | 26.8  |   27.5  | 16946200 |
-| BSR      | 2026-03-26 00:00:00 |  27.75 |  27.8  | 26.5  |   27.25 |  9550900 |
-| BSR      | 2026-03-27 00:00:00 |  27.35 |  27.75 | 27    |   27.6  | 10857200 |
-| BSR      | 2026-03-30 00:00:00 |  28.45 |  29.3  | 28.1  |   29.15 | 19698000 |
-| BSR      | 2026-03-31 00:00:00 |  29.6  |  29.65 | 27.65 |   27.65 | 20456600 |
-| BSR      | 2026-04-01 00:00:00 |  27.65 |  28    | 26.1  |   26.3  | 23335900 |
-| BSR      | 2026-04-02 00:00:00 |  26.35 |  27.25 | 25.35 |   25.9  | 16030200 |
-| BSR      | 2026-04-03 00:00:00 |  26.4  |  27.1  | 26.3  |   26.35 |  9858500 |
-| BSR      | 2026-04-06 00:00:00 |  26.4  |  26.5  | 25    |   25.1  |  9927300 |
-| BSR      | 2026-04-07 00:00:00 |  25.3  |  26.2  | 24.6  |   25.15 | 10889200 |
-| BSR      | 2026-04-08 00:00:00 |  25.6  |  25.9  | 24.95 |   25.7  | 14571200 |
-| BSR      | 2026-04-09 00:00:00 |  25.8  |  26    | 25    |   25    |  8885200 |
-| BSR      | 2026-04-10 00:00:00 |  25.4  |  26.75 | 25.1  |   26.75 | 20100100 |
-| BSR      | 2026-04-13 00:00:00 |  27.25 |  27.85 | 26.8  |   27.35 | 13428700 |
-| BSR      | 2026-04-14 00:00:00 |  27.9  |  27.9  | 26.1  |   26.3  | 16976800 |
-| BSR      | 2026-04-15 00:00:00 |  26.3  |  26.95 | 25.9  |   26.15 | 11319000 |
-| BSR      | 2026-04-16 00:00:00 |  26.1  |  26.5  | 25.8  |   25.8  |  9596200 |
-| BSR      | 2026-04-17 00:00:00 |  26.3  |  26.9  | 25.8  |   26.7  | 10425100 |
-| BSR      | 2026-04-20 00:00:00 |  26.75 |  26.85 | 26    |   26.15 |  7862400 |
-| BSR      | 2026-04-21 00:00:00 |  26.2  |  26.7  | 25.9  |   26.1  |  9310600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BSR      | 2026-04-21 14:27:53 |   26.2  |      300 | Buy          | 466486282 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |     2000 | Sell         | 466486603 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |      200 | Sell         | 466486596 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |     1000 | Sell         | 466486598 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |      100 | Sell         | 466486599 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |      100 | Sell         | 466486601 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |      200 | Sell         | 466486602 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |     9600 | Sell         | 466486594 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |     1000 | Sell         | 466486600 |
-| BSR      | 2026-04-21 14:27:57 |   26.15 |     4000 | Sell         | 466486605 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

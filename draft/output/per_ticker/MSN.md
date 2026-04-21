@@ -1,133 +1,46 @@
 # MSN — MSN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:37  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MSN |
-| exchange | HOSE |
-| market_cap | 120118862233000 |
-| 52w_high | 88500 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 58700 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 24.5248 |
-| dividend | 0 |
-| beta | 0.8 |
-| eps | 2756 |
-| eps_forward | 24.889277025762585 |
-| bvps | 29647 |
-| pe | 28.95 |
-| pb | 2.69 |
-| price_chg_1m | 10.80 |
-| price_chg_ytd | 35.97 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 79.0 |
-| EMA20 | 77.04 |
-| EMA50 | 76.62 |
-| RSI(14) | 59.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 1.042 |
-| MACD Signal | 0.635 |
-| MACD Histogram | 0.407 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MSN |
-| pe | 28.95 |
-| pb | 2.69 |
-| roe | 15.76 |
-| roe_pct_rank | 59 |
-| roa | 2.97 |
-| roa_pct_rank | 41 |
-| eps | 2756 |
-| bvps | 29647 |
-| beta | 0.8 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 85 |
-| pb_pct_rank | 92 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                         | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Masan Consumer tăng trưởng hai chữ số quý 1: Triển vọng hoàn thành kế hoạch 2026 rõ nét?                      | 2026-04-20T12:52:00     | /2026/04/masan-consumer-tang-truong-hai-chu-so-quy-1-trien-vong-hoan-thanh-ke-hoach-2026-ro-net-737-1430118.htm           |
-| MSN: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Le Danny                                             | 2026-04-14T18:01:38     | /2026/04/msn-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-danny-739-1427687.htm                                 |
-| Một cổ phiếu VN-30 dự báo lãi quý 1 tăng trưởng 3 chữ số, được khối ngoại mua ròng mạnh nhất top 3 thị trường | 2026-04-14T14:32:08.923 | /2026/04/mot-co-phieu-vn-30-du-bao-lai-quy-1-tang-truong-3-chu-so-duoc-khoi-ngoai-mua-rong-manh-nhat-top-3-thi-truong-83… |
-| Một cổ phiếu, ba câu chuyện tăng trưởng: MSN đang ở thời điểm nào?                                            | 2026-04-07T08:02:00     | /2026/04/mot-co-phieu-ba-cau-chuyen-tang-truong-msn-dang-o-thoi-diem-nao-737-1423384.htm                                  |
-| Động lực nào giúp Masan đặt mục tiêu tăng trưởng lợi nhuận 7,900 tỷ đồng?                                     | 2026-04-03T17:00:00     | /2026/04/dong-luc-nao-giup-masan-dat-muc-tieu-tang-truong-loi-nhuan-7900-ty-dong-737-1422606.htm                          |
-| Masan công bố kế hoạch phân phối gần 55 triệu cp MSR                                                          | 2026-04-03T16:30:00     | /2026/04/masan-cong-bo-ke-hoach-phan-phoi-gan-55-trieu-cp-msr-737-1422548.htm                                             |
-| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                      | 2026-04-03T10:37:36     | /2026/04/msn-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422399.htm                                                          |
-| MSN: Báo cáo thường niên năm 2025                                                                             | 2026-04-02T14:30:36     | /2026/04/msn-bao-cao-thuong-nien-nam-2025-737-1421528.htm                                                                 |
-| MSN: Nghị quyết HĐQT về việc công ty TNHH Tầm Nhìn Masan bán cổ phần MSR ra thị trường                        | 2026-04-01T17:45:33     | /2026/04/msn-nghi-quyet-hdqt-ve-viec-cong-ty-tnhh-tam-nhin-masan-ban-co-phan-msr-ra-thi-truong-737-1421116.htm            |
-| MSN: Đính chính một số nội dung của Báo cáo tình hình quản trị công ty năm 2025                               | 2026-04-01T17:44:10     | /2026/04/msn-dinh-chinh-mot-so-noi-dung-cua-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1421126.htm                   |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSN      | 2026-03-25 00:00:00 |   73.5 |   73.5 |  72.2 |    73.2 |  4078200 |
-| MSN      | 2026-03-26 00:00:00 |   73   |   73.2 |  71.8 |    72.1 |  4014500 |
-| MSN      | 2026-03-27 00:00:00 |   72.2 |   73.4 |  72.2 |    73.3 |  4263900 |
-| MSN      | 2026-03-30 00:00:00 |   72   |   75.3 |  71.8 |    74.8 |  6573900 |
-| MSN      | 2026-03-31 00:00:00 |   75.5 |   76.4 |  75   |    75.5 |  5911100 |
-| MSN      | 2026-04-01 00:00:00 |   76.8 |   77.4 |  75.9 |    76.9 |  8282500 |
-| MSN      | 2026-04-02 00:00:00 |   76.6 |   76.7 |  75.3 |    76.1 |  5420300 |
-| MSN      | 2026-04-03 00:00:00 |   76.2 |   77.1 |  74.8 |    75.3 |  5241600 |
-| MSN      | 2026-04-06 00:00:00 |   75.1 |   76.2 |  74.5 |    75.3 |  4242400 |
-| MSN      | 2026-04-07 00:00:00 |   75.4 |   75.7 |  74.3 |    75.1 |  3191700 |
-| MSN      | 2026-04-08 00:00:00 |   77.2 |   77.8 |  76.3 |    77.7 | 10008300 |
-| MSN      | 2026-04-09 00:00:00 |   77.6 |   79.5 |  76.8 |    78   |  6333100 |
-| MSN      | 2026-04-10 00:00:00 |   78.5 |   78.7 |  77.5 |    78   |  3896000 |
-| MSN      | 2026-04-13 00:00:00 |   77.2 |   77.6 |  76.4 |    77   |  5031600 |
-| MSN      | 2026-04-14 00:00:00 |   77.7 |   78   |  77   |    77.6 |  4522400 |
-| MSN      | 2026-04-15 00:00:00 |   78.4 |   78.4 |  77   |    77.2 |  4323100 |
-| MSN      | 2026-04-16 00:00:00 |   77.2 |   78.8 |  76.7 |    78   |  7346700 |
-| MSN      | 2026-04-17 00:00:00 |   78.3 |   82.5 |  78.3 |    79.5 | 13601600 |
-| MSN      | 2026-04-20 00:00:00 |   80   |   80.4 |  79.3 |    79.8 |  5211800 |
-| MSN      | 2026-04-21 00:00:00 |   80   |   80.9 |  78.8 |    79   |  7452100 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSN      | 2026-04-21 14:29:08 |      79 |      100 | Buy          | 466493956 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      100 | Buy          | 466494065 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      500 | Buy          | 466494057 |
-| MSN      | 2026-04-21 14:29:09 |      79 |     1000 | Buy          | 466494058 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      500 | Buy          | 466494059 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      100 | Buy          | 466494060 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      300 | Buy          | 466494061 |
-| MSN      | 2026-04-21 14:29:09 |      79 |     1000 | Buy          | 466494062 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      200 | Buy          | 466494063 |
-| MSN      | 2026-04-21 14:29:09 |      79 |      100 | Buy          | 466494064 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

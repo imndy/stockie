@@ -1,133 +1,46 @@
 # HCM — HCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HCM |
-| exchange | HOSE |
-| market_cap | 29482817118300 |
-| 52w_high | 29207 |
-| 52w_high_date | 2025-09-04 |
-| 52w_low | 19027 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 34.725 |
-| dividend | 800 |
-| beta | 1 |
-| eps | 1403 |
-| eps_forward | 23.563431577527485 |
-| bvps | 13335.7 |
-| pe | 19.92 |
-| pb | 2.10 |
-| price_chg_1m | 33.17 |
-| price_chg_ytd | 44.65 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.029304029304029304 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 27.3 |
-| EMA20 | 25.17 |
-| EMA50 | 23.98 |
-| RSI(14) | 71.0 |
-| RSI nhận xét | Quá mua |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 1.295 |
-| MACD Signal | 0.956 |
-| MACD Histogram | 0.339 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HCM |
-| pe | 19.92 |
-| pb | 2.10 |
-| roe | 9.43 |
-| roe_pct_rank | 46 |
-| roa | 3.03 |
-| roa_pct_rank | 41 |
-| eps | 1403 |
-| bvps | 13335.7 |
-| beta | 1 |
-| dividend | 800 |
-| yield | 0.029304029304029304 |
-| pe_pct_rank | 66 |
-| pb_pct_rank | 76 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| HCM: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T14:11:00 | /2026/04/hcm-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430308.htm                                                           |
-| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430317.htm                                                                          |
-| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430504.htm                                                                          |
-| HCM: Đính chính Nghị quyết HĐQT số 05 ngày 26/02/2026                                                                     | 2026-04-15T16:31:13 | /2026/04/hcm-dinh-chinh-nghi-quyet-hdqt-so-05-ngay-26-02-2026-737-1428194.htm                                             |
-| HCM: Báo cáo kết quả giao dịch CCQ của tổ chức có liên quan với người nội bộ của công ty quản lý quỹ | Report on results… | 2026-04-15T00:00:00 | /2026/04/hcm-bao-cao-ket-qua-giao-dich-ccq-cua-to-chuc-co-lien-quan-voi-nguoi-noi-bo-cua-cong-ty-quan-ly-quy-|-report-on… |
-| HCM: CBTT - Đính chính Nghị quyết HĐQT thông qua Phương án chào bán và việc niêm yết chứng quyền có bảo đảm đợt 20 | Cor… | 2026-04-15T00:00:00 | /2026/04/hcm-cbtt-dinh-chinh-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-viec-niem-yet-chung-quyen-co-bao-dam-dot-20… |
-| HCM: Nghị quyết HĐQT thông qua danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026-2030)                              | 2026-04-13T16:25:45 | /2026/04/hcm-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-737-1426911.htm         |
-| HCM: CBTT - Nghị quyết HĐQT thông qua Danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026 – 2030) | The Board Resolu… | 2026-04-13T00:00:00 | /2026/04/hcm-cbtt-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-|-the-board-resol… |
-| HCM: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán cổ phiếu ra công chúng đã được kiểm toán                        | 2026-04-10T16:05:17 | /2026/04/hcm-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-da-duoc-kiem-toan-737-1426194.h… |
-| HCM: CBTT - Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán cổ phiếu ra công chúng đã được kiểm toán | Audited Repo… | 2026-04-10T00:00:00 | /2026/04/hcm-cbtt-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-da-duoc-kiem-toan-|-audite… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HCM      | 2026-03-25 00:00:00 |  20.3  |  21.1  | 20.15 |   21.1  | 15099500 |
-| HCM      | 2026-03-26 00:00:00 |  21.2  |  22    | 21.05 |   21.75 | 17367100 |
-| HCM      | 2026-03-27 00:00:00 |  21.8  |  22.6  | 21.6  |   22.25 | 11310100 |
-| HCM      | 2026-03-30 00:00:00 |  21.5  |  22.45 | 21.5  |   22.3  | 11841700 |
-| HCM      | 2026-03-31 00:00:00 |  22.5  |  23.05 | 22.3  |   22.7  | 11220200 |
-| HCM      | 2026-04-01 00:00:00 |  23.1  |  23.8  | 23.05 |   23.5  | 19337400 |
-| HCM      | 2026-04-02 00:00:00 |  23.2  |  23.9  | 23.1  |   23.6  | 13654800 |
-| HCM      | 2026-04-03 00:00:00 |  23.8  |  24.6  | 23.65 |   24.15 | 26829100 |
-| HCM      | 2026-04-06 00:00:00 |  24    |  24.4  | 23.5  |   24    | 16203000 |
-| HCM      | 2026-04-07 00:00:00 |  23.95 |  24.3  | 23.7  |   24.25 |  8655500 |
-| HCM      | 2026-04-08 00:00:00 |  25    |  25.9  | 24.55 |   25.4  | 30192700 |
-| HCM      | 2026-04-09 00:00:00 |  25.05 |  25.5  | 24.7  |   25.2  | 11729800 |
-| HCM      | 2026-04-10 00:00:00 |  25.4  |  25.75 | 25    |   25.3  | 12509900 |
-| HCM      | 2026-04-13 00:00:00 |  25    |  26.25 | 24.85 |   25.9  | 19506800 |
-| HCM      | 2026-04-14 00:00:00 |  26.15 |  26.3  | 25.7  |   25.95 | 11570600 |
-| HCM      | 2026-04-15 00:00:00 |  26.1  |  27.1  | 26.1  |   26.85 | 33493000 |
-| HCM      | 2026-04-16 00:00:00 |  26.6  |  27.3  | 26.5  |   26.85 | 28545700 |
-| HCM      | 2026-04-17 00:00:00 |  26.85 |  28.05 | 26.75 |   27    | 24187900 |
-| HCM      | 2026-04-20 00:00:00 |  26.9  |  28.3  | 26.9  |   27.95 | 25060100 |
-| HCM      | 2026-04-21 00:00:00 |  27.95 |  28.4  | 26.95 |   27.3  | 14482000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HCM      | 2026-04-21 14:26:01 |   27.6  |    10000 | Buy          | 466476164 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |      200 | Buy          | 466476173 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      200 | Buy          | 466476166 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |     3000 | Buy          | 466476167 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |     3000 | Buy          | 466476168 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |     4700 | Buy          | 466476170 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |    50000 | Buy          | 466476172 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      600 | Buy          | 466476165 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      500 | Buy          | 466476169 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |      100 | Buy          | 466476175 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

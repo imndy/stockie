@@ -1,133 +1,46 @@
 # VHM — VHM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHM |
-| exchange | HOSE |
-| market_cap | 598860670183200 |
-| 52w_high | 149500 |
-| 52w_high_date | 2026-01-07 |
-| 52w_low | 57500 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 8.0459 |
-| dividend | 0 |
-| beta | 1.79 |
-| eps | 10019 |
-| eps_forward | 14.190126175746327 |
-| bvps | 60356 |
-| pe | 14.48 |
-| pb | 2.40 |
-| price_chg_1m | 45.80 |
-| price_chg_ytd | 165.09 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 145.8 |
-| EMA20 | 124.67 |
-| EMA50 | 114.91 |
-| RSI(14) | 74.3 |
-| RSI nhận xét | Quá mua |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 10.218 |
-| MACD Signal | 7.468 |
-| MACD Histogram | 2.751 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHM |
-| pe | 14.48 |
-| pb | 2.40 |
-| roe | 17.97 |
-| roe_pct_rank | 64 |
-| roa | 6.09 |
-| roa_pct_rank | 54 |
-| eps | 10019 |
-| bvps | 60356 |
-| beta | 1.79 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 54 |
-| pb_pct_rank | 84 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                 | publishtime            | url                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Vinhomes nâng lợi nhuận mục tiêu thêm 10,000 tỷ                                                                       | 2026-04-20T18:34:31.58 | /2026/04/vinhomes-nang-loi-nhuan-muc-tieu-them-10000-ty-737-1430614.htm                                                   |
-| VHM: CBTT điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                              | 2026-04-20T10:03:57    | /2026/04/vhm-cbtt-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429995.htm                                          |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                           | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
-| Thị trường chứng quyền ngày 16/04/2026: Nhóm chứng quyền VIC và VHM tỏa sáng                                          | 2026-04-15T20:00:00    | /2026/04/thi-truong-chung-quyen-ngay-16042026-nhom-chung-quyen-vic-va-vhm-toa-sang-1636-1428021.htm                       |
-| Nhịp đập Thị trường 13/04: Thị trường phân hóa, nhóm cổ phiếu VIC và VHM nâng đỡ chỉ số                               | 2026-04-13T16:02:00    | /2026/04/nhip-dap-thi-truong-1304-thi-truong-phan-hoa-nhom-co-phieu-vic-va-vhm-nang-do-chi-so-1636-1426645.htm            |
-| VHM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Tập đoàn Vingroup - Công ty Cổ phần | 2026-04-13T14:12:02    | /2026/04/vhm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-tap-doan-vingroup-cong-ty-co-p… |
-| VHM: Báo cáo thường niên năm 2025                                                                                     | 2026-04-13T14:11:34    | /2026/04/vhm-bao-cao-thuong-nien-nam-2025-737-1426751.htm                                                                 |
-| VHM: Nghị quyết HĐQT về việc thành lập các Chi nhánh của Công ty                                                      | 2026-04-09T17:49:56    | /2026/04/vhm-nghi-quyet-hdqt-ve-viec-thanh-lap-cac-chi-nhanh-cua-cong-ty-737-1425706.htm                                  |
-| VHM: Nghị quyết HĐQT về việc chào bán và phát hành trái phiếu doanh nghiệp theo hình thức riêng lẻ                    | 2026-04-09T17:48:50    | /2026/04/vhm-nghi-quyet-hdqt-ve-viec-chao-ban-va-phat-hanh-trai-phieu-doanh-nghiep-theo-hinh-thuc-rieng-le-737-1425704.h… |
-| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm                              | 2026-04-01T16:47:00    | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm            |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHM      | 2026-03-25 00:00:00 |  100.9 |  104.2 |  99.2 |   104.2 |  4327400 |
-| VHM      | 2026-03-26 00:00:00 |  104.3 |  104.3 | 101.1 |   101.1 |  2742600 |
-| VHM      | 2026-03-27 00:00:00 |  102   |  103.5 | 100.2 |   103   |  2547500 |
-| VHM      | 2026-03-30 00:00:00 |  100.8 |  103.6 | 100.2 |   103   |  2582200 |
-| VHM      | 2026-03-31 00:00:00 |  102.4 |  103.8 | 102   |   103   |  1487400 |
-| VHM      | 2026-04-01 00:00:00 |  110.2 |  110.2 | 110.2 |   110.2 |  2031500 |
-| VHM      | 2026-04-02 00:00:00 |  117.9 |  117.9 | 116.1 |   117.9 | 16320300 |
-| VHM      | 2026-04-03 00:00:00 |  120.8 |  125   | 117.8 |   119.2 |  6023000 |
-| VHM      | 2026-04-06 00:00:00 |  118   |  120.7 | 116   |   117   |  3208900 |
-| VHM      | 2026-04-07 00:00:00 |  117   |  118   | 113.5 |   115   |  3160700 |
-| VHM      | 2026-04-08 00:00:00 |  117.9 |  123   | 117.6 |   123   |  5534000 |
-| VHM      | 2026-04-09 00:00:00 |  123.5 |  127.5 | 121.9 |   122   |  5205200 |
-| VHM      | 2026-04-10 00:00:00 |  124   |  124   | 120.6 |   121.1 |  2500900 |
-| VHM      | 2026-04-13 00:00:00 |  119.1 |  124.2 | 118.2 |   122.9 |  3679400 |
-| VHM      | 2026-04-14 00:00:00 |  125.1 |  128.9 | 122.9 |   128.9 |  5575500 |
-| VHM      | 2026-04-15 00:00:00 |  130.3 |  137.9 | 129.3 |   137   |  6586300 |
-| VHM      | 2026-04-16 00:00:00 |  137   |  146   | 137   |   143.1 |  8240500 |
-| VHM      | 2026-04-17 00:00:00 |  144.6 |  146.5 | 135.5 |   135.7 |  9354800 |
-| VHM      | 2026-04-20 00:00:00 |  136.6 |  145.1 | 131.5 |   145.1 |  6841800 |
-| VHM      | 2026-04-21 00:00:00 |  149   |  155   | 145.8 |   145.8 |  5254300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VHM      | 2026-04-21 14:28:47 |   147   |      200 | Buy          | 466491600 |
-| VHM      | 2026-04-21 14:28:48 |   146.9 |      200 | Sell         | 466491620 |
-| VHM      | 2026-04-21 14:28:51 |   146.9 |      400 | Sell         | 466492043 |
-| VHM      | 2026-04-21 14:28:51 |   147   |      200 | Buy          | 466492042 |
-| VHM      | 2026-04-21 14:28:52 |   146.9 |      100 | Sell         | 466492143 |
-| VHM      | 2026-04-21 14:28:52 |   146.9 |      200 | Sell         | 466492177 |
-| VHM      | 2026-04-21 14:28:52 |   147   |      100 | Buy          | 466492137 |
-| VHM      | 2026-04-21 14:28:53 |   147   |     7500 | Buy          | 466492371 |
-| VHM      | 2026-04-21 14:28:53 |   146.9 |      100 | Sell         | 466492299 |
-| VHM      | 2026-04-21 14:28:53 |   146.9 |     2200 | Buy          | 466492369 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

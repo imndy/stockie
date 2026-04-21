@@ -1,6 +1,6 @@
 # FPT — FPT
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 19:34  |  🗂 Quarterly: —
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: —
 
 ---
 
@@ -327,126 +327,39 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FPT |
-| exchange | HOSE |
-| market_cap | 127933384787100 |
-| 52w_high | 110945 |
-| 52w_high_date | 2025-07-22 |
-| 52w_low | 73100 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 31.9362 |
-| dividend | 2000 |
-| beta | 0.83 |
-| eps | 6017 |
-| eps_forward | 11.264906958313984 |
-| bvps | 25682 |
-| pe | 12.78 |
-| pb | 2.99 |
-| price_chg_1m | 0.67 |
-| price_chg_ytd | -21.23 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.02663115845539281 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 75.1 |
-| EMA20 | 76.52 |
-| EMA50 | 81.46 |
-| RSI(14) | 43.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -1.514 |
-| MACD Signal | -2.069 |
-| MACD Histogram | 0.555 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FPT |
-| pe | 12.78 |
-| pb | 2.99 |
-| roe | 28.25 |
-| roe_pct_rank | 86 |
-| roa | 11.71 |
-| roa_pct_rank | 74 |
-| eps | 6017 |
-| bvps | 25682 |
-| beta | 0.83 |
-| dividend | 2000 |
-| yield | 0.02663115845539281 |
-| pe_pct_rank | 51 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime            | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| FPT: Quy chế nội bộ về quản trị công ty sửa đổi                                                          | 2026-04-20T13:43:43    | /2026/04/fpt-quy-che-noi-bo-ve-quan-tri-cong-ty-sua-doi-143-1430164.htm                                                   |
-| FPT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T13:43:06    | /2026/04/fpt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430163.htm                                            |
-| FPT: Thông báo thay đổi nhân sự                                                                          | 2026-04-20T10:17:06    | /2026/04/fpt-thong-bao-thay-doi-nhan-su-214-1430010.htm                                                                   |
-| FPT: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                      | 2026-04-20T10:16:28    | /2026/04/fpt-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1429994.htm                                               |
-| FPT: Quy chế hoạt động của HĐQT sửa đổi                                                                  | 2026-04-20T10:16:23    | /2026/04/fpt-quy-che-hoat-dong-cua-hdqt-sua-doi-143-1430009.htm                                                           |
-| Số hóa ĐHĐCĐ: Từ giải pháp tình thế đến chiến lược quản trị toàn diện                                    | 2026-04-20T08:02:00    | /2026/04/so-hoa-dhdcd-tu-giai-phap-tinh-the-den-chien-luoc-quan-tri-toan-dien-737-1429714.htm                             |
-| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động                 | 2026-04-17T17:12:00    | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm             |
-| Ông Trương Gia Bình: AI là cuộc chơi không thể đảo ngược, đặt mục tiêu làm chủ công nghệ lõi             | 2026-04-16T17:24:00    | /2026/04/ong-truong-gia-binh-ai-la-cuoc-choi-khong-the-dao-nguoc-dat-muc-tieu-lam-chu-cong-nghe-loi-737-1428608.htm       |
-| FPT triển khai giải pháp số cho Tập đoàn Điện lực Chugoku                                                | 2026-04-15T18:22:54.65 | /2026/04/fpt-trien-khai-giai-phap-so-cho-tap-doan-dien-luc-chugoku-4264-1428196.htm                                       |
-| FPT: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH MTV Đầu tư SCIC | 2026-04-14T18:07:25    | /2026/04/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-tnhh-mtv-dau-tu-scic-737-142… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FPT      | 2026-03-25 00:00:00 |   76.2 |   77   |  75.6 |    77   |  7429300 |
-| FPT      | 2026-03-26 00:00:00 |   77   |   77   |  74.2 |    74.2 |  9743400 |
-| FPT      | 2026-03-27 00:00:00 |   74.5 |   76.3 |  74   |    76.1 |  9080300 |
-| FPT      | 2026-03-30 00:00:00 |   74.4 |   75.2 |  73.5 |    74   |  7814800 |
-| FPT      | 2026-03-31 00:00:00 |   74.9 |   75.5 |  74.4 |    74.7 |  5639200 |
-| FPT      | 2026-04-01 00:00:00 |   75.9 |   76.3 |  75   |    75.3 |  8534000 |
-| FPT      | 2026-04-02 00:00:00 |   75.2 |   75.2 |  74.2 |    74.7 |  5224400 |
-| FPT      | 2026-04-03 00:00:00 |   74.7 |   75.5 |  73.9 |    74   |  6333100 |
-| FPT      | 2026-04-06 00:00:00 |   74   |   74.5 |  73.5 |    73.9 |  4593000 |
-| FPT      | 2026-04-07 00:00:00 |   74.5 |   74.5 |  73.8 |    74   |  4713000 |
-| FPT      | 2026-04-08 00:00:00 |   76   |   79.1 |  75.1 |    79.1 | 14610000 |
-| FPT      | 2026-04-09 00:00:00 |   79.1 |   79.2 |  78.1 |    78.3 |  6272100 |
-| FPT      | 2026-04-10 00:00:00 |   78.6 |   79   |  77.3 |    77.7 |  6099800 |
-| FPT      | 2026-04-13 00:00:00 |   76.9 |   77   |  75.9 |    76   |  9559100 |
-| FPT      | 2026-04-14 00:00:00 |   77   |   77.2 |  76   |    76.2 |  7092500 |
-| FPT      | 2026-04-15 00:00:00 |   76.9 |   77   |  75   |    75.1 | 10047800 |
-| FPT      | 2026-04-16 00:00:00 |   75.6 |   75.6 |  74   |    74.1 | 11316400 |
-| FPT      | 2026-04-17 00:00:00 |   75   |   78   |  74.9 |    76   | 12349600 |
-| FPT      | 2026-04-20 00:00:00 |   76.3 |   77   |  76.1 |    76.9 |  6876800 |
-| FPT      | 2026-04-21 00:00:00 |   77   |   77.4 |  75.1 |    75.1 |  7119000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FPT      | 2026-04-21 14:28:45 |    75.1 |      200 | Sell         | 466491163 |
-| FPT      | 2026-04-21 14:28:46 |    75.2 |      500 | Buy          | 466491538 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |     1800 | Buy          | 466492029 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |      700 | Buy          | 466492026 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |      200 | Buy          | 466492030 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |     1000 | Buy          | 466492036 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      200 | Buy          | 466492044 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      500 | Buy          | 466492061 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      100 | Buy          | 466492115 |
-| FPT      | 2026-04-21 14:28:52 |    75.2 |      100 | Buy          | 466492243 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->

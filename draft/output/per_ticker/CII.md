@@ -1,133 +1,46 @@
 # CII — CII
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CII |
-| exchange | HOSE |
-| market_cap | 12498926412600 |
-| 52w_high | 30350 |
-| 52w_high_date | 2025-10-17 |
-| 52w_low | 9905 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 4.6188 |
-| dividend | 500 |
-| beta | 1.03 |
-| eps | 252 |
-| eps_forward | 27.636363636363637 |
-| bvps | 19133 |
-| pe | 75.48 |
-| pb | 0.99 |
-| price_chg_1m | 14.11 |
-| price_chg_ytd | 82.26 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.026881720430107527 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 18.6 |
-| EMA20 | 18.55 |
-| EMA50 | 18.4 |
-| RSI(14) | 52.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.458 |
-| MACD Signal | 0.46 |
-| MACD Histogram | -0.002 |
-| MACD nhận xét | MACD gần cắt Signal (chú ý) |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CII |
-| pe | 75.48 |
-| pb | 0.99 |
-| roe | 3.57 |
-| roe_pct_rank | 32 |
-| roa | 0.36 |
-| roa_pct_rank | 29 |
-| eps | 252 |
-| bvps | 19133 |
-| beta | 1.03 |
-| dividend | 500 |
-| yield | 0.026881720430107527 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 42 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CII: Thông báo đường dẫn báo cáo thường niên năm 2025                                                                     | 2026-04-15T10:56:54     | /2026/04/cii-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1427840.htm                                             |
-| CII: HĐQT thông qua việc thay đổi, bổ nhiệm một số chức danh Ban Điều hành công ty                                        | 2026-04-13T14:11:44     | /2026/04/cii-hdqt-thong-qua-viec-thay-doi-bo-nhiem-mot-so-chuc-danh-ban-dieu-hanh-cong-ty-214-1426776.htm                 |
-| Phân tích kỹ thuật phiên chiều 13/04: Giằng co                                                                            | 2026-04-13T12:54:04.247 | /2026/04/phan-tich-ky-thuat-phien-chieu-1304-giang-co-585-1426693.htm                                                     |
-| CII tiếp tục dừng cổ tức để dồn lực cho loạt dự án vốn gần 540,000 tỷ                                                     | 2026-04-07T17:32:00.997 | /2026/04/cii-tiep-tuc-dung-co-tuc-de-don-luc-cho-loat-du-an-von-gan-540000-ty-737-1424129.htm                             |
-| CII424002: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:43:00     | /2026/04/cii424002-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
-| CII124021: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:43:00     | /2026/04/cii124021-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
-| CII425021: Công bố thông tin UBND TP.HCM giao Liên danh CII - HFIC làm nhà đầu tư lập đề xuất dự án BOT Võ Nguyên Giáp  … | 2026-04-07T14:42:00     | /2026/04/cii425021-cong-bo-thong-tin-ubnd-tp-hcm-giao-lien-danh-cii-hfic-lam-nha-dau-tu-lap-de-xuat-du-an-bot-vo-nguyen-… |
-| CII đổi cách “mời” cổ đông đi họp, tiền nhận có thể lên tới hàng chục triệu                                               | 2026-04-07T14:40:34.13  | /2026/04/cii-doi-cach-moi-co-dong-di-hop-tien-nhan-co-the-len-toi-hang-chuc-trieu-737-1424003.htm                         |
-| CII: HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2025                                                                   | 2026-04-07T09:00:32     | /2026/04/cii-hdqt-thong-qua-tai-lieu-dhdcd-thuong-nien-nam-2025-737-1423797.htm                                           |
-| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025                                                         | 2026-04-07T09:00:30     | /2026/04/cii-thu-moi-va-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2025-737-1423796.htm                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CII      | 2026-03-25 00:00:00 |  17.1  |  17.8  | 16.8  |   17.8  | 28451600 |
-| CII      | 2026-03-26 00:00:00 |  18.5  |  18.6  | 18    |   18.2  | 29666900 |
-| CII      | 2026-03-27 00:00:00 |  18.2  |  19.15 | 18.05 |   19.1  | 32515100 |
-| CII      | 2026-03-30 00:00:00 |  18.6  |  18.9  | 18.2  |   18.3  | 21696100 |
-| CII      | 2026-03-31 00:00:00 |  18.6  |  19.1  | 18.5  |   18.6  | 17970800 |
-| CII      | 2026-04-01 00:00:00 |  19.2  |  19.2  | 18.35 |   18.35 | 19627100 |
-| CII      | 2026-04-02 00:00:00 |  18.15 |  18.75 | 18.1  |   18.5  | 16804800 |
-| CII      | 2026-04-03 00:00:00 |  18.4  |  18.9  | 17.8  |   18    | 22153000 |
-| CII      | 2026-04-06 00:00:00 |  17.95 |  18.45 | 17.4  |   17.4  | 13265900 |
-| CII      | 2026-04-07 00:00:00 |  17.65 |  17.95 | 17.4  |   17.9  |  8763200 |
-| CII      | 2026-04-08 00:00:00 |  18.45 |  19.1  | 18.1  |   18.8  | 29359000 |
-| CII      | 2026-04-09 00:00:00 |  18.7  |  19.45 | 18.4  |   18.9  | 28967000 |
-| CII      | 2026-04-10 00:00:00 |  19.25 |  19.25 | 18.45 |   18.55 | 22459300 |
-| CII      | 2026-04-13 00:00:00 |  18.7  |  19.8  | 18.7  |   19.8  | 39108100 |
-| CII      | 2026-04-14 00:00:00 |  20.5  |  20.8  | 19.65 |   19.75 | 28674500 |
-| CII      | 2026-04-15 00:00:00 |  19.9  |  20.4  | 19.4  |   19.4  | 32093600 |
-| CII      | 2026-04-16 00:00:00 |  19.4  |  19.5  | 18.7  |   19.5  | 27460700 |
-| CII      | 2026-04-17 00:00:00 |  19.75 |  19.75 | 19    |   19    | 14805900 |
-| CII      | 2026-04-20 00:00:00 |  19.05 |  19.4  | 18.9  |   19    | 10687000 |
-| CII      | 2026-04-21 00:00:00 |  19    |  19.4  | 18.5  |   18.6  | 21581700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CII      | 2026-04-21 14:29:05 |   18.7  |     2000 | Sell         | 466493650 |
-| CII      | 2026-04-21 14:29:05 |   18.7  |    42200 | Sell         | 466493654 |
-| CII      | 2026-04-21 14:29:05 |   18.7  |     5000 | Sell         | 466493651 |
-| CII      | 2026-04-21 14:29:05 |   18.7  |      500 | Sell         | 466493652 |
-| CII      | 2026-04-21 14:29:07 |   18.75 |     1000 | Buy          | 466493897 |
-| CII      | 2026-04-21 14:29:07 |   18.7  |      500 | Sell         | 466493868 |
-| CII      | 2026-04-21 14:29:07 |   18.7  |     5000 | Sell         | 466493892 |
-| CII      | 2026-04-21 14:29:09 |   18.7  |     2000 | Sell         | 466494112 |
-| CII      | 2026-04-21 14:29:09 |   18.75 |      100 | Buy          | 466494146 |
-| CII      | 2026-04-21 14:29:12 |   18.7  |      200 | Sell         | 466494389 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

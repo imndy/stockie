@@ -1,133 +1,46 @@
 # VHC — VHC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHC |
-| exchange | HOSE |
-| market_cap | 13983431805700 |
-| 52w_high | 69200 |
-| 52w_high_date | 2026-02-02 |
-| 52w_low | 42279 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 19.5608 |
-| dividend | 2000 |
-| beta | 0.57 |
-| eps | 6001 |
-| eps_forward | 8.795753348558732 |
-| bvps | 44495 |
-| pe | 10.45 |
-| pb | 1.41 |
-| price_chg_1m | 8.35 |
-| price_chg_ytd | 37.16 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.03210272873194221 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 62.3 |
-| EMA20 | 60.41 |
-| EMA50 | 59.92 |
-| RSI(14) | 60.2 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.693 |
-| MACD Signal | 0.283 |
-| MACD Histogram | 0.411 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHC |
-| pe | 10.45 |
-| pb | 1.41 |
-| roe | 15.29 |
-| roe_pct_rank | 58 |
-| roa | 10.63 |
-| roa_pct_rank | 70 |
-| eps | 6001 |
-| bvps | 44495 |
-| beta | 0.57 |
-| dividend | 2000 |
-| yield | 0.03210272873194221 |
-| pe_pct_rank | 45 |
-| pb_pct_rank | 57 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                            | publishtime             | url                                                                                                     |
-|:---------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
-| VHC: Sơ yếu lý lịch của các ứng viên được đề cử bầu bổ sung Thành viên HĐQT, BKS | 2026-04-21T10:33:07     | /2026/04/vhc-so-yeu-ly-lich-cua-cac-ung-vien-duoc-de-cu-bau-bo-sung-thanh-vien-hdqt-bks-214-1431112.htm |
-| Công ty của bà Trương Thị Lệ Khanh muốn nâng cổ tức tiền mặt lên 30%             | 2026-04-10T11:20:19.733 | /2026/04/cong-ty-cua-ba-truong-thi-le-khanh-muon-nang-co-tuc-tien-mat-len-30-738-1425950.htm            |
-| Vĩnh Hoàn chốt thời gian mua lại 15 triệu cp                                     | 2026-04-09T18:54:43.403 | /2026/04/vinh-hoan-chot-thoi-gian-mua-lai-15-trieu-cp-739-1425449.htm                                   |
-| VHC: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                               | 2026-04-09T17:17:21     | /2026/04/vhc-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1425648.htm                              |
-| VHC: Thông báo về việc mua lại cổ phiếu quỹ                                      | 2026-04-08T18:02:01     | /2026/04/vhc-thong-bao-ve-viec-mua-lai-co-phieu-quy-739-1425198.htm                                     |
-| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước     | 2026-03-31T16:17:44     | /2026/03/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419780.htm    |
-| VHC: BCTC năm 2025                                                               | 2026-03-30T00:00:00     | /2026/03/vhc-bctc-nam-2025-737-1419789.htm                                                              |
-| VHC: BCTC Hợp nhất năm 2025                                                      | 2026-03-30T00:00:00     | /2026/03/vhc-bctc-hop-nhat-nam-2025-737-1419795.htm                                                     |
-| VHC: Nghị quyết HĐQT số 10 ngày 23/03/2026                                       | 2026-03-23T17:20:41     | /2026/03/vhc-nghi-quyet-hdqt-so-10-ngay-23-03-2026-737-1415269.htm                                      |
-| VHC: Thông báo đơn xin từ nhiệm của Thành viên BKS                               | 2026-03-18T15:23:29     | /2026/03/vhc-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-214-1413573.htm                              |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHC      | 2026-03-25 00:00:00 |   57.9 |   58.5 |  57.7 |    58.5 |   332200 |
-| VHC      | 2026-03-26 00:00:00 |   58.4 |   59.3 |  57.8 |    59.3 |   511200 |
-| VHC      | 2026-03-27 00:00:00 |   58.3 |   59.3 |  58.3 |    58.8 |   670700 |
-| VHC      | 2026-03-30 00:00:00 |   57.8 |   59.3 |  57.5 |    59.3 |   439600 |
-| VHC      | 2026-03-31 00:00:00 |   58.9 |   59.3 |  58.6 |    59   |   608200 |
-| VHC      | 2026-04-01 00:00:00 |   59.4 |   59.6 |  58.8 |    58.9 |   452700 |
-| VHC      | 2026-04-02 00:00:00 |   58.5 |   58.6 |  57.3 |    58.6 |   828100 |
-| VHC      | 2026-04-03 00:00:00 |   58.6 |   58.6 |  57.4 |    57.4 |   444700 |
-| VHC      | 2026-04-06 00:00:00 |   57.1 |   57.4 |  56.2 |    57.4 |   644000 |
-| VHC      | 2026-04-07 00:00:00 |   57.2 |   58.7 |  56.6 |    58.7 |   899500 |
-| VHC      | 2026-04-08 00:00:00 |   59.5 |   59.6 |  58.7 |    59.2 |   956400 |
-| VHC      | 2026-04-09 00:00:00 |   59.5 |   61   |  59.5 |    60.2 |  1133600 |
-| VHC      | 2026-04-10 00:00:00 |   61   |   61.9 |  60.2 |    61.2 |   881100 |
-| VHC      | 2026-04-13 00:00:00 |   60.6 |   60.9 |  60   |    60.5 |   527200 |
-| VHC      | 2026-04-14 00:00:00 |   60.5 |   61.4 |  60.4 |    61   |   656200 |
-| VHC      | 2026-04-15 00:00:00 |   61.5 |   61.5 |  60.8 |    61   |   590200 |
-| VHC      | 2026-04-16 00:00:00 |   61.3 |   61.8 |  61   |    61.7 |   700100 |
-| VHC      | 2026-04-17 00:00:00 |   61.7 |   61.9 |  61.1 |    61.3 |   440900 |
-| VHC      | 2026-04-20 00:00:00 |   61.5 |   62.8 |  60.8 |    62.7 |  1518100 |
-| VHC      | 2026-04-21 00:00:00 |   62.8 |   62.9 |  62.1 |    62.3 |   997400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VHC      | 2026-04-21 14:14:03 |    62.6 |      500 | Buy          | 466425022 |
-| VHC      | 2026-04-21 14:14:03 |    62.6 |      400 | Buy          | 466425023 |
-| VHC      | 2026-04-21 14:14:03 |    62.6 |     1100 | Buy          | 466425024 |
-| VHC      | 2026-04-21 14:14:17 |    62.5 |      500 | Sell         | 466426009 |
-| VHC      | 2026-04-21 14:14:34 |    62.5 |      500 | Sell         | 466427283 |
-| VHC      | 2026-04-21 14:14:50 |    62.5 |      400 | Sell         | 466428600 |
-| VHC      | 2026-04-21 14:14:53 |    62.5 |      100 | Sell         | 466428769 |
-| VHC      | 2026-04-21 14:15:31 |    62.5 |     8500 | Sell         | 466431471 |
-| VHC      | 2026-04-21 14:15:52 |    62.5 |      600 | Buy          | 466432718 |
-| VHC      | 2026-04-21 14:15:52 |    62.5 |     3000 | Buy          | 466432719 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

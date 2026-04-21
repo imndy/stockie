@@ -1,133 +1,46 @@
 # BSI — BSI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSI |
-| exchange | HOSE |
-| market_cap | 8869978839450 |
-| 52w_high | 57000 |
-| 52w_high_date | 2025-08-20 |
-| 52w_low | 31850 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 35.6127 |
-| dividend | 0 |
-| beta | 0.9 |
-| eps | 2095 |
-| eps_forward | 15.839215531632425 |
-| bvps | 22890.61 |
-| pe | 17.26 |
-| pb | 1.58 |
-| price_chg_1m | 5.70 |
-| price_chg_ytd | -14.55 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 36.15 |
-| EMA20 | 36.34 |
-| EMA50 | 36.78 |
-| RSI(14) | 48.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.112 |
-| MACD Signal | 0.078 |
-| MACD Histogram | 0.034 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BSI |
-| pe | 17.26 |
-| pb | 1.58 |
-| roe | 9.32 |
-| roe_pct_rank | 45 |
-| roa | 3.66 |
-| roa_pct_rank | 44 |
-| eps | 2095 |
-| bvps | 22890.61 |
-| beta | 0.9 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 60 |
-| pb_pct_rank | 61 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                  | publishtime           | url                                                                                          |
-|:-----------------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------|
-| BSI: Báo cáo tài chính  riêng lẻ Q1 2026                               | 2026-04-20T09:20:00   | /2026/04/bsi-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429969.htm                              |
-| BSI: BCTC quý 1 năm 2026                                               | 2026-04-20T00:00:00   | /2026/04/bsi-bctc-quy-1-nam-2026-737-1430178.htm                                             |
-| BSI: Báo cáo thường niên năm 2025                                      | 2026-04-17T16:56:06   | /2026/04/bsi-bao-cao-thuong-nien-nam-2025-737-1429424.htm                                    |
-| BSI: Báo cáo thường niên năm 2025                                      | 2026-04-17T00:00:00   | /2026/04/bsi-bao-cao-thuong-nien-nam-2025-737-1429211.htm                                    |
-| BSC công bố tài liệu họp đại hội, cổ phiếu bật tăng trần               | 2026-03-31T16:53:12.3 | /2026/03/bsc-cong-bo-tai-lieu-hop-dai-hoi-co-phieu-bat-tang-tran-737-1419407.htm             |
-| BSI: Quyết định hủy niêm yết chứng quyền có bảo đảm do đáo hạn (03 mã) | 2026-03-31T00:00:00   | /2026/03/bsi-quyet-dinh-huy-niem-yet-chung-quyen-co-bao-dam-do-dao-han-03-ma-741-1419633.htm |
-| BSI: Thông báo họp và link tài liệu họp ĐHĐCĐ thường niên 2026         | 2026-03-30T18:00:03   | /2026/03/bsi-thong-bao-hop-va-link-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1418948.htm       |
-| BSI: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                | 2026-03-30T13:38:17   | /2026/03/bsi-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025-737-1418583.htm              |
-| BSI: Giải trình biến động LNST năm 2025 so với cùng kỳ năm trước       | 2026-03-30T13:36:53   | /2026/03/bsi-giai-trinh-bien-dong-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418566.htm     |
-| BSI: Báo cáo tài chính riêng lẻ  năm 2025                              | 2026-03-30T10:24:00   | /2026/03/bsi-bao-cao-tai-chinh-rieng-le-nam-2025-737-1418477.htm                             |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BSI      | 2026-03-25 00:00:00 |  32.95 |  34.3  | 32.9  |   33.85 |   243000 |
-| BSI      | 2026-03-26 00:00:00 |  33.85 |  33.85 | 33.35 |   33.8  |   103200 |
-| BSI      | 2026-03-27 00:00:00 |  33    |  34.55 | 33    |   34.3  |   217400 |
-| BSI      | 2026-03-30 00:00:00 |  33.2  |  34    | 33.2  |   34    |   170700 |
-| BSI      | 2026-03-31 00:00:00 |  33.85 |  36.35 | 33.85 |   36.35 |   912500 |
-| BSI      | 2026-04-01 00:00:00 |  38.3  |  38.3  | 37.1  |   37.1  |   528200 |
-| BSI      | 2026-04-02 00:00:00 |  36.8  |  37.8  | 36.4  |   36.8  |   669300 |
-| BSI      | 2026-04-03 00:00:00 |  37.2  |  37.5  | 35.8  |   35.85 |   598100 |
-| BSI      | 2026-04-06 00:00:00 |  35.5  |  36.5  | 35.3  |   35.7  |   391100 |
-| BSI      | 2026-04-07 00:00:00 |  36.1  |  36.9  | 35.6  |   36.9  |   209300 |
-| BSI      | 2026-04-08 00:00:00 |  38.9  |  38.9  | 37.5  |   38    |  1153500 |
-| BSI      | 2026-04-09 00:00:00 |  37.05 |  37.7  | 37    |   37.2  |   361400 |
-| BSI      | 2026-04-10 00:00:00 |  37.5  |  37.9  | 37    |   37    |   314400 |
-| BSI      | 2026-04-13 00:00:00 |  36.6  |  37.25 | 36.05 |   36.75 |   248900 |
-| BSI      | 2026-04-14 00:00:00 |  37    |  37.55 | 37    |   37.1  |   525300 |
-| BSI      | 2026-04-15 00:00:00 |  37.55 |  37.55 | 36.95 |   36.95 |   241000 |
-| BSI      | 2026-04-16 00:00:00 |  36.95 |  37.05 | 35.9  |   36.5  |   435300 |
-| BSI      | 2026-04-17 00:00:00 |  36.5  |  36.7  | 36    |   36.65 |   180600 |
-| BSI      | 2026-04-20 00:00:00 |  36.75 |  36.75 | 36    |   36.15 |   654400 |
-| BSI      | 2026-04-21 00:00:00 |  36.3  |  36.75 | 36.1  |   36.15 |   137800 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BSI      | 2026-04-21 13:20:03 |   36.35 |      100 | Buy          | 466273582 |
-| BSI      | 2026-04-21 13:21:32 |   36.35 |      200 | Buy          | 466278113 |
-| BSI      | 2026-04-21 13:21:39 |   36.3  |     2000 | Sell         | 466278500 |
-| BSI      | 2026-04-21 13:22:05 |   36.35 |      300 | Buy          | 466279665 |
-| BSI      | 2026-04-21 13:23:22 |   36.35 |      700 | Sell         | 466282957 |
-| BSI      | 2026-04-21 13:24:54 |   36.35 |      100 | Buy          | 466287000 |
-| BSI      | 2026-04-21 13:25:03 |   36.3  |      100 | Sell         | 466287516 |
-| BSI      | 2026-04-21 13:30:35 |   36.3  |      700 | Sell         | 466299231 |
-| BSI      | 2026-04-21 13:30:40 |   36.35 |      300 | Buy          | 466299400 |
-| BSI      | 2026-04-21 13:30:40 |   36.35 |      300 | Buy          | 466299399 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,133 +1,46 @@
 # CTR — CTR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTR |
-| exchange | HOSE |
-| market_cap | 9848624181900 |
-| 52w_high | 108000 |
-| 52w_high_date | 2026-01-14 |
-| 52w_low | 76267 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 5.151 |
-| dividend | 2150 |
-| beta | 0.78 |
-| eps | 5242 |
-| eps_forward | 16.017713273737385 |
-| bvps | 18086 |
-| pe | 16.62 |
-| pb | 4.82 |
-| price_chg_1m | 7.63 |
-| price_chg_ytd | 6.74 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.02497096399535424 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 86.1 |
-| EMA20 | 85.87 |
-| EMA50 | 86.96 |
-| RSI(14) | 50.5 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.208 |
-| MACD Signal | -0.15 |
-| MACD Histogram | 0.358 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTR |
-| pe | 16.62 |
-| pb | 4.82 |
-| roe | 30.5 |
-| roe_pct_rank | 90 |
-| roa | 7.85 |
-| roa_pct_rank | 60 |
-| eps | 5242 |
-| bvps | 18086 |
-| beta | 0.78 |
-| dividend | 2150 |
-| yield | 0.02497096399535424 |
-| pe_pct_rank | 59 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime             | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| CTR: Báo cáo thường niên năm 2025                                                              | 2026-04-09T17:17:55     | /2026/04/ctr-bao-cao-thuong-nien-nam-2025-737-1425656.htm                                                              |
-| CTR: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026                                      | 2026-04-01T17:54:41     | /2026/04/ctr-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1421155.htm                                      |
-| CTR: BCTC năm 2025                                                                             | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-nam-2025-737-1414375.htm                                                                             |
-| CTR: BCTC Hợp nhất năm 2025                                                                    | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-hop-nhat-nam-2025-737-1414376.htm                                                                    |
-| CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-02-10T09:18:55     | /2026/02/ctr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1402193.htm |
-| Phân tích kỹ thuật phiên chiều 05/02: Stochastic Oscillator về vùng oversold                   | 2026-02-05T13:04:27.347 | /2026/02/phan-tich-ky-thuat-phien-chieu-0502-stochastic-oscillator-ve-vung-oversold-585-1400831.htm                    |
-| CTR: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                 | 2026-02-03T18:12:49     | /2026/02/ctr-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1399948.htm                                 |
-| CTR: Báo cáo tình hình quản trị công ty năm 2025                                               | 2026-01-30T18:45:33     | /2026/01/ctr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397913.htm                                               |
-| CTR: BCTC Hợp nhất quý 4 năm 2025                                                              | 2026-01-29T00:00:00     | /2026/01/ctr-bctc-hop-nhat-quy-4-nam-2025-737-1397989.htm                                                              |
-| CTR: BCTC quý 4 năm 2025                                                                       | 2026-01-29T00:00:00     | /2026/01/ctr-bctc-quy-4-nam-2025-737-1397999.htm                                                                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTR      | 2026-03-25 00:00:00 |   81.2 |   83.2 |  81.2 |    82.8 |   340400 |
-| CTR      | 2026-03-26 00:00:00 |   83.4 |   87   |  82.3 |    85   |  1122400 |
-| CTR      | 2026-03-27 00:00:00 |   86   |   87   |  84.4 |    85.6 |   389600 |
-| CTR      | 2026-03-30 00:00:00 |   85   |   86   |  83.2 |    86   |   551200 |
-| CTR      | 2026-03-31 00:00:00 |   86   |   86.2 |  84.5 |    86.2 |   408400 |
-| CTR      | 2026-04-01 00:00:00 |   86.4 |   88.1 |  85.8 |    86.7 |   522700 |
-| CTR      | 2026-04-02 00:00:00 |   85.5 |   86.5 |  84.6 |    84.9 |   210100 |
-| CTR      | 2026-04-03 00:00:00 |   84.6 |   85.2 |  82.9 |    84.9 |   411200 |
-| CTR      | 2026-04-06 00:00:00 |   84.3 |   85   |  83.2 |    83.2 |   118400 |
-| CTR      | 2026-04-07 00:00:00 |   82.8 |   86   |  82.8 |    84   |   126700 |
-| CTR      | 2026-04-08 00:00:00 |   85.5 |   87.5 |  84.7 |    87.3 |   423900 |
-| CTR      | 2026-04-09 00:00:00 |   86.8 |   86.8 |  85   |    85.7 |   179300 |
-| CTR      | 2026-04-10 00:00:00 |   86.4 |   86.4 |  85.5 |    85.6 |   190400 |
-| CTR      | 2026-04-13 00:00:00 |   85.6 |   85.6 |  84.9 |    85.2 |   141900 |
-| CTR      | 2026-04-14 00:00:00 |   86   |   87   |  85.5 |    87   |   277600 |
-| CTR      | 2026-04-15 00:00:00 |   87   |   87.5 |  85.9 |    87   |   308400 |
-| CTR      | 2026-04-16 00:00:00 |   86   |   86.8 |  85.2 |    86.8 |   304600 |
-| CTR      | 2026-04-17 00:00:00 |   86.2 |   87.9 |  86.2 |    87.2 |   404000 |
-| CTR      | 2026-04-20 00:00:00 |   87.2 |   87.2 |  86.4 |    87.1 |   200600 |
-| CTR      | 2026-04-21 00:00:00 |   87   |   88   |  86.1 |    86.1 |   385600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTR      | 2026-04-21 14:04:03 |    86.4 |      100 | Sell         | 466386347 |
-| CTR      | 2026-04-21 14:04:03 |    86.4 |      100 | Sell         | 466386350 |
-| CTR      | 2026-04-21 14:04:03 |    86.4 |     1000 | Sell         | 466386348 |
-| CTR      | 2026-04-21 14:04:03 |    86.4 |      200 | Sell         | 466386349 |
-| CTR      | 2026-04-21 14:04:19 |    86.4 |      500 | Buy          | 466387527 |
-| CTR      | 2026-04-21 14:05:59 |    86.4 |     1900 | Sell         | 466396669 |
-| CTR      | 2026-04-21 14:06:53 |    86.4 |     2600 | Sell         | 466400057 |
-| CTR      | 2026-04-21 14:06:53 |    86.4 |      600 | Sell         | 466400058 |
-| CTR      | 2026-04-21 14:06:53 |    86.4 |      500 | Sell         | 466400059 |
-| CTR      | 2026-04-21 14:08:27 |    86.3 |      400 | Sell         | 466405878 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,118 +1,42 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCG |
-| exchange | HOSE |
-| market_cap | 2226932929320 |
-| 52w_high | 4090 |
-| 52w_high_date | 2025-07-16 |
-| 52w_low | 2530 |
-| 52w_low_date | 2025-10-08 |
-| foreign_ownership | 1.136 |
-| dividend | 0 |
-| beta | 0 |
-| eps | 565 |
-| eps_forward | 6.357263110284695 |
-| bvps | 24305 |
-| pe | 4.48 |
-| pb | 0.10 |
-| price_chg_1m | 0.00 |
-| price_chg_ytd | -15.67 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 2.53 |
-| EMA20 | 3.14 |
-| EMA50 | 3.36 |
-| RSI(14) | 19.3 |
-| RSI nhận xét | Quá bán |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.251 |
-| MACD Signal | -0.162 |
-| MACD Histogram | -0.089 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCG |
-| pe | 4.48 |
-| pb | 0.10 |
-| roe | 4.35 |
-| roe_pct_rank | 34 |
-| roa | 0.91 |
-| roa_pct_rank | 31 |
-| eps | 565 |
-| bvps | 24305 |
-| beta | 0 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 31 |
-| pb_pct_rank | 1 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| BCG: Nghị quyết HĐQT về việc ký kết hợp thỏa thuận bảo mật thông tin với BCG Energy và thông qua giao dịch với các bên l… | 2026-04-20T09:59:28 | /2026/04/bcg-nghi-quyet-hdqt-ve-viec-ky-ket-hop-thoa-thuan-bao-mat-thong-tin-voi-bcg-energy-va-thong-qua-giao-dich-voi-c… |
-| BCG: Nghị quyết HĐQT số 07/2026 ngày 14/04/2026                                                                           | 2026-04-14T17:27:30 | /2026/04/bcg-nghi-quyet-hdqt-so-07-2026-ngay-14-04-2026-737-1427612.htm                                                   |
-| BCG: Nghị quyết HĐQT số 04 ngày 19/03/2026                                                                                | 2026-03-19T17:39:33 | /2026/03/bcg-nghi-quyet-hdqt-so-04-ngay-19-03-2026-737-1414230.htm                                                        |
-| BCG: Nhắc nhở chậm công bố thông tin báo cáo tài chính quý 4 năm 2025 lần 2                                               | 2026-02-11T09:04:54 | /2026/02/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-tai-chinh-quy-4-nam-2025-lan-2-737-1402689.htm                       |
-| Cùng lý do "bất khả kháng", BCG và TCD lại xin hoãn loạt BCTC kiểm toán                                                   | 2026-02-09T14:15:00 | /2026/02/cung-ly-do-bat-kha-khang-bcg-va-tcd-lai-xin-hoan-loat-bctc-kiem-toan-737-1401816.htm                             |
-| BCG: Xin tạm hoãn nộp BCTC kiểm toán năm 2024. 2025 và soát xét bán niên 2025                                             | 2026-02-09T10:33:18 | /2026/02/bcg-xin-tam-hoan-nop-bctc-kiem-toan-nam-2024-2025-va-soat-xet-ban-nien-2025-737-1401793.htm                      |
-| BCG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-02-05T13:59:22 | /2026/02/bcg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1400881.htm                                     |
-| BCG: Nhắc nhở chậm CBTT BCTC quý 4/2025                                                                                   | 2026-02-04T10:36:27 | /2026/02/bcg-nhac-nho-cham-cbtt-bctc-quy-4-2025-737-1400279.htm                                                           |
-| BCG: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-27T16:21:03 | /2026/01/bcg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1395701.htm                                                  |
-| BCG: Ông Phạm Minh Tuấn là người ủy quyền thực hiện công bố thông tin                                                     | 2026-01-27T14:13:00 | /2026/01/bcg-ong-pham-minh-tuan-la-nguoi-uy-quyen-thuc-hien-cong-bo-thong-tin-214-1395569.htm                             |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BCG      | 2025-09-11 00:00:00 |   3.6  |   3.6  |  3.51 |    3.56 |  3905000 |
-| BCG      | 2025-09-12 00:00:00 |   3.59 |   3.61 |  3.58 |    3.6  |  3070500 |
-| BCG      | 2025-09-15 00:00:00 |   3.62 |   3.7  |  3.62 |    3.7  |  5008300 |
-| BCG      | 2025-09-16 00:00:00 |   3.76 |   3.76 |  3.61 |    3.61 |  3923700 |
-| BCG      | 2025-09-17 00:00:00 |   3.56 |   3.6  |  3.54 |    3.54 |  6984700 |
-| BCG      | 2025-09-18 00:00:00 |   3.54 |   3.54 |  3.4  |    3.43 |  8748400 |
-| BCG      | 2025-09-19 00:00:00 |   3.38 |   3.4  |  3.38 |    3.39 |  4835700 |
-| BCG      | 2025-09-22 00:00:00 |   3.3  |   3.33 |  3.22 |    3.22 |  7946900 |
-| BCG      | 2025-09-23 00:00:00 |   3.2  |   3.44 |  3.2  |    3.44 |  2965100 |
-| BCG      | 2025-09-24 00:00:00 |   3.5  |   3.5  |  3.4  |    3.42 |  3775000 |
-| BCG      | 2025-09-25 00:00:00 |   3.3  |   3.42 |  3.27 |    3.36 |  6060100 |
-| BCG      | 2025-09-26 00:00:00 |   3.4  |   3.4  |  3.34 |    3.34 |  2595900 |
-| BCG      | 2025-09-29 00:00:00 |   3.34 |   3.39 |  3.32 |    3.33 |  2457600 |
-| BCG      | 2025-09-30 00:00:00 |   3.3  |   3.32 |  3.22 |    3.22 |  3802200 |
-| BCG      | 2025-10-01 00:00:00 |   3.22 |   3.27 |  3.22 |    3.23 |  2544300 |
-| BCG      | 2025-10-02 00:00:00 |   3.01 |   3.01 |  3.01 |    3.01 |  8375500 |
-| BCG      | 2025-10-03 00:00:00 |   2.8  |   2.8  |  2.8  |    2.8  |  2908800 |
-| BCG      | 2025-10-06 00:00:00 |   2.61 |   2.61 |  2.61 |    2.61 |  7814100 |
-| BCG      | 2025-10-07 00:00:00 |   2.43 |   2.77 |  2.43 |    2.55 | 28717100 |
-| BCG      | 2025-10-08 00:00:00 |   2.61 |   2.62 |  2.51 |    2.53 | 14609800 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 

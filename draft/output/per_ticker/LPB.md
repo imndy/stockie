@@ -1,133 +1,46 @@
 # LPB — LPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:37  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | LPB |
-| exchange | HOSE |
-| market_cap | 140551622805000 |
-| 52w_high | 53900 |
-| 52w_high_date | 2025-10-29 |
-| 52w_low | 29575 |
-| 52w_low_date | 2025-05-06 |
-| foreign_ownership | 0.9179 |
-| dividend | 2500 |
-| beta | 0.37 |
-| eps | 3738 |
-| eps_forward | 9.242329870808302 |
-| bvps | 16560.76 |
-| pe | 12.30 |
-| pb | 2.78 |
-| price_chg_1m | 14.48 |
-| price_chg_ytd | 52.83 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.053134962805526036 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 47.05 |
-| EMA20 | 45.72 |
-| EMA50 | 44.3 |
-| RSI(14) | 59.7 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 1.242 |
-| MACD Signal | 1.273 |
-| MACD Histogram | -0.031 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | LPB |
-| pe | 12.30 |
-| pb | 2.78 |
-| roe | 25.23 |
-| roe_pct_rank | 79 |
-| roa | 2.05 |
-| roa_pct_rank | 36 |
-| eps | 3738 |
-| bvps | 16560.76 |
-| beta | 0.37 |
-| dividend | 2500 |
-| yield | 0.053134962805526036 |
-| pe_pct_rank | 49 |
-| pb_pct_rank | 95 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| LPBank đạt gần 2,900 tỷ đồng lợi nhuận Quý 1/2026, tăng cường bộ đệm dự phòng ngay từ đầu năm            | 2026-04-21T09:22:00     | /2026/04/lpbank-dat-gan-2900-ty-dong-loi-nhuan-quy-12026-tang-cuong-bo-dem-du-phong-ngay-tu-dau-nam-757-1430907.htm       |
-| LPB: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T17:07:54     | /2026/04/lpb-bao-cao-thuong-nien-nam-2025-737-1430645.htm                                                                 |
-| Giải pháp tài chính toàn diện: “Chìa khóa” giúp doanh nghiệp tối ưu vận hành và giữ chân nhân sự         | 2026-04-14T08:00:00     | /2026/04/giai-phap-tai-chinh-toan-dien-chia-khoa-giup-doanh-nghiep-toi-uu-van-hanh-va-giu-chan-nhan-su-757-1426962.htm    |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                     | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| LPB “dậy sóng” trước phương án chia cổ tức 30%                                                           | 2026-04-08T09:30:55.1   | /2026/04/lpb-day-song-truoc-phuong-an-chia-co-tuc-30-737-1424590.htm                                                      |
-| LPB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                             | 2026-04-08T09:11:59     | /2026/04/lpb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1424655.htm                                                      |
-| LPBank thu ròng hơn 1,000 tỷ từ đợt 1 chào bán trái phiếu ra công chúng                                  | 2026-04-07T09:29:16.437 | /2026/04/lpbank-thu-rong-hon-1000-ty-tu-dot-1-chao-ban-trai-phieu-ra-cong-chung-3118-1423771.htm                          |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                              | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                           | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
-| LPB: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả cháo bán trái phiếu ra công chúng của LPB | 2026-04-06T18:07:40     | /2026/04/lpb-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-trai-phieu-ra-cong-chung-cua-lpb-739-142… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| LPB      | 2026-03-25 00:00:00 |  42    |  42.3  | 41.45 |   41.8  |   953700 |
-| LPB      | 2026-03-26 00:00:00 |  41.9  |  42    | 41.45 |   41.8  |   636800 |
-| LPB      | 2026-03-27 00:00:00 |  41.8  |  42.2  | 41.7  |   41.8  |  1152800 |
-| LPB      | 2026-03-30 00:00:00 |  41.8  |  42.1  | 41.2  |   41.95 |  1047100 |
-| LPB      | 2026-03-31 00:00:00 |  42.05 |  42.35 | 41.5  |   41.9  |  1068300 |
-| LPB      | 2026-04-01 00:00:00 |  42.3  |  42.7  | 41.95 |   42.4  |  1737100 |
-| LPB      | 2026-04-02 00:00:00 |  42.6  |  42.6  | 41.45 |   41.8  |   995000 |
-| LPB      | 2026-04-03 00:00:00 |  41.8  |  43.5  | 41.8  |   43.1  |  2029400 |
-| LPB      | 2026-04-06 00:00:00 |  43.5  |  46.1  | 43.35 |   46.1  |  4021800 |
-| LPB      | 2026-04-07 00:00:00 |  46.6  |  48.55 | 46.4  |   48    |  3622800 |
-| LPB      | 2026-04-08 00:00:00 |  49    |  50    | 47.45 |   47.5  |  1739200 |
-| LPB      | 2026-04-09 00:00:00 |  47.6  |  49.4  | 47.25 |   48    |  1644100 |
-| LPB      | 2026-04-10 00:00:00 |  49.35 |  49.85 | 48    |   49.3  |  2186400 |
-| LPB      | 2026-04-13 00:00:00 |  49.4  |  50.1  | 47.85 |   47.95 |  1836000 |
-| LPB      | 2026-04-14 00:00:00 |  48.5  |  49.85 | 48    |   48    |  1889000 |
-| LPB      | 2026-04-15 00:00:00 |  48.6  |  48.7  | 47.7  |   47.7  |   985700 |
-| LPB      | 2026-04-16 00:00:00 |  47.95 |  47.95 | 47.05 |   47.3  |   814900 |
-| LPB      | 2026-04-17 00:00:00 |  47.9  |  47.9  | 46    |   46    |  1228900 |
-| LPB      | 2026-04-20 00:00:00 |  46.7  |  47.8  | 46    |   46    |  1073800 |
-| LPB      | 2026-04-21 00:00:00 |  46.55 |  48.8  | 46.2  |   47.05 |  1904500 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| LPB      | 2026-04-21 14:24:12 |   47.8  |      500 | Buy          | 466467312 |
-| LPB      | 2026-04-21 14:24:12 |   47.8  |     1000 | Buy          | 466467317 |
-| LPB      | 2026-04-21 14:25:11 |   47.75 |      400 | Sell         | 466472421 |
-| LPB      | 2026-04-21 14:25:21 |   47.75 |      500 | Sell         | 466473020 |
-| LPB      | 2026-04-21 14:25:23 |   47.75 |      100 | Sell         | 466473126 |
-| LPB      | 2026-04-21 14:25:30 |   47.75 |      400 | Sell         | 466473528 |
-| LPB      | 2026-04-21 14:25:42 |   47.75 |      600 | Sell         | 466474517 |
-| LPB      | 2026-04-21 14:25:45 |   47.8  |     3000 | Buy          | 466474737 |
-| LPB      | 2026-04-21 14:25:46 |   47.75 |      200 | Sell         | 466474788 |
-| LPB      | 2026-04-21 14:25:50 |   47.75 |      200 | Sell         | 466475124 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

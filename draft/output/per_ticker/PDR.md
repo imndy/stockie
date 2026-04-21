@@ -1,133 +1,46 @@
 # PDR — PDR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:39  |  🗂 Quarterly: 05/04/2026 13:42
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 13:42
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PDR |
-| exchange | HOSE |
-| market_cap | 16114621470850 |
-| 52w_high | 26300 |
-| 52w_high_date | 2025-10-16 |
-| 52w_low | 14164 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 6.3042 |
-| dividend | 0 |
-| beta | 0.92 |
-| eps | 557 |
-| eps_forward | 18.565138922417262 |
-| bvps | 12680 |
-| pe | 29.02 |
-| pb | 1.27 |
-| price_chg_1m | 6.60 |
-| price_chg_ytd | 6.38 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 16.15 |
-| EMA20 | 16.15 |
-| EMA50 | 16.49 |
-| RSI(14) | 50.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.073 |
-| MACD Signal | 0.056 |
-| MACD Histogram | 0.017 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PDR |
-| pe | 29.02 |
-| pb | 1.27 |
-| roe | 4.38 |
-| roe_pct_rank | 34 |
-| roa | 2.01 |
-| roa_pct_rank | 36 |
-| eps | 557 |
-| bvps | 12680 |
-| beta | 0.92 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 83 |
-| pb_pct_rank | 53 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime             | url                                                                                                              |
-|:-----------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------|
-| PDR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                   | 2026-04-17T15:43:45     | /2026/04/pdr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429316.htm                                   |
-| PDR: CBTT sửa đổi Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT      | 2026-04-17T15:43:44     | /2026/04/pdr-cbtt-sua-doi-dieu-le-quy-che-noi-bo-ve-quan-tri-va-quy-che-hoat-dong-cua-hdqt-737-1429317.htm       |
-| Chủ tịch Phát Đạt: “Tôi thấy cần thiết phải di dời các trường đại học”                   | 2026-04-16T12:11:00     | /2026/04/chu-tich-phat-dat-toi-thay-can-thiet-phai-di-doi-cac-truong-dai-hoc-737-1428330.htm                     |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?              | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                 |
-| PDR: Báo cáo thường niên năm 2025                                                        | 2026-04-15T16:34:36     | /2026/04/pdr-bao-cao-thuong-nien-nam-2025-737-1428108.htm                                                        |
-| Chủ tịch Phát Đạt hoàn tất mua vào 3 triệu cp                                            | 2026-04-13T14:08:18.247 | /2026/04/chu-tich-phat-dat-hoan-tat-mua-vao-3-trieu-cp-739-1426706.htm                                           |
-| PDR: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Văn Đạt                  | 2026-04-10T18:41:37     | /2026/04/pdr-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-van-dat-739-1426457.htm                  |
-| PDR: Đính chính báo cáo tình hình quản trị năm 2025                                      | 2026-04-10T14:54:03     | /2026/04/pdr-dinh-chinh-bao-cao-tinh-hinh-quan-tri-nam-2025-737-1426072.htm                                      |
-| Trục đại lộ 60m TP.HCM sắp có trung tâm thương mại mới, bên cạnh AEON Mall và Lotte Mart | 2026-04-02T16:27:00     | /2026/04/truc-dai-lo-60m-tphcm-sap-co-trung-tam-thuong-mai-moi-ben-canh-aeon-mall-va-lotte-mart-4222-1421465.htm |
-| PDR: Giải trình KQKD năm 2025 sau kiểm toán so với cùng kỳ năm trước                     | 2026-04-01T09:21:48     | /2026/04/pdr-giai-trinh-kqkd-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1420332.htm                     |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PDR      | 2026-03-25 00:00:00 |  15.2  |  15.5  | 14.9  |   15.3  | 10300000 |
-| PDR      | 2026-03-26 00:00:00 |  15.3  |  15.6  | 15.15 |   15.35 |  7475000 |
-| PDR      | 2026-03-27 00:00:00 |  15.3  |  16.4  | 15.2  |   16.4  | 26467800 |
-| PDR      | 2026-03-30 00:00:00 |  16.25 |  16.85 | 16.2  |   16.6  | 17824400 |
-| PDR      | 2026-03-31 00:00:00 |  16.65 |  16.7  | 16.25 |   16.35 | 13963500 |
-| PDR      | 2026-04-01 00:00:00 |  16.65 |  16.75 | 16.2  |   16.25 | 13526500 |
-| PDR      | 2026-04-02 00:00:00 |  16.15 |  16.2  | 15.85 |   16.1  | 11789600 |
-| PDR      | 2026-04-03 00:00:00 |  16    |  16.35 | 15.9  |   15.9  |  9454900 |
-| PDR      | 2026-04-06 00:00:00 |  15.8  |  16    | 15.15 |   15.55 |  9610900 |
-| PDR      | 2026-04-07 00:00:00 |  15.5  |  15.7  | 15.3  |   15.7  |  6311500 |
-| PDR      | 2026-04-08 00:00:00 |  16.1  |  16.65 | 15.9  |   16.6  | 16441600 |
-| PDR      | 2026-04-09 00:00:00 |  16.45 |  17.1  | 16.3  |   16.7  | 19572500 |
-| PDR      | 2026-04-10 00:00:00 |  16.85 |  17.05 | 16.4  |   16.4  | 11948400 |
-| PDR      | 2026-04-13 00:00:00 |  16.3  |  16.85 | 16.25 |   16.5  | 10336800 |
-| PDR      | 2026-04-14 00:00:00 |  16.75 |  16.8  | 16.25 |   16.45 |  8329700 |
-| PDR      | 2026-04-15 00:00:00 |  16.5  |  16.85 | 16.4  |   16.45 | 13313900 |
-| PDR      | 2026-04-16 00:00:00 |  16.6  |  16.75 | 16.1  |   16.4  |  9670100 |
-| PDR      | 2026-04-17 00:00:00 |  16.5  |  16.5  | 16.15 |   16.15 |  6965800 |
-| PDR      | 2026-04-20 00:00:00 |  16.1  |  16.3  | 16.05 |   16.15 |  5076700 |
-| PDR      | 2026-04-21 00:00:00 |  16.2  |  16.3  | 15.85 |   16.15 |  8435900 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PDR      | 2026-04-21 14:27:48 |   15.85 |     1000 | Sell         | 466485913 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |      100 | Sell         | 466485923 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |      200 | Sell         | 466485922 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |      100 | Sell         | 466485915 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |      100 | Sell         | 466485920 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |      100 | Sell         | 466485921 |
-| PDR      | 2026-04-21 14:27:48 |   15.85 |     1800 | Sell         | 466485918 |
-| PDR      | 2026-04-21 14:27:49 |   15.9  |     1000 | Buy          | 466486003 |
-| PDR      | 2026-04-21 14:27:50 |   15.85 |      300 | Sell         | 466486120 |
-| PDR      | 2026-04-21 14:27:52 |   15.9  |     1000 | Buy          | 466486252 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

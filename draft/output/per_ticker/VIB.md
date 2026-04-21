@@ -1,133 +1,46 @@
 # VIB — VIB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 13:46
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 13:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIB |
-| exchange | HOSE |
-| market_cap | 58548898212000 |
-| 52w_high | 23600 |
-| 52w_high_date | 2025-08-22 |
-| 52w_low | 15237 |
-| 52w_low_date | 2025-04-25 |
-| foreign_ownership | 4.906 |
-| dividend | 700 |
-| beta | 0.8 |
-| eps | 2319 |
-| eps_forward | 5.157586367467713 |
-| bvps | 13779.28 |
-| pe | 7.55 |
-| pb | 1.27 |
-| price_chg_1m | 2.38 |
-| price_chg_ytd | 10.96 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.040697674418604654 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 17.2 |
-| EMA20 | 17.19 |
-| EMA50 | 17.19 |
-| RSI(14) | 50.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.113 |
-| MACD Signal | 0.088 |
-| MACD Histogram | 0.024 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIB |
-| pe | 7.55 |
-| pb | 1.27 |
-| roe | 16.41 |
-| roe_pct_rank | 61 |
-| roa | 1.39 |
-| roa_pct_rank | 33 |
-| eps | 2319 |
-| bvps | 13779.28 |
-| beta | 0.8 |
-| dividend | 700 |
-| yield | 0.040697674418604654 |
-| pe_pct_rank | 38 |
-| pb_pct_rank | 53 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                      | publishtime             | url                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VIB: Trích lục Nghị quyết HĐQT số 020.26.BOD.1 ngày 17/04/2026                                             | 2026-04-17T17:13:33     | /2026/04/vib-trich-luc-nghi-quyet-hdqt-so-020-26-bod-1-ngay-17-04-2026-737-1429460.htm                                    |
-| VIB: Nghị quyết HĐQT số 020.26.BOD ngày 17/04/2026                                                         | 2026-04-17T17:13:32     | /2026/04/vib-nghi-quyet-hdqt-so-020-26-bod-ngay-17-04-2026-737-1429461.htm                                                |
-| VIB: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                        | 2026-04-15T17:06:40     | /2026/04/vib-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1428172.htm                                               |
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                                      | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                            |
-| Phân tích kỹ thuật phiên chiều 13/04: Giằng co                                                             | 2026-04-13T12:54:04.247 | /2026/04/phan-tich-ky-thuat-phien-chieu-1304-giang-co-585-1426693.htm                                                     |
-| Làn sóng "Wealth Management" tại Việt Nam: Khi giới thượng lưu thay đổi cách quản trị dòng tiền            | 2026-04-13T11:06:31.197 | /2026/04/lan-song-wealth-management-tai-viet-nam-khi-gioi-thuong-luu-thay-doi-cach-quan-tri-dong-tien-757-1426649.htm     |
-| VIB: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đặng Minh Trang, Đặng Thị Thu Hà | 2026-04-10T15:15:42     | /2026/04/vib-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dang-minh-trang-dang-thi-thu-ha-739-14… |
-| VIB: Biên bản và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                     | 2026-04-09T15:51:37     | /2026/04/vib-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1425550.htm                                            |
-| ĐHĐCĐ VIB: Chia cổ tức gần 19%, tăng trưởng 20-30%/năm giai đoạn 2027-2036                                 | 2026-04-08T12:27:00     | /2026/04/dhdcd-vib-chia-co-tuc-gan-19-tang-truong-20-30nam-giai-doan-2027-2036-737-1424021.htm                            |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2026-03-25 00:00:00 |  16.8  |  17.25 | 16.7  |   17.25 |  8611500 |
-| VIB      | 2026-03-26 00:00:00 |  17.25 |  17.25 | 16.9  |   16.95 |  3021400 |
-| VIB      | 2026-03-27 00:00:00 |  16.85 |  17.2  | 16.85 |   17    |  6298900 |
-| VIB      | 2026-03-30 00:00:00 |  16.8  |  17.1  | 16.8  |   16.9  |  3507600 |
-| VIB      | 2026-03-31 00:00:00 |  17.05 |  17.2  | 16.9  |   16.95 |  4166800 |
-| VIB      | 2026-04-01 00:00:00 |  17.15 |  17.4  | 17.1  |   17.2  |  5681800 |
-| VIB      | 2026-04-02 00:00:00 |  17.15 |  17.15 | 16.85 |   16.9  |  4091500 |
-| VIB      | 2026-04-03 00:00:00 |  16.95 |  17    | 16.65 |   16.65 |  4380800 |
-| VIB      | 2026-04-06 00:00:00 |  16.65 |  16.85 | 16.55 |   16.65 |  3636500 |
-| VIB      | 2026-04-07 00:00:00 |  16.7  |  16.8  | 16.55 |   16.7  |  2726400 |
-| VIB      | 2026-04-08 00:00:00 |  17.05 |  17.45 | 16.9  |   17.35 | 11248400 |
-| VIB      | 2026-04-09 00:00:00 |  17.4  |  17.4  | 17.05 |   17.15 |  4937800 |
-| VIB      | 2026-04-10 00:00:00 |  17.25 |  17.55 | 17.2  |   17.45 | 10411800 |
-| VIB      | 2026-04-13 00:00:00 |  17.35 |  18.05 | 17.3  |   17.75 | 17728900 |
-| VIB      | 2026-04-14 00:00:00 |  17.85 |  17.9  | 17.6  |   17.6  |  6829000 |
-| VIB      | 2026-04-15 00:00:00 |  17.75 |  17.75 | 17.35 |   17.35 |  7675300 |
-| VIB      | 2026-04-16 00:00:00 |  17.4  |  17.4  | 17.1  |   17.15 |  6846200 |
-| VIB      | 2026-04-17 00:00:00 |  17.25 |  17.45 | 17.1  |   17.35 |  5665400 |
-| VIB      | 2026-04-20 00:00:00 |  17.45 |  17.5  | 17.3  |   17.5  |  4624000 |
-| VIB      | 2026-04-21 00:00:00 |  17.5  |  17.55 | 17.2  |   17.2  |  5919100 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIB      | 2026-04-21 14:27:46 |    17.3 |    41900 | Sell         | 466485711 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      100 | Sell         | 466485663 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      200 | Sell         | 466485664 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      300 | Sell         | 466485665 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      200 | Sell         | 466485666 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      400 | Sell         | 466485667 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      200 | Sell         | 466485668 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      100 | Sell         | 466485669 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      200 | Sell         | 466485670 |
-| VIB      | 2026-04-21 14:27:46 |    17.3 |      100 | Sell         | 466485671 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

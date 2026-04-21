@@ -1,129 +1,46 @@
 # NAB — NAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NAB |
-| exchange | HOSE |
-| market_cap | 23161767480000 |
-| 52w_high | 17000 |
-| 52w_high_date | 2025-08-22 |
-| 52w_low | 12100 |
-| 52w_low_date | 2026-03-20 |
-| foreign_ownership | 0.9376 |
-| dividend | 0 |
-| beta | 0.5 |
-| eps | 2773 |
-| eps_forward | 3.7357729314195107 |
-| bvps | 13656.79 |
-| pe | 4.87 |
-| pb | 0.99 |
-| price_chg_1m | 11.57 |
-| price_chg_ytd | 3.28 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 13.5 |
-| EMA20 | 13.32 |
-| EMA50 | 13.45 |
-| RSI(14) | 58.2 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.081 |
-| MACD Signal | 0.022 |
-| MACD Histogram | 0.059 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NAB |
-| pe | 4.87 |
-| pb | 0.99 |
-| eps | 2773 |
-| bvps | 13656.79 |
-| beta | 0.5 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 32 |
-| pb_pct_rank | 42 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                       | publishtime             | url                                                                                               |
-|:----------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------|
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt       | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm    |
-| NAB: Thông báo chào bán trái phiếu ra công chúng                            | 2026-04-14T18:05:35     | /2026/04/nab-thong-bao-chao-ban-trai-phieu-ra-cong-chung-739-1427694.htm                          |
-| Nam A Bank giảm lãi suất cho vay, tung gói hỗ trợ doanh nghiệp vừa và nhỏ   | 2026-04-11T20:02:00     | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-tung-goi-ho-tro-doanh-nghiep-vua-va-nho-757-1426553.htm |
-| Nam A Bank giảm lãi suất cho vay lên đến 3%                                 | 2026-04-11T13:12:39.39  | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-len-den-3-757-1426535.htm                               |
-| NAB: Giấy ủy quyền thực hiện công bố thông tin                              | 2026-04-10T18:45:09     | /2026/04/nab-giay-uy-quyen-thuc-hien-cong-bo-thong-tin-830-1426459.htm                            |
-| NAB: Thông báo thay đổi nhân sự - Bổ nhiệm Tổng Giám đốc                    | 2026-04-10T16:35:06     | /2026/04/nab-thong-bao-thay-doi-nhan-su-bo-nhiem-tong-giam-doc-214-1426338.htm                    |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                        | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                      |
-| Nam A Bank bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng Giám đốc            | 2026-04-10T15:28:26.637 | /2026/04/nam-a-bank-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-214-1426066.htm         |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                              | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                              |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NAB      | 2026-03-25 00:00:00 |  12.55 |  12.75 | 12.55 |   12.7  |  1045500 |
-| NAB      | 2026-03-26 00:00:00 |  12.7  |  12.95 | 12.7  |   12.85 |  1056200 |
-| NAB      | 2026-03-27 00:00:00 |  12.85 |  13.2  | 12.75 |   13.2  |  1659900 |
-| NAB      | 2026-03-30 00:00:00 |  12.85 |  13.15 | 12.85 |   13.05 |  1866700 |
-| NAB      | 2026-03-31 00:00:00 |  13    |  13.1  | 12.9  |   13.05 |  1307900 |
-| NAB      | 2026-04-01 00:00:00 |  13.15 |  13.2  | 13    |   13.05 |  1258200 |
-| NAB      | 2026-04-02 00:00:00 |  13    |  13.05 | 12.95 |   12.95 |  1055200 |
-| NAB      | 2026-04-03 00:00:00 |  13    |  13.05 | 12.9  |   12.95 |  1150600 |
-| NAB      | 2026-04-06 00:00:00 |  13.05 |  13.05 | 12.95 |   13    |  1143700 |
-| NAB      | 2026-04-07 00:00:00 |  12.95 |  13.05 | 12.9  |   13.05 |  1141500 |
-| NAB      | 2026-04-08 00:00:00 |  13.2  |  13.6  | 13.2  |   13.45 |  2134400 |
-| NAB      | 2026-04-09 00:00:00 |  13.3  |  13.5  | 13.25 |   13.45 |  1768000 |
-| NAB      | 2026-04-10 00:00:00 |  13.45 |  13.65 | 13.45 |   13.55 |  2015200 |
-| NAB      | 2026-04-13 00:00:00 |  13.3  |  13.5  | 13.3  |   13.5  |  1566100 |
-| NAB      | 2026-04-14 00:00:00 |  13.55 |  13.55 | 13.4  |   13.5  |  1779500 |
-| NAB      | 2026-04-15 00:00:00 |  13.5  |  13.55 | 13.4  |   13.5  |  1397700 |
-| NAB      | 2026-04-16 00:00:00 |  13.4  |  13.5  | 13.35 |   13.5  |  1149700 |
-| NAB      | 2026-04-17 00:00:00 |  13.45 |  13.6  | 13.4  |   13.5  |  1472600 |
-| NAB      | 2026-04-20 00:00:00 |  13.5  |  13.6  | 13.4  |   13.5  |  1208100 |
-| NAB      | 2026-04-21 00:00:00 |  13.55 |  13.55 | 13.45 |   13.5  |  1474000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NAB      | 2026-04-21 13:46:20 |   13.55 |     2600 | Buy          | 466336235 |
-| NAB      | 2026-04-21 13:46:53 |   13.5  |     5000 | Buy          | 466337313 |
-| NAB      | 2026-04-21 13:47:00 |   13.5  |     4000 | Buy          | 466337496 |
-| NAB      | 2026-04-21 13:47:01 |   13.5  |     2200 | Buy          | 466337523 |
-| NAB      | 2026-04-21 13:47:27 |   13.5  |     3600 | Buy          | 466338472 |
-| NAB      | 2026-04-21 13:47:32 |   13.55 |     3000 | Buy          | 466338643 |
-| NAB      | 2026-04-21 13:48:11 |   13.55 |     2000 | Buy          | 466340471 |
-| NAB      | 2026-04-21 13:48:22 |   13.55 |     2200 | Buy          | 466341036 |
-| NAB      | 2026-04-21 13:48:22 |   13.55 |     1800 | Buy          | 466341037 |
-| NAB      | 2026-04-21 13:48:27 |   13.55 |     7000 | Buy          | 466341366 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,133 +1,46 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ACB |
-| exchange | HOSE |
-| market_cap | 121995594226250 |
-| 52w_high | 29450 |
-| 52w_high_date | 2025-08-21 |
-| 52w_low | 19971 |
-| 52w_low_date | 2025-04-25 |
-| foreign_ownership | 27.5087 |
-| dividend | 1000 |
-| beta | 0.74 |
-| eps | 3230 |
-| eps_forward | 6.884181903368506 |
-| bvps | 18401.02 |
-| pe | 7.42 |
-| pb | 1.30 |
-| price_chg_1m | 3.26 |
-| price_chg_ytd | 17.94 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.042105263157894736 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 23.75 |
-| EMA20 | 23.7 |
-| EMA50 | 23.73 |
-| RSI(14) | 51.1 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.071 |
-| MACD Signal | 0.052 |
-| MACD Histogram | 0.019 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | ACB |
-| pe | 7.42 |
-| pb | 1.30 |
-| roe | 17.56 |
-| roe_pct_rank | 63 |
-| roa | 1.65 |
-| roa_pct_rank | 35 |
-| eps | 3230 |
-| bvps | 18401.02 |
-| beta | 0.74 |
-| dividend | 1000 |
-| yield | 0.042105263157894736 |
-| pe_pct_rank | 38 |
-| pb_pct_rank | 54 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                   | publishtime             | url                                                                                                             |
-|:----------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------|
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                   | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                  |
-| ACB: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức 2025 | 2026-04-14T17:55:14     | /2026/04/acb-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-2025-737-1427674.htm |
-| ACB: Nghị quyết HĐQT về việc bổ nhiệm lại chức vụ Kế toán trưởng                        | 2026-04-10T17:08:06     | /2026/04/acb-nghi-quyet-hdqt-ve-viec-bo-nhiem-lai-chuc-vu-ke-toan-truong-737-1426277.htm                        |
-| ACB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                              | 2026-04-10T16:58:31     | /2026/04/acb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1426263.htm                              |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                    | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                    |
-| ĐHĐCĐ ACB: Lãi trước thuế quý 1 đạt 5,400 tỷ, mảng bancassurance tăng trưởng 33%        | 2026-04-09T12:26:00     | /2026/04/dhdcd-acb-lai-truoc-thue-quy-1-dat-5400-ty-mang-bancassurance-tang-truong-33-737-1425022.htm           |
-| Nhóm Âu Lạc nâng tỷ lệ sở hữu tại ACB lên hơn 5%                                        | 2026-04-07T17:02:44.977 | /2026/04/nhom-au-lac-nang-ty-le-so-huu-tai-acb-len-hon-5-739-1424111.htm                                        |
-| ACB: Báo cáo về ngày trở thành cổ đông lớn Nguyễn Thiên Hương Jenny                     | 2026-04-07T10:58:20     | /2026/04/acb-bao-cao-ve-ngay-tro-thanh-co-dong-lon-nguyen-thien-huong-jenny-739-1423928.htm                     |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường             | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm               |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                          | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                            |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ACB      | 2026-03-25 00:00:00 |  23.2  |  23.8  | 23.15 |   23.8  | 12449400 |
-| ACB      | 2026-03-26 00:00:00 |  23.7  |  23.7  | 23.3  |   23.6  |  8294500 |
-| ACB      | 2026-03-27 00:00:00 |  23.4  |  23.8  | 23.3  |   23.8  |  7638400 |
-| ACB      | 2026-03-30 00:00:00 |  23.3  |  23.8  | 23.3  |   23.75 |  7414700 |
-| ACB      | 2026-03-31 00:00:00 |  23.65 |  23.85 | 23.45 |   23.55 | 13096000 |
-| ACB      | 2026-04-01 00:00:00 |  23.85 |  23.9  | 23.7  |   23.8  |  9883500 |
-| ACB      | 2026-04-02 00:00:00 |  23.7  |  23.7  | 23.3  |   23.6  |  9767900 |
-| ACB      | 2026-04-03 00:00:00 |  23.6  |  23.7  | 23.25 |   23.5  | 11386300 |
-| ACB      | 2026-04-06 00:00:00 |  23.5  |  23.5  | 23.2  |   23.25 |  5554000 |
-| ACB      | 2026-04-07 00:00:00 |  23.25 |  23.4  | 23.15 |   23.2  | 10472700 |
-| ACB      | 2026-04-08 00:00:00 |  23.7  |  24.15 | 23.55 |   24.1  | 19727300 |
-| ACB      | 2026-04-09 00:00:00 |  24.05 |  24.05 | 23.75 |   23.85 |  5141500 |
-| ACB      | 2026-04-10 00:00:00 |  24.1  |  24.2  | 23.85 |   23.85 |  8136300 |
-| ACB      | 2026-04-13 00:00:00 |  23.8  |  24    | 23.55 |   23.75 |  8083900 |
-| ACB      | 2026-04-14 00:00:00 |  23.95 |  24.15 | 23.8  |   24    | 15449600 |
-| ACB      | 2026-04-15 00:00:00 |  24.15 |  24.2  | 23.8  |   23.8  |  7254600 |
-| ACB      | 2026-04-16 00:00:00 |  23.9  |  23.9  | 23.6  |   23.65 |  8623100 |
-| ACB      | 2026-04-17 00:00:00 |  23.7  |  23.85 | 23.65 |   23.75 |  6073500 |
-| ACB      | 2026-04-20 00:00:00 |  23.85 |  24    | 23.75 |   23.95 |  8670200 |
-| ACB      | 2026-04-21 00:00:00 |  24    |  24.05 | 23.75 |   23.75 |  6823700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ACB      | 2026-04-21 14:24:48 |   23.75 |      200 | Sell         | 466470607 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     2700 | Sell         | 466470635 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |      300 | Sell         | 466470634 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     7000 | Sell         | 466470633 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     3000 | Sell         | 466470614 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     5000 | Sell         | 466470608 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |      100 | Sell         | 466470612 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     8000 | Sell         | 466470609 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |     1000 | Sell         | 466470613 |
-| ACB      | 2026-04-21 14:24:48 |   23.75 |      100 | Sell         | 466470611 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

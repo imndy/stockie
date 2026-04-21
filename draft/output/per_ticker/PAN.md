@@ -1,133 +1,46 @@
 # PAN — PAN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PAN |
-| exchange | HOSE |
-| market_cap | 6820413587500 |
-| 52w_high | 35350 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 22023 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 21.216 |
-| dividend | 500 |
-| beta | 0.45 |
-| eps | 3223 |
-| eps_forward | 5.773816546363926 |
-| bvps | 43488 |
-| pe | 10.02 |
-| pb | 0.74 |
-| price_chg_1m | 15.58 |
-| price_chg_ytd | 42.82 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.015313935681470138 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 32.65 |
-| EMA20 | 31.63 |
-| EMA50 | 31.17 |
-| RSI(14) | 60.7 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.284 |
-| MACD Signal | 0.174 |
-| MACD Histogram | 0.11 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | PAN |
-| pe | 10.02 |
-| pb | 0.74 |
-| roe | 13.07 |
-| roe_pct_rank | 54 |
-| roa | 3.4 |
-| roa_pct_rank | 43 |
-| eps | 3223 |
-| bvps | 43488 |
-| beta | 0.45 |
-| dividend | 500 |
-| yield | 0.015313935681470138 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 30 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                | publishtime             | url                                                                                                        |
-|:-------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
-| PAN: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-20T13:49:15     | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                          |
-| PAN: Báo cáo thường niên năm 2025                                                    | 2026-04-20T13:48:42     | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                  |
-| PAN: BCTC quý 1 năm 2026                                                             | 2026-04-20T00:00:00     | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                           |
-| PAN Group đặt mục tiêu lợi nhuận tăng 86% nhờ thoái vốn Bibica, muốn chia cổ tức 30% | 2026-04-09T12:34:11.64  | /2026/04/pan-group-dat-muc-tieu-loi-nhuan-tang-86-nho-thoai-von-bibica-muon-chia-co-tuc-30-737-1425377.htm |
-| PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                   | 2026-04-01T09:13:53     | /2026/04/pan-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1420304.htm                                 |
-| PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-31T15:38:46     | /2026/03/pan-giai-trinh-bien-dong-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419700.htm        |
-| PAN: BCTC Hợp nhất năm 2025                                                          | 2026-03-31T00:00:00     | /2026/03/pan-bctc-hop-nhat-nam-2025-737-1419726.htm                                                        |
-| PAN: BCTC năm 2025                                                                   | 2026-03-31T00:00:00     | /2026/03/pan-bctc-nam-2025-737-1419727.htm                                                                 |
-| PAN hoàn tất chuyển nhượng Bibica cho đối tác ngoại                                  | 2026-03-26T19:11:54.977 | /2026/03/pan-hoan-tat-chuyen-nhuong-bibica-cho-doi-tac-ngoai-764-1417013.htm                               |
-| PAN: Nghị quyết HĐQT số 04-03/2026 ngày 26/03/2026                                   | 2026-03-26T17:25:57     | /2026/03/pan-nghi-quyet-hdqt-so-0403-2026-ngay-26-03-2026-737-1417084.htm                                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PAN      | 2026-03-25 00:00:00 |  28.4  |  28.9  | 28.15 |   28.75 |   947300 |
-| PAN      | 2026-03-26 00:00:00 |  28.9  |  29.35 | 28.75 |   29.2  |   445400 |
-| PAN      | 2026-03-27 00:00:00 |  30.45 |  30.85 | 30    |   30.15 |  1160900 |
-| PAN      | 2026-03-30 00:00:00 |  29.65 |  32.25 | 29.65 |   31.75 |  2199000 |
-| PAN      | 2026-03-31 00:00:00 |  31.9  |  32.35 | 31.55 |   31.7  |   525300 |
-| PAN      | 2026-04-01 00:00:00 |  31.8  |  32.75 | 31.6  |   31.85 |  1317000 |
-| PAN      | 2026-04-02 00:00:00 |  31.6  |  32.05 | 31.35 |   31.65 |   561800 |
-| PAN      | 2026-04-03 00:00:00 |  31.65 |  31.8  | 30.7  |   31.45 |   697400 |
-| PAN      | 2026-04-06 00:00:00 |  31.4  |  31.45 | 30.75 |   31.4  |   641600 |
-| PAN      | 2026-04-07 00:00:00 |  30.9  |  31.5  | 30.9  |   31.35 |   197000 |
-| PAN      | 2026-04-08 00:00:00 |  31.8  |  32.35 | 31.65 |   31.9  |   613100 |
-| PAN      | 2026-04-09 00:00:00 |  31.9  |  32.8  | 30.5  |   32.3  |  1580400 |
-| PAN      | 2026-04-10 00:00:00 |  32.35 |  33    | 31.9  |   32.3  |   408300 |
-| PAN      | 2026-04-13 00:00:00 |  32.3  |  32.3  | 31.5  |   31.75 |   378000 |
-| PAN      | 2026-04-14 00:00:00 |  31.8  |  31.95 | 31.3  |   31.35 |   642000 |
-| PAN      | 2026-04-15 00:00:00 |  31.5  |  32    | 31.3  |   31.3  |   276700 |
-| PAN      | 2026-04-16 00:00:00 |  31.6  |  31.6  | 31    |   31.35 |   513700 |
-| PAN      | 2026-04-17 00:00:00 |  31.65 |  32.9  | 31.4  |   32    |  1317500 |
-| PAN      | 2026-04-20 00:00:00 |  32.85 |  33    | 32.3  |   32.3  |  1156500 |
-| PAN      | 2026-04-21 00:00:00 |  32.75 |  32.8  | 32.2  |   32.65 |  1322700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PAN      | 2026-04-21 14:16:32 |   32.5  |      500 | Buy          | 466434876 |
-| PAN      | 2026-04-21 14:16:32 |   32.5  |     3300 | Buy          | 466434877 |
-| PAN      | 2026-04-21 14:17:31 |   32.5  |     8300 | Buy          | 466437998 |
-| PAN      | 2026-04-21 14:17:31 |   32.5  |     1700 | Buy          | 466437997 |
-| PAN      | 2026-04-21 14:17:41 |   32.5  |     2700 | Buy          | 466438560 |
-| PAN      | 2026-04-21 14:18:05 |   32.5  |     1900 | Sell         | 466439804 |
-| PAN      | 2026-04-21 14:18:24 |   32.35 |      100 | Sell         | 466441285 |
-| PAN      | 2026-04-21 14:18:24 |   32.35 |      500 | Sell         | 466441286 |
-| PAN      | 2026-04-21 14:18:53 |   32.35 |      900 | Buy          | 466442871 |
-| PAN      | 2026-04-21 14:19:57 |   32.4  |    10000 | Sell         | 466446730 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

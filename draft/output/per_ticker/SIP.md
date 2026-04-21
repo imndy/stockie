@@ -1,133 +1,46 @@
 # SIP — SIP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SIP |
-| exchange | HOSE |
-| market_cap | 14550987874300 |
-| 52w_high | 67254 |
-| 52w_high_date | 2025-07-24 |
-| 52w_low | 47501 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 2.5239 |
-| dividend | 1700 |
-| beta | 0.73 |
-| eps | 6169 |
-| eps_forward | 17.826504202169424 |
-| bvps | 24181 |
-| pe | 9.94 |
-| pb | 2.54 |
-| price_chg_1m | 9.27 |
-| price_chg_ytd | 18.10 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.028286189683860232 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 60.1 |
-| EMA20 | 60.34 |
-| EMA50 | 59.29 |
-| RSI(14) | 50.3 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | 0.691 |
-| MACD Signal | 0.709 |
-| MACD Histogram | -0.018 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SIP |
-| pe | 9.94 |
-| pb | 2.54 |
-| roe | 28.01 |
-| roe_pct_rank | 85 |
-| roa | 5.04 |
-| roa_pct_rank | 50 |
-| eps | 6169 |
-| bvps | 24181 |
-| beta | 0.73 |
-| dividend | 1700 |
-| yield | 0.028286189683860232 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 88 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                             | publishtime             | url                                                                                                       |
-|:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
-| SIP: Báo cáo thường niên năm 2025                                                 | 2026-04-20T15:56:31     | /2026/04/sip-bao-cao-thuong-nien-nam-2025-737-1430469.htm                                                 |
-| SIP: Nghị quyết HĐQT về việc điều chỉnh tài liệu họp ĐHĐCĐTN 2026                 | 2026-04-17T17:47:44     | /2026/04/sip-nghi-quyet-hdqt-ve-viec-dieu-chinh-tai-lieu-hop-dhdcdtn-2026-737-1429538.htm                 |
-| SIP: Nghị quyết HĐQT số 1396 ngày 09/04/2026                                      | 2026-04-10T17:26:28     | /2026/04/sip-nghi-quyet-hdqt-so-1396-ngay-09-04-2026-737-1426311.htm                                      |
-| SIP: Thông báo đơn xin từ nhiệm của Thành viên BKS                                | 2026-04-06T15:28:10     | /2026/04/sip-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-bks-214-1423475.htm                                |
-| SIP đặt kế hoạch đi lùi sau năm lãi kỷ lục, dự kiến cho thuê 60ha đất công nghiệp | 2026-04-01T14:30:43.887 | /2026/04/sip-dat-ke-hoach-di-lui-sau-nam-lai-ky-luc-du-kien-cho-thue-60ha-dat-cong-nghiep-737-1420636.htm |
-| SIP: Tài liệu họp ĐHĐCĐ thường niên 2026                                          | 2026-03-31T17:15:06     | /2026/03/sip-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1419884.htm                                          |
-| SIP: BCTC Hợp nhất năm 2025                                                       | 2026-03-30T00:00:00     | /2026/03/sip-bctc-hop-nhat-nam-2025-737-1419571.htm                                                       |
-| SIP: BCTC năm 2025                                                                | 2026-03-30T00:00:00     | /2026/03/sip-bctc-nam-2025-737-1419573.htm                                                                |
-| SIP: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                    | 2026-03-03T17:40:28     | /2026/03/sip-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407825.htm                    |
-| SIP: Nghị quyết HĐQT về việc chốt ngày ĐKCC tổ chức ĐHĐCĐ TN 2026                 | 2026-03-02T13:53:55     | /2026/03/sip-nghi-quyet-hdqt-ve-viec-chot-ngay-dkcc-to-chuc-dhdcd-tn-2026-737-1406987.htm                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SIP      | 2026-03-25 00:00:00 |   55.9 |   57.3 |  55.9 |    56.8 |   159100 |
-| SIP      | 2026-03-26 00:00:00 |   56.8 |   56.9 |  56.2 |    56.3 |   119700 |
-| SIP      | 2026-03-27 00:00:00 |   56.6 |   58.4 |  56.4 |    58   |   318200 |
-| SIP      | 2026-03-30 00:00:00 |   57   |   60.4 |  57   |    60   |   583500 |
-| SIP      | 2026-03-31 00:00:00 |   60   |   61.2 |  59.2 |    61.2 |   487800 |
-| SIP      | 2026-04-01 00:00:00 |   61.5 |   62   |  61.1 |    61.4 |   243900 |
-| SIP      | 2026-04-02 00:00:00 |   60.6 |   61   |  60   |    60.9 |   187600 |
-| SIP      | 2026-04-03 00:00:00 |   61.2 |   61.5 |  59.4 |    59.4 |   246100 |
-| SIP      | 2026-04-06 00:00:00 |   59.4 |   60.9 |  58.3 |    60.9 |   255800 |
-| SIP      | 2026-04-07 00:00:00 |   60.7 |   60.7 |  58.6 |    60.4 |   215400 |
-| SIP      | 2026-04-08 00:00:00 |   61.4 |   61.5 |  60.2 |    61.3 |   374400 |
-| SIP      | 2026-04-09 00:00:00 |   61.3 |   61.8 |  60.1 |    61.4 |   348200 |
-| SIP      | 2026-04-10 00:00:00 |   61.6 |   61.6 |  60.7 |    60.8 |   190800 |
-| SIP      | 2026-04-13 00:00:00 |   60.6 |   61.5 |  60.3 |    61.5 |   244100 |
-| SIP      | 2026-04-14 00:00:00 |   61.8 |   62   |  60.6 |    60.6 |   206800 |
-| SIP      | 2026-04-15 00:00:00 |   60.6 |   61.5 |  60.6 |    60.9 |   242000 |
-| SIP      | 2026-04-16 00:00:00 |   61   |   61.5 |  60.4 |    61.5 |   197400 |
-| SIP      | 2026-04-17 00:00:00 |   61.5 |   62.5 |  61.1 |    61.9 |   211100 |
-| SIP      | 2026-04-20 00:00:00 |   61.9 |   61.9 |  60.6 |    61.3 |   151300 |
-| SIP      | 2026-04-21 00:00:00 |   61.3 |   61.3 |  60.1 |    60.1 |   202500 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SIP      | 2026-04-21 13:51:14 |    60.5 |      300 | Sell         | 466349827 |
-| SIP      | 2026-04-21 13:51:14 |    60.5 |     1000 | Sell         | 466349830 |
-| SIP      | 2026-04-21 13:51:14 |    60.5 |      500 | Sell         | 466349828 |
-| SIP      | 2026-04-21 13:51:14 |    60.5 |      500 | Sell         | 466349829 |
-| SIP      | 2026-04-21 13:53:01 |    60.5 |      500 | Buy          | 466355824 |
-| SIP      | 2026-04-21 13:54:30 |    60.5 |      800 | Buy          | 466360276 |
-| SIP      | 2026-04-21 13:54:30 |    60.5 |      700 | Buy          | 466360277 |
-| SIP      | 2026-04-21 13:56:56 |    60.5 |      500 | Sell         | 466366443 |
-| SIP      | 2026-04-21 13:59:35 |    60.5 |     1700 | Sell         | 466372606 |
-| SIP      | 2026-04-21 14:05:00 |    60.5 |      100 | Sell         | 466390192 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

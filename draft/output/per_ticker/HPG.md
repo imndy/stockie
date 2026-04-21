@@ -1,133 +1,46 @@
 # HPG — HPG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HPG |
-| exchange | HOSE |
-| market_cap | 219134550160250 |
-| 52w_high | 30350 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 20860 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 22.8494 |
-| dividend | 0 |
-| beta | 0.65 |
-| eps | 2203 |
-| eps_forward | 14.557791104652352 |
-| bvps | 17096 |
-| pe | 12.91 |
-| pb | 1.66 |
-| price_chg_1m | 10.23 |
-| price_chg_ytd | 37.42 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 28.55 |
-| EMA20 | 27.67 |
-| EMA50 | 27.32 |
-| RSI(14) | 60.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.394 |
-| MACD Signal | 0.272 |
-| MACD Histogram | 0.121 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HPG |
-| pe | 12.91 |
-| pb | 1.66 |
-| roe | 12.62 |
-| roe_pct_rank | 53 |
-| roa | 6.41 |
-| roa_pct_rank | 55 |
-| eps | 2203 |
-| bvps | 17096 |
-| beta | 0.65 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 51 |
-| pb_pct_rank | 64 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Đằng sau khoản lãi “khủng” từ chuyển nhượng dự án của Hòa Phát trong quý 1                            | 2026-04-21T16:04:37.81  | /2026/04/dang-sau-khoan-lai-khung-tu-chuyen-nhuong-du-an-cua-hoa-phat-trong-quy-1-4222-1431128.htm                        |
-| Chủ tịch Trần Đình Long (HPG) gửi thông điệp đến 300,000 cổ đông                                      | 2026-04-21T11:57:00     | /2026/04/chu-tich-tran-dinh-long-hpg-gui-thong-diep-den-300000-co-dong-737-1429786.htm                                    |
-| Hòa Phát khánh thành nhà máy ống thép hơn 2,000 tỷ đồng, nâng tổng công suất lên 1.2 triệu tấn/năm    | 2026-04-20T15:31:47.14  | /2026/04/hoa-phat-khanh-thanh-nha-may-ong-thep-hon-2000-ty-dong-nang-tong-cong-suat-len-12-trieu-tannam-737-1430248.htm   |
-| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                                   | 2026-04-20T15:02:00     | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                                |
-| Mảng thức ăn chăn nuôi của Hòa Phát tăng trưởng mạnh trong quý 1                                      | 2026-04-18T12:26:52.887 | /2026/04/mang-thuc-an-chan-nuoi-cua-hoa-phat-tang-truong-manh-trong-quy-1-737-1429739.htm                                 |
-| HPG: Thông báo đường dẫn báo cáo thường niên năm 2025                                                 | 2026-04-15T16:57:44     | /2026/04/hpg-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1428150.htm                                             |
-| Theo dấu dòng tiền cá mập 14/04: Tự doanh và khối ngoại hành động trái chiều, HPG và VIC hút sự chú ý | 2026-04-14T19:25:00     | /2026/04/theo-dau-dong-tien-ca-map-1404-tu-doanh-va-khoi-ngoai-hanh-dong-trai-chieu-hpg-va-vic-hut-su-chu-y-830-1427698.… |
-| HPG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trần Vũ Minh          | 2026-04-13T16:54:54     | /2026/04/hpg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-tran-vu-minh-739-1426967.htm      |
-| Con trai Chủ tịch Trần Đình Long không mua hết 50 triệu cp HPG đăng ký                                | 2026-04-13T12:58:57.003 | /2026/04/con-trai-chu-tich-tran-dinh-long-khong-mua-het-50-trieu-cp-hpg-dang-ky-739-1426695.htm                           |
-| Theo dấu dòng tiền cá mập 09/04: HPG được khối ngoại mua ròng mạnh                                    | 2026-04-09T19:45:02.39  | /2026/04/theo-dau-dong-tien-ca-map-0904-hpg-duoc-khoi-ngoai-mua-rong-manh-830-1425755.htm                                 |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HPG      | 2026-03-25 00:00:00 |  26.3  |  26.4  | 26.1  |   26.35 | 22967100 |
-| HPG      | 2026-03-26 00:00:00 |  26.3  |  26.35 | 25.9  |   25.9  | 18424200 |
-| HPG      | 2026-03-27 00:00:00 |  25.95 |  26.7  | 25.85 |   26.5  | 26863700 |
-| HPG      | 2026-03-30 00:00:00 |  26.15 |  27.1  | 25.95 |   26.9  | 41276100 |
-| HPG      | 2026-03-31 00:00:00 |  27.05 |  27.25 | 26.8  |   26.9  | 23553000 |
-| HPG      | 2026-04-01 00:00:00 |  27.35 |  27.45 | 27.1  |   27.15 | 31503700 |
-| HPG      | 2026-04-02 00:00:00 |  27    |  27.5  | 26.75 |   27.35 | 50005700 |
-| HPG      | 2026-04-03 00:00:00 |  27.35 |  27.4  | 26.6  |   26.65 | 31383300 |
-| HPG      | 2026-04-06 00:00:00 |  26.65 |  27.1  | 26.6  |   26.85 | 19748100 |
-| HPG      | 2026-04-07 00:00:00 |  26.8  |  27.1  | 26.75 |   26.8  | 13164600 |
-| HPG      | 2026-04-08 00:00:00 |  27.5  |  28.05 | 27.4  |   28    | 67646600 |
-| HPG      | 2026-04-09 00:00:00 |  27.9  |  28.6  | 27.65 |   28.25 | 51607600 |
-| HPG      | 2026-04-10 00:00:00 |  28.6  |  28.6  | 28    |   28    | 35473400 |
-| HPG      | 2026-04-13 00:00:00 |  27.85 |  28.15 | 27.8  |   27.8  | 23005200 |
-| HPG      | 2026-04-14 00:00:00 |  28.1  |  28.8  | 27.95 |   28.55 | 61934200 |
-| HPG      | 2026-04-15 00:00:00 |  28.7  |  28.75 | 28.05 |   28.05 | 29753200 |
-| HPG      | 2026-04-16 00:00:00 |  28.05 |  28.2  | 27.75 |   27.95 | 27972100 |
-| HPG      | 2026-04-17 00:00:00 |  27.95 |  28.25 | 27.9  |   28    | 21399500 |
-| HPG      | 2026-04-20 00:00:00 |  28.15 |  28.45 | 28.05 |   28.45 | 26441700 |
-| HPG      | 2026-04-21 00:00:00 |  29.15 |  29.45 | 28.5  |   28.55 | 99647300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HPG      | 2026-04-21 14:29:29 |   28.6  |      300 | Buy          | 466496395 |
-| HPG      | 2026-04-21 14:29:29 |   28.6  |     2000 | Buy          | 466496471 |
-| HPG      | 2026-04-21 14:29:29 |   28.6  |      900 | Buy          | 466496470 |
-| HPG      | 2026-04-21 14:29:29 |   28.55 |      200 | Sell         | 466496412 |
-| HPG      | 2026-04-21 14:29:29 |   28.6  |      300 | Buy          | 466496398 |
-| HPG      | 2026-04-21 14:29:29 |   28.55 |      100 | Sell         | 466496410 |
-| HPG      | 2026-04-21 14:29:29 |   28.55 |      100 | Sell         | 466496409 |
-| HPG      | 2026-04-21 14:29:29 |   28.55 |      100 | Sell         | 466496411 |
-| HPG      | 2026-04-21 14:29:30 |   28.6  |      300 | Sell         | 466496565 |
-| HPG      | 2026-04-21 14:29:30 |   28.6  |      300 | Sell         | 466496564 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

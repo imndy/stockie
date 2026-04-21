@@ -1,133 +1,46 @@
 # NKG — NKG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NKG |
-| exchange | HOSE |
-| market_cap | 6489777774500 |
-| 52w_high | 19900 |
-| 52w_high_date | 2025-09-18 |
-| 52w_low | 11300 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 5.4965 |
-| dividend | 0 |
-| beta | 0.82 |
-| eps | 460 |
-| eps_forward | 16.504235154580346 |
-| bvps | 17060 |
-| pe | 32.05 |
-| pb | 0.86 |
-| price_chg_1m | 5.45 |
-| price_chg_ytd | 22.36 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 14.5 |
-| EMA20 | 14.31 |
-| EMA50 | 14.44 |
-| RSI(14) | 53.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.144 |
-| MACD Signal | 0.031 |
-| MACD Histogram | 0.113 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | NKG |
-| pe | 32.05 |
-| pb | 0.86 |
-| roe | 2.92 |
-| roe_pct_rank | 31 |
-| roa | 1.31 |
-| roa_pct_rank | 33 |
-| eps | 460 |
-| bvps | 17060 |
-| beta | 0.82 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 89 |
-| pb_pct_rank | 36 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime           | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Con trai Chủ tịch muốn mua thêm hàng triệu cổ phiếu, thị giá NKG tăng trần                            | 2026-04-14T15:07:32.6 | /2026/04/con-trai-chu-tich-muon-mua-them-hang-trieu-co-phieu-thi-gia-nkg-tang-tran-739-1427342.htm                        |
-| NKG: Báo cáo thường niên năm 2025                                                                     | 2026-04-14T10:23:50   | /2026/04/nkg-bao-cao-thuong-nien-nam-2025-737-1427261.htm                                                                 |
-| NKG: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Hồ Minh Phát                | 2026-04-13T16:41:02   | /2026/04/nkg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ho-minh-phat-739-1426937.htm            |
-| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                         | 2026-04-09T17:15:01   | /2026/04/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1425653.htm                                                       |
-| NKG đặt mục tiêu lợi nhuận tăng 66%, lên kế hoạch huy động gần 1,500 tỷ                               | 2026-04-06T12:45:00   | /2026/04/nkg-dat-muc-tieu-loi-nhuan-tang-66-len-ke-hoach-huy-dong-gan-1500-ty-737-1423330.htm                             |
-| NKG: Dự thảo tài liệu ĐHĐCĐ thường niên năm 2026                                                      | 2026-04-06T10:17:24   | /2026/04/nkg-du-thao-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1423276.htm                                                  |
-| NKG: Giải trình biến động KQKD BCTC hợp nhất và riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-03-26T09:07:03   | /2026/03/nkg-giai-trinh-bien-dong-kqkd-bctc-hop-nhat-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-141667… |
-| NKG: BCTC năm 2025                                                                                    | 2026-03-25T00:00:00   | /2026/03/nkg-bctc-nam-2025-737-1416664.htm                                                                                |
-| NKG: BCTC Hợp nhất năm 2025                                                                           | 2026-03-25T00:00:00   | /2026/03/nkg-bctc-hop-nhat-nam-2025-737-1416665.htm                                                                       |
-| NKG: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                         | 2026-03-20T15:04:50   | /2026/03/nkg-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1414437.htm                                                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NKG      | 2026-03-25 00:00:00 |  13.25 |  13.5  | 13.25 |   13.4  |  2834500 |
-| NKG      | 2026-03-26 00:00:00 |  13.5  |  13.7  | 13.35 |   13.35 |  3367400 |
-| NKG      | 2026-03-27 00:00:00 |  13.45 |  13.8  | 13.3  |   13.8  |  3679600 |
-| NKG      | 2026-03-30 00:00:00 |  13.4  |  14.1  | 13.35 |   13.9  |  4607200 |
-| NKG      | 2026-03-31 00:00:00 |  14.05 |  14.15 | 13.8  |   13.85 |  3555300 |
-| NKG      | 2026-04-01 00:00:00 |  14.15 |  14.15 | 13.85 |   13.9  |  2983400 |
-| NKG      | 2026-04-02 00:00:00 |  13.8  |  14.2  | 13.7  |   13.8  |  5846600 |
-| NKG      | 2026-04-03 00:00:00 |  14    |  14    | 13.6  |   13.6  |  2199600 |
-| NKG      | 2026-04-06 00:00:00 |  13.5  |  13.85 | 13.4  |   13.45 |  2762100 |
-| NKG      | 2026-04-07 00:00:00 |  13.45 |  13.65 | 13.4  |   13.55 |  2066200 |
-| NKG      | 2026-04-08 00:00:00 |  14.05 |  14.15 | 13.8  |   14.15 |  5511300 |
-| NKG      | 2026-04-09 00:00:00 |  14.05 |  14.65 | 13.9  |   14.4  |  7533600 |
-| NKG      | 2026-04-10 00:00:00 |  14.6  |  14.65 | 14.25 |   14.25 |  3256000 |
-| NKG      | 2026-04-13 00:00:00 |  14    |  14.4  | 14    |   14.1  |  3459100 |
-| NKG      | 2026-04-14 00:00:00 |  14.35 |  15.05 | 14.15 |   15.05 | 13074700 |
-| NKG      | 2026-04-15 00:00:00 |  15.25 |  15.35 | 14.75 |   14.8  |  7230800 |
-| NKG      | 2026-04-16 00:00:00 |  14.85 |  14.95 | 14.5  |   14.8  |  6900500 |
-| NKG      | 2026-04-17 00:00:00 |  14.8  |  14.85 | 14.65 |   14.7  |  3883000 |
-| NKG      | 2026-04-20 00:00:00 |  14.8  |  15.1  | 14.7  |   14.75 |  3601200 |
-| NKG      | 2026-04-21 00:00:00 |  15    |  15.2  | 14.5  |   14.5  | 10303600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NKG      | 2026-04-21 14:28:40 |    14.5 |      300 | Sell         | 466490664 |
-| NKG      | 2026-04-21 14:28:40 |    14.5 |    17600 | Sell         | 466490668 |
-| NKG      | 2026-04-21 14:28:40 |    14.5 |      200 | Sell         | 466490665 |
-| NKG      | 2026-04-21 14:28:40 |    14.5 |     4000 | Sell         | 466490666 |
-| NKG      | 2026-04-21 14:28:40 |    14.5 |     1000 | Sell         | 466490667 |
-| NKG      | 2026-04-21 14:28:41 |    14.5 |      200 | Sell         | 466490795 |
-| NKG      | 2026-04-21 14:28:42 |    14.5 |     1500 | Sell         | 466490843 |
-| NKG      | 2026-04-21 14:28:42 |    14.5 |      200 | Sell         | 466490841 |
-| NKG      | 2026-04-21 14:28:42 |    14.5 |     2200 | Sell         | 466490838 |
-| NKG      | 2026-04-21 14:28:42 |    14.5 |     2000 | Sell         | 466490839 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

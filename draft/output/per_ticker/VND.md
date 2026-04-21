@@ -1,133 +1,46 @@
 # VND — VND
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: 05/04/2026 20:05
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VND |
-| exchange | HOSE |
-| market_cap | 25346293468200 |
-| 52w_high | 26800 |
-| 52w_high_date | 2025-09-03 |
-| 52w_low | 14105 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 9.9268 |
-| dividend | 500 |
-| beta | 1.11 |
-| eps | 1435 |
-| eps_forward | 13.816497062960206 |
-| bvps | 14089.37 |
-| pe | 11.64 |
-| pb | 1.19 |
-| price_chg_1m | 8.47 |
-| price_chg_ytd | 11.89 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.03003003003003003 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 16.65 |
-| EMA20 | 16.49 |
-| EMA50 | 17.0 |
-| RSI(14) | 51.4 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.001 |
-| MACD Signal | -0.12 |
-| MACD Histogram | 0.119 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VND |
-| pe | 11.64 |
-| pb | 1.19 |
-| roe | 6.57 |
-| roe_pct_rank | 39 |
-| roa | 3.8 |
-| roa_pct_rank | 44 |
-| eps | 1435 |
-| bvps | 14089.37 |
-| beta | 1.11 |
-| dividend | 500 |
-| yield | 0.03003003003003003 |
-| pe_pct_rank | 48 |
-| pb_pct_rank | 51 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime         | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00 | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
-| VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12 | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
-| VND: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-20T00:00:00 | /2026/04/vnd-bctc-tom-tat-quy-1-nam-2026-737-1431244.htm                                                                  |
-| VND: VNDIRECT công bố Báo cáo thường niên năm 2025                                                       | 2026-04-17T00:00:00 | /2026/04/vnd-vndirect-cong-bo-bao-cao-thuong-nien-nam-2025-737-1429616.htm                                                |
-| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5                              | 2026-04-10T15:05:14 | /2026/04/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-1426088.htm                       |
-| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                | 2026-04-09T15:32:17 | /2026/04/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1425534.htm                          |
-| VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
-| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026                  | 2026-04-08T16:30:59 | /2026/04/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1425046.htm           |
-| VND: VNDIRECT công bố Nghị quyết HĐQT về việc chào bán chứng quyền có bảo đảm đợt 1 năm 2026             | 2026-04-07T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nghi-quyet-hdqt-ve-viec-chao-ban-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1424345.htm      |
-| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                                  | 2026-03-31T15:44:48 | /2026/03/vnd-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025-737-1419736.htm                                           |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VND      | 2026-03-25 00:00:00 |  15.2  |  15.8  | 15.1  |   15.5  | 15438700 |
-| VND      | 2026-03-26 00:00:00 |  15.55 |  15.65 | 15.25 |   15.5  |  8430400 |
-| VND      | 2026-03-27 00:00:00 |  15.5  |  15.95 | 15.45 |   15.85 | 12891700 |
-| VND      | 2026-03-30 00:00:00 |  15.35 |  15.65 | 15.15 |   15.5  | 10246100 |
-| VND      | 2026-03-31 00:00:00 |  15.55 |  16.1  | 15.45 |   15.8  | 16215300 |
-| VND      | 2026-04-01 00:00:00 |  16.2  |  16.5  | 16.15 |   16.25 | 13014900 |
-| VND      | 2026-04-02 00:00:00 |  16.05 |  16.2  | 15.85 |   15.9  | 10279300 |
-| VND      | 2026-04-03 00:00:00 |  15.95 |  16.1  | 15.65 |   15.65 |  9668300 |
-| VND      | 2026-04-06 00:00:00 |  15.65 |  15.95 | 15.6  |   15.65 |  7656700 |
-| VND      | 2026-04-07 00:00:00 |  15.65 |  16.05 | 15.5  |   16.05 |  6904900 |
-| VND      | 2026-04-08 00:00:00 |  17    |  17.15 | 16.6  |   17.15 | 27424100 |
-| VND      | 2026-04-09 00:00:00 |  17    |  17.15 | 16.8  |   16.85 | 12273000 |
-| VND      | 2026-04-10 00:00:00 |  17.1  |  17.15 | 16.7  |   16.75 |  7562000 |
-| VND      | 2026-04-13 00:00:00 |  16.5  |  16.9  | 16.4  |   16.65 |  9619300 |
-| VND      | 2026-04-14 00:00:00 |  17    |  17.15 | 16.75 |   16.85 |  9758300 |
-| VND      | 2026-04-15 00:00:00 |  17    |  17.2  | 16.8  |   16.8  | 13163100 |
-| VND      | 2026-04-16 00:00:00 |  16.85 |  16.95 | 16.5  |   16.55 | 11229500 |
-| VND      | 2026-04-17 00:00:00 |  16.6  |  16.8  | 16.5  |   16.55 |  7095600 |
-| VND      | 2026-04-20 00:00:00 |  16.55 |  16.8  | 16.55 |   16.7  |  7920700 |
-| VND      | 2026-04-21 00:00:00 |  16.9  |  17.05 | 16.6  |   16.65 |  9627900 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VND      | 2026-04-21 14:27:45 |   16.65 |      500 | Sell         | 466485504 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      200 | Sell         | 466485506 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      500 | Sell         | 466485507 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      100 | Sell         | 466485508 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |     3000 | Sell         | 466485509 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      100 | Sell         | 466485510 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      500 | Sell         | 466485512 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      100 | Sell         | 466485521 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      500 | Sell         | 466485505 |
-| VND      | 2026-04-21 14:27:45 |   16.65 |      200 | Sell         | 466485515 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

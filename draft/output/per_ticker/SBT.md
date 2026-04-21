@@ -1,129 +1,46 @@
 # SBT — SBT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:41  |  🗂 Quarterly: 05/04/2026 20:01
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SBT |
-| exchange | HOSE |
-| market_cap | 18016676597100 |
-| 52w_high | 25365 |
-| 52w_high_date | 2025-10-13 |
-| 52w_low | 15841 |
-| 52w_low_date | 2025-05-06 |
-| foreign_ownership | 19.7757 |
-| dividend | 0 |
-| beta | 0.29 |
-| eps | 918 |
-| eps_forward | 18.991076038055905 |
-| bvps | 14614 |
-| pe | 22.43 |
-| pb | 1.41 |
-| price_chg_1m | 5.80 |
-| price_chg_ytd | 28.96 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 20.55 |
-| EMA20 | 20.75 |
-| EMA50 | 21.28 |
-| RSI(14) | 40.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.194 |
-| MACD Signal | -0.237 |
-| MACD Histogram | 0.044 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SBT |
-| pe | 22.43 |
-| pb | 1.41 |
-| eps | 918 |
-| bvps | 14614 |
-| beta | 0.29 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 71 |
-| pb_pct_rank | 57 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SBT: Thông báo công văn của UBCKNN về việc sửa đổi, bổ sung nội dung Bản cáo bạch chào bán trái phiếu chuyển đổi ra công… | 2026-04-20T17:07:51 | /2026/04/sbt-thong-bao-cong-van-cua-ubcknn-ve-viec-sua-doi-bo-sung-noi-dung-ban-cao-bach-chao-ban-trai-phieu-chuyen-doi-… |
-| CTCP Thành Thành Công – Biên Hòa sửa đổi, bổ sung nội dung Bản cáo bạch chào bán trái phiếu chuyển đổi ra công chúng SBT… | 2026-04-20T17:02:00 | /2026/04/ctcp-thanh-thanh-cong-8211-bien-hoa-sua-doi-bo-sung-noi-dung-ban-cao-bach-chao-ban-trai-phieu-chuyen-doi-ra-con… |
-| SBT: Thông báo về ngày đăng ký cuối cùng trả cổ tức bằng cổ phiếu niên độ 2024-2025                                       | 2026-04-10T15:16:14 | /2026/04/sbt-thong-bao-ve-ngay-dang-ky-cuoi-cung-tra-co-tuc-bang-co-phieu-nien-do-20242025-737-1426102.htm                |
-| SBT: Thông báo phát hành cổ phiếu để trả cổ tức                                                                           | 2026-04-07T17:39:52 | /2026/04/sbt-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-738-1424357.htm                                                   |
-| SBT: Thông báo ngày ĐKCC thực hiện quyền nhận cổ tức bằng cổ phiếu niên độ 2024-2025                                      | 2026-04-07T17:39:21 | /2026/04/sbt-thong-bao-ngay-dkcc-thuc-hien-quyen-nhan-co-tuc-bang-co-phieu-nien-do-20242025-738-1424353.htm               |
-| SBT: Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền nhận cổ tức bằng cổ phiếu niên độ 2024-2025                             | 2026-04-07T17:38:23 | /2026/04/sbt-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-nhan-co-tuc-bang-co-phieu-nien-do-20242025-737-1424355.htm      |
-| SBT: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức của SBT                           | 2026-04-03T14:42:18 | /2026/04/sbt-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-cua-sbt-738-1422574.htm   |
-| SBT: Nghị quyết HĐQT về việc phê duyệt phương án mua lại trước hạn trái phiếu riêng lẻ SBTH2327001                        | 2026-04-03T13:28:02 | /2026/04/sbt-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-mua-lai-truoc-han-trai-phieu-rieng-le-sbth2327001-737-1422511.h… |
-| SBT: Báo cáo tình hình thanh toán gốc lãi trái phiếu năm 2025                                                             | 2026-04-02T16:04:36 | /2026/04/sbt-bao-cao-tinh-hinh-thanh-toan-goc-lai-trai-phieu-nam-2025-785-1421644.htm                                     |
-| SBT: CBTT giảm tỷ lệ sở hữu dẫn đến CTCP Đường Nước Trong không còn là công ty con                                        | 2026-03-31T18:01:14 | /2026/03/sbt-cbtt-giam-ty-le-so-huu-dan-den-ctcp-duong-nuoc-trong-khong-con-la-cong-ty-con-739-1419974.htm                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SBT      | 2026-03-25 00:00:00 |  19.86 |  20.42 | 19.76 |   20.42 |   547882 |
-| SBT      | 2026-03-26 00:00:00 |  20.42 |  20.47 | 20.24 |   20.47 |   409289 |
-| SBT      | 2026-03-27 00:00:00 |  20.47 |  21.51 | 20.24 |   21.51 |   743299 |
-| SBT      | 2026-03-30 00:00:00 |  21.51 |  21.51 | 21.13 |   21.51 |   781540 |
-| SBT      | 2026-03-31 00:00:00 |  21.51 |  21.51 | 21.23 |   21.42 |   691972 |
-| SBT      | 2026-04-01 00:00:00 |  21.42 |  21.46 | 21.04 |   21.04 |   674147 |
-| SBT      | 2026-04-02 00:00:00 |  21.04 |  21.04 | 20.75 |   20.75 |   486123 |
-| SBT      | 2026-04-03 00:00:00 |  20.75 |  20.94 | 20.52 |   20.66 |   340243 |
-| SBT      | 2026-04-06 00:00:00 |  20.66 |  20.66 | 20.38 |   20.57 |   450219 |
-| SBT      | 2026-04-07 00:00:00 |  20.52 |  20.61 | 20.42 |   20.61 |   442844 |
-| SBT      | 2026-04-08 00:00:00 |  20.61 |  20.71 | 20.47 |   20.71 |   492750 |
-| SBT      | 2026-04-09 00:00:00 |  20.66 |  20.71 | 20.47 |   20.57 |   430806 |
-| SBT      | 2026-04-10 00:00:00 |  20.57 |  20.61 | 20.42 |   20.61 |   418441 |
-| SBT      | 2026-04-13 00:00:00 |  20.61 |  20.61 | 20.42 |   20.61 |   455591 |
-| SBT      | 2026-04-14 00:00:00 |  20.61 |  20.66 | 20.42 |   20.66 |   442262 |
-| SBT      | 2026-04-15 00:00:00 |  20.66 |  20.66 | 20.42 |   20.66 |   414836 |
-| SBT      | 2026-04-16 00:00:00 |  20.66 |  20.66 | 20.42 |   20.66 |   514221 |
-| SBT      | 2026-04-17 00:00:00 |  20.65 |  20.65 | 20.45 |   20.65 |   440157 |
-| SBT      | 2026-04-20 00:00:00 |  20.65 |  20.65 | 20.45 |   20.6  |   447838 |
-| SBT      | 2026-04-21 00:00:00 |  20.55 |  20.6  | 20.05 |   20.55 |   652900 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SBT      | 2026-04-21 13:17:56 |   20.15 |     1200 | Buy          | 466266081 |
-| SBT      | 2026-04-21 13:17:56 |   20.15 |     1800 | Buy          | 466266082 |
-| SBT      | 2026-04-21 13:18:16 |   20.15 |     5000 | Buy          | 466267181 |
-| SBT      | 2026-04-21 13:18:16 |   20.15 |     3200 | Buy          | 466267180 |
-| SBT      | 2026-04-21 13:18:16 |   20.15 |      300 | Buy          | 466267182 |
-| SBT      | 2026-04-21 13:18:59 |   20.15 |     1500 | Sell         | 466270141 |
-| SBT      | 2026-04-21 13:19:07 |   20.15 |     8500 | Buy          | 466270510 |
-| SBT      | 2026-04-21 13:19:07 |   20.2  |     3100 | Buy          | 466270511 |
-| SBT      | 2026-04-21 13:19:07 |   20.2  |     3400 | Buy          | 466270512 |
-| SBT      | 2026-04-21 13:20:19 |   20.2  |     1000 | Buy          | 466274332 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

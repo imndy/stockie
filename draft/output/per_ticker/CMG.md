@@ -1,133 +1,46 @@
 # CMG — CMG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CMG |
-| exchange | HOSE |
-| market_cap | 6614385787200 |
-| 52w_high | 41767 |
-| 52w_high_date | 2025-08-14 |
-| 52w_low | 27905 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 37.412 |
-| dividend | 0 |
-| beta | 0.66 |
-| eps | 1933 |
-| eps_forward | 13.22231762792992 |
-| bvps | 18850 |
-| pe | 14.97 |
-| pb | 1.54 |
-| price_chg_1m | -4.05 |
-| price_chg_ytd | -1.12 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 28.4 |
-| EMA20 | 29.06 |
-| EMA50 | 30.44 |
-| RSI(14) | 40.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.501 |
-| MACD Signal | -0.644 |
-| MACD Histogram | 0.143 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CMG |
-| pe | 14.97 |
-| pb | 1.54 |
-| roe | 12.18 |
-| roe_pct_rank | 52 |
-| roa | 4.79 |
-| roa_pct_rank | 49 |
-| eps | 1933 |
-| bvps | 18850 |
-| beta | 0.66 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 55 |
-| pb_pct_rank | 60 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                       | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CMG đặt mục tiêu doanh thu tăng 20% trong năm 2026                                                          | 2026-04-02T15:17:55.757 | /2026/04/cmg-dat-muc-tieu-doanh-thu-tang-20-trong-nam-2026-737-1421500.htm                                                |
-| CMG: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ Công ty TNHH An ninh An toàn Thông tin CMC | 2026-03-26T17:43:19     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le-cong-ty-tnhh-an-ninh-an-toan-thong-tin-cmc-737-… |
-| CMG: Nghị quyết HĐQT về việc thông qua chủ trương thực hiện giao dịch với bên liên quan trong năm 2026      | 2026-03-19T16:14:04     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thuc-hien-giao-dich-voi-ben-lien-quan-trong-nam-2026-737-14141… |
-| CMG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                      | 2026-03-13T18:02:18     | /2026/03/cmg-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1412214.htm                            |
-| CMG: Quyết định về việc thay đổi đăng ký niêm yết                                                           | 2026-03-06T17:01:02     | /2026/03/cmg-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1409328.htm                                                 |
-| CMG: Điều lệ công ty sửa đổi, bổ sung lần thứ 27                                                            | 2026-02-27T16:58:16     | /2026/02/cmg-dieu-le-cong-ty-sua-doi-bo-sung-lan-thu-27-737-1406502.htm                                                   |
-| CMG: Báo cáo tình hình sử dụng vốn cổ phiếu                                                                 | 2026-02-27T13:42:25     | /2026/02/cmg-bao-cao-tinh-hinh-su-dung-von-co-phieu-737-1406214.htm                                                       |
-| CMG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 27                                               | 2026-02-26T14:14:35     | /2026/02/cmg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-27-737-1405804.htm                                     |
-| CMC Group “làm mới” kế hoạch lập công ty đầu tư công nghệ sau gần 3 năm                                     | 2026-02-11T10:55:55.71  | /2026/02/cmc-group-lam-moi-ke-hoach-lap-cong-ty-dau-tu-cong-nghe-sau-gan-3-nam-737-1402718.htm                            |
-| CMG: Nghị quyết HĐQT về việc điều chỉnh phương án thành lập Công ty TNHH CMC Investment                     | 2026-02-10T17:24:32     | /2026/02/cmg-nghi-quyet-hdqt-ve-viec-dieu-chinh-phuong-an-thanh-lap-cong-ty-tnhh-cmc-investment-737-1402586.htm           |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CMG      | 2026-03-25 00:00:00 |  28.2  |  29    | 28.2  |   28.8  |   236200 |
-| CMG      | 2026-03-26 00:00:00 |  28.85 |  29.55 | 28.7  |   28.9  |   372800 |
-| CMG      | 2026-03-27 00:00:00 |  29    |  29.2  | 28.6  |   29.15 |   555400 |
-| CMG      | 2026-03-30 00:00:00 |  28.9  |  29.15 | 28.6  |   29.05 |   226000 |
-| CMG      | 2026-03-31 00:00:00 |  29.1  |  29.25 | 28.7  |   28.8  |   389200 |
-| CMG      | 2026-04-01 00:00:00 |  29.4  |  29.4  | 29    |   29.1  |   201600 |
-| CMG      | 2026-04-02 00:00:00 |  29    |  29.1  | 28.55 |   28.8  |   237600 |
-| CMG      | 2026-04-03 00:00:00 |  28.8  |  29    | 28.45 |   28.45 |   242800 |
-| CMG      | 2026-04-06 00:00:00 |  28.45 |  28.9  | 28.3  |   28.35 |   126500 |
-| CMG      | 2026-04-07 00:00:00 |  29    |  29    | 27.7  |   28    |   341700 |
-| CMG      | 2026-04-08 00:00:00 |  28.6  |  29.4  | 28.45 |   29.3  |   585000 |
-| CMG      | 2026-04-09 00:00:00 |  28.7  |  29.25 | 28.7  |   28.8  |   255200 |
-| CMG      | 2026-04-10 00:00:00 |  28.85 |  29.3  | 28.85 |   28.9  |   209600 |
-| CMG      | 2026-04-13 00:00:00 |  28.9  |  29.1  | 28.8  |   28.9  |   203600 |
-| CMG      | 2026-04-14 00:00:00 |  28.95 |  29.5  | 28.95 |   29.45 |   494100 |
-| CMG      | 2026-04-15 00:00:00 |  29.8  |  29.9  | 29.05 |   29.1  |   299000 |
-| CMG      | 2026-04-16 00:00:00 |  29.1  |  29.1  | 28.2  |   28.5  |   553600 |
-| CMG      | 2026-04-17 00:00:00 |  28.6  |  29.3  | 28.5  |   28.75 |   268700 |
-| CMG      | 2026-04-20 00:00:00 |  29.3  |  29.3  | 28.55 |   28.95 |   246400 |
-| CMG      | 2026-04-21 00:00:00 |  28.95 |  28.95 | 28.4  |   28.4  |   379400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CMG      | 2026-04-21 14:04:51 |   28.45 |     5000 | Sell         | 466389695 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      100 | Sell         | 466389706 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      100 | Sell         | 466389705 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      100 | Sell         | 466389704 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      100 | Sell         | 466389703 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      100 | Sell         | 466389702 |
-| CMG      | 2026-04-21 14:04:51 |   28.45 |      100 | Sell         | 466389696 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |     2000 | Sell         | 466389700 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |      500 | Sell         | 466389699 |
-| CMG      | 2026-04-21 14:04:51 |   28.4  |     1500 | Sell         | 466389698 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

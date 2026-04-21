@@ -1,133 +1,46 @@
 # BWE — BWE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BWE |
-| exchange | HOSE |
-| market_cap | 9610881742800 |
-| 52w_high | 51314 |
-| 52w_high_date | 2025-05-07 |
-| 52w_low | 40818 |
-| 52w_low_date | 2025-12-26 |
-| foreign_ownership | 3.1807 |
-| dividend | 1300 |
-| beta | 0.37 |
-| eps | 4478 |
-| eps_forward | 13.808379282718318 |
-| bvps | 28603 |
-| pe | 9.81 |
-| pb | 1.54 |
-| price_chg_1m | 1.75 |
-| price_chg_ytd | -0.08 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.029748283752860413 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 43.7 |
-| EMA20 | 43.3 |
-| EMA50 | 43.5 |
-| RSI(14) | 54.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.105 |
-| MACD Signal | -0.019 |
-| MACD Histogram | 0.124 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BWE |
-| pe | 9.81 |
-| pb | 1.54 |
-| roe | 14.78 |
-| roe_pct_rank | 57 |
-| roa | 6.09 |
-| roa_pct_rank | 54 |
-| eps | 4478 |
-| bvps | 28603 |
-| beta | 0.37 |
-| dividend | 1300 |
-| yield | 0.029748283752860413 |
-| pe_pct_rank | 43 |
-| pb_pct_rank | 60 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                               | publishtime             | url                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| BWE: Nghị quyết HĐQT về việc thông qua Hồ sơ đăng ký chào bán cổ phiếu ra công chúng                | 2026-04-20T17:41:38     | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-ho-so-dang-ky-chao-ban-co-phieu-ra-cong-chung-737-1430752.htm              |
-| BWE: Nghị quyết HĐQT về việc thông qua phương án tách Công ty và thành lập 4 công ty mới            | 2026-04-17T17:58:41     | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-phuong-an-tach-cong-ty-va-thanh-lap-4-cong-ty-moi-737-1429559.htm          |
-| BWE: Nghị quyết HĐQT số 25 ngày 13/04/2026                                                          | 2026-04-14T17:21:22     | /2026/04/bwe-nghi-quyet-hdqt-so-25-ngay-13-04-2026-737-1427577.htm                                                        |
-| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                               | 2026-04-07T16:33:28     | /2026/04/bwe-thong-bao-duong-dan-dang-tai-dieu-le-cong-ty-sua-doi-lan-thu-9-737-1424223.htm                               |
-| BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)                         | 2026-04-02T14:37:17     | /2026/04/bwe-thong-bao-thay-doi-nhan-su-dinh-chinh-ban-cbtt-so-06-ngay-28-03-2026-214-1421552.htm                         |
-| BWE: Thông báo thay đổi nhân sự                                                                     | 2026-03-30T14:22:35     | /2026/03/bwe-thong-bao-thay-doi-nhan-su-214-1418635.htm                                                                   |
-| BWE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                              | 2026-03-30T09:16:25     | /2026/03/bwe-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1418344.htm                                            |
-| Chủ tịch Biwase Nguyễn Văn Thiền lý giải vì sao giá nước chưa thể tăng dù chịu nhiều áp lực đầu vào | 2026-03-28T11:01:42.343 | /2026/03/chu-tich-biwase-nguyen-van-thien-ly-giai-vi-sao-gia-nuoc-chua-the-tang-du-chiu-nhieu-ap-luc-dau-vao-737-1417968… |
-| BWE: Tài liệu họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-27T09:28:00     | /2026/03/bwe-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1417340.htm                                                          |
-| BWE: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (chỉnh sửa lần thứ 1)                                  | 2026-03-24T16:10:28     | /2026/03/bwe-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-chinh-sua-lan-thu-1-737-1415733.htm                                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BWE      | 2026-03-25 00:00:00 |  42.65 |  43.55 | 42.25 |   43    |   291500 |
-| BWE      | 2026-03-26 00:00:00 |  43.15 |  43.15 | 42.6  |   42.9  |    71000 |
-| BWE      | 2026-03-27 00:00:00 |  42.9  |  43.2  | 42.8  |   43.15 |   228200 |
-| BWE      | 2026-03-30 00:00:00 |  42.85 |  43.9  | 41.8  |   42.75 |   710300 |
-| BWE      | 2026-03-31 00:00:00 |  42.25 |  43.1  | 42.25 |   43    |   125600 |
-| BWE      | 2026-04-01 00:00:00 |  43.05 |  43.85 | 42.8  |   43.05 |   498200 |
-| BWE      | 2026-04-02 00:00:00 |  43    |  43    | 42.4  |   43    |   132900 |
-| BWE      | 2026-04-03 00:00:00 |  43    |  43    | 42.6  |   43    |   119800 |
-| BWE      | 2026-04-06 00:00:00 |  42    |  42.9  | 42    |   42.85 |   111800 |
-| BWE      | 2026-04-07 00:00:00 |  42.85 |  42.95 | 42.7  |   42.85 |   196600 |
-| BWE      | 2026-04-08 00:00:00 |  43    |  43.3  | 43    |   43.05 |   598300 |
-| BWE      | 2026-04-09 00:00:00 |  43.05 |  43.3  | 42.8  |   43.1  |   106200 |
-| BWE      | 2026-04-10 00:00:00 |  43.15 |  43.2  | 42.95 |   43.2  |   117800 |
-| BWE      | 2026-04-13 00:00:00 |  43.15 |  43.25 | 42.85 |   43.2  |    34000 |
-| BWE      | 2026-04-14 00:00:00 |  43.7  |  43.7  | 43.25 |   43.6  |   326800 |
-| BWE      | 2026-04-15 00:00:00 |  43.65 |  43.65 | 43.55 |   43.65 |   103900 |
-| BWE      | 2026-04-16 00:00:00 |  43.6  |  43.7  | 43.05 |   43.1  |   613200 |
-| BWE      | 2026-04-17 00:00:00 |  43.05 |  43.6  | 43.05 |   43.6  |   122800 |
-| BWE      | 2026-04-20 00:00:00 |  43.7  |  44.1  | 43.7  |   43.95 |   237400 |
-| BWE      | 2026-04-21 00:00:00 |  43.7  |  43.95 | 43.05 |   43.7  |   451400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BWE      | 2026-04-21 13:58:54 |   43.85 |      500 | Sell         | 466371112 |
-| BWE      | 2026-04-21 13:59:24 |   43.85 |      200 | Sell         | 466372191 |
-| BWE      | 2026-04-21 13:59:45 |   43.85 |     1300 | Sell         | 466372976 |
-| BWE      | 2026-04-21 13:59:45 |   43.85 |      800 | Sell         | 466372975 |
-| BWE      | 2026-04-21 13:59:49 |   43.85 |     1700 | Sell         | 466373152 |
-| BWE      | 2026-04-21 14:00:05 |   43.85 |     3300 | Buy          | 466373758 |
-| BWE      | 2026-04-21 14:00:05 |   43.85 |      400 | Buy          | 466373760 |
-| BWE      | 2026-04-21 14:00:05 |   43.85 |      100 | Buy          | 466373761 |
-| BWE      | 2026-04-21 14:00:42 |   43.85 |      200 | Sell         | 466376185 |
-| BWE      | 2026-04-21 14:01:08 |   43.85 |      400 | Sell         | 466377280 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

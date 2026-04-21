@@ -1,133 +1,46 @@
 # DGW — DGW
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGW |
-| exchange | HOSE |
-| market_cap | 10063175850000 |
-| 52w_high | 56000 |
-| 52w_high_date | 2026-02-03 |
-| 52w_low | 31123 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 24.027 |
-| dividend | 500 |
-| beta | 1.1 |
-| eps | 2496 |
-| eps_forward | 19.466038111117225 |
-| bvps | 15701 |
-| pe | 18.43 |
-| pb | 2.93 |
-| price_chg_1m | 8.33 |
-| price_chg_ytd | 45.73 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.010989010989010988 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 45.5 |
-| EMA20 | 45.24 |
-| EMA50 | 45.35 |
-| RSI(14) | 51.2 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.092 |
-| MACD Signal | -0.076 |
-| MACD Histogram | 0.168 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGW |
-| pe | 18.43 |
-| pb | 2.93 |
-| roe | 17.12 |
-| roe_pct_rank | 62 |
-| roa | 5.55 |
-| roa_pct_rank | 52 |
-| eps | 2496 |
-| bvps | 15701 |
-| beta | 1.1 |
-| dividend | 500 |
-| yield | 0.010989010989010988 |
-| pe_pct_rank | 63 |
-| pb_pct_rank | 99 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                | publishtime             | url                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                  | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
-| DGW: Thông báo thay đổi nhân sự - Miễn nhiệm Trưởng phòng Tài chính và Trưởng phòng kiểm toán nội bộ | 2026-04-16T09:08:51     | /2026/04/dgw-thong-bao-thay-doi-nhan-su-mien-nhiem-truong-phong-tai-chinh-va-truong-phong-kiem-toan-noi-bo-737-1428384.h… |
-| DGW: Nghị quyết HĐQT về việc miễn nhiệm Trưởng phòng Tài chính                                       | 2026-04-16T09:07:17     | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-mien-nhiem-truong-phong-tai-chinh-737-1428380.htm                                    |
-| DGW: Báo cáo thường niên năm 2025                                                                    | 2026-04-14T09:07:16     | /2026/04/dgw-bao-cao-thuong-nien-nam-2025-737-1427209.htm                                                                 |
-| DGW: Danh sách ứng cử viên HĐQT nhiệm kỳ 20265 - 2031                                                | 2026-04-13T10:13:53     | /2026/04/dgw-danh-sach-ung-cu-vien-hdqt-nhiem-ky-20265-2031-830-1426671.htm                                               |
-| DGW, DPG và FPT có gì hấp dẫn?                                                                       | 2026-03-30T12:25:26.237 | /2026/03/dgw-dpg-va-fpt-co-gi-hap-dan-145-1418486.htm                                                                     |
-| Digiworld lên kế hoạch tăng trưởng doanh thu 18%, chuẩn bị tái cấu trúc theo mô hình holdings        | 2026-03-26T11:53:00     | /2026/03/digiworld-len-ke-hoach-tang-truong-doanh-thu-18-chuan-bi-tai-cau-truc-theo-mo-hinh-holdings-737-1416741.htm      |
-| DGW: Tài liệu họp ĐHĐCĐ thường niên 2026 và link tài liệu                                            | 2026-03-25T15:21:26     | /2026/03/dgw-tai-lieu-hop-dhdcd-thuong-nien-2026-va-link-tai-lieu-737-1416250.htm                                         |
-| DGW: Giải trình KQKD HN và Riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước                     | 2026-03-25T09:36:13     | /2026/03/dgw-giai-trinh-kqkd-hn-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1416014.htm                  |
-| DGW: BCTC Hợp nhất năm 2025                                                                          | 2026-03-24T00:00:00     | /2026/03/dgw-bctc-hop-nhat-nam-2025-737-1416011.htm                                                                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DGW      | 2026-03-25 00:00:00 |  43    |  43.7  | 42.7  |   43.6  |  2074500 |
-| DGW      | 2026-03-26 00:00:00 |  43.4  |  45    | 42.9  |   45    |  2163300 |
-| DGW      | 2026-03-27 00:00:00 |  45    |  45.5  | 44.2  |   45.5  |  1471700 |
-| DGW      | 2026-03-30 00:00:00 |  43.8  |  46.2  | 43.8  |   45.8  |  1483000 |
-| DGW      | 2026-03-31 00:00:00 |  46.1  |  46.45 | 45.1  |   45.8  |  1500700 |
-| DGW      | 2026-04-01 00:00:00 |  46.6  |  46.6  | 45.35 |   46    |  1066300 |
-| DGW      | 2026-04-02 00:00:00 |  45.6  |  45.95 | 43.8  |   45.95 |  1913200 |
-| DGW      | 2026-04-03 00:00:00 |  45.9  |  45.9  | 43.9  |   43.9  |  1109200 |
-| DGW      | 2026-04-06 00:00:00 |  43.9  |  44.15 | 42.5  |   43.7  |  1452300 |
-| DGW      | 2026-04-07 00:00:00 |  43.2  |  43.6  | 42.5  |   42.95 |  1227200 |
-| DGW      | 2026-04-08 00:00:00 |  44.45 |  45.8  | 44.25 |   45.75 |  2145100 |
-| DGW      | 2026-04-09 00:00:00 |  45.75 |  46.65 | 45.1  |   46.2  |  2326600 |
-| DGW      | 2026-04-10 00:00:00 |  46.2  |  46.8  | 45.5  |   45.65 |  1372200 |
-| DGW      | 2026-04-13 00:00:00 |  45    |  45.8  | 44.55 |   45.6  |   984500 |
-| DGW      | 2026-04-14 00:00:00 |  46.2  |  46.7  | 45    |   45.6  |  1508800 |
-| DGW      | 2026-04-15 00:00:00 |  45.8  |  46.1  | 44.55 |   44.65 |  1483000 |
-| DGW      | 2026-04-16 00:00:00 |  44.6  |  45.7  | 44.5  |   45.2  |  1416900 |
-| DGW      | 2026-04-17 00:00:00 |  45.35 |  47.7  | 45.35 |   45.95 |  3739300 |
-| DGW      | 2026-04-20 00:00:00 |  45.95 |  46.5  | 45.15 |   46    |  1192400 |
-| DGW      | 2026-04-21 00:00:00 |  46.2  |  46.3  | 45.05 |   45.5  |  1831400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGW      | 2026-04-21 14:26:32 |   45.2  |      500 | Buy          | 466479234 |
-| DGW      | 2026-04-21 14:26:39 |   45.15 |      100 | Sell         | 466479646 |
-| DGW      | 2026-04-21 14:26:39 |   45.2  |      100 | Buy          | 466479656 |
-| DGW      | 2026-04-21 14:26:43 |   45.15 |      500 | Sell         | 466479981 |
-| DGW      | 2026-04-21 14:26:56 |   45.2  |      100 | Buy          | 466481001 |
-| DGW      | 2026-04-21 14:27:09 |   45.15 |     1000 | Sell         | 466482234 |
-| DGW      | 2026-04-21 14:27:09 |   45.15 |      500 | Sell         | 466482235 |
-| DGW      | 2026-04-21 14:27:11 |   45.15 |      100 | Sell         | 466482366 |
-| DGW      | 2026-04-21 14:27:20 |   45.2  |     1000 | Buy          | 466483131 |
-| DGW      | 2026-04-21 14:27:20 |   45.2  |      100 | Buy          | 466483168 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

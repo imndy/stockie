@@ -1,129 +1,46 @@
 # SHB — SHB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SHB |
-| exchange | HOSE |
-| market_cap | 69594613145700 |
-| 52w_high | 18793 |
-| 52w_high_date | 2025-09-03 |
-| 52w_low | 10514 |
-| 52w_low_date | 2025-05-06 |
-| foreign_ownership | 3.1819 |
-| dividend | 500 |
-| beta | 0.65 |
-| eps | 2884 |
-| eps_forward | 6.834354019538212 |
-| bvps | 14801.94 |
-| pe | 5.31 |
-| pb | 1.03 |
-| price_chg_1m | 3.07 |
-| price_chg_ytd | 36.45 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.033003300330033 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 15.15 |
-| EMA20 | 15.14 |
-| EMA50 | 15.21 |
-| RSI(14) | 50.5 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.079 |
-| MACD Signal | 0.044 |
-| MACD Histogram | 0.035 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SHB |
-| pe | 5.31 |
-| pb | 1.03 |
-| eps | 2884 |
-| bvps | 14801.94 |
-| beta | 0.65 |
-| dividend | 500 |
-| yield | 0.033003300330033 |
-| pe_pct_rank | 33 |
-| pb_pct_rank | 44 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SHB: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Đỗ Thị Thu Hà, Đỗ Đức Hải, Đinh Ngọc Dũng                    | 2026-04-21T14:44:42     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-do-thi-thu-ha-do-duc-hai-dinh-ngoc-dung-739-1431285… |
-| SHB: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Ngô Thu Hà, Lê Thanh Cẩm, Lê Đăng Khoa                       | 2026-04-21T14:43:36     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-ngo-thu-ha-le-thanh-cam-le-dang-khoa-739-1431284.ht… |
-| SHB: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Ninh Thị Lan Phương, Phạm Viết Dần, Vũ Xuân Thủy Sơn         | 2026-04-21T14:41:56     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-ninh-thi-lan-phuong-pham-viet-dan-vu-xuan-thuy-son-… |
-| SHB: Thông báo giao dịch mua ESOP của Người nội bộ Ngô Thu Hà, Ninh Thị Lan Phương, Phạm Viết Dần, Vũ Xuân Thủy Sơn       | 2026-04-21T14:40:04     | /2026/04/shb-thong-bao-giao-dich-mua-esop-cua-nguoi-noi-bo-ngo-thu-ha-ninh-thi-lan-phuong-pham-viet-dan-vu-xuan-thuy-son… |
-| SHB: Thông báo giao dịch mua ESOP của Người nội bộ Đinh Ngọc Dũng, Đỗ Đức Hải, Lê Thanh Cẩm, Ngô Thị Vân                  | 2026-04-21T14:39:59     | /2026/04/shb-thong-bao-giao-dich-mua-esop-cua-nguoi-noi-bo-dinh-ngoc-dung-do-duc-hai-le-thanh-cam-ngo-thi-van-739-143127… |
-| SHB: Thông báo giao dịch mua ESOP của người có liên quan của Người nội bộ Ninh Lan Hương, Đỗ Xuân Khánh                   | 2026-04-21T14:36:32     | /2026/04/shb-thong-bao-giao-dich-mua-esop-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-ninh-lan-huong-do-xuan-khanh-739-14312… |
-| Ngân hàng không còn đứng ngoài cuộc: Hành trình từ ‘cấp vốn’ đến ‘kiến tạo phát triển’ trong Đổi Mới 2.0                  | 2026-04-21T13:27:16.107 | /2026/04/ngan-hang-khong-con-dung-ngoai-cuoc-hanh-trinh-tu-8216cap-von8217-den-8216kien-tao-phat-trien8217-trong-doi-moi… |
-| SHB125017: Thông qua Phương án phát hành, Phương án sử dụng và trả nợ vốn thu được từ đợt chào bán Trái phiếu SHB phát h… | 2026-04-20T16:51:00     | /2026/04/shb125017-thong-qua-phuong-an-phat-hanh-phuong-an-su-dung-va-tra-no-von-thu-duoc-tu-dot-chao-ban-trai-phieu-shb… |
-| SHB: Thông báo giao dịch quyền mua cổ phiếu của người có liên quan đến Người nội bộ Đỗ Vinh Quang                         | 2026-04-20T16:39:56     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-do-vinh-quang-739-1430577.ht… |
-| SHB: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Đỗ Quang Hiển, Đỗ Quang Vinh                                 | 2026-04-20T16:39:53     | /2026/04/shb-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-do-quang-hien-do-quang-vinh-739-1430581.htm          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |    volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| SHB      | 2026-03-25 00:00:00 |  14.39 |  14.78 | 14.29 |   14.78 |  76557119 |
-| SHB      | 2026-03-26 00:00:00 |  14.73 |  15.03 | 14.54 |   14.93 |  67885258 |
-| SHB      | 2026-03-27 00:00:00 |  14.93 |  15.23 | 14.83 |   15.18 |  69863862 |
-| SHB      | 2026-03-30 00:00:00 |  14.98 |  15.23 | 14.78 |   15.23 |  85575281 |
-| SHB      | 2026-03-31 00:00:00 |  15.08 |  15.33 | 15.03 |   15.33 |  96462509 |
-| SHB      | 2026-04-01 00:00:00 |  15.38 |  15.42 | 14.98 |   14.98 |  79872678 |
-| SHB      | 2026-04-02 00:00:00 |  14.93 |  14.93 | 14.54 |   14.64 | 110154504 |
-| SHB      | 2026-04-03 00:00:00 |  14.85 |  14.9  | 14.4  |   14.9  |  52392092 |
-| SHB      | 2026-04-06 00:00:00 |  14.8  |  14.8  | 14.5  |   14.5  |  35906688 |
-| SHB      | 2026-04-07 00:00:00 |  14.7  |  14.7  | 14.45 |   14.7  |  51834522 |
-| SHB      | 2026-04-08 00:00:00 |  15    |  15.35 | 14.85 |   15.3  |  80552213 |
-| SHB      | 2026-04-09 00:00:00 |  15.2  |  15.5  | 15.05 |   15.5  |  85713973 |
-| SHB      | 2026-04-10 00:00:00 |  15.55 |  15.55 | 15.2  |   15.4  | 105630991 |
-| SHB      | 2026-04-13 00:00:00 |  15.2  |  15.25 | 14.95 |   15    | 115222406 |
-| SHB      | 2026-04-14 00:00:00 |  15.1  |  15.15 | 14.8  |   15.1  |  98783574 |
-| SHB      | 2026-04-15 00:00:00 |  15.1  |  15.4  | 14.95 |   15.4  |  71799837 |
-| SHB      | 2026-04-16 00:00:00 |  15.15 |  15.55 | 15.1  |   15.55 | 137811200 |
-| SHB      | 2026-04-17 00:00:00 |  15.4  |  15.5  | 15.25 |   15.3  |  65583800 |
-| SHB      | 2026-04-20 00:00:00 |  15.2  |  15.3  | 15.15 |   15.3  |  47390400 |
-| SHB      | 2026-04-21 00:00:00 |  15.3  |  15.4  | 15.15 |   15.15 |  48986600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SHB      | 2026-04-21 14:28:43 |   15.15 |      100 | Sell         | 466490974 |
-| SHB      | 2026-04-21 14:28:43 |   15.15 |     2600 | Sell         | 466490975 |
-| SHB      | 2026-04-21 14:28:44 |   15.2  |      500 | Buy          | 466491003 |
-| SHB      | 2026-04-21 14:28:45 |   15.15 |      100 | Sell         | 466491128 |
-| SHB      | 2026-04-21 14:28:47 |   15.15 |      100 | Sell         | 466491583 |
-| SHB      | 2026-04-21 14:28:50 |   15.15 |     2200 | Sell         | 466491920 |
-| SHB      | 2026-04-21 14:28:50 |   15.15 |     5000 | Sell         | 466491921 |
-| SHB      | 2026-04-21 14:28:50 |   15.15 |     5000 | Sell         | 466491922 |
-| SHB      | 2026-04-21 14:28:50 |   15.15 |    37800 | Sell         | 466491923 |
-| SHB      | 2026-04-21 14:28:51 |   15.15 |    38800 | Sell         | 466492054 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

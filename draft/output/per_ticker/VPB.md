@@ -1,133 +1,46 @@
 # VPB — VPB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VPB |
-| exchange | HOSE |
-| market_cap | 218579595207550 |
-| 52w_high | 38650 |
-| 52w_high_date | 2025-08-21 |
-| 52w_low | 16063 |
-| 52w_low_date | 2025-04-25 |
-| foreign_ownership | 24.6986 |
-| dividend | 500 |
-| beta | 1.14 |
-| eps | 3314 |
-| eps_forward | 5383.877159309021 |
-| bvps | 23519.86 |
-| pe | 8.46 |
-| pb | 1.19 |
-| price_chg_1m | 9.98 |
-| price_chg_ytd | 69.46 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.018148820326678767 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 27.55 |
-| EMA20 | 27.05 |
-| EMA50 | 27.07 |
-| RSI(14) | 55.1 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.353 |
-| MACD Signal | 0.176 |
-| MACD Histogram | 0.177 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VPB |
-| pe | 8.46 |
-| pb | 1.19 |
-| roe | 14.87 |
-| roe_pct_rank | 58 |
-| roa | 2.2 |
-| roa_pct_rank | 37 |
-| eps | 3314 |
-| bvps | 23519.86 |
-| beta | 1.14 |
-| dividend | 500 |
-| yield | 0.018148820326678767 |
-| pe_pct_rank | 40 |
-| pb_pct_rank | 51 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                              | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VPB: Nghị quyết HĐQT số 104/2026 ngày 17/04/2026                                                   | 2026-04-17T17:13:33     | /2026/04/vpb-nghi-quyet-hdqt-so-104-2026-ngay-17-04-2026-737-1429459.htm                                                  |
-| VPBank duy trì tăng trưởng mạnh mẽ trong quý 1/2026, quy mô tín dụng vượt 1 triệu tỷ đồng          | 2026-04-17T16:42:00     | /2026/04/vpbank-duy-tri-tang-truong-manh-me-trong-quy-12026-quy-mo-tin-dung-vuot-1-trieu-ty-dong-737-1429322.htm          |
-| VPB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                       | 2026-04-17T15:52:13     | /2026/04/vpb-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1429333.htm                      |
-| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
-| VPB: BCTC quý 2 năm 2026                                                                           | 2026-04-17T00:00:00     | /2026/04/vpb-bctc-quy-2-nam-2026-737-1429318.htm                                                                          |
-| VPB: BCTC Hợp nhất quý 2 năm 2026                                                                  | 2026-04-17T00:00:00     | /2026/04/vpb-bctc-hop-nhat-quy-2-nam-2026-737-1429319.htm                                                                 |
-| VPBank dự kiến phát hành riêng lẻ cho 1 cổ đông ngoại, tăng vốn lên gần 106,244 tỷ                 | 2026-04-16T14:15:00     | /2026/04/vpbank-du-kien-phat-hanh-rieng-le-cho-1-co-dong-ngoai-tang-von-len-gan-106244-ty-757-1428453.htm                 |
-| Chiến lược phủ phân khúc: Nền tảng giúp VPBank mở rộng dư địa tăng trưởng tín dụng                 | 2026-04-16T11:16:50.377 | /2026/04/chien-luoc-phu-phan-khuc-nen-tang-giup-vpbank-mo-rong-du-dia-tang-truong-tin-dung-757-1428415.htm                |
-| VPB: Nghị quyết HĐQT về việc phê duyệt phương án mua lại trước hạn trái phiếu VPB12503 và VPB12505 | 2026-04-15T14:55:28     | /2026/04/vpb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-mua-lai-truoc-han-trai-phieu-vpb12503-va-vpb12505-737-1428305.h… |
-| VPB: Link công bố cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên 2026                                | 2026-04-15T14:53:29     | /2026/04/vpb-link-cong-bo-cap-nhat-bo-sung-tai-lieu-dhdcd-thuong-nien-2026-737-1428304.htm                                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPB      | 2026-03-25 00:00:00 |  25.95 |  26.4  | 25.55 |   26.3  | 21942900 |
-| VPB      | 2026-03-26 00:00:00 |  26.3  |  26.5  | 25.85 |   26.2  | 19426700 |
-| VPB      | 2026-03-27 00:00:00 |  26    |  26.55 | 25.9  |   26.45 | 11263600 |
-| VPB      | 2026-03-30 00:00:00 |  25.65 |  26.4  | 25.55 |   26.1  | 16541700 |
-| VPB      | 2026-03-31 00:00:00 |  26.4  |  26.9  | 26.25 |   26.7  | 19377200 |
-| VPB      | 2026-04-01 00:00:00 |  27.3  |  27.35 | 26.8  |   26.8  | 10288600 |
-| VPB      | 2026-04-02 00:00:00 |  26.6  |  26.6  | 26    |   26.25 | 11441500 |
-| VPB      | 2026-04-03 00:00:00 |  26.3  |  26.4  | 25.75 |   25.8  | 16758100 |
-| VPB      | 2026-04-06 00:00:00 |  25.8  |  25.95 | 25.5  |   25.6  | 11093100 |
-| VPB      | 2026-04-07 00:00:00 |  25.6  |  26.1  | 25.5  |   26.05 | 11428900 |
-| VPB      | 2026-04-08 00:00:00 |  27.2  |  27.75 | 26.65 |   27.6  | 24909900 |
-| VPB      | 2026-04-09 00:00:00 |  27.35 |  27.5  | 27.05 |   27.1  | 11852400 |
-| VPB      | 2026-04-10 00:00:00 |  27.5  |  27.9  | 27.3  |   27.3  | 14448500 |
-| VPB      | 2026-04-13 00:00:00 |  27    |  27.2  | 26.8  |   26.9  | 13557000 |
-| VPB      | 2026-04-14 00:00:00 |  27.3  |  27.75 | 27.1  |   27.35 | 14453500 |
-| VPB      | 2026-04-15 00:00:00 |  27.85 |  27.85 | 27.25 |   27.35 | 12229700 |
-| VPB      | 2026-04-16 00:00:00 |  27.3  |  27.9  | 27    |   27.6  | 15412800 |
-| VPB      | 2026-04-17 00:00:00 |  27.8  |  28.5  | 27.65 |   28.25 | 25668400 |
-| VPB      | 2026-04-20 00:00:00 |  28.5  |  28.5  | 28.05 |   28.05 | 14857100 |
-| VPB      | 2026-04-21 00:00:00 |  28    |  28.25 | 27.55 |   27.55 | 12776900 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPB      | 2026-04-21 14:29:54 |    27.7 |      100 | Sell         | 466498816 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |     3000 | Sell         | 466498857 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |     2000 | Sell         | 466498856 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |    20000 | Sell         | 466498855 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |     1000 | Sell         | 466498854 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |     1000 | Sell         | 466498853 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |      100 | Sell         | 466498852 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |      200 | Sell         | 466498851 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |      100 | Sell         | 466498850 |
-| VPB      | 2026-04-21 14:29:54 |    27.7 |      100 | Sell         | 466498849 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

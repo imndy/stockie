@@ -1,133 +1,46 @@
 # SJS — SJS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SJS |
-| exchange | HOSE |
-| market_cap | 16331368057200 |
-| 52w_high | 81300 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 32723 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 0.5769 |
-| dividend | 0 |
-| beta | 0.53 |
-| eps | 1614 |
-| eps_forward | 45.301172050961696 |
-| bvps | 10054 |
-| pe | 33.01 |
-| pb | 5.30 |
-| price_chg_1m | 11.59 |
-| price_chg_ytd | 61.85 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 54.9 |
-| EMA20 | 51.69 |
-| EMA50 | 51.7 |
-| RSI(14) | 68.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 1.042 |
-| MACD Signal | 0.563 |
-| MACD Histogram | 0.479 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SJS |
-| pe | 33.01 |
-| pb | 5.30 |
-| roe | 8.91 |
-| roe_pct_rank | 45 |
-| roa | 3.38 |
-| roa_pct_rank | 43 |
-| eps | 1614 |
-| bvps | 10054 |
-| beta | 0.53 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 94 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SJS: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T14:07:09     | /2026/04/sjs-bao-cao-thuong-nien-nam-2025-737-1431203.htm                                                                 |
-| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
-| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing            | 2026-04-03T18:04:26     | /2026/04/sjs-thong-bao-thay-doi-nhan-su-bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh-marketing-214-1422853.htm         |
-| SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-31T17:15:37     | /2026/03/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1420143.htm                                                     |
-| SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026             | 2026-03-31T17:14:43     | /2026/03/sjs-nghi-quyet-hdqt-ve-viec-phe-duyet-thoi-gian-dia-diem-va-tai-lieu-hop-dhdcd-tn-nam-2026-737-1420144.htm       |
-| SJS: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                        | 2026-03-30T16:18:47     | /2026/03/sjs-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418776.htm                                 |
-| SJS: BCTC Hợp nhất năm 2025                                                                              | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-hop-nhat-nam-2025-737-1418701.htm                                                                       |
-| SJS: BCTC năm 2025                                                                                       | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-nam-2025-737-1418702.htm                                                                                |
-| Cổ đông lớn nhất bán 39 triệu cp SJS, thu hơn 2 ngàn tỷ                                                  | 2026-03-12T15:02:54.313 | /2026/03/co-dong-lon-nhat-ban-39-trieu-cp-sjs-thu-hon-2-ngan-ty-739-1411406.htm                                           |
-| SJS: Báo cáo về thay đổi sở hữu của CĐ lớn CTCP TM dịch vụ Đầu tư An Phát                                | 2026-03-11T15:41:10     | /2026/03/sjs-bao-cao-ve-thay-doi-so-huu-cua-cd-lon-ctcp-tm-dich-vu-dau-tu-an-phat-737-1410921.htm                         |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SJS      | 2026-03-25 00:00:00 |  48.2  |  49.5  | 48.2  |   48.6  |    15800 |
-| SJS      | 2026-03-26 00:00:00 |  48.6  |  49.2  | 48.6  |   49    |    32200 |
-| SJS      | 2026-03-27 00:00:00 |  49.5  |  50    | 49.2  |   49.55 |    11900 |
-| SJS      | 2026-03-30 00:00:00 |  48.1  |  50    | 48.1  |   49.95 |    21700 |
-| SJS      | 2026-03-31 00:00:00 |  50    |  50    | 48.7  |   48.95 |    26600 |
-| SJS      | 2026-04-01 00:00:00 |  49.9  |  49.95 | 49    |   49    |    17300 |
-| SJS      | 2026-04-02 00:00:00 |  48.5  |  49.5  | 48    |   49.5  |    11200 |
-| SJS      | 2026-04-03 00:00:00 |  48.2  |  49.4  | 48    |   48.35 |     4800 |
-| SJS      | 2026-04-06 00:00:00 |  48.8  |  48.8  | 48.15 |   48.15 |     9100 |
-| SJS      | 2026-04-07 00:00:00 |  47.95 |  49    | 47.1  |   49    |    11500 |
-| SJS      | 2026-04-08 00:00:00 |  49.4  |  49.5  | 49.2  |   49.3  |    19600 |
-| SJS      | 2026-04-09 00:00:00 |  49.3  |  52.7  | 49.3  |   52.7  |   115700 |
-| SJS      | 2026-04-10 00:00:00 |  55.8  |  55.8  | 53.4  |   53.9  |    27000 |
-| SJS      | 2026-04-13 00:00:00 |  54.2  |  54.2  | 51.5  |   53.3  |    47200 |
-| SJS      | 2026-04-14 00:00:00 |  53.2  |  53.5  | 52.1  |   52.5  |    10300 |
-| SJS      | 2026-04-15 00:00:00 |  52.7  |  53    | 52.5  |   53    |    14400 |
-| SJS      | 2026-04-16 00:00:00 |  52.9  |  54    | 52.9  |   53.1  |    24600 |
-| SJS      | 2026-04-17 00:00:00 |  53.1  |  53.5  | 52.8  |   53    |    18100 |
-| SJS      | 2026-04-20 00:00:00 |  52    |  53.3  | 52    |   53.3  |    41200 |
-| SJS      | 2026-04-21 00:00:00 |  53.1  |  54.9  | 53    |   54.9  |    47800 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SJS      | 2026-04-21 09:15:00 |    53.1 |      100 | ATO          | 465927477 |
-| SJS      | 2026-04-21 09:34:47 |    53.1 |      500 | Buy          | 465980923 |
-| SJS      | 2026-04-21 09:49:26 |    53.1 |      500 | Sell         | 466020878 |
-| SJS      | 2026-04-21 09:49:26 |    53   |     3900 | Sell         | 466020882 |
-| SJS      | 2026-04-21 09:49:26 |    53.1 |      500 | Sell         | 466020877 |
-| SJS      | 2026-04-21 09:49:26 |    53   |      100 | Sell         | 466020879 |
-| SJS      | 2026-04-21 09:49:26 |    53   |      500 | Sell         | 466020880 |
-| SJS      | 2026-04-21 10:03:17 |    53   |     2300 | Sell         | 466057067 |
-| SJS      | 2026-04-21 10:06:48 |    53   |     1000 | Sell         | 466063375 |
-| SJS      | 2026-04-21 10:24:44 |    53.1 |     1100 | Sell         | 466107249 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

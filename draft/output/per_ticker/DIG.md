@@ -1,133 +1,46 @@
 # DIG — DIG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:34  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DIG |
-| exchange | HOSE |
-| market_cap | 11269501352650 |
-| 52w_high | 24600 |
-| 52w_high_date | 2025-10-16 |
-| 52w_low | 12287 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 2.5536 |
-| dividend | 0 |
-| beta | 1.01 |
-| eps | 1025 |
-| eps_forward | 15.917561451770343 |
-| bvps | 12592 |
-| pe | 14.00 |
-| pb | 1.14 |
-| price_chg_1m | 5.99 |
-| price_chg_ytd | 7.24 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 14.15 |
-| EMA20 | 14.27 |
-| EMA50 | 14.67 |
-| RSI(14) | 47.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.06 |
-| MACD Signal | 0.029 |
-| MACD Histogram | 0.031 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DIG |
-| pe | 14.00 |
-| pb | 1.14 |
-| roe | 6.91 |
-| roe_pct_rank | 40 |
-| roa | 3.45 |
-| roa_pct_rank | 43 |
-| eps | 1025 |
-| bvps | 12592 |
-| beta | 1.01 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 53 |
-| pb_pct_rank | 49 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime             | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| Tập đoàn DIC mở hệ thống tham dự và bỏ phiếu điện tử ĐHĐCĐ từ ngày 17/4                        | 2026-04-18T11:05:00     | /2026/04/tap-doan-dic-mo-he-thong-tham-du-va-bo-phieu-dien-tu-dhdcd-tu-ngay-174-737-1429727.htm                        |
-| DIG: Thông báo đường dẫn báo cáo thường niên năm 2026                                          | 2026-04-17T08:59:24     | /2026/04/dig-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2026-737-1428967.htm                                          |
-| DIG: Thông báo đường dẫn báo cáo phát triển bền vững năm 2025                                  | 2026-04-17T08:58:57     | /2026/04/dig-thong-bao-duong-dan-bao-cao-phat-trien-ben-vung-nam-2025-830-1428972.htm                                  |
-| DIG ‘chơi lớn’ tặng cổ đông ủy quyền dự đại hội tới 20 triệu đồng/người                        | 2026-04-03T12:30:00     | /2026/04/dig-8216choi-lon8217-tang-co-dong-uy-quyen-du-dai-hoi-toi-20-trieu-dongnguoi-737-1422426.htm                  |
-| DIG: Thông báo về việc hoàn tất thoái toàn bộ vốn góp tại Công ty Cổ phần Gạch men Anh Em DIC  | 2026-04-01T18:18:54     | /2026/04/dig-thong-bao-ve-viec-hoan-tat-thoai-toan-bo-von-gop-tai-cong-ty-co-phan-gach-men-anh-em-dic-830-1421198.htm  |
-| DIG: Nghị quyết HĐQT về việc thông qua chủ trương giải thể CTCP Đầu tư Phát triển Tầm nhìn DIC | 2026-03-31T18:37:12     | /2026/03/dig-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-giai-the-ctcp-dau-tu-phat-trien-tam-nhin-dic-737-1420047.htm |
-| DIG lên kế hoạch đi lùi, muốn vay 1.4 ngàn tỷ giữa áp lực lãi suất cao                         | 2026-03-31T17:45:43.197 | /2026/03/dig-len-ke-hoach-di-lui-muon-vay-14-ngan-ty-giua-ap-luc-lai-suat-cao-737-1419803.htm                          |
-| DIG: Nghị quyết HĐQT về việc thông qua tài liệu,  thời gian chính thức họp ĐHĐCĐTN 2026        | 2026-03-31T14:43:08     | /2026/03/dig-nghi-quyet-hdqt-ve-viec-thong-qua-tai-lieu-thoi-gian-chinh-thuc-hop-dhdcdtn-2026-737-1419605.htm          |
-| DIG: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                              | 2026-03-31T14:41:45     | /2026/03/dig-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1419603.htm                                              |
-| DIG: Giải trình BCTC kiểm toán năm 2025 so với cùng kỳ năm trước                               | 2026-03-30T16:05:48     | /2026/03/dig-giai-trinh-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1418763.htm                               |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DIG      | 2026-03-25 00:00:00 |  13.7  |  14    | 13.5  |   13.8  | 11696900 |
-| DIG      | 2026-03-26 00:00:00 |  13.85 |  14    | 13.5  |   13.55 |  8624500 |
-| DIG      | 2026-03-27 00:00:00 |  13.6  |  14.45 | 13.6  |   14.45 | 24713800 |
-| DIG      | 2026-03-30 00:00:00 |  14.1  |  14.6  | 14.05 |   14.2  | 13413500 |
-| DIG      | 2026-03-31 00:00:00 |  14.3  |  14.5  | 14.1  |   14.25 | 11416400 |
-| DIG      | 2026-04-01 00:00:00 |  14.5  |  14.65 | 14.25 |   14.3  | 12468600 |
-| DIG      | 2026-04-02 00:00:00 |  14.25 |  14.35 | 13.95 |   14.25 |  8485800 |
-| DIG      | 2026-04-03 00:00:00 |  14.25 |  14.4  | 14.1  |   14.15 | 12857300 |
-| DIG      | 2026-04-06 00:00:00 |  14.1  |  14.35 | 13.55 |   13.6  |  9972700 |
-| DIG      | 2026-04-07 00:00:00 |  13.65 |  13.8  | 13.4  |   13.6  | 10008600 |
-| DIG      | 2026-04-08 00:00:00 |  14.05 |  14.5  | 14.05 |   14.45 | 17760200 |
-| DIG      | 2026-04-09 00:00:00 |  14.4  |  15.15 | 14.25 |   14.55 | 16838800 |
-| DIG      | 2026-04-10 00:00:00 |  14.8  |  15    | 14.55 |   14.55 |  7862600 |
-| DIG      | 2026-04-13 00:00:00 |  14.45 |  15.1  | 14.35 |   14.65 | 14085800 |
-| DIG      | 2026-04-14 00:00:00 |  14.9  |  14.95 | 14.55 |   14.75 |  6880300 |
-| DIG      | 2026-04-15 00:00:00 |  14.75 |  15    | 14.65 |   14.65 | 12867500 |
-| DIG      | 2026-04-16 00:00:00 |  14.7  |  14.7  | 14.3  |   14.55 |  8068000 |
-| DIG      | 2026-04-17 00:00:00 |  14.65 |  14.7  | 14.3  |   14.35 |  6684400 |
-| DIG      | 2026-04-20 00:00:00 |  14.35 |  14.6  | 14.3  |   14.35 |  5230400 |
-| DIG      | 2026-04-21 00:00:00 |  14.4  |  14.6  | 14.15 |   14.15 |  9680000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DIG      | 2026-04-21 14:28:08 |    14.2 |      800 | Buy          | 466487752 |
-| DIG      | 2026-04-21 14:28:10 |    14.2 |      100 | Buy          | 466487891 |
-| DIG      | 2026-04-21 14:28:12 |    14.2 |      100 | Buy          | 466488128 |
-| DIG      | 2026-04-21 14:28:13 |    14.2 |     5800 | Buy          | 466488157 |
-| DIG      | 2026-04-21 14:28:13 |    14.2 |      100 | Buy          | 466488158 |
-| DIG      | 2026-04-21 14:28:13 |    14.2 |     1000 | Buy          | 466488159 |
-| DIG      | 2026-04-21 14:28:14 |    14.2 |     1000 | Buy          | 466488242 |
-| DIG      | 2026-04-21 14:28:16 |    14.2 |      900 | Buy          | 466488428 |
-| DIG      | 2026-04-21 14:28:18 |    14.2 |     2000 | Buy          | 466488601 |
-| DIG      | 2026-04-21 14:28:18 |    14.2 |     1100 | Buy          | 466488595 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

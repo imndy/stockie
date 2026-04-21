@@ -1,133 +1,46 @@
 # STB — STB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 12:22
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 12:22
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | STB |
-| exchange | HOSE |
-| market_cap | 127629103973200 |
-| 52w_high | 67800 |
-| 52w_high_date | 2026-03-03 |
-| 52w_low | 38850 |
-| 52w_low_date | 2025-05-06 |
-| foreign_ownership | 12.4939 |
-| dividend | 0 |
-| beta | 0.59 |
-| eps | 3150 |
-| eps_forward | 8.261495639551717 |
-| bvps | 31755.91 |
-| pe | 20.38 |
-| pb | 2.02 |
-| price_chg_1m | 6.78 |
-| price_chg_ytd | 67.37 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 67.7 |
-| EMA20 | 64.32 |
-| EMA50 | 62.96 |
-| RSI(14) | 62.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.734 |
-| MACD Signal | 0.481 |
-| MACD Histogram | 0.253 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | STB |
-| pe | 20.38 |
-| pb | 2.02 |
-| roe | 10.34 |
-| roe_pct_rank | 48 |
-| roa | 0.71 |
-| roa_pct_rank | 30 |
-| eps | 3150 |
-| bvps | 31755.91 |
-| beta | 0.59 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 66 |
-| pb_pct_rank | 74 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                              | publishtime             | url                                                                                                                       |
-|:-------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Sacombank hủy tờ trình gia hạn Đề án tái cơ cấu, giá cổ phiếu tăng trần                                            | 2026-04-21T13:43:57.093 | /2026/04/sacombank-huy-to-trinh-gia-han-de-an-tai-co-cau-gia-co-phieu-tang-tran-757-1431146.htm                           |
-| Gửi tiết kiệm tại SACOMBANK, cơ hội nhận được VinFast VF9 ECO                                                      | 2026-04-21T11:02:00     | /2026/04/gui-tiet-kiem-tai-sacombank-co-hoi-nhan-duoc-vinfast-vf9-eco-757-1431034.htm                                     |
-| STB: Báo cáo thường niên năm 2025                                                                                  | 2026-04-17T16:56:06     | /2026/04/stb-bao-cao-thuong-nien-nam-2025-737-1429423.htm                                                                 |
-| SACOMBANK hợp tác với Cục Thuế triển khai giải pháp hỗ trợ hàng triệu hộ kinh doanh trên toàn quốc                 | 2026-04-15T21:18:19.05  | /2026/04/sacombank-hop-tac-voi-cuc-thue-trien-khai-giai-phap-ho-tro-hang-trieu-ho-kinh-doanh-tren-toan-quoc-757-1428320.… |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Đông Đô                         | 2026-04-13T17:28:58     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-dong-do-737-1427067.htm         |
-| SACOMBANK hưởng ứng chủ trương giảm lãi suất của Ngân hàng Nhà nước                                                | 2026-04-10T18:02:49.44  | /2026/04/sacombank-huong-ung-chu-truong-giam-lai-suat-cua-ngan-hang-nha-nuoc-757-1426257.htm                              |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                               | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý các phòng GD trực thuộc Chi nhánh Đông Đô | 2026-04-07T17:44:52     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-cac-phong-gd-truc-thuoc-chi-nhanh-dong-… |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                        | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                                     | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| STB      | 2026-03-25 00:00:00 |   61.3 |   62.7 |  61.1 |    62.2 |  5688900 |
-| STB      | 2026-03-26 00:00:00 |   62   |   62.1 |  60.3 |    60.6 |  5034300 |
-| STB      | 2026-03-27 00:00:00 |   60.5 |   60.7 |  59.7 |    59.9 |  9368300 |
-| STB      | 2026-03-30 00:00:00 |   58.9 |   63.4 |  58.1 |    61.2 |  7574900 |
-| STB      | 2026-03-31 00:00:00 |   61.2 |   62.7 |  61.2 |    62.2 |  5233600 |
-| STB      | 2026-04-01 00:00:00 |   62.8 |   63.7 |  62.2 |    62.2 |  3187200 |
-| STB      | 2026-04-02 00:00:00 |   61.6 |   62.1 |  60.7 |    61.1 |  6494800 |
-| STB      | 2026-04-03 00:00:00 |   60.8 |   62.3 |  60.6 |    60.8 |  4610800 |
-| STB      | 2026-04-06 00:00:00 |   60.8 |   62.1 |  59.6 |    61.2 |  4204600 |
-| STB      | 2026-04-07 00:00:00 |   61.5 |   62   |  61   |    61.7 |  2931800 |
-| STB      | 2026-04-08 00:00:00 |   63.5 |   66   |  63.1 |    66   |  9822700 |
-| STB      | 2026-04-09 00:00:00 |   65.9 |   68.8 |  65.5 |    66.3 | 11522600 |
-| STB      | 2026-04-10 00:00:00 |   66.3 |   68.7 |  66.1 |    66.9 | 10148800 |
-| STB      | 2026-04-13 00:00:00 |   66.3 |   68.7 |  66   |    67.3 |  5230900 |
-| STB      | 2026-04-14 00:00:00 |   67.9 |   68.2 |  66.1 |    66.1 |  4179900 |
-| STB      | 2026-04-15 00:00:00 |   66.4 |   66.5 |  64.3 |    64.3 |  6883400 |
-| STB      | 2026-04-16 00:00:00 |   64.5 |   65.5 |  63.5 |    63.8 |  4595200 |
-| STB      | 2026-04-17 00:00:00 |   64   |   65.2 |  63.9 |    64   |  3714500 |
-| STB      | 2026-04-20 00:00:00 |   64.5 |   65.2 |  64.1 |    64.2 |  2566400 |
-| STB      | 2026-04-21 00:00:00 |   68   |   68.6 |  66.9 |    67.7 | 14144000 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| STB      | 2026-04-21 14:27:31 |    68.5 |      100 | Sell         | 466484116 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |     7700 | Sell         | 466484119 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |      100 | Sell         | 466484117 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |     2000 | Sell         | 466484118 |
-| STB      | 2026-04-21 14:27:34 |    68.6 |      100 | Buy          | 466484290 |
-| STB      | 2026-04-21 14:27:34 |    68.6 |      100 | Buy          | 466484296 |
-| STB      | 2026-04-21 14:27:36 |    68.6 |      500 | Sell         | 466484575 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |     2500 | Sell         | 466485089 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |      500 | Sell         | 466485091 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |     2000 | Sell         | 466485092 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

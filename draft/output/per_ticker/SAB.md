@@ -1,133 +1,46 @@
 # SAB — SAB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:41  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SAB |
-| exchange | HOSE |
-| market_cap | 57907691095800 |
-| 52w_high | 53700 |
-| 52w_high_date | 2026-01-14 |
-| 52w_low | 42046 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 58.4854 |
-| dividend | 5000 |
-| beta | 0.73 |
-| eps | 3449 |
-| eps_forward | 12.069605814632077 |
-| bvps | 17933 |
-| pe | 13.19 |
-| pb | 2.54 |
-| price_chg_1m | 5.99 |
-| price_chg_ytd | 6.24 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.11074197120708748 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 45.15 |
-| EMA20 | 45.16 |
-| EMA50 | 45.73 |
-| RSI(14) | 49.3 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.038 |
-| MACD Signal | -0.131 |
-| MACD Histogram | 0.168 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SAB |
-| pe | 13.19 |
-| pb | 2.54 |
-| roe | 19.28 |
-| roe_pct_rank | 67 |
-| roa | 13.4 |
-| roa_pct_rank | 80 |
-| eps | 3449 |
-| bvps | 17933 |
-| beta | 0.73 |
-| dividend | 5000 |
-| yield | 0.11074197120708748 |
-| pe_pct_rank | 52 |
-| pb_pct_rank | 88 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                 | publishtime            | url                                                                                            |
-|:----------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------|
-| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (cập nhật lần 2)         | 2026-04-20T17:41:39    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-lan-2-737-1430750.htm            |
-| DCM, HDB và SAB có triển vọng gì?                                     | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                       |
-| SAB: Tài liệu họp ĐHĐCĐ thường niên 2026 (cập nhật)                   | 2026-04-16T18:01:40    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-2026-cap-nhat-737-1428818.htm                      |
-| SAB: Link công bố Báo cáo phát triển bền vững 2025                    | 2026-04-16T15:08:02    | /2026/04/sab-link-cong-bo-bao-cao-phat-trien-ben-vung-2025-830-1428614.htm                     |
-| SAB: Link công bố Báo cáo thường niên năm 2025                        | 2026-04-16T15:06:52    | /2026/04/sab-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1428613.htm                         |
-| Ông chủ Bia Sài Gòn đặt mục tiêu tăng trưởng doanh thu sau năm đi lùi | 2026-04-02T10:30:00.91 | /2026/04/ong-chu-bia-sai-gon-dat-muc-tieu-tang-truong-doanh-thu-sau-nam-di-lui-737-1421312.htm |
-| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                          | 2026-04-01T18:15:15    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1421190.htm                           |
-| SAB: Thông báo đơn xin từ nhiệm của Thành viên HĐQT                   | 2026-03-31T17:57:11    | /2026/03/sab-thong-bao-don-xin-tu-nhiem-cua-thanh-vien-hdqt-214-1419981.htm                    |
-| SAB: BCTC năm 2025                                                    | 2026-03-26T00:00:00    | /2026/03/sab-bctc-nam-2025-737-1417105.htm                                                     |
-| SAB: BCTC Hợp nhất năm 2025                                           | 2026-03-26T00:00:00    | /2026/03/sab-bctc-hop-nhat-nam-2025-737-1417106.htm                                            |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SAB      | 2026-03-25 00:00:00 |  44.8  |  45.15 | 44.4  |   44.75 |   817400 |
-| SAB      | 2026-03-26 00:00:00 |  44.65 |  44.65 | 43.6  |   43.75 |   472100 |
-| SAB      | 2026-03-27 00:00:00 |  44    |  44.35 | 43.75 |   44.15 |   346700 |
-| SAB      | 2026-03-30 00:00:00 |  43.9  |  44.55 | 42.05 |   44.15 |   668100 |
-| SAB      | 2026-03-31 00:00:00 |  44.25 |  44.65 | 44.15 |   44.3  |   413500 |
-| SAB      | 2026-04-01 00:00:00 |  44.75 |  44.8  | 44.35 |   44.5  |   469200 |
-| SAB      | 2026-04-02 00:00:00 |  44.7  |  44.7  | 44.1  |   44.2  |   401600 |
-| SAB      | 2026-04-03 00:00:00 |  44.6  |  44.75 | 44.1  |   44.1  |   543600 |
-| SAB      | 2026-04-06 00:00:00 |  44.2  |  44.75 | 44.05 |   44.4  |   640800 |
-| SAB      | 2026-04-07 00:00:00 |  44.45 |  44.6  | 43.9  |   44.05 |   408500 |
-| SAB      | 2026-04-08 00:00:00 |  44.95 |  45.55 | 44.5  |   45.4  |   901300 |
-| SAB      | 2026-04-09 00:00:00 |  45    |  45.45 | 44.85 |   45.1  |   510700 |
-| SAB      | 2026-04-10 00:00:00 |  45.15 |  45.95 | 45.15 |   45.8  |   627600 |
-| SAB      | 2026-04-13 00:00:00 |  45.5  |  46    | 45.25 |   45.45 |   427500 |
-| SAB      | 2026-04-14 00:00:00 |  45.75 |  45.95 | 45.05 |   45.15 |   554900 |
-| SAB      | 2026-04-15 00:00:00 |  45.65 |  46.35 | 45.15 |   46.15 |   805700 |
-| SAB      | 2026-04-16 00:00:00 |  46.2  |  46.2  | 45.3  |   45.75 |   349400 |
-| SAB      | 2026-04-17 00:00:00 |  46    |  46.45 | 45.3  |   45.5  |   676000 |
-| SAB      | 2026-04-20 00:00:00 |  45.5  |  45.9  | 45.35 |   45.5  |   249100 |
-| SAB      | 2026-04-21 00:00:00 |  45.7  |  45.7  | 45.15 |   45.15 |   486700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SAB      | 2026-04-21 14:21:32 |   45.2  |      600 | Sell         | 466453150 |
-| SAB      | 2026-04-21 14:21:39 |   45.25 |      100 | Buy          | 466454201 |
-| SAB      | 2026-04-21 14:21:46 |   45.25 |      100 | Buy          | 466454621 |
-| SAB      | 2026-04-21 14:21:46 |   45.25 |      400 | Buy          | 466454620 |
-| SAB      | 2026-04-21 14:21:54 |   45.25 |      100 | Buy          | 466455485 |
-| SAB      | 2026-04-21 14:22:02 |   45.25 |      100 | Buy          | 466456205 |
-| SAB      | 2026-04-21 14:22:26 |   45.25 |      200 | Buy          | 466458511 |
-| SAB      | 2026-04-21 14:22:26 |   45.25 |      200 | Buy          | 466458512 |
-| SAB      | 2026-04-21 14:22:30 |   45.25 |      800 | Buy          | 466458781 |
-| SAB      | 2026-04-21 14:22:40 |   45.25 |      100 | Sell         | 466459601 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

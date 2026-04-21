@@ -1,133 +1,46 @@
 # BID — BID
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BID |
-| exchange | HOSE |
-| market_cap | 283663021446800 |
-| 52w_high | 55000 |
-| 52w_high_date | 2026-02-02 |
-| 52w_low | 34170 |
-| 52w_low_date | 2025-04-28 |
-| foreign_ownership | 16.6334 |
-| dividend | 450 |
-| beta | 0.91 |
-| eps | 4278 |
-| eps_forward | 13.82119363304816 |
-| bvps | 24726.16 |
-| pe | 9.48 |
-| pb | 1.64 |
-| price_chg_1m | 1.64 |
-| price_chg_ytd | 15.89 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.011138613861386138 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 40.4 |
-| EMA20 | 40.5 |
-| EMA50 | 41.92 |
-| RSI(14) | 46.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.488 |
-| MACD Signal | -0.768 |
-| MACD Histogram | 0.28 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BID |
-| pe | 9.48 |
-| pb | 1.64 |
-| roe | 19.14 |
-| roe_pct_rank | 67 |
-| roa | 0.98 |
-| roa_pct_rank | 32 |
-| eps | 4278 |
-| bvps | 24726.16 |
-| beta | 0.91 |
-| dividend | 450 |
-| yield | 0.011138613861386138 |
-| pe_pct_rank | 43 |
-| pb_pct_rank | 63 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| BID: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T10:07:03     | /2026/04/bid-bao-cao-thuong-nien-nam-2025-737-1429985.htm                                                                 |
-| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan (BIC)                                    | 2026-04-14T17:19:48     | /2026/04/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan-bic-739-1427580.htm                               |
-| BID: Quyết định về việc thay đổi địa điểm đặt trụ sở Chi nhánh Khách hàng doanh nghiệp nước ngoài I      | 2026-04-13T16:17:26     | /2026/04/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-dat-tru-so-chi-nhanh-khach-hang-doanh-nghiep-nuoc-ngoai-i-737-1426903.… |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                     | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                              | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                           | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
-| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC                 | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
-| BID: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                        | 2026-04-03T14:22:45     | /2026/04/bid-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1422550.htm                                                 |
-| BID: Quyết định về việc thay đổi địa điểm trụ sở Chi nhánh Trung tâm khách hàng cá nhân cao cấp Miền Nam | 2026-04-02T17:12:36     | /2026/04/bid-quyet-dinh-ve-viec-thay-doi-dia-diem-tru-so-chi-nhanh-trung-tam-khach-hang-ca-nhan-cao-cap-mien-nam-737-142… |
-| BID: Quyết định của HĐQT về việc giao dịch với bên có liên quan - Hana Bank                              | 2026-03-31T18:01:13     | /2026/03/bid-quyet-dinh-cua-hdqt-ve-viec-giao-dich-voi-ben-co-lien-quan-hana-bank-739-1419975.htm                         |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BID      | 2026-03-25 00:00:00 |  39.5  |  39.65 | 38.9  |   39.5  |  8722100 |
-| BID      | 2026-03-26 00:00:00 |  39.5  |  39.7  | 38.9  |   38.9  |  6156000 |
-| BID      | 2026-03-27 00:00:00 |  38.9  |  39.9  | 38.9  |   39.85 |  8196600 |
-| BID      | 2026-03-30 00:00:00 |  39.1  |  39.55 | 38.95 |   39.45 |  6075800 |
-| BID      | 2026-03-31 00:00:00 |  39.6  |  39.8  | 39.1  |   39.4  |  7278600 |
-| BID      | 2026-04-01 00:00:00 |  40    |  40.6  | 39.7  |   40.25 | 10071800 |
-| BID      | 2026-04-02 00:00:00 |  40    |  40    | 39.4  |   39.7  |  7101700 |
-| BID      | 2026-04-03 00:00:00 |  39.7  |  39.75 | 39.05 |   39.05 |  7279600 |
-| BID      | 2026-04-06 00:00:00 |  39.05 |  39.4  | 38.65 |   39.35 |  5679400 |
-| BID      | 2026-04-07 00:00:00 |  39.4  |  39.5  | 39    |   39.4  |  4798100 |
-| BID      | 2026-04-08 00:00:00 |  40.5  |  41.45 | 40.05 |   41.45 | 15053900 |
-| BID      | 2026-04-09 00:00:00 |  41    |  41.15 | 40.5  |   40.6  |  8138800 |
-| BID      | 2026-04-10 00:00:00 |  41.1  |  41.95 | 40.65 |   40.8  |  8968200 |
-| BID      | 2026-04-13 00:00:00 |  40.5  |  40.75 | 40.25 |   40.35 |  5770800 |
-| BID      | 2026-04-14 00:00:00 |  40.75 |  40.85 | 40.25 |   40.4  |  5565300 |
-| BID      | 2026-04-15 00:00:00 |  40.75 |  41    | 40.3  |   40.3  |  6296700 |
-| BID      | 2026-04-16 00:00:00 |  40.4  |  40.6  | 40.15 |   40.2  |  4295800 |
-| BID      | 2026-04-17 00:00:00 |  40.3  |  40.7  | 40.1  |   40.3  |  5789600 |
-| BID      | 2026-04-20 00:00:00 |  40.45 |  40.75 | 40.25 |   40.55 |  5993200 |
-| BID      | 2026-04-21 00:00:00 |  40.75 |  41.3  | 40.4  |   40.4  |  7980700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BID      | 2026-04-21 14:27:39 |   40.5  |      400 | Buy          | 466484887 |
-| BID      | 2026-04-21 14:27:39 |   40.5  |     2800 | Buy          | 466484888 |
-| BID      | 2026-04-21 14:27:43 |   40.45 |      100 | Buy          | 466485237 |
-| BID      | 2026-04-21 14:27:43 |   40.45 |     1000 | Sell         | 466485196 |
-| BID      | 2026-04-21 14:27:46 |   40.45 |     1000 | Buy          | 466485631 |
-| BID      | 2026-04-21 14:27:47 |   40.45 |      100 | Buy          | 466485782 |
-| BID      | 2026-04-21 14:27:47 |   40.45 |      600 | Buy          | 466485799 |
-| BID      | 2026-04-21 14:27:49 |   40.45 |     1000 | Buy          | 466485945 |
-| BID      | 2026-04-21 14:27:49 |   40.45 |      100 | Buy          | 466485946 |
-| BID      | 2026-04-21 14:27:49 |   40.45 |      500 | Buy          | 466485996 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

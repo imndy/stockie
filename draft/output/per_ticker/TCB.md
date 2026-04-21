@@ -1,6 +1,6 @@
 # TCB — TCB
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: —
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: —
 
 ---
 
@@ -338,126 +338,39 @@ _Không có dữ liệu_
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TCB |
-| exchange | HOSE |
-| market_cap | 231720061537800 |
-| 52w_high | 41300 |
-| 52w_high_date | 2025-10-13 |
-| 52w_low | 24501 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 22.5386 |
-| dividend | 1000 |
-| beta | 1.09 |
-| eps | 3576 |
-| eps_forward | 7.333703767859031 |
-| bvps | 25330.98 |
-| pe | 9.12 |
-| pb | 1.29 |
-| price_chg_1m | 9.55 |
-| price_chg_ytd | 30.36 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.03058103975535168 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 32.7 |
-| EMA20 | 31.47 |
-| EMA50 | 32.03 |
-| RSI(14) | 59.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.253 |
-| MACD Signal | -0.1 |
-| MACD Histogram | 0.353 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | TCB |
-| pe | 9.12 |
-| pb | 1.29 |
-| roe | 15.85 |
-| roe_pct_rank | 60 |
-| roa | 2.33 |
-| roa_pct_rank | 38 |
-| eps | 3576 |
-| bvps | 25330.98 |
-| beta | 1.09 |
-| dividend | 1000 |
-| yield | 0.03058103975535168 |
-| pe_pct_rank | 42 |
-| pb_pct_rank | 53 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime             | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                          | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                         |
-| TCB: Nghị quyết HĐQT về việc phê duyệt giao dịch cấp thẻ tín dụng cho NLQ của NNB              | 2026-04-14T18:00:06     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-cap-the-tin-dung-cho-nlq-cua-nnb-737-1427684.htm              |
-| TCB: Nghị quyết HĐQT về việc phê duyệt cấp tín dụng cho CTCP Phúc Long Heritage                | 2026-04-13T14:13:35     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-cap-tin-dung-cho-ctcp-phuc-long-heritage-737-1426771.htm                |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                           | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                           |
-| TCB: Nghị quyết HĐQT về phê duyệt hạn mức tín dụng cho Công ty TNHH Phân phối Masterise Retail | 2026-04-09T17:47:29     | /2026/04/tcb-nghi-quyet-hdqt-ve-phe-duyet-han-muc-tin-dung-cho-cong-ty-tnhh-phan-phoi-masterise-retail-737-1425702.htm |
-| TCB: Báo cáo thường niên năm 2025                                                              | 2026-04-07T14:02:03     | /2026/04/tcb-bao-cao-thuong-nien-nam-2025-737-1424023.htm                                                              |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                    | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                      |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                 | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                   |
-| TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-04-06T15:16:29     | /2026/04/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423464.htm                                                   |
-| TCB: Quyết định của HĐQT về việc phê duyệt thay đổi địa điểm chi nhánh Hà Nội                  | 2026-04-06T15:15:46     | /2026/04/tcb-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-thay-doi-dia-diem-chi-nhanh-ha-noi-737-1423461.htm                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCB      | 2026-03-25 00:00:00 |  30.3  |  30.9  | 30.05 |   30.8  | 10014500 |
-| TCB      | 2026-03-26 00:00:00 |  30.7  |  30.7  | 30.15 |   30.15 |  7432100 |
-| TCB      | 2026-03-27 00:00:00 |  30.15 |  30.7  | 30.05 |   30.65 |  7624800 |
-| TCB      | 2026-03-30 00:00:00 |  30.05 |  30.5  | 29.75 |   30.5  |  6340300 |
-| TCB      | 2026-03-31 00:00:00 |  30.5  |  30.75 | 30.4  |   30.7  |  8861500 |
-| TCB      | 2026-04-01 00:00:00 |  31.35 |  31.35 | 30.8  |   30.8  |  8787500 |
-| TCB      | 2026-04-02 00:00:00 |  30.5  |  30.55 | 30.1  |   30.35 |  7864700 |
-| TCB      | 2026-04-03 00:00:00 |  30.4  |  30.5  | 29.75 |   29.75 |  8900100 |
-| TCB      | 2026-04-06 00:00:00 |  29.7  |  29.7  | 29    |   29.05 | 12541800 |
-| TCB      | 2026-04-07 00:00:00 |  29.25 |  29.3  | 28.35 |   28.7  | 15385300 |
-| TCB      | 2026-04-08 00:00:00 |  29.75 |  30.7  | 29.5  |   30.7  | 18128900 |
-| TCB      | 2026-04-09 00:00:00 |  30.95 |  31.6  | 30.6  |   30.9  | 20809500 |
-| TCB      | 2026-04-10 00:00:00 |  31.05 |  32.65 | 31.05 |   32.25 | 30690500 |
-| TCB      | 2026-04-13 00:00:00 |  31.5  |  32.15 | 31.5  |   31.9  | 10921700 |
-| TCB      | 2026-04-14 00:00:00 |  32.4  |  32.55 | 31.85 |   32.05 |  9838400 |
-| TCB      | 2026-04-15 00:00:00 |  32.4  |  32.55 | 31.85 |   31.85 | 12297700 |
-| TCB      | 2026-04-16 00:00:00 |  31.85 |  32.1  | 31.8  |   31.9  |  8572900 |
-| TCB      | 2026-04-17 00:00:00 |  32.15 |  32.45 | 32    |   32.25 | 12197000 |
-| TCB      | 2026-04-20 00:00:00 |  32.4  |  32.9  | 32.35 |   32.6  | 12615300 |
-| TCB      | 2026-04-21 00:00:00 |  32.65 |  32.85 | 32.5  |   32.7  | 10355500 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCB      | 2026-04-21 14:26:43 |   32.65 |     4000 | Buy          | 466479979 |
-| TCB      | 2026-04-21 14:26:44 |   32.65 |     1200 | Buy          | 466480044 |
-| TCB      | 2026-04-21 14:26:48 |   32.65 |      500 | Buy          | 466480493 |
-| TCB      | 2026-04-21 14:26:51 |   32.6  |      100 | Sell         | 466480687 |
-| TCB      | 2026-04-21 14:26:52 |   32.65 |     4000 | Buy          | 466480747 |
-| TCB      | 2026-04-21 14:27:00 |   32.65 |     4000 | Buy          | 466481364 |
-| TCB      | 2026-04-21 14:27:01 |   32.6  |      300 | Sell         | 466481408 |
-| TCB      | 2026-04-21 14:27:01 |   32.65 |      100 | Buy          | 466481421 |
-| TCB      | 2026-04-21 14:27:07 |   32.65 |      500 | Buy          | 466482021 |
-| TCB      | 2026-04-21 14:27:09 |   32.65 |     1000 | Buy          | 466482191 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->

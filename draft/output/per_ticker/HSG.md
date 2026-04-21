@@ -1,129 +1,46 @@
 # HSG — HSG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HSG |
-| exchange | HOSE |
-| market_cap | 9997815174900 |
-| 52w_high | 20950 |
-| 52w_high_date | 2025-09-04 |
-| 52w_low | 12500 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 4.0595 |
-| dividend | 0 |
-| beta | 0.74 |
-| eps | 1009 |
-| eps_forward | 20.119724782036315 |
-| bvps | 18320 |
-| pe | 16.06 |
-| pb | 0.88 |
-| price_chg_1m | 13.38 |
-| price_chg_ytd | 21.05 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 16.1 |
-| EMA20 | 15.48 |
-| EMA50 | 15.39 |
-| RSI(14) | 61.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.324 |
-| MACD Signal | 0.183 |
-| MACD Histogram | 0.141 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | HSG |
-| pe | 16.06 |
-| pb | 0.88 |
-| eps | 1009 |
-| bvps | 18320 |
-| beta | 0.74 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 58 |
-| pb_pct_rank | 37 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime            | url                                                                                                                 |
-|:--------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|
-| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông | 2026-04-14T17:27:28    | /2026/04/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thanh-lap-chi-nhanh-hoa-sen-quy-nhon-dong-737-1427593.htm |
-| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu               | 2026-04-10T15:15:42    | /2026/04/hsg-thong-bao-ngay-dkcc-tra-co-tuc-nien-do-tai-chinh-20242025-bang-co-phieu-738-1426098.htm                |
-| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                              | 2026-04-03T18:12:41    | /2026/04/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-738-1422875.htm                               |
-| Hoa Sen sắp phát hành hơn 186 triệu cổ phiếu để trả cổ tức                                  | 2026-03-18T16:23:08.51 | /2026/03/hoa-sen-sap-phat-hanh-hon-186-trieu-co-phieu-de-tra-co-tuc-738-1413563.htm                                 |
-| HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                        | 2026-03-17T17:40:53    | /2026/03/hsg-cbtt-chi-tra-co-tuc-nien-do-tai-chinh-20242025-738-1413298.htm                                         |
-| HSG: Nghị quyết HĐQT về việc lựa chọn đơn vị kiểm toán BCTC niên độ tài chính 2025-2026     | 2026-03-12T17:39:05    | /2026/03/hsg-nghi-quyet-hdqt-ve-viec-lua-chon-don-vi-kiem-toan-bctc-nien-do-tai-chinh-20252026-737-1411673.htm      |
-| HSG: Biên bản và Nghị quyết ĐHĐCĐ thường niên NĐTC 2025-2026                                | 2026-03-10T09:39:37    | /2026/03/hsg-bien-ban-va-nghi-quyet-dhdcd-thuong-nien-ndtc-20252026-737-1410199.htm                                 |
-| Ông Lê Phước Vũ: "Mở rộng mảng tôn thép bây giờ là không khôn ngoan"                        | 2026-03-07T15:30:40.67 | /2026/03/ong-le-phuoc-vu-mo-rong-mang-ton-thep-bay-gio-la-khong-khon-ngoan-737-1409542.htm                          |
-| Những câu chuyện đáng chờ đợi của ngành thép                                                | 2026-02-25T13:02:00    | /2026/02/nhung-cau-chuyen-dang-cho-doi-cua-nganh-thep-737-1404608.htm                                               |
-| HSG: Link công bố tài liệu ĐHĐCĐ năm tài chính 2025-2026                                    | 2026-02-11T15:04:25    | /2026/02/hsg-link-cong-bo-tai-lieu-dhdcd-nam-tai-chinh-20252026-737-1402911.htm                                     |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HSG      | 2026-03-25 00:00:00 |  14.45 |  14.6  | 14.35 |   14.4  |  4120300 |
-| HSG      | 2026-03-26 00:00:00 |  14.55 |  14.55 | 14.3  |   14.5  |  2034500 |
-| HSG      | 2026-03-27 00:00:00 |  14.55 |  14.95 | 14.5  |   14.9  |  3746700 |
-| HSG      | 2026-03-30 00:00:00 |  14.6  |  15.1  | 14.5  |   14.95 |  3677600 |
-| HSG      | 2026-03-31 00:00:00 |  15    |  15.1  | 14.8  |   14.85 |  3274900 |
-| HSG      | 2026-04-01 00:00:00 |  15    |  15.15 | 14.85 |   14.9  |  2875000 |
-| HSG      | 2026-04-02 00:00:00 |  14.8  |  15.15 | 14.75 |   14.95 |  2588000 |
-| HSG      | 2026-04-03 00:00:00 |  14.95 |  15.05 | 14.8  |   14.8  |  2442800 |
-| HSG      | 2026-04-06 00:00:00 |  14.8  |  14.95 | 14.65 |   14.65 |  1673500 |
-| HSG      | 2026-04-07 00:00:00 |  14.7  |  14.8  | 14.5  |   14.55 |  1550600 |
-| HSG      | 2026-04-08 00:00:00 |  15.05 |  15.25 | 14.9  |   15.1  |  4306300 |
-| HSG      | 2026-04-09 00:00:00 |  15.1  |  15.55 | 15    |   15.45 |  4557800 |
-| HSG      | 2026-04-10 00:00:00 |  15.6  |  15.65 | 15.3  |   15.3  |  2276800 |
-| HSG      | 2026-04-13 00:00:00 |  15    |  15.4  | 15    |   15.35 |  3195400 |
-| HSG      | 2026-04-14 00:00:00 |  15.5  |  16.4  | 15.35 |   16.4  | 12506600 |
-| HSG      | 2026-04-15 00:00:00 |  16.55 |  16.6  | 16.1  |   16.2  |  6408300 |
-| HSG      | 2026-04-16 00:00:00 |  16.2  |  16.3  | 15.65 |   16    |  7058500 |
-| HSG      | 2026-04-17 00:00:00 |  16    |  16.1  | 15.85 |   16    |  3632900 |
-| HSG      | 2026-04-20 00:00:00 |  16.05 |  16.3  | 16    |   16.2  |  4339200 |
-| HSG      | 2026-04-21 00:00:00 |  16.35 |  16.5  | 16    |   16.1  |  8788200 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HSG      | 2026-04-21 14:27:33 |   16.05 |     5000 | Buy          | 466484239 |
-| HSG      | 2026-04-21 14:27:33 |   16.05 |    20000 | Sell         | 466484258 |
-| HSG      | 2026-04-21 14:27:36 |   16.05 |     1500 | Sell         | 466484498 |
-| HSG      | 2026-04-21 14:27:38 |   16.05 |     5000 | Sell         | 466484712 |
-| HSG      | 2026-04-21 14:27:46 |   16.05 |      100 | Sell         | 466485722 |
-| HSG      | 2026-04-21 14:27:46 |   16    |      600 | Sell         | 466485724 |
-| HSG      | 2026-04-21 14:27:46 |   16    |      500 | Sell         | 466485725 |
-| HSG      | 2026-04-21 14:27:46 |   16    |     6300 | Sell         | 466485726 |
-| HSG      | 2026-04-21 14:27:46 |   16.05 |     3500 | Sell         | 466485720 |
-| HSG      | 2026-04-21 14:27:51 |   16.05 |      200 | Buy          | 466486155 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

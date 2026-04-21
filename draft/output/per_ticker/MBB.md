@@ -1,133 +1,46 @@
 # MBB — MBB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:37  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MBB |
-| exchange | HOSE |
-| market_cap | 211846497606700 |
-| 52w_high | 29000 |
-| 52w_high_date | 2026-02-11 |
-| 52w_low | 17325 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 23.2351 |
-| dividend | 300 |
-| beta | 0.82 |
-| eps | 3980 |
-| eps_forward | 10.455643865294801 |
-| bvps | 17631.6 |
-| pe | 6.62 |
-| pb | 1.49 |
-| price_chg_1m | 1.35 |
-| price_chg_ytd | 52.79 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.011406844106463879 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 26.3 |
-| EMA20 | 26.35 |
-| EMA50 | 26.42 |
-| RSI(14) | 48.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.013 |
-| MACD Signal | -0.056 |
-| MACD Histogram | 0.044 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | MBB |
-| pe | 6.62 |
-| pb | 1.49 |
-| roe | 21.14 |
-| roe_pct_rank | 71 |
-| roa | 1.95 |
-| roa_pct_rank | 36 |
-| eps | 3980 |
-| bvps | 17631.6 |
-| beta | 0.82 |
-| dividend | 300 |
-| yield | 0.011406844106463879 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 59 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                       | publishtime         | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026                       | 2026-04-20T16:57:57 | /2026/04/mbb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-thuong-nam-2026-737-1430618.htm             |
-| MBB: Thông báo thay đổi nhân sự                                                                             | 2026-04-20T16:30:07 | /2026/04/mbb-thong-bao-thay-doi-nhan-su-214-1430551.htm                                                                   |
-| MBB: Biên bản họp ĐHĐCĐ                                                                                     | 2026-04-20T09:15:24 | /2026/04/mbb-bien-ban-hop-dhdcd-737-1429892.htm                                                                           |
-| MBB: Nghị quyết ĐHĐCĐ bầu thay thế Thành viên HĐQT nhiệm kỳ 2024-2029                                       | 2026-04-20T09:14:50 | /2026/04/mbb-nghi-quyet-dhdcd-bau-thay-the-thanh-vien-hdqt-nhiem-ky-20242029-737-1429898.htm                              |
-| MBB: Nghị quyết ĐHĐCĐ cập nhật phương án khắc phục dự kiến trong trường hợp được can thiệp sớm              | 2026-04-20T09:13:48 | /2026/04/mbb-nghi-quyet-dhdcd-cap-nhat-phuong-an-khac-phuc-du-kien-trong-truong-hop-duoc-can-thiep-som-737-1429877.htm    |
-| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung điều lệ năm 2026                                             | 2026-04-20T09:13:05 | /2026/04/mbb-nghi-quyet-dhdcd-ve-viec-sua-doi-bo-sung-dieu-le-nam-2026-737-1429880.htm                                    |
-| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung Quy chế tổ chức và hoạt động HĐQT và Quy chế Quản trị nội bộ | 2026-04-20T09:12:16 | /2026/04/mbb-nghi-quyet-dhdcd-ve-viec-sua-doi-bo-sung-quy-che-to-chuc-va-hoat-dong-hdqt-va-quy-che-quan-tri-noi-bo-737-1… |
-| MBB: Nghị quyết ĐHĐCĐ thông qua BCTC và phương án phân phối lợi nhuận năm 2025                              | 2026-04-20T09:09:51 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-bctc-va-phuong-an-phan-phoi-loi-nhuan-nam-2025-737-1429868.htm                    |
-| MBB: Nghị quyết ĐHĐCĐ thông qua các vấn đề tại ĐHĐCĐTN 2026                                                 | 2026-04-20T09:08:39 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-cac-van-de-tai-dhdcdtn-2026-737-1429875.htm                                       |
-| MBB: Nghị quyết ĐHĐCĐ thông qua phương án tăng vốn điều lệ                                                  | 2026-04-20T09:06:56 | /2026/04/mbb-nghi-quyet-dhdcd-thong-qua-phuong-an-tang-von-dieu-le-737-1429874.htm                                        |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MBB      | 2026-03-25 00:00:00 |  25.95 |  26.25 | 25.85 |   26    | 13825500 |
-| MBB      | 2026-03-26 00:00:00 |  26.35 |  26.35 | 25.7  |   25.8  | 13683600 |
-| MBB      | 2026-03-27 00:00:00 |  25.75 |  26.2  | 25.6  |   26.15 | 12866700 |
-| MBB      | 2026-03-30 00:00:00 |  25.8  |  26.1  | 25.65 |   25.75 | 11214500 |
-| MBB      | 2026-03-31 00:00:00 |  25.95 |  26.7  | 25.95 |   26.45 | 20965700 |
-| MBB      | 2026-04-01 00:00:00 |  27    |  27.1  | 26.5  |   26.5  | 18947700 |
-| MBB      | 2026-04-02 00:00:00 |  26.5  |  26.55 | 25.9  |   26.3  | 23391700 |
-| MBB      | 2026-04-03 00:00:00 |  26.3  |  26.45 | 25.95 |   25.95 | 10974700 |
-| MBB      | 2026-04-06 00:00:00 |  26    |  26    | 25.6  |   25.65 | 11655100 |
-| MBB      | 2026-04-07 00:00:00 |  25.75 |  25.8  | 25.45 |   25.6  | 15315200 |
-| MBB      | 2026-04-08 00:00:00 |  26.45 |  26.65 | 26.1  |   26.6  | 33405300 |
-| MBB      | 2026-04-09 00:00:00 |  26.5  |  26.7  | 26.35 |   26.5  | 14977100 |
-| MBB      | 2026-04-10 00:00:00 |  26.8  |  27.1  | 26.65 |   26.7  | 30327300 |
-| MBB      | 2026-04-13 00:00:00 |  26.35 |  26.65 | 26.25 |   26.45 | 15029500 |
-| MBB      | 2026-04-14 00:00:00 |  26.7  |  26.8  | 26.5  |   26.7  | 16255100 |
-| MBB      | 2026-04-15 00:00:00 |  26.7  |  26.85 | 26.6  |   26.6  | 11553900 |
-| MBB      | 2026-04-16 00:00:00 |  26.5  |  26.6  | 26.2  |   26.3  | 12841800 |
-| MBB      | 2026-04-17 00:00:00 |  26.3  |  26.6  | 26.3  |   26.45 |  8604100 |
-| MBB      | 2026-04-20 00:00:00 |  26.45 |  26.6  | 26.35 |   26.35 | 13276300 |
-| MBB      | 2026-04-21 00:00:00 |  26.4  |  26.6  | 26.3  |   26.3  | 13041700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MBB      | 2026-04-21 14:27:08 |   26.35 |      100 | Buy          | 466482042 |
-| MBB      | 2026-04-21 14:27:10 |   26.35 |     2500 | Buy          | 466482256 |
-| MBB      | 2026-04-21 14:27:10 |   26.35 |      200 | Buy          | 466482298 |
-| MBB      | 2026-04-21 14:27:12 |   26.35 |     1000 | Buy          | 466482471 |
-| MBB      | 2026-04-21 14:27:13 |   26.3  |      100 | Sell         | 466482502 |
-| MBB      | 2026-04-21 14:27:18 |   26.3  |     5000 | Sell         | 466483023 |
-| MBB      | 2026-04-21 14:27:22 |   26.3  |     3700 | Sell         | 466483306 |
-| MBB      | 2026-04-21 14:27:22 |   26.3  |     1300 | Sell         | 466483307 |
-| MBB      | 2026-04-21 14:27:25 |   26.3  |     5000 | Sell         | 466483618 |
-| MBB      | 2026-04-21 14:27:25 |   26.3  |      500 | Sell         | 466483617 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

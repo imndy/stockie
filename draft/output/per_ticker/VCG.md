@@ -1,133 +1,46 @@
 # VCG — VCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 20:04
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VCG |
-| exchange | HOSE |
-| market_cap | 14222303392000 |
-| 52w_high | 28600 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 18200 |
-| 52w_low_date | 2026-02-06 |
-| foreign_ownership | 2.4389 |
-| dividend | 800 |
-| beta | 0.85 |
-| eps | 6406 |
-| eps_forward | 11.959660388742835 |
-| bvps | 19320 |
-| pe | 3.47 |
-| pb | 1.15 |
-| price_chg_1m | -1.35 |
-| price_chg_ytd | 11.96 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.03636363636363636 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 22.0 |
-| EMA20 | 22.06 |
-| EMA50 | 21.72 |
-| RSI(14) | 50.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | 0.265 |
-| MACD Signal | 0.342 |
-| MACD Histogram | -0.077 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VCG |
-| pe | 3.47 |
-| pb | 1.15 |
-| roe | 35.13 |
-| roe_pct_rank | 100 |
-| roa | 12.9 |
-| roa_pct_rank | 78 |
-| eps | 6406 |
-| bvps | 19320 |
-| beta | 0.85 |
-| dividend | 800 |
-| yield | 0.03636363636363636 |
-| pe_pct_rank | 28 |
-| pb_pct_rank | 49 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime            | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VCG: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T08:54:38    | /2026/04/vcg-bao-cao-thuong-nien-nam-2025-737-1430926.htm                                                                 |
-| VCG: Quyết định của HĐQT về việc tiếp thục giảm tỷ lệ sở hữu vốn tại VIWASEEN                            | 2026-04-20T15:00:47    | /2026/04/vcg-quyet-dinh-cua-hdqt-ve-viec-tiep-thuc-giam-ty-le-so-huu-von-tai-viwaseen-739-1430352.htm                     |
-| VCG: Quyết định của HĐQT về việc mua cổ phần Công ty Cổ phần Giầy Thượng Đình                            | 2026-04-20T14:59:05    | /2026/04/vcg-quyet-dinh-cua-hdqt-ve-viec-mua-co-phan-cong-ty-co-phan-giay-thuong-dinh-739-1430409.htm                     |
-| Cổ phiếu VIW tăng 130% sau khi ông Tô Dũng làm Chủ tịch, VCG muốn thoái hơn 70% vốn                      | 2026-04-18T19:26:26.5  | /2026/04/co-phieu-viw-tang-130-sau-khi-ong-to-dung-lam-chu-tich-vcg-muon-thoai-hon-70-von-739-1429767.htm                 |
-| VCG: Nghị quyết HĐQT về việc mua cổ phần tại Công ty Cổ phần Y tế Aegis                                  | 2026-04-16T09:07:45    | /2026/04/vcg-nghi-quyet-hdqt-ve-viec-mua-co-phan-tai-cong-ty-co-phan-y-te-aegis-737-1428360.htm                           |
-| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00    | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
-| Cổ đông chi phối Vinaconex đề cử 2 ứng viên vào HĐQT                                                     | 2026-04-15T16:49:09.77 | /2026/04/co-dong-chi-phoi-vinaconex-de-cu-2-ung-vien-vao-hdqt-214-1428027.htm                                             |
-| Đối mặt áp lực chi phí, Vinaconex dự kiến lãi 2026 giảm hơn 70% sau năm lập đỉnh                         | 2026-04-03T17:25:08.98 | /2026/04/doi-mat-ap-luc-chi-phi-vinaconex-du-kien-lai-2026-giam-hon-70-sau-nam-lap-dinh-737-1422621.htm                   |
-| VCG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                 | 2026-04-03T14:28:58    | /2026/04/vcg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422556.htm                                                          |
-| Phân tích kỹ thuật phiên chiều 03/04: Giằng co mạnh                                                      | 2026-04-03T13:02:40.49 | /2026/04/phan-tich-ky-thuat-phien-chieu-0304-giang-co-manh-585-1422465.htm                                                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCG      | 2026-03-25 00:00:00 |  21    |  21.95 | 20.95 |   21.95 | 15458500 |
-| VCG      | 2026-03-26 00:00:00 |  22    |  22.6  | 21.75 |   21.75 |  9263100 |
-| VCG      | 2026-03-27 00:00:00 |  21.75 |  22.2  | 21.65 |   21.9  |  9222600 |
-| VCG      | 2026-03-30 00:00:00 |  21.3  |  22.5  | 21.2  |   22.15 |  9933300 |
-| VCG      | 2026-03-31 00:00:00 |  22.5  |  22.85 | 22    |   22    |  7885100 |
-| VCG      | 2026-04-01 00:00:00 |  22.45 |  22.95 | 22.15 |   22.5  | 12297000 |
-| VCG      | 2026-04-02 00:00:00 |  22.4  |  23    | 22.15 |   22.2  |  9456000 |
-| VCG      | 2026-04-03 00:00:00 |  22.3  |  22.35 | 21.3  |   21.4  | 14471800 |
-| VCG      | 2026-04-06 00:00:00 |  21.4  |  21.75 | 20.95 |   20.95 |  6714000 |
-| VCG      | 2026-04-07 00:00:00 |  21.25 |  22    | 21.05 |   21.35 |  5103900 |
-| VCG      | 2026-04-08 00:00:00 |  22.7  |  22.7  | 22    |   22.25 | 11834000 |
-| VCG      | 2026-04-09 00:00:00 |  22.4  |  23.45 | 22.05 |   22.95 | 28051500 |
-| VCG      | 2026-04-10 00:00:00 |  23.3  |  23.4  | 22.8  |   22.85 |  8431300 |
-| VCG      | 2026-04-13 00:00:00 |  22.65 |  23.45 | 22.6  |   22.7  | 13895500 |
-| VCG      | 2026-04-14 00:00:00 |  23.2  |  23.2  | 22.55 |   22.85 |  8545000 |
-| VCG      | 2026-04-15 00:00:00 |  23    |  23.15 | 22.3  |   22.4  | 11555700 |
-| VCG      | 2026-04-16 00:00:00 |  22.45 |  22.5  | 21.8  |   22    | 12144100 |
-| VCG      | 2026-04-17 00:00:00 |  22.1  |  22.35 | 21.9  |   22.25 |  4769200 |
-| VCG      | 2026-04-20 00:00:00 |  22.25 |  22.7  | 22.15 |   22.2  |  5261900 |
-| VCG      | 2026-04-21 00:00:00 |  22.35 |  22.45 | 22    |   22    |  5166700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCG      | 2026-04-21 14:29:18 |   22.05 |    10000 | Sell         | 466495185 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |     3100 | Sell         | 466495188 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |      800 | Sell         | 466495190 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |      100 | Sell         | 466495191 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |      100 | Sell         | 466495192 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |     3000 | Sell         | 466495193 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |     1000 | Sell         | 466495194 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |      200 | Sell         | 466495189 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |     1000 | Sell         | 466495187 |
-| VCG      | 2026-04-21 14:29:18 |   22.05 |      500 | Sell         | 466495196 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

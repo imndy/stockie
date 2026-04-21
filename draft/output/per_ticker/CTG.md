@@ -1,133 +1,46 @@
 # CTG — CTG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTG |
-| exchange | HOSE |
-| market_cap | 270678020599450 |
-| 52w_high | 41500 |
-| 52w_high_date | 2026-01-12 |
-| 52w_low | 25288 |
-| 52w_low_date | 2025-04-28 |
-| foreign_ownership | 25.3045 |
-| dividend | 450 |
-| beta | 0.91 |
-| eps | 6441 |
-| eps_forward | 8.38829939776312 |
-| bvps | 33452.79 |
-| pe | 5.45 |
-| pb | 1.05 |
-| price_chg_1m | 3.72 |
-| price_chg_ytd | 36.34 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.01291248206599713 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 34.85 |
-| EMA20 | 34.76 |
-| EMA50 | 35.31 |
-| RSI(14) | 49.8 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.075 |
-| MACD Signal | -0.217 |
-| MACD Histogram | 0.143 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTG |
-| pe | 5.45 |
-| pb | 1.05 |
-| roe | 21.08 |
-| roe_pct_rank | 71 |
-| roa | 1.34 |
-| roa_pct_rank | 33 |
-| eps | 6441 |
-| bvps | 33452.79 |
-| beta | 0.91 |
-| dividend | 450 |
-| yield | 0.01291248206599713 |
-| pe_pct_rank | 33 |
-| pb_pct_rank | 45 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CTG: Báo cáo thường niên năm 2025                                                                     | 2026-04-20T17:09:14     | /2026/04/ctg-bao-cao-thuong-nien-nam-2025-737-1430669.htm                                                                 |
-| CTG: HĐQT thông qua hợp đồng đại diện nhận TSBĐ và văn bản ủy quyền giữa Vietinbank và Vietinbank Lào | 2026-04-15T18:13:57     | /2026/04/ctg-hdqt-thong-qua-hop-dong-dai-dien-nhan-tsbd-va-van-ban-uy-quyen-giua-vietinbank-va-vietinbank-lao-830-142829… |
-| CTG: HĐQT thông qua dự thảo hợp đồng cấp bảo lãnh hạn mức ký kết giữa VietinBank với VBI              | 2026-04-14T17:49:32     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-cap-bao-lanh-han-muc-ky-ket-giua-vietinbank-voi-vbi-830-1427667.htm          |
-| CTG: HĐQT thông qua dự thảo hợp đồng tiền gửi có kỳ hạn giữa VietinBank với VietinGold và VBI         | 2026-04-14T17:47:47     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-tien-gui-co-ky-han-giua-vietinbank-voi-vietingold-va-vbi-830-1427664.htm     |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                  | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| Lộ trình thoái vốn của VietinBank tại Cảng Sài Gòn gặp khó                                            | 2026-04-09T11:45:13.093 | /2026/04/lo-trinh-thoai-von-cua-vietinbank-tai-cang-sai-gon-gap-kho-739-1425383.htm                                       |
-| Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                         | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                           | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                        | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
-| Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC              | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTG      | 2026-03-25 00:00:00 |  33.75 |  34.1  | 33.7  |   34.05 |  6241100 |
-| CTG      | 2026-03-26 00:00:00 |  34.05 |  34.1  | 33.45 |   33.8  |  5738200 |
-| CTG      | 2026-03-27 00:00:00 |  33.7  |  35    | 33.6  |   34.8  | 12073500 |
-| CTG      | 2026-03-30 00:00:00 |  34.1  |  34.75 | 33.9  |   34.05 |  6061900 |
-| CTG      | 2026-03-31 00:00:00 |  34.4  |  34.65 | 34.1  |   34.6  |  7394400 |
-| CTG      | 2026-04-01 00:00:00 |  35.2  |  35.3  | 34.65 |   34.75 |  8257700 |
-| CTG      | 2026-04-02 00:00:00 |  34.45 |  34.55 | 34.1  |   34.3  |  6251200 |
-| CTG      | 2026-04-03 00:00:00 |  34.4  |  34.5  | 33.8  |   33.8  |  8626800 |
-| CTG      | 2026-04-06 00:00:00 |  33.75 |  34.05 | 33.55 |   33.7  |  6070500 |
-| CTG      | 2026-04-07 00:00:00 |  33.75 |  33.85 | 33.5  |   33.7  |  4955000 |
-| CTG      | 2026-04-08 00:00:00 |  34.8  |  35.5  | 34.3  |   35.5  | 13337900 |
-| CTG      | 2026-04-09 00:00:00 |  35.05 |  35.3  | 34.8  |   35    |  6309300 |
-| CTG      | 2026-04-10 00:00:00 |  35.25 |  35.8  | 35    |   35    |  8029500 |
-| CTG      | 2026-04-13 00:00:00 |  34.8  |  35    | 34.55 |   34.8  |  4304400 |
-| CTG      | 2026-04-14 00:00:00 |  35.1  |  35.15 | 34.8  |   34.9  |  5465100 |
-| CTG      | 2026-04-15 00:00:00 |  35.2  |  35.3  | 34.85 |   35.05 |  5586500 |
-| CTG      | 2026-04-16 00:00:00 |  35.15 |  35.15 | 34.5  |   34.6  |  5773800 |
-| CTG      | 2026-04-17 00:00:00 |  34.7  |  34.9  | 34.55 |   34.85 |  3775800 |
-| CTG      | 2026-04-20 00:00:00 |  34.95 |  35.3  | 34.9  |   35.1  |  6020100 |
-| CTG      | 2026-04-21 00:00:00 |  35.3  |  35.45 | 34.85 |   34.85 |  5807100 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTG      | 2026-04-21 14:26:46 |   34.9  |      100 | Sell         | 466480323 |
-| CTG      | 2026-04-21 14:26:46 |   34.9  |     1900 | Sell         | 466480326 |
-| CTG      | 2026-04-21 14:26:46 |   34.9  |      100 | Sell         | 466480324 |
-| CTG      | 2026-04-21 14:26:46 |   34.9  |      100 | Sell         | 466480325 |
-| CTG      | 2026-04-21 14:26:53 |   34.9  |     1000 | Sell         | 466480837 |
-| CTG      | 2026-04-21 14:26:53 |   34.9  |      100 | Sell         | 466480838 |
-| CTG      | 2026-04-21 14:26:53 |   34.9  |      400 | Sell         | 466480839 |
-| CTG      | 2026-04-21 14:27:08 |   34.9  |      100 | Sell         | 466482093 |
-| CTG      | 2026-04-21 14:27:22 |   34.9  |      200 | Sell         | 466483282 |
-| CTG      | 2026-04-21 14:27:22 |   34.95 |      500 | Buy          | 466483348 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

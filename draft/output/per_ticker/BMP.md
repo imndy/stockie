@@ -1,133 +1,46 @@
 # BMP — BMP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BMP |
-| exchange | HOSE |
-| market_cap | 12361001638000 |
-| 52w_high | 188800 |
-| 52w_high_date | 2025-12-17 |
-| 52w_low | 121200 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 80.5074 |
-| dividend | 12750 |
-| beta | 0.71 |
-| eps | 15218 |
-| eps_forward | 11.933850156466898 |
-| bvps | 38864 |
-| pe | 10.11 |
-| pb | 3.96 |
-| price_chg_1m | 16.60 |
-| price_chg_ytd | 22.40 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.08443708609271523 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 151.0 |
-| EMA20 | 139.86 |
-| EMA50 | 143.22 |
-| RSI(14) | 62.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 2.721 |
-| MACD Signal | -0.746 |
-| MACD Histogram | 3.467 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BMP |
-| pe | 10.11 |
-| pb | 3.96 |
-| roe | 44.05 |
-| roe_pct_rank | 100 |
-| roa | 37.35 |
-| roa_pct_rank | 100 |
-| eps | 15218 |
-| bvps | 38864 |
-| beta | 0.71 |
-| dividend | 12750 |
-| yield | 0.08443708609271523 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                             | publishtime             | url                                                                                       |
-|:------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------|
-| Nhựa Bình Minh chia cổ tức tiền mặt kỷ lục 148.6% cho năm 2025    | 2026-04-17T14:36:29.44  | /2026/04/nhua-binh-minh-chia-co-tuc-tien-mat-ky-luc-1486-cho-nam-2025-738-1429129.htm     |
-| BMP: BCTC quý 1 năm 2026                                          | 2026-04-17T00:00:00     | /2026/04/bmp-bctc-quy-1-nam-2026-737-1429494.htm                                          |
-| BMP: BCTC Hợp nhất quý 1 năm 2026                                 | 2026-04-17T00:00:00     | /2026/04/bmp-bctc-hop-nhat-quy-1-nam-2026-737-1429495.htm                                 |
-| BMP: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                     | 2026-04-16T18:01:47     | /2026/04/bmp-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1428808.htm                       |
-| BMP: Báo cáo thường niên năm 2025                                 | 2026-04-14T17:20:25     | /2026/04/bmp-bao-cao-thuong-nien-nam-2025-737-1427578.htm                                 |
-| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band        | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm           |
-| BMP: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                 | 2026-04-08T18:06:22     | /2026/04/bmp-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026-737-1425217.htm                 |
-| BMP công bố tài liệu đại hội, cổ phiếu bật tăng trần              | 2026-04-08T17:55:21.153 | /2026/04/bmp-cong-bo-tai-lieu-dai-hoi-co-phieu-bat-tang-tran-830-1425071.htm              |
-| BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước | 2026-03-30T17:59:36     | /2026/03/bmp-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418946.htm |
-| BMP: BCTC năm 2025                                                | 2026-03-27T00:00:00     | /2026/03/bmp-bctc-nam-2025-737-1417849.htm                                                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BMP      | 2026-03-25 00:00:00 |  126   |  129.5 | 126   |   128.2 |   331600 |
-| BMP      | 2026-03-26 00:00:00 |  128.8 |  128.8 | 124.1 |   125.1 |   293500 |
-| BMP      | 2026-03-27 00:00:00 |  124.3 |  128.4 | 124.3 |   128.2 |   195200 |
-| BMP      | 2026-03-30 00:00:00 |  125   |  128   | 124.7 |   126.9 |   101100 |
-| BMP      | 2026-03-31 00:00:00 |  127   |  129.7 | 127   |   129.1 |   171500 |
-| BMP      | 2026-04-01 00:00:00 |  131   |  132.5 | 129.5 |   131.5 |   174300 |
-| BMP      | 2026-04-02 00:00:00 |  130.9 |  130.9 | 128.4 |   129.5 |   168800 |
-| BMP      | 2026-04-03 00:00:00 |  129.5 |  129.8 | 125.9 |   126.1 |   205600 |
-| BMP      | 2026-04-06 00:00:00 |  126.3 |  127   | 124.9 |   125   |   129500 |
-| BMP      | 2026-04-07 00:00:00 |  126.1 |  126.1 | 123.6 |   124.5 |   131800 |
-| BMP      | 2026-04-08 00:00:00 |  128.2 |  133.2 | 126.5 |   133.2 |   596100 |
-| BMP      | 2026-04-09 00:00:00 |  133.2 |  133.2 | 129.3 |   130.4 |   145100 |
-| BMP      | 2026-04-10 00:00:00 |  130.3 |  133.7 | 130.2 |   133   |   145200 |
-| BMP      | 2026-04-13 00:00:00 |  131.5 |  135.5 | 130.5 |   134   |   251700 |
-| BMP      | 2026-04-14 00:00:00 |  136   |  143.3 | 135.7 |   143.3 |   559500 |
-| BMP      | 2026-04-15 00:00:00 |  146   |  146   | 142.8 |   142.8 |   219600 |
-| BMP      | 2026-04-16 00:00:00 |  142.9 |  152   | 140.6 |   151.5 |   541400 |
-| BMP      | 2026-04-17 00:00:00 |  151.8 |  151.8 | 145.4 |   148.1 |   237600 |
-| BMP      | 2026-04-20 00:00:00 |  148.1 |  154   | 147   |   153.8 |   289400 |
-| BMP      | 2026-04-21 00:00:00 |  153.5 |  154.4 | 151   |   151   |   182700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BMP      | 2026-04-21 14:12:16 |   151.4 |      100 | Buy          | 466419665 |
-| BMP      | 2026-04-21 14:12:16 |   151.4 |      200 | Sell         | 466419675 |
-| BMP      | 2026-04-21 14:12:23 |   151.7 |      100 | Buy          | 466419954 |
-| BMP      | 2026-04-21 14:12:23 |   151.5 |      800 | Buy          | 466419953 |
-| BMP      | 2026-04-21 14:12:23 |   152   |      100 | Buy          | 466419955 |
-| BMP      | 2026-04-21 14:12:41 |   152   |      100 | Buy          | 466420934 |
-| BMP      | 2026-04-21 14:13:10 |   152   |      100 | Buy          | 466422289 |
-| BMP      | 2026-04-21 14:13:13 |   152   |      100 | Buy          | 466422432 |
-| BMP      | 2026-04-21 14:13:44 |   152   |      100 | Buy          | 466423951 |
-| BMP      | 2026-04-21 14:14:16 |   151.9 |      100 | Buy          | 466425943 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

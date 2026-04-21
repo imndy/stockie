@@ -1,133 +1,46 @@
 # BCM — BCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCM |
-| exchange | HOSE |
-| market_cap | 57546000000000 |
-| 52w_high | 78638 |
-| 52w_high_date | 2026-01-20 |
-| 52w_low | 50500 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 0.9791 |
-| dividend | 1100 |
-| beta | 0.8 |
-| eps | 3361 |
-| eps_forward | 24.010358395454375 |
-| bvps | 22529 |
-| pe | 17.05 |
-| pb | 2.54 |
-| price_chg_1m | 5.30 |
-| price_chg_ytd | 2.47 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.019784172661870502 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 55.6 |
-| EMA20 | 55.17 |
-| EMA50 | 57.41 |
-| RSI(14) | 50.3 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.237 |
-| MACD Signal | -0.799 |
-| MACD Histogram | 0.562 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCM |
-| pe | 17.05 |
-| pb | 2.54 |
-| roe | 15.98 |
-| roe_pct_rank | 60 |
-| roa | 5.83 |
-| roa_pct_rank | 53 |
-| eps | 3361 |
-| bvps | 22529 |
-| beta | 0.8 |
-| dividend | 1100 |
-| yield | 0.019784172661870502 |
-| pe_pct_rank | 60 |
-| pb_pct_rank | 88 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime         | url                                                                                                                 |
-|:--------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------|
-| BCM: Báo cáo thường niên năm 2025                                                           | 2026-04-21T10:29:31 | /2026/04/bcm-bao-cao-thuong-nien-nam-2025-737-1431106.htm                                                           |
-| BCM: Báo cáo phát triển bền vững năm 2025                                                   | 2026-04-20T17:08:20 | /2026/04/bcm-bao-cao-phat-trien-ben-vung-nam-2025-830-1430668.htm                                                   |
-| BCM: BCTC năm 2025                                                                          | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-nam-2025-737-1420941.htm                                                                          |
-| BCM: BCTC Hợp nhất năm 2025                                                                 | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-hop-nhat-nam-2025-737-1420942.htm                                                                 |
-| BCM: Nghị quyết HĐQT về việc góp vốn điều lệ ban đầu thành lập Công ty TNHH MTV WTC Becamex | 2026-03-06T16:09:17 | /2026/03/bcm-nghi-quyet-hdqt-ve-viec-gop-von-dieu-le-ban-dau-thanh-lap-cong-ty-tnhh-mtv-wtc-becamex-737-1409258.htm |
-| Của để dành doanh nghiệp bất động sản tăng 60% trong năm 2025                               | 2026-02-25T11:02:00 | /2026/02/cua-de-danh-doanh-nghiep-bat-dong-san-tang-60-trong-nam-2025-737-1404929.htm                               |
-| Nợ vay doanh nghiệp bất động sản trên sàn lên gần 400 ngàn tỷ đồng trong năm 2025           | 2026-02-24T10:02:00 | /2026/02/no-vay-doanh-nghiep-bat-dong-san-tren-san-len-gan-400-ngan-ty-dong-trong-nam-2025-737-1403939.htm          |
-| BCM: CBTT hoàn thành nghĩa vụ thuế                                                          | 2026-02-12T15:27:02 | /2026/02/bcm-cbtt-hoan-thanh-nghia-vu-thue-830-1403432.htm                                                          |
-| Tuần cuối năm Ất Tỵ: Cổ tức nhỏ giọt, nổi bật BCM chốt quyền chia ngàn tỷ                   | 2026-02-08T15:00:00 | /2026/02/tuan-cuoi-nam-at-ty-co-tuc-nho-giot-noi-bat-bcm-chot-quyen-chia-ngan-ty-738-1401644.htm                    |
-| BCM: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                  | 2026-02-06T16:16:22 | /2026/02/bcm-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2024-bang-tien-737-1401448.htm                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BCM      | 2026-03-25 00:00:00 |   51.8 |   53.7 |  51.8 |    52.9 |   533400 |
-| BCM      | 2026-03-26 00:00:00 |   53.4 |   54.4 |  52.8 |    52.8 |   544700 |
-| BCM      | 2026-03-27 00:00:00 |   52.9 |   54.6 |  52.8 |    54.3 |   662700 |
-| BCM      | 2026-03-30 00:00:00 |   53.5 |   54.4 |  53.1 |    53.6 |   481200 |
-| BCM      | 2026-03-31 00:00:00 |   54.3 |   54.4 |  53.1 |    53.1 |   743200 |
-| BCM      | 2026-04-01 00:00:00 |   54.1 |   55   |  53.9 |    54.1 |   679800 |
-| BCM      | 2026-04-02 00:00:00 |   54   |   54.9 |  53.6 |    53.6 |   335600 |
-| BCM      | 2026-04-03 00:00:00 |   53.9 |   54.7 |  53.2 |    53.2 |   412800 |
-| BCM      | 2026-04-06 00:00:00 |   53.3 |   53.3 |  52.4 |    52.5 |   233400 |
-| BCM      | 2026-04-07 00:00:00 |   52.5 |   53.2 |  52   |    53.2 |   219300 |
-| BCM      | 2026-04-08 00:00:00 |   54.3 |   55.3 |  53.6 |    55   |   861100 |
-| BCM      | 2026-04-09 00:00:00 |   54.3 |   56.3 |  54.3 |    55.2 |   644700 |
-| BCM      | 2026-04-10 00:00:00 |   55.5 |   56.5 |  55.3 |    55.5 |   433800 |
-| BCM      | 2026-04-13 00:00:00 |   55   |   55.8 |  54.5 |    55.4 |   485000 |
-| BCM      | 2026-04-14 00:00:00 |   55.4 |   56   |  55   |    55.5 |   550200 |
-| BCM      | 2026-04-15 00:00:00 |   55.8 |   55.8 |  54.6 |    54.6 |   612800 |
-| BCM      | 2026-04-16 00:00:00 |   54.8 |   55.9 |  54.4 |    55   |   546900 |
-| BCM      | 2026-04-17 00:00:00 |   55.5 |   56.5 |  55   |    55.7 |   630000 |
-| BCM      | 2026-04-20 00:00:00 |   55.8 |   57.6 |  55.5 |    57.3 |  1066200 |
-| BCM      | 2026-04-21 00:00:00 |   57   |   57   |  55.6 |    55.6 |   521500 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BCM      | 2026-04-21 14:18:57 |    55.8 |     1000 | Sell         | 466443031 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      100 | Sell         | 466443040 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      200 | Sell         | 466443039 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      100 | Sell         | 466443038 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      200 | Sell         | 466443037 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      200 | Sell         | 466443032 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      100 | Sell         | 466443035 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      500 | Sell         | 466443034 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      200 | Sell         | 466443033 |
-| BCM      | 2026-04-21 14:18:57 |    55.8 |      100 | Sell         | 466443036 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

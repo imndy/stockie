@@ -1,133 +1,46 @@
 # DGC — DGC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGC |
-| exchange | HOSE |
-| market_cap | 20242189412900 |
-| 52w_high | 103379 |
-| 52w_high_date | 2025-08-12 |
-| 52w_low | 49100 |
-| 52w_low_date | 2026-03-30 |
-| foreign_ownership | 6.6094 |
-| dividend | 3000 |
-| beta | 0.59 |
-| eps | 7995 |
-| eps_forward | 6.722097598274281 |
-| bvps | 40566 |
-| pe | 6.64 |
-| pb | 1.31 |
-| price_chg_1m | -3.96 |
-| price_chg_ytd | -36.13 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.05628517823639775 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 53.3 |
-| EMA20 | 55.58 |
-| EMA50 | 61.0 |
-| RSI(14) | 41.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -2.39 |
-| MACD Signal | -3.002 |
-| MACD Histogram | 0.612 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DGC |
-| pe | 6.64 |
-| pb | 1.31 |
-| roe | 21.91 |
-| roe_pct_rank | 72 |
-| roa | 17.1 |
-| roa_pct_rank | 93 |
-| eps | 7995 |
-| bvps | 40566 |
-| beta | 0.59 |
-| dividend | 3000 |
-| yield | 0.05628517823639775 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 54 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                   | publishtime             | url                                                                                                           |
-|:----------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------|
-| DGC ấn định nội dung đại hội bất thường, chọn lại đơn vị kiểm toán                      | 2026-04-18T12:44:20.977 | /2026/04/dgc-an-dinh-noi-dung-dai-hoi-bat-thuong-chon-lai-don-vi-kiem-toan-737-1429746.htm                    |
-| DGC vào diện cảnh báo                                                                   | 2026-04-17T18:03:37.513 | /2026/04/dgc-vao-dien-canh-bao-830-1429428.htm                                                                |
-| DGC: Nghị quyết HĐQT thông qua tài liệu họp ĐHĐCĐ bất thường năm 2026                   | 2026-04-17T17:24:24     | /2026/04/dgc-nghi-quyet-hdqt-thong-qua-tai-lieu-hop-dhdcd-bat-thuong-nam-2026-737-1429496.htm                 |
-| DGC: Thông báo mời họp và tài liệu ĐHĐCĐ bất thường năm 2026                            | 2026-04-17T17:22:15     | /2026/04/dgc-thong-bao-moi-hop-va-tai-lieu-dhdcd-bat-thuong-nam-2026-737-1429486.htm                          |
-| DGC: Quyết định về việc đưa cổ phiếu vào diện cảnh báo                                  | 2026-04-17T14:38:55     | /2026/04/dgc-quyet-dinh-ve-viec-dua-co-phieu-vao-dien-canh-bao-830-1429221.htm                                |
-| DGC: Thông báo về việc đưa cổ phiếu vào diện cảnh báo                                   | 2026-04-17T14:37:37     | /2026/04/dgc-thong-bao-ve-viec-dua-co-phieu-vao-dien-canh-bao-830-1429220.htm                                 |
-| HOSE cắt margin DGC                                                                     | 2026-04-09T15:08:34.13  | /2026/04/hose-cat-margin-dgc-830-1425447.htm                                                                  |
-| HOSE: Thông báo danh sách bổ sung chứng khoán không đủ điều kiện giao dịch ký quỹ - DGC | 2026-04-09T09:06:13     | /2026/04/hose-thong-bao-danh-sach-bo-sung-chung-khoan-khong-du-dieu-kien-giao-dich-ky-quy-dgc-830-1425329.htm |
-| DGC: Báo cáo thường niên năm 2025                                                       | 2026-04-07T16:43:46     | /2026/04/dgc-bao-cao-thuong-nien-nam-2025-737-1424288.htm                                                     |
-| Thành viên DGC bị phạt và truy thu thuế hơn 1 tỷ đồng, dời ĐHĐCĐ thường niên            | 2026-04-06T14:02:00     | /2026/04/thanh-vien-dgc-bi-phat-va-truy-thu-thue-hon-1-ty-dong-doi-dhdcd-thuong-nien-737-1423317.htm          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DGC      | 2026-03-25 00:00:00 |   52.5 |   55.7 | 52.5  |    54.7 |  4337800 |
-| DGC      | 2026-03-26 00:00:00 |   55   |   55   | 51.7  |    52.3 |  5037800 |
-| DGC      | 2026-03-27 00:00:00 |   52.7 |   52.7 | 51.6  |    51.8 |  5864900 |
-| DGC      | 2026-03-30 00:00:00 |   50.9 |   51   | 48.25 |    49.1 |  6921600 |
-| DGC      | 2026-03-31 00:00:00 |   49.5 |   51.5 | 49.5  |    50.2 |  2507200 |
-| DGC      | 2026-04-01 00:00:00 |   50.6 |   51.4 | 50.2  |    50.5 |  2855400 |
-| DGC      | 2026-04-02 00:00:00 |   50.4 |   54   | 49.6  |    54   |  4398300 |
-| DGC      | 2026-04-03 00:00:00 |   56.9 |   57.4 | 55    |    56.5 |  8384200 |
-| DGC      | 2026-04-06 00:00:00 |   56.3 |   56.3 | 53    |    53   |  3451700 |
-| DGC      | 2026-04-07 00:00:00 |   53.3 |   54.2 | 52.5  |    54.2 |  1791100 |
-| DGC      | 2026-04-08 00:00:00 |   55   |   56.3 | 54.8  |    55.7 |  3396100 |
-| DGC      | 2026-04-09 00:00:00 |   55.7 |   55.8 | 52.9  |    53.1 |  6912700 |
-| DGC      | 2026-04-10 00:00:00 |   52.5 |   54.9 | 51.7  |    54   |  3815900 |
-| DGC      | 2026-04-13 00:00:00 |   53.1 |   55.4 | 53.1  |    54.3 |  2204800 |
-| DGC      | 2026-04-14 00:00:00 |   54.6 |   57.3 | 54    |    56.3 |  4533600 |
-| DGC      | 2026-04-15 00:00:00 |   56.4 |   56.7 | 54.6  |    54.6 |  2341800 |
-| DGC      | 2026-04-16 00:00:00 |   54.6 |   55   | 54    |    54.9 |  1675900 |
-| DGC      | 2026-04-17 00:00:00 |   55   |   55.9 | 54.2  |    54.5 |  2642000 |
-| DGC      | 2026-04-20 00:00:00 |   53.8 |   54.5 | 52.5  |    53.1 |  3422200 |
-| DGC      | 2026-04-21 00:00:00 |   53.1 |   54.4 | 52.5  |    53.3 |  1959400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGC      | 2026-04-21 14:21:16 |    53.4 |      100 | Sell         | 466451869 |
-| DGC      | 2026-04-21 14:21:16 |    53.4 |      100 | Sell         | 466451870 |
-| DGC      | 2026-04-21 14:21:17 |    53.4 |      100 | Sell         | 466451893 |
-| DGC      | 2026-04-21 14:21:21 |    53.4 |      100 | Sell         | 466452334 |
-| DGC      | 2026-04-21 14:21:29 |    53.5 |      200 | Buy          | 466452956 |
-| DGC      | 2026-04-21 14:21:29 |    53.5 |     2400 | Buy          | 466452955 |
-| DGC      | 2026-04-21 14:21:59 |    53.5 |      500 | Buy          | 466455938 |
-| DGC      | 2026-04-21 14:22:08 |    53.5 |      300 | Buy          | 466456723 |
-| DGC      | 2026-04-21 14:22:08 |    53.5 |      100 | Buy          | 466456724 |
-| DGC      | 2026-04-21 14:22:20 |    53.4 |      300 | Sell         | 466457950 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

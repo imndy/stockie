@@ -1,129 +1,46 @@
 # VIC — VIC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: 03/04/2026 09:50
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIC |
-| exchange | HOSE |
-| market_cap | 1497977380255200 |
-| 52w_high | 193700 |
-| 52w_high_date | 2026-04-21 |
-| 52w_low | 29300 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 3.415 |
-| dividend | 0 |
-| beta | 1.72 |
-| eps | 1785 |
-| eps_forward | 42.20276328668934 |
-| bvps | 19584 |
-| pe | 106.99 |
-| pb | 9.75 |
-| price_chg_1m | 43.48 |
-| price_chg_ytd | 529.92 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 193.7 |
-| EMA20 | 163.07 |
-| EMA50 | 153.31 |
-| RSI(14) | 78.0 |
-| RSI nhận xét | Quá mua |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 12.123 |
-| MACD Signal | 6.424 |
-| MACD Histogram | 5.699 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VIC |
-| pe | 106.99 |
-| pb | 9.75 |
-| eps | 1785 |
-| bvps | 19584 |
-| beta | 1.72 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VIC: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T14:04:32     | /2026/04/vic-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1430215.htm                                               |
-| VIC đưa VN-Index trở lại hít thở bầu không khí 1,800                                                  | 2026-04-18T20:30:00     | /2026/04/vic-dua-vn-index-tro-lai-hit-tho-bau-khong-khi-1800-830-1429736.htm                                              |
-| VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINPEARL       | 2026-04-17T19:39:06     | /2026/04/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinpearl-739-1429670.htm   |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                           | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
-| Thị trường chứng quyền ngày 16/04/2026: Nhóm chứng quyền VIC và VHM tỏa sáng                          | 2026-04-15T20:00:00     | /2026/04/thi-truong-chung-quyen-ngay-16042026-nhom-chung-quyen-vic-va-vhm-toa-sang-1636-1428021.htm                       |
-| Theo dấu dòng tiền cá mập 14/04: Tự doanh và khối ngoại hành động trái chiều, HPG và VIC hút sự chú ý | 2026-04-14T19:25:00     | /2026/04/theo-dau-dong-tien-ca-map-1404-tu-doanh-va-khoi-ngoai-hanh-dong-trai-chieu-hpg-va-vic-hut-su-chu-y-830-1427698.… |
-| Hãng gọi xe của tỷ phú Phạm Nhật Vượng đổi tên thành Green SM                                         | 2026-04-14T14:53:49.61  | /2026/04/hang-goi-xe-cua-ty-phu-pham-nhat-vuong-doi-ten-thanh-green-sm-737-1427336.htm                                    |
-| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band                                              | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm                                           |
-| VIC: Báo cáo thường niên năm 2025                                                                     | 2026-04-14T10:24:46     | /2026/04/vic-bao-cao-thuong-nien-nam-2025-737-1427262.htm                                                                 |
-| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl  | 2026-04-13T16:51:54     | /2026/04/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan-vinpearl-739-1427124… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIC      | 2026-03-25 00:00:00 |  128   |  132.3 | 126   |   128.7 |  3013400 |
-| VIC      | 2026-03-26 00:00:00 |  129.9 |  130.9 | 125.9 |   130   |  2435600 |
-| VIC      | 2026-03-27 00:00:00 |  130.5 |  133.9 | 128.6 |   132.6 |  2124700 |
-| VIC      | 2026-03-30 00:00:00 |  128.9 |  132.2 | 127.5 |   129.5 |  2042500 |
-| VIC      | 2026-03-31 00:00:00 |  130.2 |  135   | 130   |   135   |  3316700 |
-| VIC      | 2026-04-01 00:00:00 |  143   |  144.3 | 139.3 |   141   |  3637400 |
-| VIC      | 2026-04-02 00:00:00 |  142.8 |  142.8 | 137.8 |   139.9 |  4153300 |
-| VIC      | 2026-04-03 00:00:00 |  140   |  144.9 | 139.3 |   141   |  2869800 |
-| VIC      | 2026-04-06 00:00:00 |  141   |  142.5 | 139   |   141.6 |  2024600 |
-| VIC      | 2026-04-07 00:00:00 |  141.6 |  146.9 | 139.9 |   143.4 |  3077600 |
-| VIC      | 2026-04-08 00:00:00 |  150   |  153.4 | 147.1 |   153.4 |  4034100 |
-| VIC      | 2026-04-09 00:00:00 |  154   |  154   | 149.2 |   149.2 |  2623100 |
-| VIC      | 2026-04-10 00:00:00 |  151.6 |  154   | 151.5 |   151.7 |  2195500 |
-| VIC      | 2026-04-13 00:00:00 |  151.7 |  162   | 149.3 |   160   |  4051300 |
-| VIC      | 2026-04-14 00:00:00 |  162   |  165.9 | 161.9 |   165.5 |  3658000 |
-| VIC      | 2026-04-15 00:00:00 |  166.2 |  177   | 166.2 |   177   |  6640600 |
-| VIC      | 2026-04-16 00:00:00 |  180   |  189.3 | 178.9 |   189.3 |  7573800 |
-| VIC      | 2026-04-17 00:00:00 |  194.9 |  200   | 187.5 |   187.9 |  6747900 |
-| VIC      | 2026-04-20 00:00:00 |  186.5 |  191   | 178.1 |   191   |  5425000 |
-| VIC      | 2026-04-21 00:00:00 |  194   |  201.9 | 192.4 |   193.7 |  3340700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIC      | 2026-04-21 14:27:31 |   194.8 |      400 | Buy          | 466484021 |
-| VIC      | 2026-04-21 14:27:31 |   194.8 |      100 | Sell         | 466484028 |
-| VIC      | 2026-04-21 14:27:31 |   194.8 |      200 | Buy          | 466484022 |
-| VIC      | 2026-04-21 14:27:31 |   194.8 |      100 | Buy          | 466484023 |
-| VIC      | 2026-04-21 14:27:34 |   194.4 |      100 | Sell         | 466484308 |
-| VIC      | 2026-04-21 14:27:34 |   194.6 |      100 | Sell         | 466484304 |
-| VIC      | 2026-04-21 14:27:34 |   194.5 |      100 | Sell         | 466484306 |
-| VIC      | 2026-04-21 14:27:34 |   194.5 |     1000 | Sell         | 466484307 |
-| VIC      | 2026-04-21 14:27:34 |   194.6 |     1000 | Sell         | 466484302 |
-| VIC      | 2026-04-21 14:27:34 |   194.6 |      300 | Sell         | 466484303 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

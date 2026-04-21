@@ -25,6 +25,7 @@ Sources:
 """
 
 import argparse
+import re
 import time
 import warnings
 from collections import deque
@@ -296,14 +297,27 @@ def fetch_events(stock_vci, stock_kbs=None) -> pd.DataFrame:
 
 
 def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
-    """Tính EMA20, EMA50, RSI(14), MACD từ lịch sử giá; trả về 1-row summary DataFrame."""
+    """Tính MA5/MA10/EMA20/EMA50, slope MA20, RSI(14), MACD, ATR(14) từ lịch sử giá."""
     if hist.empty or "close" not in hist.columns or len(hist) < 5:
         return pd.DataFrame()
     close = hist["close"].astype(float)
+    high  = hist["high"].astype(float) if "high" in hist.columns else close
+    low   = hist["low"].astype(float)  if "low"  in hist.columns else close
+
+    # Moving averages
+    ma5   = close.rolling(5).mean()
+    ma10  = close.rolling(10).mean()
     ema20 = close.ewm(span=20, adjust=False).mean()
     ema50 = close.ewm(span=50, adjust=False).mean()
 
-    # RSI(14) — Wilder smoothing (com = span-1)
+    # Slope MA20: % thay đổi của EMA20 trong 5 phiên gần nhất
+    slope_ma20: float | None = None
+    if len(ema20) >= 6 and not pd.isna(ema20.iloc[-6]):
+        slope_ma20 = round(
+            (float(ema20.iloc[-1]) - float(ema20.iloc[-6])) / float(ema20.iloc[-6]) * 100, 2
+        )
+
+    # RSI(14) — Wilder smoothing
     delta    = close.diff()
     gain     = delta.clip(lower=0)
     loss     = (-delta).clip(lower=0)
@@ -319,13 +333,31 @@ def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
     macd_sig   = macd_line.ewm(span=9, adjust=False).mean()
     macd_hist  = macd_line - macd_sig
 
-    last_close  = round(float(close.iloc[-1]), 2)
-    e20         = round(float(ema20.iloc[-1]), 2)
-    e50         = round(float(ema50.iloc[-1]), 2)
-    rsi_val     = round(float(rsi.iloc[-1]), 1)
-    macd_val    = round(float(macd_line.iloc[-1]), 3)
-    macd_s_val  = round(float(macd_sig.iloc[-1]), 3)
-    macd_h_val  = round(float(macd_hist.iloc[-1]), 3)
+    # ATR(14) — Average True Range, Wilder smoothing
+    prev_close = close.shift(1)
+    tr = pd.concat([
+        high - low,
+        (high - prev_close).abs(),
+        (low  - prev_close).abs(),
+    ], axis=1).max(axis=1)
+    atr14 = tr.ewm(com=13, adjust=False).mean()
+
+    # Volume stats
+    vol_avg60: int | None = None
+    if "volume" in hist.columns:
+        vol       = hist["volume"].astype(float)
+        vol_avg60 = int(round(vol.tail(60).mean()))
+
+    last_close = round(float(close.iloc[-1]),  3)
+    e20        = round(float(ema20.iloc[-1]),   3)
+    e50        = round(float(ema50.iloc[-1]),   3)
+    m5         = round(float(ma5.iloc[-1]),     3) if not pd.isna(ma5.iloc[-1])  else None
+    m10        = round(float(ma10.iloc[-1]),    3) if not pd.isna(ma10.iloc[-1]) else None
+    rsi_val    = round(float(rsi.iloc[-1]),     1)
+    macd_val   = round(float(macd_line.iloc[-1]), 3)
+    macd_s_val = round(float(macd_sig.iloc[-1]),  3)
+    macd_h_val = round(float(macd_hist.iloc[-1]), 3)
+    atr_val    = round(float(atr14.iloc[-1]),   3)
 
     ema_signal = "TRUNG TÍNH"
     if last_close > e20 > e50:
@@ -335,24 +367,141 @@ def compute_technicals(hist: pd.DataFrame) -> pd.DataFrame:
     elif last_close > e20 and e20 < e50:
         ema_signal = "Vừa vượt EMA20 (chú ý)"
 
-    macd_signal = "MACD > Signal → Đà ĐẦU" if macd_val > macd_s_val else "MACD < Signal → ĐÀ XUỐNG"
+    macd_signal = "MACD > Signal → ĐÀ TĂNG" if macd_val > macd_s_val else "MACD < Signal → ĐÀ XUỐNG"
     if abs(macd_h_val) < 0.01 * abs(macd_val + 0.001):
         macd_signal = "MACD gần cắt Signal (chú ý)"
 
-    return pd.DataFrame([{
-        "Giá đóng cửa": last_close,
-        "EMA20":         e20,
-        "EMA50":         e50,
-        "RSI(14)":       rsi_val,
-        "RSI nhận xét": "Quá mua" if rsi_val > 70 else ("Quá bán" if rsi_val < 30 else "Bình thường"),
-        "Tín hiệu EMA":  ema_signal,
-        "Giá vs EMA20":  "Trên" if last_close > e20 else "Dưới",
-        "Giá vs EMA50":  "Trên" if last_close > e50 else "Dưới",
-        "MACD":          macd_val,
-        "MACD Signal":   macd_s_val,
-        "MACD Histogram": macd_h_val,
-        "MACD nhận xét": macd_signal,
-    }])
+    row: dict = {
+        "Giá đóng cửa":        last_close,
+        "MA5":                  m5,
+        "MA10":                 m10,
+        "EMA20":                e20,
+        "EMA50":                e50,
+        "Slope MA20 (5p, %)":   slope_ma20,
+        "ATR(14)":              atr_val,
+        "RSI(14)":              rsi_val,
+        "RSI nhận xét":         "Quá mua" if rsi_val > 70 else ("Quá bán" if rsi_val < 30 else "Bình thường"),
+        "Tín hiệu EMA":         ema_signal,
+        "Giá vs EMA20":         "Trên" if last_close > e20 else "Dưới",
+        "Giá vs EMA50":         "Trên" if last_close > e50 else "Dưới",
+        "MACD":                 macd_val,
+        "MACD Signal":          macd_s_val,
+        "MACD Histogram":       macd_h_val,
+        "MACD nhận xét":        macd_signal,
+        "KL avg 60 phiên":      vol_avg60,
+    }
+    return pd.DataFrame([{k: v for k, v in row.items() if v is not None}])
+
+
+def compute_support_resist(
+    hist: pd.DataFrame,
+    window: int = 5,
+    max_levels: int = 3,
+    cluster_pct: float = 0.015,
+) -> pd.DataFrame:
+    """
+    Tính vùng hỗ trợ / kháng cự từ swing high/low trên dữ liệu OHLC 90 phiên.
+
+    Thuật toán:
+      1. Swing high: high[i] là cực đại trong cửa sổ ±window nến (cả hai phía).
+      2. Swing low : low[i]  là cực tiểu trong cửa sổ ±window nến.
+      3. Gom cụm (cluster) các mức gần nhau ≤ cluster_pct (1.5%).
+         Mức đại diện = trung bình trọng số khối lượng.
+      4. Chấm điểm: Σ (0.5 + idx/n) — nến càng mới càng được trọng số cao hơn.
+      5. Support  = cluster dưới giá hiện tại, chọn max_levels gần nhất.
+         Resistance = cluster trên giá hiện tại, chọn max_levels gần nhất.
+    """
+    if hist.empty or len(hist) < window * 2 + 5:
+        return pd.DataFrame()
+    required = {"high", "low", "close"}
+    if not required.issubset(hist.columns):
+        return pd.DataFrame()
+
+    highs = hist["high"].astype(float).values
+    lows  = hist["low"].astype(float).values
+    vols  = hist["volume"].astype(float).values if "volume" in hist.columns else [1.0] * len(hist)
+    n          = len(hist)
+    last_close = float(hist["close"].iloc[-1])
+
+    # ── Bước 1: tìm swing points ─────────────────────────────────────────
+    swing_highs: list[tuple] = []   # (idx, price, volume)
+    swing_lows:  list[tuple] = []
+    for i in range(window, n - window):
+        h_win = highs[i - window: i + window + 1]
+        l_win = lows [i - window: i + window + 1]
+        if highs[i] >= max(h_win):
+            swing_highs.append((i, float(highs[i]), float(vols[i])))
+        if lows[i] <= min(l_win):
+            swing_lows.append((i, float(lows[i]),  float(vols[i])))
+
+    # ── Bước 2: gom cụm và chấm điểm ────────────────────────────────────
+    def _cluster(points: list) -> list[tuple]:
+        """→ list[(rep_price, score, touch_count)] sorted by score desc"""
+        if not points:
+            return []
+        pts = sorted(points, key=lambda x: x[1])
+        clusters: list[list] = []
+        cur: list = [pts[0]]
+        for pt in pts[1:]:
+            if abs(pt[1] - cur[0][1]) / (cur[0][1] + 1e-9) <= cluster_pct:
+                cur.append(pt)
+            else:
+                clusters.append(cur)
+                cur = [pt]
+        clusters.append(cur)
+        result = []
+        for cl in clusters:
+            tot_vol = sum(p[2] for p in cl) or 1.0
+            rep_px  = sum(p[1] * p[2] for p in cl) / tot_vol
+            score   = sum(0.5 + (p[0] / n) for p in cl)   # recency-weighted
+            result.append((round(rep_px, 3), round(score, 2), len(cl)))
+        return sorted(result, key=lambda x: -x[1])
+
+    all_levels = (
+        [(p, s, c, "R") for p, s, c in _cluster(swing_highs)] +
+        [(p, s, c, "S") for p, s, c in _cluster(swing_lows)]
+    )
+
+    # ── Bước 3: phân loại, chọn top max_levels gần giá nhất ──────────────
+    resists = sorted(
+        [(p, s, c, t) for p, s, c, t in all_levels if p > last_close],
+        key=lambda x: x[0]     # gần giá nhất trước
+    )[:max_levels]
+
+    supports = sorted(
+        [(p, s, c, t) for p, s, c, t in all_levels if p < last_close],
+        key=lambda x: -x[0]    # gần giá nhất trước
+    )[:max_levels]
+
+    rows = []
+    for p, s, c, _ in reversed(resists):   # hiển thị cao → thấp
+        rows.append({"Loại": "🔴 Kháng cự", "Mức giá": p, "Điểm mạnh": s, "Số lần chạm": c})
+    rows.append({"Loại": "▶ Giá hiện tại", "Mức giá": round(last_close, 3),
+                 "Điểm mạnh": "—", "Số lần chạm": "—"})
+    for p, s, c, _ in supports:
+        rows.append({"Loại": "🟢 Hỗ trợ", "Mức giá": p, "Điểm mạnh": s, "Số lần chạm": c})
+    return pd.DataFrame(rows) if rows else pd.DataFrame()
+
+
+def _read_outstanding_shares(ticker: str) -> float | None:
+    """
+    Đọc số cổ phiếu lưu hành từ block QUARTERLY của file per_ticker/{ticker}.md.
+    Parse dòng '| Cổ phiếu lưu hành | <value> |'.
+    """
+    import re
+    md_file = PER_TICKER_DIR / f"{ticker}.md"
+    if not md_file.exists():
+        return None
+    try:
+        text = md_file.read_text(encoding="utf-8")
+        m = re.search(r"\|\s*Cổ phiếu lưu hành\s*\|\s*([\d,\. ]+)\s*\|", text)
+        if m:
+            val_str = re.sub(r"[,\. ]", "", m.group(1).strip())
+            if val_str:
+                return float(val_str)
+    except Exception:
+        pass
+    return None
 
 
 SNAPSHOT_MD      = BASE_DIR / "output" / "per_ticker" / "bluechip_snapshot.md"
@@ -378,9 +527,9 @@ def _last_trading_date() -> date:
 
 
 def fetch_price_history(stock_vci, ticker: str) -> pd.DataFrame:
-    """Lịch sử giá 1 năm gần nhất."""
+    """Lịch sử giá ~90 phiên gần nhất (130 ngày lịch ≈ 90 phiên giao dịch)."""
     end   = date.today().strftime("%Y-%m-%d")
-    start = date.today().replace(year=date.today().year - 1).strftime("%Y-%m-%d")
+    start = (date.today() - timedelta(days=130)).strftime("%Y-%m-%d")
     df = safe_call(stock_vci.quote.history, start=start, end=end, interval="1D")
     if not df.empty:
         df.insert(0, "ticker", ticker)
@@ -652,20 +801,18 @@ BEGIN_QUARTERLY = "<!-- BEGIN:QUARTERLY -->"
 END_QUARTERLY   = "<!-- END:QUARTERLY -->"
 
 
-def _build_daily_block(frames: dict) -> str:
+def _build_daily_block(frames: dict, ticker: str = "") -> str:
     """Trả về nội dung block DAILY (không bao gồm sentinel)."""
-    ts_kv    = frames.get("Thống kê giao dịch",    pd.DataFrame())
-    rs_kv    = frames.get("Tóm tắt chỉ số",        pd.DataFrame())
-    tech     = frames.get("Chỉ báo kỹ thuật",       pd.DataFrame())
-    news     = frames.get("Tin tức",                pd.DataFrame())
-    hist     = frames.get("Lịch sử giá",            pd.DataFrame())
-    intra    = frames.get("Giao dịch trong ngày",   pd.DataFrame())
-    events   = frames.get("Sự kiện",                pd.DataFrame())
+    ts_kv    = frames.get("Thống kê giao dịch",     pd.DataFrame())
+    rs_kv    = frames.get("Tóm tắt chỉ số",         pd.DataFrame())
+    tech     = frames.get("Chỉ báo kỹ thuật",        pd.DataFrame())
+    news     = frames.get("Tin tức",                 pd.DataFrame())
+    hist     = frames.get("Lịch sử giá",             pd.DataFrame())
+    intra    = frames.get("Giao dịch trong ngày",    pd.DataFrame())
+    events   = frames.get("Sự kiện",                 pd.DataFrame())
+    sr       = frames.get("Vùng hỗ trợ / kháng cự", pd.DataFrame())
 
-    hist_tail = hist.tail(20) if not hist.empty else pd.DataFrame()
-
-
-        # ── News: dùng news_title (VCI) hoặc title (KBS) ──────────────────────
+    # ── News: dùng news_title (VCI) hoặc title (KBS) ──────────────────────
     title_col = next((c for c in news.columns if "title" in c.lower()), None) if not news.empty else None
     date_col  = next((c for c in news.columns if "date" in c.lower() or "time" in c.lower()), None) if not news.empty else None
     if title_col and not news.empty:
@@ -673,19 +820,64 @@ def _build_daily_block(frames: dict) -> str:
     else:
         news_display = news
 
+    # ── Volume + Turnover rate ─────────────────────────────────────────────
+    vol_section_lines: list[str] = []
+    if not hist.empty and "volume" in hist.columns:
+        vol   = hist["volume"].astype(float)
+        avg60 = vol.tail(60).mean()
+        hist5 = hist.tail(5).copy()
+
+        # Số CP lưu hành: ưu tiên frame Tổng quan (full mode), fallback parse MD
+        outstanding: float | None = None
+        ov_df = frames.get("Tổng quan", pd.DataFrame())
+        if not ov_df.empty:
+            os_raw = _ov_field(ov_df, "outstanding_share")
+            try:
+                outstanding = float(str(os_raw).replace(",", "").replace(".", "").strip())
+            except Exception:
+                pass
+        if outstanding is None and ticker:
+            outstanding = _read_outstanding_shares(ticker)
+
+        vol_rows = []
+        for _, row in hist5.iterrows():
+            v      = float(row["volume"])
+            d      = str(row.get("time", ""))[:10]
+            vs_avg = f"{(v / avg60 - 1) * 100:+.1f}%" if avg60 else "—"
+            tr_pct = f"{v / outstanding * 100:.3f}%" if outstanding else "—"
+            vol_rows.append({"Ngày": d, "KL": int(v), "vs Avg60": vs_avg, "Turnover (%)": tr_pct})
+
+        vol_df    = pd.DataFrame(vol_rows)
+        avg60_str = f"{int(avg60):,}" if avg60 else "—"
+        out_str   = f"{int(outstanding):,}" if outstanding else "N/A (chạy --mode quarterly để có dữ liệu)"
+        vol_section_lines = [
+            "## Khối lượng & Tỷ lệ lưu hành",
+            "",
+            _df_to_md(vol_df),
+            "",
+            f"- KL trung bình 60 phiên: **{avg60_str}**",
+            f"- Số CP lưu hành: **{out_str}**",
+            "",
+        ]
+
     lines = [
         "## Thống kê giao dịch",
         "",
         _df_to_md_kv(ts_kv),
         "",
-        "## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)",
+        "## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)",
         "",
         _df_to_md_kv(tech) if not tech.empty else "_Không đủ dữ liệu lịch sử giá_",
+        "",
+        "## Vùng hỗ trợ / Kháng cự",
+        "",
+        _df_to_md(sr) if not sr.empty else "_Không đủ dữ liệu để tính vùng S/R_",
         "",
         "## Tóm tắt chỉ số tài chính",
         "",
         _df_to_md_kv(rs_kv),
         "",
+        *vol_section_lines,
         "## Tin tức gần nhất (Top 10)",
         "",
         _df_to_md(news_display, max_rows=10),
@@ -694,9 +886,14 @@ def _build_daily_block(frames: dict) -> str:
         "",
         _df_to_md(events, max_rows=15),
         "",
-        "## Lịch sử giá (20 phiên gần nhất)",
+        "## RS vs Ngành",
         "",
-        _df_to_md(hist_tail, max_rows=20),
+        "> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.",
+        "> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).",
+        "",
+        "## Lịch sử giá (90 phiên gần nhất)",
+        "",
+        _df_to_md(hist.tail(90) if not hist.empty else hist, max_rows=90),
         "",
         "## Giao dịch trong ngày (10 lệnh gần nhất)",
         "",
@@ -841,14 +1038,14 @@ def write_markdown_ticker(ticker: str, frames: dict, effective_mode: str) -> Non
             "---",
             "",
         ]
-        daily_section     = [BEGIN_DAILY, "", _build_daily_block(frames), END_DAILY, ""]
+        daily_section     = [BEGIN_DAILY, "", _build_daily_block(frames, ticker), END_DAILY, ""]
         quarterly_section = [BEGIN_QUARTERLY, "", _build_quarterly_block(frames), END_QUARTERLY, ""]
         content = "\n".join(header + daily_section + ["---", ""] + quarterly_section)
     else:
         # ── Update in-place ──
         content = out_path.read_text(encoding="utf-8")
         if effective_mode == "daily":
-            content = _replace_block(content, BEGIN_DAILY, END_DAILY, _build_daily_block(frames))
+            content = _replace_block(content, BEGIN_DAILY, END_DAILY, _build_daily_block(frames, ticker))
         elif effective_mode == "quarterly":
             content = _replace_block(content, BEGIN_QUARTERLY, END_QUARTERLY, _build_quarterly_block(frames))
         content = _update_header_ts(content, effective_mode)
@@ -889,19 +1086,21 @@ _SECTOR_CYCLICAL  = frozenset({"HPG", "VHM", "VIC", "VRE", "CTG", "BID"})
 
 
 def fetch_vnindex(vs) -> dict:
-    """Lấy VN-Index đóng cửa hôm nay, thay đổi điểm và %."""
+    """Lấy VN-Index đóng cửa hôm nay, thay đổi điểm, % và 20 phiên gần nhất."""
     try:
         end   = date.today().strftime("%Y-%m-%d")
-        start = (date.today() - timedelta(days=7)).strftime("%Y-%m-%d")
+        start = (date.today() - timedelta(days=40)).strftime("%Y-%m-%d")
         vni   = vs.stock(symbol="VNINDEX", source=SOURCE_QUOTE)
         hist  = safe_call(vni.quote.history, start=start, end=end, interval="1D")
         if hist.empty or "close" not in hist.columns or len(hist) < 2:
             return {}
+        hist20 = hist.tail(20).copy()
+        hist20["pct_chg"] = hist20["close"].pct_change() * 100
         close  = float(hist["close"].iloc[-1])
         prev   = float(hist["close"].iloc[-2])
         change = round(close - prev, 2)
         pct    = round(change / prev * 100, 2) if prev else 0.0
-        return {"close": close, "change": change, "pct": pct}
+        return {"close": close, "change": change, "pct": pct, "hist20": hist20}
     except Exception as exc:
         print(f"  [WARN] VN-Index: {exc}")
         return {}
@@ -1157,12 +1356,92 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         "",
         "---",
         "",
+        "## 6. VNINDEX 20 Phiên Gần Nhất",
+        "",
+    ]
+
+    vni_hist20 = vnindex_data.get("hist20")
+    if vni_hist20 is not None and not vni_hist20.empty:
+        rows_vni = []
+        for _, vrow in vni_hist20.iterrows():
+            try:
+                d = pd.to_datetime(vrow["time"]).strftime("%Y-%m-%d")
+            except Exception:
+                d = str(vrow.get("time", ""))
+            pct_v = vrow.get("pct_chg")
+            pct_str = f"{pct_v:+.2f}%" if pd.notna(pct_v) else "—"
+            rows_vni.append({
+                "Ngày":       d,
+                "Mở":         f"{vrow['open']:,.2f}",
+                "Cao":         f"{vrow['high']:,.2f}",
+                "Thấp":        f"{vrow['low']:,.2f}",
+                "Đóng":        f"{vrow['close']:,.2f}",
+                "%Thay đổi":  pct_str,
+                "KL (tỷ)": f"{vrow['volume']/1e9:.2f}",
+            })
+        lines.append(_df_to_md(pd.DataFrame(rows_vni)))
+    else:
+        lines.append("_Không có dữ liệu VNINDEX_")
+
+    lines += [
+        "",
+        "---",
+        "",
         "> ⚠️ File này là snapshot tổng hợp, KHÔNG thay thế `{TICKER}.md`",
         "> Dùng để lọc mã nhanh → deep-dive bằng `per_ticker/{TICKER}.md`",
     ]
 
     SNAPSHOT_MD.write_text("\n".join(lines), encoding="utf-8")
     print(f"  Snapshot → {SNAPSHOT_MD}")
+
+
+# ── Gatekeeping ───────────────────────────────────────────────────────────────
+_MARKET_CLOSE_HOUR = 17  # 17:00 — sau giờ này không re-run cùng ngày
+
+
+def _daily_is_stale(md_file: Path) -> bool:
+    """
+    True  → nên chạy daily (dữ liệu cũ hoặc hôm nay chưa kết phiên)
+    False → bỏ qua (đã update hôm nay sau 17:00)
+
+    Đọc dòng:  > 📅 Daily: 21/04/2026 20:18  |  ...
+    """
+    if not md_file.exists():
+        return True
+    try:
+        text = md_file.read_text(encoding="utf-8")
+        m = re.search(r"Daily:\s*(\d{2}/\d{2}/\d{4})\s+(\d{2}:\d{2})", text)
+        if not m:
+            return True
+        last_dt = datetime.strptime(f"{m.group(1)} {m.group(2)}", "%d/%m/%Y %H:%M")
+        if last_dt.date() < date.today():
+            return True  # dữ liệu cũ → chạy
+        # cùng ngày hôm nay
+        return datetime.now().hour < _MARKET_CLOSE_HOUR  # trước 17h → cho chạy lại
+    except Exception:
+        return True  # lỗi parse → chạy cho chắc
+
+
+def _snapshot_is_stale(snapshot_md: Path) -> bool:
+    """
+    True  → nên ghi snapshot
+    False → bỏ qua (đã ghi hôm nay sau 17:00)
+
+    Đọc dòng:  > 🕐 Cập nhật: 2026-04-21 20:18 | Nguồn: ...
+    """
+    if not snapshot_md.exists():
+        return True
+    try:
+        text = snapshot_md.read_text(encoding="utf-8")
+        m = re.search(r"C\u1eadp nh\u1eadt:\s*(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2})", text)
+        if not m:
+            return True
+        last_dt = datetime.strptime(f"{m.group(1)} {m.group(2)}", "%Y-%m-%d %H:%M")
+        if last_dt.date() < date.today():
+            return True
+        return datetime.now().hour < _MARKET_CLOSE_HOUR
+    except Exception:
+        return True
 
 
 # ── Core pipeline ──────────────────────────────────────────────────────────────
@@ -1217,15 +1496,24 @@ def run_pipeline(mode: str) -> None:
         kbs = vs.stock(symbol=ticker, source=SOURCE_COMPANY)
         vci = vs.stock(symbol=ticker, source=SOURCE_QUOTE)
 
+        # ── Gatekeeping: bỏ qua daily nếu đã update hôm nay sau 17h ──
+        skip_daily = False
+        if not is_new and effective_mode in ("daily", "full"):
+            if not _daily_is_stale(md_file):
+                now = datetime.now()
+                print(f"  [SKIP daily] {ticker} đã cập nhật hôm nay sau {_MARKET_CLOSE_HOUR}:00, bỏ qua.")
+                skip_daily = True
+
         # ── Daily data ──
-        if effective_mode in ("daily", "full"):
+        if effective_mode in ("daily", "full") and not skip_daily:
             frames["Thống kê giao dịch"]   = fetch_trading_stats(vci, ticker)
             frames["Tóm tắt chỉ số"]       = fetch_ratio_summary(vci, ticker)
             frames["Tin tức"]              = fetch_news(vci, kbs, ticker)
             frames["Lịch sử giá"]          = fetch_price_history(vci, ticker)
             frames["Giao dịch trong ngày"] = fetch_intraday(vci, ticker)
             frames["Sự kiện"]              = fetch_events(vci, kbs)
-            frames["Chỉ báo kỹ thuật"]     = compute_technicals(frames["Lịch sử giá"])
+            frames["Chỉ báo kỹ thuật"]        = compute_technicals(frames["Lịch sử giá"])
+            frames["Vùng hỗ trợ / kháng cự"]  = compute_support_resist(frames["Lịch sử giá"])
             snapshot_rows.append(_build_snapshot_row(ticker, frames, industry_map))
 
             all_sheets[f"{ticker}_TradingStats"] = frames["Thống kê giao dịch"]
@@ -1235,6 +1523,7 @@ def run_pipeline(mode: str) -> None:
             all_sheets[f"{ticker}_IntraDay"]     = frames["Giao dịch trong ngày"]
             all_sheets[f"{ticker}_SuKien"]       = frames["Sự kiện"]
             all_sheets[f"{ticker}_KyThuat"]      = frames["Chỉ báo kỹ thuật"]
+            all_sheets[f"{ticker}_SuppRes"]      = frames["Vùng hỗ trợ / kháng cự"]
 
         # ── Quarterly data ──
         if effective_mode in ("quarterly", "full"):
@@ -1274,7 +1563,10 @@ def run_pipeline(mode: str) -> None:
         write_txt(detail_map, txt_path)
     write_markdown_summary(detail_map, price_board, summary_md, mode, industry_map)
     if mode in ("daily", "full") and snapshot_rows:
-        write_snapshot(snapshot_rows, vnindex_data, datetime.now())
+        if _snapshot_is_stale(SNAPSHOT_MD):
+            write_snapshot(snapshot_rows, vnindex_data, datetime.now())
+        else:
+            print("  [SKIP snapshot] bluechip_snapshot đã cập nhật hôm nay sau 17:00, bỏ qua.")
     print(f"\nHoàn tất! → {subdir}\nPer-ticker MD → {PER_TICKER_DIR}")
     git_push(mode)
 

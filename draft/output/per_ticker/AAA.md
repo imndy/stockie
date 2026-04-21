@@ -1,133 +1,46 @@
 # AAA — AAA
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 19:46
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:46
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | AAA |
-| exchange | HOSE |
-| market_cap | 2775886246500 |
-| 52w_high | 8850 |
-| 52w_high_date | 2025-12-09 |
-| 52w_low | 6309 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 1.7333 |
-| dividend | 300 |
-| beta | 0.7 |
-| eps | 940 |
-| eps_forward | 7.352633997576973 |
-| bvps | 15440 |
-| pe | 7.49 |
-| pb | 0.46 |
-| price_chg_1m | 1.44 |
-| price_chg_ytd | 6.40 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.0425531914893617 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 7.05 |
-| EMA20 | 7.06 |
-| EMA50 | 7.26 |
-| RSI(14) | 47.0 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.05 |
-| MACD Signal | -0.079 |
-| MACD Histogram | 0.029 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | AAA |
-| pe | 7.49 |
-| pb | 0.46 |
-| roe | 6.88 |
-| roe_pct_rank | 40 |
-| roa | 2.8 |
-| roa_pct_rank | 40 |
-| eps | 940 |
-| bvps | 15440 |
-| beta | 0.7 |
-| dividend | 300 |
-| yield | 0.0425531914893617 |
-| pe_pct_rank | 38 |
-| pb_pct_rank | 17 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                 | publishtime         | url                                                                                                           |
-|:--------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------|
-| AAA: Nghị quyết HĐQT về việc thông qua tài liệu họp ĐHĐCĐTN 2026 và link tài liệu họp | 2026-04-16T18:01:43 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-tai-lieu-hop-dhdcdtn-2026-va-link-tai-lieu-hop-737-1428812.htm |
-| AAA: Báo cáo thường niên năm 2025                                                     | 2026-04-16T16:19:39 | /2026/04/aaa-bao-cao-thuong-nien-nam-2025-737-1428883.htm                                                     |
-| AAA: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026       | 2026-04-03T10:39:48 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026-737-1422397.htm        |
-| AAA: Giải trình chênh lệch LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-30T16:12:14 | /2026/03/aaa-giai-trinh-chenh-lech-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1418781.htm          |
-| AAA: BCTC Hợp nhất năm 2025                                                           | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-hop-nhat-nam-2025-737-1418616.htm                                                           |
-| AAA: BCTC năm 2025                                                                    | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-nam-2025-737-1418766.htm                                                                    |
-| AAA: BCTC Hợp nhất năm 2025                                                           | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-hop-nhat-nam-2025-737-1419076.htm                                                           |
-| AAA: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026           | 2026-03-06T14:47:12 | /2026/03/aaa-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1409135.htm           |
-| AAA: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026   | 2026-03-02T13:41:05 | /2026/03/aaa-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026-737-1406971.htm   |
-| AAA: Báo cáo tình hình quản trị công ty năm 2025                                      | 2026-01-30T13:19:50 | /2026/01/aaa-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397347.htm                                      |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| AAA      | 2026-03-25 00:00:00 |   6.81 |   6.94 |  6.81 |    6.94 |   628800 |
-| AAA      | 2026-03-26 00:00:00 |   6.88 |   7.1  |  6.88 |    6.98 |   899600 |
-| AAA      | 2026-03-27 00:00:00 |   6.99 |   7.08 |  6.96 |    7.03 |   905200 |
-| AAA      | 2026-03-30 00:00:00 |   7    |   7.04 |  6.92 |    7.02 |   647200 |
-| AAA      | 2026-03-31 00:00:00 |   7.02 |   7.1  |  7    |    7.02 |   763300 |
-| AAA      | 2026-04-01 00:00:00 |   7.11 |   7.15 |  7.04 |    7.08 |   993500 |
-| AAA      | 2026-04-02 00:00:00 |   7.02 |   7.07 |  6.97 |    7    |   855800 |
-| AAA      | 2026-04-03 00:00:00 |   7    |   7.04 |  6.94 |    6.94 |   448500 |
-| AAA      | 2026-04-06 00:00:00 |   6.94 |   6.98 |  6.88 |    6.88 |   401600 |
-| AAA      | 2026-04-07 00:00:00 |   6.9  |   6.93 |  6.84 |    6.84 |   494400 |
-| AAA      | 2026-04-08 00:00:00 |   7.01 |   7.14 |  6.96 |    7.09 |  1360000 |
-| AAA      | 2026-04-09 00:00:00 |   7.09 |   7.15 |  7.04 |    7.11 |  1961000 |
-| AAA      | 2026-04-10 00:00:00 |   7.11 |   7.17 |  7.07 |    7.09 |   879500 |
-| AAA      | 2026-04-13 00:00:00 |   7.06 |   7.06 |  7    |    7.01 |   987200 |
-| AAA      | 2026-04-14 00:00:00 |   7.08 |   7.15 |  7.04 |    7.1  |   912700 |
-| AAA      | 2026-04-15 00:00:00 |   7.11 |   7.24 |  7.1  |    7.12 |  1423300 |
-| AAA      | 2026-04-16 00:00:00 |   7.12 |   7.13 |  7.02 |    7.04 |   663700 |
-| AAA      | 2026-04-17 00:00:00 |   7.1  |   7.11 |  7    |    7.03 |   630300 |
-| AAA      | 2026-04-20 00:00:00 |   7.09 |   7.09 |  7.04 |    7.04 |   458500 |
-| AAA      | 2026-04-21 00:00:00 |   7.1  |   7.11 |  7.04 |    7.05 |   510300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| AAA      | 2026-04-21 13:45:31 |    7.06 |      100 | Buy          | 466334036 |
-| AAA      | 2026-04-21 13:45:35 |    7.06 |      900 | Buy          | 466334249 |
-| AAA      | 2026-04-21 13:45:35 |    7.06 |      200 | Buy          | 466334247 |
-| AAA      | 2026-04-21 13:45:35 |    7.06 |     2000 | Buy          | 466334248 |
-| AAA      | 2026-04-21 13:46:16 |    7.07 |      100 | Buy          | 466336094 |
-| AAA      | 2026-04-21 13:46:16 |    7.07 |      500 | Buy          | 466336095 |
-| AAA      | 2026-04-21 13:47:14 |    7.07 |      100 | Sell         | 466337950 |
-| AAA      | 2026-04-21 13:49:44 |    7.07 |      200 | Sell         | 466345792 |
-| AAA      | 2026-04-21 13:49:44 |    7.07 |      500 | Sell         | 466345793 |
-| AAA      | 2026-04-21 13:50:46 |    7.06 |      100 | Sell         | 466348433 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

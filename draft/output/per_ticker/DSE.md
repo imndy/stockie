@@ -1,133 +1,46 @@
 # DSE — DSE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:34  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DSE |
-| exchange | HOSE |
-| market_cap | 10149520402200 |
-| 52w_high | 30351 |
-| 52w_high_date | 2025-08-29 |
-| 52w_low | 19008 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 11.167 |
-| dividend | 700 |
-| beta | 0.77 |
-| eps | 684 |
-| eps_forward | 18.64829089776532 |
-| bvps | 15640.53 |
-| pe | 35.01 |
-| pb | 1.53 |
-| price_chg_1m | 1.94 |
-| price_chg_ytd | 23.81 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.029535864978902954 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 23.7 |
-| EMA20 | 23.7 |
-| EMA50 | 23.7 |
-| RSI(14) | 50.1 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.054 |
-| MACD Signal | 0.016 |
-| MACD Histogram | 0.038 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DSE |
-| pe | 35.01 |
-| pb | 1.53 |
-| roe | 6.54 |
-| roe_pct_rank | 39 |
-| roa | 2.11 |
-| roa_pct_rank | 37 |
-| eps | 684 |
-| bvps | 15640.53 |
-| beta | 0.77 |
-| dividend | 700 |
-| yield | 0.029535864978902954 |
-| pe_pct_rank | 98 |
-| pb_pct_rank | 60 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime            | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DSE: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                                | 2026-04-21T14:10:04    | /2026/04/dse-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet-741-1431223.htm                        |
-| DSE: Thông báo của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh về việc giao dịch chứng khoán thay đổi đăng ký niêm yế… | 2026-04-21T00:00:00    | /2026/04/dse-thong-bao-cua-so-giao-dich-chung-khoan-thanh-pho-ho-chi-minh-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky… |
-| DNSE nối tiếp đà tăng trưởng doanh thu và dư nợ margin                                                                    | 2026-04-18T10:25:47.39 | /2026/04/dnse-noi-tiep-da-tang-truong-doanh-thu-va-du-no-margin-737-1429717.htm                                           |
-| DSE: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-17T18:39:00    | /2026/04/dse-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429651.htm                                                           |
-| DSE: BCTC Tóm tắt năm 2026                                                                                                | 2026-04-17T00:00:00    | /2026/04/dse-bctc-tom-tat-nam-2026-737-1429667.htm                                                                        |
-| DSE: BCTC quý 1 năm 2026                                                                                                  | 2026-04-17T00:00:00    | /2026/04/dse-bctc-quy-1-nam-2026-737-1430182.htm                                                                          |
-| DSE: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan và hợp đồng nguyên tắc                              | 2026-04-15T11:01:43    | /2026/04/dse-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-co-lien-quan-va-hop-dong-nguyen-tac-737-1427875.htm      |
-| DSE: Quyết định về việc thay đổi đăng ký niêm yết                                                                         | 2026-04-15T10:40:32    | /2026/04/dse-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1427831.htm                                                 |
-| DSE: Quyết định của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh về việc thay đổi đăng ký niêm yết cổ phiếu DSE         | 2026-04-15T00:00:00    | /2026/04/dse-quyet-dinh-cua-so-giao-dich-chung-khoan-thanh-pho-ho-chi-minh-ve-viec-thay-doi-dang-ky-niem-yet-co-phieu-ds… |
-| DSE: Nghị quyết Hội đồng quản trị thông qua việc chấp thuận giao dịch với các bên có liên quan                            | 2026-04-14T00:00:00    | /2026/04/dse-nghi-quyet-hoi-dong-quan-tri-thong-qua-viec-chap-thuan-giao-dich-voi-cac-ben-co-lien-quan-737-1427663.htm    |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DSE      | 2026-03-25 00:00:00 |  23.75 |  24.1  | 23.5  |   23.6  |   300400 |
-| DSE      | 2026-03-26 00:00:00 |  23.5  |  23.5  | 23.15 |   23.2  |   231700 |
-| DSE      | 2026-03-27 00:00:00 |  23.2  |  24.25 | 23.2  |   24.05 |   353300 |
-| DSE      | 2026-03-30 00:00:00 |  23.7  |  23.7  | 23    |   23.25 |   400100 |
-| DSE      | 2026-03-31 00:00:00 |  23.25 |  23.6  | 23.25 |   23.5  |   207100 |
-| DSE      | 2026-04-01 00:00:00 |  23.7  |  24.1  | 23.7  |   23.75 |   353100 |
-| DSE      | 2026-04-02 00:00:00 |  23.75 |  23.75 | 23.2  |   23.4  |   215300 |
-| DSE      | 2026-04-03 00:00:00 |  23.4  |  23.4  | 23    |   23    |   260500 |
-| DSE      | 2026-04-06 00:00:00 |  23    |  23.25 | 22.85 |   23    |   206400 |
-| DSE      | 2026-04-07 00:00:00 |  23    |  23.1  | 22.85 |   23    |   213700 |
-| DSE      | 2026-04-08 00:00:00 |  23.75 |  24.25 | 23.7  |   24.25 |   471700 |
-| DSE      | 2026-04-09 00:00:00 |  24.25 |  24.25 | 23.6  |   23.75 |   180700 |
-| DSE      | 2026-04-10 00:00:00 |  23.75 |  24.3  | 23.7  |   23.85 |   505200 |
-| DSE      | 2026-04-13 00:00:00 |  23.8  |  24    | 23.6  |   23.9  |   426800 |
-| DSE      | 2026-04-14 00:00:00 |  24.1  |  24.45 | 23.9  |   23.9  |   436400 |
-| DSE      | 2026-04-15 00:00:00 |  24.1  |  24.3  | 23.9  |   23.9  |   404700 |
-| DSE      | 2026-04-16 00:00:00 |  24    |  24    | 23.5  |   23.7  |   412000 |
-| DSE      | 2026-04-17 00:00:00 |  23.7  |  23.9  | 23.6  |   23.85 |   447000 |
-| DSE      | 2026-04-20 00:00:00 |  23.85 |  24    | 23.75 |   23.95 |   399500 |
-| DSE      | 2026-04-21 00:00:00 |  23.95 |  24.15 | 23.7  |   23.7  |   388400 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DSE      | 2026-04-21 10:20:15 |   23.9  |      100 | Sell         | 466096827 |
-| DSE      | 2026-04-21 10:20:15 |   23.9  |      300 | Sell         | 466096828 |
-| DSE      | 2026-04-21 10:20:42 |   23.85 |     3200 | Sell         | 466098129 |
-| DSE      | 2026-04-21 10:20:47 |   23.85 |     4200 | Sell         | 466098291 |
-| DSE      | 2026-04-21 10:20:59 |   23.85 |     2200 | Buy          | 466098697 |
-| DSE      | 2026-04-21 10:20:59 |   23.85 |     1000 | Buy          | 466098698 |
-| DSE      | 2026-04-21 10:21:04 |   23.85 |      500 | Buy          | 466098931 |
-| DSE      | 2026-04-21 10:21:13 |   23.85 |     2800 | Buy          | 466099316 |
-| DSE      | 2026-04-21 10:21:31 |   23.9  |      400 | Buy          | 466100083 |
-| DSE      | 2026-04-21 10:21:31 |   23.9  |      100 | Buy          | 466100084 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

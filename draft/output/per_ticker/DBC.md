@@ -1,133 +1,46 @@
 # DBC — DBC
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DBC |
-| exchange | HOSE |
-| market_cap | 8890420007700 |
-| 52w_high | 31250 |
-| 52w_high_date | 2025-08-12 |
-| 52w_low | 22000 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 1.533 |
-| dividend | 0 |
-| beta | 0.8 |
-| eps | 4266 |
-| eps_forward | 8.88595026161002 |
-| bvps | 20966 |
-| pe | 5.45 |
-| pb | 1.11 |
-| price_chg_1m | -0.65 |
-| price_chg_ytd | -2.45 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 23.1 |
-| EMA20 | 23.34 |
-| EMA50 | 24.24 |
-| RSI(14) | 45.5 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.225 |
-| MACD Signal | -0.349 |
-| MACD Histogram | 0.124 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DBC |
-| pe | 5.45 |
-| pb | 1.11 |
-| roe | 20.31 |
-| roe_pct_rank | 69 |
-| roa | 10.01 |
-| roa_pct_rank | 68 |
-| eps | 4266 |
-| bvps | 20966 |
-| beta | 0.8 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 33 |
-| pb_pct_rank | 47 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                | publishtime            | url                                                                                                          |
-|:-------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------|
-| DBC: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-15T11:02:44    | /2026/04/dbc-bao-cao-phat-trien-ben-vung-nam-2025-830-1427876.htm                                            |
-| DBC: Báo cáo thường niên năm 2025                                                    | 2026-04-15T11:01:19    | /2026/04/dbc-bao-cao-thuong-nien-nam-2025-737-1427874.htm                                                    |
-| DBC - Tăng trưởng giữa biến động (Kỳ 2)                                              | 2026-04-09T11:02:00    | /2026/04/dbc-tang-truong-giua-bien-dong-ky-2-582-1423775.htm                                                 |
-| DBC - Tăng trưởng giữa biến động (Kỳ 1)                                              | 2026-04-07T09:43:00.68 | /2026/04/dbc-tang-truong-giua-bien-dong-ky-1-582-1415421.htm                                                 |
-| DBC: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                    | 2026-04-06T18:01:34    | /2026/04/dbc-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1423698.htm                                    |
-| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                         | 2026-03-31T13:26:47    | /2026/03/dbc-cbtt-to-chuc-dhdcd-thuong-nien-nam-2026-737-1419470.htm                                         |
-| Dabaco kỷ niệm 30 năm thành lập và ra mắt bộ nhận diện, tầm nhìn mới                 | 2026-03-30T08:02:00    | /2026/03/dabaco-ky-niem-30-nam-thanh-lap-va-ra-mat-bo-nhan-dien-tam-nhin-moi-737-1418253.htm                 |
-| DBC: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước | 2026-03-27T16:36:35    | /2026/03/dbc-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1417740.htm |
-| DBC: BCTC Tóm tắt năm 2025                                                           | 2026-03-27T00:00:00    | /2026/03/dbc-bctc-tom-tat-nam-2025-737-1417909.htm                                                           |
-| DBC: BCTC Tóm tắt Hợp nhất năm 2025                                                  | 2026-03-27T00:00:00    | /2026/03/dbc-bctc-tom-tat-hop-nhat-nam-2025-737-1417910.htm                                                  |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DBC      | 2026-03-25 00:00:00 |  22.6  |  23.4  | 22.55 |   23.3  |  3045100 |
-| DBC      | 2026-03-26 00:00:00 |  23.1  |  23.35 | 22.8  |   22.9  |  1442700 |
-| DBC      | 2026-03-27 00:00:00 |  23    |  23.3  | 22.85 |   23.2  |  1756100 |
-| DBC      | 2026-03-30 00:00:00 |  22.7  |  23.4  | 22.7  |   23.15 |  2219800 |
-| DBC      | 2026-03-31 00:00:00 |  23.3  |  23.35 | 23    |   23.2  |  1943800 |
-| DBC      | 2026-04-01 00:00:00 |  23.5  |  23.65 | 23.3  |   23.3  |  2944400 |
-| DBC      | 2026-04-02 00:00:00 |  23.4  |  23.4  | 23    |   23.15 |  1729400 |
-| DBC      | 2026-04-03 00:00:00 |  23.35 |  23.35 | 22.8  |   22.8  |  2301300 |
-| DBC      | 2026-04-06 00:00:00 |  22.7  |  22.9  | 22.3  |   22.3  |  2165200 |
-| DBC      | 2026-04-07 00:00:00 |  22.5  |  22.65 | 22.3  |   22.4  |   852100 |
-| DBC      | 2026-04-08 00:00:00 |  22.95 |  23.4  | 22.7  |   23.4  |  3170900 |
-| DBC      | 2026-04-09 00:00:00 |  23.4  |  23.4  | 23    |   23.05 |  3184400 |
-| DBC      | 2026-04-10 00:00:00 |  23.3  |  23.45 | 23.1  |   23.25 |  2144000 |
-| DBC      | 2026-04-13 00:00:00 |  23    |  23.15 | 22.9  |   23.05 |  2480500 |
-| DBC      | 2026-04-14 00:00:00 |  23.35 |  24.3  | 23.05 |   24.2  |  5644000 |
-| DBC      | 2026-04-15 00:00:00 |  24.2  |  24.25 | 23.65 |   23.7  |  3364400 |
-| DBC      | 2026-04-16 00:00:00 |  23.6  |  23.75 | 23.15 |   23.3  |  3252400 |
-| DBC      | 2026-04-17 00:00:00 |  23.4  |  23.8  | 23.2  |   23.3  |  2013800 |
-| DBC      | 2026-04-20 00:00:00 |  23.3  |  23.45 | 23.25 |   23.25 |  1595600 |
-| DBC      | 2026-04-21 00:00:00 |  23.45 |  23.45 | 23.1  |   23.1  |  1698100 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      100 | Sell         | 466460317 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      700 | Sell         | 466460323 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |     2000 | Sell         | 466460319 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |     1000 | Sell         | 466460321 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      200 | Sell         | 466460322 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      200 | Sell         | 466460320 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      300 | Sell         | 466460324 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      500 | Sell         | 466460325 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |      300 | Sell         | 466460326 |
-| DBC      | 2026-04-21 14:22:50 |   23.15 |     2000 | Sell         | 466460327 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,133 +1,46 @@
 # VPI — VPI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VPI |
-| exchange | HOSE |
-| market_cap | 19491019239300 |
-| 52w_high | 61500 |
-| 52w_high_date | 2026-04-17 |
-| 52w_low | 48400 |
-| 52w_low_date | 2025-05-15 |
-| foreign_ownership | 9.9047 |
-| dividend | 0 |
-| beta | 0.46 |
-| eps | 1236 |
-| eps_forward | 55.59721282393606 |
-| bvps | 17122 |
-| pe | 49.20 |
-| pb | 3.55 |
-| price_chg_1m | 5.00 |
-| price_chg_ytd | 15.34 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 60.9 |
-| EMA20 | 58.66 |
-| EMA50 | 57.95 |
-| RSI(14) | 63.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.702 |
-| MACD Signal | 0.305 |
-| MACD Histogram | 0.397 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VPI |
-| pe | 49.20 |
-| pb | 3.55 |
-| roe | 7.48 |
-| roe_pct_rank | 41 |
-| roa | 3.04 |
-| roa_pct_rank | 41 |
-| eps | 1236 |
-| bvps | 17122 |
-| beta | 0.46 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VPI: CBTT giao dịch liên quan trái phiếu                                                                                  | 2026-04-20T16:39:59 | /2026/04/vpi-cbtt-giao-dich-lien-quan-trai-phieu-785-1430573.htm                                                          |
-| VPI: Báo cáo thường niên năm 2025                                                                                         | 2026-04-17T19:39:05 | /2026/04/vpi-bao-cao-thuong-nien-nam-2025-737-1429672.htm                                                                 |
-| Văn Phú tổ chức triển lãm bất động sản “Muôn vị nhân sinh” tại Thành phố Hồ Chí Minh                                      | 2026-04-17T14:47:00 | /2026/04/van-phu-to-chuc-trien-lam-bat-dong-san-muon-vi-nhan-sinh-tai-thanh-pho-ho-chi-minh-4222-1429135.htm              |
-| VPI: Nghị quyết HĐQT số 1304 ngày 13/04/2026                                                                              | 2026-04-14T17:31:46 | /2026/04/vpi-nghi-quyet-hdqt-so-1304-ngay-13-04-2026-737-1427618.htm                                                      |
-| VPI: Thông báo thay đổi nhân sự                                                                                           | 2026-04-03T18:12:40 | /2026/04/vpi-thong-bao-thay-doi-nhan-su-214-1422869.htm                                                                   |
-| VPI: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                                  | 2026-04-03T14:21:22 | /2026/04/vpi-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422553.htm                                                          |
-| VPI: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 so với cùng kỳ năm trước                                        | 2026-04-01T16:30:34 | /2026/04/vpi-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1421018.htm                |
-| VPI: BCTC năm 2025                                                                                                        | 2026-03-31T00:00:00 | /2026/03/vpi-bctc-nam-2025-737-1420923.htm                                                                                |
-| VPI: BCTC Hợp nhất năm 2025                                                                                               | 2026-03-31T00:00:00 | /2026/03/vpi-bctc-hop-nhat-nam-2025-737-1420925.htm                                                                       |
-| Văn Phú khởi công dự án Vlasta Premier - Phú Hội: Kiến tạo chuẩn sống tinh hoa tại “giao lộ di sản – hiện đại” trung tâm… | 2026-03-30T10:22:00 | /2026/03/van-phu-khoi-cong-du-an-vlasta-premier-phu-hoi-kien-tao-chuan-song-tinh-hoa-tai-giao-lo-di-san-8211-hien-dai-tr… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPI      | 2026-03-25 00:00:00 |   57.9 |   58.5 |  57.2 |    57.9 |  2387600 |
-| VPI      | 2026-03-26 00:00:00 |   58.3 |   58.6 |  56   |    56.9 |  1240000 |
-| VPI      | 2026-03-27 00:00:00 |   57   |   57.6 |  55.5 |    57.5 |  1030500 |
-| VPI      | 2026-03-30 00:00:00 |   57.1 |   57.6 |  55.9 |    57.5 |  2680200 |
-| VPI      | 2026-03-31 00:00:00 |   57.5 |   57.5 |  56.7 |    57.5 |  1415700 |
-| VPI      | 2026-04-01 00:00:00 |   57.5 |   58.6 |  57.4 |    58.4 |  1262200 |
-| VPI      | 2026-04-02 00:00:00 |   58.4 |   58.5 |  57.9 |    58.2 |  1104000 |
-| VPI      | 2026-04-03 00:00:00 |   58   |   58.6 |  57.9 |    58   |  1088500 |
-| VPI      | 2026-04-06 00:00:00 |   58   |   58.8 |  57.5 |    57.6 |   818200 |
-| VPI      | 2026-04-07 00:00:00 |   57.5 |   57.6 |  55.9 |    57.6 |   898900 |
-| VPI      | 2026-04-08 00:00:00 |   58   |   58.1 |  57.5 |    58   |   753800 |
-| VPI      | 2026-04-09 00:00:00 |   57.7 |   57.7 |  56   |    56.9 |   811800 |
-| VPI      | 2026-04-10 00:00:00 |   56.9 |   57   |  56   |    56.5 |   841000 |
-| VPI      | 2026-04-13 00:00:00 |   56.5 |   57.2 |  56   |    57   |   738300 |
-| VPI      | 2026-04-14 00:00:00 |   56.9 |   58.5 |  56.9 |    58.3 |   833300 |
-| VPI      | 2026-04-15 00:00:00 |   58.3 |   59   |  58   |    58.8 |   633400 |
-| VPI      | 2026-04-16 00:00:00 |   58.8 |   59.2 |  58.6 |    59   |   635000 |
-| VPI      | 2026-04-17 00:00:00 |   58.7 |   61.6 |  58.5 |    61.5 |  5037500 |
-| VPI      | 2026-04-20 00:00:00 |   61.1 |   61.5 |  60.8 |    60.8 |  5706700 |
-| VPI      | 2026-04-21 00:00:00 |   60.6 |   62.1 |  60.5 |    60.9 |  8218300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPI      | 2026-04-21 13:58:07 |    61.2 |     3600 | Buy          | 466369209 |
-| VPI      | 2026-04-21 13:58:07 |    61.2 |     2400 | Buy          | 466369210 |
-| VPI      | 2026-04-21 13:58:10 |    61.2 |     3500 | Buy          | 466369369 |
-| VPI      | 2026-04-21 13:58:10 |    61.2 |     2500 | Buy          | 466369368 |
-| VPI      | 2026-04-21 13:58:12 |    61.2 |     4200 | Buy          | 466369551 |
-| VPI      | 2026-04-21 13:58:12 |    61.2 |     1800 | Buy          | 466369550 |
-| VPI      | 2026-04-21 13:58:14 |    61.2 |     1500 | Buy          | 466369629 |
-| VPI      | 2026-04-21 13:58:17 |    61.3 |     5000 | Buy          | 466369743 |
-| VPI      | 2026-04-21 13:58:19 |    61.4 |     6000 | Buy          | 466369791 |
-| VPI      | 2026-04-21 13:58:21 |    61.4 |     5500 | Buy          | 466369887 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

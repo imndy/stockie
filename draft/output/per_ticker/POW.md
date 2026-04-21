@@ -1,133 +1,46 @@
 # POW — POW
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:40  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | POW |
-| exchange | HOSE |
-| market_cap | 40188778512800 |
-| 52w_high | 16550 |
-| 52w_high_date | 2026-03-03 |
-| 52w_low | 9724 |
-| 52w_low_date | 2025-04-28 |
-| foreign_ownership | 3.0013 |
-| dividend | 0 |
-| beta | 0.72 |
-| eps | 988 |
-| eps_forward | 32.603575236158974 |
-| bvps | 15835 |
-| pe | 13.31 |
-| pb | 0.83 |
-| price_chg_1m | -0.38 |
-| price_chg_ytd | 30.82 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 13.1 |
-| EMA20 | 13.11 |
-| EMA50 | 13.28 |
-| RSI(14) | 48.7 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.066 |
-| MACD Signal | -0.135 |
-| MACD Histogram | 0.069 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | POW |
-| pe | 13.31 |
-| pb | 0.83 |
-| roe | 7.98 |
-| roe_pct_rank | 43 |
-| roa | 2.78 |
-| roa_pct_rank | 40 |
-| eps | 988 |
-| bvps | 15835 |
-| beta | 0.72 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 52 |
-| pb_pct_rank | 35 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime            | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| POW: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                           | 2026-04-10T18:46:51    | /2026/04/pow-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1426461.htm                       |
-| POW: Báo cáo thường niên năm 2025                                                                     | 2026-04-06T16:00:18    | /2026/04/pow-bao-cao-thuong-nien-nam-2025-737-1423540.htm                                                                 |
-| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                                     | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                                  |
-| POW: Giải trình một số chỉ tiêu trên BCTC năm 2025 sau kiểm toán so với cùng kỳ năm trước             | 2026-03-20T17:49:26    | /2026/03/pow-giai-trinh-mot-so-chi-tieu-tren-bctc-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1414610.htm         |
-| POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414591.htm                                                                       |
-| POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414592.htm                                                                       |
-| POW: BCTC năm 2025                                                                                    | 2026-03-20T00:00:00    | /2026/03/pow-bctc-nam-2025-737-1414593.htm                                                                                |
-| POW: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                            | 2026-03-13T19:25:48    | /2026/03/pow-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet-741-1412247.htm                        |
-| POW: Nghị quyết HĐQT về việc chấp thuận giao dịch với CTCP Dịch vụ kỹ thuật Điện lực Dầu khí Việt Nam | 2026-03-13T18:13:58    | /2026/03/pow-nghi-quyet-hdqt-ve-viec-chap-thuan-giao-dich-voi-ctcp-dich-vu-ky-thuat-dien-luc-dau-khi-viet-nam-737-141223… |
-| POW: Báo cáo thay đổi phương án sử dụng số tiền thu được từ đợt chào bán                              | 2026-03-13T18:10:47    | /2026/03/pow-bao-cao-thay-doi-phuong-an-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-739-1412223.htm                          |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| POW      | 2026-03-25 00:00:00 |  12.85 |  13.4  | 12.8  |   13.35 | 17316000 |
-| POW      | 2026-03-26 00:00:00 |  13.35 |  13.35 | 13.05 |   13.1  |  7804900 |
-| POW      | 2026-03-27 00:00:00 |  13.05 |  13.15 | 12.9  |   13.05 | 12089900 |
-| POW      | 2026-03-30 00:00:00 |  12.95 |  13.25 | 12.85 |   13.05 | 13360300 |
-| POW      | 2026-03-31 00:00:00 |  13.15 |  13.15 | 12.95 |   13    |  8543100 |
-| POW      | 2026-04-01 00:00:00 |  13.1  |  13.15 | 12.95 |   13.05 | 10934900 |
-| POW      | 2026-04-02 00:00:00 |  13.05 |  13.1  | 12.75 |   12.85 | 11135300 |
-| POW      | 2026-04-03 00:00:00 |  12.9  |  12.95 | 12.6  |   12.65 | 11310100 |
-| POW      | 2026-04-06 00:00:00 |  12.65 |  12.75 | 12.4  |   12.4  |  8428500 |
-| POW      | 2026-04-07 00:00:00 |  12.45 |  12.65 | 12.35 |   12.5  |  5744100 |
-| POW      | 2026-04-08 00:00:00 |  12.8  |  13    | 12.65 |   13    | 11313600 |
-| POW      | 2026-04-09 00:00:00 |  12.9  |  13.1  | 12.75 |   13    |  8734400 |
-| POW      | 2026-04-10 00:00:00 |  13.05 |  13.2  | 13    |   13    | 13155900 |
-| POW      | 2026-04-13 00:00:00 |  13    |  13.3  | 12.95 |   13.1  | 10297600 |
-| POW      | 2026-04-14 00:00:00 |  13.25 |  13.3  | 13    |   13.15 |  9614400 |
-| POW      | 2026-04-15 00:00:00 |  13.2  |  13.25 | 13.05 |   13.05 | 10253100 |
-| POW      | 2026-04-16 00:00:00 |  13.25 |  13.6  | 13.2  |   13.35 | 24624300 |
-| POW      | 2026-04-17 00:00:00 |  13.4  |  13.4  | 13.2  |   13.25 |  6797200 |
-| POW      | 2026-04-20 00:00:00 |  13.3  |  13.35 | 13.1  |   13.15 |  7217800 |
-| POW      | 2026-04-21 00:00:00 |  13.15 |  13.3  | 13.1  |   13.1  |  7674300 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| POW      | 2026-04-21 14:26:24 |   13.15 |    11900 | Sell         | 466478372 |
-| POW      | 2026-04-21 14:26:29 |   13.15 |      500 | Sell         | 466478877 |
-| POW      | 2026-04-21 14:26:29 |   13.15 |     2800 | Sell         | 466478925 |
-| POW      | 2026-04-21 14:26:42 |   13.15 |      500 | Sell         | 466479867 |
-| POW      | 2026-04-21 14:26:44 |   13.15 |      200 | Sell         | 466480000 |
-| POW      | 2026-04-21 14:26:50 |   13.15 |      100 | Sell         | 466480620 |
-| POW      | 2026-04-21 14:26:53 |   13.15 |     3000 | Sell         | 466480833 |
-| POW      | 2026-04-21 14:26:55 |   13.15 |      500 | Sell         | 466480930 |
-| POW      | 2026-04-21 14:26:56 |   13.15 |    10000 | Sell         | 466481022 |
-| POW      | 2026-04-21 14:27:00 |   13.15 |      100 | Sell         | 466481308 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,133 +1,46 @@
 # FRT — FRT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 21/04/2026 20:39  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FRT |
-| exchange | HOSE |
-| market_cap | 25715569535000 |
-| 52w_high | 175500 |
-| 52w_high_date | 2026-02-02 |
-| 52w_low | 123000 |
-| 52w_low_date | 2025-10-03 |
-| foreign_ownership | 32.3619 |
-| dividend | 0 |
-| beta | 0.84 |
-| eps | 5302 |
-| eps_forward | 16.56871567182956 |
-| bvps | 30176 |
-| pe | 28.44 |
-| pb | 5.00 |
-| price_chg_1m | 1.62 |
-| price_chg_ytd | 25.02 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 151.0 |
-| EMA20 | 152.3 |
-| EMA50 | 154.01 |
-| RSI(14) | 46.3 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -1.4 |
-| MACD Signal | -1.513 |
-| MACD Histogram | 0.114 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | FRT |
-| pe | 28.44 |
-| pb | 5.00 |
-| roe | 27.12 |
-| roe_pct_rank | 83 |
-| roa | 4.02 |
-| roa_pct_rank | 45 |
-| eps | 5302 |
-| bvps | 30176 |
-| beta | 0.84 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 84 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime         | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| FRT: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                     | 2026-04-20T10:20:24 | /2026/04/frt-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1430013.htm                                     |
-| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động       | 2026-04-17T17:12:00 | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm          |
-| FRT: Báo cáo thường niên năm 2025                                                              | 2026-04-14T17:23:45 | /2026/04/frt-bao-cao-thuong-nien-nam-2025-737-1427597.htm                                                              |
-| Nhóm Dragon Capital trở thành cổ đông lớn FPT Retail                                           | 2026-04-03T20:02:00 | /2026/04/nhom-dragon-capital-tro-thanh-co-dong-lon-fpt-retail-739-1422895.htm                                          |
-| FRT: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                                  | 2026-04-02T18:32:13 | /2026/04/frt-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq-739-1421977.htm                                  |
-| FRT: Giải trình biến động LNST BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 2026-03-26T17:04:45 | /2026/03/frt-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1417054.htm |
-| FRT: BCTC năm 2025                                                                             | 2026-03-26T00:00:00 | /2026/03/frt-bctc-nam-2025-737-1417101.htm                                                                             |
-| FRT: BCTC Hợp nhất năm 2025                                                                    | 2026-03-26T00:00:00 | /2026/03/frt-bctc-hop-nhat-nam-2025-737-1417103.htm                                                                    |
-| FRT đặt mục tiêu tăng lãi 27% sau năm lãi đậm, dự kiến kinh doanh thêm drone                   | 2026-03-24T16:45:00 | /2026/03/frt-dat-muc-tieu-tang-lai-27-sau-nam-lai-dam-du-kien-kinh-doanh-them-drone-737-1415623.htm                    |
-| FRT: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-03-24T09:00:09 | /2026/03/frt-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1415441.htm                                                   |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FRT      | 2026-03-25 00:00:00 |  158   |  158.6 | 155.3 |   158.6 |   377300 |
-| FRT      | 2026-03-26 00:00:00 |  158.4 |  158.4 | 154.2 |   158   |   353800 |
-| FRT      | 2026-03-27 00:00:00 |  154.9 |  162.5 | 154.9 |   162.5 |   704800 |
-| FRT      | 2026-03-30 00:00:00 |  159.1 |  159.1 | 156.2 |   158   |   630300 |
-| FRT      | 2026-03-31 00:00:00 |  157.6 |  157.6 | 153.9 |   157   |   477400 |
-| FRT      | 2026-04-01 00:00:00 |  158   |  158   | 154.5 |   157   |   163300 |
-| FRT      | 2026-04-02 00:00:00 |  154.2 |  155.7 | 153.8 |   154   |   185600 |
-| FRT      | 2026-04-03 00:00:00 |  154   |  155   | 148.7 |   152   |   454000 |
-| FRT      | 2026-04-06 00:00:00 |  153   |  153   | 147.5 |   148   |   273900 |
-| FRT      | 2026-04-07 00:00:00 |  148   |  149.8 | 146.7 |   149.5 |   165300 |
-| FRT      | 2026-04-08 00:00:00 |  151.8 |  155   | 151.3 |   153.1 |   691600 |
-| FRT      | 2026-04-09 00:00:00 |  152   |  153   | 150   |   150   |   223900 |
-| FRT      | 2026-04-10 00:00:00 |  151   |  152.4 | 149.1 |   152   |   412200 |
-| FRT      | 2026-04-13 00:00:00 |  151.5 |  151.6 | 149   |   149   |   183800 |
-| FRT      | 2026-04-14 00:00:00 |  150.8 |  151.5 | 150   |   150.5 |    78500 |
-| FRT      | 2026-04-15 00:00:00 |  152   |  152   | 148.7 |   151   |   271900 |
-| FRT      | 2026-04-16 00:00:00 |  150   |  151.5 | 149   |   151   |   330700 |
-| FRT      | 2026-04-17 00:00:00 |  150.8 |  156.7 | 150.8 |   152.1 |   814200 |
-| FRT      | 2026-04-20 00:00:00 |  153   |  153   | 150.1 |   150.8 |   201100 |
-| FRT      | 2026-04-21 00:00:00 |  150.5 |  151   | 149   |   151   |   420700 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FRT      | 2026-04-21 14:12:08 |   149.1 |      400 | Sell         | 466419158 |
-| FRT      | 2026-04-21 14:12:19 |   149.2 |      200 | Buy          | 466419840 |
-| FRT      | 2026-04-21 14:12:42 |   149.1 |      100 | Sell         | 466420986 |
-| FRT      | 2026-04-21 14:13:12 |   149.1 |      500 | Sell         | 466422416 |
-| FRT      | 2026-04-21 14:13:49 |   149.2 |      400 | Buy          | 466424279 |
-| FRT      | 2026-04-21 14:13:49 |   149.2 |      100 | Buy          | 466424278 |
-| FRT      | 2026-04-21 14:13:56 |   149.2 |      100 | Buy          | 466424504 |
-| FRT      | 2026-04-21 14:13:56 |   149.2 |      200 | Buy          | 466424506 |
-| FRT      | 2026-04-21 14:13:57 |   149.2 |      100 | Buy          | 466424549 |
-| FRT      | 2026-04-21 14:13:57 |   149.2 |      100 | Buy          | 466424550 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

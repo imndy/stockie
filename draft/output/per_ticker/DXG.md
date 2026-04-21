@@ -1,133 +1,46 @@
 # DXG — DXG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:34  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DXG |
-| exchange | HOSE |
-| market_cap | 16352047578300 |
-| 52w_high | 24200 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 11951 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 20.3886 |
-| dividend | 0 |
-| beta | 1.06 |
-| eps | 250 |
-| eps_forward | 13.926671432683113 |
-| bvps | 18754 |
-| pe | 60.01 |
-| pb | 0.80 |
-| price_chg_1m | 5.00 |
-| price_chg_ytd | 20.42 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 14.7 |
-| EMA20 | 14.75 |
-| EMA50 | 14.9 |
-| RSI(14) | 49.9 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.17 |
-| MACD Signal | 0.136 |
-| MACD Histogram | 0.034 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | DXG |
-| pe | 60.01 |
-| pb | 0.80 |
-| roe | 3.19 |
-| roe_pct_rank | 32 |
-| roa | 0.68 |
-| roa_pct_rank | 30 |
-| eps | 250 |
-| bvps | 18754 |
-| beta | 1.06 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 33 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DXG: Nghị quyết HĐQT về việc giao và ủy quyền cho TGĐ quyết định và thực hiện thủ tục thay đổi tên công ty                | 2026-04-20T09:25:41     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-giao-va-uy-quyen-cho-tgd-quyet-dinh-va-thuc-hien-thu-tuc-thay-doi-ten-cong-ty-737-1… |
-| DXG: Thông báo thay đổi nhân sự - HĐQT                                                                                    | 2026-04-17T19:22:40     | /2026/04/dxg-thong-bao-thay-doi-nhan-su-hdqt-214-1429648.htm                                                              |
-| DXG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                                  | 2026-04-17T19:22:40     | /2026/04/dxg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429649.htm                                                          |
-| DXG: Nghị quyết HĐQT về việc thông qua ký kết thực hiện, hợp đồng, giao dịch với các bên liên quan                        | 2026-04-17T19:14:29     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-thong-qua-ky-ket-thuc-hien-hop-dong-giao-dich-voi-cac-ben-lien-quan-737-1429643.htm  |
-| DXG: Nghị quyết HĐQT về việc thay đổi nhân sự UBKT                                                                        | 2026-04-17T19:14:29     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-thay-doi-nhan-su-ubkt-737-1429644.htm                                                |
-| DXG: Thông báo thay đổi nhân sự - Chủ tịch UBKT                                                                           | 2026-04-17T19:14:28     | /2026/04/dxg-thong-bao-thay-doi-nhan-su-chu-tich-ubkt-214-1429645.htm                                                     |
-| DXG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-17T16:52:07     | /2026/04/dxg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429408.htm                                            |
-| ĐHĐCĐ Đất Xanh 2026: Đặt mục tiêu doanh thu 5,000 tỷ, tái cấu trúc cho chiến lược tăng trưởng bền vững                    | 2026-04-17T14:12:00     | /2026/04/dhdcd-dat-xanh-2026-dat-muc-tieu-doanh-thu-5000-ty-tai-cau-truc-cho-chien-luoc-tang-truong-ben-vung-737-1429171… |
-| Ông Lương Trí Thìn: Đất Xanh đổi tên để thoát định vị “công ty dịch vụ”                                                   | 2026-04-17T11:25:44.737 | /2026/04/ong-luong-tri-thin-dat-xanh-doi-ten-de-thoat-dinh-vi-cong-ty-dich-vu-737-1429045.htm                             |
-| Đất Xanh kiện toàn bộ máy thượng tầng: Khi doanh nghiệp lớn chủ động xác lập chiến lược phát triển trong kỷ nguyên vươn … | 2026-04-16T19:28:21.627 | /2026/04/dat-xanh-kien-toan-bo-may-thuong-tang-khi-doanh-nghiep-lon-chu-dong-xac-lap-chien-luoc-phat-trien-trong-ky-nguy… |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXG      | 2026-03-25 00:00:00 |  13.9  |  14.25 | 13.75 |   14.15 | 20550300 |
-| DXG      | 2026-03-26 00:00:00 |  14.25 |  14.3  | 13.8  |   13.85 | 15497700 |
-| DXG      | 2026-03-27 00:00:00 |  13.8  |  14.8  | 13.8  |   14.6  | 41747300 |
-| DXG      | 2026-03-30 00:00:00 |  14.2  |  14.55 | 14.1  |   14.3  | 16998400 |
-| DXG      | 2026-03-31 00:00:00 |  14.45 |  14.7  | 14.3  |   14.55 | 21018600 |
-| DXG      | 2026-04-01 00:00:00 |  14.9  |  15.2  | 14.45 |   14.45 | 23266500 |
-| DXG      | 2026-04-02 00:00:00 |  14.35 |  14.5  | 14.15 |   14.45 | 13930300 |
-| DXG      | 2026-04-03 00:00:00 |  14.4  |  14.65 | 14.25 |   14.4  | 16404300 |
-| DXG      | 2026-04-06 00:00:00 |  14.4  |  14.6  | 13.8  |   13.85 | 14237200 |
-| DXG      | 2026-04-07 00:00:00 |  13.9  |  14.05 | 13.55 |   13.9  | 12241000 |
-| DXG      | 2026-04-08 00:00:00 |  14.4  |  14.85 | 14.25 |   14.85 | 27214700 |
-| DXG      | 2026-04-09 00:00:00 |  14.85 |  15.6  | 14.7  |   15.2  | 39864800 |
-| DXG      | 2026-04-10 00:00:00 |  15.55 |  15.6  | 15.1  |   15.25 | 19707500 |
-| DXG      | 2026-04-13 00:00:00 |  15    |  15.75 | 15    |   15.45 | 19029500 |
-| DXG      | 2026-04-14 00:00:00 |  15.7  |  15.7  | 15.3  |   15.35 | 14408100 |
-| DXG      | 2026-04-15 00:00:00 |  15.45 |  15.75 | 15.25 |   15.25 | 19492100 |
-| DXG      | 2026-04-16 00:00:00 |  15.25 |  15.25 | 14.8  |   15.15 | 15984900 |
-| DXG      | 2026-04-17 00:00:00 |  15.2  |  15.3  | 14.9  |   14.9  |  8748100 |
-| DXG      | 2026-04-20 00:00:00 |  14.95 |  15.15 | 14.9  |   15    |  8153900 |
-| DXG      | 2026-04-21 00:00:00 |  15    |  15.15 | 14.7  |   14.7  | 12584600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DXG      | 2026-04-21 14:28:56 |   14.75 |     5000 | Buy          | 466492588 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |     2700 | Buy          | 466492747 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |      100 | Buy          | 466492746 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |      700 | Buy          | 466492666 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |      400 | Buy          | 466492688 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |     4200 | Buy          | 466492744 |
-| DXG      | 2026-04-21 14:28:57 |   14.75 |      200 | Buy          | 466492682 |
-| DXG      | 2026-04-21 14:28:58 |   14.75 |      100 | Buy          | 466492888 |
-| DXG      | 2026-04-21 14:28:58 |   14.75 |     2100 | Buy          | 466492819 |
-| DXG      | 2026-04-21 14:28:58 |   14.75 |      100 | Buy          | 466492817 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

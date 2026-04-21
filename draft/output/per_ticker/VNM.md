@@ -1,6 +1,6 @@
 # VNM — VNM
 **Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 19:44  |  🗂 Quarterly: —
+> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: —
 
 ---
 
@@ -341,126 +341,39 @@
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VNM |
-| exchange | HOSE |
-| market_cap | 128741255412000 |
-| 52w_high | 73400 |
-| 52w_high_date | 2026-01-20 |
-| 52w_low | 51704 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 48.9691 |
-| dividend | 4850 |
-| beta | 0.53 |
-| eps | 4503 |
-| eps_forward | 13.078177731372103 |
-| bvps | 16499 |
-| pe | 13.66 |
-| pb | 3.73 |
-| price_chg_1m | 2.67 |
-| price_chg_ytd | 17.67 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.07873376623376624 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 61.6 |
-| EMA20 | 61.74 |
-| EMA50 | 62.87 |
-| RSI(14) | 47.6 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.409 |
-| MACD Signal | -0.584 |
-| MACD Histogram | 0.176 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VNM |
-| pe | 13.66 |
-| pb | 3.73 |
-| roe | 26.65 |
-| roe_pct_rank | 82 |
-| roa | 17.37 |
-| roa_pct_rank | 94 |
-| eps | 4503 |
-| bvps | 16499 |
-| beta | 0.53 |
-| dividend | 4850 |
-| yield | 0.07873376623376624 |
-| pe_pct_rank | 53 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                      | publishtime             | url                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD | 2026-04-08T17:41:11     | /2026/04/vnm-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victory-pte-ltd-739-1… |
-| VNM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD       | 2026-04-08T17:41:10     | /2026/04/vnm-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-platinum-victory-pte-ltd-739-1425185… |
-| Phân tích kỹ thuật phiên chiều 07/04: Giằng co mạnh                                                        | 2026-04-07T13:09:50.19  | /2026/04/phan-tich-ky-thuat-phien-chieu-0704-giang-co-manh-585-1424001.htm                                                |
-| Vinamilk đặt kế hoạch lãi sau thuế hợp nhất hơn 9.8 ngàn tỷ                                                | 2026-04-01T13:15:25.967 | /2026/04/vinamilk-dat-ke-hoach-lai-sau-thue-hop-nhat-hon-98-ngan-ty-737-1420640.htm                                       |
-| VNM: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                                          | 2026-04-01T10:10:26     | /2026/04/vnm-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-737-1420407.htm                                                 |
-| Trang trại bò sữa của VNM ở Tây Ninh tăng gấp đôi quy mô lên 16,000 con, dự kiến vận hành đầu 2028         | 2026-03-24T17:08:25     | /2026/03/trang-trai-bo-sua-cua-vnm-o-tay-ninh-tang-gap-doi-quy-mo-len-16000-con-du-kien-van-hanh-dau-2028-737-1415674.ht… |
-| Vinamilk tròn 50 tuổi sẽ làm gì?                                                                           | 2026-03-21T10:08:51.517 | /2026/03/vinamilk-tron-50-tuoi-se-lam-gi-737-1414710.htm                                                                  |
-| VNM: Báo cáo thường niên năm 2025                                                                          | 2026-03-20T17:05:31     | /2026/03/vnm-bao-cao-thuong-nien-nam-2025-737-1414540.htm                                                                 |
-| VNM ETF tiếp đà bán ròng trong tuần công bố review danh mục                                                | 2026-03-19T14:08:38.503 | /2026/03/vnm-etf-tiep-da-ban-rong-trong-tuan-cong-bo-review-danh-muc-3358-1413950.htm                                     |
-| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                       | 2026-03-18T11:02:00     | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VNM      | 2026-03-25 00:00:00 |   61.5 |   62.2 |  61.4 |    62.1 |  3445600 |
-| VNM      | 2026-03-26 00:00:00 |   62.1 |   62.1 |  61   |    61   |  2044000 |
-| VNM      | 2026-03-27 00:00:00 |   61   |   61.9 |  60.9 |    61.5 |  2137400 |
-| VNM      | 2026-03-30 00:00:00 |   60.6 |   61.5 |  60.2 |    60.6 |  4075600 |
-| VNM      | 2026-03-31 00:00:00 |   61   |   61.5 |  60.5 |    60.5 |  5323200 |
-| VNM      | 2026-04-01 00:00:00 |   61.3 |   62.2 |  61   |    61.3 |  5446200 |
-| VNM      | 2026-04-02 00:00:00 |   61.5 |   61.7 |  60.8 |    60.8 |  2855300 |
-| VNM      | 2026-04-03 00:00:00 |   61   |   61.7 |  60   |    60   |  3788600 |
-| VNM      | 2026-04-06 00:00:00 |   60   |   61   |  60   |    60.9 |  2587400 |
-| VNM      | 2026-04-07 00:00:00 |   60.9 |   61.2 |  60.3 |    61   |  1825200 |
-| VNM      | 2026-04-08 00:00:00 |   62.2 |   62.7 |  61.7 |    62.6 |  5568500 |
-| VNM      | 2026-04-09 00:00:00 |   61.8 |   62.1 |  61.4 |    61.8 |  2921000 |
-| VNM      | 2026-04-10 00:00:00 |   62.6 |   64   |  62.5 |    62.8 |  6158400 |
-| VNM      | 2026-04-13 00:00:00 |   62.4 |   62.8 |  62.2 |    62.8 |  3418300 |
-| VNM      | 2026-04-14 00:00:00 |   63.4 |   63.5 |  62   |    62   |  4247700 |
-| VNM      | 2026-04-15 00:00:00 |   62.1 |   62.6 |  61.2 |    61.3 |  4403200 |
-| VNM      | 2026-04-16 00:00:00 |   61.5 |   61.7 |  61.1 |    61.1 |  2272100 |
-| VNM      | 2026-04-17 00:00:00 |   61.3 |   62.7 |  61.3 |    61.3 |  3115500 |
-| VNM      | 2026-04-20 00:00:00 |   61.4 |   62.4 |  61.3 |    61.5 |  3251900 |
-| VNM      | 2026-04-21 00:00:00 |   61.9 |   62.7 |  61.5 |    61.6 |  5306600 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VNM      | 2026-04-21 14:24:10 |    61.7 |      100 | Sell         | 466466886 |
-| VNM      | 2026-04-21 14:24:10 |    61.7 |     2100 | Sell         | 466466891 |
-| VNM      | 2026-04-21 14:24:10 |    61.7 |      100 | Sell         | 466466887 |
-| VNM      | 2026-04-21 14:24:10 |    61.7 |      100 | Sell         | 466466888 |
-| VNM      | 2026-04-21 14:24:11 |    61.7 |     2900 | Sell         | 466467098 |
-| VNM      | 2026-04-21 14:24:12 |    61.8 |      300 | Buy          | 466467311 |
-| VNM      | 2026-04-21 14:24:13 |    61.7 |     5000 | Sell         | 466467333 |
-| VNM      | 2026-04-21 14:24:13 |    61.7 |     5000 | Sell         | 466467334 |
-| VNM      | 2026-04-21 14:24:18 |    61.7 |      800 | Sell         | 466467689 |
-| VNM      | 2026-04-21 14:24:21 |    61.7 |      100 | Sell         | 466467930 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->

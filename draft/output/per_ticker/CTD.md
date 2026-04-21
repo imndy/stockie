@@ -1,129 +1,46 @@
 # CTD — CTD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 19:33  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 20:38  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTD |
-| exchange | HOSE |
-| market_cap | 8658482845200 |
-| 52w_high | 92751 |
-| 52w_high_date | 2025-10-31 |
-| 52w_low | 66404 |
-| 52w_low_date | 2025-08-25 |
-| foreign_ownership | 48.9999 |
-| dividend | 1000 |
-| beta | 0.83 |
-| eps | 7469 |
-| eps_forward | 12.2879404967585 |
-| bvps | 90563 |
-| pe | 11.11 |
-| pb | 0.92 |
-| price_chg_1m | 2.86 |
-| price_chg_ytd | 16.61 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.012300123001230012 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
-## Chỉ báo kỹ thuật (EMA20 / EMA50 / RSI14 / MACD)
+## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Giá đóng cửa | 81.3 |
-| EMA20 | 79.06 |
-| EMA50 | 78.15 |
-| RSI(14) | 56.1 |
-| RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.612 |
-| MACD Signal | 0.279 |
-| MACD Histogram | 0.333 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+_Không đủ dữ liệu lịch sử giá_
+
+## Vùng hỗ trợ / Kháng cự
+
+_Không đủ dữ liệu để tính vùng S/R_
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | CTD |
-| pe | 11.11 |
-| pb | 0.92 |
-| eps | 7469 |
-| bvps | 90563 |
-| beta | 0.83 |
-| dividend | 1000 |
-| yield | 0.012300123001230012 |
-| pe_pct_rank | 47 |
-| pb_pct_rank | 39 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CTD: Thông báo Quyết định của HNX về việc chấp thuận niêm yết trái phiếu của CTD                                          | 2026-04-17T19:05:02     | /2026/04/ctd-thong-bao-quyet-dinh-cua-hnx-ve-viec-chap-thuan-niem-yet-trai-phieu-cua-ctd-741-1429639.htm                  |
-| CTD: Thông báo về ngày đăng ký cuối cùng phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                   | 2026-04-10T09:08:46     | /2026/04/ctd-thong-bao-ve-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-737-1425… |
-| CTD: Thông báo phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH và thông báo chốt DS nhận cổ phiếu phát hành               | 2026-04-06T18:09:59     | /2026/04/ctd-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-va-thong-bao-chot-ds-nhan-co-phieu-phat-hanh-830-… |
-| CTD: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-03T17:31:40     | /2026/04/ctd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon… |
-| Phân tích kỹ thuật phiên chiều 03/04: Giằng co mạnh                                                                       | 2026-04-03T13:02:40.49  | /2026/04/phan-tich-ky-thuat-phien-chieu-0304-giang-co-manh-585-1422465.htm                                                |
-| CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH                         | 2026-03-26T17:43:33     | /2026/03/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-737-1417171.ht… |
-| CTD: BCTC 6 tháng đầu năm 2026                                                                                            | 2026-02-28T00:00:00     | /2026/02/ctd-bctc-6-thang-dau-nam-2026-737-1406935.htm                                                                    |
-| CTD: BCTC Hợp nhất 6 tháng đầu năm 2026                                                                                   | 2026-02-28T00:00:00     | /2026/02/ctd-bctc-hop-nhat-6-thang-dau-nam-2026-737-1406936.htm                                                           |
-| CTD: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 30                                                             | 2026-02-27T16:32:25     | /2026/02/ctd-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-30-737-1406444.htm                                     |
-| Phân tích kỹ thuật phiên chiều 27/02: Giằng co mạnh                                                                       | 2026-02-27T13:07:04.993 | /2026/02/phan-tich-ky-thuat-phien-chieu-2702-giang-co-manh-585-1406194.htm                                                |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
 _Không có dữ liệu_
 
-## Lịch sử giá (20 phiên gần nhất)
+## RS vs Ngành
 
-| ticker   | time                |   open |   high |   low |   close |   volume |
-|:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTD      | 2026-03-25 00:00:00 |  77.72 |  80.76 | 77.72 |   80.1  |   986622 |
-| CTD      | 2026-03-26 00:00:00 |  80.48 |  81.91 | 79.62 |   81.43 |  1220098 |
-| CTD      | 2026-03-27 00:00:00 |  81.53 |  81.72 | 80.19 |   81.62 |   865055 |
-| CTD      | 2026-03-30 00:00:00 |  80.1  |  81.53 | 79.72 |   80    |   738812 |
-| CTD      | 2026-03-31 00:00:00 |  81.43 |  82.48 | 80    |   81.33 |  1009300 |
-| CTD      | 2026-04-01 00:00:00 |  82.57 |  83.72 | 80.19 |   80.19 |   908862 |
-| CTD      | 2026-04-02 00:00:00 |  79.81 |  81.62 | 78.1  |   78.1  |  1535168 |
-| CTD      | 2026-04-03 00:00:00 |  77.62 |  78.67 | 75.62 |   76.19 |  1174261 |
-| CTD      | 2026-04-06 00:00:00 |  76.19 |  77.33 | 74.57 |   74.86 |   460309 |
-| CTD      | 2026-04-07 00:00:00 |  75.24 |  76.19 | 74.86 |   75.72 |   368506 |
-| CTD      | 2026-04-08 00:00:00 |  77.53 |  79.05 | 76.95 |   78.57 |   850348 |
-| CTD      | 2026-04-09 00:00:00 |  78.57 |  80.95 | 77.33 |   78.95 |   932740 |
-| CTD      | 2026-04-10 00:00:00 |  79.24 |  80.38 | 78    |   78.1  |   544390 |
-| CTD      | 2026-04-13 00:00:00 |  77.81 |  80    | 77.62 |   78.95 |   485463 |
-| CTD      | 2026-04-14 00:00:00 |  80.1  |  80.19 | 78.95 |   79.81 |   660605 |
-| CTD      | 2026-04-15 00:00:00 |  80    |  80.38 | 78.29 |   78.29 |   550198 |
-| CTD      | 2026-04-16 00:00:00 |  78.57 |  78.67 | 77.91 |   77.91 |   533981 |
-| CTD      | 2026-04-17 00:00:00 |  79    |  79.9  | 78.5  |   78.8  |   482949 |
-| CTD      | 2026-04-20 00:00:00 |  79.3  |  83.5  | 79.3  |   83    |  1549631 |
-| CTD      | 2026-04-21 00:00:00 |  82.8  |  83.5  | 81.3  |   81.3  |   784100 |
+> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
+> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+
+## Lịch sử giá (90 phiên gần nhất)
+
+_Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTD      | 2026-04-21 14:22:28 |    81.4 |     2000 | Sell         | 466458564 |
-| CTD      | 2026-04-21 14:22:28 |    81.4 |      100 | Sell         | 466458569 |
-| CTD      | 2026-04-21 14:22:28 |    81.4 |      300 | Sell         | 466458568 |
-| CTD      | 2026-04-21 14:22:28 |    81.4 |      100 | Sell         | 466458565 |
-| CTD      | 2026-04-21 14:22:28 |    81.4 |     1000 | Sell         | 466458566 |
-| CTD      | 2026-04-21 14:22:28 |    81.4 |      100 | Sell         | 466458567 |
-| CTD      | 2026-04-21 14:22:33 |    81.5 |      200 | Buy          | 466458974 |
-| CTD      | 2026-04-21 14:22:56 |    81.5 |      100 | Buy          | 466460912 |
-| CTD      | 2026-04-21 14:23:03 |    81.5 |      200 | Buy          | 466461519 |
-| CTD      | 2026-04-21 14:23:20 |    81.5 |      100 | Buy          | 466462927 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 
