@@ -1,9 +1,19 @@
 """
 Stock Analysis Flow — two-pipeline design
 Usage:
-  python analyze.py --mode daily       # cập nhật giá, chỉ số, tin tức
-  python analyze.py --mode quarterly   # cập nhật tài chính, công ty
-  python analyze.py --mode full        # tất cả (default)
+  python analyze.py --mode daily                         # cập nhật giá, chỉ số, tin tức
+  python analyze.py --mode quarterly                     # cập nhật tài chính, công ty
+  python analyze.py --mode full                          # tất cả (default)
+
+  --force                   bỏ qua gatekeeping ngày/giờ, chạy luôn kệ đã update hay chưa
+  --section ticker          chỉ ghi per-ticker .md, bỏ qua bluechip_snapshot
+  --section snapshot        chỉ ghi bluechip_snapshot.md, bỏ qua write_markdown_ticker
+  --specific <TICKER>       chỉ chạy 1 mã; tự thêm vào stocks.csv nếu chưa có
+
+Examples:
+  python analyze.py --mode daily --force
+  python analyze.py --mode daily --force --section snapshot
+  python analyze.py --mode full  --specific VHC --force
 
 Input : draft/input/stocks.csv  (cột 'ticker')
 Output:
@@ -1445,10 +1455,33 @@ def _snapshot_is_stale(snapshot_md: Path) -> bool:
 
 
 # ── Core pipeline ──────────────────────────────────────────────────────────────
-def run_pipeline(mode: str) -> None:
+def run_pipeline(
+    mode: str,
+    force: bool = False,
+    section: str | None = None,
+    specific: str | None = None,
+) -> None:
+    """
+    mode    : daily | quarterly | full
+    force   : bỏ qua gatekeeping, chạy luôn kệ ngày/giờ
+    section : 'ticker' → chỉ ghi per-ticker, bỏ qua snapshot
+              'snapshot' → fetch data nhưng chỉ ghi snapshot, bỏ qua write_markdown_ticker
+    specific: chỉ chạy 1 ticker (tự thêm vào stocks.csv nếu chưa có)
+    """
     from vnstock import Vnstock
 
     tickers = read_tickers(INPUT_CSV)
+
+    # ── --specific: lọc / tự thêm vào CSV ────────────────────────────────
+    if specific:
+        specific = specific.upper()
+        if specific not in tickers:
+            df_csv = pd.read_csv(INPUT_CSV)
+            col = next((c for c in df_csv.columns if c.strip().lower() == "ticker"), None)
+            df_csv = pd.concat([df_csv, pd.DataFrame([{col: specific}])], ignore_index=True)
+            df_csv.to_csv(INPUT_CSV, index=False)
+            print(f"  [AUTO-ADD] {specific} thêm vào {INPUT_CSV}")
+        tickers = [specific]
     print(f"\nMode: [{mode.upper()}]  |  Mã ({len(tickers)}): {tickers}\n")
 
     subdir, xlsx_path, summary_md = _setup_run_paths(mode)
@@ -1498,9 +1531,8 @@ def run_pipeline(mode: str) -> None:
 
         # ── Gatekeeping: bỏ qua daily nếu đã update hôm nay sau 17h ──
         skip_daily = False
-        if not is_new and effective_mode in ("daily", "full"):
+        if not is_new and not force and effective_mode in ("daily", "full"):
             if not _daily_is_stale(md_file):
-                now = datetime.now()
                 print(f"  [SKIP daily] {ticker} đã cập nhật hôm nay sau {_MARKET_CLOSE_HOUR}:00, bỏ qua.")
                 skip_daily = True
 
@@ -1552,7 +1584,12 @@ def run_pipeline(mode: str) -> None:
             all_sheets[f"{ticker}_LCTT"]      = cf.head(8) if not cf.empty else cf
             all_sheets[f"{ticker}_ChiSo"]     = rt.head(8) if not rt.empty else rt
 
-        write_markdown_ticker(ticker, frames, effective_mode)
+        if section != "snapshot":
+            # Bỏ qua nếu daily bị skip và không có quarterly data (frames rỗng hoàn toàn)
+            if not (skip_daily and effective_mode == "daily"):
+                write_markdown_ticker(ticker, frames, effective_mode)
+            else:
+                print(f"    [SKIP write] {ticker}: không có data mới, giữ nguyên file.")
         detail_map[ticker] = frames
 
     # ── Output ──
@@ -1563,7 +1600,9 @@ def run_pipeline(mode: str) -> None:
         write_txt(detail_map, txt_path)
     write_markdown_summary(detail_map, price_board, summary_md, mode, industry_map)
     if mode in ("daily", "full") and snapshot_rows:
-        if _snapshot_is_stale(SNAPSHOT_MD):
+        if section == "ticker":
+            print("  [SKIP snapshot] --section ticker: bỏ qua write_snapshot.")
+        elif force or _snapshot_is_stale(SNAPSHOT_MD):
             write_snapshot(snapshot_rows, vnindex_data, datetime.now())
         else:
             print("  [SKIP snapshot] bluechip_snapshot đã cập nhật hôm nay sau 17:00, bỏ qua.")
@@ -1633,8 +1672,28 @@ def main() -> None:
             "full       = tất cả                   (default)"
         ),
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Bỏ qua gatekeeping ngày/giờ, chạy luôn kệ đã update hay chưa.",
+    )
+    parser.add_argument(
+        "--section",
+        choices=["ticker", "snapshot"],
+        default=None,
+        help=(
+            "ticker   = chỉ ghi per-ticker .md, bỏ qua snapshot\n"
+            "snapshot = chỉ ghi bluechip_snapshot.md, bỏ qua write_markdown_ticker"
+        ),
+    )
+    parser.add_argument(
+        "--specific",
+        default=None,
+        metavar="TICKER",
+        help="Chỉ chạy 1 mã cụ thể (VD: --specific BID). Tự thêm vào stocks.csv nếu chưa có.",
+    )
     args = parser.parse_args()
-    run_pipeline(args.mode)
+    run_pipeline(args.mode, force=args.force, section=args.section, specific=args.specific)
 
 
 if __name__ == "__main__":

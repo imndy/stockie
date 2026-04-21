@@ -1,115 +1,115 @@
 # Tổng hợp cổ phiếu — DAILY
-**Ngày:** 21/04/2026 20:40  |  **Số mã:** 103  |  **Pipeline:** `daily`
+**Ngày:** 21/04/2026 20:58  |  **Số mã:** 103  |  **Pipeline:** `daily`
 
 ---
 
 ## Bảng so sánh
 
-| Mã   |   Giá đóng cửa |    P/E |    P/B |   EPS |     ROE |    ROA |
-|:-----|---------------:|-------:|-------:|------:|--------:|-------:|
-| AAA  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| ACB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| ANV  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BCG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BCM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BID  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BMP  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BSI  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BSR  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BVH  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| BWE  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CII  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CMG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CTD  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CTG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CTR  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| CTS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DBC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DCM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DGC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DGW  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DIG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DPM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DSE  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DXG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| DXS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| EIB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| EVF  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| FPT  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| FRT  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| FTS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| GAS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| GEX  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| GMD  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| GVR  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HAG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HCM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HDB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HDC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HDG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HHV  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HPG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HSG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| HT1  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| IMP  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| KBC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| KDC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| KDH  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| LPB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| MBB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| MSB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| MSN  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| MWG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| NAB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| NKG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| NLG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| NT2  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| OCB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PAN  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PC1  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PDR  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PHR  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PLX  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PNJ  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| POW  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PPC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PTB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PVD  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| PVT  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| REE  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SAB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SBT  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SCS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SHB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SIP  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SJS  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SSB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SSI  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| STB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| SZC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| TCB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| TCH  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| TLG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| TPB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VCB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VCG  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VCI  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VGC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VHC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VHM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VIB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VIC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VIX  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VJC  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VND  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VNM  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VPB  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VPI  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VRE  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| VTP  |         nan    | nan    | nan    |   nan |  nan    | nan    |
-| NVL  |          31.6  |  19.87 |   0.6  |   863 |    3.43 |   0.7  |
-| VPL  |           5.95 | 135.49 |   4.18 |   630 |    3.32 |   1.38 |
-| HVN  |          10.84 |   7.61 |  10.38 |  2991 | -610.54 |  11.09 |
+| Mã   |   Giá đóng cửa |    P/E |   P/B |   EPS |     ROE |    ROA |
+|:-----|---------------:|-------:|------:|------:|--------:|-------:|
+| AAA  |           1.44 |   7.49 |  0.46 |   940 |    6.88 |   2.8  |
+| ACB  |           3.26 |   7.42 |  1.3  |  3230 |   17.56 |   1.65 |
+| ANV  |           8.24 |   6.77 |  1.92 |  3754 |  nan    | nan    |
+| BCG  |           0    |   4.48 |  0.1  |   565 |    4.35 |   0.91 |
+| BCM  |           5.3  |  17.05 |  2.54 |  3361 |   15.98 |   5.83 |
+| BID  |           1.64 |   9.48 |  1.64 |  4278 |   19.14 |   0.98 |
+| BMP  |          16.6  |  10.11 |  3.96 | 15218 |   44.05 |  37.35 |
+| BSI  |           5.7  |  17.26 |  1.58 |  2095 |    9.32 |   3.66 |
+| BSR  |          -6.95 |  16.99 |  2.16 |  1539 |    8.95 |   5.98 |
+| BVH  |          -6.32 |  18.02 |  2.1  |  4012 |   12.41 |   1.09 |
+| BWE  |           1.75 |   9.81 |  1.54 |  4478 |   14.78 |   6.09 |
+| CII  |          14.11 |  75.48 |  0.99 |   252 |    3.57 |   0.36 |
+| CMG  |          -4.05 |  14.97 |  1.54 |  1933 |   12.18 |   4.79 |
+| CTD  |           2.86 |  11.11 |  0.92 |  7469 |  nan    | nan    |
+| CTG  |           3.72 |   5.45 |  1.05 |  6441 |   21.08 |   1.34 |
+| CTR  |           7.63 |  16.62 |  4.82 |  5242 |   30.5  |   7.85 |
+| CTS  |           2.48 |   9.98 |  2.01 |  2757 |   22.61 |   5.47 |
+| DBC  |          -0.65 |   5.45 |  1.11 |  4266 |   20.31 |  10.01 |
+| DCM  |           2.64 |  12.32 |  2.22 |  3653 |   18.33 |  11.48 |
+| DGC  |          -3.96 |   6.64 |  1.31 |  7995 |   21.91 |  17.1  |
+| DGW  |           8.33 |  18.43 |  2.93 |  2496 |   17.12 |   5.55 |
+| DIG  |           5.99 |  14    |  1.14 |  1025 |    6.91 |   3.45 |
+| DPM  |          -2.25 |  12.89 |  1.69 |  2218 |    9.65 |   6.26 |
+| DSE  |           1.94 |  35.01 |  1.53 |   684 |    6.54 |   2.11 |
+| DXG  |           5    |  60.01 |  0.8  |   250 |    3.19 |   0.68 |
+| DXS  |          13.78 |  11.35 |  0.48 |   644 |    5.82 |   2.1  |
+| EIB  |           3.15 |  36.95 |  1.62 |   610 |    4.45 |   0.44 |
+| EVF  |          -0.72 |  11.44 |  1.04 |  1210 |    9.47 |   1.25 |
+| FPT  |           0.67 |  12.78 |  2.99 |  6017 |   28.25 |  11.71 |
+| FRT  |           1.62 |  28.44 |  5    |  5302 |   27.12 |   4.02 |
+| FTS  |          10.1  |  22.88 |  2.1  |  1202 |    9.29 |   3.35 |
+| GAS  |          -4.02 |  16.39 |  2.82 |  4833 |   17.91 |  13.02 |
+| GEX  |          16.64 |  23.56 |  1.23 |  1738 |   11.08 |   2.32 |
+| GMD  |          -4.15 |  18.86 |  2.13 |  3934 |   15.54 |   8.88 |
+| GVR  |           6.18 |  24.06 |  2.11 |  1372 |   10.51 |   6.62 |
+| HAG  |           6.17 |   8.6  |  1.47 |  1908 |   19.08 |   8.65 |
+| HCM  |          33.17 |  19.92 |  2.1  |  1403 |    9.43 |   3.03 |
+| HDB  |           6.8  |   5.79 |  1.33 |  4644 |   25.28 |   2.03 |
+| HDC  |           5.71 |   5.27 |  1.27 |  3550 |   24.63 |  11.66 |
+| HDG  |          -4.12 |  14.28 |  1.25 |  1981 |   11.99 |   4.94 |
+| HHV  |           5    |  10.1  |  0.79 |  1262 |    9.09 |   1.48 |
+| HPG  |          10.23 |  12.91 |  1.66 |  2203 |   12.62 |   6.41 |
+| HSG  |          13.38 |  16.06 |  0.88 |  1009 |  nan    | nan    |
+| HT1  |          -1.61 |  21.05 |  1.13 |   717 |  nan    | nan    |
+| IMP  |           1.1  |  24.18 |  3.63 |  2316 |   15.55 |  13.21 |
+| KBC  |          17.56 |  13.86 |  1.23 |  2526 |    9.4  |   3.75 |
+| KDC  |          -4.9  |  25.09 |  1.8  |  1917 |    7.83 |   3.81 |
+| KDH  |           0.78 |  26.1  |  1.38 |   996 |    8.04 |   3.25 |
+| LPB  |          14.48 |  12.3  |  2.78 |  3738 |   25.23 |   2.05 |
+| MBB  |           1.35 |   6.62 |  1.49 |  3980 |   21.14 |   1.95 |
+| MSB  |          10.67 |   6.04 |  0.92 |  2061 |   14.2  |   1.55 |
+| MSN  |          10.8  |  28.95 |  2.69 |  2756 |   15.76 |   2.97 |
+| MWG  |           7.4  |  18.28 |  3.89 |  4775 |   23.08 |   9.12 |
+| NAB  |          11.57 |   4.87 |  0.99 |  2773 |  nan    | nan    |
+| NKG  |           5.45 |  32.05 |  0.86 |   460 |    2.92 |   1.31 |
+| NLG  |           1.62 |  15.67 |  0.74 |  1821 |    6.44 |   2.47 |
+| NT2  |          -0.39 |   6.63 |  1.5  |  3969 |   22.42 |  11.22 |
+| OCB  |           5.05 |   7.37 |  0.92 |  1593 |   12.28 |   1.33 |
+| PAN  |          15.58 |  10.02 |  0.74 |  3223 |   13.07 |   3.4  |
+| PC1  |          -1.5  |   9.19 |  1.23 |  2895 |   16.44 |   4.61 |
+| PDR  |           6.6  |  29.02 |  1.27 |   557 |    4.38 |   2.01 |
+| PHR  |           5.98 |  16.38 |  1.97 |  3784 |   13.02 |   8.49 |
+| PLX  |          -8.06 |  19.18 |  1.7  |  2057 |   10.34 |   3.22 |
+| PNJ  |          -2.01 |  13.74 |  2.96 |  8369 |   23.07 |  15.14 |
+| POW  |          -0.38 |  13.31 |  0.83 |   988 |    7.98 |   2.78 |
+| PPC  |          -7.76 |  15.26 |  0.71 |   665 |    3.78 |   3.15 |
+| PTB  |           1.13 |   6.7  |  1.01 |  7538 |   16.29 |   8.44 |
+| PVD  |          -5.11 |  17.71 |  1.07 |  1855 |    6.34 |   4    |
+| PVT  |           1.61 |   8.48 |  0.88 |  2541 |   12.16 |   4.92 |
+| REE  |          -3.86 |  13.01 |  1.43 |  5018 |   13.33 |   6.62 |
+| SAB  |           5.99 |  13.19 |  2.54 |  3449 |   19.28 |  13.4  |
+| SBT  |           5.8  |  22.43 |  1.41 |   918 |    0.81 |   0.13 |
+| SCS  |           3.25 |   7.32 |  3.18 |  7389 |   50.62 |  36.97 |
+| SHB  |           3.07 |   5.31 |  1.03 |  2884 |   19.05 |   1.46 |
+| SIP  |           9.27 |   9.94 |  2.54 |  6169 |   28.01 |   5.04 |
+| SJS  |          11.59 |  33.01 |  5.3  |  1614 |    8.91 |   3.38 |
+| SSB  |          -0.59 |   8.58 |  1.19 |  1963 |   14.62 |   1.53 |
+| SSI  |           5.01 |  13.66 |  1.87 |  2120 |   13.54 |   4.71 |
+| STB  |           6.78 |  20.38 |  2.02 |  3150 |   10.34 |   0.71 |
+| SZC  |          -2.41 |  15.12 |  1.63 |  1917 |   10.94 |   4.21 |
+| TCB  |           9.55 |   9.12 |  1.29 |  3576 |   15.85 |   2.33 |
+| TCH  |          12.08 |  35.94 |  0.8  |   476 |    8.67 |   5.71 |
+| TLG  |           4.08 |   9.74 |  1.93 |  5198 |   18.46 |  13.04 |
+| TPB  |           2.85 |   5.91 |  0.99 |  2776 |  nan    | nan    |
+| VCB  |           2.76 |  13.23 |  2.21 |  4542 |   16.61 |   1.55 |
+| VCG  |          -1.35 |   3.47 |  1.15 |  6406 |   35.13 |  12.9  |
+| VCI  |           2.04 |  14.83 |  1.34 |  1848 |    8.67 |   4.29 |
+| VGC  |           0.68 |  14.78 |  1.8  |  3130 |  nan    | nan    |
+| VHC  |           8.35 |  10.45 |  1.41 |  6001 |   15.29 |  10.63 |
+| VHM  |          45.8  |  14.48 |  2.4  | 10019 |   17.97 |   6.09 |
+| VIB  |           2.38 |   7.55 |  1.27 |  2319 |   16.41 |   1.39 |
+| VIC  |          43.48 | 106.99 |  9.75 |  1785 |  nan    | nan    |
+| VIX  |           4.92 |   5.08 |  1.23 |  3424 |   28.85 |  20.12 |
+| VJC  |          11.7  |  46.07 |  4.17 |  3805 |   10.12 |   1.78 |
+| VND  |           8.47 |  11.64 |  1.19 |  1435 |    6.57 |   3.8  |
+| VNM  |           2.67 |  13.66 |  3.73 |  4503 |   26.65 |  17.37 |
+| VPB  |           9.98 |   8.46 |  1.19 |  3314 |   14.87 |   2.2  |
+| VPI  |           5    |  49.2  |  3.55 |  1236 |    7.48 |   3.04 |
+| VRE  |          12.05 |  10.38 |  1.38 |  2837 |   14.28 |  11.07 |
+| VTP  |           6.69 |  21.15 |  4.88 |  3348 |   24.13 |   5.83 |
+| NVL  |          31.6  |  19.87 |  0.6  |   863 |    3.43 |   0.7  |
+| VPL  |           5.95 | 135.49 |  4.18 |   630 |    3.32 |   1.38 |
+| HVN  |          10.84 |   7.61 | 10.38 |  2991 | -610.54 |  11.09 |
 
 ---
 
@@ -222,11 +222,58 @@
 
 ## So sánh nội ngành (P/E, P/B, ROE)
 
-| Mã   | Ngành                              |    P/E |   P/B |     ROE |   ROA |   EPS | Biên LN   | Tăng DT   | Tăng LN   |
-|:-----|:-----------------------------------|-------:|------:|--------:|------:|------:|:----------|:----------|:----------|
-| NVL  | Bất động sản                       |  19.87 |  0.6  |    3.43 |  0.7  |   863 | —         | —         | —         |
-| VPL  | Dịch vụ lưu trú, ăn uống, giải trí | 135.49 |  4.18 |    3.32 |  1.38 |   630 | —         | —         | —         |
-| HVN  | Vận tải - kho bãi                  |   7.61 | 10.38 | -610.54 | 11.09 |  2991 | —         | —         | —         |
+| Mã   | Ngành                              |    P/E |   P/B | ROE   | ROA   |   EPS | Biên LN   | Tăng DT   | Tăng LN   |
+|:-----|:-----------------------------------|-------:|------:|:------|:------|------:|:----------|:----------|:----------|
+| DGW  | Bán buôn                           |  18.43 |  2.93 | 17.12 | 5.55  |  2496 | —         | —         | —         |
+| PLX  | Bán buôn                           |  19.18 |  1.7  | 10.34 | 3.22  |  2057 | —         | —         | —         |
+| PNJ  | Bán lẻ                             |  13.74 |  2.96 | 23.07 | 15.14 |  8369 | —         | —         | —         |
+| MWG  | Bán lẻ                             |  18.28 |  3.89 | 23.08 | 9.12  |  4775 | —         | —         | —         |
+| FRT  | Bán lẻ                             |  28.44 |  5    | 27.12 | 4.02  |  5302 | —         | —         | —         |
+| BVH  | Bảo hiểm                           |  18.02 |  2.1  | 12.41 | 1.09  |  4012 | —         | —         | —         |
+| VRE  | Bất động sản                       |  10.38 |  1.38 | 14.28 | 11.07 |  2837 | —         | —         | —         |
+| VIC  | Bất động sản                       | 106.99 |  9.75 | —     | —     |  1785 | —         | —         | —         |
+| DXS  | Bất động sản                       |  11.35 |  0.48 | 5.82  | 2.1   |   644 | —         | —         | —         |
+| KBC  | Bất động sản                       |  13.86 |  1.23 | 9.4   | 3.75  |  2526 | —         | —         | —         |
+| DIG  | Bất động sản                       |  14    |  1.14 | 6.91  | 3.45  |  1025 | —         | —         | —         |
+| HDG  | Bất động sản                       |  14.28 |  1.25 | 11.99 | 4.94  |  1981 | —         | —         | —         |
+| VHM  | Bất động sản                       |  14.48 |  2.4  | 17.97 | 6.09  | 10019 | —         | —         | —         |
+| SZC  | Bất động sản                       |  15.12 |  1.63 | 10.94 | 4.21  |  1917 | —         | —         | —         |
+| NLG  | Bất động sản                       |  15.67 |  0.74 | 6.44  | 2.47  |  1821 | —         | —         | —         |
+| BCM  | Bất động sản                       |  17.05 |  2.54 | 15.98 | 5.83  |  3361 | —         | —         | —         |
+| NVL  | Bất động sản                       |  19.87 |  0.6  | 3.43  | 0.7   |   863 | —         | —         | —         |
+| KDH  | Bất động sản                       |  26.1  |  1.38 | 8.04  | 3.25  |   996 | —         | —         | —         |
+| PDR  | Bất động sản                       |  29.02 |  1.27 | 4.38  | 2.01  |   557 | —         | —         | —         |
+| SJS  | Bất động sản                       |  33.01 |  5.3  | 8.91  | 3.38  |  1614 | —         | —         | —         |
+| TCH  | Bất động sản                       |  35.94 |  0.8  | 8.67  | 5.71  |   476 | —         | —         | —         |
+| VPI  | Bất động sản                       |  49.2  |  3.55 | 7.48  | 3.04  |  1236 | —         | —         | —         |
+| HDC  | Bất động sản                       |   5.27 |  1.27 | 24.63 | 11.66 |  3550 | —         | —         | —         |
+| DXG  | Bất động sản                       |  60.01 |  0.8  | 3.19  | 0.68  |   250 | —         | —         | —         |
+| IMP  | Chăm sóc sức khỏe                  |  24.18 |  3.63 | 15.55 | 13.21 |  2316 | —         | —         | —         |
+| VHC  | Chế biến Thủy sản                  |  10.45 |  1.41 | 15.29 | 10.63 |  6001 | —         | —         | —         |
+| ANV  | Chế biến Thủy sản                  |   6.77 |  1.92 | —     | —     |  3754 | —         | —         | —         |
+| VND  | Chứng khoán                        |  11.64 |  1.19 | 6.57  | 3.8   |  1435 | —         | —         | —         |
+| SSI  | Chứng khoán                        |  13.66 |  1.87 | 13.54 | 4.71  |  2120 | —         | —         | —         |
+| VCI  | Chứng khoán                        |  14.83 |  1.34 | 8.67  | 4.29  |  1848 | —         | —         | —         |
+| BSI  | Chứng khoán                        |  17.26 |  1.58 | 9.32  | 3.66  |  2095 | —         | —         | —         |
+| HCM  | Chứng khoán                        |  19.92 |  2.1  | 9.43  | 3.03  |  1403 | —         | —         | —         |
+| FTS  | Chứng khoán                        |  22.88 |  2.1  | 9.29  | 3.35  |  1202 | —         | —         | —         |
+| DSE  | Chứng khoán                        |  35.01 |  1.53 | 6.54  | 2.11  |   684 | —         | —         | —         |
+| VIX  | Chứng khoán                        |   5.08 |  1.23 | 28.85 | 20.12 |  3424 | —         | —         | —         |
+| CTS  | Chứng khoán                        |   9.98 |  2.01 | 22.61 | 5.47  |  2757 | —         | —         | —         |
+| FPT  | Công nghệ và thông tin             |  12.78 |  2.99 | 28.25 | 11.71 |  6017 | —         | —         | —         |
+| CMG  | Công nghệ và thông tin             |  14.97 |  1.54 | 12.18 | 4.79  |  1933 | —         | —         | —         |
+| CTR  | Công nghệ và thông tin             |  16.62 |  4.82 | 30.5  | 7.85  |  5242 | —         | —         | —         |
+| VPL  | Dịch vụ lưu trú, ăn uống, giải trí | 135.49 |  4.18 | 3.32  | 1.38  |   630 | —         | —         | —         |
+| PVD  | Khai khoáng                        |  17.71 |  1.07 | 6.34  | 4     |  1855 | —         | —         | —         |
+| EVF  | Ngân hàng                          |  11.44 |  1.04 | 9.47  | 1.25  |  1210 | —         | —         | —         |
+| LPB  | Ngân hàng                          |  12.3  |  2.78 | 25.23 | 2.05  |  3738 | —         | —         | —         |
+| VCB  | Ngân hàng                          |  13.23 |  2.21 | 16.61 | 1.55  |  4542 | —         | —         | —         |
+| STB  | Ngân hàng                          |  20.38 |  2.02 | 10.34 | 0.71  |  3150 | —         | —         | —         |
+| EIB  | Ngân hàng                          |  36.95 |  1.62 | 4.45  | 0.44  |   610 | —         | —         | —         |
+| NAB  | Ngân hàng                          |   4.87 |  0.99 | —     | —     |  2773 | —         | —         | —         |
+| SHB  | Ngân hàng                          |   5.31 |  1.03 | 19.05 | 1.46  |  2884 | —         | —         | —         |
+| CTG  | Ngân hàng                          |   5.45 |  1.05 | 21.08 | 1.34  |  6441 | —         | —         | —         |
+| HDB  | Ngân hàng                          |   5.79 |  1.33 | 25.28 | 2.03  |  4644 | —         | —         | —         |
 
 ---
 

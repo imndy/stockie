@@ -1,6 +1,6 @@
 # HVN — HVN
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:40  |  🗂 Quarterly: 05/04/2026 13:41
+> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 13:41
 
 ---
 
@@ -74,7 +74,7 @@
 | roe | -610.54 |
 | roe_pct_rank | 0 |
 | roa | 11.09 |
-| roa_pct_rank | 71 |
+| roa_pct_rank | 72 |
 | eps | 2991 |
 | bvps | 2191 |
 | beta | 1.06 |
