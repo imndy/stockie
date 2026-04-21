@@ -1,6 +1,6 @@
 # EVF — EVF
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:48  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.94 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 48 |
+| pe_pct_rank | 47 |
 | pb_pct_rank | 44 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -0.72% |
+| RS (CP − Ngành) | -0.50% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

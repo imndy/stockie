@@ -1,6 +1,6 @@
 # GMD — GMD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -0.15% |
+| % Cổ phiếu hôm nay | -0.27% |
+| RS (CP − Ngành) | -0.12% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

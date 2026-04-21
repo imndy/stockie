@@ -1,6 +1,6 @@
 # FRT — FRT
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:48  |  🗂 Quarterly: 05/04/2026 19:53
+> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.84 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 84 |
+| pe_pct_rank | 82 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.84% |
+| % Cổ phiếu hôm nay | +0.13% |
+| RS (CP − Ngành) | +1.97% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

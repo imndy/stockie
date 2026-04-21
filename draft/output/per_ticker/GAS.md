@@ -1,6 +1,6 @@
 # GAS — GAS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:48  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -0.89% |
+| % Cổ phiếu hôm nay | -0.63% |
+| RS (CP − Ngành) | +0.26% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

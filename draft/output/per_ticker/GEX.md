@@ -1,6 +1,6 @@
 # GEX — GEX
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 1.35 |
 | dividend | 1300 |
 | yield | 0.03225806451612903 |
-| pe_pct_rank | 74 |
+| pe_pct_rank | 72 |
 | pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thiết bị điện |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -1.59% |
+| RS (CP − Ngành) | -0.31% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

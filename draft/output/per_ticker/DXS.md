@@ -1,6 +1,6 @@
 # DXS — DXS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:48  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                                                                | publishtime             | url                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DXS: Báo cáo thường niên năm 2025                                                                                    | 2026-04-21T17:45:36     | /2026/04/dxs-bao-cao-thuong-nien-nam-2025-737-1431491.htm                                                                 |
 | Ông Lương Trí Thìn: Đất Xanh đổi tên để thoát định vị “công ty dịch vụ”                                              | 2026-04-17T11:25:44.737 | /2026/04/ong-luong-tri-thin-dat-xanh-doi-ten-de-thoat-dinh-vi-cong-ty-dich-vu-737-1429045.htm                             |
 | Đất Xanh Services muốn giải thể công ty con do hoạt động không hiệu quả                                              | 2026-04-06T17:08:29.75  | /2026/04/dat-xanh-services-muon-giai-the-cong-ty-con-do-hoat-dong-khong-hieu-qua-737-1423426.htm                          |
 | DXS: Nghị quyết HĐQT thông qua việc giải thể Công ty Cổ phần BĐS Đất Phát Hưng                                       | 2026-04-06T09:40:32     | /2026/04/dxs-nghi-quyet-hdqt-thong-qua-viec-giai-the-cong-ty-co-phan-bds-dat-phat-hung-737-1423224.htm                    |
@@ -113,7 +114,6 @@
 | DXS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                          | 2026-02-27T16:42:50     | /2026/02/dxs-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1406463.htm                       |
 | DXS: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐTN 2026 và ngày chốt DSCĐ                               | 2026-02-26T10:15:17     | /2026/02/dxs-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcdtn-2026-va-ngay-chot-dscd-737-1405717.htm            |
 | Nợ vay doanh nghiệp bất động sản trên sàn lên gần 400 ngàn tỷ đồng trong năm 2025                                    | 2026-02-24T10:02:00     | /2026/02/no-vay-doanh-nghiep-bat-dong-san-tren-san-len-gan-400-ngan-ty-dong-trong-nam-2025-737-1403939.htm                |
-| DXS: Báo cáo tình hình quản trị công ty năm 2025                                                                     | 2026-01-30T15:27:40     | /2026/01/dxs-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397564.htm                                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | -2.87% |
+| RS (CP − Ngành) | -3.52% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

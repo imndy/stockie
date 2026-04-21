@@ -1,6 +1,6 @@
 # CMG — CMG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:46  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -29,7 +29,7 @@
 | price_chg_1m_rank | 12.48 |
 | price_chg_ytd_rank | 52.61 |
 | yield | 0 |
-| financial_date | 12/2024 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -72,18 +72,18 @@
 | symbol | CMG |
 | pe | 14.97 |
 | pb | 1.54 |
-| roe | 12.18 |
-| roe_pct_rank | 52 |
-| roa | 4.79 |
-| roa_pct_rank | 49 |
+| roe | 11.91 |
+| roe_pct_rank | 51 |
+| roa | 1.04 |
+| roa_pct_rank | 32 |
 | eps | 1933 |
 | bvps | 18850 |
 | beta | 0.66 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 55 |
-| pb_pct_rank | 60 |
-| financial_date | 12/2024 |
+| pb_pct_rank | 61 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
@@ -103,6 +103,7 @@
 
 | title                                                                                                       | publishtime             | url                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CMG: Nghị quyết HĐQT số 08/2026 ngày 20/04/2026                                                             | 2026-04-21T18:11:37     | /2026/04/cmg-nghi-quyet-hdqt-so-08-2026-ngay-20-04-2026-737-1431580.htm                                                   |
 | CMG đặt mục tiêu doanh thu tăng 20% trong năm 2026                                                          | 2026-04-02T15:17:55.757 | /2026/04/cmg-dat-muc-tieu-doanh-thu-tang-20-trong-nam-2026-737-1421500.htm                                                |
 | CMG: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ Công ty TNHH An ninh An toàn Thông tin CMC | 2026-03-26T17:43:19     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le-cong-ty-tnhh-an-ninh-an-toan-thong-tin-cmc-737-… |
 | CMG: Nghị quyết HĐQT về việc thông qua chủ trương thực hiện giao dịch với bên liên quan trong năm 2026      | 2026-03-19T16:14:04     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thuc-hien-giao-dich-voi-ben-lien-quan-trong-nam-2026-737-14141… |
@@ -112,7 +113,6 @@
 | CMG: Báo cáo tình hình sử dụng vốn cổ phiếu                                                                 | 2026-02-27T13:42:25     | /2026/02/cmg-bao-cao-tinh-hinh-su-dung-von-co-phieu-737-1406214.htm                                                       |
 | CMG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 27                                               | 2026-02-26T14:14:35     | /2026/02/cmg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-27-737-1405804.htm                                     |
 | CMC Group “làm mới” kế hoạch lập công ty đầu tư công nghệ sau gần 3 năm                                     | 2026-02-11T10:55:55.71  | /2026/02/cmc-group-lam-moi-ke-hoach-lap-cong-ty-dau-tu-cong-nghe-sau-gan-3-nam-737-1402718.htm                            |
-| CMG: Nghị quyết HĐQT về việc điều chỉnh phương án thành lập Công ty TNHH CMC Investment                     | 2026-02-10T17:24:32     | /2026/02/cmg-nghi-quyet-hdqt-ve-viec-dieu-chinh-phuong-an-thanh-lap-cong-ty-tnhh-cmc-investment-737-1402586.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Công nghệ và thông tin |
+| % Ngành hôm nay | -2.19% |
+| % Cổ phiếu hôm nay | -1.90% |
+| RS (CP − Ngành) | +0.29% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

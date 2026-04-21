@@ -1,6 +1,6 @@
 # CTS — CTS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:47  |  🗂 Quarterly: 05/04/2026 19:50
+> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 
@@ -81,7 +81,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 44 |
-| pb_pct_rank | 73 |
+| pb_pct_rank | 74 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -2.18% |
+| RS (CP − Ngành) | -0.61% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

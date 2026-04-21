@@ -1,6 +1,6 @@
 # BWE — BWE
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:46  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -81,7 +81,7 @@
 | beta | 0.37 |
 | dividend | 1300 |
 | yield | 0.029748283752860413 |
-| pe_pct_rank | 43 |
+| pe_pct_rank | 44 |
 | pb_pct_rank | 60 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -0.89% |
+| % Cổ phiếu hôm nay | -0.57% |
+| RS (CP − Ngành) | +0.32% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

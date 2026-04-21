@@ -1,6 +1,6 @@
 # AAA — AAA
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:45  |  🗂 Quarterly: 05/04/2026 19:46
+> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 05/04/2026 19:46
 
 ---
 
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | SX Nhựa - Hóa chất |
+| % Ngành hôm nay | -0.77% |
+| % Cổ phiếu hôm nay | +0.14% |
+| RS (CP − Ngành) | +0.91% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

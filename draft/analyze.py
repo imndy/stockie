@@ -1107,8 +1107,47 @@ def _update_header_ts(text: str, mode: str) -> str:
     return result
 
 
+def _update_header_meta(text: str, ticker: str, company_name: str, exchange: str, industry: str) -> str:
+    """Cập nhật dòng tên công ty và Sàn/Ngành trong header nếu giá trị mới không rỗng."""
+    import re
+    # Dòng 1: # TICKER — <tên>
+    if company_name and company_name != ticker:
+        text = re.sub(
+            rf"^# {re.escape(ticker)} — .*$",
+            f"# {ticker} — {company_name}",
+            text,
+            count=1,
+            flags=re.MULTILINE,
+        )
+    # Dòng 2: **Sàn:** X  |  **Ngành:** Y
+    if exchange or industry:
+        def _rebuild_meta(m: re.Match) -> str:
+            line = m.group(0)
+            ex_m = re.search(r"\*\*Sàn:\*\*\s*(\S*)", line)
+            ex_cur = ex_m.group(1) if ex_m else ""
+            ind_m = re.search(r"\*\*Ngành:\*\*\s*(.*?)(\s*$)", line)
+            ind_cur = ind_m.group(1).strip() if ind_m else ""
+            new_ex  = exchange  if exchange  else ex_cur
+            new_ind = industry  if industry  else ind_cur
+            return f"**Sàn:** {new_ex}  |  **Ngành:** {new_ind}"
+        text = re.sub(
+            r"^\*\*Sàn:\*\*.*$",
+            _rebuild_meta,
+            text,
+            count=1,
+            flags=re.MULTILINE,
+        )
+    return text
+
+
 # ── Write Markdown per-ticker ─────────────────────────────────────────────────
-def write_markdown_ticker(ticker: str, frames: dict, effective_mode: str) -> None:
+def write_markdown_ticker(
+    ticker: str,
+    frames: dict,
+    effective_mode: str,
+    industry_map: dict | None = None,
+    name_map: dict | None = None,
+) -> None:
     """
     Ghi / cập nhật file output/per_ticker/<TICKER>.md.
     - effective_mode = 'full': tạo/ghi lại toàn bộ file
@@ -1122,10 +1161,11 @@ def write_markdown_ticker(ticker: str, frames: dict, effective_mode: str) -> Non
 
     company_name = (
         _ov_field(ov, "short_name", "company_name")
+        or (name_map.get(ticker) if name_map else None)
         or (str(ts.iloc[0].get("symbol", ticker)) if not ts.empty else ticker)
     )
     exchange = _ov_field(ov, "exchange") or (str(ts.iloc[0].get("exchange", "")) if not ts.empty else "")
-    industry = _ov_field(ov, "industry")
+    industry = _ov_field(ov, "industry") or (industry_map.get(ticker, "") if industry_map else "")
 
     if effective_mode == "full" or not out_path.exists():
         # ── Tạo file mới từ đầu ──
@@ -1148,6 +1188,7 @@ def write_markdown_ticker(ticker: str, frames: dict, effective_mode: str) -> Non
             content = _replace_block(content, BEGIN_DAILY, END_DAILY, _build_daily_block(frames, ticker))
         elif effective_mode == "quarterly":
             content = _replace_block(content, BEGIN_QUARTERLY, END_QUARTERLY, _build_quarterly_block(frames))
+        content = _update_header_meta(content, ticker, company_name, exchange, industry)
         content = _update_header_ts(content, effective_mode)
 
     out_path.write_text(content, encoding="utf-8")
@@ -1580,13 +1621,20 @@ def run_pipeline(
     detail_map: dict                    = {}
     all_sheets: dict[str, pd.DataFrame] = {}
 
-    # ── Industry map (once per run) ────────────────────────────────────────
-    industry_map: dict[str, str] = {}
+    # ── Industry map + company name map (once per run) ──────────────────────
+    industry_map:  dict[str, str] = {}
+    name_map:      dict[str, str] = {}
     try:
         from vnstock.api.listing import Listing
-        sym_ind = Listing().symbols_by_industries()
+        _lst = Listing()
+        sym_ind = _lst.symbols_by_industries()
         industry_map = dict(zip(sym_ind["symbol"], sym_ind["industry_name"]))
-        print(f"  Industry map loaded: {len(industry_map)} symbols")
+        try:
+            sym_all = _lst.all_symbols()
+            name_map = dict(zip(sym_all["symbol"], sym_all["organ_name"]))
+        except Exception:
+            pass
+        print(f"  Industry map loaded: {len(industry_map)} symbols, name map: {len(name_map)}")
     except Exception as exc:
         print(f"  [WARN] industry_map: {exc}")
 
@@ -1684,7 +1732,7 @@ def run_pipeline(
         if section != "snapshot":
             # Bỏ qua nếu daily bị skip và không có quarterly data (frames rỗng hoàn toàn)
             if not (skip_daily and effective_mode == "daily"):
-                write_markdown_ticker(ticker, frames, effective_mode)
+                write_markdown_ticker(ticker, frames, effective_mode, industry_map=industry_map, name_map=name_map)
             else:
                 print(f"    [SKIP write] {ticker}: không có data mới, giữ nguyên file.")
         detail_map[ticker] = frames

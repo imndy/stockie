@@ -1,6 +1,6 @@
 # DGW — DGW
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:47  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 1.1 |
 | dividend | 500 |
 | yield | 0.010989010989010988 |
-| pe_pct_rank | 62 |
+| pe_pct_rank | 63 |
 | pb_pct_rank | 99 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán buôn |
+| % Ngành hôm nay | -0.46% |
+| % Cổ phiếu hôm nay | -1.09% |
+| RS (CP − Ngành) | -0.63% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # ACB — ACB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:45  |  🗂 Quarterly: 03/04/2026 09:47
+> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 
@@ -76,7 +76,7 @@
 | roe | 17.56 |
 | roe_pct_rank | 63 |
 | roa | 1.65 |
-| roa_pct_rank | 34 |
+| roa_pct_rank | 35 |
 | eps | 3230 |
 | bvps | 18401.02 |
 | beta | 0.74 |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -0.84% |
+| RS (CP − Ngành) | -0.62% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

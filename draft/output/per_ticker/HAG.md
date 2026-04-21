@@ -1,6 +1,6 @@
 # HAG — HAG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Nông - Lâm - Ngư |
+| % Ngành hôm nay | +0.05% |
+| % Cổ phiếu hôm nay | -0.30% |
+| RS (CP − Ngành) | -0.35% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

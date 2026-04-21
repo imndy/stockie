@@ -1,6 +1,6 @@
 # CTR — CTR
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:46  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.78 |
 | dividend | 2150 |
 | yield | 0.02497096399535424 |
-| pe_pct_rank | 59 |
+| pe_pct_rank | 58 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Công nghệ và thông tin |
+| % Ngành hôm nay | -2.19% |
+| % Cổ phiếu hôm nay | -1.15% |
+| RS (CP − Ngành) | +1.04% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

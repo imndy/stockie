@@ -1,5 +1,5 @@
 # 📊 Bluechip Daily Snapshot
-> 🕐 Cập nhật: 2026-04-21 21:51 | Nguồn: auto-generated từ per_ticker/
+> 🕐 Cập nhật: 2026-04-21 22:08 | Nguồn: auto-generated từ per_ticker/
 
 ---
 
@@ -8,8 +8,8 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | VN-Index đóng cửa | 1,833.48 (-3.63, -0.20%) |
-| Nhóm bị xả mạnh nhất (kỹ thuật) | SX Phụ trợ |
-| Nhóm được mua nhiều nhất (kỹ thuật) | SX Phụ trợ |
+| Nhóm bị xả mạnh nhất (kỹ thuật) | Ngân hàng |
+| Nhóm được mua nhiều nhất (kỹ thuật) | Ngân hàng |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | Tín hiệu |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BSR | -7.0 | — | Dưới | Dưới | 45.4 | +0.060 | 🔴 RỦI RO CAO |
+| BID | 1.6 | — | Dưới | Dưới | 46.6 | +0.280 | 🔴 RỦI RO CAO |
 
 **Legend:**
 - Tín hiệu: ✅ TĂNG | ⚠️ GIẢM | 🔄 TRUNG TÍNH | 🔴 RỦI RO CAO
@@ -28,7 +28,7 @@
 
 | Mã | Ngành | P/E | P/B | ROE | LNST growth | Room NN còn |
 | --- | --- | --- | --- | --- | --- | --- |
-| BSR | SX Phụ trợ | 17.0 | 2.2 | 8.9% | — | — |
+| BID | Ngân hàng | 9.5 | 1.6 | 19.1% | — | — |
 
 ---
 
@@ -47,13 +47,13 @@ _Không có sự kiện trong khoảng thời gian này (dữ liệu VCI: AIS/DI
 > Mã trong danh sách: **_Không có_**
 
 ### 🟡 Nhóm chu kỳ (thép, BĐS)
-> Mã trong danh sách: **_Không có_**
+> Mã trong danh sách: **BID**
 
 ### Tín hiệu hôm nay
 - ✅ TĂNG (0): _Không có_
 - 🔄 TRUNG TÍNH (0): _Không có_
 - ⚠️ GIẢM (0): _Không có_
-- 🔴 RỦI RO CAO (1): BSR
+- 🔴 RỦI RO CAO (1): BID
 
 ---
 

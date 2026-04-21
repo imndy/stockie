@@ -1,6 +1,6 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:45  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
@@ -29,7 +29,7 @@
 | price_chg_1m_rank | 12.48 |
 | price_chg_ytd_rank | 52.61 |
 | yield | 0 |
-| financial_date | 12/2025 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -70,10 +70,10 @@
 | symbol | BCG |
 | pe | 4.48 |
 | pb | 0.10 |
-| roe | 4.35 |
-| roe_pct_rank | 34 |
-| roa | 0.91 |
-| roa_pct_rank | 31 |
+| roe | 14.53 |
+| roe_pct_rank | 57 |
+| roa | 13.11 |
+| roa_pct_rank | 79 |
 | eps | 565 |
 | bvps | 24305 |
 | beta | 0 |
@@ -81,7 +81,7 @@
 | yield | 0 |
 | pe_pct_rank | 31 |
 | pb_pct_rank | 1 |
-| financial_date | 12/2024 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
@@ -118,8 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Xây dựng |
+| % Ngành hôm nay | -0.87% |
+| % Cổ phiếu hôm nay | — |
+| RS (CP − Ngành) | — |
+| Nhận xét | — |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

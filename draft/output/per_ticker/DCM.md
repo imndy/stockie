@@ -1,6 +1,6 @@
 # DCM — DCM
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:47  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | SX Nhựa - Hóa chất |
+| % Ngành hôm nay | -0.77% |
+| % Cổ phiếu hôm nay | -0.56% |
+| RS (CP − Ngành) | +0.21% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
