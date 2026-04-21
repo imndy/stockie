@@ -1,6 +1,6 @@
-# VCG — VCG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: 05/04/2026 20:04
+# VCG — Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Xây dựng
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Xây dựng |
+| % Ngành hôm nay | -0.87% |
+| % Cổ phiếu hôm nay | -0.90% |
+| RS (CP − Ngành) | -0.03% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

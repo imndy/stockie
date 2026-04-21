@@ -1,6 +1,6 @@
-# SBT — SBT
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:54  |  🗂 Quarterly: 05/04/2026 20:01
+# SBT — CTCP Thành Thành Công - Biên Hòa
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:18  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
@@ -72,16 +72,12 @@
 | symbol | SBT |
 | pe | 22.43 |
 | pb | 1.41 |
-| roe | 0.81 |
-| roe_pct_rank | 26 |
-| roa | 0.13 |
-| roa_pct_rank | 28 |
 | eps | 918 |
 | bvps | 14614 |
 | beta | 0.29 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 70 |
+| pe_pct_rank | 71 |
 | pb_pct_rank | 57 |
 | financial_date | 12/2024 |
 | source | KBS |
@@ -120,8 +116,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.61% |
+| % Cổ phiếu hôm nay | -0.24% |
+| RS (CP − Ngành) | +0.37% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

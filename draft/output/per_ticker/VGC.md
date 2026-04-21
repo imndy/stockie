@@ -1,6 +1,6 @@
-# VGC — VGC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:56  |  🗂 Quarterly: 05/04/2026 20:04
+# VGC — Tổng Công ty Viglacera - CTCP
+**Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
@@ -78,7 +78,7 @@
 | beta | 1.02 |
 | dividend | 2200 |
 | yield | 0.04966139954853273 |
-| pe_pct_rank | 55 |
+| pe_pct_rank | 54 |
 | pb_pct_rank | 68 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -117,8 +117,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.24% |
+| % Cổ phiếu hôm nay | -4.22% |
+| RS (CP − Ngành) | -4.46% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

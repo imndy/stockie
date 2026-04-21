@@ -1,6 +1,6 @@
-# PHR — PHR
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:52  |  🗂 Quarterly: 05/04/2026 19:59
+# PHR — CTCP Cao su Phước Hòa
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | SX Nhựa - Hóa chất |
+| % Ngành hôm nay | -0.77% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | +0.77% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

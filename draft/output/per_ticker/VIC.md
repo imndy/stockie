@@ -1,6 +1,6 @@
-# VIC — VIC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:56  |  🗂 Quarterly: 03/04/2026 09:50
+# VIC — Tập đoàn VINGROUP - CTCP
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:21  |  🗂 Quarterly: 03/04/2026 09:50
 
 ---
 
@@ -97,6 +97,7 @@
 
 | title                                                                                                 | publishtime             | url                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Vingroup muốn lãi 35 ngàn tỷ, gấp 3 lần năm ngoái                                                     | 2026-04-21T16:54:24.793 | /2026/04/vingroup-muon-lai-35-ngan-ty-gap-3-lan-nam-ngoai-737-1431325.htm                                                 |
 | VIC: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T14:04:32     | /2026/04/vic-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1430215.htm                                               |
 | VIC đưa VN-Index trở lại hít thở bầu không khí 1,800                                                  | 2026-04-18T20:30:00     | /2026/04/vic-dua-vn-index-tro-lai-hit-tho-bau-khong-khi-1800-830-1429736.htm                                              |
 | VIC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINPEARL       | 2026-04-17T19:39:06     | /2026/04/vic-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinpearl-739-1429670.htm   |
@@ -106,7 +107,6 @@
 | Hãng gọi xe của tỷ phú Phạm Nhật Vượng đổi tên thành Green SM                                         | 2026-04-14T14:53:49.61  | /2026/04/hang-goi-xe-cua-ty-phu-pham-nhat-vuong-doi-ten-thanh-green-sm-737-1427336.htm                                    |
 | Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band                                            | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm                                           |
 | VIC: Báo cáo thường niên năm 2025                                                                     | 2026-04-14T10:24:46     | /2026/04/vic-bao-cao-thuong-nien-nam-2025-737-1427262.htm                                                                 |
-| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Vinpearl  | 2026-04-13T16:51:54     | /2026/04/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-ty-co-phan-vinpearl-739-1427124… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -114,8 +114,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | +1.41% |
+| RS (CP − Ngành) | +0.76% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
-# PNJ — PNJ
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:53  |  🗂 Quarterly: 05/04/2026 13:43
+# PNJ — CTCP Vàng bạc Đá quý Phú Nhuận
+**Sàn:** HOSE  |  **Ngành:** Bán lẻ
+> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
@@ -80,7 +80,7 @@
 | beta | 0.94 |
 | dividend | 2400 |
 | yield | 0.021447721179624665 |
-| pe_pct_rank | 53 |
+| pe_pct_rank | 52 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.84% |
+| % Cổ phiếu hôm nay | -2.70% |
+| RS (CP − Ngành) | -0.86% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

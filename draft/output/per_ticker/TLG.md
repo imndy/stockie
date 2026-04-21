@@ -1,6 +1,6 @@
-# TLG — TLG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: 05/04/2026 20:03
+# TLG — CTCP Tập đoàn Thiên Long
+**Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 20:03
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | SX Phụ trợ |
+| % Ngành hôm nay | -0.68% |
+| % Cổ phiếu hôm nay | +0.79% |
+| RS (CP − Ngành) | +1.47% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

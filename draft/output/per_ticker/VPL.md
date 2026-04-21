@@ -1,6 +1,6 @@
-# VPL — VPL
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 12:23
+# VPL — CTCP Vinpearl
+**Sàn:** HOSE  |  **Ngành:** Dịch vụ lưu trú, ăn uống, giải trí
+> 📅 Daily: 21/04/2026 22:22  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
@@ -102,18 +102,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                       | publishtime         | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VPL: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                         | 2026-04-17T19:06:25 | /2026/04/vpl-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429638.htm                                               |
-| Phân tích kỹ thuật phiên chiều 16/04: Sự tích cực kéo dài                                              | 2026-04-16T13:12:00 | /2026/04/phan-tich-ky-thuat-phien-chieu-1604-su-tich-cuc-keo-dai-585-1428452.htm                                          |
-| VPL: Nghị quyết HĐQT thông qua việc chấm dứt hoạt động của Chi nhánh Củ Chi                                 | 2026-04-06T17:04:57 | /2026/04/vpl-nghi-quyet-hdqt-thong-qua-viec-cham-dut-hoat-dong-cua-chi-nhanh-cu-chi-737-1423593.htm                       |
-| VPL: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026 và phê duyệt chương trình, tài liệu họp | 2026-04-06T17:01:20 | /2026/04/vpl-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-va-phe-duyet-chuong-trinh-tai-lieu-hop-737-1… |
-| VPL: Báo cáo thường niên năm 2025                                                                           | 2026-03-31T17:33:03 | /2026/03/vpl-bao-cao-thuong-nien-nam-2025-737-1419927.htm                                                                 |
-| VPL: Giải trình BCTC kiểm toán năm 2025                                                                     | 2026-03-11T17:10:10 | /2026/03/vpl-giai-trinh-bctc-kiem-toan-nam-2025-737-1411076.htm                                                           |
-| VPL: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                 | 2026-03-11T10:41:45 | /2026/03/vpl-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1410752.htm                       |
-| VPL: BCTC Hợp nhất năm 2025                                                                                 | 2026-03-10T00:00:00 | /2026/03/vpl-bctc-hop-nhat-nam-2025-737-1411111.htm                                                                       |
-| VPL: BCTC năm 2025                                                                                          | 2026-03-10T00:00:00 | /2026/03/vpl-bctc-nam-2025-737-1411112.htm                                                                                |
-| VPL: CBTT về nội dung các Nghị quyết HĐQT ngày 28/02/2026                                                   | 2026-03-02T13:48:48 | /2026/03/vpl-cbtt-ve-noi-dung-cac-nghi-quyet-hdqt-ngay-28-02-2026-737-1406984.htm                                         |
+| title                                                                                                       | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Vingroup muốn lãi 35 ngàn tỷ, gấp 3 lần năm ngoái                                                           | 2026-04-21T16:54:24.793 | /2026/04/vingroup-muon-lai-35-ngan-ty-gap-3-lan-nam-ngoai-737-1431325.htm                                                 |
+| VPL: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                         | 2026-04-17T19:06:25     | /2026/04/vpl-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429638.htm                                               |
+| Phân tích kỹ thuật phiên chiều 16/04: Sự tích cực kéo dài                                              | 2026-04-16T13:12:00     | /2026/04/phan-tich-ky-thuat-phien-chieu-1604-su-tich-cuc-keo-dai-585-1428452.htm                                          |
+| VPL: Nghị quyết HĐQT thông qua việc chấm dứt hoạt động của Chi nhánh Củ Chi                                 | 2026-04-06T17:04:57     | /2026/04/vpl-nghi-quyet-hdqt-thong-qua-viec-cham-dut-hoat-dong-cua-chi-nhanh-cu-chi-737-1423593.htm                       |
+| VPL: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026 và phê duyệt chương trình, tài liệu họp | 2026-04-06T17:01:20     | /2026/04/vpl-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-va-phe-duyet-chuong-trinh-tai-lieu-hop-737-1… |
+| VPL: Báo cáo thường niên năm 2025                                                                           | 2026-03-31T17:33:03     | /2026/03/vpl-bao-cao-thuong-nien-nam-2025-737-1419927.htm                                                                 |
+| VPL: Giải trình BCTC kiểm toán năm 2025                                                                     | 2026-03-11T17:10:10     | /2026/03/vpl-giai-trinh-bctc-kiem-toan-nam-2025-737-1411076.htm                                                           |
+| VPL: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                 | 2026-03-11T10:41:45     | /2026/03/vpl-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1410752.htm                       |
+| VPL: BCTC Hợp nhất năm 2025                                                                                 | 2026-03-10T00:00:00     | /2026/03/vpl-bctc-hop-nhat-nam-2025-737-1411111.htm                                                                       |
+| VPL: BCTC năm 2025                                                                                          | 2026-03-10T00:00:00     | /2026/03/vpl-bctc-nam-2025-737-1411112.htm                                                                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Dịch vụ lưu trú, ăn uống, giải trí |
+| % Ngành hôm nay | -0.94% |
+| % Cổ phiếu hôm nay | -1.88% |
+| RS (CP − Ngành) | -0.94% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

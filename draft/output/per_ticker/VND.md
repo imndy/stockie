@@ -1,6 +1,6 @@
-# VND — VND
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:56  |  🗂 Quarterly: 05/04/2026 20:05
+# VND — CTCP Chứng khoán VNDIRECT
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:21  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
@@ -71,10 +71,10 @@
 | symbol | VND |
 | pe | 11.64 |
 | pb | 1.19 |
-| roe | 6.57 |
-| roe_pct_rank | 39 |
-| roa | 3.8 |
-| roa_pct_rank | 44 |
+| roe | 9.96 |
+| roe_pct_rank | 47 |
+| roa | 4.22 |
+| roa_pct_rank | 46 |
 | eps | 1435 |
 | bvps | 14089.37 |
 | beta | 1.11 |
@@ -102,6 +102,7 @@
 
 | title                                                                                                    | publishtime         | url                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Lãi ròng VNDIRECT tăng 43% trong quý 1                                                                   | 2026-04-21T19:45:00 | /2026/04/lai-rong-vndirect-tang-43-trong-quy-1-737-1431451.htm                                                            |
 | VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00 | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
 | VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12 | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
 | VND: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-20T00:00:00 | /2026/04/vnd-bctc-tom-tat-quy-1-nam-2026-737-1431244.htm                                                                  |
@@ -111,7 +112,6 @@
 | VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
 | VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026                  | 2026-04-08T16:30:59 | /2026/04/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1425046.htm           |
 | VND: VNDIRECT công bố Nghị quyết HĐQT về việc chào bán chứng quyền có bảo đảm đợt 1 năm 2026             | 2026-04-07T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nghi-quyet-hdqt-ve-viec-chao-ban-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1424345.htm      |
-| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                                  | 2026-03-31T15:44:48 | /2026/03/vnd-bao-cao-ty-le-an-toan-tai-chinh-kiem-toan-nam-2025-737-1419736.htm                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -0.30% |
+| RS (CP − Ngành) | +1.27% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

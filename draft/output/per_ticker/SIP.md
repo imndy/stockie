@@ -1,6 +1,6 @@
-# SIP — SIP
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:54  |  🗂 Quarterly: 05/04/2026 20:02
+# SIP — CTCP Đầu tư Sài Gòn VRG
+**Sàn:** HOSE  |  **Ngành:** Tiện ích
+> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                             | publishtime             | url                                                                                                       |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| ĐHĐCĐ SIP: Đồng Nai lên Thành phố mang lại cơ hội lẫn thách thức                  | 2026-04-21T17:38:00     | /2026/04/dhdcd-sip-dong-nai-len-thanh-pho-mang-lai-co-hoi-lan-thach-thuc-737-1431216.htm                  |
 | SIP: Báo cáo thường niên năm 2025                                                 | 2026-04-20T15:56:31     | /2026/04/sip-bao-cao-thuong-nien-nam-2025-737-1430469.htm                                                 |
 | SIP: Nghị quyết HĐQT về việc điều chỉnh tài liệu họp ĐHĐCĐTN 2026                 | 2026-04-17T17:47:44     | /2026/04/sip-nghi-quyet-hdqt-ve-viec-dieu-chinh-tai-lieu-hop-dhdcdtn-2026-737-1429538.htm                 |
 | SIP: Nghị quyết HĐQT số 1396 ngày 09/04/2026                                      | 2026-04-10T17:26:28     | /2026/04/sip-nghi-quyet-hdqt-so-1396-ngay-09-04-2026-737-1426311.htm                                      |
@@ -113,7 +114,6 @@
 | SIP: BCTC Hợp nhất năm 2025                                                       | 2026-03-30T00:00:00     | /2026/03/sip-bctc-hop-nhat-nam-2025-737-1419571.htm                                                       |
 | SIP: BCTC năm 2025                                                                | 2026-03-30T00:00:00     | /2026/03/sip-bctc-nam-2025-737-1419573.htm                                                                |
 | SIP: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                    | 2026-03-03T17:40:28     | /2026/03/sip-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407825.htm                    |
-| SIP: Nghị quyết HĐQT về việc chốt ngày ĐKCC tổ chức ĐHĐCĐ TN 2026                 | 2026-03-02T13:53:55     | /2026/03/sip-nghi-quyet-hdqt-ve-viec-chot-ngay-dkcc-to-chuc-dhdcd-tn-2026-737-1406987.htm                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -0.89% |
+| % Cổ phiếu hôm nay | -1.96% |
+| RS (CP − Ngành) | -1.07% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

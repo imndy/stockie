@@ -1,6 +1,6 @@
-# PLX — PLX
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:52  |  🗂 Quarterly: 05/04/2026 12:21
+# PLX — Tập đoàn Xăng Dầu Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Bán buôn
+> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.84 |
 | dividend | 1200 |
 | yield | 0.030495552731893267 |
-| pe_pct_rank | 64 |
+| pe_pct_rank | 63 |
 | pb_pct_rank | 65 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -104,6 +104,7 @@
 
 | title                                                                                          | publishtime            | url                                                                                                                    |
 |:-----------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| PLX: Báo cáo thường niên năm 2025                                                              | 2026-04-21T17:15:25    | /2026/04/plx-bao-cao-thuong-nien-nam-2025-737-1431437.htm                                                              |
 | PLX: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đào Thị Thu Hà | 2026-04-17T17:05:10    | /2026/04/plx-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dao-thi-thu-ha-739-1429449.htm |
 | Petrolimex không còn đáp ứng điều kiện công ty đại chúng                                       | 2026-04-14T18:32:00    | /2026/04/petrolimex-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-741-1427539.htm                                      |
 | PLX: Thông báo về việc không đáp ứng điều kiện công ty đại chúng                               | 2026-04-14T15:33:30    | /2026/04/plx-thong-bao-ve-viec-khong-dap-ung-dieu-kien-cong-ty-dai-chung-830-1427438.htm                               |
@@ -113,7 +114,6 @@
 | PLX: BCTC Hợp nhất năm 2025                                                                    | 2026-03-31T00:00:00    | /2026/03/plx-bctc-hop-nhat-nam-2025-737-1420869.htm                                                                    |
 | PLX: BCTC năm 2025                                                                             | 2026-03-31T00:00:00    | /2026/03/plx-bctc-nam-2025-737-1420870.htm                                                                             |
 | Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                           | 2026-03-18T11:02:00    | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                           |
-| Phân tích kỹ thuật phiên chiều 12/03: Rung lắc mạnh                                          | 2026-03-12T13:05:40.11 | /2026/03/phan-tich-ky-thuat-phien-chieu-1203-rung-lac-manh-585-1411390.htm                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán buôn |
+| % Ngành hôm nay | -0.46% |
+| % Cổ phiếu hôm nay | -0.25% |
+| RS (CP − Ngành) | +0.21% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
-# PVD — PVD
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:53  |  🗂 Quarterly: 05/04/2026 13:43
+# PVD — Tổng Công ty cổ phần Khoan và Dịch vụ khoan Dầu khí
+**Sàn:** HOSE  |  **Ngành:** Khai khoáng
+> 📅 Daily: 21/04/2026 22:18  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
@@ -82,8 +82,8 @@
 | beta | 0.65 |
 | dividend | 500 |
 | yield | 0.015384615384615384 |
-| pe_pct_rank | 61 |
-| pb_pct_rank | 45 |
+| pe_pct_rank | 60 |
+| pb_pct_rank | 46 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Khai khoáng |
+| % Ngành hôm nay | -0.76% |
+| % Cổ phiếu hôm nay | -1.07% |
+| RS (CP − Ngành) | -0.31% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

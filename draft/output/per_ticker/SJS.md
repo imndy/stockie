@@ -1,6 +1,6 @@
-# SJS — SJS
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:54  |  🗂 Quarterly: 05/04/2026 20:02
+# SJS — CTCP SJ Group
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
@@ -102,18 +102,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SJS: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T14:07:09     | /2026/04/sjs-bao-cao-thuong-nien-nam-2025-737-1431203.htm                                                                 |
-| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
-| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing            | 2026-04-03T18:04:26     | /2026/04/sjs-thong-bao-thay-doi-nhan-su-bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh-marketing-214-1422853.htm         |
-| SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-31T17:15:37     | /2026/03/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1420143.htm                                                     |
-| SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026             | 2026-03-31T17:14:43     | /2026/03/sjs-nghi-quyet-hdqt-ve-viec-phe-duyet-thoi-gian-dia-diem-va-tai-lieu-hop-dhdcd-tn-nam-2026-737-1420144.htm       |
-| SJS: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                        | 2026-03-30T16:18:47     | /2026/03/sjs-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418776.htm                                 |
-| SJS: BCTC Hợp nhất năm 2025                                                                              | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-hop-nhat-nam-2025-737-1418701.htm                                                                       |
-| SJS: BCTC năm 2025                                                                                       | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-nam-2025-737-1418702.htm                                                                                |
-| Cổ đông lớn nhất bán 39 triệu cp SJS, thu hơn 2 ngàn tỷ                                                  | 2026-03-12T15:02:54.313 | /2026/03/co-dong-lon-nhat-ban-39-trieu-cp-sjs-thu-hon-2-ngan-ty-739-1411406.htm                                           |
-| SJS: Báo cáo về thay đổi sở hữu của CĐ lớn CTCP TM dịch vụ Đầu tư An Phát                                | 2026-03-11T15:41:10     | /2026/03/sjs-bao-cao-ve-thay-doi-so-huu-cua-cd-lon-ctcp-tm-dich-vu-dau-tu-an-phat-737-1410921.htm                         |
+| title                                                                                                    | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SJS: Giải trình chênh lệch LNST quý 1/2026 so với cùng kỳ năm trước                                      | 2026-04-21T18:11:36 | /2026/04/sjs-giai-trinh-chenh-lech-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1431582.htm                               |
+| SJS: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Trưởng ban Kiểm toán nội bộ                     | 2026-04-21T17:17:46 | /2026/04/sjs-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-truong-ban-kiem-toan-noi-bo-737-1431426.htm                |
+| SJS: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T14:07:09 | /2026/04/sjs-bao-cao-thuong-nien-nam-2025-737-1431203.htm                                                                 |
+| SJS: BCTC quý 1 năm 2026                                                                                 | 2026-04-21T00:00:00 | /2026/04/sjs-bctc-quy-1-nam-2026-737-1431524.htm                                                                          |
+| SJS: BCTC Hợp nhất quý 1 năm 2026                                                                        | 2026-04-21T00:00:00 | /2026/04/sjs-bctc-hop-nhat-quy-1-nam-2026-737-1431525.htm                                                                 |
+| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00 | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
+| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing            | 2026-04-03T18:04:26 | /2026/04/sjs-thong-bao-thay-doi-nhan-su-bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh-marketing-214-1422853.htm         |
+| SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-31T17:15:37 | /2026/03/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1420143.htm                                                     |
+| SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026             | 2026-03-31T17:14:43 | /2026/03/sjs-nghi-quyet-hdqt-ve-viec-phe-duyet-thoi-gian-dia-diem-va-tai-lieu-hop-dhdcd-tn-nam-2026-737-1420144.htm       |
+| SJS: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                                        | 2026-03-30T16:18:47 | /2026/03/sjs-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418776.htm                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | +3.00% |
+| RS (CP − Ngành) | +2.35% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
-# TCB — TCB
-**Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: —
+# TCB — Ngân hàng TMCP Kỹ thương Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: —
 
 ---
 
@@ -414,7 +414,7 @@ _Không có dữ liệu_
 | dividend | 1000 |
 | yield | 0.03058103975535168 |
 | pe_pct_rank | 42 |
-| pb_pct_rank | 53 |
+| pb_pct_rank | 54 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -435,6 +435,7 @@ _Không có dữ liệu_
 
 | title                                                                                          | publishtime             | url                                                                                                                    |
 |:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Cán mốc 8.9 nghìn tỷ đồng lợi nhuận: Techcombank khẳng định phong độ “vua” tăng trưởng         | 2026-04-21T20:00:00     | /2026/04/can-moc-89-nghin-ty-dong-loi-nhuan-techcombank-khang-dinh-phong-do-vua-tang-truong-737-1431597.htm            |
 | Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                          | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                         |
 | TCB: Nghị quyết HĐQT về việc phê duyệt giao dịch cấp thẻ tín dụng cho NLQ của NNB              | 2026-04-14T18:00:06     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-cap-the-tin-dung-cho-nlq-cua-nnb-737-1427684.htm              |
 | TCB: Nghị quyết HĐQT về việc phê duyệt cấp tín dụng cho CTCP Phúc Long Heritage                | 2026-04-13T14:13:35     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-cap-tin-dung-cho-ctcp-phuc-long-heritage-737-1426771.htm                |
@@ -444,7 +445,6 @@ _Không có dữ liệu_
 | Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                    | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                      |
 | Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                 | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                   |
 | TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-04-06T15:16:29     | /2026/04/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423464.htm                                                   |
-| TCB: Quyết định của HĐQT về việc phê duyệt thay đổi địa điểm chi nhánh Hà Nội                  | 2026-04-06T15:15:46     | /2026/04/tcb-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-thay-doi-dia-diem-chi-nhanh-ha-noi-737-1423461.htm                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -452,8 +452,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | +0.31% |
+| RS (CP − Ngành) | +0.53% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

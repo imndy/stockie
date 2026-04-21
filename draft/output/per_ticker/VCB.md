@@ -1,6 +1,6 @@
-# VCB — VCB
-**Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: —
+# VCB — Ngân hàng TMCP Ngoại thương Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: —
 
 ---
 
@@ -434,8 +434,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -0.83% |
+| RS (CP − Ngành) | -0.61% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

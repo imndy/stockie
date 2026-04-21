@@ -1,6 +1,6 @@
-# VRE — VRE
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 12:24
+# VRE — CTCP Vincom Retail
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:22  |  🗂 Quarterly: 05/04/2026 12:24
 
 ---
 
@@ -102,18 +102,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime            | url                                                                                                            |
-|:-----------------------------------------------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------|
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?              | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm               |
-| VRE: Đính chính BCTC Hợp nhất và Riêng kiểm toán năm 2025                                | 2026-04-08T09:15:12    | /2026/04/vre-dinh-chinh-bctc-hop-nhat-va-rieng-kiem-toan-nam-2025-737-1424669.htm                              |
-| VRE: Báo cáo thường niên năm 2025                                                        | 2026-04-06T09:15:42    | /2026/04/vre-bao-cao-thuong-nien-nam-2025-737-1423285.htm                                                      |
-| Vincom Retail đặt kế hoạch tăng trưởng 2 chữ số, không chia cổ tức                       | 2026-04-01T17:32:11.06 | /2026/04/vincom-retail-dat-ke-hoach-tang-truong-2-chu-so-khong-chia-co-tuc-737-1420915.htm                     |
-| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm | 2026-04-01T16:47:00    | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm |
-| VRE: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                | 2026-03-26T15:12:48    | /2026/03/vre-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1416911.htm               |
-| VRE: Giải trình chênh lệch BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-03-16T17:12:03    | /2026/03/vre-giai-trinh-chenh-lech-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1412768.htm            |
-| VRE: BCTC Hợp nhất năm 2025                                                              | 2026-03-16T00:00:00    | /2026/03/vre-bctc-hop-nhat-nam-2025-737-1412771.htm                                                            |
-| VRE: BCTC năm 2025                                                                       | 2026-03-16T00:00:00    | /2026/03/vre-bctc-nam-2025-737-1412772.htm                                                                     |
-| VRE: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                           | 2026-03-04T09:39:40    | /2026/03/vre-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407927.htm                         |
+| title                                                                                    | publishtime             | url                                                                                                            |
+|:-----------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------|
+| Chủ chuỗi TTTM Vincom tính chia cổ tức tiền mặt lần đầu sau 7 năm                        | 2026-04-21T17:27:21.473 | /2026/04/chu-chuoi-tttm-vincom-tinh-chia-co-tuc-tien-mat-lan-dau-sau-7-nam-737-1431350.htm                     |
+| VRE: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-21T17:17:24     | /2026/04/vre-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1431442.htm                                    |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?              | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm               |
+| VRE: Đính chính BCTC Hợp nhất và Riêng kiểm toán năm 2025                                | 2026-04-08T09:15:12     | /2026/04/vre-dinh-chinh-bctc-hop-nhat-va-rieng-kiem-toan-nam-2025-737-1424669.htm                              |
+| VRE: Báo cáo thường niên năm 2025                                                        | 2026-04-06T09:15:42     | /2026/04/vre-bao-cao-thuong-nien-nam-2025-737-1423285.htm                                                      |
+| Vincom Retail đặt kế hoạch tăng trưởng 2 chữ số, không chia cổ tức                       | 2026-04-01T17:32:11.06  | /2026/04/vincom-retail-dat-ke-hoach-tang-truong-2-chu-so-khong-chia-co-tuc-737-1420915.htm                     |
+| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm | 2026-04-01T16:47:00     | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm |
+| VRE: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                | 2026-03-26T15:12:48     | /2026/03/vre-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1416911.htm               |
+| VRE: Giải trình chênh lệch BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-03-16T17:12:03     | /2026/03/vre-giai-trinh-chenh-lech-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1412768.htm            |
+| VRE: BCTC Hợp nhất năm 2025                                                              | 2026-03-16T00:00:00     | /2026/03/vre-bctc-hop-nhat-nam-2025-737-1412771.htm                                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | -0.51% |
+| RS (CP − Ngành) | -1.16% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

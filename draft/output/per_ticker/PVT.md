@@ -1,6 +1,6 @@
-# PVT — PVT
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:53  |  🗂 Quarterly: 05/04/2026 20:01
+# PVT — Tổng Công ty cổ phần Vận tải Dầu khí
+**Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
+> 📅 Daily: 21/04/2026 22:18  |  🗂 Quarterly: 05/04/2026 20:01
 
 ---
 
@@ -75,7 +75,7 @@
 | roe | 12.16 |
 | roe_pct_rank | 52 |
 | roa | 4.92 |
-| roa_pct_rank | 50 |
+| roa_pct_rank | 49 |
 | eps | 2541 |
 | bvps | 24452 |
 | beta | 0.67 |
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -0.15% |
+| % Cổ phiếu hôm nay | +2.55% |
+| RS (CP − Ngành) | +2.70% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

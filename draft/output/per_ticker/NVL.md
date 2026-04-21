@@ -1,6 +1,6 @@
-# NVL — NVL
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 13:42
+# NVL — CTCP Tập đoàn Đầu tư Địa ốc No Va 
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:22  |  🗂 Quarterly: 05/04/2026 13:42
 
 ---
 
@@ -79,7 +79,7 @@
 | beta | 0.86 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 66 |
+| pe_pct_rank | 65 |
 | pb_pct_rank | 24 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -118,8 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | +3.21% |
+| RS (CP − Ngành) | +2.56% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

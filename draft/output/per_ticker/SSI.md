@@ -1,6 +1,6 @@
-# SSI — SSI
-**Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 20:54  |  🗂 Quarterly: —
+# SSI — CTCP Chứng khoán SSI
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: —
 
 ---
 
@@ -401,7 +401,7 @@
 | roe | 13.54 |
 | roe_pct_rank | 55 |
 | roa | 4.71 |
-| roa_pct_rank | 48 |
+| roa_pct_rank | 49 |
 | eps | 2120 |
 | bvps | 15467.38 |
 | beta | 1.09 |
@@ -429,6 +429,7 @@
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                                                          | 2026-04-21T17:14:00     | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                                    |
 | SSI quý 1/2026: Doanh thu hợp nhất 3,295 tỷ đồng, lãi trước thuế 1,593 tỷ đồng                                            | 2026-04-20T11:39:16.317 | /2026/04/ssi-quy-12026-doanh-thu-hop-nhat-3295-ty-dong-lai-truoc-thue-1593-ty-dong-737-1430025.htm                        |
 | SSI: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T08:19:00     | /2026/04/ssi-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429861.htm                                                           |
 | SSI: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00     | /2026/04/ssi-bctc-quy-1-nam-2026-737-1430003.htm                                                                          |
@@ -438,7 +439,6 @@
 | SSI: Thông báo danh sách ứng cử viên HĐQT nhiệm kỳ 2026-2031                                                              | 2026-04-09T17:43:57     | /2026/04/ssi-thong-bao-danh-sach-ung-cu-vien-hdqt-nhiem-ky-20262031-830-1425673.htm                                       |
 | Chuyên gia SSI: Triển vọng nâng hạng MSCI được cải thiện sau kỳ đánh giá của FTSE                                         | 2026-04-08T11:32:43.013 | /2026/04/chuyen-gia-ssi-trien-vong-nang-hang-msci-duoc-cai-thien-sau-ky-danh-gia-cua-ftse-145-1424724.htm                 |
 | SSI: CBTT NQ HĐQT số 13/2026/NQ-HĐQT về việc thông qua hồ sơ đăng ký chào bán cổ phiếu riêng lẻ tăng VĐL/Board of Direct… | 2026-04-08T00:00:00     | /2026/04/ssi-cbtt-nq-hdqt-so-13-2026-nqhdqt-ve-viec-thong-qua-ho-so-dang-ky-chao-ban-co-phieu-rieng-le-tang-vdl-board-of… |
-| SSI: Nghị quyết HĐQT về việc thông qua chào bán chứng quyền có bảo đảm                                                    | 2026-04-03T18:29:06     | /2026/04/ssi-nghi-quyet-hdqt-ve-viec-thong-qua-chao-ban-chung-quyen-co-bao-dam-737-1422901.htm                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -446,8 +446,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -2.25% |
+| RS (CP − Ngành) | -0.68% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

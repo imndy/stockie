@@ -1,6 +1,6 @@
-# HVN — HVN
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 13:41
+# HVN — Tổng Công ty Hàng không Việt Nam - CTCP
+**Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
+> 📅 Daily: 21/04/2026 22:22  |  🗂 Quarterly: 05/04/2026 13:41
 
 ---
 
@@ -74,7 +74,7 @@
 | roe | -610.54 |
 | roe_pct_rank | 0 |
 | roa | 11.09 |
-| roa_pct_rank | 72 |
+| roa_pct_rank | 71 |
 | eps | 2991 |
 | bvps | 2191 |
 | beta | 1.06 |
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -0.15% |
+| % Cổ phiếu hôm nay | -1.10% |
+| RS (CP − Ngành) | -0.95% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

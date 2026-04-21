@@ -1,6 +1,6 @@
-# SAB — SAB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:53  |  🗂 Quarterly: 03/04/2026 09:48
+# SAB — Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:18  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.61% |
+| % Cổ phiếu hôm nay | -0.77% |
+| RS (CP − Ngành) | -0.16% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

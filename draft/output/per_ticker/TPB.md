@@ -1,6 +1,6 @@
-# TPB — TPB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: 05/04/2026 13:45
+# TPB — Ngân hàng TMCP Tiên Phong
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -100,6 +100,7 @@
 
 | title                                                                                           | publishtime             | url                                                                                                                   |
 |:------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 được cập nhật                  | 2026-04-21T17:46:29     | /2026/04/tpb-thong-bao-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-duoc-cap-nhat-737-1431487.htm                |
 | TPB: Link công bố Báo cáo thường niên năm 2025                                                  | 2026-04-20T15:59:12     | /2026/04/tpb-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430472.htm                                                |
 | TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 cập nhật                       | 2026-04-15T16:57:44     | /2026/04/tpb-thong-bao-duong-dan-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-737-1428151.htm                     |
 | Tổng Giám đốc TPBank: Mặt bằng huy động bình ổn quanh mốc 7%, hé mở dư địa kéo giảm chi phí vốn | 2026-04-10T17:44:30.753 | /2026/04/tong-giam-doc-tpbank-mat-bang-huy-dong-binh-on-quanh-moc-7-he-mo-du-dia-keo-giam-chi-phi-von-757-1426226.htm |
@@ -109,7 +110,6 @@
 | Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                  | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
 | Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC        | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
 | TPBank muốn lập ngân hàng thành viên tại VIFC vốn 3,000 tỷ đồng                                 | 2026-04-03T15:00:00     | /2026/04/tpbank-muon-lap-ngan-hang-thanh-vien-tai-vifc-von-3000-ty-dong-757-1422529.htm                               |
-| TPB: Thông báo mời họp và tài liệu ĐHĐCĐ thường niên năm 2026                                   | 2026-04-03T09:12:21     | /2026/04/tpb-thong-bao-moi-hop-va-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1422307.htm                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -117,8 +117,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -0.91% |
+| RS (CP − Ngành) | -0.69% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

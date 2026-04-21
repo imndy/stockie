@@ -1,6 +1,6 @@
-# VIX — VIX
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:56  |  🗂 Quarterly: 05/04/2026 20:05
+# VIX — CTCP Chứng khoán VIX
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:21  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VIX: Nghị quyết HĐQT về việc thông qua kết quả chào bán cổ phiếu ra công chúng 2025 và sửa đổi, bổ sung điều lệ công ty   | 2026-04-21T17:15:36     | /2026/04/vix-nghi-quyet-hdqt-ve-viec-thong-qua-ket-qua-chao-ban-co-phieu-ra-cong-chung-2025-va-sua-doi-bo-sung-dieu-le-c… |
 | VIX: Nghị quyết HĐQT thông qua kết quả đợt chào bán thêm cổ phiếu ra công chúng năm 2025. sửa đổi bổ sung Điều lệ Công t… | 2026-04-21T00:00:00     | /2026/04/vix-nghi-quyet-hdqt-thong-qua-ket-qua-dot-chao-ban-them-co-phieu-ra-cong-chung-nam-2025-sua-doi-bo-sung-dieu-le… |
 | VIX: Thông báo thay đổi sổ lượng cổ phiếu có quyền biểu quyết và Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng      | 2026-04-21T00:00:00     | /2026/04/vix-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-va-bao-cao-ket-qua-dot-chao-ban-co-phieu-ra-cong-c… |
 | VIX: Điều lệ sửa đổi bổ sung ngày 21 tháng 04 năm 2026                                                                    | 2026-04-21T00:00:00     | /2026/04/vix-dieu-le-sua-doi-bo-sung-ngay-21-thang-04-nam-2026-737-1431378.htm                                            |
@@ -113,7 +114,6 @@
 | VIX: BCTC quý 1 năm 2026                                                                                                  | 2026-04-17T00:00:00     | /2026/04/vix-bctc-quy-1-nam-2026-737-1430212.htm                                                                          |
 | VIX: Nghị quyết HĐQT về việc thông qua phương án xử lý cổ phiếu còn dư                                                    | 2026-04-16T17:43:08     | /2026/04/vix-nghi-quyet-hdqt-ve-viec-thong-qua-phuong-an-xu-ly-co-phieu-con-du-737-1428778.htm                            |
 | VIX: Nghị quyết của HĐQT thông qua phương án xử lý cổ phiếu còn dư của đợt chào bán                                       | 2026-04-16T00:00:00     | /2026/04/vix-nghi-quyet-cua-hdqt-thong-qua-phuong-an-xu-ly-co-phieu-con-du-cua-dot-chao-ban-739-1428894.htm               |
-| VIX: Báo cáo thường niên năm 2025                                                                                         | 2026-04-09T15:49:08     | /2026/04/vix-bao-cao-thuong-nien-nam-2025-737-1425552.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -2.01% |
+| RS (CP − Ngành) | -0.44% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

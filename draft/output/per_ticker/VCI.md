@@ -1,6 +1,6 @@
-# VCI — VCI
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:55  |  🗂 Quarterly: 05/04/2026 13:45
+# VCI — CTCP Chứng khoán Vietcap
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VCI: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                                    | 2026-04-21T17:58:56     | /2026/04/vci-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1431507.htm                            |
 | VCI: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T17:19:00     | /2026/04/vci-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430780.htm                                                           |
 | VCI: BCTC năm 2026                                                                                                        | 2026-04-20T00:00:00     | /2026/04/vci-bctc-nam-2026-737-1430834.htm                                                                                |
 | VCI: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00     | /2026/04/vci-bctc-quy-1-nam-2026-737-1430835.htm                                                                          |
@@ -113,7 +114,6 @@
 | VCI: Về việc tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu/ Regarding the repo… | 2026-04-13T00:00:00     | /2026/04/vci-ve-viec-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-regarding-t… |
 | Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                                           | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
 | Chủ chuỗi Katinat, Phê La muốn bán toàn bộ cổ phần tại VCI                                                                | 2026-04-08T11:00:00     | /2026/04/chu-chuoi-katinat-phe-la-muon-ban-toan-bo-co-phan-tai-vci-739-1424666.htm                                        |
-| VCI: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Trương Nguyễn Thiên Kim                         | 2026-04-07T17:56:22     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-truong-nguyen-thien-kim-739-1424378.ht… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -2.19% |
+| RS (CP − Ngành) | -0.62% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

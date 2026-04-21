@@ -1,6 +1,6 @@
-# VTP — VTP
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:57  |  🗂 Quarterly: 05/04/2026 20:06
+# VTP — Tổng Công ty cổ phần Bưu chính Viettel
+**Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
+> 📅 Daily: 21/04/2026 22:22  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -0.15% |
+| % Cổ phiếu hôm nay | -1.55% |
+| RS (CP − Ngành) | -1.40% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
