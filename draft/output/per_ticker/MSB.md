@@ -1,6 +1,6 @@
 # MSB — MSB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 23:02  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 21/04/2026 19:37  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
@@ -16,18 +16,18 @@
 | 52w_high_date | 2025-09-04 |
 | 52w_low | 9250 |
 | 52w_low_date | 2025-04-22 |
-| foreign_ownership | 28.8119 |
+| foreign_ownership | 28.8168 |
 | dividend | 0 |
-| beta | 0.76 |
+| beta | 0.75 |
 | eps | 2061 |
-| eps_forward | 4.933504933504934 |
+| eps_forward | 4.855504855504855 |
 | bvps | 13604.51 |
-| pe | 6.14 |
-| pb | 0.93 |
+| pe | 6.04 |
+| pb | 0.92 |
 | price_chg_1m | 10.67 |
 | price_chg_ytd | 33.99 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -37,16 +37,16 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 12.45 |
-| EMA20 | 12.11 |
-| EMA50 | 11.96 |
+| EMA20 | 12.14 |
+| EMA50 | 11.98 |
 | RSI(14) | 61.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.292 |
-| MACD Signal | 0.2 |
-| MACD Histogram | 0.092 |
+| MACD | 0.281 |
+| MACD Signal | 0.216 |
+| MACD Histogram | 0.065 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Tóm tắt chỉ số tài chính
@@ -54,15 +54,15 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSB |
-| pe | 6.14 |
-| pb | 0.93 |
+| pe | 6.04 |
+| pb | 0.92 |
 | roe | 14.2 |
 | roe_pct_rank | 56 |
 | roa | 1.55 |
 | roa_pct_rank | 34 |
 | eps | 2061 |
 | bvps | 13604.51 |
-| beta | 0.76 |
+| beta | 0.75 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 35 |
@@ -74,6 +74,7 @@
 
 | title                                                                                                          | publishtime             | url                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| MSB: Báo cáo thường niên năm 2025                                                                              | 2026-04-21T14:07:13     | /2026/04/msb-bao-cao-thuong-nien-nam-2025-737-1431198.htm                                                                 |
 | MSB: Nghị quyết HĐQT phê duyệt hạn mức tín dụng cho người có liên quan của người nội bộ                        | 2026-04-16T17:18:49     | /2026/04/msb-nghi-quyet-hdqt-phe-duyet-han-muc-tin-dung-cho-nguoi-co-lien-quan-cua-nguoi-noi-bo-737-1428741.htm           |
 | MSB: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Phó TGĐ                                               | 2026-04-15T16:54:51     | /2026/04/msb-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-pho-tgd-214-1428155.htm                                    |
 | MSB: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT nhiệm kỳ 2022-2026                                       | 2026-04-15T16:53:55     | /2026/04/msb-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-nhiem-ky-20222026-214-1428153.htm                           |
@@ -83,7 +84,6 @@
 | Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                           | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
 | MSB: Thông báo giao dịch cổ phiếu của cổ đông nhà nước Công ty TNHH MTV -TCT Bảo đảm an toàn Hàng Hải Việt Nam | 2026-04-10T15:05:17     | /2026/04/msb-thong-bao-giao-dich-co-phieu-cua-co-dong-nha-nuoc-cong-ty-tnhh-mtv-tct-bao-dam-an-toan-hang-hai-viet-nam-83… |
 | MSB: Báo cáo kết quả giao dịch cổ phiếu của cổ đông nhà nước Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam    | 2026-04-10T15:05:15     | /2026/04/msb-bao-cao-ket-qua-giao-dich-co-phieu-cua-co-dong-nha-nuoc-ngan-hang-thuong-mai-co-phan-hang-hai-viet-nam-739-… |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                                 | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSB      | 2026-03-24 00:00:00 |  11.2  |  11.3  | 11.1  |   11.25 |  2798300 |
 | MSB      | 2026-03-25 00:00:00 |  11.35 |  11.45 | 11.25 |   11.3  |  4478300 |
 | MSB      | 2026-03-26 00:00:00 |  11.3  |  11.35 | 11.25 |   11.3  |  3768800 |
 | MSB      | 2026-03-27 00:00:00 |  11.3  |  11.4  | 11.25 |   11.35 |  6612900 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | MSB      | 2026-04-16 00:00:00 |  12.6  |  12.75 | 12.55 |   12.65 | 10953200 |
 | MSB      | 2026-04-17 00:00:00 |  12.7  |  12.75 | 12.6  |   12.65 |  8991300 |
 | MSB      | 2026-04-20 00:00:00 |  12.65 |  12.7  | 12.45 |   12.45 | 14655100 |
+| MSB      | 2026-04-21 00:00:00 |  12.45 |  12.65 | 12.4  |   12.45 |  9829200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSB      | 2026-04-20 14:27:56 |    12.5 |     4000 | Buy          | 465906589 |
-| MSB      | 2026-04-20 14:27:57 |    12.5 |      200 | Buy          | 465906671 |
-| MSB      | 2026-04-20 14:28:00 |    12.5 |      100 | Buy          | 465906852 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |     1000 | Buy          | 465907290 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |     5000 | Buy          | 465907289 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |      500 | Buy          | 465907288 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |      300 | Buy          | 465907287 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |      200 | Buy          | 465907282 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |     1700 | Buy          | 465907285 |
-| MSB      | 2026-04-20 14:28:06 |    12.5 |      300 | Buy          | 465907284 |
+| MSB      | 2026-04-21 14:23:53 |   12.5  |     3300 | Buy          | 466465503 |
+| MSB      | 2026-04-21 14:23:53 |   12.5  |    46700 | Buy          | 466465504 |
+| MSB      | 2026-04-21 14:24:11 |   12.5  |      500 | Buy          | 466467101 |
+| MSB      | 2026-04-21 14:24:11 |   12.5  |      300 | Buy          | 466467099 |
+| MSB      | 2026-04-21 14:24:11 |   12.5  |      500 | Buy          | 466467102 |
+| MSB      | 2026-04-21 14:24:15 |   12.45 |     5000 | Sell         | 466467469 |
+| MSB      | 2026-04-21 14:24:20 |   12.5  |     7000 | Buy          | 466467854 |
+| MSB      | 2026-04-21 14:24:20 |   12.5  |    43000 | Buy          | 466467855 |
+| MSB      | 2026-04-21 14:24:42 |   12.5  |     1400 | Buy          | 466469986 |
+| MSB      | 2026-04-21 14:25:04 |   12.45 |      200 | Sell         | 466471834 |
 
 <!-- END:DAILY -->
 

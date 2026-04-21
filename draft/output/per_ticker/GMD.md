@@ -1,6 +1,6 @@
 # GMD — GMD
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 21/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | GMD |
 | exchange | HOSE |
-| market_cap | 31645937087800 |
+| market_cap | 31560638066000 |
 | 52w_high | 84400 |
 | 52w_high_date | 2026-02-27 |
 | 52w_low | 45293 |
 | 52w_low_date | 2025-04-22 |
-| foreign_ownership | 41.99 |
+| foreign_ownership | 41.9826 |
 | dividend | 2000 |
-| beta | 0.78 |
+| beta | 0.77 |
 | eps | 3934 |
-| eps_forward | 15.908252459275086 |
+| eps_forward | 15.822953518474684 |
 | bvps | 34842 |
-| pe | 18.96 |
-| pb | 2.14 |
-| price_chg_1m | -3.89 |
-| price_chg_ytd | 57.59 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
-| yield | 0.026954177897574125 |
+| pe | 18.86 |
+| pb | 2.13 |
+| price_chg_1m | -4.15 |
+| price_chg_ytd | 60.30 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
+| yield | 0.02702702702702703 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,17 +36,17 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 74.2 |
-| EMA20 | 74.43 |
-| EMA50 | 73.62 |
-| RSI(14) | 49.2 |
+| Giá đóng cửa | 74.0 |
+| EMA20 | 74.39 |
+| EMA50 | 73.64 |
+| RSI(14) | 48.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | -0.362 |
-| MACD Signal | -0.335 |
-| MACD Histogram | -0.027 |
+| MACD | -0.346 |
+| MACD Signal | -0.337 |
+| MACD Histogram | -0.009 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
@@ -54,18 +54,18 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GMD |
-| pe | 18.96 |
-| pb | 2.14 |
+| pe | 18.86 |
+| pb | 2.13 |
 | roe | 15.54 |
 | roe_pct_rank | 59 |
 | roa | 8.88 |
 | roa_pct_rank | 64 |
 | eps | 3934 |
 | bvps | 34842 |
-| beta | 0.78 |
+| beta | 0.77 |
 | dividend | 2000 |
-| yield | 0.026954177897574125 |
-| pe_pct_rank | 64 |
+| yield | 0.02702702702702703 |
+| pe_pct_rank | 63 |
 | pb_pct_rank | 77 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -75,6 +75,7 @@
 | title                                                                                            | publishtime         | url                                                                                                                      |
 |:-------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                              | 2026-04-20T15:02:00 | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                               |
+| GMD: Báo cáo phát triển bền vững năm 2025                                                        | 2026-04-20T13:43:01 | /2026/04/gmd-bao-cao-phat-trien-ben-vung-nam-2025-830-1430162.htm                                                        |
 | GMD: Báo cáo thường niên năm 2025                                                                | 2026-04-20T13:42:29 | /2026/04/gmd-bao-cao-thuong-nien-nam-2025-737-1430161.htm                                                                |
 | GMD động thổ Gemalink giai đoạn 2: Củng cố vị thế cảng nước sâu số 1 Việt Nam                    | 2026-04-17T14:52:00 | /2026/04/gmd-dong-tho-gemalink-giai-doan-2-cung-co-vi-the-cang-nuoc-sau-so-1-viet-nam-737-1429145.htm                    |
 | GMD: Nghị quyết HĐQT về việc chuyển nhượng cổ phần tại FCC                                       | 2026-04-16T16:57:05 | /2026/04/gmd-nghi-quyet-hdqt-ve-viec-chuyen-nhuong-co-phan-tai-fcc-737-1428676.htm                                       |
@@ -83,7 +84,6 @@
 | GMD: Gemadept và CJ Logistics tối ưu hóa Chiến lược hợp tác giữa hai doanh nghiệp                | 2026-03-31T18:11:37 | /2026/03/gmd-gemadept-va-cj-logistics-toi-uu-hoa-chien-luoc-hop-tac-giua-hai-doanh-nghiep-830-1420018.htm                |
 | Gemadept và CJ Logistics hợp tác để tối ưu hóa chuỗi cung ứng                                    | 2026-03-31T09:54:00 | /2026/03/gemadept-va-cj-logistics-hop-tac-de-toi-uu-hoa-chuoi-cung-ung-737-1419195.htm                                   |
 | GMD: BCTC Hợp nhất năm 2025                                                                      | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-hop-nhat-nam-2025-737-1419502.htm                                                                      |
-| GMD: BCTC năm 2025                                                                               | 2026-03-30T00:00:00 | /2026/03/gmd-bctc-nam-2025-737-1419504.htm                                                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GMD      | 2026-03-24 00:00:00 |   74   |   74.7 |  73.2 |    73.9 |   614000 |
 | GMD      | 2026-03-25 00:00:00 |   74.4 |   77.4 |  74.4 |    77.2 |  1417700 |
 | GMD      | 2026-03-26 00:00:00 |   77.3 |   77.8 |  74   |    77.8 |  2235400 |
 | GMD      | 2026-03-27 00:00:00 |   77.8 |   78.8 |  76.6 |    78.5 |  2122600 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | GMD      | 2026-04-16 00:00:00 |   74.2 |   75.1 |  73.5 |    73.6 |  1374800 |
 | GMD      | 2026-04-17 00:00:00 |   74.6 |   76   |  74.2 |    74.6 |  1521300 |
 | GMD      | 2026-04-20 00:00:00 |   75   |   75.7 |  74   |    74.2 |   692900 |
+| GMD      | 2026-04-21 00:00:00 |   74.8 |   75.3 |  73.9 |    74   |   769900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GMD      | 2026-04-20 14:00:00 |    74.1 |      200 | Sell         | 465831803 |
-| GMD      | 2026-04-20 14:00:00 |    74   |      800 | Sell         | 465831809 |
-| GMD      | 2026-04-20 14:00:00 |    74   |      100 | Sell         | 465831807 |
-| GMD      | 2026-04-20 14:00:00 |    74.1 |      100 | Sell         | 465831804 |
-| GMD      | 2026-04-20 14:00:00 |    74   |     2600 | Sell         | 465831805 |
-| GMD      | 2026-04-20 14:00:00 |    74   |      200 | Sell         | 465831806 |
-| GMD      | 2026-04-20 14:00:38 |    74.1 |     1000 | Sell         | 465833196 |
-| GMD      | 2026-04-20 14:00:38 |    74.1 |     3000 | Sell         | 465833198 |
-| GMD      | 2026-04-20 14:01:15 |    74.1 |     2200 | Sell         | 465834567 |
-| GMD      | 2026-04-20 14:01:15 |    74.1 |     1800 | Sell         | 465834566 |
+| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408715 |
+| GMD      | 2026-04-21 14:09:07 |    74.1 |      300 | Sell         | 466408719 |
+| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408716 |
+| GMD      | 2026-04-21 14:09:07 |    74.1 |     5000 | Sell         | 466408717 |
+| GMD      | 2026-04-21 14:09:07 |    74.1 |      100 | Sell         | 466408718 |
+| GMD      | 2026-04-21 14:10:01 |    74.1 |     1000 | Sell         | 466411514 |
+| GMD      | 2026-04-21 14:10:01 |    74.1 |      700 | Sell         | 466411509 |
+| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411510 |
+| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411513 |
+| GMD      | 2026-04-21 14:10:01 |    74.1 |      100 | Sell         | 466411512 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # VCI — VCI
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 23:08  |  🗂 Quarterly: 05/04/2026 13:45
+> 📅 Daily: 21/04/2026 19:43  |  🗂 Quarterly: 05/04/2026 13:45
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VCI |
 | exchange | HOSE |
-| market_cap | 31445114745000 |
+| market_cap | 30756535590000 |
 | 52w_high | 34986 |
 | 52w_high_date | 2025-08-29 |
 | 52w_low | 23711 |
 | 52w_low_date | 2025-12-12 |
-| foreign_ownership | 20.3101 |
+| foreign_ownership | 20.2053 |
 | dividend | 750 |
 | beta | 0.98 |
-| eps | 1862 |
-| eps_forward | 10.090332500480493 |
-| bvps | 21185.62 |
-| pe | 14.66 |
-| pb | 1.29 |
-| price_chg_1m | 4.32 |
-| price_chg_ytd | 1.99 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
-| yield | 0.02737226277372263 |
+| eps | 1848 |
+| eps_forward | 10.127293425390677 |
+| bvps | 20373.4 |
+| pe | 14.83 |
+| pb | 1.34 |
+| price_chg_1m | 2.04 |
+| price_chg_ytd | 3.53 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
+| yield | 0.027985074626865673 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,37 +36,37 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.4 |
-| EMA20 | 27.31 |
-| EMA50 | 26.98 |
-| RSI(14) | 51.5 |
+| Giá đóng cửa | 26.8 |
+| EMA20 | 27.26 |
+| EMA50 | 26.97 |
+| RSI(14) | 47.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.255 |
-| MACD Signal | 0.241 |
-| MACD Histogram | 0.014 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.182 |
+| MACD Signal | 0.229 |
+| MACD Histogram | -0.047 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VCI |
-| pe | 14.66 |
-| pb | 1.29 |
+| pe | 14.83 |
+| pb | 1.34 |
 | roe | 8.67 |
 | roe_pct_rank | 44 |
 | roa | 4.29 |
 | roa_pct_rank | 47 |
-| eps | 1862 |
-| bvps | 21185.62 |
+| eps | 1848 |
+| bvps | 20373.4 |
 | beta | 0.98 |
 | dividend | 750 |
-| yield | 0.02737226277372263 |
-| pe_pct_rank | 54 |
-| pb_pct_rank | 53 |
+| yield | 0.027985074626865673 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 55 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -77,13 +77,13 @@
 | VCI: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T17:19:00     | /2026/04/vci-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430780.htm                                                           |
 | VCI: BCTC năm 2026                                                                                                        | 2026-04-20T00:00:00     | /2026/04/vci-bctc-nam-2026-737-1430834.htm                                                                                |
 | VCI: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00     | /2026/04/vci-bctc-quy-1-nam-2026-737-1430835.htm                                                                          |
+| VCI: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-20T00:00:00     | /2026/04/vci-bctc-tom-tat-quy-1-nam-2026-737-1430978.htm                                                                  |
 | VCI: Quyết định về việc thay đổi đăng ký niêm yết                                                                         | 2026-04-17T09:49:18     | /2026/04/vci-quyet-dinh-ve-viec-thay-doi-dang-ky-niem-yet-741-1429029.htm                                                 |
 | VCI: Tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                              | 2026-04-14T09:08:55     | /2026/04/vci-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-739-1427211.htm      |
 | VCI: Về việc tài liệu báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu/ Regarding the repo… | 2026-04-13T00:00:00     | /2026/04/vci-ve-viec-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-regarding-t… |
 | Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                                             | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
 | Chủ chuỗi Katinat, Phê La muốn bán toàn bộ cổ phần tại VCI                                                                | 2026-04-08T11:00:00     | /2026/04/chu-chuoi-katinat-phe-la-muon-ban-toan-bo-co-phan-tai-vci-739-1424666.htm                                        |
 | VCI: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Trương Nguyễn Thiên Kim                         | 2026-04-07T17:56:22     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-truong-nguyen-thien-kim-739-1424378.ht… |
-| VCI: Thông báo giao dịch cổ phiếu của người có liên quan của người nội bộ/Notice of the transaction in share of affiliat… | 2026-04-07T00:00:00     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-notice-of-the-transaction-in-share-of-… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCI      | 2026-03-24 00:00:00 |  25.08 |  25.59 | 24.86 |   25    |  9594581 |
 | VCI      | 2026-03-25 00:00:00 |  25.48 |  26.14 | 25.37 |   25.74 | 12474555 |
 | VCI      | 2026-03-26 00:00:00 |  26.2  |  26.55 | 26    |   26.4  | 10732909 |
 | VCI      | 2026-03-27 00:00:00 |  26.3  |  26.9  | 26.2  |   26.7  |  8174945 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | VCI      | 2026-04-16 00:00:00 |  27.7  |  28    | 27.35 |   27.6  |  6633600 |
 | VCI      | 2026-04-17 00:00:00 |  27.8  |  27.9  | 27.3  |   27.3  |  5589700 |
 | VCI      | 2026-04-20 00:00:00 |  27.3  |  27.75 | 27.25 |   27.4  |  6324700 |
+| VCI      | 2026-04-21 00:00:00 |  27.55 |  27.7  | 26.8  |   26.8  |  9107000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCI      | 2026-04-20 14:28:07 |   27.45 |     1500 | Sell         | 465907400 |
-| VCI      | 2026-04-20 14:28:08 |   27.5  |      600 | Buy          | 465907430 |
-| VCI      | 2026-04-20 14:28:09 |   27.5  |     1000 | Buy          | 465907504 |
-| VCI      | 2026-04-20 14:28:11 |   27.5  |     1000 | Buy          | 465907590 |
-| VCI      | 2026-04-20 14:28:11 |   27.5  |      600 | Buy          | 465907594 |
-| VCI      | 2026-04-20 14:28:13 |   27.5  |     1000 | Buy          | 465907660 |
-| VCI      | 2026-04-20 14:28:14 |   27.5  |      600 | Buy          | 465907735 |
-| VCI      | 2026-04-20 14:28:14 |   27.5  |     1000 | Buy          | 465907705 |
-| VCI      | 2026-04-20 14:28:14 |   27.5  |      100 | Buy          | 465907704 |
-| VCI      | 2026-04-20 14:28:14 |   27.5  |     1700 | Buy          | 465907706 |
+| VCI      | 2026-04-21 14:27:53 |   26.9  |      200 | Buy          | 466486319 |
+| VCI      | 2026-04-21 14:28:01 |   26.9  |      100 | Buy          | 466486984 |
+| VCI      | 2026-04-21 14:28:01 |   26.9  |      100 | Buy          | 466487078 |
+| VCI      | 2026-04-21 14:28:05 |   26.9  |      200 | Buy          | 466487470 |
+| VCI      | 2026-04-21 14:28:05 |   26.9  |      100 | Buy          | 466487481 |
+| VCI      | 2026-04-21 14:28:10 |   26.9  |      100 | Buy          | 466487888 |
+| VCI      | 2026-04-21 14:28:12 |   26.85 |     2000 | Sell         | 466488069 |
+| VCI      | 2026-04-21 14:28:15 |   26.9  |      300 | Buy          | 466488304 |
+| VCI      | 2026-04-21 14:28:15 |   26.9  |      100 | Buy          | 466488305 |
+| VCI      | 2026-04-21 14:28:15 |   26.9  |      900 | Buy          | 466488306 |
 
 <!-- END:DAILY -->
 

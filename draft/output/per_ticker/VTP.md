@@ -1,6 +1,6 @@
 # VTP — VTP
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 23:11  |  🗂 Quarterly: 05/04/2026 20:06
+> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 20:06
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VTP |
 | exchange | HOSE |
-| market_cap | 8622239373600 |
+| market_cap | 8488278027400 |
 | 52w_high | 94828 |
 | 52w_high_date | 2026-01-15 |
 | 52w_low | 60766 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 4.7139 |
+| foreign_ownership | 4.6737 |
 | dividend | 1081 |
 | beta | 0.8 |
 | eps | 3348 |
-| eps_forward | 21.355952595801 |
+| eps_forward | 21.29579498285508 |
 | bvps | 14519 |
-| pe | 21.21 |
-| pb | 4.89 |
-| price_chg_1m | 8.38 |
-| price_chg_ytd | -3.62 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
-| yield | 0.015268361581920903 |
+| pe | 21.15 |
+| pb | 4.88 |
+| price_chg_1m | 6.69 |
+| price_chg_ytd | -2.21 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
+| yield | 0.015509325681492108 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,26 +36,26 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 70.8 |
-| EMA20 | 71.12 |
-| EMA50 | 72.46 |
-| RSI(14) | 48.7 |
+| Giá đóng cửa | 69.7 |
+| EMA20 | 70.99 |
+| EMA50 | 72.35 |
+| RSI(14) | 46.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.031 |
-| MACD Signal | -0.096 |
-| MACD Histogram | 0.127 |
-| MACD nhận xét | MACD > Signal → Đà ĐẦU |
+| MACD | -0.097 |
+| MACD Signal | -0.097 |
+| MACD Histogram | -0.001 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VTP |
-| pe | 21.21 |
-| pb | 4.89 |
+| pe | 21.15 |
+| pb | 4.88 |
 | roe | 24.13 |
 | roe_pct_rank | 77 |
 | roa | 5.83 |
@@ -64,8 +64,8 @@
 | bvps | 14519 |
 | beta | 0.8 |
 | dividend | 1081 |
-| yield | 0.015268361581920903 |
-| pe_pct_rank | 69 |
+| yield | 0.015509325681492108 |
+| pe_pct_rank | 68 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -74,6 +74,7 @@
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VTP: Báo cáo thường niên năm 2025                                                                                         | 2026-04-21T08:55:08     | /2026/04/vtp-bao-cao-thuong-nien-nam-2025-737-1430928.htm                                                                 |
 | VTP: Thông báo giao dịch quyền mua cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hương Giang                    | 2026-04-17T18:29:14     | /2026/04/vtp-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-huong-giang-739-14296… |
 | VTP: Thông báo giao dịch quyền mua cổ phiếu của Người nội bộ Phạm Văn Tuyên, Đinh Thanh Sơn                               | 2026-04-17T18:29:14     | /2026/04/vtp-thong-bao-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-pham-van-tuyen-dinh-thanh-son-739-1429609.htm        |
 | VTP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Công đoàn cơ sở Tổng Công ty Cổ phần Bưu chí… | 2026-04-10T17:44:34     | /2026/04/vtp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-cong-doan-co-so-tong-cong-ty-co-phan… |
@@ -83,7 +84,6 @@
 | VTP: BCTC Hợp nhất năm 2025                                                                                               | 2026-03-31T00:00:00     | /2026/03/vtp-bctc-hop-nhat-nam-2025-737-1420545.htm                                                                       |
 | Viettel Post chốt quyền phát hành hơn 51 triệu cp giá 10,000 đồng/cp                                                      | 2026-03-30T12:27:46.133 | /2026/03/viettel-post-chot-quyen-phat-hanh-hon-51-trieu-cp-gia-10000-dongcp-764-1418434.htm                               |
 | VTP: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                                             | 2026-03-27T10:31:42     | /2026/03/vtp-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1417394.htm                                                     |
-| VTP: Thông báo chào bán cổ phiếu ra công chúng                                                                            | 2026-03-25T18:10:36     | /2026/03/vtp-thong-bao-chao-ban-co-phieu-ra-cong-chung-739-1416520.htm                                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VTP      | 2026-03-24 00:00:00 |  62.53 |  62.82 | 61.42 |   62.23 |   257716 |
 | VTP      | 2026-03-25 00:00:00 |  62.6  |  65.54 | 62.6  |   65.39 |   523452 |
 | VTP      | 2026-03-26 00:00:00 |  66.87 |  69.96 | 66.28 |   69.96 |   857775 |
 | VTP      | 2026-03-27 00:00:00 |  72.82 |  74.3  | 71.5  |   72.97 |  1077429 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | VTP      | 2026-04-16 00:00:00 |  71.5  |  72.1  | 70.1  |   70.3  |   589368 |
 | VTP      | 2026-04-17 00:00:00 |  70.3  |  72.3  | 70.3  |   71    |   261300 |
 | VTP      | 2026-04-20 00:00:00 |  70.8  |  71.9  | 70.7  |   70.8  |   266300 |
+| VTP      | 2026-04-21 00:00:00 |  70    |  71.5  | 69.5  |   69.7  |   644100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VTP      | 2026-04-20 14:11:00 |    70.8 |      100 | Buy          | 465855258 |
-| VTP      | 2026-04-20 14:11:08 |    70.8 |      200 | Buy          | 465855503 |
-| VTP      | 2026-04-20 14:11:09 |    70.8 |      100 | Buy          | 465855530 |
-| VTP      | 2026-04-20 14:11:29 |    70.8 |     1000 | Buy          | 465856182 |
-| VTP      | 2026-04-20 14:11:35 |    70.8 |      100 | Buy          | 465856354 |
-| VTP      | 2026-04-20 14:11:45 |    70.8 |      100 | Buy          | 465856662 |
-| VTP      | 2026-04-20 14:11:50 |    70.8 |      400 | Buy          | 465856817 |
-| VTP      | 2026-04-20 14:11:57 |    70.8 |      100 | Buy          | 465857113 |
-| VTP      | 2026-04-20 14:12:08 |    70.8 |      100 | Buy          | 465857506 |
-| VTP      | 2026-04-20 14:12:50 |    70.8 |      100 | Sell         | 465858931 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      100 | Sell         | 466462875 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      200 | Sell         | 466462920 |
+| VTP      | 2026-04-21 14:23:20 |    70   |     2000 | Sell         | 466462880 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      500 | Sell         | 466462876 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      100 | Sell         | 466462878 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      400 | Sell         | 466462877 |
+| VTP      | 2026-04-21 14:23:20 |    70   |      500 | Sell         | 466462879 |
+| VTP      | 2026-04-21 14:23:28 |    70   |      300 | Sell         | 466463485 |
+| VTP      | 2026-04-21 14:23:28 |    70   |      200 | Sell         | 466463488 |
+| VTP      | 2026-04-21 14:23:28 |    69.9 |      500 | Sell         | 466463493 |
 
 <!-- END:DAILY -->
 

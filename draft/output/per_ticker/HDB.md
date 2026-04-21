@@ -1,6 +1,6 @@
 # HDB — HDB
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:59  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 21/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HDB |
 | exchange | HOSE |
-| market_cap | 134641933088700 |
+| market_cap | 133640877824100 |
 | 52w_high | 29700 |
 | 52w_high_date | 2025-12-31 |
 | 52w_low | 15652 |
 | 52w_low_date | 2025-04-22 |
-| foreign_ownership | 21.8939 |
+| foreign_ownership | 21.8656 |
 | dividend | 0 |
 | beta | 0.9 |
 | eps | 4644 |
-| eps_forward | 6.19190656365729 |
+| eps_forward | 4.473156901382688 |
 | bvps | 20278.87 |
-| pe | 5.64 |
-| pb | 1.29 |
-| price_chg_1m | 7.60 |
-| price_chg_ytd | 67.74 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
+| pe | 5.79 |
+| pb | 1.33 |
+| price_chg_1m | 6.80 |
+| price_chg_ytd | 69.75 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,17 +36,17 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.9 |
-| EMA20 | 25.96 |
-| EMA50 | 26.13 |
-| RSI(14) | 60.8 |
+| Giá đóng cửa | 26.7 |
+| EMA20 | 26.03 |
+| EMA50 | 26.15 |
+| RSI(14) | 58.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.128 |
-| MACD Signal | -0.042 |
-| MACD Histogram | 0.17 |
+| MACD | 0.167 |
+| MACD Signal | -0.0 |
+| MACD Histogram | 0.168 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Tóm tắt chỉ số tài chính
@@ -54,8 +54,8 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDB |
-| pe | 5.64 |
-| pb | 1.29 |
+| pe | 5.79 |
+| pb | 1.33 |
 | roe | 25.28 |
 | roe_pct_rank | 79 |
 | roa | 2.03 |
@@ -74,6 +74,7 @@
 
 | title                                                                                         | publishtime            | url                                                                                                                   |
 |:----------------------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------|
+| HDB: Thông báo đường dẫn báo cáo thường niên năm 2025                                         | 2026-04-21T09:00:09    | /2026/04/hdb-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1430932.htm                                         |
 | DCM, HDB và SAB có triển vọng gì?                                                             | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                                              |
 | HDB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Minh Đức                            | 2026-04-15T17:56:48    | /2026/04/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-minh-duc-830-1428267.htm                            |
 | Cú hích từ VIFC: HDBank cùng LSE mở lối cho các tập đoàn lớn huy động vốn xuyên biên giới     | 2026-04-14T15:30:00    | /2026/04/cu-hich-tu-vifc-hdbank-cung-lse-mo-loi-cho-cac-tap-doan-lon-huy-dong-von-xuyen-bien-gioi-757-1427356.htm     |
@@ -83,7 +84,6 @@
 | Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC      | 2026-04-06T13:02:00    | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
 | HDBank hướng tới mốc tài sản 1.2 triệu tỷ, mục tiêu lợi nhuận tăng 41% trong năm 2026         | 2026-04-04T10:33:21.84 | /2026/04/hdbank-huong-toi-moc-tai-san-12-trieu-ty-muc-tieu-loi-nhuan-tang-41-trong-nam-2026-737-1422994.htm           |
 | HDB: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-03T18:12:41    | /2026/04/hdb-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422872.htm                                                      |
-| AGR: Nghị quyết HĐQT về việc phê duyệt thiết lập hạn mức tín dụng tại HDB                     | 2026-04-01T16:54:27    | /2026/04/agr-nghi-quyet-hdqt-ve-viec-phe-duyet-thiet-lap-han-muc-tin-dung-tai-hdb-737-1421053.htm                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDB      | 2026-03-24 00:00:00 |  24.5  |  24.9  | 24.25 |   24.3  | 13461800 |
 | HDB      | 2026-03-25 00:00:00 |  24.5  |  25    | 24.5  |   24.9  | 11108800 |
 | HDB      | 2026-03-26 00:00:00 |  24.95 |  25    | 24.5  |   24.55 |  9142400 |
 | HDB      | 2026-03-27 00:00:00 |  24.6  |  25.35 | 24.55 |   25.3  | 14613100 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | HDB      | 2026-04-16 00:00:00 |  26.35 |  26.4  | 26.1  |   26.1  |  7878000 |
 | HDB      | 2026-04-17 00:00:00 |  26.3  |  26.5  | 26.05 |   26.2  | 12053200 |
 | HDB      | 2026-04-20 00:00:00 |  26.2  |  26.95 | 26.2  |   26.9  | 19167600 |
+| HDB      | 2026-04-21 00:00:00 |  27    |  27.1  | 26.65 |   26.7  |  9480200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDB      | 2026-04-20 14:27:07 |   26.8  |     1000 | Sell         | 465903443 |
-| HDB      | 2026-04-20 14:27:07 |   26.8  |      200 | Sell         | 465903447 |
-| HDB      | 2026-04-20 14:27:09 |   26.85 |      200 | Buy          | 465903569 |
-| HDB      | 2026-04-20 14:27:09 |   26.85 |      800 | Buy          | 465903568 |
-| HDB      | 2026-04-20 14:27:10 |   26.85 |      100 | Buy          | 465903724 |
-| HDB      | 2026-04-20 14:27:10 |   26.85 |      100 | Buy          | 465903725 |
-| HDB      | 2026-04-20 14:27:10 |   26.85 |      100 | Buy          | 465903726 |
-| HDB      | 2026-04-20 14:27:10 |   26.85 |     1500 | Buy          | 465903727 |
-| HDB      | 2026-04-20 14:27:10 |   26.85 |      200 | Buy          | 465903723 |
-| HDB      | 2026-04-20 14:27:14 |   26.8  |      300 | Sell         | 465903928 |
+| HDB      | 2026-04-21 14:26:50 |    26.7 |      700 | Buy          | 466480664 |
+| HDB      | 2026-04-21 14:27:01 |    26.7 |     1000 | Buy          | 466481422 |
+| HDB      | 2026-04-21 14:27:04 |    26.7 |     2000 | Buy          | 466481661 |
+| HDB      | 2026-04-21 14:27:04 |    26.7 |     1000 | Buy          | 466481597 |
+| HDB      | 2026-04-21 14:27:24 |    26.7 |     1000 | Buy          | 466483511 |
+| HDB      | 2026-04-21 14:27:33 |    26.7 |      600 | Buy          | 466484252 |
+| HDB      | 2026-04-21 14:27:33 |    26.7 |     2000 | Buy          | 466484261 |
+| HDB      | 2026-04-21 14:27:40 |    26.7 |      100 | Buy          | 466484924 |
+| HDB      | 2026-04-21 14:27:40 |    26.7 |      400 | Buy          | 466484925 |
+| HDB      | 2026-04-21 14:27:41 |    26.7 |      100 | Buy          | 466485015 |
 
 <!-- END:DAILY -->
 

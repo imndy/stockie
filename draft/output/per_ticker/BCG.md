@@ -1,6 +1,6 @@
 # BCG — BCG
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 22:55  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 21/04/2026 19:45  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
@@ -25,9 +25,9 @@
 | pe | 4.48 |
 | pb | 0.10 |
 | price_chg_1m | 0.00 |
-| price_chg_ytd | -13.65 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
+| price_chg_ytd | -15.67 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
 | yield | 0 |
 | financial_date | 12/2024 |
 | source | KBS |
@@ -56,10 +56,10 @@
 | symbol | BCG |
 | pe | 4.48 |
 | pb | 0.10 |
-| roe | 14.53 |
-| roe_pct_rank | 57 |
-| roa | 13.11 |
-| roa_pct_rank | 79 |
+| roe | 4.35 |
+| roe_pct_rank | 34 |
+| roa | 0.91 |
+| roa_pct_rank | 31 |
 | eps | 565 |
 | bvps | 24305 |
 | beta | 0 |
@@ -67,7 +67,7 @@
 | yield | 0 |
 | pe_pct_rank | 31 |
 | pb_pct_rank | 1 |
-| financial_date | 12/2025 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Tin tức gần nhất (Top 10)

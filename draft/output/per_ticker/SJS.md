@@ -1,6 +1,6 @@
 # SJS — SJS
 **Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 20/04/2026 23:06  |  🗂 Quarterly: 05/04/2026 20:02
+> 📅 Daily: 21/04/2026 19:42  |  🗂 Quarterly: 05/04/2026 20:02
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | SJS |
 | exchange | HOSE |
-| market_cap | 15855408332400 |
+| market_cap | 16331368057200 |
 | 52w_high | 81300 |
 | 52w_high_date | 2025-09-15 |
 | 52w_low | 32723 |
 | 52w_low_date | 2025-04-22 |
-| foreign_ownership | 0.5768 |
+| foreign_ownership | 0.5769 |
 | dividend | 0 |
 | beta | 0.53 |
 | eps | 1614 |
-| eps_forward | 45.04619359664108 |
+| eps_forward | 45.301172050961696 |
 | bvps | 10054 |
-| pe | 32.83 |
-| pb | 5.27 |
-| price_chg_1m | 8.33 |
-| price_chg_ytd | 56.78 |
-| price_chg_1m_rank | 12.70 |
-| price_chg_ytd_rank | 50.54 |
+| pe | 33.01 |
+| pb | 5.30 |
+| price_chg_1m | 11.59 |
+| price_chg_ytd | 61.85 |
+| price_chg_1m_rank | 12.48 |
+| price_chg_ytd_rank | 52.61 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,17 +36,17 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 53.3 |
-| EMA20 | 51.36 |
-| EMA50 | 51.57 |
-| RSI(14) | 63.0 |
+| Giá đóng cửa | 54.9 |
+| EMA20 | 51.69 |
+| EMA50 | 51.7 |
+| RSI(14) | 68.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.878 |
-| MACD Signal | 0.443 |
-| MACD Histogram | 0.435 |
+| MACD | 1.042 |
+| MACD Signal | 0.563 |
+| MACD Histogram | 0.479 |
 | MACD nhận xét | MACD > Signal → Đà ĐẦU |
 
 ## Tóm tắt chỉ số tài chính
@@ -54,18 +54,18 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SJS |
-| pe | 32.83 |
-| pb | 5.27 |
+| pe | 33.01 |
+| pb | 5.30 |
 | roe | 8.91 |
 | roe_pct_rank | 45 |
 | roa | 3.38 |
-| roa_pct_rank | 42 |
+| roa_pct_rank | 43 |
 | eps | 1614 |
 | bvps | 10054 |
 | beta | 0.53 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 93 |
+| pe_pct_rank | 94 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -74,6 +74,7 @@
 
 | title                                                                                                    | publishtime             | url                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SJS: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T14:07:09     | /2026/04/sjs-bao-cao-thuong-nien-nam-2025-737-1431203.htm                                                                 |
 | Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
 | SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing            | 2026-04-03T18:04:26     | /2026/04/sjs-thong-bao-thay-doi-nhan-su-bo-nhiem-pho-tong-giam-doc-phu-trach-kinh-doanh-marketing-214-1422853.htm         |
 | SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                            | 2026-03-31T17:15:37     | /2026/03/sjs-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1420143.htm                                                     |
@@ -83,7 +84,6 @@
 | SJS: BCTC năm 2025                                                                                       | 2026-03-28T00:00:00     | /2026/03/sjs-bctc-nam-2025-737-1418702.htm                                                                                |
 | Cổ đông lớn nhất bán 39 triệu cp SJS, thu hơn 2 ngàn tỷ                                                  | 2026-03-12T15:02:54.313 | /2026/03/co-dong-lon-nhat-ban-39-trieu-cp-sjs-thu-hon-2-ngan-ty-739-1411406.htm                                           |
 | SJS: Báo cáo về thay đổi sở hữu của CĐ lớn CTCP TM dịch vụ Đầu tư An Phát                                | 2026-03-11T15:41:10     | /2026/03/sjs-bao-cao-ve-thay-doi-so-huu-cua-cd-lon-ctcp-tm-dich-vu-dau-tu-an-phat-737-1410921.htm                         |
-| SJS: Báo cáo thay đổi về sở hữu của cổ đông lớn Công ty Cổ phần Thương mại Dịch vụ Đầu tư An Phát        | 2026-03-09T14:32:39     | /2026/03/sjs-bao-cao-thay-doi-ve-so-huu-cua-co-dong-lon-cong-ty-co-phan-thuong-mai-dich-vu-dau-tu-an-phat-737-1409862.ht… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -93,7 +93,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SJS      | 2026-03-24 00:00:00 |  48.1  |  48.3  | 48    |   48.2  |    17400 |
 | SJS      | 2026-03-25 00:00:00 |  48.2  |  49.5  | 48.2  |   48.6  |    15800 |
 | SJS      | 2026-03-26 00:00:00 |  48.6  |  49.2  | 48.6  |   49    |    32200 |
 | SJS      | 2026-03-27 00:00:00 |  49.5  |  50    | 49.2  |   49.55 |    11900 |
@@ -113,21 +112,22 @@ _Không có dữ liệu_
 | SJS      | 2026-04-16 00:00:00 |  52.9  |  54    | 52.9  |   53.1  |    24600 |
 | SJS      | 2026-04-17 00:00:00 |  53.1  |  53.5  | 52.8  |   53    |    18100 |
 | SJS      | 2026-04-20 00:00:00 |  52    |  53.3  | 52    |   53.3  |    41200 |
+| SJS      | 2026-04-21 00:00:00 |  53.1  |  54.9  | 53    |   54.9  |    47800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SJS      | 2026-04-20 09:15:00 |    52   |      100 | ATO          | 465435020 |
-| SJS      | 2026-04-20 09:26:38 |    53   |      500 | Sell         | 465470358 |
-| SJS      | 2026-04-20 09:34:00 |    53   |      600 | Sell         | 465488030 |
-| SJS      | 2026-04-20 10:12:46 |    53   |      400 | Sell         | 465559882 |
-| SJS      | 2026-04-20 10:27:19 |    53   |      200 | Sell         | 465586611 |
-| SJS      | 2026-04-20 10:29:11 |    52.8 |      500 | Sell         | 465590334 |
-| SJS      | 2026-04-20 10:33:00 |    52.8 |      800 | Sell         | 465600327 |
-| SJS      | 2026-04-20 10:36:12 |    52.8 |     1900 | Buy          | 465608237 |
-| SJS      | 2026-04-20 10:39:13 |    52.6 |      100 | Sell         | 465613230 |
-| SJS      | 2026-04-20 10:46:11 |    53   |      800 | Buy          | 465624165 |
+| SJS      | 2026-04-21 09:15:00 |    53.1 |      100 | ATO          | 465927477 |
+| SJS      | 2026-04-21 09:34:47 |    53.1 |      500 | Buy          | 465980923 |
+| SJS      | 2026-04-21 09:49:26 |    53.1 |      500 | Sell         | 466020878 |
+| SJS      | 2026-04-21 09:49:26 |    53   |     3900 | Sell         | 466020882 |
+| SJS      | 2026-04-21 09:49:26 |    53.1 |      500 | Sell         | 466020877 |
+| SJS      | 2026-04-21 09:49:26 |    53   |      100 | Sell         | 466020879 |
+| SJS      | 2026-04-21 09:49:26 |    53   |      500 | Sell         | 466020880 |
+| SJS      | 2026-04-21 10:03:17 |    53   |     2300 | Sell         | 466057067 |
+| SJS      | 2026-04-21 10:06:48 |    53   |     1000 | Sell         | 466063375 |
+| SJS      | 2026-04-21 10:24:44 |    53.1 |     1100 | Sell         | 466107249 |
 
 <!-- END:DAILY -->
 
