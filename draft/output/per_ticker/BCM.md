@@ -1,6 +1,6 @@
-# BCM — BCM
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 05/04/2026 13:38
+# BCM — Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -81,7 +81,7 @@
 | beta | 0.8 |
 | dividend | 1100 |
 | yield | 0.019784172661870502 |
-| pe_pct_rank | 59 |
+| pe_pct_rank | 60 |
 | pb_pct_rank | 88 |
 | financial_date | 12/2025 |
 | source | KBS |

@@ -1,6 +1,6 @@
 # BID — Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 21/04/2026 22:08  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
@@ -74,9 +74,9 @@
 | pe | 9.48 |
 | pb | 1.64 |
 | roe | 19.14 |
-| roe_pct_rank | 67 |
+| roe_pct_rank | 66 |
 | roa | 0.98 |
-| roa_pct_rank | 32 |
+| roa_pct_rank | 31 |
 | eps | 4278 |
 | bvps | 24726.16 |
 | beta | 0.91 |

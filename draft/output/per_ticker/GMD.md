@@ -1,6 +1,6 @@
-# GMD — GMD
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 13:40
+# GMD — CTCP Gemadept
+**Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.77 |
 | dividend | 2000 |
 | yield | 0.02702702702702703 |
-| pe_pct_rank | 63 |
+| pe_pct_rank | 64 |
 | pb_pct_rank | 77 |
 | financial_date | 12/2025 |
 | source | KBS |

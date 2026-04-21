@@ -1,6 +1,6 @@
-# DBC — DBC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 19:50
+# DBC — CTCP Tập đoàn Dabaco Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:50
 
 ---
 

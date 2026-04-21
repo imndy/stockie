@@ -1,6 +1,6 @@
-# HDC — HDC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 19:54
+# HDC — CTCP Phát triển Nhà Bà Rịa - Vũng Tàu
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | -1.07% |
+| RS (CP − Ngành) | -1.72% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

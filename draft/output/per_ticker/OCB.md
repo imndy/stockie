@@ -1,6 +1,6 @@
-# OCB — OCB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:52  |  🗂 Quarterly: 05/04/2026 19:58
+# OCB — Ngân hàng TMCP Phương Đông
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -2.55% |
+| RS (CP − Ngành) | -2.33% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

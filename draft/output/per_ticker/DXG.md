@@ -1,6 +1,6 @@
-# DXG — DXG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:52
+# DXG — CTCP Tập đoàn Đất Xanh
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 

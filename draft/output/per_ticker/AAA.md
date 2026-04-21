@@ -1,6 +1,6 @@
-# AAA — AAA
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 05/04/2026 19:46
+# AAA — CTCP Nhựa An Phát Xanh
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:09  |  🗂 Quarterly: 05/04/2026 19:46
 
 ---
 

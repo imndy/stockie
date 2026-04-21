@@ -1,6 +1,6 @@
-# HDG — HDG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 19:55
+# HDG — CTCP Tập đoàn Hà Đô
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:55
 
 ---
 
@@ -75,13 +75,13 @@
 | roe | 11.99 |
 | roe_pct_rank | 52 |
 | roa | 4.94 |
-| roa_pct_rank | 49 |
+| roa_pct_rank | 50 |
 | eps | 1981 |
 | bvps | 22644 |
 | beta | 0.84 |
 | dividend | 500 |
 | yield | 0.017889087656529516 |
-| pe_pct_rank | 53 |
+| pe_pct_rank | 54 |
 | pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | -1.24% |
+| RS (CP − Ngành) | -1.89% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

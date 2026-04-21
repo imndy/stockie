@@ -1,6 +1,6 @@
-# NT2 — NT2
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:52  |  🗂 Quarterly: 05/04/2026 19:58
+# NT2 — CTCP Điện lực Dầu khí Nhơn Trạch 2
+**Sàn:** HOSE  |  **Ngành:** Tiện ích
+> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                           | publishtime             | url                                                                                                     |
 |:--------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
+| NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026                     | 2026-04-21T17:58:47     | /2026/04/nt2-bo-sung-bctc-quy-1-2026-kem-giai-trinh-kqkd-quy-1-2026-737-1431518.htm                     |
 | NT2: BCTC Tóm tắt quý 1 năm 2026                                                | 2026-04-20T00:00:00     | /2026/04/nt2-bctc-tom-tat-quy-1-nam-2026-737-1430000.htm                                                |
 | MCH, NT2 và PNJ có triển vọng gì?                                               | 2026-04-13T12:01:35.44  | /2026/04/mch-nt2-va-pnj-co-trien-vong-gi-145-1426686.htm                                                |
 | NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026 | 2026-04-07T16:33:33     | /2026/04/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1424218.htm |
@@ -113,7 +114,6 @@
 | Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                          | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                              |
 | NT2: Báo cáo thường niên năm 2025                                               | 2026-03-19T17:10:23     | /2026/03/nt2-bao-cao-thuong-nien-nam-2025-737-1414161.htm                                               |
 | NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 2026-03-03T17:40:27     | /2026/03/nt2-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1407832.htm                  |
-| NT2: BCTC Tóm tắt năm 2025                                                      | 2026-03-02T00:00:00     | /2026/03/nt2-bctc-tom-tat-nam-2025-737-1407164.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -0.89% |
+| % Cổ phiếu hôm nay | -1.71% |
+| RS (CP − Ngành) | -0.82% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

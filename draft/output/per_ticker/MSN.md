@@ -1,6 +1,6 @@
-# MSN — MSN
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:51  |  🗂 Quarterly: 03/04/2026 09:48
+# MSN — CTCP Tập đoàn Masan
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -76,13 +76,13 @@
 | roe | 15.76 |
 | roe_pct_rank | 59 |
 | roa | 2.97 |
-| roa_pct_rank | 40 |
+| roa_pct_rank | 41 |
 | eps | 2756 |
 | bvps | 29647 |
 | beta | 0.8 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 83 |
+| pe_pct_rank | 85 |
 | pb_pct_rank | 92 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.61% |
+| % Cổ phiếu hôm nay | -1.00% |
+| RS (CP − Ngành) | -0.39% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

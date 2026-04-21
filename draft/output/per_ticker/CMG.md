@@ -1,6 +1,6 @@
-# CMG — CMG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:49
+# CMG — CTCP Tập đoàn Công nghệ CMC
+**Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -29,7 +29,7 @@
 | price_chg_1m_rank | 12.48 |
 | price_chg_ytd_rank | 52.61 |
 | yield | 0 |
-| financial_date | 12/2025 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -72,18 +72,18 @@
 | symbol | CMG |
 | pe | 14.97 |
 | pb | 1.54 |
-| roe | 11.91 |
-| roe_pct_rank | 51 |
-| roa | 1.04 |
-| roa_pct_rank | 32 |
+| roe | 12.18 |
+| roe_pct_rank | 52 |
+| roa | 4.79 |
+| roa_pct_rank | 49 |
 | eps | 1933 |
 | bvps | 18850 |
 | beta | 0.66 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 55 |
-| pb_pct_rank | 61 |
-| financial_date | 12/2025 |
+| pb_pct_rank | 60 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành

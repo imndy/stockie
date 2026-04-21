@@ -1,6 +1,6 @@
-# CII — CII
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:49
+# CII — CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh
+**Sàn:** HOSE  |  **Ngành:** Xây dựng
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -74,7 +74,7 @@
 | pe | 75.48 |
 | pb | 0.99 |
 | roe | 3.57 |
-| roe_pct_rank | 33 |
+| roe_pct_rank | 32 |
 | roa | 0.36 |
 | roa_pct_rank | 29 |
 | eps | 252 |

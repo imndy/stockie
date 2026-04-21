@@ -1,6 +1,6 @@
-# DGW — DGW
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 19:51
+# DGW — CTCP Thế Giới Số
+**Sàn:** HOSE  |  **Ngành:** Bán buôn
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 

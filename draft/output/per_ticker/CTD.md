@@ -1,6 +1,6 @@
-# CTD — CTD
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 19:49
+# CTD — CTCP Xây dựng Coteccons
+**Sàn:** HOSE  |  **Ngành:** Xây dựng
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 

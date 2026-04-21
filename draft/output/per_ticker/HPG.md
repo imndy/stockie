@@ -1,6 +1,6 @@
-# HPG — HPG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:50  |  🗂 Quarterly: 03/04/2026 09:45
+# HPG — CTCP Tập đoàn Hòa Phát
+**Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
+> 📅 Daily: 21/04/2026 22:15  |  🗂 Quarterly: 03/04/2026 09:45
 
 ---
 
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.24% |
+| % Cổ phiếu hôm nay | +0.35% |
+| RS (CP − Ngành) | +0.11% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

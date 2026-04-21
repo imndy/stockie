@@ -1,6 +1,6 @@
-# PAN — PAN
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:52  |  🗂 Quarterly: 05/04/2026 19:59
+# PAN — CTCP Tập đoàn PAN
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -104,6 +104,7 @@
 
 | title                                                                                | publishtime             | url                                                                                                        |
 |:-------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
+| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                     | 2026-04-21T17:14:00     | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                     |
 | PAN: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-20T13:49:15     | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                          |
 | PAN: Báo cáo thường niên năm 2025                                                    | 2026-04-20T13:48:42     | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                  |
 | PAN: BCTC quý 1 năm 2026                                                             | 2026-04-20T00:00:00     | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                           |
@@ -113,7 +114,6 @@
 | PAN: BCTC Hợp nhất năm 2025                                                          | 2026-03-31T00:00:00     | /2026/03/pan-bctc-hop-nhat-nam-2025-737-1419726.htm                                                        |
 | PAN: BCTC năm 2025                                                                   | 2026-03-31T00:00:00     | /2026/03/pan-bctc-nam-2025-737-1419727.htm                                                                 |
 | PAN hoàn tất chuyển nhượng Bibica cho đối tác ngoại                                  | 2026-03-26T19:11:54.977 | /2026/03/pan-hoan-tat-chuyen-nhuong-bibica-cho-doi-tac-ngoai-764-1417013.htm                               |
-| PAN: Nghị quyết HĐQT số 04-03/2026 ngày 26/03/2026                                   | 2026-03-26T17:25:57     | /2026/03/pan-nghi-quyet-hdqt-so-0403-2026-ngay-26-03-2026-737-1417084.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.61% |
+| % Cổ phiếu hôm nay | +1.08% |
+| RS (CP − Ngành) | +1.69% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

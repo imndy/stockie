@@ -1,6 +1,6 @@
-# EIB — EIB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:52
+# EIB — Ngân hàng TMCP Xuất nhập khẩu Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 

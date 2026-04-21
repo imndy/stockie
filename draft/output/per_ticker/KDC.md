@@ -1,6 +1,6 @@
-# KDC — KDC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:50  |  🗂 Quarterly: 05/04/2026 19:56
+# KDC — CTCP Tập đoàn KIDO
+**Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
+> 📅 Daily: 21/04/2026 22:15  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
@@ -120,8 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.61% |
+| % Cổ phiếu hôm nay | -1.25% |
+| RS (CP − Ngành) | -0.64% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

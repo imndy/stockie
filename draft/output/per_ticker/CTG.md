@@ -1,6 +1,6 @@
-# CTG — CTG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 12:19
+# CTG — Ngân hàng TMCP Công Thương Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 

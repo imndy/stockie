@@ -1,6 +1,6 @@
-# BWE — BWE
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:49
+# BWE — CTCP - Tổng công ty nước - môi trường Bình Dương
+**Sàn:** HOSE  |  **Ngành:** Tiện ích
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -82,7 +82,7 @@
 | dividend | 1300 |
 | yield | 0.029748283752860413 |
 | pe_pct_rank | 44 |
-| pb_pct_rank | 60 |
+| pb_pct_rank | 61 |
 | financial_date | 12/2025 |
 | source | KBS |
 

@@ -1,6 +1,6 @@
-# HAG — HAG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 19:54
+# HAG — CTCP Hoàng Anh Gia Lai
+**Sàn:** HOSE  |  **Ngành:** Nông - Lâm - Ngư
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -83,7 +83,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 41 |
-| pb_pct_rank | 58 |
+| pb_pct_rank | 59 |
 | financial_date | 12/2025 |
 | source | KBS |
 

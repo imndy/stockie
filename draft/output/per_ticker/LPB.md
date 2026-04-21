@@ -1,6 +1,6 @@
-# LPB — LPB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:51  |  🗂 Quarterly: 05/04/2026 12:21
+# LPB — Ngân hàng TMCP Lộc Phát Việt Nam
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
@@ -80,7 +80,7 @@
 | beta | 0.37 |
 | dividend | 2500 |
 | yield | 0.053134962805526036 |
-| pe_pct_rank | 49 |
+| pe_pct_rank | 50 |
 | pb_pct_rank | 95 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | +2.28% |
+| RS (CP − Ngành) | +2.50% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

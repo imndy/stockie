@@ -1,6 +1,6 @@
-# FTS — FTS
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 19:53
+# FTS — CTCP Chứng khoán FPT
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
@@ -73,7 +73,7 @@
 | pe | 22.88 |
 | pb | 2.10 |
 | roe | 9.29 |
-| roe_pct_rank | 45 |
+| roe_pct_rank | 46 |
 | roa | 3.35 |
 | roa_pct_rank | 42 |
 | eps | 1202 |
@@ -81,7 +81,7 @@
 | beta | 0.89 |
 | dividend | 500 |
 | yield | 0.01834862385321101 |
-| pe_pct_rank | 72 |
+| pe_pct_rank | 71 |
 | pb_pct_rank | 76 |
 | financial_date | 12/2025 |
 | source | KBS |

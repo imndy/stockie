@@ -1,6 +1,6 @@
-# BSR — BSR
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 13:37
+# BSR — CTCP Lọc hóa Dầu Bình Sơn
+**Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 

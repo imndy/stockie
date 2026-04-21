@@ -1,6 +1,6 @@
-# FPT — FPT
-**Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: —
+# FPT — CTCP FPT
+**Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: —
 
 ---
 

@@ -1,5 +1,5 @@
 # 📊 Bluechip Daily Snapshot
-> 🕐 Cập nhật: 2026-04-21 22:08 | Nguồn: auto-generated từ per_ticker/
+> 🕐 Cập nhật: 2026-04-21 22:17 | Nguồn: auto-generated từ per_ticker/
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## 2. Bảng Scan Kỹ Thuật
 
-| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | Tín hiệu |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| BID | 1.6 | — | Dưới | Dưới | 46.6 | +0.280 | 🔴 RỦI RO CAO |
+| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | KL/Avg60 | Tín hiệu |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BID | 1.6 | -0.37% | Dưới | Dưới | 46.6 | +0.280 | 0.9x | 🔴 RỦI RO CAO |
 
 **Legend:**
 - Tín hiệu: ✅ TĂNG | ⚠️ GIẢM | 🔄 TRUNG TÍNH | 🔴 RỦI RO CAO
@@ -26,9 +26,9 @@
 
 ## 3. Bảng Định Giá Nhanh
 
-| Mã | Ngành | P/E | P/B | ROE | LNST growth | Room NN còn |
+| Mã | Ngành | P/E | P/B | ROE | LNST growth | % SHNNN |
 | --- | --- | --- | --- | --- | --- | --- |
-| BID | Ngân hàng | 9.5 | 1.6 | 19.1% | — | — |
+| BID | Ngân hàng | 9.5 | 1.6 | 19.1% | — | 16.63% |
 
 ---
 
@@ -39,6 +39,9 @@ _Không có sự kiện trong khoảng thời gian này (dữ liệu VCI: AIS/DI
 ---
 
 ## 5. Phân Loại Nhanh Theo Pha Thị Trường
+
+> ℹ️ **Lưu ý**: Phân loại nhóm ngành dưới đây dựa trên đặc tính kinh tế (defensive/growth/cyclical),
+> KHÔNG phản ánh tín hiệu kỹ thuật hiện tại. Xem mục 2 để đánh giá momentum từng mã.
 
 ### 🟢 Nhóm phòng thủ (tiêu dùng thiết yếu, năng lượng)
 > Mã trong danh sách: **_Không có_**

@@ -1,6 +1,6 @@
-# ACB — ACB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 03/04/2026 09:47
+# ACB — Ngân hàng TMCP Á Châu
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 03/04/2026 09:47
 
 ---
 

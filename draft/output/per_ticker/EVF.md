@@ -1,6 +1,6 @@
-# EVF — EVF
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:52
+# EVF — Công ty Tài chính Tổng hợp Cổ phần Điện lực
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 

@@ -1,6 +1,6 @@
-# HSG — HSG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:50  |  🗂 Quarterly: 05/04/2026 13:40
+# HSG — CTCP Tập đoàn Hoa Sen
+**Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
+> 📅 Daily: 21/04/2026 22:15  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
@@ -116,8 +116,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.24% |
+| % Cổ phiếu hôm nay | -0.62% |
+| RS (CP − Ngành) | -0.86% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

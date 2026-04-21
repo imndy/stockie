@@ -1276,6 +1276,7 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
     rs   = frames.get("Tóm tắt chỉ số",     pd.DataFrame())
     tech = frames.get("Chỉ báo kỹ thuật",    pd.DataFrame())
     ev   = frames.get("Sự kiện",             pd.DataFrame())
+    hist = frames.get("Lịch sử giá",         pd.DataFrame())
 
     def _get(df: pd.DataFrame, keys: list[str]):
         if df.empty:
@@ -1289,17 +1290,29 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
 
     close   = _get(ts, ["match_price", "close_price", "price"])
     chg_pct = _get(ts, ["price_change_pct"])
-    ff_room = _get(ts, ["foreign_room",   "foreignRoom"])
-    max_h   = _get(ts, ["max_holding_ratio",     "maxHoldingRatio"])
-    cur_h   = _get(ts, ["current_holding_ratio",  "currentHoldingRatio"])
 
-    # Room NN còn lại (max - current)
-    room_str = "—"
+    # % thay đổi ngày hôm nay — lấy từ RS Ngành cache (KBS sector API)
+    rs_info = frames.get("RS Ngành", {})
+    chg_d   = rs_info.get("ticker_change")  # float hoặc None
+
+    # KL vs Avg60 phiên
+    vol_ratio_str = "—"
+    if not hist.empty and "volume" in hist.columns:
+        try:
+            vol   = hist["volume"].astype(float)
+            avg60 = vol.tail(60).mean()
+            last_vol = vol.iloc[-1]
+            if avg60 > 0:
+                vol_ratio_str = f"{last_vol / avg60:.1f}x"
+        except Exception:
+            pass
+
+    # % Sở hữu NNN (thay vì room NN)
+    fown_str = "—"
     try:
-        if max_h is not None and cur_h is not None:
-            room_str = f"{float(max_h) - float(cur_h):.2f}%"
-        elif ff_room is not None:
-            room_str = str(ff_room)
+        fown = _get(ts, ["foreign_ownership"])
+        if fown is not None:
+            fown_str = f"{float(fown):.2f}%"
     except (ValueError, TypeError):
         pass
 
@@ -1314,21 +1327,23 @@ def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
     macd_h   = _tc("MACD Histogram")
 
     return {
-        "ticker":    ticker,
-        "close":     close,
-        "chg_pct":   chg_pct,
-        "vs_ema20":  vs_ema20 or "—",
-        "vs_ema50":  vs_ema50 or "—",
-        "rsi14":     rsi14,
-        "macd_h":    macd_h,
-        "room_str":  room_str,
-        "pe":        _get(rs, ["pe"]),
-        "pb":        _get(rs, ["pb"]),
-        "roe":       _get(rs, ["roe"]),
-        "lnst_gr":   _get(rs, ["net_profit_growth"]),
-        "industry":  industry_map.get(ticker, "—"),
-        "signal":    _compute_signal(vs_ema20, vs_ema50, macd_h),
-        "events_df": ev,
+        "ticker":        ticker,
+        "close":         close,
+        "chg_pct":       chg_pct,
+        "chg_d":         chg_d,
+        "vol_ratio":     vol_ratio_str,
+        "vs_ema20":      vs_ema20 or "—",
+        "vs_ema50":      vs_ema50 or "—",
+        "rsi14":         rsi14,
+        "macd_h":        macd_h,
+        "fown_str":      fown_str,
+        "pe":            _get(rs, ["pe"]),
+        "pb":            _get(rs, ["pb"]),
+        "roe":           _get(rs, ["roe"]),
+        "lnst_gr":       _get(rs, ["net_profit_growth"]),
+        "industry":      industry_map.get(ticker, "—"),
+        "signal":        _compute_signal(vs_ema20, vs_ema50, macd_h),
+        "events_df":     ev,
     }
 
 
@@ -1388,18 +1403,18 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         "",
         "## 2. Bảng Scan Kỹ Thuật",
         "",
-        "| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | Tín hiệu |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Mã | Giá | %D | vs EMA20 | vs EMA50 | RSI14 | MACD Hist | KL/Avg60 | Tín hiệu |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     sorted_rows = sorted(snapshot_rows, key=lambda r: _SIGNAL_PRIORITY.get(r["signal"], 2))
     for r in sorted_rows:
-        pct_str = _fmt(r["chg_pct"], "{:+.2f}") + "%" if r["chg_pct"] is not None else "—"
+        chg_d_str = (f"{r['chg_d']:+.2f}%" if r.get("chg_d") is not None else "—")
         lines.append(
-            f"| {r['ticker']} | {_fmt(r['close'], '{:,.1f}')} | {pct_str}"
+            f"| {r['ticker']} | {_fmt(r['close'], '{:,.1f}')} | {chg_d_str}"
             f" | {r['vs_ema20']} | {r['vs_ema50']}"
             f" | {_fmt(r['rsi14'])} | {_fmt(r['macd_h'], '{:+.3f}')}"
-            f" | {r['signal']} |"
+            f" | {r.get('vol_ratio', '—')} | {r['signal']} |"
         )
 
     lines += [
@@ -1411,7 +1426,7 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         "",
         "## 3. Bảng Định Giá Nhanh",
         "",
-        "| Mã | Ngành | P/E | P/B | ROE | LNST growth | Room NN còn |",
+        "| Mã | Ngành | P/E | P/B | ROE | LNST growth | % SHNNN |",
         "| --- | --- | --- | --- | --- | --- | --- |",
     ]
 
@@ -1420,7 +1435,7 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
             f"| {r['ticker']} | {r['industry']}"
             f" | {_fmt(r['pe'])} | {_fmt(r['pb'])}"
             f" | {_fmt(r['roe'], suffix='%')} | {_fmt(r['lnst_gr'], suffix='%')}"
-            f" | {r['room_str']} |"
+            f" | {r['fown_str']} |"
         )
 
     # ── Section 4: Events 30 ngày tới ────────────────────────────────────
@@ -1479,6 +1494,9 @@ def write_snapshot(snapshot_rows: list[dict], vnindex_data: dict, run_dt: dateti
         "---",
         "",
         "## 5. Phân Loại Nhanh Theo Pha Thị Trường",
+        "",
+        "> ℹ️ **Lưu ý**: Phân loại nhóm ngành dưới đây dựa trên đặc tính kinh tế (defensive/growth/cyclical),",
+        "> KHÔNG phản ánh tín hiệu kỹ thuật hiện tại. Xem mục 2 để đánh giá momentum từng mã.",
         "",
         "### 🟢 Nhóm phòng thủ (tiêu dùng thiết yếu, năng lượng)",
         f"> Mã trong danh sách: **{_bl(all_t & _SECTOR_DEFENSIVE)}**",

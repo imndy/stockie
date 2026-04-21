@@ -1,6 +1,6 @@
-# GAS — GAS
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 12:20
+# GAS — Tổng Công ty Khí Việt Nam - CTCP
+**Sàn:** HOSE  |  **Ngành:** Tiện ích
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 

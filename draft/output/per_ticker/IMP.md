@@ -1,6 +1,6 @@
-# IMP — IMP
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:50  |  🗂 Quarterly: 05/04/2026 19:56
+# IMP — CTCP Dược phẩm Imexpharm
+**Sàn:** HOSE  |  **Ngành:** Chăm sóc sức khỏe
+> 📅 Daily: 21/04/2026 22:15  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
@@ -119,8 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chăm sóc sức khỏe |
+| % Ngành hôm nay | -0.72% |
+| % Cổ phiếu hôm nay | -1.61% |
+| RS (CP − Ngành) | -0.89% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

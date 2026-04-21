@@ -1,6 +1,6 @@
-# MWG — MWG
-**Sàn:** HOSE  |  **Ngành:**   |  **Ngày cập nhật:** 03/04/2026
-> 📅 Daily: 21/04/2026 20:51  |  🗂 Quarterly: —
+# MWG — CTCP Đầu tư Thế giới Di động
+**Sàn:** HOSE  |  **Ngành:** Bán lẻ
+> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: —
 
 ---
 
@@ -386,7 +386,7 @@
 | roe | 23.08 |
 | roe_pct_rank | 75 |
 | roa | 9.12 |
-| roa_pct_rank | 65 |
+| roa_pct_rank | 64 |
 | eps | 4775 |
 | bvps | 22442 |
 | beta | 1.21 |
@@ -431,8 +431,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.84% |
+| % Cổ phiếu hôm nay | -1.95% |
+| RS (CP − Ngành) | -0.11% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

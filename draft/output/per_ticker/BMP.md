@@ -1,6 +1,6 @@
-# BMP — BMP
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:48
+# BMP — CTCP Nhựa Bình Minh
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 

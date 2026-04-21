@@ -1,6 +1,6 @@
-# ANV — ANV
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:57  |  🗂 Quarterly: 05/04/2026 19:47
+# ANV — CTCP Nam Việt
+**Sàn:** HOSE  |  **Ngành:** Chế biến Thủy sản
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 

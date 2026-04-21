@@ -1,6 +1,6 @@
-# DGC — DGC
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 12:19
+# DGC — CTCP Tập đoàn Hóa chất Đức Giang
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 

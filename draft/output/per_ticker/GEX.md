@@ -1,6 +1,6 @@
-# GEX — GEX
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 13:40
+# GEX — CTCP Tập đoàn GELEX
+**Sàn:** HOSE  |  **Ngành:** Thiết bị điện
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 

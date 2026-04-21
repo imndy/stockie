@@ -1,6 +1,6 @@
-# HDB — HDB
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 12:20
+# HDB — Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+**Sàn:** HOSE  |  **Ngành:** Ngân hàng
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -83,7 +83,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 34 |
-| pb_pct_rank | 54 |
+| pb_pct_rank | 55 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | -0.22% |
+| % Cổ phiếu hôm nay | -0.74% |
+| RS (CP − Ngành) | -0.52% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

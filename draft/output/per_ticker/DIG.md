@@ -1,6 +1,6 @@
-# DIG — DIG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:51
+# DIG — Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 

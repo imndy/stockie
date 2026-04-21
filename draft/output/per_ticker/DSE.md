@@ -1,6 +1,6 @@
-# DSE — DSE
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:00  |  🗂 Quarterly: 05/04/2026 19:51
+# DSE — CTCP Chứng khoán DNSE
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 

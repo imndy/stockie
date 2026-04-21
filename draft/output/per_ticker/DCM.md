@@ -1,6 +1,6 @@
-# DCM — DCM
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 13:39
+# DCM — CTCP - Tổng công ty Phân bón Dầu khí Cà Mau
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 

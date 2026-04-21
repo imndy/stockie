@@ -1,6 +1,6 @@
-# CTR — CTR
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:59  |  🗂 Quarterly: 05/04/2026 13:38
+# CTR — Tổng Công ty cổ phần Công trình Viettel
+**Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
+> 📅 Daily: 21/04/2026 22:11  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.78 |
 | dividend | 2150 |
 | yield | 0.02497096399535424 |
-| pe_pct_rank | 58 |
+| pe_pct_rank | 59 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |

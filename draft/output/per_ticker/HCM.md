@@ -1,6 +1,6 @@
-# HCM — HCM
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:49  |  🗂 Quarterly: 05/04/2026 19:54
+# HCM — CTCP Chứng khoán Thành phố Hồ Chí Minh
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -118,8 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -1.57% |
+| % Cổ phiếu hôm nay | -2.33% |
+| RS (CP − Ngành) | -0.76% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

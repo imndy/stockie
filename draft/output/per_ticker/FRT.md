@@ -1,6 +1,6 @@
-# FRT — FRT
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 19:53
+# FRT — CTCP Bán lẻ Kỹ thuật số FPT
+**Sàn:** HOSE  |  **Ngành:** Bán lẻ
+> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:53
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 0.84 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 82 |
+| pe_pct_rank | 84 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |

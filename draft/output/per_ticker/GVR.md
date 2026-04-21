@@ -1,6 +1,6 @@
-# GVR — GVR
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 22:01  |  🗂 Quarterly: 05/04/2026 12:20
+# GVR — Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
+**Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
+> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -82,7 +82,7 @@
 | beta | 1.06 |
 | dividend | 400 |
 | yield | 0.01225114854517611 |
-| pe_pct_rank | 73 |
+| pe_pct_rank | 75 |
 | pb_pct_rank | 76 |
 | financial_date | 12/2025 |
 | source | KBS |

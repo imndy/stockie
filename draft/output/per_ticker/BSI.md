@@ -1,6 +1,6 @@
-# BSI — BSI
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 21:58  |  🗂 Quarterly: 05/04/2026 19:48
+# BSI — CTCP Chứng khoán BIDV
+**Sàn:** HOSE  |  **Ngành:** Chứng khoán
+> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 

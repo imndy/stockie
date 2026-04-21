@@ -1,6 +1,6 @@
-# NLG — NLG
-**Sàn:** HOSE  |  **Ngành:** 
-> 📅 Daily: 21/04/2026 20:51  |  🗂 Quarterly: 05/04/2026 19:58
+# NLG — CTCP Đầu tư Nam Long
+**Sàn:** HOSE  |  **Ngành:** Bất động sản
+> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -121,8 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Chỉ số RS so sánh với ngành chưa được tính tự động.
-> Cần tổng hợp từ dữ liệu internet (VnDirect, FireAnt, CafeF sector indices).
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.65% |
+| % Cổ phiếu hôm nay | -1.40% |
+| RS (CP − Ngành) | -2.05% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
