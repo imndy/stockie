@@ -1270,6 +1270,117 @@ def _compute_signal(vs_ema20: str | None, vs_ema50: str | None,
         return "🔄 TRUNG TÍNH"
 
 
+def _parse_kv_md_block(block_text: str) -> dict:
+    """Parse tất cả dòng | key | value | từ markdown KV table block."""
+    result: dict = {}
+    for line in block_text.split("\n"):
+        parts = [p.strip() for p in line.split("|")]
+        if len(parts) >= 4 and parts[1] not in ("Chỉ tiêu", "---", "") and parts[2] not in ("Giá trị", "---", ""):
+            result[parts[1]] = parts[2]
+    return result
+
+
+def _parse_snapshot_from_md(
+    ticker: str,
+    sector_rs_cache: dict,
+    industry_map: dict,
+) -> dict | None:
+    """
+    Đọc dữ liệu snapshot từ file per-ticker .md có sẵn — không gọi API.
+    Dùng cho --section snapshot (fast path).
+    chg_d vẫn lấy real-time từ sector_rs_cache (đã fetch 1 lần trước đó).
+    """
+    md_file = PER_TICKER_DIR / f"{ticker}.md"
+    if not md_file.exists():
+        print(f"  [SKIP] {ticker}.md chưa có, bỏ qua snapshot row.")
+        return None
+    text  = md_file.read_text(encoding="utf-8")
+
+    # Extract DAILY block
+    m_daily = re.search(re.escape(BEGIN_DAILY) + r"(.*?)" + re.escape(END_DAILY), text, re.DOTALL)
+    block   = m_daily.group(1) if m_daily else text
+
+    def _section_kv(header_re: str) -> dict:
+        m = re.search(rf"## {header_re}\s*\n+(.*?)(?=\n## |\Z)", block, re.DOTALL)
+        return _parse_kv_md_block(m.group(1)) if m else {}
+
+    tech    = _section_kv(r"Chỉ báo kỹ thuật.*?")
+    ts_data = _section_kv(r"Thống kê giao dịch")
+    rs_data = _section_kv(r"Tóm tắt chỉ số tài chính")
+
+    def _sf(val) -> float | None:
+        if val is None:
+            return None
+        try:
+            return float(str(val).replace(",", "").replace("%", "").replace("—", "").strip())
+        except (ValueError, TypeError):
+            return None
+
+    close    = _sf(tech.get("Giá đóng cửa"))
+    vs_ema20 = tech.get("Giá vs EMA20") or "—"
+    vs_ema50 = tech.get("Giá vs EMA50") or "—"
+    rsi14    = _sf(tech.get("RSI(14)"))
+    macd_h   = _sf(tech.get("MACD Histogram"))
+
+    # Foreign ownership
+    fown_str = "—"
+    fown_val = _sf(ts_data.get("foreign_ownership"))
+    if fown_val is not None:
+        fown_str = f"{fown_val:.2f}%"
+
+    # Valuation
+    pe      = _sf(rs_data.get("pe"))
+    pb      = _sf(rs_data.get("pb"))
+    roe     = _sf(rs_data.get("roe"))
+    lnst_gr = _sf(rs_data.get("net_profit_growth"))
+
+    # vol_ratio: parse từ bảng Khối lượng & Tỷ lệ lưu hành
+    # Cột "vs Avg60" = (vol/avg60 - 1)*100%, ví dụ "+5.2%" → vol_ratio = 1.052x
+    vol_ratio_str = "—"
+    m_vol = re.search(r"## Khối lượng & Tỷ lệ lưu hành\s*\n+(.*?)(?=\n## |\Z)", block, re.DOTALL)
+    if m_vol:
+        data_rows = [
+            l for l in m_vol.group(1).split("\n")
+            if l.strip().startswith("|")
+            and "---" not in l
+            and "Ngày" not in l
+            and l.strip() != "|"
+        ]
+        if data_rows:
+            # Last row = phiên gần nhất; cột index 3 = vs Avg60
+            cols = [p.strip() for p in data_rows[-1].split("|")]
+            if len(cols) >= 4:
+                try:
+                    pct = float(cols[3].replace("%", "").replace(" ", ""))
+                    vol_ratio_str = f"{1 + pct / 100:.1f}x"
+                except (ValueError, TypeError):
+                    pass
+
+    # RS cache (real-time từ KBS, fetch 1 lần đầu pipeline)
+    rs_info = sector_rs_cache.get(ticker.upper(), {})
+    chg_d   = rs_info.get("ticker_change")
+
+    return {
+        "ticker":    ticker,
+        "close":     close,
+        "chg_pct":   None,
+        "chg_d":     chg_d,
+        "vol_ratio": vol_ratio_str,
+        "vs_ema20":  vs_ema20,
+        "vs_ema50":  vs_ema50,
+        "rsi14":     rsi14,
+        "macd_h":    macd_h,
+        "fown_str":  fown_str,
+        "pe":        pe,
+        "pb":        pb,
+        "roe":       roe,
+        "lnst_gr":   lnst_gr,
+        "industry":  industry_map.get(ticker, "—"),
+        "signal":    _compute_signal(vs_ema20, vs_ema50, macd_h),
+        "events_df": pd.DataFrame(),
+    }
+
+
 def _build_snapshot_row(ticker: str, frames: dict, industry_map: dict) -> dict:
     """Trích xuất các trường cần thiết cho snapshot từ frames đã fetch."""
     ts   = frames.get("Thống kê giao dịch", pd.DataFrame())
@@ -1678,6 +1789,14 @@ def run_pipeline(
 
     # ── Per-ticker ──
     for i, ticker in enumerate(tickers):
+        # ── Fast path: --section snapshot đọc từ .md, không gọi API ────────
+        if section == "snapshot":
+            row = _parse_snapshot_from_md(ticker, sector_rs_cache, industry_map)
+            if row:
+                snapshot_rows.append(row)
+            detail_map[ticker] = {}
+            continue
+
         # ── New-ticker detection: if no .md exists, force full for this ticker ──
         md_file = PER_TICKER_DIR / f"{ticker}.md"
         is_new  = not md_file.exists()
