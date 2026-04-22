@@ -1,6 +1,6 @@
 # TCB — Ngân hàng TMCP Kỹ thương Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: —
+> 📅 Daily: 22/04/2026 22:33  |  🗂 Quarterly: —
 
 ---
 
@@ -342,24 +342,24 @@ _Không có dữ liệu_
 | --- | --- |
 | symbol | TCB |
 | exchange | HOSE |
-| market_cap | 231720061537800 |
+| market_cap | 233845933662000 |
 | 52w_high | 41300 |
 | 52w_high_date | 2025-10-13 |
-| 52w_low | 24501 |
-| 52w_low_date | 2025-04-22 |
+| 52w_low | 25085 |
+| 52w_low_date | 2025-04-24 |
 | foreign_ownership | 22.5386 |
 | dividend | 1000 |
 | beta | 1.09 |
-| eps | 3576 |
-| eps_forward | 7.333703767859031 |
-| bvps | 25330.98 |
-| pe | 9.12 |
-| pb | 1.29 |
-| price_chg_1m | 9.55 |
-| price_chg_ytd | 30.36 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.03058103975535168 |
+| eps | 3675 |
+| eps_forward | 7.356199791686819 |
+| bvps | 26344.4 |
+| pe | 8.90 |
+| pb | 1.24 |
+| price_chg_1m | 10.55 |
+| price_chg_ytd | 34.69 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.030303030303030304 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -367,54 +367,54 @@ _Không có dữ liệu_
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.7 |
-| MA5 | 32.26 |
-| MA10 | 31.91 |
-| EMA20 | 31.468 |
-| EMA50 | 31.972 |
-| Slope MA20 (5p, %) | 1.76 |
-| ATR(14) | 0.796 |
-| RSI(14) | 60.0 |
+| Giá đóng cửa | 33.0 |
+| MA5 | 32.49 |
+| MA10 | 32.14 |
+| EMA20 | 31.614 |
+| EMA50 | 32.034 |
+| Slope MA20 (5p, %) | 1.95 |
+| ATR(14) | 0.797 |
+| RSI(14) | 61.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.254 |
-| MACD Signal | -0.098 |
-| MACD Histogram | 0.353 |
+| MACD | 0.336 |
+| MACD Signal | -0.012 |
+| MACD Histogram | 0.348 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 12515575 |
+| KL avg 60 phiên | 12581068 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     35.8  | 0.69        | 1             |
-| 🔴 Kháng cự     |     34.12 | 1.93        | 2             |
-| 🔴 Kháng cự     |     33.05 | 0.7         | 1             |
-| ▶ Giá hiện tại |     32.7  | —           | —             |
-| 🟢 Hỗ trợ       |     32.65 | 1.42        | 1             |
-| 🟢 Hỗ trợ       |     31.35 | 1.34        | 1             |
-| 🟢 Hỗ trợ       |     30.5  | 0.62        | 1             |
+| 🔴 Kháng cự     |     35.8  | 0.68        | 1             |
+| 🔴 Kháng cự     |     34.12 | 1.91        | 2             |
+| 🔴 Kháng cự     |     33.05 | 0.69        | 1             |
+| ▶ Giá hiện tại |     33    | —           | —             |
+| 🟢 Hỗ trợ       |     32.65 | 1.41        | 1             |
+| 🟢 Hỗ trợ       |     31.35 | 1.33        | 1             |
+| 🟢 Hỗ trợ       |     30.5  | 0.61        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TCB |
-| pe | 9.12 |
-| pb | 1.29 |
+| pe | 8.90 |
+| pb | 1.24 |
 | roe | 15.85 |
 | roe_pct_rank | 60 |
 | roa | 2.33 |
 | roa_pct_rank | 38 |
-| eps | 3576 |
-| bvps | 25330.98 |
+| eps | 3675 |
+| bvps | 26344.4 |
 | beta | 1.09 |
 | dividend | 1000 |
-| yield | 0.03058103975535168 |
+| yield | 0.030303030303030304 |
 | pe_pct_rank | 42 |
-| pb_pct_rank | 54 |
+| pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -422,13 +422,13 @@ _Không có dữ liệu_
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-15 | 12297700 | -1.7%      | 0.174%         |
-| 2026-04-16 |  8572900 | -31.5%     | 0.121%         |
-| 2026-04-17 | 12197000 | -2.5%      | 0.172%         |
-| 2026-04-20 | 12615300 | +0.8%      | 0.178%         |
-| 2026-04-21 | 10355500 | -17.3%     | 0.146%         |
+| 2026-04-16 |  8572900 | -31.9%     | 0.121%         |
+| 2026-04-17 | 12197000 | -3.1%      | 0.172%         |
+| 2026-04-20 | 12615300 | +0.3%      | 0.178%         |
+| 2026-04-21 | 10355500 | -17.7%     | 0.146%         |
+| 2026-04-22 | 15089100 | +19.9%     | 0.213%         |
 
-- KL trung bình 60 phiên: **12,515,575**
+- KL trung bình 60 phiên: **12,581,068**
 - Số CP lưu hành: **7,086,240,414**
 
 ## Tin tức gần nhất (Top 10)
@@ -436,6 +436,8 @@ _Không có dữ liệu_
 | title                                                                                          | publishtime             | url                                                                                                                    |
 |:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | Cán mốc 8.9 nghìn tỷ đồng lợi nhuận: Techcombank khẳng định phong độ “vua” tăng trưởng         | 2026-04-21T20:00:00     | /2026/04/can-moc-89-nghin-ty-dong-loi-nhuan-techcombank-khang-dinh-phong-do-vua-tang-truong-737-1431597.htm            |
+| TCB: BCTC Hợp nhất quý 2 năm 2026                                                              | 2026-04-21T00:00:00     | /2026/04/tcb-bctc-hop-nhat-quy-2-nam-2026-737-1431731.htm                                                              |
+| TCB: BCTC quý 2 năm 2026                                                                       | 2026-04-21T00:00:00     | /2026/04/tcb-bctc-quy-2-nam-2026-737-1431732.htm                                                                       |
 | Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                          | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                         |
 | TCB: Nghị quyết HĐQT về việc phê duyệt giao dịch cấp thẻ tín dụng cho NLQ của NNB              | 2026-04-14T18:00:06     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-cap-the-tin-dung-cho-nlq-cua-nnb-737-1427684.htm              |
 | TCB: Nghị quyết HĐQT về việc phê duyệt cấp tín dụng cho CTCP Phúc Long Heritage                | 2026-04-13T14:13:35     | /2026/04/tcb-nghi-quyet-hdqt-ve-viec-phe-duyet-cap-tin-dung-cho-ctcp-phuc-long-heritage-737-1426771.htm                |
@@ -443,8 +445,6 @@ _Không có dữ liệu_
 | TCB: Nghị quyết HĐQT về phê duyệt hạn mức tín dụng cho Công ty TNHH Phân phối Masterise Retail | 2026-04-09T17:47:29     | /2026/04/tcb-nghi-quyet-hdqt-ve-phe-duyet-han-muc-tin-dung-cho-cong-ty-tnhh-phan-phoi-masterise-retail-737-1425702.htm |
 | TCB: Báo cáo thường niên năm 2025                                                              | 2026-04-07T14:02:03     | /2026/04/tcb-bao-cao-thuong-nien-nam-2025-737-1424023.htm                                                              |
 | Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                    | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                      |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                 | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                   |
-| TCB: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-04-06T15:16:29     | /2026/04/tcb-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1423464.htm                                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -455,16 +455,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.22% |
-| % Cổ phiếu hôm nay | +0.31% |
-| RS (CP − Ngành) | +0.53% |
+| % Ngành hôm nay | -0.12% |
+| % Cổ phiếu hôm nay | +0.92% |
+| RS (CP − Ngành) | +1.04% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCB      | 2025-12-08 00:00:00 |  34.65 |  34.8  | 34.15 |   34.2  |  6283600 |
 | TCB      | 2025-12-09 00:00:00 |  34.2  |  34.2  | 33.5  |   33.8  | 10774500 |
 | TCB      | 2025-12-10 00:00:00 |  33.75 |  34.15 | 33.7  |   33.7  |  5381400 |
 | TCB      | 2025-12-11 00:00:00 |  33.75 |  34    | 33.4  |   33.4  |  6610500 |
@@ -554,20 +553,21 @@ _Không có dữ liệu_
 | TCB      | 2026-04-17 00:00:00 |  32.15 |  32.45 | 32    |   32.25 | 12197000 |
 | TCB      | 2026-04-20 00:00:00 |  32.4  |  32.9  | 32.35 |   32.6  | 12615300 |
 | TCB      | 2026-04-21 00:00:00 |  32.65 |  32.85 | 32.5  |   32.7  | 10355500 |
+| TCB      | 2026-04-22 00:00:00 |  33.1  |  33.5  | 32.9  |   33    | 15089100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCB      | 2026-04-21 14:26:43 |   32.65 |     4000 | Buy          | 466479979 |
-| TCB      | 2026-04-21 14:26:44 |   32.65 |     1200 | Buy          | 466480044 |
-| TCB      | 2026-04-21 14:26:48 |   32.65 |      500 | Buy          | 466480493 |
-| TCB      | 2026-04-21 14:26:51 |   32.6  |      100 | Sell         | 466480687 |
-| TCB      | 2026-04-21 14:26:52 |   32.65 |     4000 | Buy          | 466480747 |
-| TCB      | 2026-04-21 14:27:00 |   32.65 |     4000 | Buy          | 466481364 |
-| TCB      | 2026-04-21 14:27:01 |   32.6  |      300 | Sell         | 466481408 |
-| TCB      | 2026-04-21 14:27:01 |   32.65 |      100 | Buy          | 466481421 |
-| TCB      | 2026-04-21 14:27:07 |   32.65 |      500 | Buy          | 466482021 |
-| TCB      | 2026-04-21 14:27:09 |   32.65 |     1000 | Buy          | 466482191 |
+| TCB      | 2026-04-22 14:26:35 |   33.1  |      100 | Buy          | 467017743 |
+| TCB      | 2026-04-22 14:26:36 |   33.1  |     6000 | Buy          | 467017829 |
+| TCB      | 2026-04-22 14:26:40 |   33.05 |     3000 | Sell         | 467018103 |
+| TCB      | 2026-04-22 14:26:43 |   33.1  |     6000 | Buy          | 467018280 |
+| TCB      | 2026-04-22 14:26:44 |   33.05 |      100 | Sell         | 467018356 |
+| TCB      | 2026-04-22 14:26:44 |   33.05 |    11600 | Sell         | 467018355 |
+| TCB      | 2026-04-22 14:26:47 |   33.1  |      600 | Buy          | 467018560 |
+| TCB      | 2026-04-22 14:26:47 |   33.1  |      500 | Buy          | 467018561 |
+| TCB      | 2026-04-22 14:26:47 |   33.15 |     3000 | Buy          | 467018562 |
+| TCB      | 2026-04-22 14:26:49 |   33.15 |     6000 | Buy          | 467018729 |
 
 <!-- END:DAILY -->

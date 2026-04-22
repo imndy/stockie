@@ -1,6 +1,6 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 21/04/2026 22:10  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 22/04/2026 22:23  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
@@ -25,11 +25,11 @@
 | pe | 4.48 |
 | pb | 0.10 |
 | price_chg_1m | 0.00 |
-| price_chg_ytd | -15.67 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| price_chg_ytd | -11.23 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
-| financial_date | 12/2024 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -101,6 +101,7 @@
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BCG: Nhắc nhở chậm công bố thông tin Báo cáo thường niên năm 2025                                                         | 2026-04-22T17:48:58 | /2026/04/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-thuong-nien-nam-2025-737-1432257.htm                                 |
 | BCG: Nghị quyết HĐQT về việc ký kết hợp thỏa thuận bảo mật thông tin với BCG Energy và thông qua giao dịch với các bên l… | 2026-04-20T09:59:28 | /2026/04/bcg-nghi-quyet-hdqt-ve-viec-ky-ket-hop-thoa-thuan-bao-mat-thong-tin-voi-bcg-energy-va-thong-qua-giao-dich-voi-c… |
 | BCG: Nghị quyết HĐQT số 07/2026 ngày 14/04/2026                                                                           | 2026-04-14T17:27:30 | /2026/04/bcg-nghi-quyet-hdqt-so-07-2026-ngay-14-04-2026-737-1427612.htm                                                   |
 | BCG: Nghị quyết HĐQT số 04 ngày 19/03/2026                                                                                | 2026-03-19T17:39:33 | /2026/03/bcg-nghi-quyet-hdqt-so-04-ngay-19-03-2026-737-1414230.htm                                                        |
@@ -110,7 +111,6 @@
 | BCG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-02-05T13:59:22 | /2026/02/bcg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1400881.htm                                     |
 | BCG: Nhắc nhở chậm CBTT BCTC quý 4/2025                                                                                   | 2026-02-04T10:36:27 | /2026/02/bcg-nhac-nho-cham-cbtt-bctc-quy-4-2025-737-1400279.htm                                                           |
 | BCG: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-27T16:21:03 | /2026/01/bcg-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1395701.htm                                                  |
-| BCG: Ông Phạm Minh Tuấn là người ủy quyền thực hiện công bố thông tin                                                     | 2026-01-27T14:13:00 | /2026/01/bcg-ong-pham-minh-tuan-la-nguoi-uy-quyen-thuc-hien-cong-bo-thong-tin-214-1395569.htm                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,7 +121,7 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | -0.87% |
+| % Ngành hôm nay | -0.28% |
 | % Cổ phiếu hôm nay | — |
 | RS (CP − Ngành) | — |
 | Nhận xét | — |

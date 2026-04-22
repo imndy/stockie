@@ -1,6 +1,6 @@
 # HDC — CTCP Phát triển Nhà Bà Rịa - Vũng Tàu
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 22/04/2026 22:28  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HDC |
 | exchange | HOSE |
-| market_cap | 3695459563500 |
+| market_cap | 3685471834950 |
 | 52w_high | 37488 |
 | 52w_high_date | 2025-10-16 |
 | 52w_low | 16300 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 1.7886 |
+| foreign_ownership | 1.6344 |
 | dividend | 0 |
 | beta | 0.98 |
 | eps | 3550 |
-| eps_forward | 8.809950061245642 |
+| eps_forward | 8.715725996419486 |
 | bvps | 14703 |
-| pe | 5.27 |
-| pb | 1.27 |
-| price_chg_1m | 5.71 |
-| price_chg_ytd | -7.68 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| pe | 5.21 |
+| pb | 1.26 |
+| price_chg_1m | 5.43 |
+| price_chg_ytd | -1.57 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,46 +36,46 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 18.5 |
-| MA5 | 18.68 |
-| MA10 | 18.855 |
-| EMA20 | 18.641 |
-| EMA50 | 19.319 |
-| Slope MA20 (5p, %) | 0.08 |
-| ATR(14) | 0.709 |
-| RSI(14) | 47.2 |
+| Giá đóng cửa | 18.45 |
+| MA5 | 18.6 |
+| MA10 | 18.81 |
+| EMA20 | 18.623 |
+| EMA50 | 19.287 |
+| Slope MA20 (5p, %) | -0.13 |
+| ATR(14) | 0.68 |
+| RSI(14) | 46.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.033 |
-| MACD Signal | -0.088 |
-| MACD Histogram | 0.055 |
+| MACD | -0.047 |
+| MACD Signal | -0.08 |
+| MACD Histogram | 0.033 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 3183258 |
+| KL avg 60 phiên | 3139172 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    19.7   | 2.82        | 2             |
-| 🔴 Kháng cự     |    19.4   | 1.32        | 1             |
-| 🔴 Kháng cự     |    18.55  | 1.22        | 1             |
-| ▶ Giá hiện tại |    18.5   | —           | —             |
-| 🟢 Hỗ trợ       |    17.55  | 1.38        | 1             |
-| 🟢 Hỗ trợ       |    16.435 | 2.44        | 2             |
+| 🔴 Kháng cự     |    19.7   | 2.8         | 2             |
+| 🔴 Kháng cự     |    19.4   | 1.31        | 1             |
+| 🔴 Kháng cự     |    18.55  | 1.21        | 1             |
+| ▶ Giá hiện tại |    18.45  | —           | —             |
+| 🟢 Hỗ trợ       |    17.55  | 1.37        | 1             |
+| 🟢 Hỗ trợ       |    16.435 | 2.42        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDC |
-| pe | 5.27 |
-| pb | 1.27 |
+| pe | 5.21 |
+| pb | 1.26 |
 | roe | 24.63 |
 | roe_pct_rank | 78 |
 | roa | 11.66 |
-| roa_pct_rank | 73 |
+| roa_pct_rank | 74 |
 | eps | 3550 |
 | bvps | 14703 |
 | beta | 0.98 |
@@ -90,29 +90,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 3396700 | +6.7%      | 1.700%         |
-| 2026-04-16 | 2839700 | -10.8%     | 1.422%         |
-| 2026-04-17 | 1570900 | -50.7%     | 0.786%         |
-| 2026-04-20 | 1633600 | -48.7%     | 0.818%         |
-| 2026-04-21 | 1550600 | -51.3%     | 0.776%         |
+| 2026-04-16 | 2839700 | -9.5%      | 1.422%         |
+| 2026-04-17 | 1570900 | -50.0%     | 0.786%         |
+| 2026-04-20 | 1633600 | -48.0%     | 0.818%         |
+| 2026-04-21 | 1550600 | -50.6%     | 0.776%         |
+| 2026-04-22 | 1892900 | -39.7%     | 0.948%         |
 
-- KL trung bình 60 phiên: **3,183,258**
+- KL trung bình 60 phiên: **3,139,171**
 - Số CP lưu hành: **199,754,571**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime         | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| HDC: Link công bố Báo cáo thường niên năm 2025                                                 | 2026-04-20T16:03:23 | /2026/04/hdc-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430465.htm                                                 |
-| Hodeco lên kế hoạch lãi giảm, tiếp tục tìm vốn qua kênh trái phiếu                             | 2026-04-04T14:02:00 | /2026/04/hodeco-len-ke-hoach-lai-giam-tiep-tuc-tim-von-qua-kenh-trai-phieu-737-1423011.htm                             |
-| HDC: Thông báo về việc thay đổi mối quan hệ với Công ty Cổ phần Đầu tư & Xây dựng HODECO       | 2026-04-03T15:30:33 | /2026/04/hdc-thong-bao-ve-viec-thay-doi-moi-quan-he-voi-cong-ty-co-phan-dau-tu-xay-dung-hodeco-737-1422607.htm         |
-| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu ra công chúng      | 2026-03-31T16:12:18 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-ra-cong-chung-785-1419770.htm      |
-| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu riêng lẻ           | 2026-03-31T16:11:43 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-rieng-le-785-1419773.htm           |
-| HDC: Giải trình doanh thu, lợi nhuận trên BCTC kiểm toán năm 2025                              | 2026-03-31T15:43:42 | /2026/03/hdc-giai-trinh-doanh-thu-loi-nhuan-tren-bctc-kiem-toan-nam-2025-737-1419735.htm                               |
-| HDC: BCTC năm 2025                                                                             | 2026-03-31T00:00:00 | /2026/03/hdc-bctc-nam-2025-737-1419714.htm                                                                             |
-| HDC: BCTC Hợp nhất năm 2025                                                                    | 2026-03-31T00:00:00 | /2026/03/hdc-bctc-hop-nhat-nam-2025-737-1419715.htm                                                                    |
-| HDC: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Đoàn Hữu Hà Vinh, Đoàn Hữu Thuận      | 2026-03-30T13:36:52 | /2026/03/hdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-huu-ha-vinh-doan-huu-thuan-739-1418581.htm       |
-| HDC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đoàn Hữu Hà An | 2026-03-30T13:36:49 | /2026/03/hdc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-doan-huu-ha-an-739-1418569.htm |
+| title                                                                                                           | publishtime         | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HDC: Giải trình doanh thu và lợi nhuận quý 1/2026 so với cùng kỳ năm trước                                      | 2026-04-22T16:57:36 | /2026/04/hdc-giai-trinh-doanh-thu-va-loi-nhuan-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1432187.htm                        |
+| HDC: Thông báo nhận được công văn của Sở Xây dựng TP.HCM xác nhận đủ điều kiện kinh doanh tại Chung cư NOXH CC1 | 2026-04-22T16:08:53 | /2026/04/hdc-thong-bao-nhan-duoc-cong-van-cua-so-xay-dung-tp-hcm-xac-nhan-du-dieu-kien-kinh-doanh-tai-chung-cu-noxh-cc1-… |
+| HDC: BCTC quý 1 năm 2026                                                                                        | 2026-04-22T00:00:00 | /2026/04/hdc-bctc-quy-1-nam-2026-737-1432181.htm                                                                          |
+| HDC: BCTC Hợp nhất quý 1 năm 2026                                                                               | 2026-04-22T00:00:00 | /2026/04/hdc-bctc-hop-nhat-quy-1-nam-2026-737-1432182.htm                                                                 |
+| HDC: Link công bố Báo cáo thường niên năm 2025                                                                  | 2026-04-20T16:03:23 | /2026/04/hdc-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1430465.htm                                                    |
+| Hodeco lên kế hoạch lãi giảm, tiếp tục tìm vốn qua kênh trái phiếu                                              | 2026-04-04T14:02:00 | /2026/04/hodeco-len-ke-hoach-lai-giam-tiep-tuc-tim-von-qua-kenh-trai-phieu-737-1423011.htm                                |
+| HDC: Thông báo về việc thay đổi mối quan hệ với Công ty Cổ phần Đầu tư & Xây dựng HODECO                        | 2026-04-03T15:30:33 | /2026/04/hdc-thong-bao-ve-viec-thay-doi-moi-quan-he-voi-cong-ty-co-phan-dau-tu-xay-dung-hodeco-737-1422607.htm            |
+| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu ra công chúng                       | 2026-03-31T16:12:18 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-ra-cong-chung-785-1419770.htm         |
+| HDC: Báo cáo tình hình sử dụng số tiền thu được từ đợt phát hành trái phiếu riêng lẻ                            | 2026-03-31T16:11:43 | /2026/03/hdc-bao-cao-tinh-hinh-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-trai-phieu-rieng-le-785-1419773.htm              |
+| HDC: Giải trình doanh thu, lợi nhuận trên BCTC kiểm toán năm 2025                                               | 2026-03-31T15:43:42 | /2026/03/hdc-giai-trinh-doanh-thu-loi-nhuan-tren-bctc-kiem-toan-nam-2025-737-1419735.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.65% |
-| % Cổ phiếu hôm nay | -1.07% |
-| RS (CP − Ngành) | -1.72% |
+| % Ngành hôm nay | +4.96% |
+| % Cổ phiếu hôm nay | -0.27% |
+| RS (CP − Ngành) | -5.23% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDC      | 2025-12-08 00:00:00 |  26.8  |  26.85 | 26    |   26.1  |  2879400 |
 | HDC      | 2025-12-09 00:00:00 |  26.1  |  26.2  | 25.05 |   25.3  |  3056600 |
 | HDC      | 2025-12-10 00:00:00 |  25.3  |  25.75 | 25    |   25    |  1599300 |
 | HDC      | 2025-12-11 00:00:00 |  25.8  |  25.8  | 25    |   25    |  1073000 |
@@ -222,21 +221,22 @@ _Không có dữ liệu_
 | HDC      | 2026-04-17 00:00:00 |  18.95 |  19.05 | 18.55 |   18.55 |  1570900 |
 | HDC      | 2026-04-20 00:00:00 |  18.6  |  19.05 | 18.4  |   18.7  |  1633600 |
 | HDC      | 2026-04-21 00:00:00 |  18.7  |  18.85 | 18.5  |   18.5  |  1550600 |
+| HDC      | 2026-04-22 00:00:00 |  18.65 |  18.65 | 18.35 |   18.45 |  1892900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDC      | 2026-04-21 14:25:15 |   18.6  |      100 | Sell         | 466472663 |
-| HDC      | 2026-04-21 14:25:15 |   18.6  |      500 | Sell         | 466472686 |
-| HDC      | 2026-04-21 14:25:48 |   18.6  |     1000 | Sell         | 466474914 |
-| HDC      | 2026-04-21 14:25:49 |   18.6  |      200 | Sell         | 466475001 |
-| HDC      | 2026-04-21 14:26:03 |   18.6  |     2000 | Sell         | 466476486 |
-| HDC      | 2026-04-21 14:26:12 |   18.65 |      100 | Buy          | 466477385 |
-| HDC      | 2026-04-21 14:26:24 |   18.65 |      100 | Buy          | 466478337 |
-| HDC      | 2026-04-21 14:26:32 |   18.6  |      200 | Sell         | 466479224 |
-| HDC      | 2026-04-21 14:26:32 |   18.65 |      200 | Buy          | 466479228 |
-| HDC      | 2026-04-21 14:26:35 |   18.6  |      900 | Sell         | 466479367 |
+| HDC      | 2026-04-22 14:08:50 |   18.45 |      600 | Buy          | 466959521 |
+| HDC      | 2026-04-22 14:09:10 |   18.45 |      100 | Buy          | 466960356 |
+| HDC      | 2026-04-22 14:09:10 |   18.45 |      500 | Buy          | 466960354 |
+| HDC      | 2026-04-22 14:09:10 |   18.45 |      500 | Buy          | 466960355 |
+| HDC      | 2026-04-22 14:09:14 |   18.45 |     1000 | Sell         | 466960514 |
+| HDC      | 2026-04-22 14:09:29 |   18.45 |      200 | Sell         | 466961175 |
+| HDC      | 2026-04-22 14:10:04 |   18.45 |      700 | Sell         | 466962569 |
+| HDC      | 2026-04-22 14:10:04 |   18.45 |     1000 | Sell         | 466962571 |
+| HDC      | 2026-04-22 14:10:04 |   18.45 |     1300 | Sell         | 466962572 |
+| HDC      | 2026-04-22 14:10:49 |   18.5  |      300 | Buy          | 466964324 |
 
 <!-- END:DAILY -->
 

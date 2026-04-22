@@ -1,6 +1,6 @@
 # FPT — CTCP FPT
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: —
+> 📅 Daily: 22/04/2026 22:26  |  🗂 Quarterly: —
 
 ---
 
@@ -331,24 +331,24 @@
 | --- | --- |
 | symbol | FPT |
 | exchange | HOSE |
-| market_cap | 127933384787100 |
+| market_cap | 127081631226600 |
 | 52w_high | 110945 |
 | 52w_high_date | 2025-07-22 |
 | 52w_low | 73100 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 31.9362 |
+| foreign_ownership | 31.9427 |
 | dividend | 2000 |
-| beta | 0.83 |
+| beta | 0.84 |
 | eps | 6017 |
-| eps_forward | 11.264906958313984 |
+| eps_forward | 11.001229032111576 |
 | bvps | 25682 |
-| pe | 12.78 |
-| pb | 2.99 |
-| price_chg_1m | 0.67 |
-| price_chg_ytd | -21.23 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.02663115845539281 |
+| pe | 12.48 |
+| pb | 2.92 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | -20.84 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.02680965147453083 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -356,53 +356,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 75.1 |
-| MA5 | 75.44 |
-| MA10 | 76.45 |
-| EMA20 | 76.516 |
-| EMA50 | 81.425 |
-| Slope MA20 (5p, %) | -0.86 |
-| ATR(14) | 2.182 |
-| RSI(14) | 43.4 |
+| Giá đóng cửa | 74.6 |
+| MA5 | 75.34 |
+| MA10 | 76.0 |
+| EMA20 | 76.334 |
+| EMA50 | 81.157 |
+| Slope MA20 (5p, %) | -0.84 |
+| ATR(14) | 2.126 |
+| RSI(14) | 42.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.513 |
-| MACD Signal | -2.068 |
-| MACD Histogram | 0.554 |
+| MACD | -1.503 |
+| MACD Signal | -1.955 |
+| MACD Histogram | 0.452 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 12126553 |
+| KL avg 60 phiên | 12020348 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |      81.3 | 1.23        | 1             |
-| 🔴 Kháng cự     |      79.2 | 1.41        | 1             |
-| 🔴 Kháng cự     |      75.9 | 1.16        | 1             |
-| ▶ Giá hiện tại |      75.1 | —           | —             |
-| 🟢 Hỗ trợ       |      73.5 | 1.37        | 1             |
-| 🟢 Hỗ trợ       |      71.6 | 1.27        | 1             |
+| 🔴 Kháng cự     |      81.3 | 1.22        | 1             |
+| 🔴 Kháng cự     |      79.2 | 1.39        | 1             |
+| 🔴 Kháng cự     |      75.9 | 1.15        | 1             |
+| ▶ Giá hiện tại |      74.6 | —           | —             |
+| 🟢 Hỗ trợ       |      73.5 | 1.36        | 1             |
+| 🟢 Hỗ trợ       |      71.6 | 1.26        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | FPT |
-| pe | 12.78 |
-| pb | 2.99 |
+| pe | 12.48 |
+| pb | 2.92 |
 | roe | 28.25 |
 | roe_pct_rank | 86 |
 | roa | 11.71 |
 | roa_pct_rank | 74 |
 | eps | 6017 |
 | bvps | 25682 |
-| beta | 0.83 |
+| beta | 0.84 |
 | dividend | 2000 |
-| yield | 0.02663115845539281 |
-| pe_pct_rank | 51 |
-| pb_pct_rank | 100 |
+| yield | 0.02680965147453083 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 99 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -410,29 +410,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-15 | 10047800 | -17.1%     | 0.590%         |
-| 2026-04-16 | 11316400 | -6.7%      | 0.664%         |
-| 2026-04-17 | 12349600 | +1.8%      | 0.725%         |
-| 2026-04-20 |  6876800 | -43.3%     | 0.404%         |
-| 2026-04-21 |  7119000 | -41.3%     | 0.418%         |
+| 2026-04-16 | 11316400 | -5.9%      | 0.664%         |
+| 2026-04-17 | 12349600 | +2.7%      | 0.725%         |
+| 2026-04-20 |  6876800 | -42.8%     | 0.404%         |
+| 2026-04-21 |  7119000 | -40.8%     | 0.418%         |
+| 2026-04-22 |  8145000 | -32.2%     | 0.478%         |
 
-- KL trung bình 60 phiên: **12,126,553**
+- KL trung bình 60 phiên: **12,020,348**
 - Số CP lưu hành: **1,703,507,121**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime            | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| FPT: Quy chế nội bộ về quản trị công ty sửa đổi                                                          | 2026-04-20T13:43:43    | /2026/04/fpt-quy-che-noi-bo-ve-quan-tri-cong-ty-sua-doi-143-1430164.htm                                                   |
-| FPT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-20T13:43:06    | /2026/04/fpt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430163.htm                                            |
-| FPT: Thông báo thay đổi nhân sự                                                                          | 2026-04-20T10:17:06    | /2026/04/fpt-thong-bao-thay-doi-nhan-su-214-1430010.htm                                                                   |
-| FPT: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                      | 2026-04-20T10:16:28    | /2026/04/fpt-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1429994.htm                                               |
-| FPT: Quy chế hoạt động của HĐQT sửa đổi                                                                  | 2026-04-20T10:16:23    | /2026/04/fpt-quy-che-hoat-dong-cua-hdqt-sua-doi-143-1430009.htm                                                           |
-| Số hóa ĐHĐCĐ: Từ giải pháp tình thế đến chiến lược quản trị toàn diện                                    | 2026-04-20T08:02:00    | /2026/04/so-hoa-dhdcd-tu-giai-phap-tinh-the-den-chien-luoc-quan-tri-toan-dien-737-1429714.htm                             |
-| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động                 | 2026-04-17T17:12:00    | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm             |
-| Ông Trương Gia Bình: AI là cuộc chơi không thể đảo ngược, đặt mục tiêu làm chủ công nghệ lõi             | 2026-04-16T17:24:00    | /2026/04/ong-truong-gia-binh-ai-la-cuoc-choi-khong-the-dao-nguoc-dat-muc-tieu-lam-chu-cong-nghe-loi-737-1428608.htm       |
-| FPT triển khai giải pháp số cho Tập đoàn Điện lực Chugoku                                                | 2026-04-15T18:22:54.65 | /2026/04/fpt-trien-khai-giai-phap-so-cho-tap-doan-dien-luc-chugoku-4264-1428196.htm                                       |
-| FPT: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Công ty TNHH MTV Đầu tư SCIC | 2026-04-14T18:07:25    | /2026/04/fpt-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-tnhh-mtv-dau-tu-scic-737-142… |
+| title                                                                                                             | publishtime            | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Theo dấu dòng tiền cá mập 22/04: Khối ngoại bán ròng tối thiểu, điểm nóng tiếp tục là FPT                         | 2026-04-22T19:24:49.32 | /2026/04/theo-dau-dong-tien-ca-map-2204-khoi-ngoai-ban-rong-toi-thieu-diem-nong-tiep-tuc-la-fpt-830-1432305.htm           |
+| ĐHĐCĐ Digiworld: Siết đầu tư sau khoản lỗ FPT, lấn sân ngành hàng Automotive và đẩy mạnh AI                       | 2026-04-22T17:57:00    | /2026/04/dhdcd-digiworld-siet-dau-tu-sau-khoan-lo-fpt-lan-san-nganh-hang-automotive-va-day-manh-ai-737-1431933.htm        |
+| FTS: Thông báo thay đổi Giấy chứng nhận đăng ký doanh nghiệp của Công ty Cổ phần Chứng khoán FPT - Thay đổi lần 7 | 2026-04-22T00:00:00    | /2026/04/fts-thong-bao-thay-doi-giay-chung-nhan-dang-ky-doanh-nghiep-cua-cong-ty-co-phan-chung-khoan-fpt-thay-doi-lan-7-… |
+| FPT: Quy chế nội bộ về quản trị công ty sửa đổi                                                                   | 2026-04-20T13:43:43    | /2026/04/fpt-quy-che-noi-bo-ve-quan-tri-cong-ty-sua-doi-143-1430164.htm                                                   |
+| FPT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                            | 2026-04-20T13:43:06    | /2026/04/fpt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430163.htm                                            |
+| FPT: Thông báo thay đổi nhân sự                                                                                   | 2026-04-20T10:17:06    | /2026/04/fpt-thong-bao-thay-doi-nhan-su-214-1430010.htm                                                                   |
+| FPT: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                               | 2026-04-20T10:16:28    | /2026/04/fpt-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1429994.htm                                               |
+| FPT: Quy chế hoạt động của HĐQT sửa đổi                                                                           | 2026-04-20T10:16:23    | /2026/04/fpt-quy-che-hoat-dong-cua-hdqt-sua-doi-143-1430009.htm                                                           |
+| Số hóa ĐHĐCĐ: Từ giải pháp tình thế đến chiến lược quản trị toàn diện                                             | 2026-04-20T08:02:00    | /2026/04/so-hoa-dhdcd-tu-giai-phap-tinh-the-den-chien-luoc-quan-tri-toan-dien-737-1429714.htm                             |
+| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động                          | 2026-04-17T17:12:00    | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -443,16 +443,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Công nghệ và thông tin |
-| % Ngành hôm nay | -2.19% |
-| % Cổ phiếu hôm nay | -2.34% |
-| RS (CP − Ngành) | -0.15% |
+| % Ngành hôm nay | -0.65% |
+| % Cổ phiếu hôm nay | -0.67% |
+| RS (CP − Ngành) | -0.02% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FPT      | 2025-12-08 00:00:00 |   96.6 |   97.3 |  95.5 |    95.5 |  5307100 |
 | FPT      | 2025-12-09 00:00:00 |   95.5 |   97   |  94.4 |    96.9 |  9995279 |
 | FPT      | 2025-12-10 00:00:00 |   97.1 |   97.1 |  95.6 |    95.6 |  3909618 |
 | FPT      | 2025-12-11 00:00:00 |   95.9 |   96.6 |  95.6 |    96   |  5211998 |
@@ -542,20 +541,21 @@ _Không có dữ liệu_
 | FPT      | 2026-04-17 00:00:00 |   75   |   78   |  74.9 |    76   | 12349600 |
 | FPT      | 2026-04-20 00:00:00 |   76.3 |   77   |  76.1 |    76.9 |  6876800 |
 | FPT      | 2026-04-21 00:00:00 |   77   |   77.4 |  75.1 |    75.1 |  7119000 |
+| FPT      | 2026-04-22 00:00:00 |   75.5 |   75.5 |  74.1 |    74.6 |  8145000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FPT      | 2026-04-21 14:28:45 |    75.1 |      200 | Sell         | 466491163 |
-| FPT      | 2026-04-21 14:28:46 |    75.2 |      500 | Buy          | 466491538 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |     1800 | Buy          | 466492029 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |      700 | Buy          | 466492026 |
-| FPT      | 2026-04-21 14:28:50 |    75.2 |      200 | Buy          | 466492030 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |     1000 | Buy          | 466492036 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      200 | Buy          | 466492044 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      500 | Buy          | 466492061 |
-| FPT      | 2026-04-21 14:28:51 |    75.2 |      100 | Buy          | 466492115 |
-| FPT      | 2026-04-21 14:28:52 |    75.2 |      100 | Buy          | 466492243 |
+| FPT      | 2026-04-22 14:28:45 |    74.4 |      500 | Buy          | 467025414 |
+| FPT      | 2026-04-22 14:28:45 |    74.5 |     2000 | Buy          | 467025493 |
+| FPT      | 2026-04-22 14:28:48 |    74.4 |      100 | Sell         | 467025591 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |     9000 | Sell         | 467025752 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |      200 | Sell         | 467025753 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |      200 | Sell         | 467025754 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |      100 | Sell         | 467025755 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |      300 | Sell         | 467025756 |
+| FPT      | 2026-04-22 14:28:52 |    74.4 |      200 | Sell         | 467025757 |
+| FPT      | 2026-04-22 14:28:56 |    74.5 |      800 | Buy          | 467026033 |
 
 <!-- END:DAILY -->

@@ -1,6 +1,6 @@
 # DXS — CTCP Dịch vụ Bất động sản Đất Xanh
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 21/04/2026 22:13  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 22/04/2026 22:26  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | DXS |
 | exchange | HOSE |
-| market_cap | 4111632180400 |
+| market_cap | 4140587336600 |
 | 52w_high | 13850 |
 | 52w_high_date | 2025-09-03 |
-| 52w_low | 5710 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 7.17 |
+| 52w_low | 5840 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 7.09 |
 | dividend | 0 |
 | beta | 1.07 |
 | eps | 644 |
-| eps_forward | 2.0225720143544508 |
+| eps_forward | 1.9644680303579483 |
 | bvps | 15209 |
-| pe | 11.35 |
-| pb | 0.48 |
-| price_chg_1m | 13.78 |
-| price_chg_ytd | 18.33 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| pe | 11.02 |
+| pb | 0.47 |
+| price_chg_1m | 14.58 |
+| price_chg_ytd | 25.22 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 7.1 |
-| MA5 | 7.364 |
-| MA10 | 7.505 |
-| EMA20 | 7.246 |
-| EMA50 | 7.252 |
-| Slope MA20 (5p, %) | 0.86 |
-| ATR(14) | 0.329 |
-| RSI(14) | 47.9 |
+| Giá đóng cửa | 7.15 |
+| MA5 | 7.276 |
+| MA10 | 7.466 |
+| EMA20 | 7.237 |
+| EMA50 | 7.251 |
+| Slope MA20 (5p, %) | 0.19 |
+| ATR(14) | 0.318 |
+| RSI(14) | 49.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.151 |
-| MACD Signal | 0.18 |
-| MACD Histogram | -0.029 |
+| MACD | 0.124 |
+| MACD Signal | 0.169 |
+| MACD Histogram | -0.045 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 2359115 |
+| KL avg 60 phiên | 2353717 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |      7.93 | 0.79        | 1             |
-| 🔴 Kháng cự     |      7.7  | 1.34        | 1             |
-| 🔴 Kháng cự     |      7.4  | 1.06        | 1             |
-| ▶ Giá hiện tại |      7.1  | —           | —             |
-| 🟢 Hỗ trợ       |      6.92 | 1.38        | 1             |
-| 🟢 Hỗ trợ       |      6.79 | 1.01        | 1             |
-| 🟢 Hỗ trợ       |      6.45 | 1.25        | 1             |
+| 🔴 Kháng cự     |      7.93 | 0.78        | 1             |
+| 🔴 Kháng cự     |      7.7  | 1.33        | 1             |
+| 🔴 Kháng cự     |      7.4  | 1.05        | 1             |
+| ▶ Giá hiện tại |      7.15 | —           | —             |
+| 🟢 Hỗ trợ       |      6.92 | 1.37        | 1             |
+| 🟢 Hỗ trợ       |      6.79 | 0.99        | 1             |
+| 🟢 Hỗ trợ       |      6.45 | 1.24        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DXS |
-| pe | 11.35 |
-| pb | 0.48 |
+| pe | 11.02 |
+| pb | 0.47 |
 | roe | 5.82 |
 | roe_pct_rank | 38 |
 | roa | 2.1 |
@@ -91,19 +91,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 2893100 | +22.6%     | 0.500%         |
-| 2026-04-16 | 3161900 | +34.0%     | 0.546%         |
-| 2026-04-17 | 1988700 | -15.7%     | 0.343%         |
-| 2026-04-20 | 1625700 | -31.1%     | 0.281%         |
-| 2026-04-21 | 3017200 | +27.9%     | 0.521%         |
+| 2026-04-16 | 3161900 | +34.3%     | 0.546%         |
+| 2026-04-17 | 1988700 | -15.5%     | 0.343%         |
+| 2026-04-20 | 1625700 | -30.9%     | 0.281%         |
+| 2026-04-21 | 3017200 | +28.2%     | 0.521%         |
+| 2026-04-22 | 1490400 | -36.7%     | 0.257%         |
 
-- KL trung bình 60 phiên: **2,359,115**
+- KL trung bình 60 phiên: **2,353,716**
 - Số CP lưu hành: **579,103,124**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                | publishtime             | url                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DXS: Nghị quyết HĐQT về việc thông qua toàn văn tài liệu ĐHĐCĐ TN 2026                                               | 2026-04-22T14:59:45     | /2026/04/dxs-nghi-quyet-hdqt-ve-viec-thong-qua-toan-van-tai-lieu-dhdcd-tn-2026-737-1431953.htm                            |
 | DXS: Báo cáo thường niên năm 2025                                                                                    | 2026-04-21T17:45:36     | /2026/04/dxs-bao-cao-thuong-nien-nam-2025-737-1431491.htm                                                                 |
 | Ông Lương Trí Thìn: Đất Xanh đổi tên để thoát định vị “công ty dịch vụ”                                              | 2026-04-17T11:25:44.737 | /2026/04/ong-luong-tri-thin-dat-xanh-doi-ten-de-thoat-dinh-vi-cong-ty-dich-vu-737-1429045.htm                             |
 | Đất Xanh Services muốn giải thể công ty con do hoạt động không hiệu quả                                              | 2026-04-06T17:08:29.75  | /2026/04/dat-xanh-services-muon-giai-the-cong-ty-con-do-hoat-dong-khong-hieu-qua-737-1423426.htm                          |
@@ -113,7 +114,6 @@
 | DXS: BCTC Hợp nhất năm 2025                                                                                          | 2026-03-31T00:00:00     | /2026/03/dxs-bctc-hop-nhat-nam-2025-737-1420754.htm                                                                       |
 | DXS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                          | 2026-02-27T16:42:50     | /2026/02/dxs-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1406463.htm                       |
 | DXS: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐTN 2026 và ngày chốt DSCĐ                               | 2026-02-26T10:15:17     | /2026/02/dxs-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-to-chuc-dhdcdtn-2026-va-ngay-chot-dscd-737-1405717.htm            |
-| Nợ vay doanh nghiệp bất động sản trên sàn lên gần 400 ngàn tỷ đồng trong năm 2025                                    | 2026-02-24T10:02:00     | /2026/02/no-vay-doanh-nghiep-bat-dong-san-tren-san-len-gan-400-ngan-ty-dong-trong-nam-2025-737-1403939.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.65% |
-| % Cổ phiếu hôm nay | -2.87% |
-| RS (CP − Ngành) | -3.52% |
+| % Ngành hôm nay | +4.96% |
+| % Cổ phiếu hôm nay | +0.70% |
+| RS (CP − Ngành) | -4.26% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXS      | 2025-12-08 00:00:00 |  10.2  |  10.25 |  9.92 |    9.96 |  2244200 |
 | DXS      | 2025-12-09 00:00:00 |   9.96 |  10.05 |  9.78 |   10.05 |  1955900 |
 | DXS      | 2025-12-10 00:00:00 |  10.2  |  10.2  |  9.83 |    9.85 |  1373400 |
 | DXS      | 2025-12-11 00:00:00 |   9.89 |   9.93 |  9.75 |    9.75 |  1273600 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | DXS      | 2026-04-17 00:00:00 |   7.49 |   7.59 |  7.3  |    7.33 |  1988700 |
 | DXS      | 2026-04-20 00:00:00 |   7.38 |   7.42 |  7.21 |    7.31 |  1625700 |
 | DXS      | 2026-04-21 00:00:00 |   7.31 |   7.4  |  7.06 |    7.1  |  3017200 |
+| DXS      | 2026-04-22 00:00:00 |   7.15 |   7.27 |  7.13 |    7.15 |  1490400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DXS      | 2026-04-21 14:25:40 |    7.11 |      500 | Sell         | 466474226 |
-| DXS      | 2026-04-21 14:25:40 |    7.11 |      200 | Sell         | 466474227 |
-| DXS      | 2026-04-21 14:25:44 |    7.12 |      100 | Buy          | 466474703 |
-| DXS      | 2026-04-21 14:25:52 |    7.11 |     1000 | Sell         | 466475305 |
-| DXS      | 2026-04-21 14:25:58 |    7.11 |     1000 | Sell         | 466475842 |
-| DXS      | 2026-04-21 14:26:01 |    7.12 |      100 | Buy          | 466476099 |
-| DXS      | 2026-04-21 14:26:15 |    7.1  |      200 | Sell         | 466477666 |
-| DXS      | 2026-04-21 14:26:15 |    7.11 |      100 | Sell         | 466477662 |
-| DXS      | 2026-04-21 14:26:15 |    7.12 |      100 | Buy          | 466477582 |
-| DXS      | 2026-04-21 14:26:15 |    7.11 |      100 | Sell         | 466477658 |
+| DXS      | 2026-04-22 14:19:31 |    7.2  |     1500 | Buy          | 466990355 |
+| DXS      | 2026-04-22 14:19:31 |    7.2  |      500 | Buy          | 466990359 |
+| DXS      | 2026-04-22 14:19:31 |    7.2  |      700 | Buy          | 466990356 |
+| DXS      | 2026-04-22 14:19:31 |    7.2  |      200 | Buy          | 466990358 |
+| DXS      | 2026-04-22 14:20:09 |    7.2  |     1000 | Buy          | 466993410 |
+| DXS      | 2026-04-22 14:20:24 |    7.2  |      200 | Buy          | 466994198 |
+| DXS      | 2026-04-22 14:20:27 |    7.19 |      100 | Sell         | 466994325 |
+| DXS      | 2026-04-22 14:20:27 |    7.18 |      500 | Sell         | 466994335 |
+| DXS      | 2026-04-22 14:20:27 |    7.18 |      100 | Sell         | 466994326 |
+| DXS      | 2026-04-22 14:20:27 |    7.18 |      200 | Sell         | 466994327 |
 
 <!-- END:DAILY -->
 

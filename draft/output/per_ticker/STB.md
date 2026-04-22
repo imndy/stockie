@@ -1,6 +1,6 @@
 # STB — Ngân hàng TMCP Sài Gòn Thương Tín
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 21/04/2026 22:19  |  🗂 Quarterly: 05/04/2026 12:22
+> 📅 Daily: 22/04/2026 22:33  |  🗂 Quarterly: 05/04/2026 12:22
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | STB |
 | exchange | HOSE |
-| market_cap | 127629103973200 |
+| market_cap | 125366845114000 |
 | 52w_high | 67800 |
 | 52w_high_date | 2026-03-03 |
 | 52w_low | 38850 |
 | 52w_low_date | 2025-05-06 |
-| foreign_ownership | 12.4939 |
+| foreign_ownership | 12.4866 |
 | dividend | 0 |
 | beta | 0.59 |
 | eps | 3150 |
-| eps_forward | 8.261495639551717 |
+| eps_forward | 8.71188870401326 |
 | bvps | 31755.91 |
-| pe | 20.38 |
-| pb | 2.02 |
-| price_chg_1m | 6.78 |
-| price_chg_ytd | 67.37 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| pe | 21.49 |
+| pb | 2.13 |
+| price_chg_1m | 4.89 |
+| price_chg_ytd | 63.59 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,42 +36,42 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 67.7 |
-| MA5 | 64.8 |
-| MA10 | 65.66 |
-| EMA20 | 64.32 |
-| EMA50 | 62.878 |
-| Slope MA20 (5p, %) | 0.64 |
-| ATR(14) | 2.466 |
-| RSI(14) | 62.0 |
+| Giá đóng cửa | 66.5 |
+| MA5 | 65.24 |
+| MA10 | 65.71 |
+| EMA20 | 64.528 |
+| EMA50 | 63.029 |
+| Slope MA20 (5p, %) | 0.91 |
+| ATR(14) | 2.482 |
+| RSI(14) | 57.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.736 |
-| MACD Signal | 0.483 |
-| MACD Histogram | 0.253 |
+| MACD | 0.816 |
+| MACD Signal | 0.549 |
+| MACD Histogram | 0.267 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 10552073 |
+| KL avg 60 phiên | 10261260 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    70.2   | 1.12        | 1             |
-| 🔴 Kháng cự     |    68.973 | 2.63        | 2             |
-| ▶ Giá hiện tại |    67.7   | —           | —             |
-| 🟢 Hỗ trợ       |    66.4   | 0.88        | 1             |
-| 🟢 Hỗ trợ       |    65     | 0.98        | 1             |
-| 🟢 Hỗ trợ       |    60.8   | 0.72        | 1             |
+| 🔴 Kháng cự     |    70.2   | 1.11        | 1             |
+| 🔴 Kháng cự     |    68.973 | 2.61        | 2             |
+| ▶ Giá hiện tại |    66.5   | —           | —             |
+| 🟢 Hỗ trợ       |    66.4   | 0.87        | 1             |
+| 🟢 Hỗ trợ       |    65     | 0.97        | 1             |
+| 🟢 Hỗ trợ       |    60.8   | 0.71        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | STB |
-| pe | 20.38 |
-| pb | 2.02 |
+| pe | 21.49 |
+| pb | 2.13 |
 | roe | 10.34 |
 | roe_pct_rank | 48 |
 | roa | 0.71 |
@@ -81,8 +81,8 @@
 | beta | 0.59 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 67 |
-| pb_pct_rank | 74 |
+| pe_pct_rank | 69 |
+| pb_pct_rank | 77 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -90,29 +90,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-15 |  6883400 | -34.8%     | 0.365%         |
-| 2026-04-16 |  4595200 | -56.5%     | 0.244%         |
-| 2026-04-17 |  3714500 | -64.8%     | 0.197%         |
-| 2026-04-20 |  2566400 | -75.7%     | 0.136%         |
-| 2026-04-21 | 14144000 | +34.0%     | 0.750%         |
+| 2026-04-16 |  4595200 | -55.2%     | 0.244%         |
+| 2026-04-17 |  3714500 | -63.8%     | 0.197%         |
+| 2026-04-20 |  2566400 | -75.0%     | 0.136%         |
+| 2026-04-21 | 14144000 | +37.8%     | 0.750%         |
+| 2026-04-22 |  8519100 | -17.0%     | 0.452%         |
 
-- KL trung bình 60 phiên: **10,552,073**
+- KL trung bình 60 phiên: **10,261,260**
 - Số CP lưu hành: **1,885,215,716**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                              | publishtime             | url                                                                                                                       |
-|:-------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| STB: Bổ sung tài liệu họp ĐHĐCĐ thường niên năm tài chính 2025                                                     | 2026-04-21T17:46:28     | /2026/04/stb-bo-sung-tai-lieu-hop-dhdcd-thuong-nien-nam-tai-chinh-2025-737-1431489.htm                                    |
-| STB: Bổ sung tài liệu họp ĐHĐCĐ thường niên năm 2026 đợt 3                                                         | 2026-04-21T17:17:44     | /2026/04/stb-bo-sung-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-dot-3-737-1431430.htm                                        |
-| Sacombank hủy tờ trình gia hạn Đề án tái cơ cấu, giá cổ phiếu tăng trần                                            | 2026-04-21T13:43:57.093 | /2026/04/sacombank-huy-to-trinh-gia-han-de-an-tai-co-cau-gia-co-phieu-tang-tran-757-1431146.htm                           |
-| Gửi tiết kiệm tại SACOMBANK, cơ hội nhận được VinFast VF9 ECO                                                      | 2026-04-21T11:02:00     | /2026/04/gui-tiet-kiem-tai-sacombank-co-hoi-nhan-duoc-vinfast-vf9-eco-757-1431034.htm                                     |
-| STB: Báo cáo thường niên năm 2025                                                                                  | 2026-04-17T16:56:06     | /2026/04/stb-bao-cao-thuong-nien-nam-2025-737-1429423.htm                                                                 |
-| SACOMBANK hợp tác với Cục Thuế triển khai giải pháp hỗ trợ hàng triệu hộ kinh doanh trên toàn quốc                 | 2026-04-15T21:18:19.05  | /2026/04/sacombank-hop-tac-voi-cuc-thue-trien-khai-giai-phap-ho-tro-hang-trieu-ho-kinh-doanh-tren-toan-quoc-757-1428320.… |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Đông Đô                         | 2026-04-13T17:28:58     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-dong-do-737-1427067.htm         |
-| SACOMBANK hưởng ứng chủ trương giảm lãi suất của Ngân hàng Nhà nước                                                | 2026-04-10T18:02:49.44  | /2026/04/sacombank-huong-ung-chu-truong-giam-lai-suat-cua-ngan-hang-nha-nuoc-757-1426257.htm                              |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                               | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi Chi nhánh quản lý các phòng GD trực thuộc Chi nhánh Đông Đô | 2026-04-07T17:44:52     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-chi-nhanh-quan-ly-cac-phong-gd-truc-thuoc-chi-nhanh-dong-… |
+| title                                                                                                 | publishtime             | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SACOMBANK bầu ông Nguyễn Đức Thụy làm Phó Chủ tịch Thường trực HĐQT, bổ nhiệm Quyền Tổng Giám đốc mới | 2026-04-22T17:05:00     | /2026/04/sacombank-bau-ong-nguyen-duc-thuy-lam-pho-chu-tich-thuong-truc-hdqt-bo-nhiem-quyen-tong-giam-doc-moi-757-143205… |
+| ĐHĐCĐ Sacombank: Nhiệm vụ trong năm 2026 là giảm tỷ lệ nợ xấu                                         | 2026-04-22T12:20:00     | /2026/04/dhdcd-sacombank-nhiem-vu-trong-nam-2026-la-giam-ty-le-no-xau-737-1429789.htm                                     |
+| Sacombank cập nhật tờ trình ĐHĐCĐ, ông Nguyễn Đức Thụy ứng cử vào HĐQT                                | 2026-04-21T21:51:50.423 | /2026/04/sacombank-cap-nhat-to-trinh-dhdcd-ong-nguyen-duc-thuy-ung-cu-vao-hdqt-757-1431638.htm                            |
+| STB: Bổ sung tài liệu họp ĐHĐCĐ thường niên năm tài chính 2025                                        | 2026-04-21T17:46:28     | /2026/04/stb-bo-sung-tai-lieu-hop-dhdcd-thuong-nien-nam-tai-chinh-2025-737-1431489.htm                                    |
+| STB: Bổ sung tài liệu họp ĐHĐCĐ thường niên năm 2026 đợt 3                                            | 2026-04-21T17:17:44     | /2026/04/stb-bo-sung-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-dot-3-737-1431430.htm                                        |
+| Sacombank hủy tờ trình gia hạn Đề án tái cơ cấu, giá cổ phiếu tăng trần                               | 2026-04-21T13:43:57.093 | /2026/04/sacombank-huy-to-trinh-gia-han-de-an-tai-co-cau-gia-co-phieu-tang-tran-757-1431146.htm                           |
+| Gửi tiết kiệm tại SACOMBANK, cơ hội nhận được VinFast VF9 ECO                                         | 2026-04-21T11:02:00     | /2026/04/gui-tiet-kiem-tai-sacombank-co-hoi-nhan-duoc-vinfast-vf9-eco-757-1431034.htm                                     |
+| STB: Báo cáo thường niên năm 2025                                                                     | 2026-04-17T16:56:06     | /2026/04/stb-bao-cao-thuong-nien-nam-2025-737-1429423.htm                                                                 |
+| SACOMBANK hợp tác với Cục Thuế triển khai giải pháp hỗ trợ hàng triệu hộ kinh doanh trên toàn quốc    | 2026-04-15T21:18:19.05  | /2026/04/sacombank-hop-tac-voi-cuc-thue-trien-khai-giai-phap-ho-tro-hang-trieu-ho-kinh-doanh-tren-toan-quoc-757-1428320.… |
+| STB: Nghị quyết HĐQT về việc thuận chủ trương thay đổi tên gọi, địa điểm Chi nhánh Đông Đô            | 2026-04-13T17:28:58     | /2026/04/stb-nghi-quyet-hdqt-ve-viec-thuan-chu-truong-thay-doi-ten-goi-dia-diem-chi-nhanh-dong-do-737-1427067.htm         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.22% |
-| % Cổ phiếu hôm nay | +5.45% |
-| RS (CP − Ngành) | +5.67% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | -0.12% |
+| % Cổ phiếu hôm nay | -1.77% |
+| RS (CP − Ngành) | -1.65% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| STB      | 2025-12-08 00:00:00 |  49.2  |  49.25 | 48.7  |   48.7  |  4224200 |
 | STB      | 2025-12-09 00:00:00 |  48.35 |  49.25 | 48.05 |   48.55 | 10646500 |
 | STB      | 2025-12-10 00:00:00 |  48.45 |  48.65 | 48.4  |   48.6  |  5984100 |
 | STB      | 2025-12-11 00:00:00 |  48.4  |  48.6  | 47.7  |   47.7  |  6162200 |
@@ -222,21 +221,22 @@ _Không có dữ liệu_
 | STB      | 2026-04-17 00:00:00 |  64    |  65.2  | 63.9  |   64    |  3714500 |
 | STB      | 2026-04-20 00:00:00 |  64.5  |  65.2  | 64.1  |   64.2  |  2566400 |
 | STB      | 2026-04-21 00:00:00 |  68    |  68.6  | 66.9  |   67.7  | 14144000 |
+| STB      | 2026-04-22 00:00:00 |  68.4  |  69.2  | 66.5  |   66.5  |  8519100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| STB      | 2026-04-21 14:27:31 |    68.5 |      100 | Sell         | 466484116 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |     7700 | Sell         | 466484119 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |      100 | Sell         | 466484117 |
-| STB      | 2026-04-21 14:27:31 |    68.5 |     2000 | Sell         | 466484118 |
-| STB      | 2026-04-21 14:27:34 |    68.6 |      100 | Buy          | 466484290 |
-| STB      | 2026-04-21 14:27:34 |    68.6 |      100 | Buy          | 466484296 |
-| STB      | 2026-04-21 14:27:36 |    68.6 |      500 | Sell         | 466484575 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |     2500 | Sell         | 466485089 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |      500 | Sell         | 466485091 |
-| STB      | 2026-04-21 14:27:42 |    68.6 |     2000 | Sell         | 466485092 |
+| STB      | 2026-04-22 14:26:37 |    67   |      100 | Sell         | 467017881 |
+| STB      | 2026-04-22 14:26:37 |    67   |      200 | Sell         | 467017917 |
+| STB      | 2026-04-22 14:26:37 |    67   |     2000 | Sell         | 467017883 |
+| STB      | 2026-04-22 14:26:37 |    67   |     1000 | Sell         | 467017884 |
+| STB      | 2026-04-22 14:26:37 |    67   |      300 | Sell         | 467017916 |
+| STB      | 2026-04-22 14:26:46 |    67   |      100 | Sell         | 467018497 |
+| STB      | 2026-04-22 14:26:47 |    67.1 |      200 | Buy          | 467018535 |
+| STB      | 2026-04-22 14:26:47 |    67.1 |      100 | Buy          | 467018541 |
+| STB      | 2026-04-22 14:26:47 |    67.1 |     1500 | Buy          | 467018543 |
+| STB      | 2026-04-22 14:27:01 |    67   |      100 | Sell         | 467019474 |
 
 <!-- END:DAILY -->
 

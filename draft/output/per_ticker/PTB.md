@@ -1,6 +1,6 @@
 # PTB — CTCP Phú Tài
 **Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
-> 📅 Daily: 21/04/2026 22:18  |  🗂 Quarterly: 05/04/2026 20:00
+> 📅 Daily: 22/04/2026 22:31  |  🗂 Quarterly: 05/04/2026 20:00
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PTB |
 | exchange | HOSE |
-| market_cap | 3956059637000 |
+| market_cap | 3964092245400 |
 | 52w_high | 57900 |
 | 52w_high_date | 2026-02-27 |
 | 52w_low | 40867 |
 | 52w_low_date | 2025-10-03 |
-| foreign_ownership | 15.9823 |
+| foreign_ownership | 15.9914 |
 | dividend | 1500 |
-| beta | 0.83 |
+| beta | 0.84 |
 | eps | 7538 |
-| eps_forward | 4.447881399224219 |
+| eps_forward | 4.337785324985996 |
 | bvps | 50015 |
-| pe | 6.70 |
-| pb | 1.01 |
-| price_chg_1m | 1.13 |
-| price_chg_ytd | 17.66 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.030456852791878174 |
+| pe | 6.53 |
+| pb | 0.98 |
+| price_chg_1m | 1.33 |
+| price_chg_ytd | 16.95 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.030395136778115502 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,54 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 49.25 |
-| MA5 | 49.78 |
+| Giá đóng cửa | 49.35 |
+| MA5 | 49.65 |
 | MA10 | 49.685 |
-| EMA20 | 49.566 |
-| EMA50 | 50.011 |
-| Slope MA20 (5p, %) | 0.27 |
-| ATR(14) | 1.374 |
-| RSI(14) | 47.3 |
+| EMA20 | 49.545 |
+| EMA50 | 49.988 |
+| Slope MA20 (5p, %) | 0.12 |
+| ATR(14) | 1.337 |
+| RSI(14) | 47.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.205 |
-| MACD Signal | -0.445 |
-| MACD Histogram | 0.24 |
+| MACD | -0.203 |
+| MACD Signal | -0.397 |
+| MACD Histogram | 0.194 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 176475 |
+| KL avg 60 phiên | 174953 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     53    | 0.88        | 1             |
-| 🔴 Kháng cự     |     51    | 1.01        | 1             |
-| 🔴 Kháng cự     |     49.95 | 1.33        | 1             |
-| ▶ Giá hiện tại |     49.25 | —           | —             |
-| 🟢 Hỗ trợ       |     48.8  | 0.91        | 1             |
-| 🟢 Hỗ trợ       |     48    | 1.16        | 1             |
-| 🟢 Hỗ trợ       |     46.95 | 1.38        | 1             |
+| 🔴 Kháng cự     |     51    | 0.99        | 1             |
+| 🔴 Kháng cự     |     50.9  | 1.44        | 1             |
+| 🔴 Kháng cự     |     49.95 | 1.32        | 1             |
+| ▶ Giá hiện tại |     49.35 | —           | —             |
+| 🟢 Hỗ trợ       |     48.8  | 0.9         | 1             |
+| 🟢 Hỗ trợ       |     48    | 1.15        | 1             |
+| 🟢 Hỗ trợ       |     46.95 | 1.37        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PTB |
-| pe | 6.70 |
-| pb | 1.01 |
+| pe | 6.53 |
+| pb | 0.98 |
 | roe | 16.29 |
-| roe_pct_rank | 60 |
+| roe_pct_rank | 61 |
 | roa | 8.44 |
 | roa_pct_rank | 62 |
 | eps | 7538 |
 | bvps | 50015 |
-| beta | 0.83 |
+| beta | 0.84 |
 | dividend | 1500 |
-| yield | 0.030456852791878174 |
+| yield | 0.030395136778115502 |
 | pe_pct_rank | 36 |
-| pb_pct_rank | 43 |
+| pb_pct_rank | 42 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +91,21 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-15 | 113300 | -35.8%     | 0.141%         |
-| 2026-04-16 |  35300 | -80.0%     | 0.044%         |
-| 2026-04-17 | 184600 | +4.6%      | 0.230%         |
-| 2026-04-20 | 264800 | +50.0%     | 0.330%         |
-| 2026-04-21 | 101700 | -42.4%     | 0.127%         |
+| 2026-04-16 |  35300 | -79.8%     | 0.044%         |
+| 2026-04-17 | 184600 | +5.5%      | 0.230%         |
+| 2026-04-20 | 264800 | +51.4%     | 0.330%         |
+| 2026-04-21 | 101700 | -41.9%     | 0.127%         |
+| 2026-04-22 |  59600 | -65.9%     | 0.074%         |
 
-- KL trung bình 60 phiên: **176,475**
+- KL trung bình 60 phiên: **174,953**
 - Số CP lưu hành: **80,326,084**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                     | publishtime            | url                                                                                                               |
 |:------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------|
+| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Lê Anh Văn                             | 2026-04-22T15:13:57    | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van-830-1431974.htm                             |
+| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Lê Văn Lộc                             | 2026-04-22T15:13:56    | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-le-van-loc-830-1431975.htm                             |
 | PTB: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức 2025   | 2026-04-20T16:30:08    | /2026/04/ptb-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-2025-737-1430550.htm   |
 | PTB: Thông báo giao dịch cổ phiếu của người nội bộ Phan Hồng Qúy                          | 2026-04-16T18:01:40    | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-phan-hong-quy-830-1428817.htm                          |
 | PTB: Nghị quyết HĐQT về kết quả SXKD quý I/2026 và kế hoạch SXKD quý II/2026              | 2026-04-16T17:35:01    | /2026/04/ptb-nghi-quyet-hdqt-ve-ket-qua-sxkd-quy-i-2026-va-ke-hoach-sxkd-quy-ii-2026-737-1428763.htm              |
@@ -112,8 +114,6 @@
 | PTB: Đính chính báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lê Anh Văn            | 2026-04-07T10:59:47    | /2026/04/ptb-dinh-chinh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van-739-1423970.htm            |
 | Thuế quan ảnh hưởng triển vọng mảng gỗ, Phú Tài vẫn đặt mục tiêu tăng trưởng 2 chữ số     | 2026-04-06T17:29:13.92 | /2026/04/thue-quan-anh-huong-trien-vong-mang-go-phu-tai-van-dat-muc-tieu-tang-truong-2-chu-so-737-1423497.htm     |
 | PTB: Báo cáo thường niên năm 2025                                                         | 2026-04-06T10:03:23    | /2026/04/ptb-bao-cao-thuong-nien-nam-2025-737-1423258.htm                                                         |
-| PTB: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán năm 2025 (đã kiểm toán)         | 2026-04-06T10:03:23    | /2026/04/ptb-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-nam-2025-da-kiem-toan-737-1423260.htm           |
-| PTB: Cập nhật chương trình và tài liệu ĐHĐCĐ thường niên 2026                             | 2026-04-06T09:40:32    | /2026/04/ptb-cap-nhat-chuong-trinh-va-tai-lieu-dhdcd-thuong-nien-2026-737-1423226.htm                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Phụ trợ |
-| % Ngành hôm nay | -0.68% |
-| % Cổ phiếu hôm nay | -2.48% |
-| RS (CP − Ngành) | -1.80% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.86% |
+| % Cổ phiếu hôm nay | +0.20% |
+| RS (CP − Ngành) | +1.06% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PTB      | 2025-12-08 00:00:00 |  44.94 |  45.03 | 44.42 |   44.68 |    91219 |
 | PTB      | 2025-12-09 00:00:00 |  44.24 |  44.76 | 44.07 |   44.59 |   111327 |
 | PTB      | 2025-12-10 00:00:00 |  44.5  |  44.94 | 44.33 |   44.85 |   183677 |
 | PTB      | 2025-12-11 00:00:00 |  44.68 |  44.85 | 44.15 |   44.42 |   253297 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | PTB      | 2026-04-17 00:00:00 |  49.8  |  49.95 | 49.35 |   49.7  |   184600 |
 | PTB      | 2026-04-20 00:00:00 |  49.75 |  50.9  | 49.2  |   50.5  |   264800 |
 | PTB      | 2026-04-21 00:00:00 |  50.5  |  50.8  | 49.25 |   49.25 |   101700 |
+| PTB      | 2026-04-22 00:00:00 |  49.2  |  49.85 | 49    |   49.35 |    59600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PTB      | 2026-04-21 10:05:34 |    50   |     9000 | Sell         | 466061054 |
-| PTB      | 2026-04-21 10:09:06 |    50.1 |      100 | Sell         | 466067519 |
-| PTB      | 2026-04-21 10:13:55 |    50.1 |      600 | Sell         | 466079242 |
-| PTB      | 2026-04-21 10:13:55 |    50.1 |      200 | Sell         | 466079241 |
-| PTB      | 2026-04-21 10:14:10 |    50   |      100 | Sell         | 466079989 |
-| PTB      | 2026-04-21 10:14:10 |    50   |      100 | Sell         | 466079990 |
-| PTB      | 2026-04-21 10:14:10 |    50   |      400 | Sell         | 466079991 |
-| PTB      | 2026-04-21 10:14:10 |    50   |      300 | Sell         | 466079988 |
-| PTB      | 2026-04-21 10:25:47 |    50.1 |      500 | Sell         | 466109336 |
-| PTB      | 2026-04-21 10:25:47 |    50   |     4500 | Sell         | 466109337 |
+| PTB      | 2026-04-22 09:21:34 |   49.2  |      100 | Sell         | 466528247 |
+| PTB      | 2026-04-22 09:21:34 |   49.2  |      100 | Sell         | 466528248 |
+| PTB      | 2026-04-22 09:21:34 |   49.2  |      100 | Sell         | 466528249 |
+| PTB      | 2026-04-22 09:22:20 |   49.2  |      100 | Sell         | 466530102 |
+| PTB      | 2026-04-22 09:33:24 |   49.25 |     1100 | Sell         | 466553395 |
+| PTB      | 2026-04-22 09:33:24 |   49.25 |      300 | Sell         | 466553394 |
+| PTB      | 2026-04-22 09:33:59 |   49.25 |      100 | Buy          | 466554937 |
+| PTB      | 2026-04-22 09:34:05 |   49.25 |      500 | Buy          | 466555187 |
+| PTB      | 2026-04-22 09:34:15 |   49.25 |      500 | Buy          | 466555461 |
+| PTB      | 2026-04-22 09:36:43 |   49.25 |      500 | Buy          | 466560328 |
 
 <!-- END:DAILY -->
 

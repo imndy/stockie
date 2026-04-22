@@ -1,6 +1,6 @@
 # PNJ — CTCP Vàng bạc Đá quý Phú Nhuận
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 21/04/2026 22:17  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 22/04/2026 22:31  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PNJ |
 | exchange | HOSE |
-| market_cap | 38174585073300 |
+| market_cap | 37526401770000 |
 | 52w_high | 127000 |
 | 52w_high_date | 2026-01-30 |
-| 52w_low | 65375 |
-| 52w_low_date | 2025-04-22 |
+| 52w_low | 67032 |
+| 52w_low_date | 2025-04-23 |
 | foreign_ownership | 49 |
 | dividend | 2400 |
 | beta | 0.94 |
 | eps | 8369 |
-| eps_forward | 20.029922963174553 |
+| eps_forward | 19.48998590938463 |
 | bvps | 38915 |
-| pe | 13.74 |
-| pb | 2.96 |
-| price_chg_1m | -2.01 |
-| price_chg_ytd | 65.25 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.021447721179624665 |
+| pe | 13.37 |
+| pb | 2.88 |
+| price_chg_1m | -3.68 |
+| price_chg_ytd | 68.26 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.021818181818181816 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,41 +36,41 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 111.9 |
-| MA5 | 111.2 |
-| MA10 | 110.15 |
-| EMA20 | 110.275 |
-| EMA50 | 110.475 |
-| Slope MA20 (5p, %) | 0.68 |
-| ATR(14) | 4.008 |
-| RSI(14) | 52.2 |
+| Giá đóng cửa | 110.0 |
+| MA5 | 111.36 |
+| MA10 | 110.45 |
+| EMA20 | 110.249 |
+| EMA50 | 110.456 |
+| Slope MA20 (5p, %) | 0.69 |
+| ATR(14) | 4.079 |
+| RSI(14) | 49.1 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | -0.24 |
-| MACD Signal | -1.1 |
-| MACD Histogram | 0.861 |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | -0.245 |
+| MACD Signal | -0.929 |
+| MACD Histogram | 0.684 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1936273 |
+| KL avg 60 phiên | 1942065 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |   126.947 | 2.05        | 2             |
-| ▶ Giá hiện tại |   111.9   | —           | —             |
-| 🟢 Hỗ trợ       |   105.709 | 2.18        | 2             |
-| 🟢 Hỗ trợ       |   100.417 | 2.69        | 2             |
-| 🟢 Hỗ trợ       |    86.46  | 0.56        | 1             |
+| 🔴 Kháng cự     |   126.947 | 2.03        | 2             |
+| ▶ Giá hiện tại |   110     | —           | —             |
+| 🟢 Hỗ trợ       |   105.709 | 2.16        | 2             |
+| 🟢 Hỗ trợ       |   100.417 | 2.67        | 2             |
+| 🟢 Hỗ trợ       |    86.46  | 0.55        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PNJ |
-| pe | 13.74 |
-| pb | 2.96 |
+| pe | 13.37 |
+| pb | 2.88 |
 | roe | 23.07 |
 | roe_pct_rank | 75 |
 | roa | 15.14 |
@@ -79,9 +79,9 @@
 | bvps | 38915 |
 | beta | 0.94 |
 | dividend | 2400 |
-| yield | 0.021447721179624665 |
+| yield | 0.021818181818181816 |
 | pe_pct_rank | 52 |
-| pb_pct_rank | 100 |
+| pb_pct_rank | 98 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -89,19 +89,21 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 |  551200 | -71.5%     | 0.162%         |
-| 2026-04-16 |  542200 | -72.0%     | 0.159%         |
-| 2026-04-17 | 1411900 | -27.1%     | 0.414%         |
-| 2026-04-20 | 1866600 | -3.6%      | 0.547%         |
-| 2026-04-21 | 1077600 | -44.3%     | 0.316%         |
+| 2026-04-16 |  542200 | -72.1%     | 0.159%         |
+| 2026-04-17 | 1411900 | -27.3%     | 0.414%         |
+| 2026-04-20 | 1866600 | -3.9%      | 0.547%         |
+| 2026-04-21 | 1077600 | -44.5%     | 0.316%         |
+| 2026-04-22 | 2344800 | +20.7%     | 0.687%         |
 
-- KL trung bình 60 phiên: **1,936,272**
+- KL trung bình 60 phiên: **1,942,065**
 - Số CP lưu hành: **341,149,107**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ĐHĐCĐ PNJ: Doanh nhân Mai Hữu Tín và CEO Phan Quốc Công trúng cử Thành viên HĐQT nhiệm kỳ 2026-2031                       | 2026-04-22T18:32:00     | /2026/04/dhdcd-pnj-doanh-nhan-mai-huu-tin-va-ceo-phan-quoc-cong-trung-cu-thanh-vien-hdqt-nhiem-ky-2026-2031-737-1431924.… |
+| PNJ “bỏ túi” hơn 16 tỷ đồng mỗi ngày                                                                                      | 2026-04-21T23:40:48.14  | /2026/04/pnj-bo-tui-hon-16-ty-dong-moi-ngay-737-1431652.htm                                                               |
 | PNJ: Đính chính tài liệu ĐHĐCĐ thường niên năm 2026                                                                       | 2026-04-16T17:18:50     | /2026/04/pnj-dinh-chinh-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1428739.htm                                               |
 | PNJ: Thông báo về ngày đăng ký cuối cùng phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                   | 2026-04-15T10:43:57     | /2026/04/pnj-thong-bao-ve-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-737-1427… |
 | PNJ: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 40                                                             | 2026-04-13T16:20:42     | /2026/04/pnj-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-40-737-1426910.htm                                     |
@@ -110,8 +112,6 @@
 | PNJ: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ phiếu phát hành để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-10T17:39:30     | /2026/04/pnj-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-phieu-phat-hanh-de-tang-von-co-phan-tu-nguon… |
 | PNJ: Nghị quyết HĐQT số 221/2026 ngày 10/04/2026                                                                          | 2026-04-10T16:48:29     | /2026/04/pnj-nghi-quyet-hdqt-so-221-2026-ngay-10-04-2026-737-1426275.htm                                                  |
 | PNJ: HĐQT công bố danh sách các ứng cử viên được đề cử để bầu chọn thành viên HĐQT nhiệm kỳ 2026-2031                     | 2026-04-10T16:47:27     | /2026/04/pnj-hdqt-cong-bo-danh-sach-cac-ung-cu-vien-duoc-de-cu-de-bau-chon-thanh-vien-hdqt-nhiem-ky-20262031-214-1426274… |
-| PNJ: Báo cáo thường niên năm 2025                                                                                         | 2026-04-08T10:57:40     | /2026/04/pnj-bao-cao-thuong-nien-nam-2025-737-1424783.htm                                                                 |
-| Ông Phan Quốc Công tiếp quản vị trí Tổng Giám đốc PNJ                                                                     | 2026-04-03T20:30:46.38  | /2026/04/ong-phan-quoc-cong-tiep-quan-vi-tri-tong-giam-doc-pnj-214-1422686.htm                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,16 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bán lẻ |
-| % Ngành hôm nay | -1.84% |
-| % Cổ phiếu hôm nay | -2.70% |
-| RS (CP − Ngành) | -0.86% |
+| % Ngành hôm nay | +0.54% |
+| % Cổ phiếu hôm nay | -1.70% |
+| RS (CP − Ngành) | -2.24% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |    low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|-------:|--------:|---------:|
-| PNJ      | 2025-12-08 00:00:00 |  91.02 |  91.02 |  88.54 |   88.54 |   425477 |
 | PNJ      | 2025-12-09 00:00:00 |  88.94 |  89.33 |  86.46 |   87.65 |   676908 |
 | PNJ      | 2025-12-10 00:00:00 |  87.55 |  87.75 |  86.96 |   87.25 |   365076 |
 | PNJ      | 2025-12-11 00:00:00 |  87.55 |  87.95 |  87.06 |   87.16 |   179990 |
@@ -221,21 +220,22 @@ _Không có dữ liệu_
 | PNJ      | 2026-04-17 00:00:00 | 108.9  | 112.5  | 108.3  |  111    |  1411900 |
 | PNJ      | 2026-04-20 00:00:00 | 111.5  | 115    | 111.5  |  115    |  1866600 |
 | PNJ      | 2026-04-21 00:00:00 | 115.4  | 115.6  | 111.4  |  111.9  |  1077600 |
+| PNJ      | 2026-04-22 00:00:00 | 114    | 114    | 109    |  110    |  2344800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PNJ      | 2026-04-21 14:19:38 |   111.4 |      100 | Sell         | 466445814 |
-| PNJ      | 2026-04-21 14:19:39 |   111.4 |    10000 | Sell         | 466445894 |
-| PNJ      | 2026-04-21 14:19:45 |   111.4 |     5000 | Sell         | 466446159 |
-| PNJ      | 2026-04-21 14:19:45 |   111.4 |      100 | Sell         | 466446144 |
-| PNJ      | 2026-04-21 14:19:58 |   111.5 |      400 | Buy          | 466446770 |
-| PNJ      | 2026-04-21 14:20:00 |   111.4 |      500 | Sell         | 466446891 |
-| PNJ      | 2026-04-21 14:20:00 |   111.4 |     1000 | Sell         | 466446913 |
-| PNJ      | 2026-04-21 14:20:01 |   111.4 |     5000 | Sell         | 466446961 |
-| PNJ      | 2026-04-21 14:20:08 |   111.4 |      200 | Sell         | 466447376 |
-| PNJ      | 2026-04-21 14:20:09 |   111.4 |     2000 | Sell         | 466447435 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      100 | Sell         | 467022992 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      300 | Sell         | 467023002 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      500 | Sell         | 467023001 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      500 | Sell         | 467023000 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      500 | Sell         | 467022999 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      100 | Sell         | 467022993 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |     1000 | Sell         | 467022997 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      100 | Sell         | 467022996 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      200 | Sell         | 467022995 |
+| PNJ      | 2026-04-22 14:28:02 |   109.5 |      100 | Sell         | 467022994 |
 
 <!-- END:DAILY -->
 

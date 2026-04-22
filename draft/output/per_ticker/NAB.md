@@ -1,6 +1,6 @@
 # NAB — Ngân hàng TMCP Nam Á
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 21/04/2026 22:16  |  🗂 Quarterly: 05/04/2026 19:57
+> 📅 Daily: 22/04/2026 22:30  |  🗂 Quarterly: 05/04/2026 19:57
 
 ---
 
@@ -11,12 +11,12 @@
 | --- | --- |
 | symbol | NAB |
 | exchange | HOSE |
-| market_cap | 23161767480000 |
+| market_cap | 23933826396000 |
 | 52w_high | 17000 |
 | 52w_high_date | 2025-08-22 |
 | 52w_low | 12100 |
 | 52w_low_date | 2026-03-20 |
-| foreign_ownership | 0.9376 |
+| foreign_ownership | 0.9654 |
 | dividend | 0 |
 | beta | 0.5 |
 | eps | 2773 |
@@ -24,10 +24,10 @@
 | bvps | 13656.79 |
 | pe | 4.87 |
 | pb | 0.99 |
-| price_chg_1m | 11.57 |
-| price_chg_ytd | 3.28 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| price_chg_1m | 15.29 |
+| price_chg_ytd | 8.72 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,35 +36,35 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.5 |
-| MA5 | 13.5 |
-| MA10 | 13.495 |
-| EMA20 | 13.325 |
-| EMA50 | 13.445 |
-| Slope MA20 (5p, %) | 0.86 |
-| ATR(14) | 0.24 |
-| RSI(14) | 58.2 |
-| RSI nhận xét | Bình thường |
+| Giá đóng cửa | 13.95 |
+| MA5 | 13.59 |
+| MA10 | 13.545 |
+| EMA20 | 13.384 |
+| EMA50 | 13.466 |
+| Slope MA20 (5p, %) | 1.1 |
+| ATR(14) | 0.259 |
+| RSI(14) | 70.4 |
+| RSI nhận xét | Quá mua |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.081 |
-| MACD Signal | 0.022 |
-| MACD Histogram | 0.059 |
+| MACD | 0.119 |
+| MACD Signal | 0.041 |
+| MACD Histogram | 0.078 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1499378 |
+| KL avg 60 phiên | 1532533 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    14.15  | 3.63        | 5             |
-| 🔴 Kháng cự     |    13.865 | 2.66        | 3             |
-| 🔴 Kháng cự     |    13.65  | 1.42        | 1             |
-| ▶ Giá hiện tại |    13.5   | —           | —             |
-| 🟢 Hỗ trợ       |    13.2   | 1.31        | 1             |
-| 🟢 Hỗ trợ       |    12.9   | 1.38        | 1             |
-| 🟢 Hỗ trợ       |    12.35  | 1.17        | 1             |
+| 🔴 Kháng cự     |    14.55  | 1.31        | 2             |
+| 🔴 Kháng cự     |    14.2   | 4.26        | 4             |
+| 🔴 Kháng cự     |    14.15  | 3.57        | 5             |
+| ▶ Giá hiện tại |    13.95  | —           | —             |
+| 🟢 Hỗ trợ       |    13.865 | 2.63        | 3             |
+| 🟢 Hỗ trợ       |    13.65  | 1.41        | 1             |
+| 🟢 Hỗ trợ       |    13.2   | 1.3         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -87,29 +87,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 1397700 | -6.8%      | 0.081%         |
-| 2026-04-16 | 1149700 | -23.3%     | 0.067%         |
-| 2026-04-17 | 1472600 | -1.8%      | 0.086%         |
-| 2026-04-20 | 1208100 | -19.4%     | 0.070%         |
-| 2026-04-21 | 1474000 | -1.7%      | 0.086%         |
+| 2026-04-16 | 1149700 | -25.0%     | 0.067%         |
+| 2026-04-17 | 1472600 | -3.9%      | 0.086%         |
+| 2026-04-20 | 1208100 | -21.2%     | 0.070%         |
+| 2026-04-21 | 1474000 | -3.8%      | 0.086%         |
+| 2026-04-22 | 3303100 | +115.5%    | 0.193%         |
 
-- KL trung bình 60 phiên: **1,499,378**
+- KL trung bình 60 phiên: **1,532,533**
 - Số CP lưu hành: **1,715,686,480**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                       | publishtime             | url                                                                                               |
-|:----------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------|
-| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt       | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm    |
-| NAB: Thông báo chào bán trái phiếu ra công chúng                            | 2026-04-14T18:05:35     | /2026/04/nab-thong-bao-chao-ban-trai-phieu-ra-cong-chung-739-1427694.htm                          |
-| Nam A Bank giảm lãi suất cho vay, tung gói hỗ trợ doanh nghiệp vừa và nhỏ   | 2026-04-11T20:02:00     | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-tung-goi-ho-tro-doanh-nghiep-vua-va-nho-757-1426553.htm |
-| Nam A Bank giảm lãi suất cho vay lên đến 3%                                 | 2026-04-11T13:12:39.39  | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-len-den-3-757-1426535.htm                               |
-| NAB: Giấy ủy quyền thực hiện công bố thông tin                              | 2026-04-10T18:45:09     | /2026/04/nab-giay-uy-quyen-thuc-hien-cong-bo-thong-tin-830-1426459.htm                            |
-| NAB: Thông báo thay đổi nhân sự - Bổ nhiệm Tổng Giám đốc                    | 2026-04-10T16:35:06     | /2026/04/nab-thong-bao-thay-doi-nhan-su-bo-nhiem-tong-giam-doc-214-1426338.htm                    |
-| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                        | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                      |
-| Nam A Bank bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng Giám đốc            | 2026-04-10T15:28:26.637 | /2026/04/nam-a-bank-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-214-1426066.htm         |
-| Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm |
-| Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                              | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                              |
+| title                                                                                                          | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| NAB: Nghị quyết HĐQT về việc thông qua trình tự các đợt chào bán, phát hành cổ phiếu tăng vốn điều lệ năm 2026 | 2026-04-22T17:48:57     | /2026/04/nab-nghi-quyet-hdqt-ve-viec-thong-qua-trinh-tu-cac-dot-chao-ban-phat-hanh-co-phieu-tang-von-dieu-le-nam-2026-73… |
+| NAB: Nghị quyết HĐQT về việc thông qua danh sách CBNV được phân phối quyền mua ESOP 2026                       | 2026-04-22T17:48:55     | /2026/04/nab-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-cbnv-duoc-phan-phoi-quyen-mua-esop-2026-737-1432260.htm          |
+| Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                                          | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                            |
+| NAB: Thông báo chào bán trái phiếu ra công chúng                                                               | 2026-04-14T18:05:35     | /2026/04/nab-thong-bao-chao-ban-trai-phieu-ra-cong-chung-739-1427694.htm                                                  |
+| Nam A Bank giảm lãi suất cho vay, tung gói hỗ trợ doanh nghiệp vừa và nhỏ                                      | 2026-04-11T20:02:00     | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-tung-goi-ho-tro-doanh-nghiep-vua-va-nho-757-1426553.htm                         |
+| Nam A Bank giảm lãi suất cho vay lên đến 3%                                                                    | 2026-04-11T13:12:39.39  | /2026/04/nam-a-bank-giam-lai-suat-cho-vay-len-den-3-757-1426535.htm                                                       |
+| NAB: Giấy ủy quyền thực hiện công bố thông tin                                                                 | 2026-04-10T18:45:09     | /2026/04/nab-giay-uy-quyen-thuc-hien-cong-bo-thong-tin-830-1426459.htm                                                    |
+| NAB: Thông báo thay đổi nhân sự - Bổ nhiệm Tổng Giám đốc                                                       | 2026-04-10T16:35:06     | /2026/04/nab-thong-bao-thay-doi-nhan-su-bo-nhiem-tong-giam-doc-214-1426338.htm                                            |
+| Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                           | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
+| Nam A Bank bổ nhiệm ông Trần Khải Hoàn giữ chức vụ Tổng Giám đốc                                               | 2026-04-10T15:28:26.637 | /2026/04/nam-a-bank-bo-nhiem-ong-tran-khai-hoan-giu-chuc-vu-tong-giam-doc-214-1426066.htm                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -120,16 +120,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.22% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | +0.22% |
+| % Ngành hôm nay | -0.12% |
+| % Cổ phiếu hôm nay | +3.33% |
+| RS (CP − Ngành) | +3.45% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NAB      | 2025-12-08 00:00:00 |  14.45 |  14.5  | 14.4  |   14.4  |  1191500 |
 | NAB      | 2025-12-09 00:00:00 |  14.4  |  14.45 | 14.25 |   14.25 |  1578100 |
 | NAB      | 2025-12-10 00:00:00 |  14.3  |  14.4  | 14.25 |   14.3  |  1176300 |
 | NAB      | 2025-12-11 00:00:00 |  14.3  |  14.6  | 14.25 |   14.4  |  2069700 |
@@ -219,21 +218,22 @@ _Không có dữ liệu_
 | NAB      | 2026-04-17 00:00:00 |  13.45 |  13.6  | 13.4  |   13.5  |  1472600 |
 | NAB      | 2026-04-20 00:00:00 |  13.5  |  13.6  | 13.4  |   13.5  |  1208100 |
 | NAB      | 2026-04-21 00:00:00 |  13.55 |  13.55 | 13.45 |   13.5  |  1474000 |
+| NAB      | 2026-04-22 00:00:00 |  13.5  |  13.95 | 13.45 |   13.95 |  3303100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NAB      | 2026-04-21 13:46:20 |   13.55 |     2600 | Buy          | 466336235 |
-| NAB      | 2026-04-21 13:46:53 |   13.5  |     5000 | Buy          | 466337313 |
-| NAB      | 2026-04-21 13:47:00 |   13.5  |     4000 | Buy          | 466337496 |
-| NAB      | 2026-04-21 13:47:01 |   13.5  |     2200 | Buy          | 466337523 |
-| NAB      | 2026-04-21 13:47:27 |   13.5  |     3600 | Buy          | 466338472 |
-| NAB      | 2026-04-21 13:47:32 |   13.55 |     3000 | Buy          | 466338643 |
-| NAB      | 2026-04-21 13:48:11 |   13.55 |     2000 | Buy          | 466340471 |
-| NAB      | 2026-04-21 13:48:22 |   13.55 |     2200 | Buy          | 466341036 |
-| NAB      | 2026-04-21 13:48:22 |   13.55 |     1800 | Buy          | 466341037 |
-| NAB      | 2026-04-21 13:48:27 |   13.55 |     7000 | Buy          | 466341366 |
+| NAB      | 2026-04-22 14:07:18 |   13.85 |      200 | Sell         | 466954633 |
+| NAB      | 2026-04-22 14:07:18 |   13.85 |      700 | Sell         | 466954634 |
+| NAB      | 2026-04-22 14:07:50 |   13.85 |     3800 | Sell         | 466956735 |
+| NAB      | 2026-04-22 14:07:50 |   13.85 |      200 | Sell         | 466956733 |
+| NAB      | 2026-04-22 14:08:05 |   13.85 |     6000 | Buy          | 466957353 |
+| NAB      | 2026-04-22 14:08:23 |   13.85 |     5000 | Sell         | 466958156 |
+| NAB      | 2026-04-22 14:08:30 |   13.9  |      800 | Buy          | 466958553 |
+| NAB      | 2026-04-22 14:08:30 |   13.9  |      100 | Buy          | 466958554 |
+| NAB      | 2026-04-22 14:08:30 |   13.9  |      100 | Buy          | 466958555 |
+| NAB      | 2026-04-22 14:08:34 |   13.9  |      300 | Buy          | 466958756 |
 
 <!-- END:DAILY -->
 

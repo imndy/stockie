@@ -1,6 +1,6 @@
 # TLG — CTCP Tập đoàn Thiên Long
 **Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
-> 📅 Daily: 21/04/2026 22:20  |  🗂 Quarterly: 05/04/2026 20:03
+> 📅 Daily: 22/04/2026 22:33  |  🗂 Quarterly: 05/04/2026 20:03
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | TLG |
 | exchange | HOSE |
-| market_cap | 4922945340000 |
+| market_cap | 4845722668000 |
 | 52w_high | 58802 |
 | 52w_high_date | 2025-12-08 |
 | 52w_low | 38487 |
 | 52w_low_date | 2025-04-23 |
-| foreign_ownership | 11.3903 |
+| foreign_ownership | 11.4448 |
 | dividend | 5000 |
 | beta | 0.75 |
 | eps | 5198 |
-| eps_forward | 10.854083366224495 |
+| eps_forward | 10.939886396787534 |
 | bvps | 26184 |
-| pe | 9.74 |
-| pb | 1.93 |
-| price_chg_1m | 4.08 |
-| price_chg_ytd | 27.85 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.09803921568627451 |
+| pe | 9.81 |
+| pb | 1.95 |
+| price_chg_1m | 2.45 |
+| price_chg_ytd | 29.74 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.099601593625498 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,43 +36,42 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 51.0 |
-| MA5 | 51.3 |
-| MA10 | 50.705 |
-| EMA20 | 50.094 |
-| EMA50 | 49.867 |
-| Slope MA20 (5p, %) | 1.48 |
-| ATR(14) | 1.243 |
-| RSI(14) | 55.8 |
+| Giá đóng cửa | 50.2 |
+| MA5 | 50.76 |
+| MA10 | 50.685 |
+| EMA20 | 50.104 |
+| EMA50 | 49.958 |
+| Slope MA20 (5p, %) | 0.81 |
+| ATR(14) | 1.289 |
+| RSI(14) | 51.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.434 |
-| MACD Signal | 0.209 |
-| MACD Histogram | 0.225 |
+| MACD | 0.383 |
+| MACD Signal | 0.241 |
+| MACD Histogram | 0.142 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 239903 |
+| KL avg 60 phiên | 243863 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    59.48  | 0.55        | 1             |
-| 🔴 Kháng cự     |    53.27  | 2.08        | 2             |
-| 🔴 Kháng cự     |    51.46  | 0.83        | 1             |
-| ▶ Giá hiện tại |    51     | —           | —             |
-| 🟢 Hỗ trợ       |    50.03  | 0.74        | 1             |
-| 🟢 Hỗ trợ       |    48.606 | 1.92        | 2             |
-| 🟢 Hỗ trợ       |    47.496 | 3.82        | 3             |
+| 🔴 Kháng cự     |    53.372 | 3.5         | 3             |
+| 🔴 Kháng cự     |    51.46  | 0.82        | 1             |
+| ▶ Giá hiện tại |    50.2   | —           | —             |
+| 🟢 Hỗ trợ       |    50.03  | 0.73        | 1             |
+| 🟢 Hỗ trợ       |    48.606 | 1.89        | 2             |
+| 🟢 Hỗ trợ       |    47.496 | 3.78        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TLG |
-| pe | 9.74 |
-| pb | 1.93 |
+| pe | 9.81 |
+| pb | 1.95 |
 | roe | 18.46 |
 | roe_pct_rank | 65 |
 | roa | 13.04 |
@@ -81,29 +80,30 @@
 | bvps | 26184 |
 | beta | 0.75 |
 | dividend | 5000 |
-| yield | 0.09803921568627451 |
-| pe_pct_rank | 43 |
-| pb_pct_rank | 71 |
+| yield | 0.099601593625498 |
+| pe_pct_rank | 44 |
+| pb_pct_rank | 72 |
 | financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |      KL | vs Avg60   | Turnover (%)   |
-|:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 1314200 | +447.8%    | 1.361%         |
-| 2026-04-16 |  164200 | -31.6%     | 0.170%         |
-| 2026-04-17 |  399100 | +66.4%     | 0.413%         |
-| 2026-04-20 |  161300 | -32.8%     | 0.167%         |
-| 2026-04-21 |  160600 | -33.1%     | 0.166%         |
+| Ngày       |     KL | vs Avg60   | Turnover (%)   |
+|:-----------|-------:|:-----------|:---------------|
+| 2026-04-16 | 164200 | -32.7%     | 0.170%         |
+| 2026-04-17 | 399100 | +63.7%     | 0.413%         |
+| 2026-04-20 | 161300 | -33.9%     | 0.167%         |
+| 2026-04-21 | 160600 | -34.1%     | 0.166%         |
+| 2026-04-22 | 506300 | +107.6%    | 0.525%         |
 
-- KL trung bình 60 phiên: **239,902**
+- KL trung bình 60 phiên: **243,863**
 - Số CP lưu hành: **96,528,340**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                          | publishtime             | url                                                                                                                   |
 |:-----------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| Chủ tịch Cô Gia Thọ: "Tôi có trách nhiệm hỗ trợ đối tác Nhật phát triển Thiên Long bền vững"   | 2026-04-22T11:17:16.667 | /2026/04/chu-tich-co-gia-tho-toi-co-trach-nhiem-ho-tro-doi-tac-nhat-phat-trien-thien-long-ben-vung-737-1431647.htm    |
 | TLG: Báo cáo thường niên năm 2025                                                              | 2026-04-20T15:49:06     | /2026/04/tlg-bao-cao-thuong-nien-nam-2025-737-1430449.htm                                                             |
 | “Vua bút bi” Cô Gia Thọ ứng cử HĐQT Nhà sách Phương Nam giữa kế hoạch thoái vốn của Thiên Long | 2026-04-15T11:30:00     | /2026/04/vua-but-bi-co-gia-tho-ung-cu-hdqt-nha-sach-phuong-nam-giua-ke-hoach-thoai-von-cua-thien-long-214-1427814.htm |
 | Thiên Long đặt kế hoạch thận trọng trước nguy cơ lạm phát đẩy chi phí                          | 2026-04-02T16:36:21.813 | /2026/04/thien-long-dat-ke-hoach-than-trong-truoc-nguy-co-lam-phat-day-chi-phi-737-1421524.htm                        |
@@ -113,7 +113,6 @@
 | TLG: BCTC Tóm tắt Hợp nhất năm 2025                                                            | 2026-03-30T00:00:00     | /2026/03/tlg-bctc-tom-tat-hop-nhat-nam-2025-737-1418793.htm                                                           |
 | TLG: BCTC Tóm tắt năm 2025                                                                     | 2026-03-30T00:00:00     | /2026/03/tlg-bctc-tom-tat-nam-2025-737-1418794.htm                                                                    |
 | TLG: Nghị quyết HĐQT về việc công ty con góp vốn thành lập công ty mới                         | 2026-03-27T17:13:58     | /2026/03/tlg-nghi-quyet-hdqt-ve-viec-cong-ty-con-gop-von-thanh-lap-cong-ty-moi-737-1417821.htm                        |
-| TLG: Đính chính Nghị quyết HĐQT số 06/2026/NQ-HĐQT                                             | 2026-03-27T17:13:00     | /2026/03/tlg-dinh-chinh-nghi-quyet-hdqt-so-06-2026-nqhdqt-737-1417820.htm                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Phụ trợ |
-| % Ngành hôm nay | -0.68% |
-| % Cổ phiếu hôm nay | +0.79% |
-| RS (CP − Ngành) | +1.47% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | -0.86% |
+| % Cổ phiếu hôm nay | -1.57% |
+| RS (CP − Ngành) | -0.71% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TLG      | 2025-12-08 00:00:00 |  57.1  |  59.48 | 56.76 |   58.8  |  1071162 |
 | TLG      | 2025-12-09 00:00:00 |  58.46 |  58.63 | 54.71 |   55.22 |  1084558 |
 | TLG      | 2025-12-10 00:00:00 |  54.71 |  55.39 | 51.39 |   52.41 |  1143311 |
 | TLG      | 2025-12-11 00:00:00 |  52.5  |  54.32 | 51.55 |   51.55 |   324611 |
@@ -223,21 +221,22 @@ _Không có dữ liệu_
 | TLG      | 2026-04-17 00:00:00 |  51.3  |  51.8  | 50.5  |   50.8  |   399100 |
 | TLG      | 2026-04-20 00:00:00 |  50.7  |  51    | 50    |   50.6  |   161300 |
 | TLG      | 2026-04-21 00:00:00 |  50.6  |  51.6  | 50.4  |   51    |   160600 |
+| TLG      | 2026-04-22 00:00:00 |  50.9  |  51.8  | 49.9  |   50.2  |   506300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TLG      | 2026-04-21 13:28:13 |    51.5 |      500 | Buy          | 466294144 |
-| TLG      | 2026-04-21 13:28:25 |    51.5 |      300 | Buy          | 466294532 |
-| TLG      | 2026-04-21 13:28:56 |    51.5 |      100 | Sell         | 466295709 |
-| TLG      | 2026-04-21 13:29:18 |    51.5 |      500 | Sell         | 466296671 |
-| TLG      | 2026-04-21 13:29:18 |    51.5 |      100 | Sell         | 466296668 |
-| TLG      | 2026-04-21 13:29:18 |    51.5 |      300 | Sell         | 466296669 |
-| TLG      | 2026-04-21 13:29:18 |    51.5 |      100 | Sell         | 466296670 |
-| TLG      | 2026-04-21 13:29:46 |    51.5 |      100 | Buy          | 466297528 |
-| TLG      | 2026-04-21 13:29:46 |    51.6 |      800 | Buy          | 466297529 |
-| TLG      | 2026-04-21 13:30:33 |    51.4 |      100 | Sell         | 466299166 |
+| TLG      | 2026-04-22 13:57:02 |      50 |      200 | Buy          | 466922797 |
+| TLG      | 2026-04-22 13:57:03 |      50 |      100 | Buy          | 466922846 |
+| TLG      | 2026-04-22 13:57:04 |      50 |      200 | Buy          | 466922903 |
+| TLG      | 2026-04-22 13:57:12 |      50 |     1000 | Buy          | 466923409 |
+| TLG      | 2026-04-22 13:57:23 |      50 |      700 | Buy          | 466923940 |
+| TLG      | 2026-04-22 13:57:32 |      50 |      100 | Buy          | 466924521 |
+| TLG      | 2026-04-22 13:57:36 |      50 |      500 | Buy          | 466924751 |
+| TLG      | 2026-04-22 13:57:41 |      50 |      700 | Buy          | 466924977 |
+| TLG      | 2026-04-22 13:57:41 |      50 |      300 | Sell         | 466925373 |
+| TLG      | 2026-04-22 13:57:48 |      50 |      300 | Buy          | 466925712 |
 
 <!-- END:DAILY -->
 

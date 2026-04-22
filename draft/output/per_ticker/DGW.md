@@ -1,6 +1,6 @@
 # DGW — CTCP Thế Giới Số
 **Sàn:** HOSE  |  **Ngành:** Bán buôn
-> 📅 Daily: 21/04/2026 22:12  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 22/04/2026 22:25  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | DGW |
 | exchange | HOSE |
-| market_cap | 10063175850000 |
+| market_cap | 10085292720000 |
 | 52w_high | 56000 |
 | 52w_high_date | 2026-02-03 |
-| 52w_low | 31123 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 24.027 |
+| 52w_low | 32000 |
+| 52w_low_date | 2025-05-23 |
+| foreign_ownership | 23.907 |
 | dividend | 500 |
 | beta | 1.1 |
 | eps | 2496 |
-| eps_forward | 19.466038111117225 |
+| eps_forward | 19.25445074034421 |
 | bvps | 15701 |
-| pe | 18.43 |
-| pb | 2.93 |
-| price_chg_1m | 8.33 |
-| price_chg_ytd | 45.73 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.010989010989010988 |
+| pe | 18.23 |
+| pb | 2.90 |
+| price_chg_1m | 8.57 |
+| price_chg_ytd | 46.52 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.010964912280701754 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 45.5 |
-| MA5 | 45.46 |
-| MA10 | 45.61 |
-| EMA20 | 45.244 |
-| EMA50 | 45.391 |
-| Slope MA20 (5p, %) | 0.38 |
-| ATR(14) | 1.763 |
-| RSI(14) | 51.1 |
+| Giá đóng cửa | 45.6 |
+| MA5 | 45.65 |
+| MA10 | 45.595 |
+| EMA20 | 45.278 |
+| EMA50 | 45.388 |
+| Slope MA20 (5p, %) | 0.54 |
+| ATR(14) | 1.701 |
+| RSI(14) | 51.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.091 |
-| MACD Signal | -0.078 |
-| MACD Histogram | 0.168 |
+| MACD | 0.103 |
+| MACD Signal | -0.041 |
+| MACD Histogram | 0.144 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 2992237 |
+| KL avg 60 phiên | 2969042 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     49.35 | 0.86        | 1             |
-| 🔴 Kháng cự     |     47.8  | 1.03        | 1             |
-| 🔴 Kháng cự     |     46.6  | 1.34        | 1             |
-| ▶ Giá hiện tại |     45.5  | —           | —             |
-| 🟢 Hỗ trợ       |     43.15 | 0.91        | 1             |
-| 🟢 Hỗ trợ       |     42.5  | 2.76        | 2             |
-| 🟢 Hỗ trợ       |     41.1  | 0.67        | 1             |
+| 🔴 Kháng cự     |     49.35 | 0.85        | 1             |
+| 🔴 Kháng cự     |     47.8  | 1.02        | 1             |
+| 🔴 Kháng cự     |     46.6  | 1.33        | 1             |
+| ▶ Giá hiện tại |     45.6  | —           | —             |
+| 🟢 Hỗ trợ       |     43.15 | 0.9         | 1             |
+| 🟢 Hỗ trợ       |     42.5  | 2.74        | 2             |
+| 🟢 Hỗ trợ       |     41.1  | 0.66        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DGW |
-| pe | 18.43 |
-| pb | 2.93 |
+| pe | 18.23 |
+| pb | 2.90 |
 | roe | 17.12 |
 | roe_pct_rank | 62 |
 | roa | 5.55 |
@@ -81,9 +81,9 @@
 | bvps | 15701 |
 | beta | 1.1 |
 | dividend | 500 |
-| yield | 0.010989010989010988 |
-| pe_pct_rank | 63 |
-| pb_pct_rank | 99 |
+| yield | 0.010964912280701754 |
+| pe_pct_rank | 62 |
+| pb_pct_rank | 98 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +91,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 1483000 | -50.4%     | 0.671%         |
-| 2026-04-16 | 1416900 | -52.6%     | 0.641%         |
-| 2026-04-17 | 3739300 | +25.0%     | 1.691%         |
-| 2026-04-20 | 1192400 | -60.2%     | 0.539%         |
-| 2026-04-21 | 1831400 | -38.8%     | 0.828%         |
+| 2026-04-16 | 1416900 | -52.3%     | 0.641%         |
+| 2026-04-17 | 3739300 | +25.9%     | 1.691%         |
+| 2026-04-20 | 1192400 | -59.8%     | 0.539%         |
+| 2026-04-21 | 1831400 | -38.3%     | 0.828%         |
+| 2026-04-22 | 1106400 | -62.7%     | 0.500%         |
 
-- KL trung bình 60 phiên: **2,992,236**
+- KL trung bình 60 phiên: **2,969,041**
 - Số CP lưu hành: **221,168,700**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                | publishtime             | url                                                                                                                       |
 |:-----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| ĐHĐCĐ Digiworld: Siết đầu tư sau khoản lỗ FPT, lấn sân ngành hàng Automotive và đẩy mạnh AI          | 2026-04-22T17:57:00     | /2026/04/dhdcd-digiworld-siet-dau-tu-sau-khoan-lo-fpt-lan-san-nganh-hang-automotive-va-day-manh-ai-737-1431933.htm        |
 | Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
 | DGW: Thông báo thay đổi nhân sự - Miễn nhiệm Trưởng phòng Tài chính và Trưởng phòng kiểm toán nội bộ | 2026-04-16T09:08:51     | /2026/04/dgw-thong-bao-thay-doi-nhan-su-mien-nhiem-truong-phong-tai-chinh-va-truong-phong-kiem-toan-noi-bo-737-1428384.h… |
 | DGW: Nghị quyết HĐQT về việc miễn nhiệm Trưởng phòng Tài chính                                       | 2026-04-16T09:07:17     | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-mien-nhiem-truong-phong-tai-chinh-737-1428380.htm                                    |
@@ -113,7 +114,6 @@
 | Digiworld lên kế hoạch tăng trưởng doanh thu 18%, chuẩn bị tái cấu trúc theo mô hình holdings        | 2026-03-26T11:53:00     | /2026/03/digiworld-len-ke-hoach-tang-truong-doanh-thu-18-chuan-bi-tai-cau-truc-theo-mo-hinh-holdings-737-1416741.htm      |
 | DGW: Tài liệu họp ĐHĐCĐ thường niên 2026 và link tài liệu                                            | 2026-03-25T15:21:26     | /2026/03/dgw-tai-lieu-hop-dhdcd-thuong-nien-2026-va-link-tai-lieu-737-1416250.htm                                         |
 | DGW: Giải trình KQKD HN và Riêng năm 2025 sau kiểm toán so với cùng kỳ năm trước                     | 2026-03-25T09:36:13     | /2026/03/dgw-giai-trinh-kqkd-hn-va-rieng-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1416014.htm                  |
-| DGW: BCTC Hợp nhất năm 2025                                                                          | 2026-03-24T00:00:00     | /2026/03/dgw-bctc-hop-nhat-nam-2025-737-1416011.htm                                                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bán buôn |
-| % Ngành hôm nay | -0.46% |
-| % Cổ phiếu hôm nay | -1.09% |
-| RS (CP − Ngành) | -0.63% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.55% |
+| % Cổ phiếu hôm nay | +0.22% |
+| RS (CP − Ngành) | +0.77% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DGW      | 2025-12-08 00:00:00 |  43.55 |  44.15 | 42.5  |   42.5  |  1659700 |
 | DGW      | 2025-12-09 00:00:00 |  42.5  |  42.95 | 41.15 |   41.5  |  2049100 |
 | DGW      | 2025-12-10 00:00:00 |  41.5  |  42.35 | 41.4  |   41.65 |   654100 |
 | DGW      | 2025-12-11 00:00:00 |  41.65 |  42    | 41.25 |   41.25 |   539600 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | DGW      | 2026-04-17 00:00:00 |  45.35 |  47.7  | 45.35 |   45.95 |  3739300 |
 | DGW      | 2026-04-20 00:00:00 |  45.95 |  46.5  | 45.15 |   46    |  1192400 |
 | DGW      | 2026-04-21 00:00:00 |  46.2  |  46.3  | 45.05 |   45.5  |  1831400 |
+| DGW      | 2026-04-22 00:00:00 |  45.05 |  45.6  | 44.7  |   45.6  |  1106400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGW      | 2026-04-21 14:26:32 |   45.2  |      500 | Buy          | 466479234 |
-| DGW      | 2026-04-21 14:26:39 |   45.15 |      100 | Sell         | 466479646 |
-| DGW      | 2026-04-21 14:26:39 |   45.2  |      100 | Buy          | 466479656 |
-| DGW      | 2026-04-21 14:26:43 |   45.15 |      500 | Sell         | 466479981 |
-| DGW      | 2026-04-21 14:26:56 |   45.2  |      100 | Buy          | 466481001 |
-| DGW      | 2026-04-21 14:27:09 |   45.15 |     1000 | Sell         | 466482234 |
-| DGW      | 2026-04-21 14:27:09 |   45.15 |      500 | Sell         | 466482235 |
-| DGW      | 2026-04-21 14:27:11 |   45.15 |      100 | Sell         | 466482366 |
-| DGW      | 2026-04-21 14:27:20 |   45.2  |     1000 | Buy          | 466483131 |
-| DGW      | 2026-04-21 14:27:20 |   45.2  |      100 | Buy          | 466483168 |
+| DGW      | 2026-04-22 14:23:35 |   45.05 |      400 | Sell         | 467005275 |
+| DGW      | 2026-04-22 14:23:35 |   45.05 |     1000 | Sell         | 467005278 |
+| DGW      | 2026-04-22 14:23:35 |   45.05 |      100 | Sell         | 467005276 |
+| DGW      | 2026-04-22 14:23:35 |   45.05 |     2600 | Sell         | 467005277 |
+| DGW      | 2026-04-22 14:23:37 |   45.05 |      800 | Buy          | 467005314 |
+| DGW      | 2026-04-22 14:23:37 |   45    |      100 | Sell         | 467005318 |
+| DGW      | 2026-04-22 14:23:46 |   45    |      100 | Sell         | 467005694 |
+| DGW      | 2026-04-22 14:23:53 |   45    |      400 | Sell         | 467006057 |
+| DGW      | 2026-04-22 14:23:56 |   45    |      100 | Sell         | 467006220 |
+| DGW      | 2026-04-22 14:24:05 |   45    |      100 | Sell         | 467006802 |
 
 <!-- END:DAILY -->
 

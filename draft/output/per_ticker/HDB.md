@@ -1,6 +1,6 @@
 # HDB — Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 22/04/2026 22:28  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HDB |
 | exchange | HOSE |
-| market_cap | 133640877824100 |
+| market_cap | 132890086375650 |
 | 52w_high | 29700 |
 | 52w_high_date | 2025-12-31 |
-| 52w_low | 15652 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 21.8656 |
+| 52w_low | 15690 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 21.8676 |
 | dividend | 0 |
 | beta | 0.9 |
 | eps | 4644 |
-| eps_forward | 4.473156901382688 |
+| eps_forward | 4.439899229253449 |
 | bvps | 20278.87 |
-| pe | 5.79 |
-| pb | 1.33 |
-| price_chg_1m | 6.80 |
-| price_chg_ytd | 69.75 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
+| pe | 5.75 |
+| pb | 1.32 |
+| price_chg_1m | 6.20 |
+| price_chg_ytd | 69.63 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.7 |
-| MA5 | 26.45 |
-| MA10 | 26.28 |
-| EMA20 | 26.032 |
-| EMA50 | 26.16 |
-| Slope MA20 (5p, %) | 1.13 |
-| ATR(14) | 0.613 |
-| RSI(14) | 58.2 |
+| Giá đóng cửa | 26.55 |
+| MA5 | 26.49 |
+| MA10 | 26.3 |
+| EMA20 | 26.081 |
+| EMA50 | 26.184 |
+| Slope MA20 (5p, %) | 1.1 |
+| ATR(14) | 0.602 |
+| RSI(14) | 56.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.167 |
-| MACD Signal | -0.001 |
-| MACD Histogram | 0.168 |
+| MACD | 0.183 |
+| MACD Signal | 0.036 |
+| MACD Histogram | 0.148 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 15384067 |
+| KL avg 60 phiên | 15160792 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    28.85  | 1.08        | 1             |
-| 🔴 Kháng cự     |    28     | 0.67        | 1             |
-| 🔴 Kháng cự     |    26.8   | 0.83        | 1             |
-| ▶ Giá hiện tại |    26.7   | —           | —             |
-| 🟢 Hỗ trợ       |    26.2   | 1.23        | 1             |
-| 🟢 Hỗ trợ       |    26     | 1.02        | 1             |
-| 🟢 Hỗ trợ       |    23.961 | 2.43        | 2             |
+| 🔴 Kháng cự     |    28     | 0.66        | 1             |
+| 🔴 Kháng cự     |    26.8   | 0.82        | 1             |
+| 🔴 Kháng cự     |    26.7   | 1.41        | 1             |
+| ▶ Giá hiện tại |    26.55  | —           | —             |
+| 🟢 Hỗ trợ       |    26.2   | 1.22        | 1             |
+| 🟢 Hỗ trợ       |    26     | 1.01        | 1             |
+| 🟢 Hỗ trợ       |    23.961 | 2.41        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDB |
-| pe | 5.79 |
-| pb | 1.33 |
+| pe | 5.75 |
+| pb | 1.32 |
 | roe | 25.28 |
 | roe_pct_rank | 79 |
 | roa | 2.03 |
@@ -83,7 +83,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 34 |
-| pb_pct_rank | 55 |
+| pb_pct_rank | 54 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +91,20 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-15 | 11295700 | -26.6%     | 0.226%         |
-| 2026-04-16 |  7878000 | -48.8%     | 0.157%         |
-| 2026-04-17 | 12053200 | -21.7%     | 0.241%         |
-| 2026-04-20 | 19167600 | +24.6%     | 0.383%         |
-| 2026-04-21 |  9480200 | -38.4%     | 0.189%         |
+| 2026-04-16 |  7878000 | -48.0%     | 0.157%         |
+| 2026-04-17 | 12053200 | -20.5%     | 0.241%         |
+| 2026-04-20 | 19167600 | +26.4%     | 0.383%         |
+| 2026-04-21 |  9480200 | -37.5%     | 0.189%         |
+| 2026-04-22 | 11107400 | -26.7%     | 0.222%         |
 
-- KL trung bình 60 phiên: **15,384,066**
+- KL trung bình 60 phiên: **15,160,791**
 - Số CP lưu hành: **5,005,276,323**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                         | publishtime            | url                                                                                                                   |
 |:----------------------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------|
+| HDB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Nguyễn Minh Đức                      | 2026-04-22T17:35:43    | /2026/04/hdb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-minh-duc-739-1432248.htm                      |
 | HDB: Thông báo đường dẫn báo cáo thường niên năm 2025                                         | 2026-04-21T09:00:09    | /2026/04/hdb-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1430932.htm                                         |
 | DCM, HDB và SAB có triển vọng gì?                                                             | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                                              |
 | HDB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Minh Đức                            | 2026-04-15T17:56:48    | /2026/04/hdb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-minh-duc-830-1428267.htm                            |
@@ -113,7 +114,6 @@
 | Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                | 2026-04-06T20:02:00    | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                  |
 | Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC      | 2026-04-06T13:02:00    | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm       |
 | HDBank hướng tới mốc tài sản 1.2 triệu tỷ, mục tiêu lợi nhuận tăng 41% trong năm 2026         | 2026-04-04T10:33:21.84 | /2026/04/hdbank-huong-toi-moc-tai-san-12-trieu-ty-muc-tieu-loi-nhuan-tang-41-trong-nam-2026-737-1422994.htm           |
-| HDB: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-03T18:12:41    | /2026/04/hdb-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422872.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.22% |
-| % Cổ phiếu hôm nay | -0.74% |
-| RS (CP − Ngành) | -0.52% |
+| % Ngành hôm nay | -0.12% |
+| % Cổ phiếu hôm nay | -0.56% |
+| RS (CP − Ngành) | -0.44% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HDB      | 2025-12-08 00:00:00 |  25.33 |  25.41 | 24.98 |   25.25 |  9938931 |
 | HDB      | 2025-12-09 00:00:00 |  25.18 |  25.18 | 24.29 |   24.29 | 20456235 |
 | HDB      | 2025-12-10 00:00:00 |  24.91 |  25.45 | 24.37 |   24.79 | 24014409 |
 | HDB      | 2025-12-11 00:00:00 |  24.83 |  24.87 | 24.37 |   24.48 |  6735008 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | HDB      | 2026-04-17 00:00:00 |  26.3  |  26.5  | 26.05 |   26.2  | 12053200 |
 | HDB      | 2026-04-20 00:00:00 |  26.2  |  26.95 | 26.2  |   26.9  | 19167600 |
 | HDB      | 2026-04-21 00:00:00 |  27    |  27.1  | 26.65 |   26.7  |  9480200 |
+| HDB      | 2026-04-22 00:00:00 |  26.6  |  26.7  | 26.25 |   26.55 | 11107400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HDB      | 2026-04-21 14:26:50 |    26.7 |      700 | Buy          | 466480664 |
-| HDB      | 2026-04-21 14:27:01 |    26.7 |     1000 | Buy          | 466481422 |
-| HDB      | 2026-04-21 14:27:04 |    26.7 |     2000 | Buy          | 466481661 |
-| HDB      | 2026-04-21 14:27:04 |    26.7 |     1000 | Buy          | 466481597 |
-| HDB      | 2026-04-21 14:27:24 |    26.7 |     1000 | Buy          | 466483511 |
-| HDB      | 2026-04-21 14:27:33 |    26.7 |      600 | Buy          | 466484252 |
-| HDB      | 2026-04-21 14:27:33 |    26.7 |     2000 | Buy          | 466484261 |
-| HDB      | 2026-04-21 14:27:40 |    26.7 |      100 | Buy          | 466484924 |
-| HDB      | 2026-04-21 14:27:40 |    26.7 |      400 | Buy          | 466484925 |
-| HDB      | 2026-04-21 14:27:41 |    26.7 |      100 | Buy          | 466485015 |
+| HDB      | 2026-04-22 14:26:32 |   26.55 |     6500 | Buy          | 467017569 |
+| HDB      | 2026-04-22 14:26:32 |   26.55 |      300 | Buy          | 467017597 |
+| HDB      | 2026-04-22 14:26:35 |   26.55 |      300 | Buy          | 467017758 |
+| HDB      | 2026-04-22 14:26:46 |   26.5  |     4200 | Buy          | 467018498 |
+| HDB      | 2026-04-22 14:26:46 |   26.5  |      300 | Buy          | 467018529 |
+| HDB      | 2026-04-22 14:26:53 |   26.5  |      100 | Buy          | 467018949 |
+| HDB      | 2026-04-22 14:26:58 |   26.5  |    15400 | Buy          | 467019208 |
+| HDB      | 2026-04-22 14:26:58 |   26.5  |     7700 | Buy          | 467019210 |
+| HDB      | 2026-04-22 14:26:58 |   26.55 |    26900 | Buy          | 467019211 |
+| HDB      | 2026-04-22 14:27:00 |   26.55 |     3700 | Buy          | 467019397 |
 
 <!-- END:DAILY -->
 

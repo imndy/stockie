@@ -1,6 +1,6 @@
 # HCM — CTCP Chứng khoán Thành phố Hồ Chí Minh
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 19:54
+> 📅 Daily: 22/04/2026 22:27  |  🗂 Quarterly: 05/04/2026 19:54
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | HCM |
 | exchange | HOSE |
-| market_cap | 29482817118300 |
+| market_cap | 29428819284750 |
 | 52w_high | 29207 |
 | 52w_high_date | 2025-09-04 |
-| 52w_low | 19027 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 34.725 |
+| 52w_low | 19100 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 34.7556 |
 | dividend | 800 |
 | beta | 1 |
 | eps | 1403 |
-| eps_forward | 23.563431577527485 |
+| eps_forward | 23.01544479665475 |
 | bvps | 13335.7 |
-| pe | 19.92 |
-| pb | 2.10 |
-| price_chg_1m | 33.17 |
-| price_chg_ytd | 44.65 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.029304029304029304 |
+| pe | 19.45 |
+| pb | 2.05 |
+| price_chg_1m | 32.93 |
+| price_chg_ytd | 43.22 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.029357798165137616 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,40 +36,40 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.3 |
-| MA5 | 27.19 |
-| MA10 | 26.37 |
-| EMA20 | 25.175 |
-| EMA50 | 23.939 |
-| Slope MA20 (5p, %) | 5.6 |
-| ATR(14) | 1.029 |
-| RSI(14) | 71.0 |
+| Giá đóng cửa | 27.25 |
+| MA5 | 27.27 |
+| MA10 | 26.555 |
+| EMA20 | 25.372 |
+| EMA50 | 24.074 |
+| Slope MA20 (5p, %) | 5.16 |
+| ATR(14) | 0.999 |
+| RSI(14) | 70.5 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 1.295 |
-| MACD Signal | 0.957 |
-| MACD Histogram | 0.339 |
+| MACD Signal | 1.024 |
+| MACD Histogram | 0.271 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 14643175 |
+| KL avg 60 phiên | 13503300 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| ▶ Giá hiện tại |     27.3  | —           | —             |
-| 🟢 Hỗ trợ       |     27.04 | 0.84        | 1             |
-| 🟢 Hỗ trợ       |     25.75 | 1.14        | 1             |
-| 🟢 Hỗ trợ       |     24.39 | 0.97        | 1             |
+| ▶ Giá hiện tại |     27.25 | —           | —             |
+| 🟢 Hỗ trợ       |     27.04 | 0.83        | 1             |
+| 🟢 Hỗ trợ       |     25.75 | 1.13        | 1             |
+| 🟢 Hỗ trợ       |     24.39 | 0.96        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HCM |
-| pe | 19.92 |
-| pb | 2.10 |
+| pe | 19.45 |
+| pb | 2.05 |
 | roe | 9.43 |
 | roe_pct_rank | 46 |
 | roa | 3.03 |
@@ -78,9 +78,9 @@
 | bvps | 13335.7 |
 | beta | 1 |
 | dividend | 800 |
-| yield | 0.029304029304029304 |
+| yield | 0.029357798165137616 |
 | pe_pct_rank | 65 |
-| pb_pct_rank | 76 |
+| pb_pct_rank | 75 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -88,29 +88,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-15 | 33493000 | +128.7%    | 3.101%         |
-| 2026-04-16 | 28545700 | +94.9%     | 2.643%         |
-| 2026-04-17 | 24187900 | +65.2%     | 2.240%         |
-| 2026-04-20 | 25060100 | +71.1%     | 2.320%         |
-| 2026-04-21 | 14482000 | -1.1%      | 1.341%         |
+| 2026-04-16 | 28545700 | +111.4%    | 2.643%         |
+| 2026-04-17 | 24187900 | +79.1%     | 2.240%         |
+| 2026-04-20 | 25060100 | +85.6%     | 2.320%         |
+| 2026-04-21 | 14482000 | +7.2%      | 1.341%         |
+| 2026-04-22 | 10048900 | -25.6%     | 0.930%         |
 
-- KL trung bình 60 phiên: **14,643,174**
+- KL trung bình 60 phiên: **13,503,300**
 - Số CP lưu hành: **1,079,956,671**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| HCM: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T14:11:00 | /2026/04/hcm-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430308.htm                                                           |
-| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430317.htm                                                                          |
-| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430504.htm                                                                          |
-| HCM: Đính chính Nghị quyết HĐQT số 05 ngày 26/02/2026                                                                     | 2026-04-15T16:31:13 | /2026/04/hcm-dinh-chinh-nghi-quyet-hdqt-so-05-ngay-26-02-2026-737-1428194.htm                                             |
-| HCM: Báo cáo kết quả giao dịch CCQ của tổ chức có liên quan với người nội bộ của công ty quản lý quỹ | Report on results… | 2026-04-15T00:00:00 | /2026/04/hcm-bao-cao-ket-qua-giao-dich-ccq-cua-to-chuc-co-lien-quan-voi-nguoi-noi-bo-cua-cong-ty-quan-ly-quy-|-report-on… |
-| HCM: CBTT - Đính chính Nghị quyết HĐQT thông qua Phương án chào bán và việc niêm yết chứng quyền có bảo đảm đợt 20 | Cor… | 2026-04-15T00:00:00 | /2026/04/hcm-cbtt-dinh-chinh-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-viec-niem-yet-chung-quyen-co-bao-dam-dot-20… |
-| HCM: Nghị quyết HĐQT thông qua danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026-2030)                              | 2026-04-13T16:25:45 | /2026/04/hcm-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-737-1426911.htm         |
-| HCM: CBTT - Nghị quyết HĐQT thông qua Danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026 – 2030) | The Board Resolu… | 2026-04-13T00:00:00 | /2026/04/hcm-cbtt-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-|-the-board-resol… |
-| HCM: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán cổ phiếu ra công chúng đã được kiểm toán                        | 2026-04-10T16:05:17 | /2026/04/hcm-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-da-duoc-kiem-toan-737-1426194.h… |
-| HCM: CBTT - Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán cổ phiếu ra công chúng đã được kiểm toán | Audited Repo… | 2026-04-10T00:00:00 | /2026/04/hcm-cbtt-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-da-duoc-kiem-toan-|-audite… |
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Chứng khoán HSC báo lãi quý 1 tăng gần 30%, dư nợ cho vay chạm trần                                                       | 2026-04-22T17:46:41.96 | /2026/04/chung-khoan-hsc-bao-lai-quy-1-tang-gan-30-du-no-cho-vay-cham-tran-737-1432135.htm                                |
+| HCM: Báo cáo kết quả giao dịch CCQ của tổ chức có liên quan với người nội bộ của công ty quản lý quỹ | Report on results… | 2026-04-22T00:00:00    | /2026/04/hcm-bao-cao-ket-qua-giao-dich-ccq-cua-to-chuc-co-lien-quan-voi-nguoi-noi-bo-cua-cong-ty-quan-ly-quy-|-report-on… |
+| HCM: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-20T14:11:00    | /2026/04/hcm-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430308.htm                                                           |
+| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00    | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430317.htm                                                                          |
+| HCM: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00    | /2026/04/hcm-bctc-quy-1-nam-2026-737-1430504.htm                                                                          |
+| HCM: Đính chính Nghị quyết HĐQT số 05 ngày 26/02/2026                                                                     | 2026-04-15T16:31:13    | /2026/04/hcm-dinh-chinh-nghi-quyet-hdqt-so-05-ngay-26-02-2026-737-1428194.htm                                             |
+| HCM: Báo cáo kết quả giao dịch CCQ của tổ chức có liên quan với người nội bộ của công ty quản lý quỹ | Report on results… | 2026-04-15T00:00:00    | /2026/04/hcm-bao-cao-ket-qua-giao-dich-ccq-cua-to-chuc-co-lien-quan-voi-nguoi-noi-bo-cua-cong-ty-quan-ly-quy-|-report-on… |
+| HCM: CBTT - Đính chính Nghị quyết HĐQT thông qua Phương án chào bán và việc niêm yết chứng quyền có bảo đảm đợt 20 | Cor… | 2026-04-15T00:00:00    | /2026/04/hcm-cbtt-dinh-chinh-nghi-quyet-hdqt-thong-qua-phuong-an-chao-ban-va-viec-niem-yet-chung-quyen-co-bao-dam-dot-20… |
+| HCM: Nghị quyết HĐQT thông qua danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026-2030)                              | 2026-04-13T16:25:45    | /2026/04/hcm-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-737-1426911.htm         |
+| HCM: CBTT - Nghị quyết HĐQT thông qua Danh sách ứng cử viên thành viên HĐQT nhiệm kỳ VI (2026 – 2030) | The Board Resolu… | 2026-04-13T00:00:00    | /2026/04/hcm-cbtt-nghi-quyet-hdqt-thong-qua-danh-sach-ung-cu-vien-thanh-vien-hdqt-nhiem-ky-vi-20262030-|-the-board-resol… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,16 +121,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -1.57% |
-| % Cổ phiếu hôm nay | -2.33% |
-| RS (CP − Ngành) | -0.76% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.58% |
+| % Cổ phiếu hôm nay | -0.18% |
+| RS (CP − Ngành) | +0.40% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HCM      | 2025-12-08 00:00:00 |  22.52 |  22.62 | 22.13 |   22.13 |  6440557 |
 | HCM      | 2025-12-09 00:00:00 |  22.27 |  22.77 | 21.83 |   22.52 | 13670416 |
 | HCM      | 2025-12-10 00:00:00 |  22.62 |  22.86 | 22.52 |   22.67 |  7893379 |
 | HCM      | 2025-12-11 00:00:00 |  22.72 |  22.96 | 22.52 |   22.57 |  7141264 |
@@ -220,21 +219,22 @@ _Không có dữ liệu_
 | HCM      | 2026-04-17 00:00:00 |  26.85 |  28.05 | 26.75 |   27    | 24187900 |
 | HCM      | 2026-04-20 00:00:00 |  26.9  |  28.3  | 26.9  |   27.95 | 25060100 |
 | HCM      | 2026-04-21 00:00:00 |  27.95 |  28.4  | 26.95 |   27.3  | 14482000 |
+| HCM      | 2026-04-22 00:00:00 |  27.3  |  27.65 | 27.05 |   27.25 | 10048900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HCM      | 2026-04-21 14:26:01 |   27.6  |    10000 | Buy          | 466476164 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |      200 | Buy          | 466476173 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      200 | Buy          | 466476166 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |     3000 | Buy          | 466476167 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |     3000 | Buy          | 466476168 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |     4700 | Buy          | 466476170 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |    50000 | Buy          | 466476172 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      600 | Buy          | 466476165 |
-| HCM      | 2026-04-21 14:26:01 |   27.6  |      500 | Buy          | 466476169 |
-| HCM      | 2026-04-21 14:26:01 |   27.65 |      100 | Buy          | 466476175 |
+| HCM      | 2026-04-22 14:26:15 |   27.45 |      100 | Buy          | 467016296 |
+| HCM      | 2026-04-22 14:26:18 |   27.45 |     2400 | Buy          | 467016554 |
+| HCM      | 2026-04-22 14:26:18 |   27.45 |    11100 | Buy          | 467016552 |
+| HCM      | 2026-04-22 14:26:18 |   27.45 |      500 | Buy          | 467016553 |
+| HCM      | 2026-04-22 14:26:22 |   27.45 |     2600 | Buy          | 467016880 |
+| HCM      | 2026-04-22 14:26:26 |   27.45 |      100 | Buy          | 467017104 |
+| HCM      | 2026-04-22 14:26:26 |   27.45 |      200 | Buy          | 467017106 |
+| HCM      | 2026-04-22 14:26:26 |   27.45 |      100 | Buy          | 467017117 |
+| HCM      | 2026-04-22 14:26:26 |   27.45 |      800 | Buy          | 467017119 |
+| HCM      | 2026-04-22 14:26:28 |   27.45 |     2200 | Buy          | 467017266 |
 
 <!-- END:DAILY -->
 

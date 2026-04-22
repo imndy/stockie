@@ -1,6 +1,6 @@
 # GVR — Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 21/04/2026 22:14  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 22/04/2026 22:27  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | GVR |
 | exchange | HOSE |
-| market_cap | 130600000000000 |
+| market_cap | 131000000000000 |
 | 52w_high | 45750 |
 | 52w_high_date | 2026-03-03 |
-| 52w_low | 21986 |
-| 52w_low_date | 2025-04-22 |
-| foreign_ownership | 0.6653 |
+| 52w_low | 22825 |
+| 52w_low_date | 2025-04-23 |
+| foreign_ownership | 0.6668 |
 | dividend | 400 |
 | beta | 1.06 |
 | eps | 1372 |
-| eps_forward | 26.537997587454765 |
+| eps_forward | 26.25653397667873 |
 | bvps | 15638 |
-| pe | 24.06 |
-| pb | 2.11 |
-| price_chg_1m | 6.18 |
-| price_chg_ytd | 39.73 |
-| price_chg_1m_rank | 12.48 |
-| price_chg_ytd_rank | 52.61 |
-| yield | 0.01225114854517611 |
+| pe | 23.80 |
+| pb | 2.09 |
+| price_chg_1m | 6.50 |
+| price_chg_ytd | 48.96 |
+| price_chg_1m_rank | 13.94 |
+| price_chg_ytd_rank | 52.78 |
+| yield | 0.012213740458015267 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.65 |
-| MA5 | 32.87 |
-| MA10 | 32.93 |
-| EMA20 | 32.851 |
-| EMA50 | 33.579 |
-| Slope MA20 (5p, %) | 0.04 |
-| ATR(14) | 1.499 |
-| RSI(14) | 48.1 |
+| Giá đóng cửa | 32.75 |
+| MA5 | 32.82 |
+| MA10 | 32.885 |
+| EMA20 | 32.841 |
+| EMA50 | 33.57 |
+| Slope MA20 (5p, %) | -0.04 |
+| ATR(14) | 1.435 |
+| RSI(14) | 48.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.352 |
-| MACD Signal | -0.617 |
-| MACD Histogram | 0.265 |
+| MACD | -0.325 |
+| MACD Signal | -0.559 |
+| MACD Histogram | 0.235 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 5823453 |
+| KL avg 60 phiên | 5717092 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    35.1   | 1.05        | 1             |
-| 🔴 Kháng cự     |    34.15  | 1.43        | 1             |
-| 🔴 Kháng cự     |    33.5   | 1.33        | 1             |
-| ▶ Giá hiện tại |    32.65  | —           | —             |
-| 🟢 Hỗ trợ       |    30.5   | 1.38        | 1             |
-| 🟢 Hỗ trợ       |    28.6   | 2.55        | 2             |
-| 🟢 Hỗ trợ       |    25.133 | 1.29        | 2             |
+| 🔴 Kháng cự     |     35.1  | 1.04        | 1             |
+| 🔴 Kháng cự     |     34.15 | 1.42        | 1             |
+| 🔴 Kháng cự     |     33.5  | 1.32        | 1             |
+| ▶ Giá hiện tại |     32.75 | —           | —             |
+| 🟢 Hỗ trợ       |     31.9  | 1.44        | 1             |
+| 🟢 Hỗ trợ       |     30.5  | 1.37        | 1             |
+| 🟢 Hỗ trợ       |     28.6  | 2.53        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GVR |
-| pe | 24.06 |
-| pb | 2.11 |
+| pe | 23.80 |
+| pb | 2.09 |
 | roe | 10.51 |
 | roe_pct_rank | 48 |
 | roa | 6.62 |
@@ -81,8 +81,8 @@
 | bvps | 15638 |
 | beta | 1.06 |
 | dividend | 400 |
-| yield | 0.01225114854517611 |
-| pe_pct_rank | 75 |
+| yield | 0.012213740458015267 |
+| pe_pct_rank | 74 |
 | pb_pct_rank | 76 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -91,19 +91,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-15 | 3427600 | -41.1%     | 0.086%         |
-| 2026-04-16 | 2608700 | -55.2%     | 0.065%         |
-| 2026-04-17 | 7670800 | +31.7%     | 0.192%         |
-| 2026-04-20 | 2060200 | -64.6%     | 0.052%         |
-| 2026-04-21 | 2498000 | -57.1%     | 0.062%         |
+| 2026-04-16 | 2608700 | -54.4%     | 0.065%         |
+| 2026-04-17 | 7670800 | +34.2%     | 0.192%         |
+| 2026-04-20 | 2060200 | -64.0%     | 0.052%         |
+| 2026-04-21 | 2498000 | -56.3%     | 0.062%         |
+| 2026-04-22 | 1974400 | -65.5%     | 0.049%         |
 
-- KL trung bình 60 phiên: **5,823,453**
+- KL trung bình 60 phiên: **5,717,091**
 - Số CP lưu hành: **4,000,000,000**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| GVR: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-04-22T17:37:19     | /2026/04/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1432251.htm                       |
 | GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23     | /2026/04/gvr-bao-cao-thuong-nien-nam-2025-737-1429990.htm                                                                 |
 | GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57     | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
 | GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
@@ -113,7 +114,6 @@
 | Tập đoàn Cao su Việt Nam đặt mục tiêu doanh thu 2 tỷ USD sau năm 2030                                                     | 2026-02-27T22:05:00     | /2026/02/tap-doan-cao-su-viet-nam-dat-muc-tieu-doanh-thu-2-ty-usd-sau-nam-2030-737-1406648.htm                            |
 | Phân tích kỹ thuật phiên chiều 24/02: Giằng co mạnh                                                                     | 2026-02-24T13:14:50.463 | /2026/02/phan-tich-ky-thuat-phien-chieu-2402-giang-co-manh-585-1405019.htm                                                |
 | Cổ phiếu Tập đoàn Công nghiệp Cao su thăng hoa, nhưng lợi nhuận giảm gần nửa trong quý 4/2025                             | 2026-02-03T11:03:57.33  | /2026/02/co-phieu-tap-doan-cong-nghiep-cao-su-thang-hoa-nhung-loi-nhuan-giam-gan-nua-trong-quy-42025-737-1399433.htm      |
-| GVR: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-30T19:08:40     | /2026/01/gvr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397986.htm                                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | -0.77% |
-| % Cổ phiếu hôm nay | -1.06% |
-| RS (CP − Ngành) | -0.29% |
+| % Ngành hôm nay | +0.34% |
+| % Cổ phiếu hôm nay | +0.31% |
+| RS (CP − Ngành) | -0.03% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GVR      | 2025-12-08 00:00:00 |  27.45 |  27.55 | 26.8  |   26.95 |  3507000 |
 | GVR      | 2025-12-09 00:00:00 |  26.9  |  27.15 | 26.55 |   26.9  |  2669000 |
 | GVR      | 2025-12-10 00:00:00 |  26.8  |  27.1  | 26.75 |   26.75 |  1098300 |
 | GVR      | 2025-12-11 00:00:00 |  26.8  |  27    | 26.6  |   26.65 |  1028300 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | GVR      | 2026-04-17 00:00:00 |  32.4  |  34.15 | 32.25 |   33.5  |  7670800 |
 | GVR      | 2026-04-20 00:00:00 |  33.5  |  33.75 | 32.85 |   33    |  2060200 |
 | GVR      | 2026-04-21 00:00:00 |  33    |  33.2  | 32.45 |   32.65 |  2498000 |
+| GVR      | 2026-04-22 00:00:00 |  32.8  |  32.8  | 32.2  |   32.75 |  1974400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483250 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483255 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483257 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483256 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      500 | Sell         | 466483254 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483253 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |     1000 | Sell         | 466483258 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      200 | Sell         | 466483259 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483260 |
-| GVR      | 2026-04-21 14:27:21 |    32.5 |      100 | Sell         | 466483261 |
+| GVR      | 2026-04-22 14:25:18 |    32.6 |     2000 | Sell         | 467011287 |
+| GVR      | 2026-04-22 14:25:21 |    32.6 |     8800 | Sell         | 467011555 |
+| GVR      | 2026-04-22 14:25:21 |    32.6 |     3800 | Sell         | 467011532 |
+| GVR      | 2026-04-22 14:25:21 |    32.6 |     1200 | Sell         | 467011533 |
+| GVR      | 2026-04-22 14:25:35 |    32.6 |      200 | Buy          | 467012909 |
+| GVR      | 2026-04-22 14:25:35 |    32.6 |      400 | Buy          | 467012913 |
+| GVR      | 2026-04-22 14:25:44 |    32.6 |      100 | Buy          | 467013606 |
+| GVR      | 2026-04-22 14:25:44 |    32.6 |     4900 | Buy          | 467013607 |
+| GVR      | 2026-04-22 14:25:50 |    32.6 |      100 | Buy          | 467013917 |
+| GVR      | 2026-04-22 14:25:50 |    32.6 |      300 | Buy          | 467013918 |
 
 <!-- END:DAILY -->
 
