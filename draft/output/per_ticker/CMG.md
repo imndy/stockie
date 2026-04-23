@@ -1,6 +1,6 @@
 # CMG — CTCP Tập đoàn Công nghệ CMC
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 22/04/2026 22:24  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 23/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -40,16 +40,16 @@
 | MA5 | 28.61 |
 | MA10 | 28.82 |
 | EMA20 | 28.998 |
-| EMA50 | 30.316 |
+| EMA50 | 30.332 |
 | Slope MA20 (5p, %) | -0.88 |
 | ATR(14) | 0.796 |
-| RSI(14) | 41.2 |
+| RSI(14) | 41.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.493 |
-| MACD Signal | -0.612 |
+| MACD Signal | -0.613 |
 | MACD Histogram | 0.12 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 407739 |
@@ -58,12 +58,12 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     30.5  | 1.22        | 1             |
-| 🔴 Kháng cự     |     29.9  | 1.44        | 1             |
-| 🔴 Kháng cự     |     28.85 | 1.16        | 1             |
+| 🔴 Kháng cự    |     30.5  | 1.22        | 1             |
+| 🔴 Kháng cự    |     29.9  | 1.44        | 1             |
+| 🔴 Kháng cự    |     28.85 | 1.17        | 1             |
 | ▶ Giá hiện tại |     28.45 | —           | —             |
-| 🟢 Hỗ trợ       |     27.7  | 1.37        | 1             |
-| 🟢 Hỗ trợ       |     27    | 1.27        | 1             |
+| 🟢 Hỗ trợ      |     27.7  | 1.38        | 1             |
+| 🟢 Hỗ trợ      |     27    | 1.27        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -72,18 +72,18 @@
 | symbol | CMG |
 | pe | 14.69 |
 | pb | 1.51 |
-| roe | 12.18 |
-| roe_pct_rank | 52 |
-| roa | 4.79 |
-| roa_pct_rank | 49 |
+| roe | 11.91 |
+| roe_pct_rank | 51 |
+| roa | 1.04 |
+| roa_pct_rank | 32 |
 | eps | 1933 |
 | bvps | 18850 |
 | beta | 0.67 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 54 |
+| pe_pct_rank | 55 |
 | pb_pct_rank | 60 |
-| financial_date | 12/2024 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
@@ -225,18 +225,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CMG      | 2026-04-22 13:55:18 |   28.15 |      200 | Sell         | 466916262 |
-| CMG      | 2026-04-22 13:55:18 |   28.15 |     2000 | Sell         | 466916265 |
-| CMG      | 2026-04-22 13:55:18 |   28.15 |     1000 | Sell         | 466916263 |
-| CMG      | 2026-04-22 13:55:18 |   28.15 |      100 | Sell         | 466916264 |
-| CMG      | 2026-04-22 13:55:59 |   28.15 |      100 | Buy          | 466919400 |
-| CMG      | 2026-04-22 13:56:00 |   28.15 |      100 | Buy          | 466919480 |
-| CMG      | 2026-04-22 13:56:02 |   28.15 |      100 | Buy          | 466919585 |
-| CMG      | 2026-04-22 13:56:04 |   28.15 |      100 | Buy          | 466919657 |
-| CMG      | 2026-04-22 13:56:05 |   28.15 |      100 | Buy          | 466919719 |
-| CMG      | 2026-04-22 13:56:16 |   28.15 |      100 | Buy          | 466920260 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

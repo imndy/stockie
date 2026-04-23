@@ -1,6 +1,6 @@
 # PC1 — CTCP Tập Đoàn PC1
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 22/04/2026 22:30  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 23/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | PC1 |
 | exchange | HOSE |
-| market_cap | 10652290383700 |
+| market_cap | 9911976766300 |
 | 52w_high | 31350 |
 | 52w_high_date | 2026-03-03 |
-| 52w_low | 17989 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 16.6958 |
+| 52w_low | 18076 |
+| 52w_low_date | 2025-04-24 |
+| foreign_ownership | 16.8513 |
 | dividend | 0 |
 | beta | 0.83 |
 | eps | 2895 |
-| eps_forward | 12.91417607556638 |
+| eps_forward | 12.741987061225494 |
 | bvps | 21612 |
-| pe | 9.07 |
-| pb | 1.21 |
-| price_chg_1m | -2.81 |
-| price_chg_ytd | 45.38 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
+| pe | 8.95 |
+| pb | 1.20 |
+| price_chg_1m | -4.93 |
+| price_chg_ytd | 33.97 |
+| price_chg_1m_rank | 15.00 |
+| price_chg_ytd_rank | 53.97 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.9 |
-| MA5 | 26.48 |
-| MA10 | 26.88 |
-| EMA20 | 26.868 |
-| EMA50 | 26.533 |
-| Slope MA20 (5p, %) | -1.05 |
-| ATR(14) | 1.034 |
-| RSI(14) | 42.7 |
+| Giá đóng cửa | 24.1 |
+| MA5 | 25.9 |
+| MA10 | 26.605 |
+| EMA20 | 26.605 |
+| EMA50 | 26.438 |
+| Slope MA20 (5p, %) | -1.97 |
+| ATR(14) | 1.096 |
+| RSI(14) | 33.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.129 |
-| MACD Signal | 0.029 |
-| MACD Histogram | -0.159 |
+| MACD | -0.331 |
+| MACD Signal | -0.043 |
+| MACD Histogram | -0.288 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 7763163 |
+| KL avg 60 phiên | 7941768 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    30.5   | 1.31        | 1             |
-| 🔴 Kháng cự     |    28     | 1.42        | 1             |
-| 🔴 Kháng cự     |    27.4   | 0.96        | 1             |
-| ▶ Giá hiện tại |    25.9   | —           | —             |
-| 🟢 Hỗ trợ       |    25.85  | 0.83        | 1             |
-| 🟢 Hỗ trợ       |    25.252 | 2.63        | 2             |
-| 🟢 Hỗ trợ       |    25.25  | 0.75        | 1             |
+| 🔴 Kháng cự    |    25.252 | 2.61        | 2             |
+| 🔴 Kháng cự    |    25.25  | 0.75        | 1             |
+| 🔴 Kháng cự    |    24.75  | 1.16        | 1             |
+| ▶ Giá hiện tại |    24.1   | —           | —             |
+| 🟢 Hỗ trợ      |    24     | 1.0         | 1             |
+| 🟢 Hỗ trợ      |    22.4   | 0.9         | 1             |
+| 🟢 Hỗ trợ      |    21.3   | 0.69        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PC1 |
-| pe | 9.07 |
-| pb | 1.21 |
+| pe | 8.95 |
+| pb | 1.20 |
 | roe | 16.44 |
 | roe_pct_rank | 61 |
 | roa | 4.61 |
@@ -82,22 +82,22 @@
 | beta | 0.83 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 42 |
+| pe_pct_rank | 41 |
 | pb_pct_rank | 51 |
 | financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |      KL | vs Avg60   | Turnover (%)   |
-|:-----------|--------:|:-----------|:---------------|
-| 2026-04-16 | 5086500 | -34.5%     | 1.237%         |
-| 2026-04-17 | 3106600 | -60.0%     | 0.755%         |
-| 2026-04-20 | 2877100 | -62.9%     | 0.700%         |
-| 2026-04-21 | 3281200 | -57.7%     | 0.798%         |
-| 2026-04-22 | 3381700 | -56.4%     | 0.822%         |
+| Ngày       |       KL | vs Avg60   | Turnover (%)   |
+|:-----------|---------:|:-----------|:---------------|
+| 2026-04-17 |  3106600 | -60.9%     | 0.755%         |
+| 2026-04-20 |  2877100 | -63.8%     | 0.700%         |
+| 2026-04-21 |  3281200 | -58.7%     | 0.798%         |
+| 2026-04-22 |  3381700 | -57.4%     | 0.822%         |
+| 2026-04-23 | 16264100 | +104.8%    | 3.954%         |
 
-- KL trung bình 60 phiên: **7,763,163**
+- KL trung bình 60 phiên: **7,941,768**
 - Số CP lưu hành: **411,285,343**
 
 ## Tin tức gần nhất (Top 10)
@@ -107,13 +107,13 @@
 | PC1: Nghị quyết HĐQT về việc góp vốn điều lệ tại CTCP Điện mặt trời Điện Biên | 2026-04-21T14:30:04     | /2026/04/pc1-nghi-quyet-hdqt-ve-viec-gop-von-dieu-le-tai-ctcp-dien-mat-troi-dien-bien-737-1431279.htm |
 | PC1: Nghị quyết HĐQT về việc thành lập Văn phòng Đại diện tại TP.HCM          | 2026-04-21T14:28:48     | /2026/04/pc1-nghi-quyet-hdqt-ve-viec-thanh-lap-van-phong-dai-dien-tai-tp-hcm-737-1431278.htm          |
 | PC1: Báo cáo thường niên năm 2025                                             | 2026-04-21T08:53:50     | /2026/04/pc1-bao-cao-thuong-nien-nam-2025-737-1430925.htm                                             |
-| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                 | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                    |
+| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                   | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                    |
 | PC1 dự phát hành 148 triệu cp để tăng vốn                                     | 2026-04-01T17:18:16.74  | /2026/04/pc1-du-phat-hanh-148-trieu-cp-de-tang-von-737-1420882.htm                                    |
 | PC1: Tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-01T09:13:07     | /2026/04/pc1-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1420305.htm                                      |
 | PC1: Giải trình biến động LNST BCTC HN và Riêng năm 2025 sau kiểm toán        | 2026-03-31T13:44:19     | /2026/03/pc1-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-sau-kiem-toan-737-1419533.htm        |
 | PC1: BCTC Hợp nhất năm 2025                                                   | 2026-03-31T00:00:00     | /2026/03/pc1-bctc-hop-nhat-nam-2025-737-1419508.htm                                                   |
 | PC1: BCTC năm 2025                                                            | 2026-03-31T00:00:00     | /2026/03/pc1-bctc-nam-2025-737-1419512.htm                                                            |
-| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                        | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                            |
+| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                           | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -133,7 +133,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PC1      | 2025-12-09 00:00:00 |  22.4  |  22.7  | 21.1  |   21.8  |  5716600 |
 | PC1      | 2025-12-10 00:00:00 |  21.65 |  22.3  | 21.65 |   21.7  |  2018600 |
 | PC1      | 2025-12-11 00:00:00 |  21.85 |  22    | 21.5  |   21.5  |  1845000 |
 | PC1      | 2025-12-12 00:00:00 |  21.6  |  21.6  | 20.5  |   20.6  |  4122200 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | PC1      | 2026-04-20 00:00:00 |  26.7  |  27.05 | 26.5  |   26.6  |  2877100 |
 | PC1      | 2026-04-21 00:00:00 |  26.65 |  26.8  | 26.25 |   26.25 |  3281200 |
 | PC1      | 2026-04-22 00:00:00 |  26.3  |  26.55 | 25.8  |   25.9  |  3381700 |
+| PC1      | 2026-04-23 00:00:00 |  26    |  26    | 24.1  |   24.1  | 16264100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PC1      | 2026-04-22 14:25:06 |   25.9  |      500 | Buy          | 467010568 |
-| PC1      | 2026-04-22 14:25:06 |   25.85 |     3000 | Sell         | 467010613 |
-| PC1      | 2026-04-22 14:25:06 |   25.9  |      300 | Buy          | 467010573 |
-| PC1      | 2026-04-22 14:25:06 |   25.9  |     1000 | Buy          | 467010569 |
-| PC1      | 2026-04-22 14:25:06 |   25.9  |      100 | Buy          | 467010571 |
-| PC1      | 2026-04-22 14:25:06 |   25.9  |      200 | Buy          | 467010572 |
-| PC1      | 2026-04-22 14:25:08 |   25.9  |      400 | Buy          | 467010676 |
-| PC1      | 2026-04-22 14:25:17 |   25.9  |     1000 | Buy          | 467011282 |
-| PC1      | 2026-04-22 14:25:39 |   25.9  |     2900 | Buy          | 467013196 |
-| PC1      | 2026-04-22 14:26:00 |   25.9  |      100 | Buy          | 467014772 |
+| PC1      | 2026-04-23 14:26:10 |    24.1 |      200 | Buy          | 467826050 |
+| PC1      | 2026-04-23 14:26:13 |    24.1 |      300 | Buy          | 467826332 |
+| PC1      | 2026-04-23 14:26:14 |    24.1 |      500 | Buy          | 467826413 |
+| PC1      | 2026-04-23 14:26:22 |    24.1 |      200 | Buy          | 467827121 |
+| PC1      | 2026-04-23 14:26:27 |    24.1 |      500 | Buy          | 467827528 |
+| PC1      | 2026-04-23 14:26:29 |    24.1 |     1000 | Buy          | 467827637 |
+| PC1      | 2026-04-23 14:26:31 |    24.1 |      500 | Buy          | 467827788 |
+| PC1      | 2026-04-23 14:26:35 |    24.1 |      500 | Buy          | 467828086 |
+| PC1      | 2026-04-23 14:26:38 |    24.1 |      300 | Buy          | 467828350 |
+| PC1      | 2026-04-23 14:26:39 |    24.1 |      100 | Buy          | 467828471 |
 
 <!-- END:DAILY -->
 

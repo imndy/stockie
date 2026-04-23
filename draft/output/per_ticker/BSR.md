@@ -1,6 +1,6 @@
 # BSR — CTCP Lọc hóa Dầu Bình Sơn
 **Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
-> 📅 Daily: 22/04/2026 22:24  |  🗂 Quarterly: 05/04/2026 13:37
+> 📅 Daily: 23/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 13:37
 
 ---
 
@@ -40,7 +40,7 @@
 | MA5 | 26.14 |
 | MA10 | 26.225 |
 | EMA20 | 26.761 |
-| EMA50 | 26.666 |
+| EMA50 | 26.669 |
 | Slope MA20 (5p, %) | -1.5 |
 | ATR(14) | 1.468 |
 | RSI(14) | 44.8 |
@@ -48,7 +48,7 @@
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.676 |
+| MACD | -0.677 |
 | MACD Signal | -0.738 |
 | MACD Histogram | 0.061 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    39.6   | 1.15        | 1             |
-| 🔴 Kháng cự     |    29.65  | 1.32        | 1             |
-| 🔴 Kháng cự     |    27.9   | 1.43        | 1             |
+| 🔴 Kháng cự    |    39.6   | 1.16        | 1             |
+| 🔴 Kháng cự    |    29.65  | 1.32        | 1             |
+| 🔴 Kháng cự    |    27.9   | 1.43        | 1             |
 | ▶ Giá hiện tại |    25.95  | —           | —             |
-| 🟢 Hỗ trợ       |    25.45  | 0.98        | 1             |
-| 🟢 Hỗ trợ       |    24.632 | 2.64        | 2             |
-| 🟢 Hỗ trợ       |    23.2   | 0.87        | 1             |
+| 🟢 Hỗ trợ      |    25.45  | 0.99        | 1             |
+| 🟢 Hỗ trợ      |    24.632 | 2.65        | 2             |
+| 🟢 Hỗ trợ      |    23.2   | 0.88        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -112,7 +112,7 @@
 | ĐHĐCĐ BSR: Mở rộng kinh doanh quốc tế là hướng đi chiến lược         | 2026-04-13T11:16:00     | /2026/04/dhdcd-bsrmo-rong-kinh-doanh-quoc-te-la-huong-di-chien-luoc-737-1426633.htm          |
 | Vì đâu công ty chứng khoán gọi tên BSR, EIB, REE?                    | 2026-04-06T14:28:15.65  | /2026/04/vi-dau-cong-ty-chung-khoan-goi-ten-bsr-eib-ree-145-1423333.htm                      |
 | BSR: CBTT giao dịch với người có liên quan PVOIL Lào                 | 2026-04-02T18:27:08     | /2026/04/bsr-cbtt-giao-dich-voi-nguoi-co-lien-quan-pvoil-lao-739-1421969.htm                 |
-| Phân tích kỹ thuật phiên chiều 01/04: Tiếp tục tăng                | 2026-04-01T13:13:22.467 | /2026/04/phan-tich-ky-thuat-phien-chieu-0104-tiep-tuc-tang-585-1420624.htm                   |
+| Phân tích kỹ thuật phiên chiều 01/04: Tiếp tục tăng                  | 2026-04-01T13:13:22.467 | /2026/04/phan-tich-ky-thuat-phien-chieu-0104-tiep-tuc-tang-585-1420624.htm                   |
 | BSR: Giải trình một số nội dung liên quan BCTC năm 2025 đã kiểm toán | 2026-03-26T17:35:06     | /2026/03/bsr-giai-trinh-mot-so-noi-dung-lien-quan-bctc-nam-2025-da-kiem-toan-737-1417135.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BSR      | 2026-04-22 14:28:57 |   26    |      500 | Sell         | 467026089 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      600 | Sell         | 467026106 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      100 | Sell         | 467026105 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      500 | Sell         | 467026104 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      100 | Sell         | 467026100 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      500 | Sell         | 467026102 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      200 | Sell         | 467026101 |
-| BSR      | 2026-04-22 14:28:57 |   26    |      200 | Sell         | 467026103 |
-| BSR      | 2026-04-22 14:29:00 |   26.05 |     1000 | Buy          | 467026619 |
-| BSR      | 2026-04-22 14:29:05 |   26    |      400 | Sell         | 467026897 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

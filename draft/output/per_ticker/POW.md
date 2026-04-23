@@ -1,6 +1,6 @@
 # POW — Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 22/04/2026 22:31  |  🗂 Quarterly: 05/04/2026 13:43
+> 📅 Daily: 23/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 13:43
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | POW |
 | exchange | HOSE |
-| market_cap | 39881993944000 |
+| market_cap | 39115032522000 |
 | 52w_high | 16550 |
 | 52w_high_date | 2026-03-03 |
 | 52w_low | 9724 |
 | 52w_low_date | 2025-04-28 |
-| foreign_ownership | 2.997 |
+| foreign_ownership | 3.0418 |
 | dividend | 0 |
-| beta | 0.72 |
+| beta | 0.71 |
 | eps | 988 |
-| eps_forward | 32.47960726948157 |
+| eps_forward | 32.231671336126745 |
 | bvps | 15835 |
-| pe | 13.26 |
-| pb | 0.83 |
-| price_chg_1m | -1.14 |
-| price_chg_ytd | 32.56 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
+| pe | 13.16 |
+| pb | 0.82 |
+| price_chg_1m | 0.39 |
+| price_chg_ytd | 28.92 |
+| price_chg_1m_rank | 15.00 |
+| price_chg_ytd_rank | 53.97 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,54 +36,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.0 |
-| MA5 | 13.17 |
-| MA10 | 13.115 |
-| EMA20 | 13.1 |
-| EMA50 | 13.27 |
-| Slope MA20 (5p, %) | 0.26 |
-| ATR(14) | 0.367 |
-| RSI(14) | 46.7 |
+| Giá đóng cửa | 12.75 |
+| MA5 | 13.05 |
+| MA10 | 13.09 |
+| EMA20 | 13.067 |
+| EMA50 | 13.25 |
+| Slope MA20 (5p, %) | -0.2 |
+| ATR(14) | 0.38 |
+| RSI(14) | 42.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.068 |
-| MACD Signal | -0.122 |
-| MACD Histogram | 0.054 |
+| MACD | -0.089 |
+| MACD Signal | -0.115 |
+| MACD Histogram | 0.026 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 17694755 |
+| KL avg 60 phiên | 17653578 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    15.2   | 1.67        | 2             |
-| 🔴 Kháng cự     |    14.75  | 0.96        | 1             |
-| 🔴 Kháng cự     |    13.35  | 0.92        | 1             |
-| ▶ Giá hiện tại |    13     | —           | —             |
-| 🟢 Hỗ trợ       |    12.764 | 2.17        | 2             |
-| 🟢 Hỗ trợ       |    12.386 | 2.63        | 2             |
-| 🟢 Hỗ trợ       |    11.5   | 0.58        | 1             |
+| 🔴 Kháng cự    |    13.6   | 1.44        | 1             |
+| 🔴 Kháng cự    |    13.35  | 0.92        | 1             |
+| 🔴 Kháng cự    |    12.764 | 2.16        | 2             |
+| ▶ Giá hiện tại |    12.75  | —           | —             |
+| 🟢 Hỗ trợ      |    12.386 | 2.61        | 2             |
+| 🟢 Hỗ trợ      |    11.5   | 0.58        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | POW |
-| pe | 13.26 |
-| pb | 0.83 |
+| pe | 13.16 |
+| pb | 0.82 |
 | roe | 7.98 |
-| roe_pct_rank | 43 |
+| roe_pct_rank | 42 |
 | roa | 2.78 |
 | roa_pct_rank | 40 |
 | eps | 988 |
 | bvps | 15835 |
-| beta | 0.72 |
+| beta | 0.71 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 51 |
-| pb_pct_rank | 35 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 34 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,13 +90,13 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-16 | 24624300 | +39.2%     | 0.803%         |
-| 2026-04-17 |  6797200 | -61.6%     | 0.222%         |
-| 2026-04-20 |  7217800 | -59.2%     | 0.235%         |
-| 2026-04-21 |  7674300 | -56.6%     | 0.250%         |
-| 2026-04-22 |  6087200 | -65.6%     | 0.198%         |
+| 2026-04-17 |  6797200 | -61.5%     | 0.222%         |
+| 2026-04-20 |  7217800 | -59.1%     | 0.235%         |
+| 2026-04-21 |  7674300 | -56.5%     | 0.250%         |
+| 2026-04-22 |  6087200 | -65.5%     | 0.198%         |
+| 2026-04-23 | 21685400 | +22.8%     | 0.707%         |
 
-- KL trung bình 60 phiên: **17,694,755**
+- KL trung bình 60 phiên: **17,653,578**
 - Số CP lưu hành: **3,067,845,688**
 
 ## Tin tức gần nhất (Top 10)
@@ -107,7 +106,7 @@
 | POW: Thông báo thay đổi nhân sự                                                                       | 2026-04-22T18:06:56    | /2026/04/pow-thong-bao-thay-doi-nhan-su-214-1432299.htm                                                                   |
 | POW: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                           | 2026-04-10T18:46:51    | /2026/04/pow-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1426461.htm                       |
 | POW: Báo cáo thường niên năm 2025                                                                     | 2026-04-06T16:00:18    | /2026/04/pow-bao-cao-thuong-nien-nam-2025-737-1423540.htm                                                                 |
-| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                                   | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                                  |
+| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                                     | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                                  |
 | POW: Giải trình một số chỉ tiêu trên BCTC năm 2025 sau kiểm toán so với cùng kỳ năm trước             | 2026-03-20T17:49:26    | /2026/03/pow-giai-trinh-mot-so-chi-tieu-tren-bctc-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1414610.htm         |
 | POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414591.htm                                                                       |
 | POW: BCTC Hợp nhất năm 2025                                                                           | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414592.htm                                                                       |
@@ -133,7 +132,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| POW      | 2025-12-09 00:00:00 |  12.27 |  12.36 | 11.98 |   11.98 | 14796243 |
 | POW      | 2025-12-10 00:00:00 |  12.3  |  12.55 | 12.2  |   12.3  |  8534495 |
 | POW      | 2025-12-11 00:00:00 |  12.35 |  12.35 | 12.05 |   12.1  |  3725081 |
 | POW      | 2025-12-12 00:00:00 |  12.1  |  12.15 | 11.5  |   11.55 |  8625361 |
@@ -223,21 +221,22 @@ _Không có dữ liệu_
 | POW      | 2026-04-20 00:00:00 |  13.3  |  13.35 | 13.1  |   13.15 |  7217800 |
 | POW      | 2026-04-21 00:00:00 |  13.15 |  13.3  | 13.1  |   13.1  |  7674300 |
 | POW      | 2026-04-22 00:00:00 |  13.1  |  13.15 | 13    |   13    |  6087200 |
+| POW      | 2026-04-23 00:00:00 |  13.05 |  13.1  | 12.55 |   12.75 | 21685400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| POW      | 2026-04-22 14:28:59 |   13    |     7000 | Sell         | 467026581 |
-| POW      | 2026-04-22 14:28:59 |   13    |    10800 | Sell         | 467026584 |
-| POW      | 2026-04-22 14:28:59 |   13    |     1000 | Sell         | 467026582 |
-| POW      | 2026-04-22 14:28:59 |   13    |      300 | Sell         | 467026583 |
-| POW      | 2026-04-22 14:29:07 |   13    |      900 | Sell         | 467027031 |
-| POW      | 2026-04-22 14:29:24 |   13.05 |      300 | Buy          | 467028226 |
-| POW      | 2026-04-22 14:29:24 |   13.05 |      200 | Buy          | 467028227 |
-| POW      | 2026-04-22 14:29:25 |   13    |     1000 | Sell         | 467028243 |
-| POW      | 2026-04-22 14:29:25 |   13    |     1300 | Sell         | 467028239 |
-| POW      | 2026-04-22 14:29:25 |   13    |      100 | Sell         | 467028240 |
+| POW      | 2026-04-23 14:28:44 |    12.6 |      100 | Sell         | 467839051 |
+| POW      | 2026-04-23 14:28:45 |    12.7 |      200 | Buy          | 467839150 |
+| POW      | 2026-04-23 14:28:45 |    12.7 |      100 | Buy          | 467839156 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |     1000 | Sell         | 467839229 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |      200 | Sell         | 467839224 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |      200 | Sell         | 467839218 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |     2000 | Sell         | 467839219 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |     2000 | Sell         | 467839220 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |      100 | Sell         | 467839221 |
+| POW      | 2026-04-23 14:28:46 |    12.6 |      300 | Sell         | 467839222 |
 
 <!-- END:DAILY -->
 

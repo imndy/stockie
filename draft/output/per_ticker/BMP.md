@@ -1,6 +1,6 @@
 # BMP — CTCP Nhựa Bình Minh
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 22/04/2026 22:24  |  🗂 Quarterly: 05/04/2026 19:48
+> 📅 Daily: 23/04/2026 07:21  |  🗂 Quarterly: 05/04/2026 19:48
 
 ---
 
@@ -40,9 +40,9 @@
 | MA5 | 150.88 |
 | MA10 | 143.79 |
 | EMA20 | 140.825 |
-| EMA50 | 143.569 |
+| EMA50 | 143.551 |
 | Slope MA20 (5p, %) | 4.86 |
-| ATR(14) | 5.189 |
+| ATR(14) | 5.186 |
 | RSI(14) | 60.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
@@ -58,12 +58,12 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |   172.8   | 1.47        | 2             |
-| 🔴 Kháng cự     |   162.8   | 1.08        | 1             |
-| 🔴 Kháng cự     |   154.697 | 1.89        | 2             |
+| 🔴 Kháng cự    |   172.8   | 1.49        | 2             |
+| 🔴 Kháng cự    |   162.8   | 1.08        | 1             |
+| 🔴 Kháng cự    |   154.971 | 2.46        | 3             |
 | ▶ Giá hiện tại |   150     | —           | —             |
-| 🟢 Hỗ trợ       |   123.6   | 1.37        | 1             |
-| 🟢 Hỗ trợ       |   121.2   | 1.26        | 1             |
+| 🟢 Hỗ trợ      |   123.6   | 1.38        | 1             |
+| 🟢 Hỗ trợ      |   121.2   | 1.26        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -108,7 +108,7 @@
 | BMP: BCTC Hợp nhất quý 1 năm 2026                                 | 2026-04-17T00:00:00     | /2026/04/bmp-bctc-hop-nhat-quy-1-nam-2026-737-1429495.htm                                 |
 | BMP: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                     | 2026-04-16T18:01:47     | /2026/04/bmp-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1428808.htm                       |
 | BMP: Báo cáo thường niên năm 2025                                 | 2026-04-14T17:20:25     | /2026/04/bmp-bao-cao-thuong-nien-nam-2025-737-1427578.htm                                 |
-| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band        | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm           |
+| Phân tích kỹ thuật phiên chiều 14/04: Bám vào Upper Band          | 2026-04-14T13:04:05.817 | /2026/04/phan-tich-ky-thuat-phien-chieu-1404-bam-vao-upper-band-585-1427312.htm           |
 | BMP: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                 | 2026-04-08T18:06:22     | /2026/04/bmp-thong-bao-moi-hop-dhdcd-thuong-nien-nam-2026-737-1425217.htm                 |
 | BMP công bố tài liệu đại hội, cổ phiếu bật tăng trần              | 2026-04-08T17:55:21.153 | /2026/04/bmp-cong-bo-tai-lieu-dai-hoi-co-phieu-bat-tang-tran-830-1425071.htm              |
 | BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước | 2026-03-30T17:59:36     | /2026/03/bmp-giai-trinh-chenh-lech-lnst-nam-2025-so-voi-cung-ky-nam-truoc-830-1418946.htm |
@@ -225,18 +225,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BMP      | 2026-04-22 14:03:23 |   149   |      300 | Sell         | 466943030 |
-| BMP      | 2026-04-22 14:03:23 |   148.7 |      200 | Sell         | 466943042 |
-| BMP      | 2026-04-22 14:03:23 |   148.8 |      100 | Sell         | 466943041 |
-| BMP      | 2026-04-22 14:03:23 |   149   |     1000 | Sell         | 466943038 |
-| BMP      | 2026-04-22 14:03:23 |   149   |      500 | Sell         | 466943037 |
-| BMP      | 2026-04-22 14:03:23 |   149   |     1000 | Sell         | 466943031 |
-| BMP      | 2026-04-22 14:03:23 |   149   |      600 | Sell         | 466943035 |
-| BMP      | 2026-04-22 14:03:23 |   149   |      100 | Sell         | 466943032 |
-| BMP      | 2026-04-22 14:03:23 |   149   |      100 | Sell         | 466943036 |
-| BMP      | 2026-04-22 14:03:23 |   149   |      100 | Sell         | 466943034 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

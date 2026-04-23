@@ -1,6 +1,6 @@
 # EVF — Công ty Tài chính Tổng hợp Cổ phần Điện lực
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 22/04/2026 22:26  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 23/04/2026 08:04  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -40,7 +40,7 @@
 | MA5 | 13.79 |
 | MA10 | 13.815 |
 | EMA20 | 13.757 |
-| EMA50 | 13.383 |
+| EMA50 | 13.384 |
 | Slope MA20 (5p, %) | 0.07 |
 | ATR(14) | 0.52 |
 | RSI(14) | 47.4 |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    15.25  | 1.18        | 1             |
-| 🔴 Kháng cự     |    14.9   | 1.32        | 1             |
-| 🔴 Kháng cự     |    14.479 | 2.54        | 2             |
+| 🔴 Kháng cự    |    15.25  | 1.19        | 1             |
+| 🔴 Kháng cự    |    14.9   | 1.32        | 1             |
+| 🔴 Kháng cự    |    14.479 | 2.54        | 2             |
 | ▶ Giá hiện tại |    13.55  | —           | —             |
-| 🟢 Hỗ trợ       |    13.2   | 1.36        | 1             |
-| 🟢 Hỗ trợ       |    12.9   | 1.26        | 1             |
-| 🟢 Hỗ trợ       |    12.65  | 2.32        | 2             |
+| 🟢 Hỗ trợ      |    13.2   | 1.36        | 1             |
+| 🟢 Hỗ trợ      |    12.9   | 1.26        | 1             |
+| 🟢 Hỗ trợ      |    12.65  | 2.32        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -107,7 +107,7 @@
 | EVF duy trì đà tăng trưởng, lợi nhuận quý 1/2026 tăng 8.1%                                   | 2026-04-21T15:42:00   | /2026/04/evf-duy-tri-da-tang-truong-loi-nhuan-quy-12026-tang-81-737-1431262.htm                                    |
 | EVF: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                           | 2026-04-21T09:32:27   | /2026/04/evf-giai-trinh-bien-dong-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1431003.htm                         |
 | EVF: BCTC quý 1 năm 2026                                                                     | 2026-04-20T00:00:00   | /2026/04/evf-bctc-quy-1-nam-2026-737-1431015.htm                                                                   |
-| Phân tích kỹ thuật phiên chiều 15/04: Tiếp tục đi lên                                      | 2026-04-15T13:33:01.5 | /2026/04/phan-tich-ky-thuat-phien-chieu-1504-tiep-tuc-di-len-585-1427891.htm                                       |
+| Phân tích kỹ thuật phiên chiều 15/04: Tiếp tục đi lên                                        | 2026-04-15T13:33:01.5 | /2026/04/phan-tich-ky-thuat-phien-chieu-1504-tiep-tuc-di-len-585-1427891.htm                                       |
 | EVF: Điều lệ tổ chức và hoạt động                                                            | 2026-04-10T15:23:41   | /2026/04/evf-dieu-le-to-chuc-va-hoat-dong-737-1426109.htm                                                          |
 | EVF: Quy chế quản trị nội bộ                                                                 | 2026-04-10T15:19:46   | /2026/04/evf-quy-che-quan-tri-noi-bo-143-1426108.htm                                                               |
 | EVF: Quy chế tổ chức và hoạt động của HĐQT                                                   | 2026-04-10T15:18:52   | /2026/04/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1426107.htm                                                 |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EVF      | 2026-04-22 14:19:32 |   13.65 |      900 | Buy          | 466990429 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      500 | Sell         | 466993700 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      100 | Sell         | 466993699 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      500 | Sell         | 466993698 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      100 | Sell         | 466993697 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |    66400 | Sell         | 466993691 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      400 | Sell         | 466993695 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |      200 | Sell         | 466993694 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |     1800 | Sell         | 466993693 |
-| EVF      | 2026-04-22 14:20:15 |   13.6  |    30000 | Sell         | 466993692 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

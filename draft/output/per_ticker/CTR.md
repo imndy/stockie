@@ -1,6 +1,6 @@
 # CTR — Tổng Công ty cổ phần Công trình Viettel
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 22/04/2026 22:25  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 23/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -40,10 +40,10 @@
 | MA5 | 86.44 |
 | MA10 | 86.27 |
 | EMA20 | 85.791 |
-| EMA50 | 86.847 |
+| EMA50 | 86.859 |
 | Slope MA20 (5p, %) | 0.42 |
-| ATR(14) | 2.099 |
-| RSI(14) | 46.6 |
+| ATR(14) | 2.1 |
+| RSI(14) | 46.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    91.7   | 1.01        | 1             |
-| 🔴 Kháng cự     |    88.1   | 1.33        | 1             |
-| 🔴 Kháng cự     |    86.4   | 0.62        | 1             |
+| 🔴 Kháng cự    |    91.7   | 1.01        | 1             |
+| 🔴 Kháng cự    |    88.1   | 1.33        | 1             |
+| 🔴 Kháng cự    |    86.4   | 0.62        | 1             |
 | ▶ Giá hiện tại |    85     | —           | —             |
-| 🟢 Hỗ trợ       |    82.475 | 2.66        | 3             |
-| 🟢 Hỗ trợ       |    77.9   | 1.16        | 1             |
-| 🟢 Hỗ trợ       |    75.5   | 1.26        | 1             |
+| 🟢 Hỗ trợ      |    82.475 | 2.68        | 3             |
+| 🟢 Hỗ trợ      |    77.9   | 1.17        | 1             |
+| 🟢 Hỗ trợ      |    75.5   | 1.26        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -109,7 +109,7 @@
 | CTR: BCTC năm 2025                                                                             | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-nam-2025-737-1414375.htm                                                                             |
 | CTR: BCTC Hợp nhất năm 2025                                                                    | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-hop-nhat-nam-2025-737-1414376.htm                                                                    |
 | CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-02-10T09:18:55     | /2026/02/ctr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1402193.htm |
-| Phân tích kỹ thuật phiên chiều 05/02: Stochastic Oscillator về vùng oversold                 | 2026-02-05T13:04:27.347 | /2026/02/phan-tich-ky-thuat-phien-chieu-0502-stochastic-oscillator-ve-vung-oversold-585-1400831.htm                    |
+| Phân tích kỹ thuật phiên chiều 05/02: Stochastic Oscillator về vùng oversold                   | 2026-02-05T13:04:27.347 | /2026/02/phan-tich-ky-thuat-phien-chieu-0502-stochastic-oscillator-ve-vung-oversold-585-1400831.htm                    |
 | CTR: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                 | 2026-02-03T18:12:49     | /2026/02/ctr-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1399948.htm                                 |
 | CTR: Báo cáo tình hình quản trị công ty năm 2025                                               | 2026-01-30T18:45:33     | /2026/01/ctr-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1397913.htm                                               |
 | CTR: BCTC Hợp nhất quý 4 năm 2025                                                              | 2026-01-29T00:00:00     | /2026/01/ctr-bctc-hop-nhat-quy-4-nam-2025-737-1397989.htm                                                              |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTR      | 2026-04-22 13:38:23 |    85.3 |      200 | Sell         | 466866243 |
-| CTR      | 2026-04-22 13:40:58 |    85.2 |      100 | Sell         | 466874651 |
-| CTR      | 2026-04-22 13:41:27 |    85.2 |      100 | Sell         | 466876098 |
-| CTR      | 2026-04-22 13:43:32 |    85.2 |      200 | Sell         | 466880879 |
-| CTR      | 2026-04-22 13:45:09 |    85.2 |      100 | Sell         | 466885770 |
-| CTR      | 2026-04-22 13:45:39 |    85.2 |      700 | Buy          | 466887328 |
-| CTR      | 2026-04-22 13:47:23 |    85.2 |      200 | Sell         | 466891757 |
-| CTR      | 2026-04-22 13:47:23 |    85.2 |      300 | Sell         | 466891758 |
-| CTR      | 2026-04-22 13:47:54 |    85.2 |      200 | Sell         | 466893255 |
-| CTR      | 2026-04-22 13:47:54 |    85.2 |      100 | Sell         | 466893256 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

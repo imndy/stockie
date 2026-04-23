@@ -1,6 +1,6 @@
 # CTG — Ngân hàng TMCP Công Thương Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 22/04/2026 22:25  |  🗂 Quarterly: 05/04/2026 12:19
+> 📅 Daily: 23/04/2026 07:24  |  🗂 Quarterly: 05/04/2026 12:19
 
 ---
 
@@ -40,16 +40,16 @@
 | MA5 | 34.86 |
 | MA10 | 34.905 |
 | EMA20 | 34.774 |
-| EMA50 | 35.285 |
+| EMA50 | 35.275 |
 | Slope MA20 (5p, %) | 0.18 |
 | ATR(14) | 0.704 |
-| RSI(14) | 50.5 |
+| RSI(14) | 50.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.059 |
-| MACD Signal | -0.186 |
+| MACD Signal | -0.185 |
 | MACD Histogram | 0.127 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 11629870 |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    36.65  | 1.01        | 1             |
-| 🔴 Kháng cự     |    36.45  | 0.68        | 1             |
-| 🔴 Kháng cự     |    35.694 | 3.25        | 3             |
+| 🔴 Kháng cự    |    36.65  | 1.01        | 1             |
+| 🔴 Kháng cự    |    36.45  | 0.69        | 1             |
+| 🔴 Kháng cự    |    35.694 | 3.26        | 3             |
 | ▶ Giá hiện tại |    34.9   | —           | —             |
-| 🟢 Hỗ trợ       |    33.91  | 1.2         | 2             |
-| 🟢 Hỗ trợ       |    33.265 | 2.53        | 2             |
-| 🟢 Hỗ trợ       |    32     | 1.26        | 1             |
+| 🟢 Hỗ trợ      |    33.91  | 1.22        | 2             |
+| 🟢 Hỗ trợ      |    33.265 | 2.53        | 2             |
+| 🟢 Hỗ trợ      |    32     | 1.26        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -110,7 +110,7 @@
 | CTG: HĐQT thông qua dự thảo hợp đồng tiền gửi có kỳ hạn giữa VietinBank với VietinGold và VBI         | 2026-04-14T17:47:47     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-tien-gui-co-ky-han-giua-vietinbank-voi-vietingold-va-vbi-830-1427664.htm     |
 | Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                  | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
 | Lộ trình thoái vốn của VietinBank tại Cảng Sài Gòn gặp khó                                            | 2026-04-09T11:45:13.093 | /2026/04/lo-trinh-thoai-von-cua-vietinbank-tai-cang-sai-gon-gap-kho-739-1425383.htm                                       |
-| Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                       | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
+| Phân tích kỹ thuật phiên chiều 08/04: Bùng nổ                                                         | 2026-04-08T13:32:34.177 | /2026/04/phan-tich-ky-thuat-phien-chieu-0804-bung-no-585-1424824.htm                                                      |
 | Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                           | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
 | Cổ phiếu ngân hàng nào “thoát lửa” Trung Đông?                                                        | 2026-04-06T20:02:00     | /2026/04/co-phieu-ngan-hang-nao-thoat-lua-trung-dong-830-1423566.htm                                                      |
 | Sức nóng mùa ĐHĐCĐ ngân hàng 2026: Cuộc đua tăng vốn, biến động nhân sự và tham gia VIFC              | 2026-04-06T13:02:00     | /2026/04/suc-nong-mua-dhdcd-ngan-hang-2026-cuoc-dua-tang-von-bien-dong-nhan-su-va-tham-gia-vifc-757-1423118.htm           |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTG      | 2026-04-22 14:25:31 |   34.85 |      400 | Sell         | 467012351 |
-| CTG      | 2026-04-22 14:25:36 |   34.9  |     1800 | Buy          | 467012920 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |     1100 | Sell         | 467013532 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |      900 | Sell         | 467013529 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |      500 | Sell         | 467013530 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |     1000 | Sell         | 467013531 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |      600 | Sell         | 467013526 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |      200 | Sell         | 467013528 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |     1000 | Sell         | 467013534 |
-| CTG      | 2026-04-22 14:25:43 |   34.85 |      200 | Sell         | 467013535 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 22/04/2026 22:23  |  🗂 Quarterly: 05/04/2026 19:47
+> 📅 Daily: 23/04/2026 07:21  |  🗂 Quarterly: 05/04/2026 19:47
 
 ---
 
@@ -29,7 +29,7 @@
 | price_chg_1m_rank | 13.94 |
 | price_chg_ytd_rank | 52.78 |
 | yield | 0 |
-| financial_date | 12/2025 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -40,7 +40,7 @@
 | MA5 | 2.7 |
 | MA10 | 2.998 |
 | EMA20 | 3.14 |
-| EMA50 | 3.349 |
+| EMA50 | 3.35 |
 | Slope MA20 (5p, %) | -8.76 |
 | ATR(14) | 0.141 |
 | RSI(14) | 19.3 |
@@ -58,9 +58,9 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     2.97  | 1.14        | 2             |
-| 🔴 Kháng cự     |     2.914 | 1.56        | 2             |
-| 🔴 Kháng cự     |     2.83  | 0.64        | 1             |
+| 🔴 Kháng cự    |     2.97  | 1.16        | 2             |
+| 🔴 Kháng cự    |     2.914 | 1.57        | 2             |
+| 🔴 Kháng cự    |     2.82  | 1.2         | 2             |
 | ▶ Giá hiện tại |     2.53  | —           | —             |
 
 ## Tóm tắt chỉ số tài chính

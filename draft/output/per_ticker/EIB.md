@@ -1,6 +1,6 @@
 # EIB — Ngân hàng TMCP Xuất nhập khẩu Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 22/04/2026 22:26  |  🗂 Quarterly: 05/04/2026 19:52
+> 📅 Daily: 23/04/2026 08:04  |  🗂 Quarterly: 05/04/2026 19:52
 
 ---
 
@@ -40,7 +40,7 @@
 | MA5 | 22.58 |
 | MA10 | 22.725 |
 | EMA20 | 22.643 |
-| EMA50 | 22.474 |
+| EMA50 | 22.463 |
 | Slope MA20 (5p, %) | -0.12 |
 | ATR(14) | 0.741 |
 | RSI(14) | 50.6 |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    24.089 | 3.54        | 3             |
-| 🔴 Kháng cự     |    23.55  | 1.23        | 1             |
-| 🔴 Kháng cự     |    22.8   | 0.67        | 1             |
+| 🔴 Kháng cự    |    24.089 | 3.55        | 3             |
+| 🔴 Kháng cự    |    23.55  | 1.23        | 1             |
+| 🔴 Kháng cự    |    22.8   | 0.68        | 1             |
 | ▶ Giá hiện tại |    22.65  | —           | —             |
-| 🟢 Hỗ trợ       |    21.8   | 2.74        | 2             |
-| 🟢 Hỗ trợ       |    21.65  | 0.96        | 1             |
-| 🟢 Hỗ trợ       |    21     | 1.26        | 1             |
+| 🟢 Hỗ trợ      |    21.8   | 2.74        | 2             |
+| 🟢 Hỗ trợ      |    21.65  | 0.97        | 1             |
+| 🟢 Hỗ trợ      |    21     | 1.26        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -109,7 +109,7 @@
 | EIB: Thông báo nhận được Đơn rút đơn từ nhiệm thành viên HĐQT                                                    | 2026-04-15T16:47:37     | /2026/04/eib-thong-bao-nhan-duoc-don-rut-don-tu-nhiem-thanh-vien-hdqt-214-1428156.htm                                     |
 | Eximbank được LSEG trao giải cao nhất “Best Market Maker”, khẳng định năng lực trên thị trường giao dịch quốc tế | 2026-04-14T08:32:00     | /2026/04/eximbank-duoc-lseg-trao-giai-cao-nhat-best-market-maker-khang-dinh-nang-luc-tren-thi-truong-giao-dich-quoc-te-7… |
 | Nhiều ngân hàng giảm lãi suất huy động từ ngày 10/04                                                             | 2026-04-10T15:30:00     | /2026/04/nhieu-ngan-hang-giam-lai-suat-huy-dong-tu-ngay-1004-757-1426064.htm                                              |
-| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                     | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
+| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                        | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
 | Eximbank điều chỉnh kế hoạch lợi nhuận 2026                                                                      | 2026-04-09T11:23:20.483 | /2026/04/eximbank-dieu-chinh-ke-hoach-loi-nhuan-2026-757-1425353.htm                                                      |
 | EIB: Nghị quyết HĐQT thông qua chương trình và tài liệu họp ĐHĐCĐ thường niên năm 2026                           | 2026-04-08T09:11:08     | /2026/04/eib-nghi-quyet-hdqt-thong-qua-chuong-trinh-va-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1424654.htm            |
 | Lãi suất tiền gửi tiếp tục “leo dốc”, NHNN phát tín hiệu bình ổn thị trường                                      | 2026-04-07T09:07:37.397 | /2026/04/lai-suat-tien-gui-tiep-tuc-leo-doc-nhnn-phat-tin-hieu-binh-on-thi-truong-757-1423580.htm                         |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EIB      | 2026-04-22 14:28:53 |    22.7 |      100 | Sell         | 467025851 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |     1000 | Sell         | 467025807 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |      800 | Sell         | 467025808 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |      100 | Sell         | 467025809 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |     5000 | Sell         | 467025810 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |      300 | Sell         | 467025811 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |      300 | Sell         | 467025812 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |     1000 | Sell         | 467025813 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |     5000 | Sell         | 467025814 |
-| EIB      | 2026-04-22 14:28:53 |    22.7 |     1000 | Sell         | 467025815 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

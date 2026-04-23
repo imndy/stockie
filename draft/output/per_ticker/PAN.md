@@ -1,6 +1,6 @@
 # PAN — CTCP Tập đoàn PAN
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 22/04/2026 22:30  |  🗂 Quarterly: 05/04/2026 19:59
+> 📅 Daily: 23/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 19:59
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PAN |
 | exchange | HOSE |
-| market_cap | 6778634637500 |
+| market_cap | 6653297787500 |
 | 52w_high | 35350 |
 | 52w_high_date | 2025-09-15 |
-| 52w_low | 22023 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 21.2344 |
+| 52w_low | 22417 |
+| 52w_low_date | 2025-04-24 |
+| foreign_ownership | 21.2419 |
 | dividend | 500 |
 | beta | 0.44 |
 | eps | 3223 |
-| eps_forward | 5.83638112194372 |
+| eps_forward | 3.943121834566293 |
 | bvps | 43488 |
-| pe | 10.13 |
+| pe | 10.07 |
 | pb | 0.75 |
-| price_chg_1m | 14.87 |
-| price_chg_ytd | 46.36 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
-| yield | 0.015408320493066256 |
+| price_chg_1m | 13.75 |
+| price_chg_ytd | 44.62 |
+| price_chg_1m_rank | 15.00 |
+| price_chg_ytd_rank | 53.97 |
+| yield | 0.015698587127158554 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,42 +36,42 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.45 |
-| MA5 | 32.15 |
-| MA10 | 31.975 |
-| EMA20 | 31.706 |
-| EMA50 | 31.177 |
-| Slope MA20 (5p, %) | 1.03 |
-| ATR(14) | 1.047 |
-| RSI(14) | 58.5 |
+| Giá đóng cửa | 31.85 |
+| MA5 | 32.25 |
+| MA10 | 31.93 |
+| EMA20 | 31.719 |
+| EMA50 | 31.203 |
+| Slope MA20 (5p, %) | 1.09 |
+| ATR(14) | 1.033 |
+| RSI(14) | 52.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.314 |
-| MACD Signal | 0.203 |
-| MACD Histogram | 0.111 |
+| MACD | 0.286 |
+| MACD Signal | 0.22 |
+| MACD Histogram | 0.066 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1147287 |
+| KL avg 60 phiên | 1154030 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    35.15  | 1.1         | 1             |
-| 🔴 Kháng cự     |    33.35  | 0.96        | 1             |
-| 🔴 Kháng cự     |    32.82  | 3.94        | 3             |
-| ▶ Giá hiện tại |    32.45  | —           | —             |
-| 🟢 Hỗ trợ       |    30.544 | 2.56        | 2             |
-| 🟢 Hỗ trợ       |    29.05  | 1.02        | 1             |
-| 🟢 Hỗ trợ       |    28.695 | 1.26        | 2             |
+| 🔴 Kháng cự    |    35.15  | 1.09        | 1             |
+| 🔴 Kháng cự    |    33.35  | 0.96        | 1             |
+| 🔴 Kháng cự    |    32.82  | 3.92        | 3             |
+| ▶ Giá hiện tại |    31.85  | —           | —             |
+| 🟢 Hỗ trợ      |    30.544 | 2.54        | 2             |
+| 🟢 Hỗ trợ      |    29.05  | 1.01        | 1             |
+| 🟢 Hỗ trợ      |    28.695 | 1.26        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PAN |
-| pe | 10.13 |
+| pe | 10.07 |
 | pb | 0.75 |
 | roe | 13.07 |
 | roe_pct_rank | 54 |
@@ -81,7 +81,7 @@
 | bvps | 43488 |
 | beta | 0.44 |
 | dividend | 500 |
-| yield | 0.015408320493066256 |
+| yield | 0.015698587127158554 |
 | pe_pct_rank | 44 |
 | pb_pct_rank | 31 |
 | financial_date | 12/2025 |
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-16 |  513700 | -55.2%     | 0.246%         |
-| 2026-04-17 | 1317500 | +14.8%     | 0.631%         |
-| 2026-04-20 | 1156500 | +0.8%      | 0.554%         |
-| 2026-04-21 | 1322700 | +15.3%     | 0.633%         |
-| 2026-04-22 | 1365900 | +19.1%     | 0.654%         |
+| 2026-04-17 | 1317500 | +14.2%     | 0.631%         |
+| 2026-04-20 | 1156500 | +0.2%      | 0.554%         |
+| 2026-04-21 | 1322700 | +14.6%     | 0.633%         |
+| 2026-04-22 | 1365900 | +18.4%     | 0.654%         |
+| 2026-04-23 |  877200 | -24.0%     | 0.420%         |
 
-- KL trung bình 60 phiên: **1,147,286**
+- KL trung bình 60 phiên: **1,154,030**
 - Số CP lưu hành: **208,894,750**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                | publishtime             | url                                                                                                        |
-|:-------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
-| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                     | 2026-04-21T17:14:00     | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                     |
-| PAN: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-20T13:49:15     | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                          |
-| PAN: Báo cáo thường niên năm 2025                                                    | 2026-04-20T13:48:42     | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                  |
-| PAN: BCTC quý 1 năm 2026                                                             | 2026-04-20T00:00:00     | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                           |
-| PAN Group đặt mục tiêu lợi nhuận tăng 86% nhờ thoái vốn Bibica, muốn chia cổ tức 30% | 2026-04-09T12:34:11.64  | /2026/04/pan-group-dat-muc-tieu-loi-nhuan-tang-86-nho-thoai-von-bibica-muon-chia-co-tuc-30-737-1425377.htm |
-| PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                   | 2026-04-01T09:13:53     | /2026/04/pan-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1420304.htm                                 |
-| PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-31T15:38:46     | /2026/03/pan-giai-trinh-bien-dong-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419700.htm        |
-| PAN: BCTC Hợp nhất năm 2025                                                          | 2026-03-31T00:00:00     | /2026/03/pan-bctc-hop-nhat-nam-2025-737-1419726.htm                                                        |
-| PAN: BCTC năm 2025                                                                   | 2026-03-31T00:00:00     | /2026/03/pan-bctc-nam-2025-737-1419727.htm                                                                 |
-| PAN hoàn tất chuyển nhượng Bibica cho đối tác ngoại                                  | 2026-03-26T19:11:54.977 | /2026/03/pan-hoan-tat-chuyen-nhuong-bibica-cho-doi-tac-ngoai-764-1417013.htm                               |
+| title                                                                                | publishtime            | url                                                                                                        |
+|:-------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------|
+| PAN: Điều lệ công ty sửa đổi                                                         | 2026-04-23T13:30:43    | /2026/04/pan-dieu-le-cong-ty-sua-doi-737-1432536.htm                                                       |
+| PAN: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo        | 2026-04-23T09:14:26    | /2026/04/pan-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-tai-lieu-kem-theo-737-1432384.htm       |
+| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                     | 2026-04-21T17:14:00    | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                     |
+| PAN: Báo cáo phát triển bền vững năm 2025                                            | 2026-04-20T13:49:15    | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                          |
+| PAN: Báo cáo thường niên năm 2025                                                    | 2026-04-20T13:48:42    | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                  |
+| PAN: BCTC quý 1 năm 2026                                                             | 2026-04-20T00:00:00    | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                           |
+| PAN Group đặt mục tiêu lợi nhuận tăng 86% nhờ thoái vốn Bibica, muốn chia cổ tức 30% | 2026-04-09T12:34:11.64 | /2026/04/pan-group-dat-muc-tieu-loi-nhuan-tang-86-nho-thoai-von-bibica-muon-chia-co-tuc-30-737-1425377.htm |
+| PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                   | 2026-04-01T09:13:53    | /2026/04/pan-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1420304.htm                                 |
+| PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-31T15:38:46    | /2026/03/pan-giai-trinh-bien-dong-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419700.htm        |
+| PAN: BCTC Hợp nhất năm 2025                                                          | 2026-03-31T00:00:00    | /2026/03/pan-bctc-hop-nhat-nam-2025-737-1419726.htm                                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -133,7 +133,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PAN      | 2025-12-09 00:00:00 |  27.4  |  28    | 27.4  |   27.45 |   890900 |
 | PAN      | 2025-12-10 00:00:00 |  27.9  |  28.2  | 27.6  |   28.15 |   472300 |
 | PAN      | 2025-12-11 00:00:00 |  28.4  |  28.4  | 27.65 |   27.85 |   518200 |
 | PAN      | 2025-12-12 00:00:00 |  27.9  |  28.75 | 27.65 |   28.1  |  1772800 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | PAN      | 2026-04-20 00:00:00 |  32.85 |  33    | 32.3  |   32.3  |  1156500 |
 | PAN      | 2026-04-21 00:00:00 |  32.75 |  32.8  | 32.2  |   32.65 |  1322700 |
 | PAN      | 2026-04-22 00:00:00 |  33.05 |  33.35 | 32.25 |   32.45 |  1365900 |
+| PAN      | 2026-04-23 00:00:00 |  32.5  |  32.6  | 31.75 |   31.85 |   877200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PAN      | 2026-04-22 14:14:36 |   32.4  |     3000 | Sell         | 466973634 |
-| PAN      | 2026-04-22 14:15:52 |   32.4  |      100 | Sell         | 466977257 |
-| PAN      | 2026-04-22 14:16:22 |   32.35 |     3000 | Sell         | 466979045 |
-| PAN      | 2026-04-22 14:16:35 |   32.35 |    15000 | Sell         | 466979634 |
-| PAN      | 2026-04-22 14:16:37 |   32.35 |     1000 | Sell         | 466979675 |
-| PAN      | 2026-04-22 14:17:02 |   32.35 |     1000 | Sell         | 466980635 |
-| PAN      | 2026-04-22 14:17:06 |   32.4  |      100 | Buy          | 466980834 |
-| PAN      | 2026-04-22 14:17:17 |   32.4  |      200 | Buy          | 466981207 |
-| PAN      | 2026-04-22 14:17:51 |   32.4  |      400 | Buy          | 466982974 |
-| PAN      | 2026-04-22 14:18:01 |   32.4  |      500 | Buy          | 466983534 |
+| PAN      | 2026-04-23 14:16:18 |   32    |     1000 | Buy          | 467775339 |
+| PAN      | 2026-04-23 14:16:18 |   32    |     5000 | Buy          | 467775344 |
+| PAN      | 2026-04-23 14:16:18 |   32    |     2000 | Buy          | 467775341 |
+| PAN      | 2026-04-23 14:16:18 |   32    |     2000 | Buy          | 467775342 |
+| PAN      | 2026-04-23 14:16:18 |   32    |      500 | Buy          | 467775343 |
+| PAN      | 2026-04-23 14:16:19 |   32    |     5000 | Sell         | 467775398 |
+| PAN      | 2026-04-23 14:16:24 |   32.05 |      100 | Buy          | 467775679 |
+| PAN      | 2026-04-23 14:16:24 |   32.05 |     1000 | Buy          | 467775680 |
+| PAN      | 2026-04-23 14:16:24 |   32.05 |     1800 | Buy          | 467775681 |
+| PAN      | 2026-04-23 14:16:31 |   32.05 |     3200 | Buy          | 467776059 |
 
 <!-- END:DAILY -->
 

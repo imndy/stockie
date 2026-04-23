@@ -1,6 +1,6 @@
 # DGW — CTCP Thế Giới Số
 **Sàn:** HOSE  |  **Ngành:** Bán buôn
-> 📅 Daily: 22/04/2026 22:25  |  🗂 Quarterly: 05/04/2026 19:51
+> 📅 Daily: 23/04/2026 07:25  |  🗂 Quarterly: 05/04/2026 19:51
 
 ---
 
@@ -40,17 +40,17 @@
 | MA5 | 45.65 |
 | MA10 | 45.595 |
 | EMA20 | 45.278 |
-| EMA50 | 45.388 |
+| EMA50 | 45.399 |
 | Slope MA20 (5p, %) | 0.54 |
-| ATR(14) | 1.701 |
-| RSI(14) | 51.8 |
+| ATR(14) | 1.702 |
+| RSI(14) | 51.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 0.103 |
 | MACD Signal | -0.041 |
-| MACD Histogram | 0.144 |
+| MACD Histogram | 0.145 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 2969042 |
 
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     49.35 | 0.85        | 1             |
-| 🔴 Kháng cự     |     47.8  | 1.02        | 1             |
-| 🔴 Kháng cự     |     46.6  | 1.33        | 1             |
+| 🔴 Kháng cự    |     49.35 | 0.85        | 1             |
+| 🔴 Kháng cự    |     47.8  | 1.02        | 1             |
+| 🔴 Kháng cự    |     46.6  | 1.33        | 1             |
 | ▶ Giá hiện tại |     45.6  | —           | —             |
-| 🟢 Hỗ trợ       |     43.15 | 0.9         | 1             |
-| 🟢 Hỗ trợ       |     42.5  | 2.74        | 2             |
-| 🟢 Hỗ trợ       |     41.1  | 0.66        | 1             |
+| 🟢 Hỗ trợ      |     43.15 | 0.91        | 1             |
+| 🟢 Hỗ trợ      |     42.5  | 2.74        | 2             |
+| 🟢 Hỗ trợ      |     41.1  | 0.67        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -105,7 +105,7 @@
 | title                                                                                                | publishtime             | url                                                                                                                       |
 |:-----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | ĐHĐCĐ Digiworld: Siết đầu tư sau khoản lỗ FPT, lấn sân ngành hàng Automotive và đẩy mạnh AI          | 2026-04-22T17:57:00     | /2026/04/dhdcd-digiworld-siet-dau-tu-sau-khoan-lo-fpt-lan-san-nganh-hang-automotive-va-day-manh-ai-737-1431933.htm        |
-| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
+| Phân tích kỹ thuật phiên chiều 17/04: Tiếp tục tăng                                                  | 2026-04-17T13:08:07.15  | /2026/04/phan-tich-ky-thuat-phien-chieu-1704-tiep-tuc-tang-585-1429123.htm                                                |
 | DGW: Thông báo thay đổi nhân sự - Miễn nhiệm Trưởng phòng Tài chính và Trưởng phòng kiểm toán nội bộ | 2026-04-16T09:08:51     | /2026/04/dgw-thong-bao-thay-doi-nhan-su-mien-nhiem-truong-phong-tai-chinh-va-truong-phong-kiem-toan-noi-bo-737-1428384.h… |
 | DGW: Nghị quyết HĐQT về việc miễn nhiệm Trưởng phòng Tài chính                                       | 2026-04-16T09:07:17     | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-mien-nhiem-truong-phong-tai-chinh-737-1428380.htm                                    |
 | DGW: Báo cáo thường niên năm 2025                                                                    | 2026-04-14T09:07:16     | /2026/04/dgw-bao-cao-thuong-nien-nam-2025-737-1427209.htm                                                                 |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGW      | 2026-04-22 14:23:35 |   45.05 |      400 | Sell         | 467005275 |
-| DGW      | 2026-04-22 14:23:35 |   45.05 |     1000 | Sell         | 467005278 |
-| DGW      | 2026-04-22 14:23:35 |   45.05 |      100 | Sell         | 467005276 |
-| DGW      | 2026-04-22 14:23:35 |   45.05 |     2600 | Sell         | 467005277 |
-| DGW      | 2026-04-22 14:23:37 |   45.05 |      800 | Buy          | 467005314 |
-| DGW      | 2026-04-22 14:23:37 |   45    |      100 | Sell         | 467005318 |
-| DGW      | 2026-04-22 14:23:46 |   45    |      100 | Sell         | 467005694 |
-| DGW      | 2026-04-22 14:23:53 |   45    |      400 | Sell         | 467006057 |
-| DGW      | 2026-04-22 14:23:56 |   45    |      100 | Sell         | 467006220 |
-| DGW      | 2026-04-22 14:24:05 |   45    |      100 | Sell         | 467006802 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

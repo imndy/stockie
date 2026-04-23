@@ -1,6 +1,6 @@
 # CTD — CTCP Xây dựng Coteccons
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 22/04/2026 22:25  |  🗂 Quarterly: 05/04/2026 19:49
+> 📅 Daily: 23/04/2026 07:23  |  🗂 Quarterly: 05/04/2026 19:49
 
 ---
 
@@ -40,16 +40,16 @@
 | MA5 | 80.422 |
 | MA10 | 79.621 |
 | EMA20 | 79.256 |
-| EMA50 | 78.229 |
+| EMA50 | 78.24 |
 | Slope MA20 (5p, %) | 1.11 |
-| ATR(14) | 2.545 |
-| RSI(14) | 55.6 |
+| ATR(14) | 2.543 |
+| RSI(14) | 55.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 0.698 |
-| MACD Signal | 0.365 |
+| MACD Signal | 0.364 |
 | MACD Histogram | 0.333 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 863861 |
@@ -58,12 +58,12 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    85.81  | 1.09        | 1             |
-| 🔴 Kháng cự     |    83.377 | 2.29        | 2             |
+| 🔴 Kháng cự    |    85.81  | 1.09        | 1             |
+| 🔴 Kháng cự    |    83.377 | 2.3         | 2             |
 | ▶ Giá hiện tại |    81.1   | —           | —             |
-| 🟢 Hỗ trợ       |    75.245 | 2.14        | 3             |
-| 🟢 Hỗ trợ       |    74.684 | 2.62        | 2             |
-| 🟢 Hỗ trợ       |    71.62  | 2.32        | 2             |
+| 🟢 Hỗ trợ      |    79.82  | 0.55        | 1             |
+| 🟢 Hỗ trợ      |    75.245 | 2.17        | 3             |
+| 🟢 Hỗ trợ      |    74.684 | 2.62        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -104,7 +104,7 @@
 | CTD: Thông báo về ngày đăng ký cuối cùng phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                   | 2026-04-10T09:08:46    | /2026/04/ctd-thong-bao-ve-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-737-1425… |
 | CTD: Thông báo phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH và thông báo chốt DS nhận cổ phiếu phát hành               | 2026-04-06T18:09:59    | /2026/04/ctd-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-va-thong-bao-chot-ds-nhan-co-phieu-phat-hanh-830-… |
 | CTD: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-03T17:31:40    | /2026/04/ctd-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon… |
-| Phân tích kỹ thuật phiên chiều 03/04: Giằng co mạnh                                                                     | 2026-04-03T13:02:40.49 | /2026/04/phan-tich-ky-thuat-phien-chieu-0304-giang-co-manh-585-1422465.htm                                                |
+| Phân tích kỹ thuật phiên chiều 03/04: Giằng co mạnh                                                                       | 2026-04-03T13:02:40.49 | /2026/04/phan-tich-ky-thuat-phien-chieu-0304-giang-co-manh-585-1422465.htm                                                |
 | CTD: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH                         | 2026-03-26T17:43:33    | /2026/03/ctd-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-737-1417171.ht… |
 | CTD: BCTC 6 tháng đầu năm 2026                                                                                            | 2026-02-28T00:00:00    | /2026/02/ctd-bctc-6-thang-dau-nam-2026-737-1406935.htm                                                                    |
 | CTD: BCTC Hợp nhất 6 tháng đầu năm 2026                                                                                   | 2026-02-28T00:00:00    | /2026/02/ctd-bctc-hop-nhat-6-thang-dau-nam-2026-737-1406936.htm                                                           |
@@ -221,18 +221,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTD      | 2026-04-22 14:15:47 |    81.4 |      200 | Buy          | 466977003 |
-| CTD      | 2026-04-22 14:15:47 |    81.4 |      100 | Buy          | 466977004 |
-| CTD      | 2026-04-22 14:16:31 |    81.3 |      100 | Buy          | 466979493 |
-| CTD      | 2026-04-22 14:16:44 |    81.3 |     2900 | Buy          | 466980029 |
-| CTD      | 2026-04-22 14:16:54 |    81.3 |      100 | Sell         | 466980374 |
-| CTD      | 2026-04-22 14:17:06 |    81.3 |      300 | Buy          | 466980788 |
-| CTD      | 2026-04-22 14:17:07 |    81.3 |      100 | Buy          | 466980894 |
-| CTD      | 2026-04-22 14:17:24 |    81.3 |      300 | Buy          | 466981449 |
-| CTD      | 2026-04-22 14:18:22 |    81.3 |      200 | Buy          | 466984539 |
-| CTD      | 2026-04-22 14:18:22 |    81.3 |      500 | Buy          | 466984540 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

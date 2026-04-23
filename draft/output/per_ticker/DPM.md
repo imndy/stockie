@@ -1,6 +1,6 @@
 # DPM — Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 22/04/2026 22:26  |  🗂 Quarterly: 05/04/2026 13:39
+> 📅 Daily: 23/04/2026 07:26  |  🗂 Quarterly: 05/04/2026 13:39
 
 ---
 
@@ -40,10 +40,10 @@
 | MA5 | 28.47 |
 | MA10 | 28.63 |
 | EMA20 | 28.814 |
-| EMA50 | 28.271 |
+| EMA50 | 28.274 |
 | Slope MA20 (5p, %) | -0.86 |
 | ATR(14) | 1.096 |
-| RSI(14) | 44.6 |
+| RSI(14) | 44.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    35.8   | 1.19        | 1             |
-| 🔴 Kháng cự     |    31.85  | 1.3         | 1             |
-| 🔴 Kháng cự     |    29.7   | 1.42        | 1             |
+| 🔴 Kháng cự    |    35.8   | 1.2         | 1             |
+| 🔴 Kháng cự    |    31.85  | 1.3         | 1             |
+| 🔴 Kháng cự    |    29.7   | 1.42        | 1             |
 | ▶ Giá hiện tại |    28     | —           | —             |
-| 🟢 Hỗ trợ       |    27.84  | 2.62        | 2             |
-| 🟢 Hỗ trợ       |    26.35  | 0.87        | 1             |
-| 🟢 Hỗ trợ       |    25.613 | 1.78        | 2             |
+| 🟢 Hỗ trợ      |    27.84  | 2.62        | 2             |
+| 🟢 Hỗ trợ      |    26.35  | 0.88        | 1             |
+| 🟢 Hỗ trợ      |    25.613 | 1.79        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -82,7 +82,7 @@
 | beta | 0.33 |
 | dividend | 1500 |
 | yield | 0.05357142857142857 |
-| pe_pct_rank | 51 |
+| pe_pct_rank | 50 |
 | pb_pct_rank | 64 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -104,7 +104,7 @@
 
 | title                                                                                | publishtime             | url                                                                                                          |
 |:-------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------|
-| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                        | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                           |
+| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                          | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                           |
 | DPM đồng hành cùng Lễ hội Sầu riêng Đắk Lắk 2026: Khởi đầu từ hoạt động thụ phấn hoa | 2026-04-20T11:20:32.49  | /2026/04/dpm-dong-hanh-cung-le-hoi-sau-rieng-dak-lak-2026-khoi-dau-tu-hoat-dong-thu-phan-hoa-735-1429993.htm |
 | DPM khởi công dự án điện mặt trời mái nhà kho 20,000 tấn tại Nhà máy Đạm Phú Mỹ      | 2026-04-20T10:48:54.797 | /2026/04/dpm-khoi-cong-du-an-dien-mat-troi-mai-nha-kho-20000-tan-tai-nha-may-dam-phu-my-737-1429942.htm      |
 | Nhà máy đạm Phú Mỹ: 22 năm vững nền tảng, bứt tốc cùng lộ trình sản xuất thông minh  | 2026-04-17T15:33:46.917 | /2026/04/nha-may-dam-phu-my-22-nam-vung-nen-tang-but-toc-cung-lo-trinh-san-xuat-thong-minh-737-1429198.htm   |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      200 | Sell         | 467009225 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |     1000 | Sell         | 467009232 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009227 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009228 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009230 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      600 | Sell         | 467009231 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009226 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |     2000 | Sell         | 467009229 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009236 |
-| DPM      | 2026-04-22 14:24:44 |   27.95 |      100 | Sell         | 467009237 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

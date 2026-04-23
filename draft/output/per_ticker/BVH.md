@@ -1,6 +1,6 @@
 # BVH — Tập đoàn Bảo Việt
 **Sàn:** HOSE  |  **Ngành:** Bảo hiểm
-> 📅 Daily: 22/04/2026 22:24  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 23/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 13:38
 
 ---
 
@@ -40,9 +40,9 @@
 | MA5 | 72.08 |
 | MA10 | 74.09 |
 | EMA20 | 76.045 |
-| EMA50 | 75.605 |
+| EMA50 | 75.601 |
 | Slope MA20 (5p, %) | -3.38 |
-| ATR(14) | 3.391 |
+| ATR(14) | 3.39 |
 | RSI(14) | 37.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
@@ -58,13 +58,13 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |      84.5 | 0.96        | 1             |
-| 🔴 Kháng cự     |      78.5 | 0.87        | 1             |
-| 🔴 Kháng cự     |      72   | 1.01        | 1             |
+| 🔴 Kháng cự    |      84.5 | 0.97        | 1             |
+| 🔴 Kháng cự    |      78.5 | 0.88        | 1             |
+| 🔴 Kháng cự    |      72   | 1.01        | 1             |
 | ▶ Giá hiện tại |      70.8 | —           | —             |
-| 🟢 Hỗ trợ       |      70.5 | 1.17        | 1             |
-| 🟢 Hỗ trợ       |      66.6 | 0.92        | 1             |
-| 🟢 Hỗ trợ       |      57   | 0.55        | 1             |
+| 🟢 Hỗ trợ      |      70.5 | 1.18        | 1             |
+| 🟢 Hỗ trợ      |      66.6 | 0.93        | 1             |
+| 🟢 Hỗ trợ      |      57   | 0.56        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -108,7 +108,7 @@
 | BVH: Thông báo đường dẫn báo cáo thường niên năm 2025                                        | 2026-04-21T17:58:49    | /2026/04/bvh-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1431517.htm                                       |
 | BVH: Thông báo giao dịch cổ phiếu của người nội bộ Vũ Thanh Hải                              | 2026-04-08T16:23:11    | /2026/04/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-vu-thanh-hai-830-1425024.htm                             |
 | BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                                             | 2026-04-06T09:29:25    | /2026/04/bvh-quyet-dinh-cua-hdqt-ve-viec-bo-nhiem-can-bo-214-1423187.htm                                            |
-| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ                                      | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm                                         |
+| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ                                         | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm                                         |
 | BVH: BCTC năm 2025                                                                           | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-nam-2025-737-1419929.htm                                                                          |
 | BVH: BCTC Hợp nhất năm 2025                                                                  | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-hop-nhat-nam-2025-737-1419932.htm                                                                 |
 | BVH: CBTT giao dịch với người có liên quan                                                   | 2026-03-27T18:29:35    | /2026/03/bvh-cbtt-giao-dich-voi-nguoi-co-lien-quan-739-1418032.htm                                                  |
@@ -226,18 +226,7 @@ _Không có dữ liệu_
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-| ticker   | time                |   price |   volume | match_type   |        id |
-|:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BVH      | 2026-04-22 14:09:12 |    71   |      300 | Buy          | 466960443 |
-| BVH      | 2026-04-22 14:09:17 |    71.1 |      100 | Buy          | 466960736 |
-| BVH      | 2026-04-22 14:10:27 |    70.9 |      200 | Sell         | 466963525 |
-| BVH      | 2026-04-22 14:10:27 |    70.9 |      500 | Sell         | 466963524 |
-| BVH      | 2026-04-22 14:13:08 |    71   |      100 | Buy          | 466969930 |
-| BVH      | 2026-04-22 14:14:01 |    71   |      100 | Sell         | 466972017 |
-| BVH      | 2026-04-22 14:15:31 |    71.1 |      400 | Buy          | 466976361 |
-| BVH      | 2026-04-22 14:15:40 |    71.1 |      100 | Buy          | 466976704 |
-| BVH      | 2026-04-22 14:16:00 |    71.2 |      100 | Buy          | 466977963 |
-| BVH      | 2026-04-22 14:16:02 |    71.2 |      100 | Buy          | 466978106 |
+_Không có dữ liệu_
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # GVR — Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 22/04/2026 22:27  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 23/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | GVR |
 | exchange | HOSE |
-| market_cap | 131000000000000 |
+| market_cap | 130400000000000 |
 | 52w_high | 45750 |
 | 52w_high_date | 2026-03-03 |
-| 52w_low | 22825 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 0.6668 |
+| 52w_low | 23170 |
+| 52w_low_date | 2025-04-28 |
+| foreign_ownership | 0.66 |
 | dividend | 400 |
-| beta | 1.06 |
+| beta | 1.05 |
 | eps | 1372 |
-| eps_forward | 26.25653397667873 |
+| eps_forward | 26.336952151186168 |
 | bvps | 15638 |
-| pe | 23.80 |
+| pe | 23.87 |
 | pb | 2.09 |
-| price_chg_1m | 6.50 |
-| price_chg_ytd | 48.96 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
-| yield | 0.012213740458015267 |
+| price_chg_1m | 13.99 |
+| price_chg_ytd | 42.83 |
+| price_chg_1m_rank | 15.00 |
+| price_chg_ytd_rank | 53.97 |
+| yield | 0.012269938650306749 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,42 +36,42 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.75 |
-| MA5 | 32.82 |
-| MA10 | 32.885 |
-| EMA20 | 32.841 |
-| EMA50 | 33.57 |
-| Slope MA20 (5p, %) | -0.04 |
-| ATR(14) | 1.435 |
-| RSI(14) | 48.4 |
+| Giá đóng cửa | 32.6 |
+| MA5 | 32.9 |
+| MA10 | 32.865 |
+| EMA20 | 32.818 |
+| EMA50 | 33.532 |
+| Slope MA20 (5p, %) | 0.08 |
+| ATR(14) | 1.429 |
+| RSI(14) | 47.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.325 |
-| MACD Signal | -0.559 |
-| MACD Histogram | 0.235 |
+| MACD | -0.311 |
+| MACD Signal | -0.51 |
+| MACD Histogram | 0.199 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 5717092 |
+| KL avg 60 phiên | 5645857 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     35.1  | 1.04        | 1             |
-| 🔴 Kháng cự     |     34.15 | 1.42        | 1             |
-| 🔴 Kháng cự     |     33.5  | 1.32        | 1             |
-| ▶ Giá hiện tại |     32.75 | —           | —             |
-| 🟢 Hỗ trợ       |     31.9  | 1.44        | 1             |
-| 🟢 Hỗ trợ       |     30.5  | 1.37        | 1             |
-| 🟢 Hỗ trợ       |     28.6  | 2.53        | 2             |
+| 🔴 Kháng cự    |     35.1  | 1.03        | 1             |
+| 🔴 Kháng cự    |     34.15 | 1.41        | 1             |
+| 🔴 Kháng cự    |     33.5  | 1.31        | 1             |
+| ▶ Giá hiện tại |     32.6  | —           | —             |
+| 🟢 Hỗ trợ      |     31.9  | 1.43        | 1             |
+| 🟢 Hỗ trợ      |     30.5  | 1.36        | 1             |
+| 🟢 Hỗ trợ      |     28.6  | 2.51        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GVR |
-| pe | 23.80 |
+| pe | 23.87 |
 | pb | 2.09 |
 | roe | 10.51 |
 | roe_pct_rank | 48 |
@@ -79,9 +79,9 @@
 | roa_pct_rank | 56 |
 | eps | 1372 |
 | bvps | 15638 |
-| beta | 1.06 |
+| beta | 1.05 |
 | dividend | 400 |
-| yield | 0.012213740458015267 |
+| yield | 0.012269938650306749 |
 | pe_pct_rank | 74 |
 | pb_pct_rank | 76 |
 | financial_date | 12/2025 |
@@ -91,13 +91,13 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-16 | 2608700 | -54.4%     | 0.065%         |
-| 2026-04-17 | 7670800 | +34.2%     | 0.192%         |
-| 2026-04-20 | 2060200 | -64.0%     | 0.052%         |
-| 2026-04-21 | 2498000 | -56.3%     | 0.062%         |
-| 2026-04-22 | 1974400 | -65.5%     | 0.049%         |
+| 2026-04-17 | 7670800 | +35.9%     | 0.192%         |
+| 2026-04-20 | 2060200 | -63.5%     | 0.052%         |
+| 2026-04-21 | 2498000 | -55.8%     | 0.062%         |
+| 2026-04-22 | 1974400 | -65.0%     | 0.049%         |
+| 2026-04-23 | 2807500 | -50.3%     | 0.070%         |
 
-- KL trung bình 60 phiên: **5,717,091**
+- KL trung bình 60 phiên: **5,645,856**
 - Số CP lưu hành: **4,000,000,000**
 
 ## Tin tức gần nhất (Top 10)
@@ -109,10 +109,10 @@
 | GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57     | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
 | GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
 | GVR: BCTC Tóm tắt Hợp nhất năm 2025                                                                                       | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-hop-nhat-nam-2025-737-1419161.htm                                                               |
-| Phân tích kỹ thuật phiên chiều 23/03: Điều chỉnh mạnh                                                                  | 2026-03-23T13:10:11.82  | /2026/03/phan-tich-ky-thuat-phien-chieu-2303-dieu-chinh-manh-585-1415026.htm                                              |
+| Phân tích kỹ thuật phiên chiều 23/03: Điều chỉnh mạnh                                                                     | 2026-03-23T13:10:11.82  | /2026/03/phan-tich-ky-thuat-phien-chieu-2303-dieu-chinh-manh-585-1415026.htm                                              |
 | Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                                      | 2026-03-18T11:02:00     | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
 | Tập đoàn Cao su Việt Nam đặt mục tiêu doanh thu 2 tỷ USD sau năm 2030                                                     | 2026-02-27T22:05:00     | /2026/02/tap-doan-cao-su-viet-nam-dat-muc-tieu-doanh-thu-2-ty-usd-sau-nam-2030-737-1406648.htm                            |
-| Phân tích kỹ thuật phiên chiều 24/02: Giằng co mạnh                                                                     | 2026-02-24T13:14:50.463 | /2026/02/phan-tich-ky-thuat-phien-chieu-2402-giang-co-manh-585-1405019.htm                                                |
+| Phân tích kỹ thuật phiên chiều 24/02: Giằng co mạnh                                                                       | 2026-02-24T13:14:50.463 | /2026/02/phan-tich-ky-thuat-phien-chieu-2402-giang-co-manh-585-1405019.htm                                                |
 | Cổ phiếu Tập đoàn Công nghiệp Cao su thăng hoa, nhưng lợi nhuận giảm gần nửa trong quý 4/2025                             | 2026-02-03T11:03:57.33  | /2026/02/co-phieu-tap-doan-cong-nghiep-cao-su-thang-hoa-nhung-loi-nhuan-giam-gan-nua-trong-quy-42025-737-1399433.htm      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
@@ -133,7 +133,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GVR      | 2025-12-09 00:00:00 |  26.9  |  27.15 | 26.55 |   26.9  |  2669000 |
 | GVR      | 2025-12-10 00:00:00 |  26.8  |  27.1  | 26.75 |   26.75 |  1098300 |
 | GVR      | 2025-12-11 00:00:00 |  26.8  |  27    | 26.6  |   26.65 |  1028300 |
 | GVR      | 2025-12-12 00:00:00 |  26.7  |  26.8  | 25.1  |   25.3  |  2898000 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | GVR      | 2026-04-20 00:00:00 |  33.5  |  33.75 | 32.85 |   33    |  2060200 |
 | GVR      | 2026-04-21 00:00:00 |  33    |  33.2  | 32.45 |   32.65 |  2498000 |
 | GVR      | 2026-04-22 00:00:00 |  32.8  |  32.8  | 32.2  |   32.75 |  1974400 |
+| GVR      | 2026-04-23 00:00:00 |  32.9  |  33.45 | 32.1  |   32.6  |  2807500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GVR      | 2026-04-22 14:25:18 |    32.6 |     2000 | Sell         | 467011287 |
-| GVR      | 2026-04-22 14:25:21 |    32.6 |     8800 | Sell         | 467011555 |
-| GVR      | 2026-04-22 14:25:21 |    32.6 |     3800 | Sell         | 467011532 |
-| GVR      | 2026-04-22 14:25:21 |    32.6 |     1200 | Sell         | 467011533 |
-| GVR      | 2026-04-22 14:25:35 |    32.6 |      200 | Buy          | 467012909 |
-| GVR      | 2026-04-22 14:25:35 |    32.6 |      400 | Buy          | 467012913 |
-| GVR      | 2026-04-22 14:25:44 |    32.6 |      100 | Buy          | 467013606 |
-| GVR      | 2026-04-22 14:25:44 |    32.6 |     4900 | Buy          | 467013607 |
-| GVR      | 2026-04-22 14:25:50 |    32.6 |      100 | Buy          | 467013917 |
-| GVR      | 2026-04-22 14:25:50 |    32.6 |      300 | Buy          | 467013918 |
+| GVR      | 2026-04-23 14:21:03 |   32.3  |      200 | Sell         | 467798737 |
+| GVR      | 2026-04-23 14:21:16 |   32.45 |     1000 | Buy          | 467799856 |
+| GVR      | 2026-04-23 14:21:30 |   32.45 |      100 | Buy          | 467801210 |
+| GVR      | 2026-04-23 14:21:37 |   32.45 |      600 | Buy          | 467801742 |
+| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Buy          | 467802738 |
+| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Buy          | 467802740 |
+| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Sell         | 467802755 |
+| GVR      | 2026-04-23 14:21:57 |   32.5  |     1000 | Buy          | 467803469 |
+| GVR      | 2026-04-23 14:21:57 |   32.5  |      800 | Buy          | 467803470 |
+| GVR      | 2026-04-23 14:21:57 |   32.5  |     1200 | Sell         | 467803505 |
 
 <!-- END:DAILY -->
 
