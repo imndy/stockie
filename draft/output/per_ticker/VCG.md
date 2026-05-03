@@ -1,6 +1,6 @@
 # VCG — Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 23/04/2026 19:39  |  🗂 Quarterly: 05/04/2026 20:04
+> 📅 Daily: 03/05/2026 14:02  |  🗂 Quarterly: 05/04/2026 20:04
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VCG |
 | exchange | HOSE |
-| market_cap | 14674831227200 |
+| market_cap | 14319273642400 |
 | 52w_high | 28600 |
 | 52w_high_date | 2025-09-15 |
 | 52w_low | 18200 |
 | 52w_low_date | 2026-02-06 |
-| foreign_ownership | 2.3704 |
+| foreign_ownership | 2.2255 |
 | dividend | 800 |
-| beta | 0.84 |
+| beta | 0.81 |
 | eps | 6406 |
-| eps_forward | 11.663362496228936 |
+| eps_forward | 13.746025808864784 |
 | bvps | 19320 |
-| pe | 3.38 |
-| pb | 1.12 |
-| price_chg_1m | 9.40 |
-| price_chg_ytd | 17.39 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.03524229074889868 |
+| pe | 3.44 |
+| pb | 1.14 |
+| price_chg_1m | 3.50 |
+| price_chg_ytd | 16.43 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.03611738148984198 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,53 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.7 |
-| MA5 | 22.16 |
-| MA10 | 22.36 |
-| EMA20 | 22.086 |
-| EMA50 | 21.726 |
-| Slope MA20 (5p, %) | 0.24 |
-| ATR(14) | 0.885 |
-| RSI(14) | 56.3 |
+| Giá đóng cửa | 22.15 |
+| MA5 | 22.29 |
+| MA10 | 22.23 |
+| EMA20 | 22.153 |
+| EMA50 | 21.811 |
+| Slope MA20 (5p, %) | 0.42 |
+| ATR(14) | 0.843 |
+| RSI(14) | 51.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.234 |
-| MACD Signal | 0.299 |
-| MACD Histogram | -0.065 |
+| MACD | 0.203 |
+| MACD Signal | 0.265 |
+| MACD Histogram | -0.062 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 11360050 |
+| KL avg 60 phiên | 10734913 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    24.415 | 2.03        | 2             |
-| 🔴 Kháng cự    |    23.45  | 2.79        | 2             |
-| ▶ Giá hiện tại |    22.7   | —           | —             |
-| 🟢 Hỗ trợ      |    22.4   | 0.6         | 1             |
-| 🟢 Hỗ trợ      |    21.35  | 0.77        | 1             |
-| 🟢 Hỗ trợ      |    20.95  | 1.35        | 1             |
+| 🔴 Kháng cự    |    24.415 | 1.96        | 2             |
+| 🔴 Kháng cự    |    23.45  | 2.73        | 2             |
+| 🔴 Kháng cự    |    22.4   | 0.56        | 1             |
+| ▶ Giá hiện tại |    22.15  | —           | —             |
+| 🟢 Hỗ trợ      |    21.35  | 0.73        | 1             |
+| 🟢 Hỗ trợ      |    20.95  | 1.32        | 1             |
+| 🟢 Hỗ trợ      |    20.2   | 1.23        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VCG |
-| pe | 3.38 |
-| pb | 1.12 |
+| pe | 3.44 |
+| pb | 1.14 |
 | roe | 35.13 |
 | roe_pct_rank | 100 |
 | roa | 12.9 |
 | roa_pct_rank | 78 |
 | eps | 6406 |
 | bvps | 19320 |
-| beta | 0.84 |
+| beta | 0.81 |
 | dividend | 800 |
-| yield | 0.03524229074889868 |
+| yield | 0.03611738148984198 |
 | pe_pct_rank | 28 |
-| pb_pct_rank | 48 |
+| pb_pct_rank | 49 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -90,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-17 |  4769200 | -58.0%     | 0.738%         |
-| 2026-04-20 |  5261900 | -53.7%     | 0.814%         |
-| 2026-04-21 |  5166700 | -54.5%     | 0.799%         |
-| 2026-04-22 |  6173400 | -45.7%     | 0.955%         |
-| 2026-04-23 | 13148200 | +15.7%     | 2.034%         |
+| 2026-04-22 |  6173400 | -42.5%     | 0.955%         |
+| 2026-04-23 | 13148200 | +22.5%     | 2.034%         |
+| 2026-04-24 | 13720000 | +27.8%     | 2.122%         |
+| 2026-04-28 | 10678100 | -0.5%      | 1.652%         |
+| 2026-04-29 |  5437900 | -49.3%     | 0.841%         |
 
-- KL trung bình 60 phiên: **11,360,050**
+- KL trung bình 60 phiên: **10,734,913**
 - Số CP lưu hành: **646,468,336**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Vinaconex muốn nắm 48% Giày Thượng Đình, tính rót vào thêm hơn ngàn tỷ                                   | 2026-04-23T16:08:47.753 | /2026/04/vinaconex-muon-nam-48-giay-thuong-dinh-tinh-rot-vao-them-hon-ngan-ty-737-1432531.htm                             |
-| VCG: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T08:54:38     | /2026/04/vcg-bao-cao-thuong-nien-nam-2025-737-1430926.htm                                                                 |
-| VCG: Quyết định của HĐQT về việc tiếp thục giảm tỷ lệ sở hữu vốn tại VIWASEEN                            | 2026-04-20T15:00:47     | /2026/04/vcg-quyet-dinh-cua-hdqt-ve-viec-tiep-thuc-giam-ty-le-so-huu-von-tai-viwaseen-739-1430352.htm                     |
-| VCG: Quyết định của HĐQT về việc mua cổ phần Công ty Cổ phần Giầy Thượng Đình                            | 2026-04-20T14:59:05     | /2026/04/vcg-quyet-dinh-cua-hdqt-ve-viec-mua-co-phan-cong-ty-co-phan-giay-thuong-dinh-739-1430409.htm                     |
-| Cổ phiếu VIW tăng 130% sau khi ông Tô Dũng làm Chủ tịch, VCG muốn thoái hơn 70% vốn                      | 2026-04-18T19:26:26.5   | /2026/04/co-phieu-viw-tang-130-sau-khi-ong-to-dung-lam-chu-tich-vcg-muon-thoai-hon-70-von-739-1429767.htm                 |
-| VCG: Nghị quyết HĐQT về việc mua cổ phần tại Công ty Cổ phần Y tế Aegis                                  | 2026-04-16T09:07:45     | /2026/04/vcg-nghi-quyet-hdqt-ve-viec-mua-co-phan-tai-cong-ty-co-phan-y-te-aegis-737-1428360.htm                           |
-| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
-| Cổ đông chi phối Vinaconex đề cử 2 ứng viên vào HĐQT                                                     | 2026-04-15T16:49:09.77  | /2026/04/co-dong-chi-phoi-vinaconex-de-cu-2-ung-vien-vao-hdqt-214-1428027.htm                                             |
-| Đối mặt áp lực chi phí, Vinaconex dự kiến lãi 2026 giảm hơn 70% sau năm lập đỉnh                         | 2026-04-03T17:25:08.98  | /2026/04/doi-mat-ap-luc-chi-phi-vinaconex-du-kien-lai-2026-giam-hon-70-sau-nam-lap-dinh-737-1422621.htm                   |
-| VCG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                 | 2026-04-03T14:28:58     | /2026/04/vcg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422556.htm                                                          |
+| title                                                                                | publishtime             | url                                                                                                          |
+|:-------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------|
+| Lợi nhuận quý 1 Vinaconex tăng 176%, thay Tổng Giám đốc mới                          | 2026-04-30T13:57:16.78  | /2026/04/loi-nhuan-quy-1-vinaconex-tang-176-thay-tong-giam-doc-moi-737-1436332.htm                           |
+| VCG: Giải trình chênh lệch LNST BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước | 2026-04-29T17:12:19     | /2026/04/vcg-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435865.htm |
+| VCG: Thông báo thay đổi nhân sự                                                      | 2026-04-29T15:39:40     | /2026/04/vcg-thong-bao-thay-doi-nhan-su-214-1436330.htm                                                      |
+| VCG: Điều lệ công ty sửa đổi                                                         | 2026-04-28T17:17:06     | /2026/04/vcg-dieu-le-cong-ty-sua-doi-737-1434951.htm                                                         |
+| VCG: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                           | 2026-04-28T10:22:22     | /2026/04/vcg-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1434387.htm                           |
+| VCG: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm thành viên HĐQT             | 2026-04-28T10:21:38     | /2026/04/vcg-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-thanh-vien-hdqt-214-1434385.htm               |
+| VCG: BCTC quý 1 năm 2026                                                             | 2026-04-27T00:00:00     | /2026/04/vcg-bctc-quy-1-nam-2026-737-1435842.htm                                                             |
+| VCG: BCTC Hợp nhất quý 1 năm 2026                                                    | 2026-04-27T00:00:00     | /2026/04/vcg-bctc-hop-nhat-quy-1-nam-2026-737-1435843.htm                                                    |
+| Vinaconex muốn nắm 48% vốn Giày Thượng Đình, tính rót vào thêm hơn ngàn tỷ           | 2026-04-23T16:08:47.753 | /2026/04/vinaconex-muon-nam-48-von-giay-thuong-dinh-tinh-rot-vao-them-hon-ngan-ty-737-1432531.htm            |
+| VCG: Báo cáo thường niên năm 2025                                                    | 2026-04-21T08:54:38     | /2026/04/vcg-bao-cao-thuong-nien-nam-2025-737-1430926.htm                                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | -0.28% |
-| % Cổ phiếu hôm nay | -1.59% |
-| RS (CP − Ngành) | -1.31% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +0.43% |
+| % Cổ phiếu hôm nay | +0.45% |
+| RS (CP − Ngành) | +0.02% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCG      | 2025-12-10 00:00:00 |  24.65 |  24.8  | 24.2  |   24.25 |  3534200 |
-| VCG      | 2025-12-11 00:00:00 |  24.25 |  24.55 | 24.2  |   24.35 |  2725400 |
-| VCG      | 2025-12-12 00:00:00 |  24.4  |  24.45 | 23.1  |   23.1  |  6353700 |
 | VCG      | 2025-12-15 00:00:00 |  23.25 |  23.3  | 22.9  |   22.9  |  3185900 |
 | VCG      | 2025-12-16 00:00:00 |  23.05 |  23.6  | 22.4  |   23.5  |  5535200 |
 | VCG      | 2025-12-17 00:00:00 |  23.45 |  24.05 | 23.45 |   23.8  |  2965900 |
@@ -222,21 +220,24 @@ _Không có dữ liệu_
 | VCG      | 2026-04-21 00:00:00 |  22.35 |  22.45 | 22    |   22    |  5166700 |
 | VCG      | 2026-04-22 00:00:00 |  21.9  |  22.1  | 21.65 |   21.65 |  6173400 |
 | VCG      | 2026-04-23 00:00:00 |  21.8  |  23    | 21.55 |   22.7  | 13148200 |
+| VCG      | 2026-04-24 00:00:00 |  22.9  |  23.3  | 22.55 |   22.9  | 13720000 |
+| VCG      | 2026-04-28 00:00:00 |  22.8  |  22.85 | 22    |   22.05 | 10678100 |
+| VCG      | 2026-04-29 00:00:00 |  22.15 |  22.4  | 22    |   22.15 |  5437900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCG      | 2026-04-23 14:29:05 |   22.65 |     1000 | Sell         | 467841022 |
-| VCG      | 2026-04-23 14:29:05 |   22.65 |     1900 | Sell         | 467841026 |
-| VCG      | 2026-04-23 14:29:05 |   22.65 |      500 | Sell         | 467841023 |
-| VCG      | 2026-04-23 14:29:05 |   22.65 |     4000 | Sell         | 467841024 |
-| VCG      | 2026-04-23 14:29:05 |   22.65 |     2000 | Sell         | 467841025 |
-| VCG      | 2026-04-23 14:29:06 |   22.65 |     1000 | Buy          | 467841192 |
-| VCG      | 2026-04-23 14:29:06 |   22.65 |     5000 | Buy          | 467841130 |
-| VCG      | 2026-04-23 14:29:07 |   22.65 |     2500 | Buy          | 467841233 |
-| VCG      | 2026-04-23 14:29:07 |   22.65 |      200 | Sell         | 467841260 |
-| VCG      | 2026-04-23 14:29:08 |   22.7  |     2000 | Buy          | 467841400 |
+| VCG      | 2026-04-29 14:28:12 |   22.15 |      300 | Sell         | 469468497 |
+| VCG      | 2026-04-29 14:28:12 |   22.15 |      100 | Sell         | 469468498 |
+| VCG      | 2026-04-29 14:28:12 |   22.15 |     8700 | Sell         | 469468499 |
+| VCG      | 2026-04-29 14:28:19 |   22.15 |      100 | Sell         | 469469003 |
+| VCG      | 2026-04-29 14:28:21 |   22.15 |      500 | Sell         | 469469185 |
+| VCG      | 2026-04-29 14:28:22 |   22.15 |      700 | Sell         | 469469303 |
+| VCG      | 2026-04-29 14:28:22 |   22.15 |      900 | Sell         | 469469304 |
+| VCG      | 2026-04-29 14:28:25 |   22.15 |      300 | Sell         | 469469478 |
+| VCG      | 2026-04-29 14:28:25 |   22.15 |      100 | Sell         | 469469474 |
+| VCG      | 2026-04-29 14:28:25 |   22.15 |     6000 | Sell         | 469469475 |
 
 <!-- END:DAILY -->
 

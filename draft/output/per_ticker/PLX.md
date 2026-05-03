@@ -1,6 +1,6 @@
 # PLX — Tập đoàn Xăng Dầu Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Bán buôn
-> 📅 Daily: 23/04/2026 19:36  |  🗂 Quarterly: 05/04/2026 12:21
+> 📅 Daily: 03/05/2026 13:58  |  🗂 Quarterly: 05/04/2026 12:21
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PLX |
 | exchange | HOSE |
-| market_cap | 49934274835500 |
+| market_cap | 47202501530250 |
 | 52w_high | 69500 |
 | 52w_high_date | 2026-03-04 |
 | 52w_low | 32414 |
 | 52w_low_date | 2025-05-07 |
-| foreign_ownership | 14.4338 |
+| foreign_ownership | 14.359 |
 | dividend | 1200 |
-| beta | 0.83 |
+| beta | 0.77 |
 | eps | 2057 |
-| eps_forward | 15.76910791326182 |
+| eps_forward | 14.144623511847797 |
 | bvps | 23199 |
-| pe | 18.96 |
-| pb | 1.68 |
-| price_chg_1m | -4.15 |
-| price_chg_ytd | 21.43 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.030534351145038167 |
+| pe | 17.96 |
+| pb | 1.59 |
+| price_chg_1m | -7.59 |
+| price_chg_ytd | 13.26 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.03230148048452221 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,53 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 39.3 |
-| MA5 | 39.41 |
-| MA10 | 39.795 |
-| EMA20 | 40.933 |
-| EMA50 | 44.393 |
-| Slope MA20 (5p, %) | -2.41 |
-| ATR(14) | 1.825 |
-| RSI(14) | 39.4 |
+| Giá đóng cửa | 37.15 |
+| MA5 | 38.42 |
+| MA10 | 38.975 |
+| EMA20 | 40.133 |
+| EMA50 | 43.686 |
+| Slope MA20 (5p, %) | -2.89 |
+| ATR(14) | 1.856 |
+| RSI(14) | 34.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -2.085 |
-| MACD Signal | -2.526 |
-| MACD Histogram | 0.441 |
+| MACD | -2.053 |
+| MACD Signal | -2.277 |
+| MACD Histogram | 0.224 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 6797347 |
+| KL avg 60 phiên | 6405623 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    50.5   | 1.01        | 1             |
-| 🔴 Kháng cự    |    43     | 1.3         | 1             |
-| 🔴 Kháng cự    |    42     | 1.4         | 1             |
-| ▶ Giá hiện tại |    39.3   | —           | —             |
-| 🟢 Hỗ trợ      |    38.509 | 2.62        | 2             |
-| 🟢 Hỗ trợ      |    33.3   | 0.6         | 1             |
+| 🔴 Kháng cự    |    43     | 1.27        | 1             |
+| 🔴 Kháng cự    |    42     | 1.36        | 1             |
+| 🔴 Kháng cự    |    38.509 | 2.56        | 2             |
+| ▶ Giá hiện tại |    37.15  | —           | —             |
+| 🟢 Hỗ trợ      |    33.3   | 0.56        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PLX |
-| pe | 18.96 |
-| pb | 1.68 |
+| pe | 17.96 |
+| pb | 1.59 |
 | roe | 10.34 |
 | roe_pct_rank | 48 |
 | roa | 3.22 |
 | roa_pct_rank | 42 |
 | eps | 2057 |
 | bvps | 23199 |
-| beta | 0.83 |
+| beta | 0.77 |
 | dividend | 1200 |
-| yield | 0.030534351145038167 |
-| pe_pct_rank | 63 |
-| pb_pct_rank | 64 |
+| yield | 0.03230148048452221 |
+| pe_pct_rank | 61 |
+| pb_pct_rank | 62 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -90,29 +89,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 2901300 | -57.3%     | 0.228%         |
-| 2026-04-20 | 1765400 | -74.0%     | 0.139%         |
-| 2026-04-21 | 1986400 | -70.8%     | 0.156%         |
-| 2026-04-22 | 1910900 | -71.9%     | 0.150%         |
-| 2026-04-23 | 3786500 | -44.3%     | 0.298%         |
+| 2026-04-22 | 1910900 | -70.2%     | 0.150%         |
+| 2026-04-23 | 3786500 | -40.9%     | 0.298%         |
+| 2026-04-24 | 6401800 | -0.1%      | 0.504%         |
+| 2026-04-28 | 6503400 | +1.5%      | 0.512%         |
+| 2026-04-29 | 3564100 | -44.4%     | 0.281%         |
 
-- KL trung bình 60 phiên: **6,797,346**
+- KL trung bình 60 phiên: **6,405,623**
 - Số CP lưu hành: **1,270,592,235**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime            | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| PLX: Báo cáo thường niên năm 2025                                                              | 2026-04-21T17:15:25    | /2026/04/plx-bao-cao-thuong-nien-nam-2025-737-1431437.htm                                                              |
-| PLX: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đào Thị Thu Hà | 2026-04-17T17:05:10    | /2026/04/plx-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dao-thi-thu-ha-739-1429449.htm |
-| Petrolimex không còn đáp ứng điều kiện công ty đại chúng                                       | 2026-04-14T18:32:00    | /2026/04/petrolimex-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-741-1427539.htm                                      |
-| PLX: Thông báo về việc không đáp ứng điều kiện công ty đại chúng                               | 2026-04-14T15:33:30    | /2026/04/plx-thong-bao-ve-viec-khong-dap-ung-dieu-kien-cong-ty-dai-chung-830-1427438.htm                               |
-| Petrolimex: Tác động của xe điện sẽ dần mạnh mẽ hơn, làm giảm sản lượng xăng thành phố         | 2026-04-08T09:45:30.19 | /2026/04/petrolimex-tac-dong-cua-xe-dien-se-dan-manh-me-hon-lam-giam-san-luong-xang-thanh-pho-737-1424337.htm          |
-| PLX: Thư mời tham dự và link tài liệu họp ĐHĐCĐ TN 2026                                        | 2026-04-03T17:56:04    | /2026/04/plx-thu-moi-tham-du-va-link-tai-lieu-hop-dhdcd-tn-2026-737-1422835.htm                                        |
-| PLX: Giải trình BCTC năm 2025 so với cùng kỳ năm trước                                         | 2026-04-02T17:48:44    | /2026/04/plx-giai-trinh-bctc-nam-2025-so-voi-cung-ky-nam-truoc-737-1422038.htm                                         |
-| PLX: BCTC Hợp nhất năm 2025                                                                    | 2026-03-31T00:00:00    | /2026/03/plx-bctc-hop-nhat-nam-2025-737-1420869.htm                                                                    |
-| PLX: BCTC năm 2025                                                                             | 2026-03-31T00:00:00    | /2026/03/plx-bctc-nam-2025-737-1420870.htm                                                                             |
-| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                           | 2026-03-18T11:02:00    | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                           |
+| title                                                                                                       | publishtime            | url                                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PLX: Thông báo thay đổi nhân sự                                                                             | 2026-04-29T11:24:23    | /2026/04/plx-thong-bao-thay-doi-nhan-su-214-1435401.htm                                                                   |
+| PLX: Biên bản họp BKS về việc bầu Trưởng BKS                                                                | 2026-04-28T17:49:07    | /2026/04/plx-bien-ban-hop-bks-ve-viec-bau-truong-bks-830-1435039.htm                                                      |
+| PLX: Nghị quyết HĐQT về việc bầu Chủ tịch HĐQT                                                              | 2026-04-28T15:25:09    | /2026/04/plx-nghi-quyet-hdqt-ve-viec-bau-chu-tich-hdqt-737-1434717.htm                                                    |
+| PLX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-28T14:45:43    | /2026/04/plx-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1435090.htm                                            |
+| ĐHĐCĐ Petrolimex: Mảng xăng dầu quý 1 lỗ hơn 1,000 tỷ đồng, sắp ra mắt công ty mới liên quan pin và xe điện | 2026-04-24T17:59:00    | /2026/04/dhdcd-petrolimex-mang-xang-dau-quy-1-lo-hon-1000-ty-dong-sap-ra-mat-cong-ty-moi-lien-quan-pin-va-xe-dien-737-14… |
+| PLX: Báo cáo thường niên năm 2025                                                                           | 2026-04-21T17:15:25    | /2026/04/plx-bao-cao-thuong-nien-nam-2025-737-1431437.htm                                                                 |
+| PLX: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đào Thị Thu Hà              | 2026-04-17T17:05:10    | /2026/04/plx-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dao-thi-thu-ha-739-1429449.htm    |
+| Petrolimex không còn đáp ứng điều kiện công ty đại chúng                                                    | 2026-04-14T18:32:00    | /2026/04/petrolimex-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-741-1427539.htm                                         |
+| PLX: Thông báo về việc không đáp ứng điều kiện công ty đại chúng                                            | 2026-04-14T15:33:30    | /2026/04/plx-thong-bao-ve-viec-khong-dap-ung-dieu-kien-cong-ty-dai-chung-830-1427438.htm                                  |
+| Petrolimex: Tác động của xe điện sẽ dần mạnh mẽ hơn, làm giảm sản lượng xăng thành phố                      | 2026-04-08T09:45:30.19 | /2026/04/petrolimex-tac-dong-cua-xe-dien-se-dan-manh-me-hon-lam-giam-san-luong-xang-thanh-pho-737-1424337.htm             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,18 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bán buôn |
-| % Ngành hôm nay | -0.55% |
-| % Cổ phiếu hôm nay | -0.89% |
-| RS (CP − Ngành) | -0.34% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.13% |
+| % Cổ phiếu hôm nay | +0.54% |
+| RS (CP − Ngành) | +0.67% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PLX      | 2025-12-10 00:00:00 |  35.1  |  35.1  | 34.5  |   34.6  |  1073800 |
-| PLX      | 2025-12-11 00:00:00 |  34.7  |  34.8  | 34.35 |   34.4  |   898200 |
-| PLX      | 2025-12-12 00:00:00 |  34.4  |  34.45 | 33.5  |   33.7  |  1618800 |
 | PLX      | 2025-12-15 00:00:00 |  33.85 |  33.9  | 33.6  |   33.9  |   629200 |
 | PLX      | 2025-12-16 00:00:00 |  34    |  34.55 | 33.3  |   34.4  |  1592700 |
 | PLX      | 2025-12-17 00:00:00 |  34.3  |  35.6  | 34.3  |   34.65 |  3253800 |
@@ -222,21 +218,24 @@ _Không có dữ liệu_
 | PLX      | 2026-04-21 00:00:00 |  39.45 |  40    | 39.3  |   39.35 |  1986400 |
 | PLX      | 2026-04-22 00:00:00 |  39.6  |  39.6  | 39    |   39    |  1910900 |
 | PLX      | 2026-04-23 00:00:00 |  39.1  |  39.7  | 38    |   39.3  |  3786500 |
+| PLX      | 2026-04-24 00:00:00 |  39.65 |  41.35 | 39.55 |   39.7  |  6401800 |
+| PLX      | 2026-04-28 00:00:00 |  38.2  |  39.2  | 36.95 |   36.95 |  6503400 |
+| PLX      | 2026-04-29 00:00:00 |  37    |  37.45 | 36.25 |   37.15 |  3564100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PLX      | 2026-04-23 14:27:21 |   39.1  |     1000 | Sell         | 467831996 |
-| PLX      | 2026-04-23 14:27:23 |   39.1  |      100 | Sell         | 467832219 |
-| PLX      | 2026-04-23 14:27:26 |   39.1  |      100 | Sell         | 467832479 |
-| PLX      | 2026-04-23 14:27:39 |   39.1  |      500 | Sell         | 467833498 |
-| PLX      | 2026-04-23 14:27:40 |   39.15 |      500 | Buy          | 467833656 |
-| PLX      | 2026-04-23 14:27:40 |   39.15 |     1500 | Buy          | 467833657 |
-| PLX      | 2026-04-23 14:27:40 |   39.15 |      200 | Buy          | 467833658 |
-| PLX      | 2026-04-23 14:27:40 |   39.15 |     5000 | Buy          | 467833659 |
-| PLX      | 2026-04-23 14:27:40 |   39.15 |     3400 | Buy          | 467833654 |
-| PLX      | 2026-04-23 14:27:50 |   39.15 |     2000 | Sell         | 467834466 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |    13500 | Sell         | 469465060 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      300 | Sell         | 469465069 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |     2000 | Sell         | 469465068 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      500 | Sell         | 469465066 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      100 | Sell         | 469465061 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      100 | Sell         | 469465064 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      100 | Sell         | 469465062 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      200 | Sell         | 469465065 |
+| PLX      | 2026-04-29 14:27:22 |    37.1 |      100 | Sell         | 469465063 |
+| PLX      | 2026-04-29 14:27:24 |    37.1 |      100 | Buy          | 469465245 |
 
 <!-- END:DAILY -->
 

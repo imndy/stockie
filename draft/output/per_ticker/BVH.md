@@ -1,142 +1,221 @@
 # BVH — Tập đoàn Bảo Việt
 **Sàn:** HOSE  |  **Ngành:** Bảo hiểm
-> 📅 Daily: 23/04/2026 07:22  |  🗂 Quarterly: 05/04/2026 13:38
+> 📅 Daily: 03/05/2026 13:57  |  🗂 Quarterly: 03/05/2026 13:57
 
 ---
 
 <!-- BEGIN:DAILY -->
+
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BVH |
-| exchange | HOSE |
-| market_cap | 52556451691200 |
-| 52w_high | 86000 |
-| 52w_high_date | 2026-02-25 |
-| 52w_low | 43136 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 27.2658 |
-| dividend | 1055 |
-| beta | 0.95 |
-| eps | 4012 |
-| eps_forward | 23.365789465048127 |
-| bvps | 34499.89 |
-| pe | 17.75 |
-| pb | 2.06 |
-| price_chg_1m | -6.84 |
-| price_chg_ytd | 66.40 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
-| yield | 0.014901129943502825 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | BVH |
+| current_price | 70500.0 |
+| market_cap | 52333754862000.0 |
+| number_of_shares_mkt_cap | 742322764.0 |
+| ticker | BVH |
+| tag | None |
+| rating | O-PF |
+| rating_as_of | 26-May-25 |
+| en_organ_name | Bao Viet Holdings |
+| en_organ_short_name | Bao Viet Group |
+| vi_organ_name | Tập đoàn Bảo Việt |
+| vi_organ_short_name | Tập đoàn Bảo Việt |
+| com_type_code | BH |
+| com_group_code | VNINDEX |
+| sector | Insurance |
+| sector_vn | Bảo hiểm |
+| average_match_value1_month | 52592102636.36363 |
+| average_match_volume1_month | 684208.0 |
+| highest_price1_year | 88500.0 |
+| lowest_price1_year | 44694.0 |
+| foreigner_percentage | 0.27253719 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.6798447 |
+| analyst | Ngoc Huynh |
+| upside_to_target_percent | -0.1929078014 |
+| dividend_per_share_tsr | 900.0 |
+| projected_tsr_percentage | -0.180141844 |
+| target_price | 56900.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Bao Viet Holdings (BVH), formerly known as Vietnam Insurance Company,&nbsp;was&nbsp;established in 1964. … |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p align="left">Tập đo&agrave;n Bảo Việt (BVH) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Bảo hiểm Vi… |
+| in_cu | True |
+| icb_code_lv2 | 8500 |
+| icb_code_lv4 | 8575 |
+| free_float | 74232276 |
+| free_float_percentage | 0.0999999995 |
+| listing_date | 2009-06-25T00:00:00 |
+| prev_insight | {'targetPrice': 42600.0, 'rating': 'M-PF', 'ratingAsOf': '26-Mar-24', 'analyst': 'Ngoc Huynh', 'version': '20250522'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 70.8 |
-| MA5 | 72.08 |
-| MA10 | 74.09 |
-| EMA20 | 76.045 |
-| EMA50 | 75.601 |
-| Slope MA20 (5p, %) | -3.38 |
-| ATR(14) | 3.39 |
-| RSI(14) | 37.1 |
+| Giá đóng cửa | 70.5 |
+| MA5 | 71.02 |
+| MA10 | 71.87 |
+| EMA20 | 74.396 |
+| EMA50 | 75.018 |
+| Slope MA20 (5p, %) | -2.87 |
+| ATR(14) | 3.168 |
+| RSI(14) | 37.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.809 |
-| MACD Signal | -0.638 |
-| MACD Histogram | -1.171 |
+| MACD | -2.145 |
+| MACD Signal | -1.482 |
+| MACD Histogram | -0.663 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 883578 |
+| KL avg 60 phiên | 823333 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |      84.5 | 0.97        | 1             |
-| 🔴 Kháng cự    |      78.5 | 0.88        | 1             |
-| 🔴 Kháng cự    |      72   | 1.01        | 1             |
-| ▶ Giá hiện tại |      70.8 | —           | —             |
-| 🟢 Hỗ trợ      |      70.5 | 1.18        | 1             |
-| 🟢 Hỗ trợ      |      66.6 | 0.93        | 1             |
-| 🟢 Hỗ trợ      |      57   | 0.56        | 1             |
+| 🔴 Kháng cự     |      84.5 | 0.92        | 1             |
+| 🔴 Kháng cự     |      78.5 | 0.83        | 1             |
+| 🔴 Kháng cự     |      72   | 0.96        | 1             |
+| ▶ Giá hiện tại |      70.5 | —           | —             |
+| 🟢 Hỗ trợ       |      66.6 | 0.88        | 1             |
+| 🟢 Hỗ trợ       |      51   | 0.56        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BVH |
-| pe | 17.75 |
-| pb | 2.06 |
-| roe | 12.41 |
-| roe_pct_rank | 52 |
-| roa | 1.09 |
-| roa_pct_rank | 32 |
-| eps | 4012 |
-| bvps | 34499.89 |
-| beta | 0.95 |
-| dividend | 1055 |
-| yield | 0.014901129943502825 |
-| pe_pct_rank | 61 |
-| pb_pct_rank | 75 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698948 |
+| ratio_type | RATIO_TTM |
+| organ_code | BVH |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 700886434 |
+| market_cap | 54669141852000.0 |
+| dividend_yield | 0.0 |
+| pe | 33.2446553471 |
+| pb | 3.7394523041 |
+| ps | 0.0 |
+| price_to_cash_flow | 5.7215159991 |
+| ev_to_ebitda | -14.1107888921 |
+| cash_ratio | 0.5477141215 |
+| quick_ratio | 2.1557202633 |
+| current_ratio | 2.161764176 |
+| owners_equity | 0.0002376112 |
+| debt_per_equity | 0.0003558627 |
+| debt_to_equity | 5.6622441891 |
+| roe | 0.1105678918 |
+| roa | 0.0179044688 |
+| day_sale_outstanding | 0.0 |
+| days_inventory_outstanding | 0.0 |
+| days_payable_outstanding | 0.0 |
+| gross_margin | -0.1812755398 |
+| ebit_margin | -0.3077109472 |
+| pre_tax_profit_margin | 0.0 |
+| after_tax_profit_margin | 0.0684282956 |
+| asset_turnover | 0.0 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | -3227621622768.0 |
+| ebitda | -3078762089009.0 |
+| roic | -0.2164064019 |
+| cash_cycle | 0.0 |
+| fixed_asset_turnover | 0.0 |
+| financial_leverage | 5.6622441891 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-16 | 1682500 | +90.4%     | 0.227%         |
-| 2026-04-17 |  425400 | -51.9%     | 0.057%         |
-| 2026-04-20 |  449000 | -49.2%     | 0.060%         |
-| 2026-04-21 |  369200 | -58.2%     | 0.050%         |
-| 2026-04-22 |  453900 | -48.6%     | 0.061%         |
+| 2026-04-22 |  453900 | -44.9%     | 0.061%         |
+| 2026-04-23 | 1020200 | +23.9%     | 0.137%         |
+| 2026-04-24 |  491900 | -40.3%     | 0.066%         |
+| 2026-04-28 |  589400 | -28.4%     | 0.079%         |
+| 2026-04-29 |  483300 | -41.3%     | 0.065%         |
 
-- KL trung bình 60 phiên: **883,578**
+- KL trung bình 60 phiên: **823,333**
 - Số CP lưu hành: **742,322,764**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                        | publishtime            | url                                                                                                                 |
-|:---------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------|
-| BVH: Báo cáo tích hợp 2025                                                                   | 2026-04-21T17:58:51    | /2026/04/bvh-bao-cao-tich-hop-2025-830-1431514.htm                                                                  |
-| BVH: Thông báo đường dẫn báo cáo thường niên năm 2025                                        | 2026-04-21T17:58:49    | /2026/04/bvh-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1431517.htm                                       |
-| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Vũ Thanh Hải                              | 2026-04-08T16:23:11    | /2026/04/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-vu-thanh-hai-830-1425024.htm                             |
-| BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                                             | 2026-04-06T09:29:25    | /2026/04/bvh-quyet-dinh-cua-hdqt-ve-viec-bo-nhiem-can-bo-214-1423187.htm                                            |
-| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ                                         | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm                                         |
-| BVH: BCTC năm 2025                                                                           | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-nam-2025-737-1419929.htm                                                                          |
-| BVH: BCTC Hợp nhất năm 2025                                                                  | 2026-03-31T00:00:00    | /2026/03/bvh-bctc-hop-nhat-nam-2025-737-1419932.htm                                                                 |
-| BVH: CBTT giao dịch với người có liên quan                                                   | 2026-03-27T18:29:35    | /2026/03/bvh-cbtt-giao-dich-voi-nguoi-co-lien-quan-739-1418032.htm                                                  |
-| BVH: Nghị quyết HĐQT về việc phê duyệt nội dung chủ yếu của các hợp đồng, giao dịch với BVSC | 2026-03-27T17:38:10    | /2026/03/bvh-nghi-quyet-hdqt-ve-viec-phe-duyet-noi-dung-chu-yeu-cua-cac-hop-dong-giao-dich-voi-bvsc-737-1417838.htm |
-| BVH: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Trần Thị Thụy Anh                   | 2026-03-23T17:20:40    | /2026/03/bvh-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-tran-thi-thuy-anh-739-1415274.htm                  |
+| news_title                                                                                   | public_date         | news_source_link   |
+|:---------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| BVH: Thông báo đường dẫn báo cáo thường niên năm 2025                                        | 2026-04-21T17:55:17 |                    |
+| BVH: Báo cáo tích hợp 2025                                                                   | 2026-04-21T17:52:45 |                    |
+| BVH: Trưởng BKS đăng ký mua 20.000 cổ phiếu                                                  | 2026-04-08T16:19:00 |                    |
+| BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                                             | 2026-04-06T09:22:37 |                    |
+| Năm 2025, lợi nhuận sau thuế hợp nhất sau kiểm toán của Bảo Việt đạt 2.922 tỷ đồng           | 2026-04-01T14:04:00 |                    |
+| BVH: CBTT giao dịch với người có liên quan                                                   | 2026-03-27T18:29:35 |                    |
+| BVH: Nghị quyết HĐQT về việc phê duyệt nội dung chủ yếu của các hợp đồng, giao dịch với BVSC | 2026-03-27T17:30:22 |                    |
+| BVH: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Trần Thị Thụy Anh                   | 2026-03-23T17:17:14 |                    |
+| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Trần Thị Thụy Anh                         | 2026-02-13T16:57:00 |                    |
+| BVH: Thông báo giao dịch cổ phiếu của Người nội bộ Trần Thị Thụy Anh                         | 2026-02-12T17:40:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-08T00:00:00 | nan                 | nan                 |
+| 2026-03-23T00:00:00 | nan                 | nan                 |
+| 2025-11-11T00:00:00 | 2025-11-17T00:00:00 | 2025-11-14T00:00:00 |
+| 2025-08-20T00:00:00 | nan                 | nan                 |
+| 2025-05-13T00:00:00 | 2025-05-20T00:00:00 | 2025-05-19T00:00:00 |
+| 2024-11-21T00:00:00 | 2024-12-04T00:00:00 | 2024-12-03T00:00:00 |
+| 2024-11-13T00:00:00 | 2024-11-20T00:00:00 | 2024-11-19T00:00:00 |
+| 2024-09-12T00:00:00 | nan                 | nan                 |
+| 2024-05-17T00:00:00 | 2024-05-31T00:00:00 | 2024-05-30T00:00:00 |
+| 2023-11-21T00:00:00 | 2023-11-28T00:00:00 | 2023-11-27T00:00:00 |
+| 2023-10-26T00:00:00 | nan                 | nan                 |
+| 2023-05-19T00:00:00 | 2023-06-05T00:00:00 | 2023-06-02T00:00:00 |
+| 2023-01-05T00:00:00 | nan                 | nan                 |
+| 2022-11-15T00:00:00 | 2022-11-28T00:00:00 | 2022-11-25T00:00:00 |
+| 2022-11-07T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bảo hiểm |
-| % Ngành hôm nay | -0.32% |
-| % Cổ phiếu hôm nay | -0.56% |
-| RS (CP − Ngành) | -0.24% |
+| % Ngành hôm nay | +0.04% |
+| % Cổ phiếu hôm nay | -0.70% |
+| RS (CP − Ngành) | -0.74% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BVH      | 2025-12-09 00:00:00 |   56.5 |   57   |  54.2 |    55   |   855400 |
-| BVH      | 2025-12-10 00:00:00 |   55.4 |   55.4 |  53.1 |    54.3 |   554800 |
-| BVH      | 2025-12-11 00:00:00 |   54.2 |   55.3 |  53.4 |    54.6 |   501000 |
-| BVH      | 2025-12-12 00:00:00 |   54.6 |   54.8 |  52   |    52   |   578300 |
 | BVH      | 2025-12-15 00:00:00 |   51.9 |   53   |  51.6 |    52.7 |   303800 |
 | BVH      | 2025-12-16 00:00:00 |   52.6 |   53.6 |  51   |    53.4 |   446500 |
 | BVH      | 2025-12-17 00:00:00 |   53.2 |   54.4 |  53   |    53.4 |   347300 |
@@ -223,10 +302,25 @@ _Không có dữ liệu_
 | BVH      | 2026-04-20 00:00:00 |   72.9 |   73.9 |  71.9 |    72.3 |   449000 |
 | BVH      | 2026-04-21 00:00:00 |   72.7 |   72.9 |  71.2 |    71.2 |   369200 |
 | BVH      | 2026-04-22 00:00:00 |   71.2 |   72.3 |  70.6 |    70.8 |   453900 |
+| BVH      | 2026-04-23 00:00:00 |   70.8 |   71.5 |  67.3 |    71   |  1020200 |
+| BVH      | 2026-04-24 00:00:00 |   71.2 |   72.6 |  70.8 |    71.8 |   491900 |
+| BVH      | 2026-04-28 00:00:00 |   71.8 |   72   |  69.5 |    71   |   589400 |
+| BVH      | 2026-04-29 00:00:00 |   70.1 |   70.9 |  69.2 |    70.5 |   483300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| BVH      | 2026-04-29 14:22:38 |    69.6 |      100 | Sell         | 469449253 |
+| BVH      | 2026-04-29 14:23:13 |    69.7 |      100 | Buy          | 469451444 |
+| BVH      | 2026-04-29 14:23:35 |    69.7 |      600 | Buy          | 469452714 |
+| BVH      | 2026-04-29 14:23:58 |    69.7 |      100 | Buy          | 469453936 |
+| BVH      | 2026-04-29 14:24:03 |    69.7 |      100 | Buy          | 469454444 |
+| BVH      | 2026-04-29 14:24:34 |    69.6 |      100 | Sell         | 469456062 |
+| BVH      | 2026-04-29 14:24:34 |    69.6 |      100 | Sell         | 469456061 |
+| BVH      | 2026-04-29 14:24:34 |    69.6 |      200 | Sell         | 469456063 |
+| BVH      | 2026-04-29 14:24:34 |    69.6 |      200 | Sell         | 469456059 |
+| BVH      | 2026-04-29 14:24:34 |    69.6 |      200 | Sell         | 469456058 |
 
 <!-- END:DAILY -->
 
@@ -410,38 +504,38 @@ _Không có dữ liệu_
 
 ## Lưu chuyển tiền tệ
 
-| item                                                                              | item_id                                                                    | 2025-Q4   | 2025-Q3   | 2025-Q2   |          2025-Q1 |
-|:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:----------|:----------|:----------|-----------------:|
-| I. Lưu chuyển tiền từ hoạt động kinh doanh                                        | i.cash_flows_from_operating_activities                                     |           |           |           |    nan           |
-| 1. Lợi nhuận trước thuế                                                           | n_1.profit_before_tax                                                      |           |           |           |      8.47199e+08 |
-| 2. Điều chỉnh cho các khoản:                                                      | n_2_adjustments_for                                                        |           |           |           |    nan           |
-| Khấu hao tài sản cố định                                                          | depreciation_and_amortization                                              |           |           |           |      6.01755e+07 |
-| Các khoản dự phòng                                                                | reversal_of_provisions_provisions                                          |           |           |           |      4.06012e+09 |
-| Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện                                 | unrealized_foreign_exchange_gain_loss                                      |           |           |           |      4.06344e+06 |
-| Lãi, lỗ từ hoạt động đầu tư                                                       | loss_profit_from_investment_activities                                     |           |           |           |     -3.24864e+09 |
-| Chi phí lãi vay                                                                   | interest_expense                                                           |           |           |           |      3.78324e+08 |
-| Khác                                                                              | others                                                                     |           |           |           |    nan           |
-| 3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động                  | n_3_operating_profit_before_changes_in_working_capital                     |           |           |           |      2.10124e+09 |
-| Tăng, giảm các khoản phải thu                                                     | n_1_increase_decrease_in_receivables                                       |           |           |           |     -2.13182e+08 |
-| Tăng, giảm hàng tồn kho                                                           | n_2_increase_decrease_in_inventories                                       |           |           |           |      9.3515e+06  |
-| Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) | n_3_increase_decrease_in_payables_other_than_interest_corporate_income_tax |           |           |           |     -1.79506e+08 |
-| Tăng, giảm chi phí trả trước                                                      | n_4_increase_decrease_in_prepaid_expenses                                  |           |           |           |     -2.43952e+07 |
-| Tăng, giảm chứng khoán kinh doanh                                                 | increase_decrease_in_held_for_trading_securities                           |           |           |           |      8.28241e+06 |
-| Tiền lãi vay đã trả                                                               | n_5_interest_paid                                                          |           |           |           |     -4.83073e+08 |
-| Thuế thu nhập doanh nghiệp đã nộp                                                 | n_6_income_tax_paid                                                        |           |           |           |     -1.4395e+08  |
-| Tiền thu khác từ hoạt động kinh doanh                                             | n_7_other_receipts_from_operating_activities                               |           |           |           |    nan           |
-| Tiền chi khác từ hoạt động kinh doanh                                             | n_8_other_payments_for_operating_activities                                |           |           |           |     -8.0645e+07  |
-| Lưu chuyển tiền thuần từ hoạt động kinh doanh                                     | net_cash_flows_from_operating_activities                                   |           |           |           |      9.94125e+08 |
-| II. Lưu chuyển tiền từ hoạt động đầu tư                                           | ii.cash_flows_from_investing_activities                                    |           |           |           |    nan           |
-| 1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác                 | n_1_payment_for_fixed_assets_constructions_and_other_long_term_assets      |           |           |           |     -2.63852e+07 |
-| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác              | n_2_receipts_from_disposal_of_fixed_assets_and_other_long_term_assets      |           |           |           | 597935           |
-| 3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác                           | n_3_loans_purchases_of_other_entities_debt_instruments                     |           |           |           |     -3.6014e+10  |
-| 4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác                   | n_4_receipts_from_loan_repayments_sale_of_other_entities_debt_instruments  |           |           |           |      3.1413e+10  |
-| 5. Tiền chi đầu tư góp vốn vào đơn vị khác                                        | n_5_payments_for_investment_in_other_entities                              |           |           |           |    nan           |
-| 6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác                                    | n_6_collections_on_investment_in_other_entities                            |           |           |           |    nan           |
-| 7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được  chia                           | n_7_dividends_interest_and_profit_received                                 |           |           |           |      2.9744e+09  |
-| 8. Tiền thu khác từ hoạt động đầu tư                                              | n_6.other_receipts_from_investing_activities                               |           |           |           |    nan           |
-| 9. Tiền chi khác từ hoat động đầu tư                                              | n_7.other_payments_for_investing_activities                                |           |           |           |    nan           |
+| item                                                                              | item_id                                                                    |          2025-Q1 |
+|:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------|-----------------:|
+| I. Lưu chuyển tiền từ hoạt động kinh doanh                                        | i.cash_flows_from_operating_activities                                     |    nan           |
+| 1. Lợi nhuận trước thuế                                                           | n_1.profit_before_tax                                                      |      8.47199e+08 |
+| 2. Điều chỉnh cho các khoản:                                                      | n_2_adjustments_for                                                        |    nan           |
+| Khấu hao tài sản cố định                                                          | depreciation_and_amortization                                              |      6.01755e+07 |
+| Các khoản dự phòng                                                                | reversal_of_provisions_provisions                                          |      4.06012e+09 |
+| Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện                                 | unrealized_foreign_exchange_gain_loss                                      |      4.06344e+06 |
+| Lãi, lỗ từ hoạt động đầu tư                                                       | loss_profit_from_investment_activities                                     |     -3.24864e+09 |
+| Chi phí lãi vay                                                                   | interest_expense                                                           |      3.78324e+08 |
+| Khác                                                                              | others                                                                     |    nan           |
+| 3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động                  | n_3_operating_profit_before_changes_in_working_capital                     |      2.10124e+09 |
+| Tăng, giảm các khoản phải thu                                                     | n_1_increase_decrease_in_receivables                                       |     -2.13182e+08 |
+| Tăng, giảm hàng tồn kho                                                           | n_2_increase_decrease_in_inventories                                       |      9.3515e+06  |
+| Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) | n_3_increase_decrease_in_payables_other_than_interest_corporate_income_tax |     -1.79506e+08 |
+| Tăng, giảm chi phí trả trước                                                      | n_4_increase_decrease_in_prepaid_expenses                                  |     -2.43952e+07 |
+| Tăng, giảm chứng khoán kinh doanh                                                 | increase_decrease_in_held_for_trading_securities                           |      8.28241e+06 |
+| Tiền lãi vay đã trả                                                               | n_5_interest_paid                                                          |     -4.83073e+08 |
+| Thuế thu nhập doanh nghiệp đã nộp                                                 | n_6_income_tax_paid                                                        |     -1.4395e+08  |
+| Tiền thu khác từ hoạt động kinh doanh                                             | n_7_other_receipts_from_operating_activities                               |    nan           |
+| Tiền chi khác từ hoạt động kinh doanh                                             | n_8_other_payments_for_operating_activities                                |     -8.0645e+07  |
+| Lưu chuyển tiền thuần từ hoạt động kinh doanh                                     | net_cash_flows_from_operating_activities                                   |      9.94125e+08 |
+| II. Lưu chuyển tiền từ hoạt động đầu tư                                           | ii.cash_flows_from_investing_activities                                    |    nan           |
+| 1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác                 | n_1_payment_for_fixed_assets_constructions_and_other_long_term_assets      |     -2.63852e+07 |
+| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác              | n_2_receipts_from_disposal_of_fixed_assets_and_other_long_term_assets      | 597935           |
+| 3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác                           | n_3_loans_purchases_of_other_entities_debt_instruments                     |     -3.6014e+10  |
+| 4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác                   | n_4_receipts_from_loan_repayments_sale_of_other_entities_debt_instruments  |      3.1413e+10  |
+| 5. Tiền chi đầu tư góp vốn vào đơn vị khác                                        | n_5_payments_for_investment_in_other_entities                              |    nan           |
+| 6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác                                    | n_6_collections_on_investment_in_other_entities                            |    nan           |
+| 7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được  chia                           | n_7_dividends_interest_and_profit_received                                 |      2.9744e+09  |
+| 8. Tiền thu khác từ hoạt động đầu tư                                              | n_6.other_receipts_from_investing_activities                               |    nan           |
+| 9. Tiền chi khác từ hoat động đầu tư                                              | n_7.other_payments_for_investing_activities                                |    nan           |
 
 ## Chỉ số tài chính
 

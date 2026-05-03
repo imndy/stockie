@@ -1,6 +1,6 @@
 # SAB — Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 23/04/2026 19:37  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 03/05/2026 14:00  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | SAB |
 | exchange | HOSE |
-| market_cap | 61819506330400 |
+| market_cap | 60921712670000 |
 | 52w_high | 53700 |
 | 52w_high_date | 2026-01-14 |
 | 52w_low | 42202 |
 | 52w_low_date | 2025-10-20 |
-| foreign_ownership | 58.5704 |
+| foreign_ownership | 58.5368 |
 | dividend | 5000 |
-| beta | 0.73 |
-| eps | 3449 |
-| eps_forward | 11.950236086795055 |
-| bvps | 17933 |
-| pe | 13.06 |
-| pb | 2.51 |
-| price_chg_1m | 12.35 |
-| price_chg_ytd | 9.92 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.1037344398340249 |
+| beta | 0.78 |
+| eps | 3754 |
+| eps_forward | 12.59959525423905 |
+| bvps | 18868 |
+| pe | 12.92 |
+| pb | 2.57 |
+| price_chg_1m | 7.71 |
+| price_chg_ytd | 9.45 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.10526315789473684 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,54 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.2 |
-| MA5 | 45.88 |
-| MA10 | 45.77 |
-| EMA20 | 45.441 |
-| EMA50 | 45.924 |
-| Slope MA20 (5p, %) | 0.78 |
-| ATR(14) | 1.105 |
-| RSI(14) | 66.0 |
+| Giá đóng cửa | 47.5 |
+| MA5 | 47.25 |
+| MA10 | 46.43 |
+| EMA20 | 46.022 |
+| EMA50 | 46.143 |
+| Slope MA20 (5p, %) | 1.91 |
+| ATR(14) | 1.211 |
+| RSI(14) | 58.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.251 |
-| MACD Signal | -0.035 |
-| MACD Histogram | 0.286 |
+| MACD | 0.578 |
+| MACD Signal | 0.223 |
+| MACD Histogram | 0.355 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1032137 |
+| KL avg 60 phiên | 992612 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    57.1   | 0.81        | 1             |
-| 🔴 Kháng cự    |    53.109 | 1.51        | 2             |
-| 🔴 Kháng cự    |    49.9   | 1.06        | 1             |
-| ▶ Giá hiện tại |    48.2   | —           | —             |
-| 🟢 Hỗ trợ      |    48.001 | 1.9         | 2             |
-| 🟢 Hỗ trợ      |    47.86  | 0.71        | 1             |
-| 🟢 Hỗ trợ      |    46.13  | 0.6         | 1             |
+| 🔴 Kháng cự    |    49.9   | 1.03        | 1             |
+| 🔴 Kháng cự    |    48.001 | 1.82        | 2             |
+| 🔴 Kháng cự    |    47.86  | 0.67        | 1             |
+| ▶ Giá hiện tại |    47.5   | —           | —             |
+| 🟢 Hỗ trợ      |    46.13  | 0.56        | 1             |
+| 🟢 Hỗ trợ      |    45.22  | 0.7         | 1             |
+| 🟢 Hỗ trợ      |    45.173 | 2.41        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SAB |
-| pe | 13.06 |
-| pb | 2.51 |
+| pe | 12.92 |
+| pb | 2.57 |
 | roe | 19.28 |
 | roe_pct_rank | 67 |
 | roa | 13.4 |
 | roa_pct_rank | 80 |
-| eps | 3449 |
-| bvps | 17933 |
-| beta | 0.73 |
+| eps | 3754 |
+| bvps | 18868 |
+| beta | 0.78 |
 | dividend | 5000 |
-| yield | 0.1037344398340249 |
+| yield | 0.10526315789473684 |
 | pe_pct_rank | 51 |
-| pb_pct_rank | 87 |
+| pb_pct_rank | 89 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +91,22 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 |  676000 | -34.5%     | 0.053%         |
-| 2026-04-20 |  249100 | -75.9%     | 0.019%         |
-| 2026-04-21 |  486700 | -52.8%     | 0.038%         |
-| 2026-04-22 |  621600 | -39.8%     | 0.048%         |
-| 2026-04-23 | 3372800 | +226.8%    | 0.263%         |
+| 2026-04-22 |  621600 | -37.4%     | 0.048%         |
+| 2026-04-23 | 3372800 | +239.8%    | 0.263%         |
+| 2026-04-24 |  825900 | -16.8%     | 0.064%         |
+| 2026-04-28 | 1524700 | +53.6%     | 0.119%         |
+| 2026-04-29 |  590700 | -40.5%     | 0.046%         |
 
-- KL trung bình 60 phiên: **1,032,136**
+- KL trung bình 60 phiên: **992,611**
 - Số CP lưu hành: **1,282,562,372**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                           | publishtime            | url                                                                                                     |
 |:--------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------|
+| SAB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                      | 2026-04-24T18:46:55    | /2026/04/sab-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1433826.htm                      |
+| SAB: Thông báo thay đổi nhân sự                                                 | 2026-04-24T17:57:32    | /2026/04/sab-thong-bao-thay-doi-nhan-su-214-1433736.htm                                                 |
+| SAB: Thông báo chốt DSCĐ để chi trả cổ tức còn lại năm 2025 bằng tiền mặt       | 2026-04-24T17:57:08    | /2026/04/sab-thong-bao-chot-dscd-de-chi-tra-co-tuc-con-lai-nam-2025-bang-tien-mat-738-1433735.htm       |
 | SAB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước            | 2026-04-23T13:32:11    | /2026/04/sab-giai-trinh-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1432538.htm            |
 | Tổng Giám đốc Sabeco: Chưa có công ty bia giữ chắc thị phần số một tại Việt Nam | 2026-04-23T11:40:00    | /2026/04/tong-giam-doc-sabeco-chua-co-cong-ty-bia-giu-chac-thi-phan-so-mot-tai-viet-nam-737-1432424.htm |
 | SAB: BCTC Hợp nhất quý 1 năm 2026                                               | 2026-04-23T00:00:00    | /2026/04/sab-bctc-hop-nhat-quy-1-nam-2026-737-1432534.htm                                               |
@@ -111,9 +114,6 @@
 | SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (cập nhật lần 2)                   | 2026-04-20T17:41:39    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-lan-2-737-1430750.htm                     |
 | DCM, HDB và SAB có triển vọng gì?                                               | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                                |
 | SAB: Tài liệu họp ĐHĐCĐ thường niên 2026 (cập nhật)                             | 2026-04-16T18:01:40    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-2026-cap-nhat-737-1428818.htm                               |
-| SAB: Link công bố Báo cáo phát triển bền vững 2025                              | 2026-04-16T15:08:02    | /2026/04/sab-link-cong-bo-bao-cao-phat-trien-ben-vung-2025-830-1428614.htm                              |
-| SAB: Link công bố Báo cáo thường niên năm 2025                                  | 2026-04-16T15:06:52    | /2026/04/sab-link-cong-bo-bao-cao-thuong-nien-nam-2025-737-1428613.htm                                  |
-| Ông chủ Bia Sài Gòn đặt mục tiêu tăng trưởng doanh thu sau năm đi lùi           | 2026-04-02T10:30:00.91 | /2026/04/ong-chu-bia-sai-gon-dat-muc-tieu-tang-truong-doanh-thu-sau-nam-di-lui-737-1421312.htm          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | +0.06% |
-| % Cổ phiếu hôm nay | -0.22% |
-| RS (CP − Ngành) | -0.28% |
+| % Ngành hôm nay | -0.99% |
+| % Cổ phiếu hôm nay | -2.06% |
+| RS (CP − Ngành) | -1.07% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SAB      | 2025-12-10 00:00:00 |  51.12 |  51.22 | 49.3  |   49.39 |  2435786 |
-| SAB      | 2025-12-11 00:00:00 |  49.59 |  50.83 | 49.39 |   50.16 |  1645628 |
-| SAB      | 2025-12-12 00:00:00 |  49.87 |  50.45 | 47.91 |   47.96 |  2536837 |
 | SAB      | 2025-12-15 00:00:00 |  48.24 |  49.39 | 47.96 |   48.43 |  1512039 |
 | SAB      | 2025-12-16 00:00:00 |  48.91 |  49.87 | 46.13 |   49.59 |  2085346 |
 | SAB      | 2025-12-17 00:00:00 |  49.68 |  49.68 | 48.05 |   48.05 |  1557109 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | SAB      | 2026-04-21 00:00:00 |  45.7  |  45.7  | 45.15 |   45.15 |   486700 |
 | SAB      | 2026-04-22 00:00:00 |  45.2  |  45.3  | 44.8  |   45.05 |   621600 |
 | SAB      | 2026-04-23 00:00:00 |  45.05 |  48.2  | 44.85 |   48.2  |  3372800 |
+| SAB      | 2026-04-24 00:00:00 |  48.1  |  48.1  | 46.65 |   47    |   825900 |
+| SAB      | 2026-04-28 00:00:00 |  47.25 |  49.4  | 47.1  |   48.5  |  1524700 |
+| SAB      | 2026-04-29 00:00:00 |  48    |  48.5  | 47.5  |   47.5  |   590700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      400 | Buy          | 467840448 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |     5600 | Buy          | 467840458 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      200 | Buy          | 467840457 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |     1200 | Buy          | 467840456 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |     1200 | Buy          | 467840455 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      100 | Buy          | 467840449 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      100 | Buy          | 467840453 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      900 | Buy          | 467840452 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |     1000 | Buy          | 467840451 |
-| SAB      | 2026-04-23 14:28:59 |    48.2 |      300 | Buy          | 467840450 |
+| SAB      | 2026-04-29 14:10:51 |   47.55 |      200 | Buy          | 469412217 |
+| SAB      | 2026-04-29 14:11:00 |   47.55 |      300 | Buy          | 469412651 |
+| SAB      | 2026-04-29 14:11:00 |   47.55 |      100 | Buy          | 469412652 |
+| SAB      | 2026-04-29 14:12:04 |   47.7  |      100 | Buy          | 469415146 |
+| SAB      | 2026-04-29 14:12:32 |   47.6  |     1000 | Sell         | 469416357 |
+| SAB      | 2026-04-29 14:13:22 |   47.6  |      100 | Buy          | 469418922 |
+| SAB      | 2026-04-29 14:13:22 |   47.6  |      200 | Buy          | 469418923 |
+| SAB      | 2026-04-29 14:14:32 |   47.6  |      100 | Sell         | 469422579 |
+| SAB      | 2026-04-29 14:15:28 |   47.7  |      100 | Buy          | 469425258 |
+| SAB      | 2026-04-29 14:15:37 |   47.7  |      600 | Buy          | 469425812 |
 
 <!-- END:DAILY -->
 

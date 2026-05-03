@@ -1,6 +1,6 @@
 # GAS — Tổng Công ty Khí Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 23/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 03/05/2026 13:54  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | GAS |
 | exchange | HOSE |
-| market_cap | 188451375943600 |
+| market_cap | 181453821651200 |
 | 52w_high | 128700 |
 | 52w_high_date | 2026-03-04 |
-| 52w_low | 54162 |
-| 52w_low_date | 2025-04-23 |
-| foreign_ownership | 2.2151 |
+| 52w_low | 55104 |
+| 52w_low_date | 2025-05-05 |
+| foreign_ownership | 2.1716 |
 | dividend | 2100 |
-| beta | 0.78 |
-| eps | 4833 |
-| eps_forward | 21.05544779613404 |
-| bvps | 28038 |
-| pe | 16.28 |
-| pb | 2.81 |
-| price_chg_1m | -4.76 |
-| price_chg_ytd | 44.20 |
-| price_chg_1m_rank | 13.94 |
-| price_chg_ytd_rank | 52.78 |
-| yield | 0.026888604353393086 |
+| beta | 0.71 |
+| eps | 4879 |
+| eps_forward | 19.664236505919337 |
+| bvps | 29255 |
+| pe | 15.06 |
+| pb | 2.51 |
+| price_chg_1m | -5.65 |
+| price_chg_ytd | 36.94 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.027925531914893616 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,53 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 78.1 |
-| MA5 | 78.9 |
-| MA10 | 79.28 |
-| EMA20 | 81.258 |
-| EMA50 | 87.011 |
-| Slope MA20 (5p, %) | -1.88 |
-| ATR(14) | 3.312 |
-| RSI(14) | 39.3 |
+| Giá đóng cửa | 75.2 |
+| MA5 | 76.5 |
+| MA10 | 77.81 |
+| EMA20 | 79.51 |
+| EMA50 | 85.391 |
+| Slope MA20 (5p, %) | -2.55 |
+| ATR(14) | 3.344 |
+| RSI(14) | 37.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -3.44 |
-| MACD Signal | -4.271 |
-| MACD Histogram | 0.832 |
+| MACD | -3.362 |
+| MACD Signal | -3.711 |
+| MACD Histogram | 0.349 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 2983052 |
+| KL avg 60 phiên | 2757392 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |      99.7 | 1.04        | 1             |
-| 🔴 Kháng cự    |      82.4 | 1.41        | 1             |
-| 🔴 Kháng cự    |      78.5 | 1.26        | 1             |
-| ▶ Giá hiện tại |      78.1 | —           | —             |
-| 🟢 Hỗ trợ      |      75.8 | 1.38        | 1             |
-| 🟢 Hỗ trợ      |      61   | 0.6         | 1             |
+| 🔴 Kháng cự    |      82.4 | 1.36        | 1             |
+| 🔴 Kháng cự    |      78.5 | 1.22        | 1             |
+| 🔴 Kháng cự    |      75.8 | 1.33        | 1             |
+| ▶ Giá hiện tại |      75.2 | —           | —             |
+| 🟢 Hỗ trợ      |      61   | 0.55        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GAS |
-| pe | 16.28 |
-| pb | 2.81 |
+| pe | 15.06 |
+| pb | 2.51 |
 | roe | 17.91 |
 | roe_pct_rank | 64 |
 | roa | 13.02 |
 | roa_pct_rank | 78 |
-| eps | 4833 |
-| bvps | 28038 |
-| beta | 0.78 |
+| eps | 4879 |
+| bvps | 29255 |
+| beta | 0.71 |
 | dividend | 2100 |
-| yield | 0.026888604353393086 |
-| pe_pct_rank | 58 |
-| pb_pct_rank | 96 |
+| yield | 0.027925531914893616 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 87 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -90,29 +89,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-16 | 1169300 | -60.8%     | 0.048%         |
-| 2026-04-17 | 1249000 | -58.1%     | 0.052%         |
-| 2026-04-20 | 1205300 | -59.6%     | 0.050%         |
-| 2026-04-21 | 1356000 | -54.5%     | 0.056%         |
-| 2026-04-22 |  760600 | -74.5%     | 0.032%         |
+| 2026-04-22 |  760600 | -72.4%     | 0.032%         |
+| 2026-04-23 | 1488800 | -46.0%     | 0.062%         |
+| 2026-04-24 | 1193000 | -56.7%     | 0.049%         |
+| 2026-04-28 | 1966400 | -28.7%     | 0.081%         |
+| 2026-04-29 | 1268600 | -54.0%     | 0.053%         |
 
-- KL trung bình 60 phiên: **2,983,051**
+- KL trung bình 60 phiên: **2,757,391**
 - Số CP lưu hành: **2,412,949,756**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                        | publishtime             | url                                                                                                                  |
 |:---------------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| GAS: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                           | 2026-04-29T19:07:31     | /2026/04/gas-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1436127.htm                                           |
+| GAS: Nghị quyết HĐQT số 38 ngày 24/04/2026                                                   | 2026-04-28T15:23:31     | /2026/04/gas-nghi-quyet-hdqt-so-38-ngay-24-04-2026-737-1434716.htm                                                   |
+| PVD, GAS, TNG được gọi tên vì điều gì?                                                       | 2026-04-28T12:53:17.13  | /2026/04/pvd-gas-tng-duoc-goi-ten-vi-dieu-gi-145-1434410.htm                                                         |
+| GAS: Thông báo nhận được Đơn xin từ nhiệm thành viên HĐQT                                    | 2026-04-24T09:28:14     | /2026/04/gas-thong-bao-nhan-duoc-don-xin-tu-nhiem-thanh-vien-hdqt-214-1433099.htm                                    |
+| GAS: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                    | 2026-04-24T00:00:00     | /2026/04/gas-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1433626.htm                                                    |
+| GAS: BCTC Tóm tắt quý 1 năm 2026                                                             | 2026-04-24T00:00:00     | /2026/04/gas-bctc-tom-tat-quy-1-nam-2026-737-1433627.htm                                                             |
 | GAS: Nghị quyết HĐQT số 34 ngày 19/04/2026                                                   | 2026-04-20T17:41:35     | /2026/04/gas-nghi-quyet-hdqt-so-34-ngay-19-04-2026-737-1430755.htm                                                   |
 | GAS: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trịnh Văn Bộ | 2026-04-13T16:53:11     | /2026/04/gas-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-trinh-van-bo-739-1427125.htm |
 | PV GAS nhập khẩu bổ sung gần 60.000 tấn LNG, chủ động đảm bảo nguồn khí cho mùa khô          | 2026-04-10T21:51:01.323 | /2026/04/pv-gas-nhap-khau-bo-sung-gan-60000-tan-lng-chu-dong-dam-bao-nguon-khi-cho-mua-kho-34-1426486.htm            |
 | PGD: CBTT hợp đồng/giao dịch với người có liên quan của PV GAS D                             | 2026-04-01T18:18:52     | /2026/04/pgd-cbtt-hop-dong-giao-dich-voi-nguoi-co-lien-quan-cua-pv-gas-d-739-1421197.htm                             |
-| GAS: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 2026-03-27T09:12:14     | /2026/03/gas-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1417337.htm                               |
-| GAS: Báo cáo thường niên năm 2025                                                            | 2026-03-24T16:09:16     | /2026/03/gas-bao-cao-thuong-nien-nam-2025-737-1415727.htm                                                            |
-| GAS: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                  | 2026-03-23T17:50:45     | /2026/03/gas-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1415315.htm                  |
-| PV GAS nhập gần 38,000 tấn LPG từ Australia                                                  | 2026-03-20T21:15:00     | /2026/03/pv-gas-nhap-gan-38000-tan-lpg-tu-australia-34-1414670.htm                                                   |
-| GAS: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026                          | 2026-03-20T17:26:06     | /2026/03/gas-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1414554.htm                          |
-| PV GAS triển khai kho cảng LPG tại Hải Phòng, tổng mức đầu tư trên 7.5 ngàn tỷ đồng          | 2026-03-18T18:48:26.147 | /2026/03/pv-gas-trien-khai-kho-cang-lpg-tai-hai-phong-tong-muc-dau-tu-tren-75-ngan-ty-dong-737-1413763.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,19 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Tiện ích |
-| % Ngành hôm nay | -0.35% |
-| % Cổ phiếu hôm nay | -0.76% |
-| RS (CP − Ngành) | -0.41% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +1.11% |
+| % Cổ phiếu hôm nay | +2.31% |
+| RS (CP − Ngành) | +1.20% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GAS      | 2025-12-09 00:00:00 |   65.3 |   65.3 |  63.6 |    64   |   731000 |
-| GAS      | 2025-12-10 00:00:00 |   63.9 |   64.1 |  63.4 |    63.5 |   443900 |
-| GAS      | 2025-12-11 00:00:00 |   63.6 |   63.9 |  62.5 |    62.6 |   470100 |
-| GAS      | 2025-12-12 00:00:00 |   62.6 |   62.9 |  61.3 |    61.3 |   598400 |
 | GAS      | 2025-12-15 00:00:00 |   61.3 |   62.4 |  61   |    62.1 |   620600 |
 | GAS      | 2025-12-16 00:00:00 |   62.5 |   64.3 |  62.1 |    64.3 |   870400 |
 | GAS      | 2025-12-17 00:00:00 |   64.2 |   64.8 |  62.9 |    62.9 |   532900 |
@@ -222,10 +217,25 @@ _Không có dữ liệu_
 | GAS      | 2026-04-20 00:00:00 |   80   |   81.3 |  79   |    79.2 |  1205300 |
 | GAS      | 2026-04-21 00:00:00 |   79.3 |   80.1 |  78.5 |    78.7 |  1356000 |
 | GAS      | 2026-04-22 00:00:00 |   79   |   79.8 |  78.1 |    78.1 |   760600 |
+| GAS      | 2026-04-23 00:00:00 |   78.1 |   79.5 |  75.9 |    77.4 |  1488800 |
+| GAS      | 2026-04-24 00:00:00 |   77.6 |   80   |  77.5 |    78.3 |  1193000 |
+| GAS      | 2026-04-28 00:00:00 |   78   |   78.2 |  73.1 |    73.5 |  1966400 |
+| GAS      | 2026-04-29 00:00:00 |   73.5 |   75.4 |  73   |    75.2 |  1268600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
-_Không có dữ liệu_
+| ticker   | time                |   price |   volume | match_type   |        id |
+|:---------|:--------------------|--------:|---------:|:-------------|----------:|
+| GAS      | 2026-04-29 14:21:39 |    75.2 |     1000 | Buy          | 469444258 |
+| GAS      | 2026-04-29 14:21:39 |    75.2 |      500 | Buy          | 469444261 |
+| GAS      | 2026-04-29 14:21:39 |    75.2 |      400 | Buy          | 469444259 |
+| GAS      | 2026-04-29 14:21:39 |    75.2 |      300 | Buy          | 469444260 |
+| GAS      | 2026-04-29 14:21:47 |    75.2 |      100 | Buy          | 469444667 |
+| GAS      | 2026-04-29 14:21:47 |    75.2 |      200 | Buy          | 469444669 |
+| GAS      | 2026-04-29 14:22:06 |    75.3 |      200 | Buy          | 469446982 |
+| GAS      | 2026-04-29 14:22:07 |    75.3 |      500 | Buy          | 469447058 |
+| GAS      | 2026-04-29 14:22:07 |    75.3 |      300 | Buy          | 469447054 |
+| GAS      | 2026-04-29 14:22:07 |    75.3 |      200 | Buy          | 469447050 |
 
 <!-- END:DAILY -->
 

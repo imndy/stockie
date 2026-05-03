@@ -1,68 +1,119 @@
 # GEX — CTCP Tập đoàn GELEX
 **Sàn:** HOSE  |  **Ngành:** Thiết bị điện
-> 📅 Daily: 23/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 13:40
+> 📅 Daily: 03/05/2026 13:54  |  🗂 Quarterly: 05/04/2026 13:40
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GEX |
+| exchange | HOSE |
+| market_cap | 35283798866800 |
+| 52w_high | 65400 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 26587 |
+| 52w_low_date | 2025-05-05 |
+| foreign_ownership | 7.2258 |
+| dividend | 800 |
+| beta | 1.29 |
+| eps | 1732 |
+| eps_forward | 9.735421206742902 |
+| bvps | 37608 |
+| pe | 22.52 |
+| pb | 1.04 |
+| price_chg_1m | 10.76 |
+| price_chg_ytd | 57.33 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.020460358056265986 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 39.55 |
-| MA5 | 40.15 |
-| MA10 | 40.345 |
-| EMA20 | 38.889 |
-| EMA50 | 38.086 |
-| Slope MA20 (5p, %) | 2.18 |
-| ATR(14) | 1.801 |
-| RSI(14) | 54.3 |
+| Giá đóng cửa | 39.1 |
+| MA5 | 39.68 |
+| MA10 | 39.865 |
+| EMA20 | 38.99 |
+| EMA50 | 38.158 |
+| Slope MA20 (5p, %) | 1.02 |
+| ATR(14) | 1.683 |
+| RSI(14) | 52.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.168 |
-| MACD Signal | 1.088 |
-| MACD Histogram | 0.079 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 9076998 |
+| MACD | 0.852 |
+| MACD Signal | 1.023 |
+| MACD Histogram | -0.172 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 8859430 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     43.4  | 0.8         | 1             |
-| 🔴 Kháng cự    |     42.25 | 1.42        | 1             |
-| 🔴 Kháng cự    |     40.8  | 1.05        | 1             |
-| ▶ Giá hiện tại |     39.55 | —           | —             |
-| 🟢 Hỗ trợ      |     38.45 | 0.96        | 1             |
-| 🟢 Hỗ trợ      |     38.05 | 0.78        | 1             |
-| 🟢 Hỗ trợ      |     36.4  | 0.6         | 1             |
+| 🔴 Kháng cự    |     43.4  | 0.76        | 1             |
+| 🔴 Kháng cự    |     42.25 | 1.38        | 1             |
+| 🔴 Kháng cự    |     40.8  | 1.02        | 1             |
+| ▶ Giá hiện tại |     39.1  | —           | —             |
+| 🟢 Hỗ trợ      |     38.45 | 0.92        | 1             |
+| 🟢 Hỗ trợ      |     38.05 | 0.74        | 1             |
+| 🟢 Hỗ trợ      |     36.4  | 0.56        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | GEX |
+| pe | 22.52 |
+| pb | 1.04 |
+| roe | 11.08 |
+| roe_pct_rank | 50 |
+| roa | 2.32 |
+| roa_pct_rank | 38 |
+| eps | 1732 |
+| bvps | 37608 |
+| beta | 1.29 |
+| dividend | 800 |
+| yield | 0.020460358056265986 |
+| pe_pct_rank | 70 |
+| pb_pct_rank | 44 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-17 |  6590200 | -27.4%     | 0.730%         |
-| 2026-04-20 | 11167100 | +23.0%     | 1.237%         |
-| 2026-04-21 |  5708400 | -37.1%     | 0.633%         |
-| 2026-04-22 |  8908700 | -1.9%      | 0.987%         |
-| 2026-04-23 | 14005900 | +54.3%     | 1.552%         |
+| 2026-04-22 |  8908700 | +0.6%      | 0.987%         |
+| 2026-04-23 | 14005900 | +58.1%     | 1.552%         |
+| 2026-04-24 |  5801600 | -34.5%     | 0.643%         |
+| 2026-04-28 |  5905600 | -33.3%     | 0.654%         |
+| 2026-04-29 |  7064600 | -20.3%     | 0.783%         |
 
-- KL trung bình 60 phiên: **9,076,998**
+- KL trung bình 60 phiên: **8,859,430**
 - Số CP lưu hành: **902,398,948**
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Doanh thu và lợi nhuận GELEX tăng trưởng 2 chữ số quý đầu năm                                                             | 2026-04-29T12:37:00     | /2026/04/doanh-thu-va-loi-nhuan-gelex-tang-truong-2-chu-so-quy-dau-nam-737-1435408.htm                                    |
+| GEX: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00     | /2026/04/gex-bctc-hop-nhat-quy-1-nam-2026-737-1435522.htm                                                                 |
+| GEX: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00     | /2026/04/gex-bctc-quy-1-nam-2026-737-1435523.htm                                                                          |
+| GEX: Thông báo về ngày đăng ký cuối cùng trả cổ tức năm 2025 bằng cổ phiếu, nhận cổ phiếu phát hành để tăng vốn cổ phần … | 2026-04-24T18:54:59     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-tra-co-tuc-nam-2025-bang-co-phieu-nhan-co-phieu-phat-hanh-de-tang-von-c… |
+| GEX: Thông báo về ngày đăng ký cuối cùng và xác nhận danh sách người sở hữu chứng khoán từ VSDC                           | 2026-04-24T09:42:48     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-va-xac-nhan-danh-sach-nguoi-so-huu-chung-khoan-tu-vsdc-737-1433117.htm   |
+| GEX: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu và nhận cổ phiếu phát hàn… | 2026-04-20T17:51:05     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-co-phieu-va-nhan-co-phieu-… |
+| GEX: Nghị quyết HĐQT về việc chốt DSCĐ và thông báo phát hành                                                             | 2026-04-20T14:06:27     | /2026/04/gex-nghi-quyet-hdqt-ve-viec-chot-dscd-va-thong-bao-phat-hanh-737-1430216.htm                                     |
+| GEX: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức và tăng VCP từ NVCSH của GEX      | 2026-04-17T19:22:39     | /2026/04/gex-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-va-tang-vcp-tu-nvcsh-cua… |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                                 | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -73,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thiết bị điện |
-| % Ngành hôm nay | +1.38% |
-| % Cổ phiếu hôm nay | +1.61% |
-| RS (CP − Ngành) | +0.23% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.29% |
+| % Cổ phiếu hôm nay | +0.26% |
+| RS (CP − Ngành) | -0.03% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GEX      | 2025-12-10 00:00:00 |  43.15 |  43.15 | 40.95 |   41.5  |  9795900 |
-| GEX      | 2025-12-11 00:00:00 |  41.5  |  42    | 40.55 |   41.9  |  9660000 |
-| GEX      | 2025-12-12 00:00:00 |  42.15 |  42.15 | 39    |   39    | 15244000 |
 | GEX      | 2025-12-15 00:00:00 |  39.1  |  39.2  | 38    |   38.05 |  6924000 |
 | GEX      | 2025-12-16 00:00:00 |  38.4  |  40.7  | 36.4  |   40.7  | 12467900 |
 | GEX      | 2025-12-17 00:00:00 |  40.95 |  42.3  | 40.7  |   42.2  | 13156500 |
@@ -172,21 +220,24 @@ _Không có dữ liệu_
 | GEX      | 2026-04-21 00:00:00 |  41.4  |  41.45 | 40.3  |   40.3  |  5708400 |
 | GEX      | 2026-04-22 00:00:00 |  40.5  |  41.45 | 39.9  |   40.95 |  8908700 |
 | GEX      | 2026-04-23 00:00:00 |  41.35 |  41.4  | 38.8  |   39.55 | 14005900 |
+| GEX      | 2026-04-24 00:00:00 |  39.8  |  40.2  | 38.6  |   39.8  |  5801600 |
+| GEX      | 2026-04-28 00:00:00 |  40.1  |  40.4  | 38.95 |   39    |  5905600 |
+| GEX      | 2026-04-29 00:00:00 |  39.2  |  39.55 | 38.9  |   39.1  |  7064600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GEX      | 2026-04-23 14:28:37 |   40.25 |     1600 | Buy          | 467838552 |
-| GEX      | 2026-04-23 14:28:37 |   40.2  |     1000 | Sell         | 467838562 |
-| GEX      | 2026-04-23 14:28:38 |   40.25 |      100 | Buy          | 467838633 |
-| GEX      | 2026-04-23 14:28:38 |   40.2  |     1700 | Sell         | 467838674 |
-| GEX      | 2026-04-23 14:28:38 |   40.2  |      700 | Sell         | 467838673 |
-| GEX      | 2026-04-23 14:28:38 |   40.2  |     5000 | Sell         | 467838672 |
-| GEX      | 2026-04-23 14:28:38 |   40.25 |      500 | Buy          | 467838632 |
-| GEX      | 2026-04-23 14:28:38 |   40.2  |     3800 | Sell         | 467838670 |
-| GEX      | 2026-04-23 14:28:38 |   40.25 |      500 | Buy          | 467838643 |
-| GEX      | 2026-04-23 14:28:38 |   40.25 |      600 | Buy          | 467838634 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |      100 | Buy          | 469458934 |
+| GEX      | 2026-04-29 14:25:26 |   39.15 |     2500 | Buy          | 469458943 |
+| GEX      | 2026-04-29 14:25:26 |   39.15 |      200 | Buy          | 469458942 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |      200 | Buy          | 469458941 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |      200 | Buy          | 469458940 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |      100 | Buy          | 469458935 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |     3000 | Buy          | 469458938 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |      200 | Buy          | 469458937 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |     1000 | Buy          | 469458936 |
+| GEX      | 2026-04-29 14:25:26 |   39.1  |     1000 | Buy          | 469458939 |
 
 <!-- END:DAILY -->
 

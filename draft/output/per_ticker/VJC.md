@@ -1,6 +1,6 @@
 # VJC — CTCP Hàng không Vietjet
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 23/04/2026 19:40  |  🗂 Quarterly: 05/04/2026 12:23
+> 📅 Daily: 03/05/2026 14:03  |  🗂 Quarterly: 05/04/2026 12:23
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | VJC |
 | exchange | HOSE |
-| market_cap | 103472822316600 |
+| market_cap | 106490040120000 |
 | 52w_high | 219100 |
 | 52w_high_date | 2025-11-25 |
-| 52w_low | 85700 |
-| 52w_low_date | 2025-04-24 |
-| foreign_ownership | 6.4112 |
+| 52w_low | 87000 |
+| 52w_low_date | 2025-05-30 |
+| foreign_ownership | 6.4357 |
 | dividend | 0 |
-| beta | 0.73 |
+| beta | 0.74 |
 | eps | 3805 |
-| eps_forward | 47.24820230943404 |
+| eps_forward | 48.05494452302711 |
 | bvps | 42005 |
-| pe | 46.18 |
-| pb | 4.18 |
-| price_chg_1m | 15.22 |
-| price_chg_ytd | 104.08 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
+| pe | 46.97 |
+| pb | 4.25 |
+| price_chg_1m | 11.73 |
+| price_chg_ytd | 109.30 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,50 +36,50 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 174.9 |
-| MA5 | 175.88 |
-| MA10 | 173.64 |
-| EMA20 | 169.759 |
-| EMA50 | 169.689 |
-| Slope MA20 (5p, %) | 2.36 |
-| ATR(14) | 5.8 |
-| RSI(14) | 60.3 |
+| Giá đóng cửa | 180.0 |
+| MA5 | 177.96 |
+| MA10 | 177.5 |
+| EMA20 | 172.341 |
+| EMA50 | 170.589 |
+| Slope MA20 (5p, %) | 2.26 |
+| ATR(14) | 5.818 |
+| RSI(14) | 64.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 3.768 |
-| MACD Signal | 2.714 |
-| MACD Histogram | 1.054 |
+| MACD | 4.358 |
+| MACD Signal | 3.474 |
+| MACD Histogram | 0.885 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1320147 |
+| KL avg 60 phiên | 1328065 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |   193.6   | 0.88        | 1             |
-| 🔴 Kháng cự    |   186.6   | 1.05        | 1             |
-| 🔴 Kháng cự    |   178.75  | 1.4         | 2             |
-| ▶ Giá hiện tại |   174.9   | —           | —             |
-| 🟢 Hỗ trợ      |   170.5   | 1.34        | 1             |
-| 🟢 Hỗ trợ      |   160.141 | 1.94        | 2             |
-| 🟢 Hỗ trợ      |   160     | 1.22        | 1             |
+| 🔴 Kháng cự    |   213.869 | 1.34        | 2             |
+| 🔴 Kháng cự    |   193.6   | 0.84        | 1             |
+| 🔴 Kháng cự    |   186.6   | 1.02        | 1             |
+| ▶ Giá hiện tại |   180     | —           | —             |
+| 🟢 Hỗ trợ      |   177.5   | 0.77        | 1             |
+| 🟢 Hỗ trợ      |   170.5   | 1.31        | 1             |
+| 🟢 Hỗ trợ      |   160.141 | 1.86        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VJC |
-| pe | 46.18 |
-| pb | 4.18 |
+| pe | 46.97 |
+| pb | 4.25 |
 | roe | 10.12 |
-| roe_pct_rank | 47 |
+| roe_pct_rank | 48 |
 | roa | 1.78 |
-| roa_pct_rank | 35 |
+| roa_pct_rank | 39 |
 | eps | 3805 |
 | bvps | 42005 |
-| beta | 0.73 |
+| beta | 0.74 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 100 |
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 1633500 | +23.7%     | 0.276%         |
-| 2026-04-20 |  920700 | -30.3%     | 0.156%         |
-| 2026-04-21 | 1478300 | +12.0%     | 0.250%         |
-| 2026-04-22 | 1254700 | -5.0%      | 0.212%         |
-| 2026-04-23 | 1053200 | -20.2%     | 0.178%         |
+| 2026-04-22 | 1254700 | -5.5%      | 0.212%         |
+| 2026-04-23 | 1053200 | -20.7%     | 0.178%         |
+| 2026-04-24 | 1581700 | +19.1%     | 0.267%         |
+| 2026-04-28 | 1353200 | +1.9%      | 0.229%         |
+| 2026-04-29 | 1495900 | +12.6%     | 0.253%         |
 
-- KL trung bình 60 phiên: **1,320,146**
+- KL trung bình 60 phiên: **1,328,065**
 - Số CP lưu hành: **591,611,334**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                        | publishtime             | url                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VJC: Thông báo thay đổi nhân sự - phân công lãnh đạo cấp cao                                                 | 2026-04-29T17:53:54     | /2026/04/vjc-thong-bao-thay-doi-nhan-su-phan-cong-lanh-dao-cap-cao-214-1435935.htm                                        |
+| VJC: BCTC quý 1 năm 2026                                                                                     | 2026-04-29T00:00:00     | /2026/04/vjc-bctc-quy-1-nam-2026-737-1436210.htm                                                                          |
+| VJC: BCTC Hợp nhất quý 1 năm 2026                                                                            | 2026-04-29T00:00:00     | /2026/04/vjc-bctc-hop-nhat-quy-1-nam-2026-737-1436211.htm                                                                 |
+| VJC: Thông báo thay đổi nhân sự - bổ sung Thành viên HĐQT                                                    | 2026-04-28T18:01:28     | /2026/04/vjc-thong-bao-thay-doi-nhan-su-bo-sung-thanh-vien-hdqt-214-1435040.htm                                           |
+| VJC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                       | 2026-04-28T17:24:55     | /2026/04/vjc-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434995.htm                                            |
 | VJC: Báo cáo thường niên năm 2025                                                                            | 2026-04-20T13:40:23     | /2026/04/vjc-bao-cao-thuong-nien-nam-2025-737-1430158.htm                                                                 |
 | Vietjet và SPDB Financial Leasing ký kết thoả thuận tài trợ thuê mua 10 tàu bay Comac                        | 2026-04-18T11:28:05.527 | /2026/04/vietjet-va-spdb-financial-leasing-ky-ket-thoa-thuan-tai-tro-thue-mua-10-tau-bay-comac-737-1429734.htm            |
 | Chính phủ 'bật đèn xanh' cho Vietjet tham gia đầu tư hạ tầng hàng không                                      | 2026-04-16T18:15:26.147 | /2026/04/chinh-phu-bat-den-xanh-cho-vietjet-tham-gia-dau-tu-ha-tang-hang-khong-768-1428714.htm                            |
 | VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                            | 2026-04-06T09:15:55     | /2026/04/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcdtn-2026-737-1423206.htm                                                 |
 | VJC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Phước Hùng Anh Victor | 2026-04-02T17:47:28     | /2026/04/vjc-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-phuoc-hung-anh-victor-739… |
-| VJC: Giải trình biến động KQKD kiểm toán năm 2025 so với cùng kỳ năm trước                                   | 2026-03-30T16:09:47     | /2026/03/vjc-giai-trinh-bien-dong-kqkd-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1418778.htm                        |
-| VJC: BCTC năm 2025                                                                                           | 2026-03-30T00:00:00     | /2026/03/vjc-bctc-nam-2025-737-1418749.htm                                                                                |
-| VJC: BCTC Hợp nhất năm 2025                                                                                  | 2026-03-30T00:00:00     | /2026/03/vjc-bctc-hop-nhat-nam-2025-737-1418751.htm                                                                       |
-| VJC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên 2026                                      | 2026-03-13T19:21:30     | /2026/03/vjc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-2026-737-1412248.htm                           |
-| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                              | 2026-03-10T17:51:50     | /2026/03/vjc-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1410504.htm                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vận tải - kho bãi |
-| % Ngành hôm nay | +0.20% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -0.20% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +0.56% |
+| % Cổ phiếu hôm nay | +0.73% |
+| RS (CP − Ngành) | +0.17% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VJC      | 2025-12-10 00:00:00 |  200.5 |  201   | 193.6 |   196.6 |  2538900 |
-| VJC      | 2025-12-11 00:00:00 |  195.7 |  196.3 | 187.9 |   188   |  1748000 |
-| VJC      | 2025-12-12 00:00:00 |  185   |  190.5 | 179.8 |   185   |  1994200 |
 | VJC      | 2025-12-15 00:00:00 |  184   |  187   | 183   |   186   |  1403500 |
 | VJC      | 2025-12-16 00:00:00 |  186.1 |  191.5 | 181.8 |   191.5 |  1586300 |
 | VJC      | 2025-12-17 00:00:00 |  191.6 |  191.6 | 185.1 |   185.1 |  1511100 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | VJC      | 2026-04-21 00:00:00 |  175.4 |  180.2 | 175   |   175.7 |  1478300 |
 | VJC      | 2026-04-22 00:00:00 |  175.8 |  176.4 | 173   |   175.7 |  1254700 |
 | VJC      | 2026-04-23 00:00:00 |  175.6 |  178   | 172.4 |   174.9 |  1053200 |
+| VJC      | 2026-04-24 00:00:00 |  174.8 |  180.5 | 172.2 |   180.5 |  1581700 |
+| VJC      | 2026-04-28 00:00:00 |  178.8 |  180.5 | 176.1 |   178.7 |  1353200 |
+| VJC      | 2026-04-29 00:00:00 |  177.7 |  181.5 | 176.2 |   180   |  1495900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VJC      | 2026-04-23 14:13:59 |   173   |      100 | Buy          | 467767084 |
-| VJC      | 2026-04-23 14:13:59 |   173.2 |     1400 | Buy          | 467767125 |
-| VJC      | 2026-04-23 14:13:59 |   173.2 |      100 | Buy          | 467767124 |
-| VJC      | 2026-04-23 14:13:59 |   173.2 |      100 | Buy          | 467767122 |
-| VJC      | 2026-04-23 14:13:59 |   173.1 |      400 | Buy          | 467767121 |
-| VJC      | 2026-04-23 14:13:59 |   173   |      500 | Buy          | 467767085 |
-| VJC      | 2026-04-23 14:13:59 |   173   |      100 | Buy          | 467767088 |
-| VJC      | 2026-04-23 14:13:59 |   173   |      100 | Buy          | 467767086 |
-| VJC      | 2026-04-23 14:13:59 |   173.1 |     1100 | Buy          | 467767089 |
-| VJC      | 2026-04-23 14:13:59 |   173   |      600 | Buy          | 467767087 |
+| VJC      | 2026-04-29 14:17:38 |   179.5 |      100 | Sell         | 469431612 |
+| VJC      | 2026-04-29 14:17:52 |   179.5 |      100 | Sell         | 469432345 |
+| VJC      | 2026-04-29 14:18:50 |   179.7 |      800 | Buy          | 469435312 |
+| VJC      | 2026-04-29 14:19:07 |   179.7 |      200 | Buy          | 469436171 |
+| VJC      | 2026-04-29 14:19:07 |   179.7 |      100 | Buy          | 469436172 |
+| VJC      | 2026-04-29 14:19:41 |   179.7 |      100 | Sell         | 469437782 |
+| VJC      | 2026-04-29 14:19:47 |   179.7 |      600 | Sell         | 469438027 |
+| VJC      | 2026-04-29 14:20:34 |   179.7 |      100 | Buy          | 469440549 |
+| VJC      | 2026-04-29 14:20:37 |   179.7 |      100 | Buy          | 469440765 |
+| VJC      | 2026-04-29 14:21:35 |   179.6 |      500 | Sell         | 469444070 |
 
 <!-- END:DAILY -->
 

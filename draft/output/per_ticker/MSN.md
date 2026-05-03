@@ -1,6 +1,6 @@
 # MSN — CTCP Tập đoàn Masan
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 23/04/2026 19:35  |  🗂 Quarterly: 03/04/2026 09:48
+> 📅 Daily: 03/05/2026 13:56  |  🗂 Quarterly: 03/04/2026 09:48
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | MSN |
 | exchange | HOSE |
-| market_cap | 118902468691400 |
+| market_cap | 116773779993600 |
 | 52w_high | 88500 |
 | 52w_high_date | 2025-09-15 |
-| 52w_low | 59900 |
-| 52w_low_date | 2025-04-24 |
-| foreign_ownership | 24.6001 |
+| 52w_low | 60900 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 24.5939 |
 | dividend | 0 |
-| beta | 0.8 |
-| eps | 2756 |
-| eps_forward | 24.639760464100803 |
-| bvps | 29647 |
-| pe | 28.66 |
-| pb | 2.66 |
-| price_chg_1m | 10.45 |
-| price_chg_ytd | 31.21 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
+| beta | 0.78 |
+| eps | 3286 |
+| eps_forward | 16.23257462475279 |
+| bvps | 30426 |
+| pe | 23.56 |
+| pb | 2.54 |
+| price_chg_1m | 1.99 |
+| price_chg_ytd | 22.88 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,84 +36,84 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 78.2 |
-| MA5 | 79.1 |
-| MA10 | 78.33 |
-| EMA20 | 77.316 |
-| EMA50 | 76.756 |
-| Slope MA20 (5p, %) | 1.46 |
-| ATR(14) | 2.034 |
-| RSI(14) | 55.7 |
+| Giá đóng cửa | 76.8 |
+| MA5 | 77.72 |
+| MA10 | 78.21 |
+| EMA20 | 77.265 |
+| EMA50 | 76.78 |
+| Slope MA20 (5p, %) | 0.3 |
+| ATR(14) | 1.948 |
+| RSI(14) | 48.9 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 1.0 |
-| MACD Signal | 0.776 |
-| MACD Histogram | 0.224 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 7037278 |
+| MACD | 0.622 |
+| MACD Signal | 0.754 |
+| MACD Histogram | -0.132 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 7068043 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    85.5   | 1.76        | 2             |
-| 🔴 Kháng cự    |    81.6   | 1.06        | 1             |
-| 🔴 Kháng cự    |    79.5   | 1.39        | 1             |
-| ▶ Giá hiện tại |    78.2   | —           | —             |
-| 🟢 Hỗ trợ      |    77.3   | 0.66        | 1             |
-| 🟢 Hỗ trợ      |    75.8   | 1.22        | 1             |
-| 🟢 Hỗ trợ      |    75.796 | 1.89        | 2             |
+| 🔴 Kháng cự    |    82.229 | 2.44        | 2             |
+| 🔴 Kháng cự    |    79.5   | 1.35        | 1             |
+| 🔴 Kháng cự    |    77.3   | 0.62        | 1             |
+| ▶ Giá hiện tại |    76.8   | —           | —             |
+| 🟢 Hỗ trợ      |    75.8   | 1.18        | 1             |
+| 🟢 Hỗ trợ      |    75.796 | 1.81        | 2             |
+| 🟢 Hỗ trợ      |    74.3   | 1.33        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSN |
-| pe | 28.66 |
-| pb | 2.66 |
+| pe | 23.56 |
+| pb | 2.54 |
 | roe | 15.76 |
 | roe_pct_rank | 59 |
 | roa | 2.97 |
-| roa_pct_rank | 40 |
-| eps | 2756 |
-| bvps | 29647 |
-| beta | 0.8 |
+| roa_pct_rank | 41 |
+| eps | 3286 |
+| bvps | 30426 |
+| beta | 0.78 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 84 |
-| pb_pct_rank | 92 |
+| pe_pct_rank | 72 |
+| pb_pct_rank | 88 |
 | financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |       KL | vs Avg60   | Turnover (%)   |
-|:-----------|---------:|:-----------|:---------------|
-| 2026-04-17 | 13601600 | +93.3%     | 0.895%         |
-| 2026-04-20 |  5211800 | -25.9%     | 0.343%         |
-| 2026-04-21 |  7452100 | +5.9%      | 0.490%         |
-| 2026-04-22 |  4824100 | -31.4%     | 0.317%         |
-| 2026-04-23 |  6071800 | -13.7%     | 0.399%         |
+| Ngày       |      KL | vs Avg60   | Turnover (%)   |
+|:-----------|--------:|:-----------|:---------------|
+| 2026-04-22 | 4824100 | -31.7%     | 0.317%         |
+| 2026-04-23 | 6071800 | -14.1%     | 0.399%         |
+| 2026-04-24 | 7800700 | +10.4%     | 0.513%         |
+| 2026-04-28 | 3730200 | -47.2%     | 0.245%         |
+| 2026-04-29 | 4028900 | -43.0%     | 0.265%         |
 
-- KL trung bình 60 phiên: **7,037,278**
+- KL trung bình 60 phiên: **7,068,043**
 - Số CP lưu hành: **1,520,491,927**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                         | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| MSN: Giải trình biến động lợi nhuận BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-28T09:45:24     | /2026/04/msn-giai-trinh-bien-dong-loi-nhuan-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434323.htm          |
+| MSN: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                    | 2026-04-24T18:47:37     | /2026/04/msn-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1433832.htm                                        |
+| MSN: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                           | 2026-04-24T18:47:37     | /2026/04/msn-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1433833.htm                                               |
+| Tỷ phú Nguyễn Đăng Quang: Đột phá của Masan là xây dựng được nền tảng bán lẻ đỉnh cao                         | 2026-04-24T13:17:00     | /2026/04/ty-phu-nguyen-dang-quang-dot-pha-cua-masan-la-xay-dung-duoc-nen-tang-ban-le-dinh-cao-737-1432714.htm             |
+| MSN: BCTC quý 1 năm 2026                                                                                      | 2026-04-24T00:00:00     | /2026/04/msn-bctc-quy-1-nam-2026-737-1434266.htm                                                                          |
+| MSN: BCTC Hợp nhất quý 1 năm 2026                                                                             | 2026-04-24T00:00:00     | /2026/04/msn-bctc-hop-nhat-quy-1-nam-2026-737-1434267.htm                                                                 |
 | Masan Consumer tăng trưởng hai chữ số quý 1: Triển vọng hoàn thành kế hoạch 2026 rõ nét?                      | 2026-04-20T12:52:00     | /2026/04/masan-consumer-tang-truong-hai-chu-so-quy-1-trien-vong-hoan-thanh-ke-hoach-2026-ro-net-737-1430118.htm           |
 | MSN: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Le Danny                                             | 2026-04-14T18:01:38     | /2026/04/msn-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-le-danny-739-1427687.htm                                 |
 | Một cổ phiếu VN-30 dự báo lãi quý 1 tăng trưởng 3 chữ số, được khối ngoại mua ròng mạnh nhất top 3 thị trường | 2026-04-14T14:32:08.923 | /2026/04/mot-co-phieu-vn-30-du-bao-lai-quy-1-tang-truong-3-chu-so-duoc-khoi-ngoai-mua-rong-manh-nhat-top-3-thi-truong-83… |
 | Một cổ phiếu, ba câu chuyện tăng trưởng: MSN đang ở thời điểm nào?                                            | 2026-04-07T08:02:00     | /2026/04/mot-co-phieu-ba-cau-chuyen-tang-truong-msn-dang-o-thoi-diem-nao-737-1423384.htm                                  |
-| Động lực nào giúp Masan đặt mục tiêu tăng trưởng lợi nhuận 7,900 tỷ đồng?                                     | 2026-04-03T17:00:00     | /2026/04/dong-luc-nao-giup-masan-dat-muc-tieu-tang-truong-loi-nhuan-7900-ty-dong-737-1422606.htm                          |
-| Masan công bố kế hoạch phân phối gần 55 triệu cp MSR                                                          | 2026-04-03T16:30:00     | /2026/04/masan-cong-bo-ke-hoach-phan-phoi-gan-55-trieu-cp-msr-737-1422548.htm                                             |
-| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                      | 2026-04-03T10:37:36     | /2026/04/msn-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422399.htm                                                          |
-| MSN: Báo cáo thường niên năm 2025                                                                             | 2026-04-02T14:30:36     | /2026/04/msn-bao-cao-thuong-nien-nam-2025-737-1421528.htm                                                                 |
-| MSN: Nghị quyết HĐQT về việc công ty TNHH Tầm Nhìn Masan bán cổ phần MSR ra thị trường                        | 2026-04-01T17:45:33     | /2026/04/msn-nghi-quyet-hdqt-ve-viec-cong-ty-tnhh-tam-nhin-masan-ban-co-phan-msr-ra-thi-truong-737-1421116.htm            |
-| MSN: Đính chính một số nội dung của Báo cáo tình hình quản trị công ty năm 2025                               | 2026-04-01T17:44:10     | /2026/04/msn-dinh-chinh-mot-so-noi-dung-cua-bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2025-737-1421126.htm                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | +0.06% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -0.06% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.99% |
+| % Cổ phiếu hôm nay | -0.78% |
+| RS (CP − Ngành) | +0.21% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSN      | 2025-12-10 00:00:00 |   77.1 |   77.4 |  76.6 |    77   |  3186100 |
-| MSN      | 2025-12-11 00:00:00 |   77.4 |   77.6 |  76   |    76.1 |  3520000 |
-| MSN      | 2025-12-12 00:00:00 |   76.5 |   76.6 |  73.1 |    73.5 |  8979200 |
 | MSN      | 2025-12-15 00:00:00 |   73.2 |   74.3 |  73   |    73.5 |  4188700 |
 | MSN      | 2025-12-16 00:00:00 |   73.9 |   75.2 |  73   |    74.5 |  4400000 |
 | MSN      | 2025-12-17 00:00:00 |   74.6 |   75   |  74   |    74   |  3573600 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | MSN      | 2026-04-21 00:00:00 |   80   |   80.9 |  78.8 |    79   |  7452100 |
 | MSN      | 2026-04-22 00:00:00 |   78.9 |   79.2 |  78.1 |    79   |  4824100 |
 | MSN      | 2026-04-23 00:00:00 |   79.2 |   79.3 |  77.1 |    78.2 |  6071800 |
+| MSN      | 2026-04-24 00:00:00 |   79   |   79.6 |  77.2 |    77.2 |  7800700 |
+| MSN      | 2026-04-28 00:00:00 |   77.2 |   77.9 |  76.7 |    77.4 |  3730200 |
+| MSN      | 2026-04-29 00:00:00 |   77   |   77.4 |  76.1 |    76.8 |  4028900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      500 | Sell         | 467828278 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      400 | Sell         | 467828287 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      100 | Sell         | 467828286 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      300 | Sell         | 467828285 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      200 | Sell         | 467828279 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      200 | Sell         | 467828282 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |     1000 | Sell         | 467828280 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      200 | Sell         | 467828284 |
-| MSN      | 2026-04-23 14:26:37 |    78.1 |      500 | Sell         | 467828281 |
-| MSN      | 2026-04-23 14:26:38 |    78.2 |      400 | Buy          | 467828345 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |     1000 | Sell         | 469474189 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |      900 | Sell         | 469474196 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |      100 | Sell         | 469474204 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |     2000 | Sell         | 469474203 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |      100 | Sell         | 469474200 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |     2500 | Sell         | 469474199 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |      100 | Sell         | 469474198 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |     7000 | Sell         | 469474197 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |     1000 | Sell         | 469474190 |
+| MSN      | 2026-04-29 14:29:17 |    76.1 |      100 | Sell         | 469474194 |
 
 <!-- END:DAILY -->
 

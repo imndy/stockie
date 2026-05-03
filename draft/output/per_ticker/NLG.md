@@ -1,6 +1,6 @@
 # NLG — CTCP Đầu tư Nam Long
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 23/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 03/05/2026 13:57  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | NLG |
 | exchange | HOSE |
-| market_cap | 13558471854850 |
+| market_cap | 13461452378250 |
 | 52w_high | 43088 |
 | 52w_high_date | 2025-08-14 |
 | 52w_low | 24200 |
 | 52w_low_date | 2026-03-09 |
-| foreign_ownership | 41.2975 |
+| foreign_ownership | 41.249 |
 | dividend | 499 |
-| beta | 1.06 |
-| eps | 1821 |
-| eps_forward | 16.81004939613812 |
-| bvps | 38497 |
-| pe | 15.62 |
-| pb | 0.74 |
-| price_chg_1m | 5.87 |
-| price_chg_ytd | 12.34 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.017853309481216457 |
+| beta | 1.02 |
+| eps | 1642 |
+| eps_forward | 16.278272789581905 |
+| bvps | 30737 |
+| pe | 16.78 |
+| pb | 0.90 |
+| price_chg_1m | -1.25 |
+| price_chg_ytd | 11.33 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.017981981981981983 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,54 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.95 |
-| MA5 | 28.33 |
-| MA10 | 28.7 |
-| EMA20 | 28.511 |
-| EMA50 | 28.642 |
-| Slope MA20 (5p, %) | -0.47 |
-| ATR(14) | 1.001 |
-| RSI(14) | 45.8 |
+| Giá đóng cửa | 27.75 |
+| MA5 | 27.87 |
+| MA10 | 28.23 |
+| EMA20 | 28.289 |
+| EMA50 | 28.542 |
+| Slope MA20 (5p, %) | -1.03 |
+| ATR(14) | 0.952 |
+| RSI(14) | 44.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.057 |
-| MACD Signal | 0.188 |
-| MACD Histogram | -0.131 |
+| MACD | -0.119 |
+| MACD Signal | 0.056 |
+| MACD Histogram | -0.175 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 3550867 |
+| KL avg 60 phiên | 3477252 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    30.009 | 2.41        | 2             |
-| 🔴 Kháng cự    |    29.882 | 1.29        | 2             |
-| 🔴 Kháng cự    |    28.7   | 0.78        | 1             |
-| ▶ Giá hiện tại |    27.95  | —           | —             |
-| 🟢 Hỗ trợ      |    27.6   | 0.91        | 1             |
-| 🟢 Hỗ trợ      |    26.983 | 2.35        | 2             |
-| 🟢 Hỗ trợ      |    26.35  | 1.25        | 1             |
+| 🔴 Kháng cự    |    30.009 | 2.34        | 2             |
+| 🔴 Kháng cự    |    29.882 | 1.21        | 2             |
+| 🔴 Kháng cự    |    28.7   | 0.74        | 1             |
+| ▶ Giá hiện tại |    27.75  | —           | —             |
+| 🟢 Hỗ trợ      |    27.6   | 0.87        | 1             |
+| 🟢 Hỗ trợ      |    26.983 | 2.28        | 2             |
+| 🟢 Hỗ trợ      |    26.35  | 1.22        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NLG |
-| pe | 15.62 |
-| pb | 0.74 |
+| pe | 16.78 |
+| pb | 0.90 |
 | roe | 6.44 |
 | roe_pct_rank | 39 |
 | roa | 2.47 |
 | roa_pct_rank | 38 |
-| eps | 1821 |
-| bvps | 38497 |
-| beta | 1.06 |
+| eps | 1642 |
+| bvps | 30737 |
+| beta | 1.02 |
 | dividend | 499 |
-| yield | 0.017853309481216457 |
-| pe_pct_rank | 56 |
-| pb_pct_rank | 30 |
+| yield | 0.017981981981981983 |
+| pe_pct_rank | 59 |
+| pb_pct_rank | 38 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 1290500 | -63.7%     | 0.266%         |
-| 2026-04-20 | 1634300 | -54.0%     | 0.337%         |
-| 2026-04-21 | 1813900 | -48.9%     | 0.374%         |
-| 2026-04-22 |  993600 | -72.0%     | 0.205%         |
-| 2026-04-23 | 2885500 | -18.7%     | 0.595%         |
+| 2026-04-22 |  993600 | -71.4%     | 0.205%         |
+| 2026-04-23 | 2885500 | -17.0%     | 0.595%         |
+| 2026-04-24 | 2196200 | -36.8%     | 0.453%         |
+| 2026-04-28 | 1015700 | -70.8%     | 0.209%         |
+| 2026-04-29 | 1954500 | -43.8%     | 0.403%         |
 
-- KL trung bình 60 phiên: **3,550,866**
+- KL trung bình 60 phiên: **3,477,251**
 - Số CP lưu hành: **485,097,383**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                         | publishtime         | url                                                                                                                   |
-|:----------------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------------|
-| Lộ diện danh sách ứng viên HĐQT Nam Long nhiệm kỳ 2026-2031                                   | 2026-04-16T14:02:00 | /2026/04/lo-dien-danh-sach-ung-vien-hdqt-nam-long-nhiem-ky-2026-2031-737-1430119.htm                                  |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                   | 2026-04-16T09:02:00 | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                      |
-| NLG: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Cao Tấn Thạch                        | 2026-04-15T17:35:22 | /2026/04/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-cao-tan-thach-739-1428215.htm                        |
-| NLG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Cao Duy Thông | 2026-04-14T18:00:42 | /2026/04/nlg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-cao-duy-thong-739-1427685.htm |
-| NLG: Quyết định về việc thực hiện giao dịch với bên liên quan                                 | 2026-04-10T16:56:51 | /2026/04/nlg-quyet-dinh-ve-viec-thuc-hien-giao-dich-voi-ben-lien-quan-830-1426261.htm                                 |
-| NLG: Báo cáo thường niên năm 2025                                                             | 2026-04-03T17:47:55 | /2026/04/nlg-bao-cao-thuong-nien-nam-2025-737-1422826.htm                                                             |
-| NLG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-03T17:44:17 | /2026/04/nlg-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1422825.htm                                                      |
-| NLG: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Giám đốc Nhân sự Tập đoàn            | 2026-03-30T18:12:50 | /2026/03/nlg-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-giam-doc-nhan-su-tap-doan-214-1419000.htm              |
-| NLG: BCTC Tóm tắt năm 2025                                                                    | 2026-03-18T00:00:00 | /2026/03/nlg-bctc-tom-tat-nam-2025-737-1413758.htm                                                                    |
-| NLG: BCTC Tóm tắt Hợp nhất năm 2025                                                           | 2026-03-18T00:00:00 | /2026/03/nlg-bctc-tom-tat-hop-nhat-nam-2025-737-1413759.htm                                                           |
+| title                                                                                       | publishtime         | url                                                                                                                |
+|:--------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------|
+| NLG: Nghị quyết HĐQT về việc bầu Chủ tịch, Phó Chủ tịch HĐQT và phân công các tiểu ban HĐQT | 2026-04-28T17:50:36 | /2026/04/nlg-nghi-quyet-hdqt-ve-viec-bau-chu-tich-pho-chu-tich-hdqt-va-phan-cong-cac-tieu-ban-hdqt-737-1435015.htm |
+| NLG: Nghị quyết HĐQT về việc phê duyệt giao dịch với bên có liên quan                       | 2026-04-28T17:50:35 | /2026/04/nlg-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-voi-ben-co-lien-quan-737-1435018.htm                      |
+| NLG: Nghị quyết HĐQT về việc thay đổi người đại diện theo pháp luật                         | 2026-04-28T17:50:33 | /2026/04/nlg-nghi-quyet-hdqt-ve-viec-thay-doi-nguoi-dai-dien-theo-phap-luat-737-1435020.htm                        |
+| NLG: Quyết định của TGĐ về việc phê duyệt giao dịch với bên có liên quan quý 2/2026         | 2026-04-28T17:50:31 | /2026/04/nlg-quyet-dinh-cua-tgd-ve-viec-phe-duyet-giao-dich-voi-ben-co-lien-quan-quy-2-2026-739-1435022.htm        |
+| NLG: Điều lệ công ty                                                                        | 2026-04-28T17:35:57 | /2026/04/nlg-dieu-le-cong-ty-737-1434990.htm                                                                       |
+| NLG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                      | 2026-04-28T17:35:18 | /2026/04/nlg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434988.htm                                     |
+| ĐHĐCĐ Nam Long: Tự tin đạt doanh số nhờ sản phẩm đa phân khúc và chính sách bán linh hoạt   | 2026-04-25T13:53:00 | /2026/04/dhdcd-nam-long-tu-tin-dat-doanh-so-nho-san-pham-da-phan-khuc-va-chinh-sach-ban-linh-hoat-737-1434015.htm  |
+| NLG: BCTC quý 1 năm 2026                                                                    | 2026-04-24T00:00:00 | /2026/04/nlg-bctc-quy-1-nam-2026-737-1434670.htm                                                                   |
+| NLG: BCTC Hợp nhất quý 1 năm 2026                                                           | 2026-04-24T00:00:00 | /2026/04/nlg-bctc-hop-nhat-quy-1-nam-2026-737-1434671.htm                                                          |
+| Lộ diện danh sách ứng viên HĐQT Nam Long nhiệm kỳ 2026-2031                                 | 2026-04-16T14:02:00 | /2026/04/lo-dien-danh-sach-ung-vien-hdqt-nam-long-nhiem-ky-2026-2031-737-1430119.htm                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +4.96% |
-| % Cổ phiếu hôm nay | +1.07% |
-| RS (CP − Ngành) | -3.89% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -3.50% |
+| % Cổ phiếu hôm nay | +0.73% |
+| RS (CP − Ngành) | +4.23% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NLG      | 2025-12-10 00:00:00 |  35.25 |  35.55 | 34.8  |   34.85 |  1038600 |
-| NLG      | 2025-12-11 00:00:00 |  35    |  35.25 | 34.75 |   34.8  |   485000 |
-| NLG      | 2025-12-12 00:00:00 |  35    |  35    | 32.4  |   32.9  |  2057100 |
 | NLG      | 2025-12-15 00:00:00 |  32.9  |  33.3  | 30.8  |   31.2  |  2670700 |
 | NLG      | 2025-12-16 00:00:00 |  31.1  |  32.5  | 30    |   32.2  |  3732200 |
 | NLG      | 2025-12-17 00:00:00 |  31.8  |  32.1  | 31.2  |   31.25 |  1478900 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | NLG      | 2026-04-21 00:00:00 |  28.65 |  28.95 | 28.15 |   28.15 |  1813900 |
 | NLG      | 2026-04-22 00:00:00 |  28.1  |  28.5  | 28.1  |   28.45 |   993600 |
 | NLG      | 2026-04-23 00:00:00 |  28.3  |  28.55 | 27.4  |   27.95 |  2885500 |
+| NLG      | 2026-04-24 00:00:00 |  28    |  28    | 27.35 |   27.65 |  2196200 |
+| NLG      | 2026-04-28 00:00:00 |  27.7  |  28.15 | 27.35 |   27.55 |  1015700 |
+| NLG      | 2026-04-29 00:00:00 |  27.35 |  28.15 | 27.35 |   27.75 |  1954500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NLG      | 2026-04-23 14:22:06 |   27.9  |      700 | Sell         | 467804812 |
-| NLG      | 2026-04-23 14:22:06 |   27.9  |     1800 | Sell         | 467804814 |
-| NLG      | 2026-04-23 14:22:14 |   27.95 |     3000 | Buy          | 467805401 |
-| NLG      | 2026-04-23 14:22:23 |   27.95 |      500 | Buy          | 467806236 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |      100 | Buy          | 467807314 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |     1000 | Buy          | 467807313 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |     1000 | Buy          | 467807312 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |      100 | Buy          | 467807316 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |    10000 | Buy          | 467807310 |
-| NLG      | 2026-04-23 14:22:36 |   27.95 |    15200 | Buy          | 467807309 |
+| NLG      | 2026-04-29 14:21:54 |    28.1 |      800 | Sell         | 469445057 |
+| NLG      | 2026-04-29 14:22:03 |    28.1 |     1500 | Sell         | 469446693 |
+| NLG      | 2026-04-29 14:22:07 |    28.1 |      100 | Sell         | 469447016 |
+| NLG      | 2026-04-29 14:22:32 |    28.1 |      600 | Sell         | 469448856 |
+| NLG      | 2026-04-29 14:22:32 |    28.1 |      200 | Sell         | 469448858 |
+| NLG      | 2026-04-29 14:22:38 |    28.1 |      700 | Sell         | 469449273 |
+| NLG      | 2026-04-29 14:22:40 |    28.1 |      100 | Sell         | 469449404 |
+| NLG      | 2026-04-29 14:23:38 |    28.1 |      500 | Buy          | 469452821 |
+| NLG      | 2026-04-29 14:23:38 |    28.1 |      500 | Buy          | 469452822 |
+| NLG      | 2026-04-29 14:23:47 |    28.1 |     3700 | Buy          | 469453381 |
 
 <!-- END:DAILY -->
 

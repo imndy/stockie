@@ -1,6 +1,6 @@
 # OCB — Ngân hàng TMCP Phương Đông
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 23/04/2026 19:35  |  🗂 Quarterly: 05/04/2026 19:58
+> 📅 Daily: 03/05/2026 13:58  |  🗂 Quarterly: 05/04/2026 19:58
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | OCB |
 | exchange | HOSE |
-| market_cap | 30491948651800 |
+| market_cap | 29959338195000 |
 | 52w_high | 14600 |
 | 52w_high_date | 2025-08-21 |
-| 52w_low | 9051 |
-| 52w_low_date | 2025-04-25 |
-| foreign_ownership | 19.6591 |
+| 52w_low | 9139 |
+| 52w_low_date | 2025-05-05 |
+| foreign_ownership | 19.6513 |
 | dividend | 700 |
-| beta | 0.7 |
+| beta | 0.68 |
 | eps | 1667 |
-| eps_forward | 4.381031091928954 |
+| eps_forward | 4.304506531371244 |
 | bvps | 13105.53 |
-| pe | 6.87 |
-| pb | 0.87 |
-| price_chg_1m | 7.01 |
-| price_chg_ytd | 23.50 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.0611353711790393 |
+| pe | 6.75 |
+| pb | 0.86 |
+| price_chg_1m | 2.27 |
+| price_chg_ytd | 23.10 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.06222222222222222 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,52 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 11.45 |
-| MA5 | 11.57 |
-| MA10 | 11.55 |
-| EMA20 | 11.396 |
-| EMA50 | 11.389 |
-| Slope MA20 (5p, %) | 0.9 |
-| ATR(14) | 0.264 |
-| RSI(14) | 52.6 |
+| Giá đóng cửa | 11.25 |
+| MA5 | 11.37 |
+| MA10 | 11.475 |
+| EMA20 | 11.374 |
+| EMA50 | 11.382 |
+| Slope MA20 (5p, %) | -0.09 |
+| ATR(14) | 0.255 |
+| RSI(14) | 46.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.099 |
-| MACD Signal | 0.086 |
-| MACD Histogram | 0.013 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1627647 |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.047 |
+| MACD Signal | 0.076 |
+| MACD Histogram | -0.029 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 1576890 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    12.376 | 1.45        | 2             |
-| 🔴 Kháng cự    |    11.846 | 4.47        | 4             |
-| 🔴 Kháng cự    |    11.65  | 4.03        | 5             |
-| ▶ Giá hiện tại |    11.45  | —           | —             |
-| 🟢 Hỗ trợ      |    11.35  | 1.0         | 1             |
-| 🟢 Hỗ trợ      |    10.722 | 2.61        | 2             |
-| 🟢 Hỗ trợ      |    10.4   | 1.15        | 1             |
+| 🔴 Kháng cự    |    11.875 | 5.75        | 5             |
+| 🔴 Kháng cự    |    11.65  | 3.84        | 5             |
+| 🔴 Kháng cự    |    11.35  | 0.96        | 1             |
+| ▶ Giá hiện tại |    11.25  | —           | —             |
+| 🟢 Hỗ trợ      |    10.722 | 2.55        | 2             |
+| 🟢 Hỗ trợ      |    10.4   | 1.11        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | OCB |
-| pe | 6.87 |
-| pb | 0.87 |
+| pe | 6.75 |
+| pb | 0.86 |
 | roe | 12.28 |
 | roe_pct_rank | 52 |
 | roa | 1.33 |
-| roa_pct_rank | 33 |
+| roa_pct_rank | 37 |
 | eps | 1667 |
 | bvps | 13105.53 |
-| beta | 0.7 |
+| beta | 0.68 |
 | dividend | 700 |
-| yield | 0.0611353711790393 |
+| yield | 0.06222222222222222 |
 | pe_pct_rank | 36 |
 | pb_pct_rank | 36 |
 | financial_date | 12/2025 |
@@ -91,29 +90,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 2993900 | +83.9%     | 0.112%         |
-| 2026-04-20 | 2740500 | +68.4%     | 0.103%         |
-| 2026-04-21 | 1334900 | -18.0%     | 0.050%         |
-| 2026-04-22 | 1339300 | -17.7%     | 0.050%         |
-| 2026-04-23 | 2180600 | +34.0%     | 0.082%         |
+| 2026-04-22 | 1339300 | -15.1%     | 0.050%         |
+| 2026-04-23 | 2180600 | +38.3%     | 0.082%         |
+| 2026-04-24 | 1281300 | -18.7%     | 0.048%         |
+| 2026-04-28 | 1131300 | -28.3%     | 0.042%         |
+| 2026-04-29 |  650900 | -58.7%     | 0.024%         |
 
-- KL trung bình 60 phiên: **1,627,646**
+- KL trung bình 60 phiên: **1,576,890**
 - Số CP lưu hành: **2,663,052,284**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                               | publishtime         | url                                                                                                         |
-|:------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
-| Lợi nhuận quý 1/2026 OCB đạt 1,224 tỷ đồng, ghi nhận tăng trưởng ấn tượng           | 2026-04-22T17:17:00 | /2026/04/loi-nhuan-quy-12026-ocb-dat-1224-ty-dong-ghi-nhan-tang-truong-an-tuong-737-1432082.htm             |
-| OCB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                  | 2026-04-22T16:41:47 | /2026/04/ocb-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1432133.htm                  |
-| OCB đẩy mạnh hoạt động cộng đồng, tiếp sức cho nhiều trẻ em mắc bệnh tim bẩm sinh   | 2026-04-22T08:32:00 | /2026/04/ocb-day-manh-hoat-dong-cong-dong-tiep-suc-cho-nhieu-tre-em-mac-benh-tim-bam-sinh-757-1431563.htm   |
-| OCB: BCTC Hợp nhất quý 1 năm 2026                                                   | 2026-04-22T00:00:00 | /2026/04/ocb-bctc-hop-nhat-quy-1-nam-2026-737-1432139.htm                                                   |
-| OCB: BCTC quý 1 năm 2026                                                            | 2026-04-22T00:00:00 | /2026/04/ocb-bctc-quy-1-nam-2026-737-1432140.htm                                                            |
-| OCB và Daiwa Corporate Investment ký kết hợp tác chiến lược                         | 2026-04-21T08:32:00 | /2026/04/ocb-va-daiwa-corporate-investment-ky-ket-hop-tac-chien-luoc-757-1430723.htm                        |
-| OCB ra mắt giải chạy trực tuyến “Green Race 2026 - Theo dấu Bình Minh”              | 2026-04-17T08:32:00 | /2026/04/ocb-ra-mat-giai-chay-truc-tuyen-green-race-2026-theo-dau-binh-minh-757-1428875.htm                 |
-| OCB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                              | 2026-04-15T18:13:55 | /2026/04/ocb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1428296.htm                              |
-| OCB: Thông báo thay đổi nhân sự                                                     | 2026-04-15T18:13:53 | /2026/04/ocb-thong-bao-thay-doi-nhan-su-214-1428298.htm                                                     |
-| ĐHĐCĐ OCB: Mục tiêu đạt Top 5 ngân hàng về hiệu quả và phát triển bền vững vào 2030 | 2026-04-15T12:07:00 | /2026/04/dhdcd-ocb-muc-tieu-dat-top-5-ngan-hang-ve-hieu-qua-va-phat-trien-ben-vung-vao-2030-737-1426958.htm |
+| title                                                                             | publishtime         | url                                                                                                       |
+|:----------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------|
+| OCB: Nghị quyết HĐQT số 46/2026 ngày 24/04/2026                                   | 2026-04-24T18:54:52 | /2026/04/ocb-nghi-quyet-hdqt-so-46-2026-ngay-24-04-2026-737-1433844.htm                                   |
+| OCB: Nghị quyết HĐQT số 45/2026 ngày 24/04/2026                                   | 2026-04-24T18:54:51 | /2026/04/ocb-nghi-quyet-hdqt-so-45-2026-ngay-24-04-2026-737-1433845.htm                                   |
+| Thẻ OCB mang đến loạt ưu đãi trong dịp lễ                                         | 2026-04-24T15:17:00 | /2026/04/the-ocb-mang-den-loat-uu-dai-trong-dip-le-757-1433258.htm                                        |
+| OCB và NGF Partner ký kết hợp tác chiến lược hỗ trợ doanh nghiệp SME Việt Nam     | 2026-04-24T08:02:00 | /2026/04/ocb-va-ngf-partner-ky-ket-hop-tac-chien-luoc-ho-tro-doanh-nghiep-sme-viet-nam-757-1432700.htm    |
+| Lợi nhuận quý 1/2026 OCB đạt 1,224 tỷ đồng, ghi nhận tăng trưởng ấn tượng         | 2026-04-22T17:17:00 | /2026/04/loi-nhuan-quy-12026-ocb-dat-1224-ty-dong-ghi-nhan-tang-truong-an-tuong-737-1432082.htm           |
+| OCB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                | 2026-04-22T16:41:47 | /2026/04/ocb-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1432133.htm                |
+| OCB đẩy mạnh hoạt động cộng đồng, tiếp sức cho nhiều trẻ em mắc bệnh tim bẩm sinh | 2026-04-22T08:32:00 | /2026/04/ocb-day-manh-hoat-dong-cong-dong-tiep-suc-cho-nhieu-tre-em-mac-benh-tim-bam-sinh-757-1431563.htm |
+| OCB: BCTC Hợp nhất quý 1 năm 2026                                                 | 2026-04-22T00:00:00 | /2026/04/ocb-bctc-hop-nhat-quy-1-nam-2026-737-1432139.htm                                                 |
+| OCB: BCTC quý 1 năm 2026                                                          | 2026-04-22T00:00:00 | /2026/04/ocb-bctc-quy-1-nam-2026-737-1432140.htm                                                          |
+| OCB và Daiwa Corporate Investment ký kết hợp tác chiến lược                       | 2026-04-21T08:32:00 | /2026/04/ocb-va-daiwa-corporate-investment-ky-ket-hop-tac-chien-luoc-757-1430723.htm                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.12% |
+| % Ngành hôm nay | -0.16% |
 | % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | +0.12% |
+| RS (CP − Ngành) | +0.16% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| OCB      | 2025-12-10 00:00:00 |  12.25 |  12.3  | 12.2  |   12.25 |  1232900 |
-| OCB      | 2025-12-11 00:00:00 |  12.3  |  12.35 | 12.2  |   12.2  |  1121100 |
-| OCB      | 2025-12-12 00:00:00 |  12.25 |  12.3  | 11.9  |   11.9  |  2533000 |
 | OCB      | 2025-12-15 00:00:00 |  11.9  |  11.95 | 11.75 |   11.75 |  1510900 |
 | OCB      | 2025-12-16 00:00:00 |  11.9  |  12.15 | 11.65 |   12    |  1330800 |
 | OCB      | 2025-12-17 00:00:00 |  12    |  12.05 | 11.9  |   11.9  |   784100 |
@@ -223,21 +219,24 @@ _Không có dữ liệu_
 | OCB      | 2026-04-21 00:00:00 |  11.65 |  11.75 | 11.45 |   11.45 |  1334900 |
 | OCB      | 2026-04-22 00:00:00 |  11.45 |  11.55 | 11.35 |   11.45 |  1339300 |
 | OCB      | 2026-04-23 00:00:00 |  11.55 |  11.65 | 11.35 |   11.45 |  2180600 |
+| OCB      | 2026-04-24 00:00:00 |  11.45 |  11.5  | 11.3  |   11.45 |  1281300 |
+| OCB      | 2026-04-28 00:00:00 |  11.45 |  11.5  | 11.25 |   11.25 |  1131300 |
+| OCB      | 2026-04-29 00:00:00 |  11.25 |  11.35 | 11.15 |   11.25 |   650900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| OCB      | 2026-04-23 14:04:28 |   11.4  |      100 | Sell         | 467721034 |
-| OCB      | 2026-04-23 14:04:29 |   11.4  |     5000 | Sell         | 467721195 |
-| OCB      | 2026-04-23 14:04:31 |   11.4  |      500 | Sell         | 467721510 |
-| OCB      | 2026-04-23 14:04:54 |   11.4  |      200 | Sell         | 467724403 |
-| OCB      | 2026-04-23 14:05:17 |   11.4  |      500 | Sell         | 467727512 |
-| OCB      | 2026-04-23 14:05:45 |   11.4  |      100 | Sell         | 467730904 |
-| OCB      | 2026-04-23 14:06:34 |   11.4  |      400 | Sell         | 467735462 |
-| OCB      | 2026-04-23 14:06:49 |   11.45 |    18300 | Buy          | 467736639 |
-| OCB      | 2026-04-23 14:06:49 |   11.45 |     4400 | Buy          | 467736640 |
-| OCB      | 2026-04-23 14:07:43 |   11.45 |      600 | Buy          | 467741253 |
+| OCB      | 2026-04-29 13:46:36 |   11.3  |      500 | Buy          | 469347523 |
+| OCB      | 2026-04-29 13:46:36 |   11.3  |     1000 | Buy          | 469347524 |
+| OCB      | 2026-04-29 13:46:36 |   11.3  |     4800 | Buy          | 469347525 |
+| OCB      | 2026-04-29 13:46:51 |   11.3  |      100 | Buy          | 469348360 |
+| OCB      | 2026-04-29 13:46:55 |   11.3  |     1200 | Buy          | 469348552 |
+| OCB      | 2026-04-29 13:47:12 |   11.3  |     1000 | Buy          | 469349474 |
+| OCB      | 2026-04-29 13:47:21 |   11.25 |     4300 | Sell         | 469349874 |
+| OCB      | 2026-04-29 13:47:43 |   11.25 |      400 | Sell         | 469351180 |
+| OCB      | 2026-04-29 13:48:18 |   11.25 |     1000 | Sell         | 469352679 |
+| OCB      | 2026-04-29 13:50:46 |   11.3  |      100 | Buy          | 469358885 |
 
 <!-- END:DAILY -->
 

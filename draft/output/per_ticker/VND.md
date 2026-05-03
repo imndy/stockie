@@ -1,6 +1,6 @@
 # VND — CTCP Chứng khoán VNDIRECT
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 23/04/2026 19:40  |  🗂 Quarterly: 05/04/2026 20:05
+> 📅 Daily: 03/05/2026 14:03  |  🗂 Quarterly: 05/04/2026 20:05
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VND |
 | exchange | HOSE |
-| market_cap | 24737373505000 |
+| market_cap | 24509028518800 |
 | 52w_high | 26800 |
 | 52w_high_date | 2025-09-03 |
 | 52w_low | 14105 |
 | 52w_low_date | 2025-05-07 |
-| foreign_ownership | 9.8367 |
+| foreign_ownership | 9.7117 |
 | dividend | 500 |
-| beta | 1.1 |
+| beta | 1.06 |
 | eps | 1435 |
-| eps_forward | 13.692396789939604 |
+| eps_forward | 13.278729213204269 |
 | bvps | 14089.37 |
-| pe | 11.53 |
-| pb | 1.17 |
-| price_chg_1m | 13.64 |
-| price_chg_ytd | 11.01 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.030769230769230767 |
+| pe | 11.18 |
+| pb | 1.14 |
+| price_chg_1m | 2.88 |
+| price_chg_ytd | 13.75 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.031055900621118012 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,52 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.25 |
-| MA5 | 16.54 |
-| MA10 | 16.63 |
-| EMA20 | 16.474 |
-| EMA50 | 16.917 |
-| Slope MA20 (5p, %) | 0.2 |
-| ATR(14) | 0.514 |
-| RSI(14) | 45.9 |
+| Giá đóng cửa | 16.1 |
+| MA5 | 16.23 |
+| MA10 | 16.44 |
+| EMA20 | 16.38 |
+| EMA50 | 16.825 |
+| Slope MA20 (5p, %) | -0.68 |
+| ATR(14) | 0.476 |
+| RSI(14) | 44.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.023 |
-| MACD Signal | -0.081 |
-| MACD Histogram | 0.057 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 11932063 |
+| MACD | -0.092 |
+| MACD Signal | -0.077 |
+| MACD Histogram | -0.014 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 11555988 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    18.3   | 1.47        | 2             |
-| 🔴 Kháng cự    |    17.472 | 1.6         | 2             |
-| 🔴 Kháng cự    |    17.2   | 1.43        | 1             |
-| ▶ Giá hiện tại |    16.25  | —           | —             |
-| 🟢 Hỗ trợ      |    14.3   | 1.25        | 1             |
+| 🔴 Kháng cự    |    18.3   | 1.39        | 2             |
+| 🔴 Kháng cự    |    17.472 | 1.53        | 2             |
+| 🔴 Kháng cự    |    17.2   | 1.39        | 1             |
+| ▶ Giá hiện tại |    16.1   | —           | —             |
+| 🟢 Hỗ trợ      |    14.3   | 1.22        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VND |
-| pe | 11.53 |
-| pb | 1.17 |
+| pe | 11.18 |
+| pb | 1.14 |
 | roe | 9.96 |
 | roe_pct_rank | 47 |
 | roa | 4.22 |
 | roa_pct_rank | 46 |
 | eps | 1435 |
 | bvps | 14089.37 |
-| beta | 1.1 |
+| beta | 1.06 |
 | dividend | 500 |
-| yield | 0.030769230769230767 |
-| pe_pct_rank | 48 |
-| pb_pct_rank | 50 |
+| yield | 0.031055900621118012 |
+| pe_pct_rank | 47 |
+| pb_pct_rank | 49 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -89,29 +89,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 7095600 | -40.5%     | 0.466%         |
-| 2026-04-20 | 7920700 | -33.6%     | 0.520%         |
-| 2026-04-21 | 9627900 | -19.3%     | 0.632%         |
-| 2026-04-22 | 5953000 | -50.1%     | 0.391%         |
-| 2026-04-23 | 9167300 | -23.2%     | 0.602%         |
+| 2026-04-22 | 5953000 | -48.5%     | 0.391%         |
+| 2026-04-23 | 9167300 | -20.7%     | 0.602%         |
+| 2026-04-24 | 5029800 | -56.5%     | 0.330%         |
+| 2026-04-28 | 5025900 | -56.5%     | 0.330%         |
+| 2026-04-29 | 9045600 | -21.7%     | 0.594%         |
 
-- KL trung bình 60 phiên: **11,932,063**
+- KL trung bình 60 phiên: **11,555,988**
 - Số CP lưu hành: **1,522,299,908**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime         | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Lãi ròng VNDIRECT tăng 43% trong quý 1                                                                   | 2026-04-21T19:45:00 | /2026/04/lai-rong-vndirect-tang-43-trong-quy-1-737-1431451.htm                                                            |
-| VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00 | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
-| VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12 | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
-| VND: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-20T00:00:00 | /2026/04/vnd-bctc-tom-tat-quy-1-nam-2026-737-1431244.htm                                                                  |
-| VND: VNDIRECT công bố Báo cáo thường niên năm 2025                                                       | 2026-04-17T00:00:00 | /2026/04/vnd-vndirect-cong-bo-bao-cao-thuong-nien-nam-2025-737-1429616.htm                                                |
-| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5                              | 2026-04-10T15:05:14 | /2026/04/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-1426088.htm                       |
-| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                | 2026-04-09T15:32:17 | /2026/04/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1425534.htm                          |
-| VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
-| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026                  | 2026-04-08T16:30:59 | /2026/04/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1425046.htm           |
-| VND: VNDIRECT công bố Nghị quyết HĐQT về việc chào bán chứng quyền có bảo đảm đợt 1 năm 2026             | 2026-04-07T00:00:00 | /2026/04/vnd-vndirect-cong-bo-nghi-quyet-hdqt-ve-viec-chao-ban-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1424345.htm      |
+| title                                                                                                    | publishtime            | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| 21 công ty chứng khoán báo lỗ trong quý 1                                                                | 2026-04-28T10:42:25.49 | /2026/04/21-cong-ty-chung-khoan-bao-lo-trong-quy-1-737-1434265.htm                                                        |
+| Lãi ròng VNDIRECT tăng 43% trong quý 1                                                                   | 2026-04-21T19:45:00    | /2026/04/lai-rong-vndirect-tang-43-trong-quy-1-737-1431451.htm                                                            |
+| VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00    | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
+| VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12    | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
+| VND: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-20T00:00:00    | /2026/04/vnd-bctc-tom-tat-quy-1-nam-2026-737-1431244.htm                                                                  |
+| VND: VNDIRECT công bố Báo cáo thường niên năm 2025                                                       | 2026-04-17T00:00:00    | /2026/04/vnd-vndirect-cong-bo-bao-cao-thuong-nien-nam-2025-737-1429616.htm                                                |
+| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5                              | 2026-04-10T15:05:14    | /2026/04/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-1426088.htm                       |
+| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                | 2026-04-09T15:32:17    | /2026/04/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1425534.htm                          |
+| VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00    | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
+| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026                  | 2026-04-08T16:30:59    | /2026/04/vnd-nghi-quyet-hdqt-ve-viec-chao-ban-va-niem-yet-chung-quyen-co-bao-dam-dot-1-nam-2026-737-1425046.htm           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,18 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.58% |
-| % Cổ phiếu hôm nay | -0.60% |
-| RS (CP − Ngành) | -0.02% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.19% |
+| % Cổ phiếu hôm nay | +0.31% |
+| RS (CP − Ngành) | +0.50% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VND      | 2025-12-10 00:00:00 |  18.7  |  19    | 18.55 |   18.6  |  7770200 |
-| VND      | 2025-12-11 00:00:00 |  18.7  |  18.9  | 18.5  |   18.6  |  7543600 |
-| VND      | 2025-12-12 00:00:00 |  18.65 |  18.8  | 17.5  |   17.5  | 16560100 |
 | VND      | 2025-12-15 00:00:00 |  17.7  |  17.95 | 17.5  |   17.7  |  9804800 |
 | VND      | 2025-12-16 00:00:00 |  17.7  |  18.9  | 17.45 |   18.9  | 17912200 |
 | VND      | 2025-12-17 00:00:00 |  18.9  |  19.2  | 18.75 |   18.85 | 16161700 |
@@ -221,21 +218,24 @@ _Không có dữ liệu_
 | VND      | 2026-04-21 00:00:00 |  16.9  |  17.05 | 16.6  |   16.65 |  9627900 |
 | VND      | 2026-04-22 00:00:00 |  16.65 |  16.75 | 16.5  |   16.55 |  5953000 |
 | VND      | 2026-04-23 00:00:00 |  16.55 |  16.65 | 16.1  |   16.25 |  9167300 |
+| VND      | 2026-04-24 00:00:00 |  16.25 |  16.4  | 16.15 |   16.2  |  5029800 |
+| VND      | 2026-04-28 00:00:00 |  16.2  |  16.3  | 16.05 |   16.05 |  5025900 |
+| VND      | 2026-04-29 00:00:00 |  16.1  |  16.35 | 15.9  |   16.1  |  9045600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VND      | 2026-04-23 14:27:14 |   16.4  |     1000 | Sell         | 467831323 |
-| VND      | 2026-04-23 14:27:14 |   16.4  |     1000 | Sell         | 467831324 |
-| VND      | 2026-04-23 14:27:14 |   16.4  |     5400 | Sell         | 467831325 |
-| VND      | 2026-04-23 14:27:21 |   16.4  |     3000 | Sell         | 467832009 |
-| VND      | 2026-04-23 14:27:23 |   16.4  |      500 | Sell         | 467832200 |
-| VND      | 2026-04-23 14:27:35 |   16.4  |     1000 | Sell         | 467833103 |
-| VND      | 2026-04-23 14:27:36 |   16.45 |      100 | Buy          | 467833229 |
-| VND      | 2026-04-23 14:27:37 |   16.4  |      100 | Sell         | 467833296 |
-| VND      | 2026-04-23 14:27:37 |   16.4  |     1000 | Sell         | 467833294 |
-| VND      | 2026-04-23 14:27:37 |   16.4  |      100 | Sell         | 467833288 |
+| VND      | 2026-04-29 14:27:35 |    16.1 |      100 | Sell         | 469466152 |
+| VND      | 2026-04-29 14:27:37 |    16.1 |      200 | Sell         | 469466274 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |     1000 | Sell         | 469466901 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |     1000 | Sell         | 469466959 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |      100 | Sell         | 469466924 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |      200 | Sell         | 469466921 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |      400 | Sell         | 469466900 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |      500 | Sell         | 469466906 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |      300 | Sell         | 469466904 |
+| VND      | 2026-04-29 14:27:49 |    16.1 |     1000 | Sell         | 469466903 |
 
 <!-- END:DAILY -->
 

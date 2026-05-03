@@ -1,6 +1,6 @@
 # GVR — Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 23/04/2026 19:32  |  🗂 Quarterly: 05/04/2026 12:20
+> 📅 Daily: 03/05/2026 13:54  |  🗂 Quarterly: 05/04/2026 12:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | GVR |
 | exchange | HOSE |
-| market_cap | 130400000000000 |
+| market_cap | 134800000000000 |
 | 52w_high | 45750 |
 | 52w_high_date | 2026-03-03 |
-| 52w_low | 23170 |
-| 52w_low_date | 2025-04-28 |
-| foreign_ownership | 0.66 |
+| 52w_low | 23958 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 0.6464 |
 | dividend | 400 |
-| beta | 1.05 |
-| eps | 1372 |
-| eps_forward | 26.336952151186168 |
-| bvps | 15638 |
-| pe | 23.87 |
-| pb | 2.09 |
-| price_chg_1m | 13.99 |
-| price_chg_ytd | 42.83 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.012269938650306749 |
+| beta | 1 |
+| eps | 1638 |
+| eps_forward | 23.749550197912917 |
+| bvps | 16246 |
+| pe | 20.14 |
+| pb | 2.03 |
+| price_chg_1m | 5.15 |
+| price_chg_ytd | 44.22 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.011869436201780416 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,54 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 32.6 |
-| MA5 | 32.9 |
-| MA10 | 32.865 |
-| EMA20 | 32.818 |
-| EMA50 | 33.532 |
-| Slope MA20 (5p, %) | 0.08 |
-| ATR(14) | 1.429 |
-| RSI(14) | 47.8 |
+| Giá đóng cửa | 33.7 |
+| MA5 | 33.08 |
+| MA10 | 32.975 |
+| EMA20 | 32.959 |
+| EMA50 | 33.494 |
+| Slope MA20 (5p, %) | 0.33 |
+| ATR(14) | 1.401 |
+| RSI(14) | 53.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.311 |
-| MACD Signal | -0.51 |
-| MACD Histogram | 0.199 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.119 |
+| MACD Signal | -0.347 |
+| MACD Histogram | 0.228 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 5645857 |
+| KL avg 60 phiên | 5412983 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     35.1  | 1.03        | 1             |
-| 🔴 Kháng cự    |     34.15 | 1.41        | 1             |
-| 🔴 Kháng cự    |     33.5  | 1.31        | 1             |
-| ▶ Giá hiện tại |     32.6  | —           | —             |
-| 🟢 Hỗ trợ      |     31.9  | 1.43        | 1             |
-| 🟢 Hỗ trợ      |     30.5  | 1.36        | 1             |
-| 🟢 Hỗ trợ      |     28.6  | 2.51        | 2             |
+| 🔴 Kháng cự    |     43.8  | 0.91        | 1             |
+| 🔴 Kháng cự    |     35.1  | 0.99        | 1             |
+| 🔴 Kháng cự    |     34.15 | 2.79        | 2             |
+| ▶ Giá hiện tại |     33.7  | —           | —             |
+| 🟢 Hỗ trợ      |     33.5  | 1.28        | 1             |
+| 🟢 Hỗ trợ      |     31.9  | 1.39        | 1             |
+| 🟢 Hỗ trợ      |     30.5  | 1.33        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GVR |
-| pe | 23.87 |
-| pb | 2.09 |
+| pe | 20.14 |
+| pb | 2.03 |
 | roe | 10.51 |
 | roe_pct_rank | 48 |
 | roa | 6.62 |
 | roa_pct_rank | 56 |
-| eps | 1372 |
-| bvps | 15638 |
-| beta | 1.05 |
+| eps | 1638 |
+| bvps | 16246 |
+| beta | 1 |
 | dividend | 400 |
-| yield | 0.012269938650306749 |
-| pe_pct_rank | 74 |
-| pb_pct_rank | 76 |
+| yield | 0.011869436201780416 |
+| pe_pct_rank | 65 |
+| pb_pct_rank | 74 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 7670800 | +35.9%     | 0.192%         |
-| 2026-04-20 | 2060200 | -63.5%     | 0.052%         |
-| 2026-04-21 | 2498000 | -55.8%     | 0.062%         |
-| 2026-04-22 | 1974400 | -65.0%     | 0.049%         |
-| 2026-04-23 | 2807500 | -50.3%     | 0.070%         |
+| 2026-04-22 | 1974400 | -63.5%     | 0.049%         |
+| 2026-04-23 | 2807500 | -48.1%     | 0.070%         |
+| 2026-04-24 | 3028100 | -44.1%     | 0.076%         |
+| 2026-04-28 | 2409800 | -55.5%     | 0.060%         |
+| 2026-04-29 | 4047300 | -25.2%     | 0.101%         |
 
-- KL trung bình 60 phiên: **5,645,856**
+- KL trung bình 60 phiên: **5,412,983**
 - Số CP lưu hành: **4,000,000,000**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| GVR: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-04-22T17:37:19     | /2026/04/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1432251.htm                       |
-| GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23     | /2026/04/gvr-bao-cao-thuong-nien-nam-2025-737-1429990.htm                                                                 |
-| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57     | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
-| GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
-| GVR: BCTC Tóm tắt Hợp nhất năm 2025                                                                                       | 2026-03-30T00:00:00     | /2026/03/gvr-bctc-tom-tat-hop-nhat-nam-2025-737-1419161.htm                                                               |
-| Phân tích kỹ thuật phiên chiều 23/03: Điều chỉnh mạnh                                                                     | 2026-03-23T13:10:11.82  | /2026/03/phan-tich-ky-thuat-phien-chieu-2303-dieu-chinh-manh-585-1415026.htm                                              |
-| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                                      | 2026-03-18T11:02:00     | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
-| Tập đoàn Cao su Việt Nam đặt mục tiêu doanh thu 2 tỷ USD sau năm 2030                                                     | 2026-02-27T22:05:00     | /2026/02/tap-doan-cao-su-viet-nam-dat-muc-tieu-doanh-thu-2-ty-usd-sau-nam-2030-737-1406648.htm                            |
-| Phân tích kỹ thuật phiên chiều 24/02: Giằng co mạnh                                                                       | 2026-02-24T13:14:50.463 | /2026/02/phan-tich-ky-thuat-phien-chieu-2402-giang-co-manh-585-1405019.htm                                                |
-| Cổ phiếu Tập đoàn Công nghiệp Cao su thăng hoa, nhưng lợi nhuận giảm gần nửa trong quý 4/2025                             | 2026-02-03T11:03:57.33  | /2026/02/co-phieu-tap-doan-cong-nghiep-cao-su-thang-hoa-nhung-loi-nhuan-giam-gan-nua-trong-quy-42025-737-1399433.htm      |
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| GVR: Thông báo thay đổi nhân sự                                                                                           | 2026-04-29T19:09:42    | /2026/04/gvr-thong-bao-thay-doi-nhan-su-214-1436182.htm                                                                   |
+| GVR: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-28T00:00:00    | /2026/04/gvr-bctc-tom-tat-quy-1-nam-2026-737-1435007.htm                                                                  |
+| GVR: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                                                 | 2026-04-28T00:00:00    | /2026/04/gvr-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1435008.htm                                                         |
+| GVR: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-04-22T17:37:19    | /2026/04/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1432251.htm                       |
+| GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23    | /2026/04/gvr-bao-cao-thuong-nien-nam-2025-737-1429990.htm                                                                 |
+| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57    | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
+| GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00    | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
+| GVR: BCTC Tóm tắt Hợp nhất năm 2025                                                                                       | 2026-03-30T00:00:00    | /2026/03/gvr-bctc-tom-tat-hop-nhat-nam-2025-737-1419161.htm                                                               |
+| Phân tích kỹ thuật phiên chiều 23/03: Điều chỉnh mạnh                                                                     | 2026-03-23T13:10:11.82 | /2026/03/phan-tich-ky-thuat-phien-chieu-2303-dieu-chinh-manh-585-1415026.htm                                              |
+| Vị thế tiền mặt ròng là gì và ai đang đứng đầu trên sàn chứng khoán?                                                      | 2026-03-18T11:02:00    | /2026/03/vi-the-tien-mat-rong-la-gi-va-ai-dang-dung-dau-tren-san-chung-khoan-737-1413395.htm                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.34% |
-| % Cổ phiếu hôm nay | +0.31% |
-| RS (CP − Ngành) | -0.03% |
+| % Ngành hôm nay | +2.14% |
+| % Cổ phiếu hôm nay | +2.12% |
+| RS (CP − Ngành) | -0.02% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| GVR      | 2025-12-10 00:00:00 |  26.8  |  27.1  | 26.75 |   26.75 |  1098300 |
-| GVR      | 2025-12-11 00:00:00 |  26.8  |  27    | 26.6  |   26.65 |  1028300 |
-| GVR      | 2025-12-12 00:00:00 |  26.7  |  26.8  | 25.1  |   25.3  |  2898000 |
 | GVR      | 2025-12-15 00:00:00 |  25.3  |  26    | 25.25 |   25.6  |  1872800 |
 | GVR      | 2025-12-16 00:00:00 |  25.8  |  26.5  | 25.6  |   26.5  |  1904800 |
 | GVR      | 2025-12-17 00:00:00 |  26.5  |  26.65 | 26.2  |   26.3  |  1757900 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | GVR      | 2026-04-21 00:00:00 |  33    |  33.2  | 32.45 |   32.65 |  2498000 |
 | GVR      | 2026-04-22 00:00:00 |  32.8  |  32.8  | 32.2  |   32.75 |  1974400 |
 | GVR      | 2026-04-23 00:00:00 |  32.9  |  33.45 | 32.1  |   32.6  |  2807500 |
+| GVR      | 2026-04-24 00:00:00 |  32.7  |  33.5  | 32.7  |   33.35 |  3028100 |
+| GVR      | 2026-04-28 00:00:00 |  33.3  |  33.4  | 32.3  |   33    |  2409800 |
+| GVR      | 2026-04-29 00:00:00 |  32.85 |  34.3  | 32.5  |   33.7  |  4047300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| GVR      | 2026-04-23 14:21:03 |   32.3  |      200 | Sell         | 467798737 |
-| GVR      | 2026-04-23 14:21:16 |   32.45 |     1000 | Buy          | 467799856 |
-| GVR      | 2026-04-23 14:21:30 |   32.45 |      100 | Buy          | 467801210 |
-| GVR      | 2026-04-23 14:21:37 |   32.45 |      600 | Buy          | 467801742 |
-| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Buy          | 467802738 |
-| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Buy          | 467802740 |
-| GVR      | 2026-04-23 14:21:48 |   32.45 |      100 | Sell         | 467802755 |
-| GVR      | 2026-04-23 14:21:57 |   32.5  |     1000 | Buy          | 467803469 |
-| GVR      | 2026-04-23 14:21:57 |   32.5  |      800 | Buy          | 467803470 |
-| GVR      | 2026-04-23 14:21:57 |   32.5  |     1200 | Sell         | 467803505 |
+| GVR      | 2026-04-29 14:24:20 |    33.7 |      200 | Sell         | 469455292 |
+| GVR      | 2026-04-29 14:24:20 |    33.7 |      100 | Sell         | 469455298 |
+| GVR      | 2026-04-29 14:24:20 |    33.7 |      500 | Sell         | 469455300 |
+| GVR      | 2026-04-29 14:24:50 |    33.7 |      100 | Buy          | 469456963 |
+| GVR      | 2026-04-29 14:24:56 |    33.7 |      100 | Buy          | 469457298 |
+| GVR      | 2026-04-29 14:25:00 |    33.7 |      500 | Buy          | 469457470 |
+| GVR      | 2026-04-29 14:25:00 |    33.7 |      400 | Buy          | 469457471 |
+| GVR      | 2026-04-29 14:25:00 |    33.7 |      100 | Buy          | 469457472 |
+| GVR      | 2026-04-29 14:25:00 |    33.7 |      200 | Buy          | 469457474 |
+| GVR      | 2026-04-29 14:25:00 |    33.7 |      100 | Buy          | 469457475 |
 
 <!-- END:DAILY -->
 

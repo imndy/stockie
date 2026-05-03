@@ -1,6 +1,6 @@
 # TCH — CTCP Đầu tư Dịch vụ Tài chính Hoàng Huy
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 23/04/2026 19:38  |  🗂 Quarterly: 05/04/2026 13:44
+> 📅 Daily: 03/05/2026 14:01  |  🗂 Quarterly: 05/04/2026 13:44
 
 ---
 
@@ -11,98 +11,96 @@
 | --- | --- |
 | symbol | TCH |
 | exchange | HOSE |
-| market_cap | 15597067730400 |
+| market_cap | 16554782415600 |
 | 52w_high | 24645 |
 | 52w_high_date | 2025-10-13 |
 | 52w_low | 12850 |
 | 52w_low_date | 2026-03-09 |
-| foreign_ownership | 13.6125 |
+| foreign_ownership | 13.967 |
 | dividend | 0 |
-| beta | 1.05 |
-| eps | 476 |
-| eps_forward | 9.067447862174793 |
-| bvps | 21356 |
-| pe | 35.52 |
-| pb | 0.79 |
-| price_chg_1m | 14.38 |
-| price_chg_ytd | 19.21 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
+| beta | 1.02 |
+| eps | 70 |
+| eps_forward | 9.60398323863484 |
+| bvps | 15747 |
+| pe | 255.68 |
+| pb | 1.14 |
+| price_chg_1m | 10.00 |
+| price_chg_ytd | 28.36 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
 | yield | 0 |
-| financial_date | 12/2024 |
+| financial_date | 12/2026 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 17.1 |
-| MA5 | 16.98 |
-| MA10 | 17.085 |
-| EMA20 | 16.74 |
-| EMA50 | 16.391 |
-| Slope MA20 (5p, %) | 0.93 |
-| ATR(14) | 0.746 |
-| RSI(14) | 55.6 |
+| Giá đóng cửa | 18.15 |
+| MA5 | 17.51 |
+| MA10 | 17.3 |
+| EMA20 | 17.034 |
+| EMA50 | 16.554 |
+| Slope MA20 (5p, %) | 2.11 |
+| ATR(14) | 0.776 |
+| RSI(14) | 64.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.355 |
-| MACD Signal | 0.412 |
-| MACD Histogram | -0.057 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 9104118 |
+| MACD | 0.462 |
+| MACD Signal | 0.417 |
+| MACD Histogram | 0.045 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 9496458 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    19.2   | 0.65        | 1             |
-| 🔴 Kháng cự    |    17.826 | 4.12        | 3             |
-| ▶ Giá hiện tại |    17.1   | —           | —             |
-| 🟢 Hỗ trợ      |    17     | 0.6         | 1             |
-| 🟢 Hỗ trợ      |    16.7   | 2.06        | 2             |
-| 🟢 Hỗ trợ      |    15.5   | 1.2         | 1             |
+| 🔴 Kháng cự    |    19.2   | 0.61        | 1             |
+| ▶ Giá hiện tại |    18.15  | —           | —             |
+| 🟢 Hỗ trợ      |    17.826 | 4.03        | 3             |
+| 🟢 Hỗ trợ      |    17     | 0.56        | 1             |
+| 🟢 Hỗ trợ      |    16.7   | 1.99        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TCH |
-| pe | 35.52 |
-| pb | 0.79 |
-| roe | 8.67 |
-| roe_pct_rank | 44 |
-| roa | 5.71 |
-| roa_pct_rank | 52 |
-| eps | 476 |
-| bvps | 21356 |
-| beta | 1.05 |
+| pe | 255.68 |
+| pb | 1.14 |
+| eps | 70 |
+| bvps | 15747 |
+| beta | 1.02 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 99 |
-| pb_pct_rank | 33 |
-| financial_date | 12/2024 |
+| pe_pct_rank | 100 |
+| pb_pct_rank | 49 |
+| financial_date | 12/2026 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |      KL | vs Avg60   | Turnover (%)   |
-|:-----------|--------:|:-----------|:---------------|
-| 2026-04-17 | 8089300 | -11.1%     | 0.887%         |
-| 2026-04-20 | 5979500 | -34.3%     | 0.656%         |
-| 2026-04-21 | 9621200 | +5.7%      | 1.055%         |
-| 2026-04-22 | 5088100 | -44.1%     | 0.558%         |
-| 2026-04-23 | 8232600 | -9.6%      | 0.903%         |
+| Ngày       |       KL | vs Avg60   | Turnover (%)   |
+|:-----------|---------:|:-----------|:---------------|
+| 2026-04-22 |  5088100 | -46.4%     | 0.558%         |
+| 2026-04-23 |  8232600 | -13.3%     | 0.903%         |
+| 2026-04-24 | 12934300 | +36.2%     | 1.418%         |
+| 2026-04-28 | 14117600 | +48.7%     | 1.548%         |
+| 2026-04-29 | 13900800 | +46.4%     | 1.524%         |
 
-- KL trung bình 60 phiên: **9,104,118**
+- KL trung bình 60 phiên: **9,496,458**
 - Số CP lưu hành: **912,109,224**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                       | publishtime             | url                                                                                                                |
 |:--------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| TCH: Giải trình chênh lệch KQKD quý 4 năm tài chính 2025 so với cùng kỳ năm trước           | 2026-04-28T17:29:49     | /2026/04/tch-giai-trinh-chenh-lech-kqkd-quy-4-nam-tai-chinh-2025-so-voi-cung-ky-nam-truoc-737-1434960.htm          |
+| TCH: BCTC Hợp nhất quý 4 năm 2025                                                           | 2026-04-28T00:00:00     | /2026/04/tch-bctc-hop-nhat-quy-4-nam-2025-737-1434968.htm                                                          |
+| TCH: BCTC quý 4 năm 2025                                                                    | 2026-04-28T00:00:00     | /2026/04/tch-bctc-quy-4-nam-2025-737-1434969.htm                                                                   |
 | TCH: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan                       | 2026-04-17T18:58:19     | /2026/04/tch-nghi-quyet-hdqt-ve-viec-thong-qua-giao-dich-voi-ben-co-lien-quan-737-1429633.htm                      |
 | TCH bị phạt và truy thu thuế hơn 20 tỷ đồng, nhóm Dragon Capital lại tăng sở hữu lên hơn 6% | 2026-04-08T10:59:52.73  | /2026/04/tch-bi-phat-va-truy-thu-thue-hon-20-ty-dong-nhom-dragon-capital-lai-tang-so-huu-len-hon-6-737-1424673.htm |
 | TCH: Thông báo Quyết định của Thuế TP Hải Phòng về việc xử phạt vi phạm hành chính về thuế  | 2026-04-07T17:56:22     | /2026/04/tch-thong-bao-quyet-dinh-cua-thue-tp-hai-phong-ve-viec-xu-phat-vi-pham-hanh-chinh-ve-thue-830-1424380.htm |
@@ -110,9 +108,6 @@
 | TCH: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán cổ phiếu ra công chúng        | 2026-03-30T18:04:52     | /2026/03/tch-bao-cao-tien-do-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-co-phieu-ra-cong-chung-739-1418943.htm       |
 | Dragon Capital tiếp tục bán ra 2.5 triệu cp TCH, giảm tỷ lệ xuống dưới 6%                   | 2026-03-30T11:12:58.223 | /2026/03/dragon-capital-tiep-tuc-ban-ra-25-trieu-cp-tch-giam-ty-le-xuong-duoi-6-739-1418377.htm                    |
 | TCH: Báo cáo về thay đổi sở hữu của nhóm nhà ĐTN có liên quan là CĐ lớn                     | 2026-03-27T18:18:38     | /2026/03/tch-bao-cao-ve-thay-doi-so-huu-cua-nhom-nha-dtn-co-lien-quan-la-cd-lon-739-1417997.htm                    |
-| Thanh tra phát hiện nhiều bất cập tại các dự án NOXH của TCH ở Hải Phòng                    | 2026-03-14T17:27:37.623 | /2026/03/thanh-tra-phat-hien-nhieu-bat-cap-tai-cac-du-an-noxh-cua-tch-o-hai-phong-737-1412318.htm                  |
-| Động thái lạ của Dragon Capital tại TCH trước chuỗi giảm điểm liên tiếp                     | 2026-03-02T11:18:20.273 | /2026/03/dong-thai-la-cua-dragon-capital-tai-tch-truoc-chuoi-giam-diem-lien-tiep-739-1406837.htm                   |
-| TCH: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn  | 2026-02-27T17:55:13     | /2026/02/tch-bao-cao-thay-doi-ve-so-huu-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-la-co-dong-lon-737-1406606.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,18 +118,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +4.96% |
-| % Cổ phiếu hôm nay | +1.20% |
-| RS (CP − Ngành) | -3.76% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -3.50% |
+| % Cổ phiếu hôm nay | +1.40% |
+| RS (CP − Ngành) | +4.90% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TCH      | 2025-12-10 00:00:00 |  19.95 |  20    | 19.7  |   20    |  1721200 |
-| TCH      | 2025-12-11 00:00:00 |  19.95 |  20.1  | 19.65 |   19.95 |  1964300 |
-| TCH      | 2025-12-12 00:00:00 |  19.85 |  19.85 | 18.6  |   18.6  |  7173100 |
 | TCH      | 2025-12-15 00:00:00 |  18.6  |  18.7  | 17.65 |   17.95 |  5363600 |
 | TCH      | 2025-12-16 00:00:00 |  17.75 |  19    | 17    |   19    |  9970400 |
 | TCH      | 2025-12-17 00:00:00 |  18.55 |  18.75 | 18.35 |   18.65 |  2812300 |
@@ -222,21 +214,24 @@ _Không có dữ liệu_
 | TCH      | 2026-04-21 00:00:00 |  17.15 |  17.25 | 16.6  |   16.7  |  9621200 |
 | TCH      | 2026-04-22 00:00:00 |  16.6  |  17    | 16.6  |   16.9  |  5088100 |
 | TCH      | 2026-04-23 00:00:00 |  16.85 |  17.25 | 16.4  |   17.1  |  8232600 |
+| TCH      | 2026-04-24 00:00:00 |  17.05 |  18    | 16.7  |   17.5  | 12934300 |
+| TCH      | 2026-04-28 00:00:00 |  17.55 |  18.15 | 17.35 |   17.9  | 14117600 |
+| TCH      | 2026-04-29 00:00:00 |  17.65 |  18.3  | 17.65 |   18.15 | 13900800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TCH      | 2026-04-23 14:25:06 |   16.9  |     2000 | Buy          | 467821189 |
-| TCH      | 2026-04-23 14:25:07 |   16.85 |      600 | Sell         | 467821364 |
-| TCH      | 2026-04-23 14:25:07 |   16.85 |     1700 | Sell         | 467821367 |
-| TCH      | 2026-04-23 14:25:08 |   16.85 |     2000 | Sell         | 467821416 |
-| TCH      | 2026-04-23 14:25:11 |   16.9  |      200 | Buy          | 467821636 |
-| TCH      | 2026-04-23 14:25:12 |   16.85 |     3800 | Sell         | 467821719 |
-| TCH      | 2026-04-23 14:25:12 |   16.85 |      200 | Sell         | 467821720 |
-| TCH      | 2026-04-23 14:25:12 |   16.85 |     1000 | Sell         | 467821721 |
-| TCH      | 2026-04-23 14:25:18 |   16.9  |      200 | Buy          | 467822135 |
-| TCH      | 2026-04-23 14:25:25 |   16.9  |     1000 | Buy          | 467822595 |
+| TCH      | 2026-04-29 14:27:35 |      18 |     3200 | Buy          | 469466112 |
+| TCH      | 2026-04-29 14:27:39 |      18 |     5000 | Buy          | 469466356 |
+| TCH      | 2026-04-29 14:27:39 |      18 |     1800 | Buy          | 469466332 |
+| TCH      | 2026-04-29 14:27:39 |      18 |      200 | Buy          | 469466333 |
+| TCH      | 2026-04-29 14:27:39 |      18 |      400 | Buy          | 469466342 |
+| TCH      | 2026-04-29 14:27:42 |      18 |     1800 | Buy          | 469466525 |
+| TCH      | 2026-04-29 14:27:45 |      18 |     2800 | Buy          | 469466732 |
+| TCH      | 2026-04-29 14:27:49 |      18 |      100 | Buy          | 469466936 |
+| TCH      | 2026-04-29 14:27:50 |      18 |      100 | Buy          | 469467033 |
+| TCH      | 2026-04-29 14:27:50 |      18 |      100 | Buy          | 469467035 |
 
 <!-- END:DAILY -->
 

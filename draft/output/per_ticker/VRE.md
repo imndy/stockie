@@ -1,6 +1,6 @@
 # VRE — CTCP Vincom Retail
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 23/04/2026 19:41  |  🗂 Quarterly: 05/04/2026 12:24
+> 📅 Daily: 03/05/2026 14:04  |  🗂 Quarterly: 05/04/2026 12:24
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | VRE |
 | exchange | HOSE |
-| market_cap | 66010849810500 |
+| market_cap | 73395884643000 |
 | 52w_high | 43400 |
 | 52w_high_date | 2025-10-16 |
-| 52w_low | 22800 |
-| 52w_low_date | 2025-04-24 |
-| foreign_ownership | 12.0161 |
+| 52w_low | 24050 |
+| 52w_low_date | 2026-03-10 |
+| foreign_ownership | 12.4327 |
 | dividend | 0 |
-| beta | 1.5 |
-| eps | 2837 |
-| eps_forward | 12.976378225680664 |
-| bvps | 21286 |
-| pe | 10.56 |
-| pb | 1.41 |
-| price_chg_1m | 14.60 |
-| price_chg_ytd | 32.35 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
+| beta | 1.47 |
+| eps | 3025 |
+| eps_forward | 13.344656071818513 |
+| bvps | 21993 |
+| pe | 10.18 |
+| pb | 1.40 |
+| price_chg_1m | 21.89 |
+| price_chg_ytd | 36.58 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,53 +36,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 29.05 |
-| MA5 | 29.27 |
-| MA10 | 28.82 |
-| EMA20 | 28.099 |
-| EMA50 | 28.123 |
-| Slope MA20 (5p, %) | 2.84 |
-| ATR(14) | 1.271 |
-| RSI(14) | 57.0 |
+| Giá đóng cửa | 32.3 |
+| MA5 | 30.18 |
+| MA10 | 29.715 |
+| EMA20 | 28.786 |
+| EMA50 | 28.37 |
+| Slope MA20 (5p, %) | 3.57 |
+| ATR(14) | 1.361 |
+| RSI(14) | 69.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.695 |
-| MACD Signal | 0.425 |
-| MACD Histogram | 0.269 |
+| MACD | 0.99 |
+| MACD Signal | 0.627 |
+| MACD Histogram | 0.364 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 7011927 |
+| KL avg 60 phiên | 7240022 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    33     | 0.88        | 1             |
-| 🔴 Kháng cự    |    30.524 | 2.46        | 2             |
-| 🔴 Kháng cự    |    29.912 | 1.5         | 2             |
-| ▶ Giá hiện tại |    29.05  | —           | —             |
-| 🟢 Hỗ trợ      |    28.3   | 1.33        | 1             |
-| 🟢 Hỗ trợ      |    27.342 | 2.14        | 3             |
-| 🟢 Hỗ trợ      |    26.95  | 1.22        | 1             |
+| 🔴 Kháng cự    |    39.5   | 0.71        | 1             |
+| 🔴 Kháng cự    |    37.05  | 0.64        | 1             |
+| 🔴 Kháng cự    |    33     | 0.84        | 1             |
+| ▶ Giá hiện tại |    32.3   | —           | —             |
+| 🟢 Hỗ trợ      |    30.524 | 2.39        | 2             |
+| 🟢 Hỗ trợ      |    29.912 | 1.42        | 2             |
+| 🟢 Hỗ trợ      |    28.3   | 1.3         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VRE |
-| pe | 10.56 |
-| pb | 1.41 |
+| pe | 10.18 |
+| pb | 1.40 |
 | roe | 14.28 |
 | roe_pct_rank | 56 |
 | roa | 11.07 |
 | roa_pct_rank | 71 |
-| eps | 2837 |
-| bvps | 21286 |
-| beta | 1.5 |
+| eps | 3025 |
+| bvps | 21993 |
+| beta | 1.47 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 45 |
+| pe_pct_rank | 44 |
 | pb_pct_rank | 57 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -91,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-17 |  7239000 | +3.2%      | 0.319%         |
-| 2026-04-20 |  6682700 | -4.7%      | 0.294%         |
-| 2026-04-21 | 10605500 | +51.2%     | 0.467%         |
-| 2026-04-22 |  9081900 | +29.5%     | 0.400%         |
-| 2026-04-23 | 10079200 | +43.7%     | 0.444%         |
+| 2026-04-22 |  9081900 | +25.4%     | 0.400%         |
+| 2026-04-23 | 10079200 | +39.2%     | 0.444%         |
+| 2026-04-24 |  4957500 | -31.5%     | 0.218%         |
+| 2026-04-28 | 16458400 | +127.3%    | 0.724%         |
+| 2026-04-29 | 16939100 | +134.0%    | 0.745%         |
 
-- KL trung bình 60 phiên: **7,011,926**
+- KL trung bình 60 phiên: **7,240,021**
 - Số CP lưu hành: **2,272,318,410**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime             | url                                                                                                            |
-|:-----------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------|
-| ĐHĐCĐ Vincom Retail: Các giải pháp để duy trì nhịp độ tăng trưởng trong 2 năm tới        | 2026-04-23T11:32:00     | /2026/04/dhdcd-vincom-retail-cac-giai-phap-de-duy-tri-nhip-do-tang-truong-trong-2-nam-toi-737-1429803.htm      |
-| Chủ chuỗi TTTM Vincom tính chia cổ tức tiền mặt lần đầu sau 7 năm                        | 2026-04-21T17:27:21.473 | /2026/04/chu-chuoi-tttm-vincom-tinh-chia-co-tuc-tien-mat-lan-dau-sau-7-nam-737-1431350.htm                     |
-| VRE: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-21T17:17:24     | /2026/04/vre-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1431442.htm                                    |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?              | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm               |
-| VRE: Đính chính BCTC Hợp nhất và Riêng kiểm toán năm 2025                                | 2026-04-08T09:15:12     | /2026/04/vre-dinh-chinh-bctc-hop-nhat-va-rieng-kiem-toan-nam-2025-737-1424669.htm                              |
-| VRE: Báo cáo thường niên năm 2025                                                        | 2026-04-06T09:15:42     | /2026/04/vre-bao-cao-thuong-nien-nam-2025-737-1423285.htm                                                      |
-| Vincom Retail đặt kế hoạch tăng trưởng 2 chữ số, không chia cổ tức                       | 2026-04-01T17:32:11.06  | /2026/04/vincom-retail-dat-ke-hoach-tang-truong-2-chu-so-khong-chia-co-tuc-737-1420915.htm                     |
-| Nhịp đập Thị trường 01/04: Cổ phiếu VHM và VRE tỏa sáng, VN-Index lấy lại mốc 1,700 điểm | 2026-04-01T16:47:00     | /2026/04/nhip-dap-thi-truong-0104-co-phieu-vhm-va-vre-toa-sang-vn-index-lay-lai-moc-1700-diem-1636-1420346.htm |
-| VRE: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                | 2026-03-26T15:12:48     | /2026/03/vre-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1416911.htm               |
-| VRE: Giải trình chênh lệch BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-03-16T17:12:03     | /2026/03/vre-giai-trinh-chenh-lech-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1412768.htm            |
+| title                                                                             | publishtime             | url                                                                                                       |
+|:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| VRE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                            | 2026-04-24T18:22:54     | /2026/04/vre-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433794.htm                            |
+| VRE: BCTC quý 1 năm 2026                                                          | 2026-04-24T00:00:00     | /2026/04/vre-bctc-quy-1-nam-2026-737-1433471.htm                                                          |
+| VRE: BCTC Hợp nhất quý 1 năm 2026                                                 | 2026-04-24T00:00:00     | /2026/04/vre-bctc-hop-nhat-quy-1-nam-2026-737-1433473.htm                                                 |
+| ĐHĐCĐ Vincom Retail: Các giải pháp để duy trì nhịp độ tăng trưởng trong 2 năm tới | 2026-04-23T11:32:00     | /2026/04/dhdcd-vincom-retail-cac-giai-phap-de-duy-tri-nhip-do-tang-truong-trong-2-nam-toi-737-1429803.htm |
+| Chủ chuỗi TTTM Vincom tính chia cổ tức tiền mặt lần đầu sau 7 năm                 | 2026-04-21T17:27:21.473 | /2026/04/chu-chuoi-tttm-vincom-tinh-chia-co-tuc-tien-mat-lan-dau-sau-7-nam-737-1431350.htm                |
+| VRE: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                               | 2026-04-21T17:17:24     | /2026/04/vre-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1431442.htm                               |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?       | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm          |
+| VRE: Đính chính BCTC Hợp nhất và Riêng kiểm toán năm 2025                         | 2026-04-08T09:15:12     | /2026/04/vre-dinh-chinh-bctc-hop-nhat-va-rieng-kiem-toan-nam-2025-737-1424669.htm                         |
+| VRE: Báo cáo thường niên năm 2025                                                 | 2026-04-06T09:15:42     | /2026/04/vre-bao-cao-thuong-nien-nam-2025-737-1423285.htm                                                 |
+| Vincom Retail đặt kế hoạch tăng trưởng 2 chữ số, không chia cổ tức                | 2026-04-01T17:32:11.06  | /2026/04/vincom-retail-dat-ke-hoach-tang-truong-2-chu-so-khong-chia-co-tuc-737-1420915.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,18 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +4.96% |
-| % Cổ phiếu hôm nay | +2.22% |
-| RS (CP − Ngành) | -2.74% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -3.50% |
+| % Cổ phiếu hôm nay | +4.87% |
+| RS (CP − Ngành) | +8.37% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VRE      | 2025-12-10 00:00:00 |  31.9  |  32    | 30    |   30    | 13287200 |
-| VRE      | 2025-12-11 00:00:00 |  30.1  |  30.7  | 29.5  |   29.5  |  8031400 |
-| VRE      | 2025-12-12 00:00:00 |  30    |  30.05 | 27.45 |   27.45 | 14302200 |
 | VRE      | 2025-12-15 00:00:00 |  27.45 |  29.35 | 27.45 |   28.9  | 11731800 |
 | VRE      | 2025-12-16 00:00:00 |  29.2  |  29.6  | 28.15 |   29.6  |  7805400 |
 | VRE      | 2025-12-17 00:00:00 |  29.55 |  30.8  | 28.95 |   29.7  |  8617800 |
@@ -223,21 +220,24 @@ _Không có dữ liệu_
 | VRE      | 2026-04-21 00:00:00 |  29.6  |  30.3  | 29.2  |   29.3  | 10605500 |
 | VRE      | 2026-04-22 00:00:00 |  29.35 |  30.5  | 28.7  |   29.95 |  9081900 |
 | VRE      | 2026-04-23 00:00:00 |  30.3  |  30.45 | 29.05 |   29.05 | 10079200 |
+| VRE      | 2026-04-24 00:00:00 |  29.55 |  29.75 | 28.7  |   28.8  |  4957500 |
+| VRE      | 2026-04-28 00:00:00 |  28.8  |  30.8  | 28.75 |   30.8  | 16458400 |
+| VRE      | 2026-04-29 00:00:00 |  31.5  |  32.8  | 31.2  |   32.3  | 16939100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VRE      | 2026-04-23 14:26:49 |   29.55 |     3000 | Buy          | 467829267 |
-| VRE      | 2026-04-23 14:26:50 |   29.55 |      400 | Buy          | 467829419 |
-| VRE      | 2026-04-23 14:26:55 |   29.55 |     2600 | Buy          | 467829680 |
-| VRE      | 2026-04-23 14:26:57 |   29.55 |      400 | Buy          | 467829812 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |     1000 | Sell         | 467829878 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |      100 | Sell         | 467829877 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |      100 | Sell         | 467829876 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |      300 | Sell         | 467829870 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |      200 | Sell         | 467829874 |
-| VRE      | 2026-04-23 14:26:58 |   29.5  |      100 | Sell         | 467829873 |
+| VRE      | 2026-04-29 14:28:05 |   32.55 |      100 | Buy          | 469468051 |
+| VRE      | 2026-04-29 14:28:07 |   32.5  |      100 | Sell         | 469468172 |
+| VRE      | 2026-04-29 14:28:17 |   32.5  |     1000 | Sell         | 469468856 |
+| VRE      | 2026-04-29 14:28:17 |   32.5  |      700 | Sell         | 469468844 |
+| VRE      | 2026-04-29 14:28:18 |   32.5  |     1200 | Sell         | 469468993 |
+| VRE      | 2026-04-29 14:28:19 |   32.5  |     1300 | Sell         | 469469016 |
+| VRE      | 2026-04-29 14:28:19 |   32.5  |     8700 | Sell         | 469469017 |
+| VRE      | 2026-04-29 14:28:19 |   32.5  |      200 | Sell         | 469469056 |
+| VRE      | 2026-04-29 14:28:20 |   32.5  |      200 | Sell         | 469469140 |
+| VRE      | 2026-04-29 14:28:21 |   32.5  |      700 | Sell         | 469469225 |
 
 <!-- END:DAILY -->
 

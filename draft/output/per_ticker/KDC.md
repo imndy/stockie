@@ -1,6 +1,6 @@
 # KDC — CTCP Tập đoàn KIDO
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 23/04/2026 19:34  |  🗂 Quarterly: 05/04/2026 19:56
+> 📅 Daily: 03/05/2026 13:56  |  🗂 Quarterly: 05/04/2026 19:56
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | KDC |
 | exchange | HOSE |
-| market_cap | 13562935588800 |
+| market_cap | 12693516640800 |
 | 52w_high | 57620 |
 | 52w_high_date | 2025-06-20 |
-| 52w_low | 46800 |
-| 52w_low_date | 2026-04-23 |
-| foreign_ownership | 15.9098 |
+| 52w_low | 41600 |
+| 52w_low_date | 2026-04-28 |
+| foreign_ownership | 15.9286 |
 | dividend | 1200 |
-| beta | 0.1 |
+| beta | 0.05 |
 | eps | 1917 |
-| eps_forward | 17.207277048028228 |
+| eps_forward | 15.069952109431037 |
 | bvps | 26700 |
-| pe | 24.78 |
-| pb | 1.78 |
-| price_chg_1m | -5.45 |
-| price_chg_ytd | -15.78 |
-| price_chg_1m_rank | 15.00 |
-| price_chg_ytd_rank | 53.97 |
-| yield | 0.02564102564102564 |
+| pe | 21.70 |
+| pb | 1.56 |
+| price_chg_1m | -10.52 |
+| price_chg_ytd | -21.04 |
+| price_chg_1m_rank | 12.64 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.0273972602739726 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,82 +36,81 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 46.8 |
-| MA5 | 47.58 |
-| MA10 | 48.06 |
-| EMA20 | 48.402 |
-| EMA50 | 49.339 |
-| Slope MA20 (5p, %) | -1.17 |
-| ATR(14) | 1.306 |
-| RSI(14) | 29.3 |
-| RSI nhận xét | Quá bán |
+| Giá đóng cửa | 43.8 |
+| MA5 | 44.88 |
+| MA10 | 46.435 |
+| EMA20 | 47.089 |
+| EMA50 | 48.676 |
+| Slope MA20 (5p, %) | -3.28 |
+| ATR(14) | 1.828 |
+| RSI(14) | 31.0 |
+| RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.667 |
-| MACD Signal | -0.575 |
-| MACD Histogram | -0.092 |
+| MACD | -1.412 |
+| MACD Signal | -0.896 |
+| MACD Histogram | -0.516 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 253862 |
+| KL avg 60 phiên | 320783 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    49.2   | 1.42        | 1             |
-| 🔴 Kháng cự    |    48.05  | 2.53        | 2             |
-| 🔴 Kháng cự    |    46.907 | 1.9         | 2             |
-| ▶ Giá hiện tại |    46.8   | —           | —             |
-| 🟢 Hỗ trợ      |    46     | 1.35        | 1             |
+| 🔴 Kháng cự    |    48.05  | 2.46        | 2             |
+| 🔴 Kháng cự    |    46.907 | 1.82        | 2             |
+| 🔴 Kháng cự    |    46     | 1.32        | 1             |
+| ▶ Giá hiện tại |    43.8   | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | KDC |
-| pe | 24.78 |
-| pb | 1.78 |
+| pe | 21.70 |
+| pb | 1.56 |
 | roe | 7.83 |
 | roe_pct_rank | 42 |
 | roa | 3.81 |
-| roa_pct_rank | 44 |
+| roa_pct_rank | 45 |
 | eps | 1917 |
 | bvps | 26700 |
-| beta | 0.1 |
+| beta | 0.05 |
 | dividend | 1200 |
-| yield | 0.02564102564102564 |
-| pe_pct_rank | 75 |
-| pb_pct_rank | 67 |
+| yield | 0.0273972602739726 |
+| pe_pct_rank | 69 |
+| pb_pct_rank | 61 |
 | financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |     KL | vs Avg60   | Turnover (%)   |
-|:-----------|-------:|:-----------|:---------------|
-| 2026-04-17 | 229200 | -9.7%      | 0.079%         |
-| 2026-04-20 | 293300 | +15.5%     | 0.101%         |
-| 2026-04-21 | 513700 | +102.4%    | 0.177%         |
-| 2026-04-22 | 464000 | +82.8%     | 0.160%         |
-| 2026-04-23 | 472200 | +86.0%     | 0.163%         |
+| Ngày       |      KL | vs Avg60   | Turnover (%)   |
+|:-----------|--------:|:-----------|:---------------|
+| 2026-04-22 |  464000 | +44.6%     | 0.160%         |
+| 2026-04-23 |  472200 | +47.2%     | 0.163%         |
+| 2026-04-24 | 1150900 | +258.8%    | 0.397%         |
+| 2026-04-28 |  762900 | +137.8%    | 0.263%         |
+| 2026-04-29 | 2645900 | +724.8%    | 0.913%         |
 
-- KL trung bình 60 phiên: **253,861**
+- KL trung bình 60 phiên: **320,783**
 - Số CP lưu hành: **289,806,316**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                               | publishtime             | url                                                                                                         |
 |:------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------|
+| KDC: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước        | 2026-04-29T18:31:10     | /2026/04/kdc-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436051.htm        |
+| Cổ phiếu KDC quay đầu tăng trở lại                                                  | 2026-04-29T11:08:44.81  | /2026/04/co-phieu-kdc-quay-dau-tang-tro-lai-830-1435292.htm                                                 |
+| KDC: BCTC quý 1 năm 2026                                                            | 2026-04-29T00:00:00     | /2026/04/kdc-bctc-quy-1-nam-2026-737-1435961.htm                                                            |
+| KDC: BCTC Hợp nhất quý 1 năm 2026                                                   | 2026-04-29T00:00:00     | /2026/04/kdc-bctc-hop-nhat-quy-1-nam-2026-737-1435962.htm                                                   |
 | Vợ Chủ tịch Trần Kim Thành đăng ký mua 2 triệu cp KDC                               | 2026-04-20T19:03:54.407 | /2026/04/vo-chu-tich-tran-kim-thanh-dang-ky-mua-2-trieu-cp-kdc-739-1430714.htm                              |
 | KDC: Báo cáo thường niên năm 2025                                                   | 2026-04-20T16:03:22     | /2026/04/kdc-bao-cao-thuong-nien-nam-2025-737-1430467.htm                                                   |
 | KDC: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Xuân Liễu             | 2026-04-14T17:36:16     | /2026/04/kdc-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-xuan-lieu-830-1427634.htm             |
 | KDC: Nghị quyết HĐQT về việc thay đổi thời gian tổ chức ĐHĐCĐ thường niên 2026      | 2026-04-02T17:06:55     | /2026/04/kdc-nghi-quyet-hdqt-ve-viec-thay-doi-thoi-gian-to-chuc-dhdcd-thuong-nien-2026-737-1422129.htm      |
 | KDC: Giải trình biến động lợi nhuận năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-04-01T08:52:30     | /2026/04/kdc-giai-trinh-bien-dong-loi-nhuan-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1420267.htm |
 | KDC: BCTC Hợp nhất năm 2025                                                         | 2026-03-31T00:00:00     | /2026/03/kdc-bctc-hop-nhat-nam-2025-737-1420272.htm                                                         |
-| KDC: BCTC năm 2025                                                                  | 2026-03-31T00:00:00     | /2026/03/kdc-bctc-nam-2025-737-1420273.htm                                                                  |
-| KDC: CBTT mua lại cổ phiếu VOC                                                      | 2026-03-30T13:26:59     | /2026/03/kdc-cbtt-mua-lai-co-phieu-voc-739-1418557.htm                                                      |
-| KDC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                      | 2026-03-27T19:33:04     | /2026/03/kdc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1418106.htm                      |
-| KDC: Nghị quyết HĐQT số KDC04/2026 ngày 25/03/2026                                  | 2026-03-25T17:48:44     | /2026/03/kdc-nghi-quyet-hdqt-so-kdc04-2026-ngay-25-03-2026-737-1416491.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,18 +121,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | +0.06% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -0.06% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.99% |
+| % Cổ phiếu hôm nay | +5.29% |
+| RS (CP − Ngành) | +6.28% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDC      | 2025-12-10 00:00:00 |  50.2  |  51.08 | 50    |   51.08 |   284413 |
-| KDC      | 2025-12-11 00:00:00 |  51.08 |  51.17 | 50.29 |   51.17 |   283149 |
-| KDC      | 2025-12-12 00:00:00 |  51.08 |  51.08 | 50    |   50    |   266501 |
 | KDC      | 2025-12-15 00:00:00 |  50.29 |  50.78 | 49.71 |   50.78 |   234318 |
 | KDC      | 2025-12-16 00:00:00 |  50.29 |  50.98 | 50.2  |   50.78 |   218950 |
 | KDC      | 2025-12-17 00:00:00 |  50.88 |  50.98 | 50.29 |   50.98 |   284145 |
@@ -221,21 +217,24 @@ _Không có dữ liệu_
 | KDC      | 2026-04-21 00:00:00 |  44.75 |  48.6  | 44.75 |   47.5  |   513700 |
 | KDC      | 2026-04-22 00:00:00 |  47.9  |  47.9  | 45.3  |   47.5  |   464000 |
 | KDC      | 2026-04-23 00:00:00 |  47.45 |  47.45 | 46.2  |   46.8  |   472200 |
+| KDC      | 2026-04-24 00:00:00 |  47    |  47    | 43.55 |   44.7  |  1150900 |
+| KDC      | 2026-04-28 00:00:00 |  41.6  |  41.6  | 41.6  |   41.6  |   762900 |
+| KDC      | 2026-04-29 00:00:00 |  38.7  |  43.8  | 38.7  |   43.8  |  2645900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| KDC      | 2026-04-23 13:30:09 |   46.8  |      100 | Buy          | 467534607 |
-| KDC      | 2026-04-23 13:31:28 |   46.5  |      500 | Sell         | 467539823 |
-| KDC      | 2026-04-23 13:31:28 |   46.5  |      500 | Sell         | 467539824 |
-| KDC      | 2026-04-23 13:31:56 |   46.8  |      100 | Buy          | 467541992 |
-| KDC      | 2026-04-23 13:32:17 |   46.8  |      100 | Buy          | 467543225 |
-| KDC      | 2026-04-23 13:32:32 |   46.8  |      400 | Buy          | 467544129 |
-| KDC      | 2026-04-23 13:32:32 |   46.8  |      100 | Buy          | 467544130 |
-| KDC      | 2026-04-23 13:32:32 |   46.9  |     2700 | Buy          | 467544131 |
-| KDC      | 2026-04-23 13:32:32 |   46.9  |     1800 | Buy          | 467544132 |
-| KDC      | 2026-04-23 13:32:53 |   46.95 |     1300 | Buy          | 467545354 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      600 | Sell         | 469464394 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464397 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464399 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464415 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |     5000 | Sell         | 469464401 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464402 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      200 | Sell         | 469464403 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464404 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464400 |
+| KDC      | 2026-04-29 14:27:10 |    38.7 |      100 | Sell         | 469464406 |
 
 <!-- END:DAILY -->
 
