@@ -1,36 +1,58 @@
 # MBB — Ngân hàng TMCP Quân đội
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 03/05/2026 13:56  |  🗂 Quarterly: 03/04/2026 09:45
+> 📅 Daily: 03/05/2026 14:11  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
 <!-- BEGIN:DAILY -->
+
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MBB |
-| exchange | HOSE |
-| market_cap | 209832747629450 |
-| 52w_high | 29000 |
-| 52w_high_date | 2026-02-11 |
-| 52w_low | 17438 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 23.2273 |
-| dividend | 300 |
-| beta | 0.79 |
-| eps | 3848 |
-| eps_forward | 10.316764345262422 |
-| bvps | 18590.36 |
-| pe | 6.76 |
-| pb | 1.40 |
-| price_chg_1m | 0.39 |
-| price_chg_ytd | 47.48 |
-| price_chg_1m_rank | 12.64 |
-| price_chg_ytd_rank | 51.19 |
-| yield | 0.011516314779270634 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | MBB |
+| current_price | 26050.0 |
+| market_cap | 209832747629450.0 |
+| number_of_shares_mkt_cap | 8054999909.0 |
+| ticker | MBB |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 13-Mar-26 |
+| en_organ_name | Military Commercial Joint Stock Bank |
+| en_organ_short_name | MBBank |
+| vi_organ_name | Ngân hàng Thương mại Cổ phần Quân đội |
+| vi_organ_short_name | MBBank |
+| com_type_code | NH |
+| com_group_code | VNINDEX |
+| sector | Banks |
+| sector_vn | Ngân hàng |
+| average_match_value1_month | 408727132397.7273 |
+| average_match_volume1_month | 15506459.0 |
+| highest_price1_year | 29500.0 |
+| lowest_price1_year | 17414.0 |
+| foreigner_percentage | 0.22961242 |
+| maximum_foreign_percentage | 0.232351 |
+| state_percentage | 0.44344919 |
+| analyst | Ngoc Huynh |
+| upside_to_target_percent | 0.3435700576 |
+| dividend_per_share_tsr | 500.0 |
+| projected_tsr_percentage | 0.3627639156 |
+| target_price | 35000.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p style="text-align: justify;">Hanoi-based Military Commercial Joint Stock Bank (MBB)&nbsp;was&nbsp;establi… |
+| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Qu&acirc;n đội (MBB) được th&agrave;nh lập từ n… |
+| in_cu | True |
+| icb_code_lv2 | 8300 |
+| icb_code_lv4 | 8355 |
+| free_float | 4027499954 |
+| free_float_percentage | 0.4999999999 |
+| listing_date | 2011-11-01T00:00:00 |
+| prev_insight | {'targetPrice': 32500.0, 'rating': 'BUY', 'ratingAsOf': '24-Nov-25', 'analyst': 'Ngoc Huynh', 'version': '20260323'} |
+| fund_info | None |
+| is_bank | True |
+| listing | True |
+| bank | True |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -58,34 +80,79 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     28.3  | 0.75        | 1             |
-| 🔴 Kháng cự    |     27.1  | 2.65        | 2             |
-| 🔴 Kháng cự    |     26.45 | 0.94        | 1             |
+| 🔴 Kháng cự     |     28.3  | 0.75        | 1             |
+| 🔴 Kháng cự     |     27.1  | 2.65        | 2             |
+| 🔴 Kháng cự     |     26.45 | 0.94        | 1             |
 | ▶ Giá hiện tại |     26.05 | —           | —             |
-| 🟢 Hỗ trợ      |     26    | 0.85        | 1             |
-| 🟢 Hỗ trợ      |     25.65 | 0.62        | 1             |
-| 🟢 Hỗ trợ      |     25.45 | 1.33        | 1             |
+| 🟢 Hỗ trợ       |     26    | 0.85        | 1             |
+| 🟢 Hỗ trợ       |     25.65 | 0.62        | 1             |
+| 🟢 Hỗ trợ       |     25.45 | 1.33        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MBB |
-| pe | 6.76 |
-| pb | 1.40 |
-| roe | 21.14 |
-| roe_pct_rank | 71 |
-| roa | 1.95 |
-| roa_pct_rank | 36 |
-| eps | 3848 |
-| bvps | 18590.36 |
-| beta | 0.79 |
-| dividend | 300 |
-| yield | 0.011516314779270634 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 57 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2697957 |
+| ratio_type | RATIO_TTM |
+| organ_code | MBB |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 2160451381 |
+| market_cap | 50338517177300.0 |
+| dividend_yield | 0.0 |
+| pe | 12.1797692909 |
+| pb | 1.4360078468 |
+| ps | 3.3119844521 |
+| price_to_cash_flow | 2.8870191449 |
+| ev_to_ebitda | 0.0 |
+| cash_ratio | 0.0 |
+| quick_ratio | 0.0 |
+| current_ratio | 0.0 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.0 |
+| debt_to_equity | 9.1949485961 |
+| roe | 0.1414558591 |
+| roa | 0.0137398229 |
+| day_sale_outstanding | 0.0 |
+| days_inventory_outstanding | 0.0 |
+| days_payable_outstanding | 0.0 |
+| gross_margin | 0.5781624051 |
+| ebit_margin | 0.0 |
+| pre_tax_profit_margin | 0.3567535385 |
+| after_tax_profit_margin | 0.2708411971 |
+| asset_turnover | 0.0 |
+| net_interest_margin | 0.0434264886 |
+| average_yield_on_earning_assets | 0.075467671 |
+| average_cost_of_financing | -0.0342670299 |
+| non_and_interest_income | 0.2826885209 |
+| cost_to_income | -0.3833301012 |
+| loans_growth | 0.051890322 |
+| deposit_growth | 0.0310743783 |
+| equity_to_liabilities | 0.108755366 |
+| equity_to_loans | 0.1601564688 |
+| total_equity_total_asset | 0.0980877923 |
+| ldr_loan_deposit_ratio | 0.8534382637 |
+| npl | 0.014092693 |
+| loans_loss_reserves_to_np_ls | -0.9097066033 |
+| loans_loss_reserve_to_loans | 0.0128202158 |
+| provision_to_outstanding_loans | -0.0185190292 |
+| ebit | 0.0 |
+| ebitda | 0.0 |
+| roic | 0.0 |
+| cash_cycle | 0.0 |
+| fixed_asset_turnover | 0.0 |
+| financial_leverage | 0.0 |
+| cir | -0.3833301012 |
+| car | 0.0 |
+| equity | None |
+| casa_ratio | 0.4222474615 |
+| nob66 | 74947326000000.0 |
+| nob69 | 18228199000000.0 |
+| nob70 | 2682188000000.0 |
+| bsb113 | 227017855000000.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -102,22 +169,38 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime             | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| MB lãi trước thuế quý 1 tăng 15%, động lực lớn từ tăng trưởng kinh doanh cốt lõi               | 2026-05-01T10:07:00     | /2026/05/mb-lai-truoc-thue-quy-1-tang-15-dong-luc-lon-tu-tang-truong-kinh-doanh-cot-loi-737-1436359.htm                |
-| MBB: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-28T00:00:00     | /2026/04/mbb-bctc-hop-nhat-quy-1-nam-2026-737-1434963.htm                                                              |
-| MBB: BCTC quý 1 năm 2026                                                                       | 2026-04-28T00:00:00     | /2026/04/mbb-bctc-quy-1-nam-2026-737-1435195.htm                                                                       |
-| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB                 | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm                    |
-| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026          | 2026-04-20T16:57:57     | /2026/04/mbb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-thuong-nam-2026-737-1430618.htm          |
-| MBB: Thông báo thay đổi nhân sự                                                                | 2026-04-20T16:30:07     | /2026/04/mbb-thong-bao-thay-doi-nhan-su-214-1430551.htm                                                                |
-| MBB: Biên bản họp ĐHĐCĐ                                                                        | 2026-04-20T09:15:24     | /2026/04/mbb-bien-ban-hop-dhdcd-737-1429892.htm                                                                        |
-| MBB: Nghị quyết ĐHĐCĐ bầu thay thế Thành viên HĐQT nhiệm kỳ 2024-2029                          | 2026-04-20T09:14:50     | /2026/04/mbb-nghi-quyet-dhdcd-bau-thay-the-thanh-vien-hdqt-nhiem-ky-20242029-737-1429898.htm                           |
-| MBB: Nghị quyết ĐHĐCĐ cập nhật phương án khắc phục dự kiến trong trường hợp được can thiệp sớm | 2026-04-20T09:13:48     | /2026/04/mbb-nghi-quyet-dhdcd-cap-nhat-phuong-an-khac-phuc-du-kien-trong-truong-hop-duoc-can-thiep-som-737-1429877.htm |
-| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung điều lệ năm 2026                                | 2026-04-20T09:13:05     | /2026/04/mbb-nghi-quyet-dhdcd-ve-viec-sua-doi-bo-sung-dieu-le-nam-2026-737-1429880.htm                                 |
+| news_title                                                                                                  | public_date         | news_source_link   |
+|:------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026                       | 2026-04-20T16:49:21 |                    |
+| MBB: Thông báo thay đổi nhân sự                                                                             | 2026-04-20T16:25:27 |                    |
+| MBB: Biên bản họp ĐHĐCĐ                                                                                     | 2026-04-20T09:15:24 |                    |
+| MBB: Nghị quyết ĐHĐCĐ bầu thay thế Thành viên HĐQT nhiệm kỳ 2024-2029                                       | 2026-04-20T09:14:50 |                    |
+| MBB: Nghị quyết ĐHĐCĐ cập nhật phương án khắc phục dự kiến trong trường hợp được can thiệp sớm              | 2026-04-20T09:13:48 |                    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung Quy chế tổ chức và hoạt động HĐQT và Quy chế Quản trị nội bộ | 2026-04-20T09:12:16 |                    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung điều lệ năm 2026                                             | 2026-04-20T09:10:59 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua BCTC và phương án phân phối lợi nhuận năm 2025                              | 2026-04-20T09:09:51 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua các vấn đề tại ĐHĐCĐTN 2026                                                 | 2026-04-20T09:08:39 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua phương án tăng vốn điều lệ                                                  | 2026-04-20T09:06:56 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-17T00:00:00 | nan                 | nan                 |
+| 2026-03-24T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
+| 2026-02-04T00:00:00 | nan                 | nan                 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2025-12-22T00:00:00 | nan                 | nan                 |
+| 2025-11-14T00:00:00 | nan                 | nan                 |
+| 2025-10-24T00:00:00 | nan                 | nan                 |
+| 2025-10-14T00:00:00 | nan                 | nan                 |
+| 2025-10-03T00:00:00 | nan                 | nan                 |
+| 2025-08-08T00:00:00 | 2025-08-14T00:00:00 | 2025-08-13T00:00:00 |
 
 ## RS vs Ngành
 
@@ -293,14 +376,15 @@ _Không có dữ liệu_
 
 | name                                                             | update_date         |   shares_owned |   ownership_percentage |
 |:-----------------------------------------------------------------|:--------------------|---------------:|-----------------------:|
-| Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)             | 2025-06-30T00:00:00 |      897158687 |                  14.7  |
-| Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước                   | 2025-06-30T00:00:00 |      599639123 |                   9.83 |
-| Tổng Công ty Trực thăng Việt Nam - Công ty TNHH                  | 2025-06-30T00:00:00 |      491233597 |                   8.05 |
-| Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn                 | 2025-06-30T00:00:00 |      432369242 |                   7.09 |
-| Công ty TNHH Một thành viên thương mại và xuất nhập khẩu Viettel | 2025-06-30T00:00:00 |      262430109 |                   4.3  |
-| Ngân hàng TMCP Ngoại thương Việt Nam                             | 2024-10-24T00:00:00 |      227000041 |                   4.28 |
-| UBS AG London Branch                                             | 2025-02-28T00:00:00 |      129982350 |                   2.13 |
-| Công ty TNHH Bảo hiểm Nhân thọ Prudiential Việt Nam              | 2024-12-31T00:00:00 |       54847306 |                   1.03 |
+| Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)             | 2025-12-31T00:00:00 |     1184249466 |                  14.7  |
+| Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước                   | 2025-12-31T00:00:00 |      791523642 |                   9.83 |
+| Tổng Công ty Trực thăng Việt Nam - Công ty TNHH                  | 2025-12-31T00:00:00 |      679074898 |                   8.43 |
+| Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn                 | 2025-12-31T00:00:00 |      570727399 |                   7.09 |
+| Công ty TNHH Một thành viên thương mại và xuất nhập khẩu Viettel | 2025-12-31T00:00:00 |      346407743 |                   4.3  |
+| Ngân hàng TMCP Ngoại thương Việt Nam                             | 2025-12-31T00:00:00 |      344586062 |                   4.28 |
+| UBS AG London Branch                                             | 2025-12-31T00:00:00 |      308315971 |                   3.83 |
+| Pyn Elite Fund (Non-UCITS)                                       | 2026-03-18T00:00:00 |       81789193 |                   1.02 |
+| Công ty TNHH Manulife (Việt Nam)                                 | 2026-01-28T00:00:00 |       61670390 |                   1.01 |
 
 ## Ban lãnh đạo
 
@@ -313,9 +397,9 @@ _Không có dữ liệu_
 | 2024        | TVHĐQT                   | Bà Hoàng Thị Thu Hiền   | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
 | TV Độc lập  | TVHĐQT                   | Ông Hoàng Văn Sâm       | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
 | 1996        | TVHĐQT                   | Ông Lê Viết Hải         | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
-| 2024        | TVHĐQT                   | Ông Phạm Doãn Cương     | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
 | 2005        | TGĐ/TVHĐQT               | Ông Phạm Như Ánh        | TGĐ (CEO)                                                | TGĐ                      |
 | 2024        | TVHĐQT                   | Ông Vũ Xuân Nam         | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
+| 2026        | TVHĐQT                   | Ông Nguyễn Việt Quân    | TVHĐQT (Member of BOD)                                   | TVHĐQT                   |
 | 1996        | Phó TGĐ                  | Ông Hà Trọng Khiêm      | Phó TGĐ (Deputy CEO)                                     | Phó TGĐ                  |
 | 2006        | Phó TGĐ                  | Ông Lê Quốc Minh        | Phó TGĐ (Deputy CEO)                                     | Phó TGĐ                  |
 | 2009        | Phó TGĐ                  | Bà Nguyễn Minh Châu     | Phó TGĐ (Deputy CEO)                                     | Phó TGĐ                  |
@@ -331,153 +415,152 @@ _Không có dữ liệu_
 
 | update_date         | name                                                                  |   charter_capital |   ownership_percent | currency   | type             |
 |:--------------------|:----------------------------------------------------------------------|------------------:|--------------------:|:-----------|:-----------------|
-| 2024-12-31T00:00:00 | Công ty TNHH Quản lý nợ & Khai thác tài sản NH TMCP Quân đội (MB AMC) |      665900000000 |              100    | VND        | công ty con      |
-| 2024-12-31T00:00:00 | Ngân hàng Đại chúng TNHH MB Campuchia (MBCambodia)                    |          76552197 |              100    | USD        | công ty con      |
-| 2024-12-31T00:00:00 | Ngân hàng TNHH MTV Việt Nam Hiện đại                                  |                -1 |              100    |            | công ty con      |
-| 2024-12-31T00:00:00 | CTCP Quản lý Quỹ đầu tư MB                                            |      356170000000 |               90.77 | VND        | công ty con      |
-| 2024-12-31T00:00:00 | CTCP Chứng khoán MB                                                   |     5728130000000 |               76.35 | VND        | công ty con      |
-| 2024-12-31T00:00:00 | Tổng Công ty cổ phần Bảo hiểm Quân Đội                                |     1726700000000 |               68.37 | VND        | công ty con      |
-| 2024-12-31T00:00:00 | Công ty TNHH Bảo hiểm nhân thọ MB Ageas                               |     1500000000000 |               61    | VND        | công ty con      |
-| 2024-12-31T00:00:00 | Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei   |     1600000000000 |               50    | VND        | công ty liên kết |
+| 2025-12-31T00:00:00 | Công ty TNHH Quản lý nợ & Khai thác tài sản NH TMCP Quân đội (MB AMC) |      665900000000 |              100    | VND        | công ty con      |
+| 2025-12-31T00:00:00 | Ngân hàng Đại chúng TNHH MB Campuchia (MBCambodia)                    |          76552197 |              100    | USD        | công ty con      |
+| 2025-12-31T00:00:00 | CTCP Quản lý Quỹ đầu tư MB                                            |      356170000000 |               90.77 | VND        | công ty con      |
+| 2025-12-31T00:00:00 | Tổng Công ty cổ phần Bảo hiểm Quân Đội                                |     2115000000000 |               67.76 | VND        | công ty con      |
+| 2025-12-31T00:00:00 | CTCP Chứng khoán MB                                                   |     6587270000000 |               66.76 | VND        | công ty con      |
+| 2025-12-31T00:00:00 | Công ty TNHH Bảo hiểm nhân thọ MB Ageas                               |     1500000000000 |               61    | VND        | công ty con      |
+| 2025-12-31T00:00:00 | Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei   |     1600000000000 |               50    | VND        | công ty liên kết |
 
 ## Công ty liên kết
 
 | update_date         | name                                                                |   charter_capital |   ownership_percent | currency   | type             |
 |:--------------------|:--------------------------------------------------------------------|------------------:|--------------------:|:-----------|:-----------------|
-| 2024-12-31T00:00:00 | Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei |     1600000000000 |                  50 | VND        | công ty liên kết |
+| 2025-12-31T00:00:00 | Công ty Tài chính Tín dụng Tiêu dùng Trách nhiệm hữu hạn MB Shinsei |     1600000000000 |                  50 | VND        | công ty liên kết |
 
 ## Kết quả kinh doanh
 
-| item                                                                                                           | item_id                                                        |       2025-Q4 |       2025-Q3 |       2025-Q2 |         2025-Q1 |
-|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|--------------:|--------------:|--------------:|----------------:|
-| 1. Thu nhập lãi và các khoản thu nhập tương tự                                                                 | n_1.interest_income_and_similar_income                         |   2.61328e+10 |   2.22659e+10 |   2.10991e+10 |     1.95903e+10 |
-| 2. Chi phí lãi và các chi phí tương tự                                                                         | n_2.interest_expense_and_similar_expenses                      |   1.15775e+10 |   9.27537e+09 |   8.72701e+09 |     7.89813e+09 |
-| I. Thu nhập lãi thuần                                                                                          | i.net_interest_income                                          |   1.45553e+10 |   1.29905e+10 |   1.23721e+10 |     1.16922e+10 |
-| 3. Thu nhập từ hoạt động dịch vụ                                                                               | n_3.fee_and_commission_income                                  |   5.6022e+09  |   4.2342e+09  |   4.61388e+09 |     3.61196e+09 |
-| 4. Chi phí hoạt động dịch vụ                                                                                   | n_4.fee_and_commission_expenses                                |   3.50103e+09 |   2.90764e+09 |   2.69833e+09 |     2.37654e+09 |
-| II. Lãi/lỗ thuần từ hoạt động dịch vụ                                                                          | ii.net_fee_and_commission_income                               |   2.10117e+09 |   1.32656e+09 |   1.91554e+09 |     1.23542e+09 |
-| III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối và vàng                                                    | iii.net_gain_loss_from_foreign_currencies_and_gold_trading     |   2.60393e+08 |   4.24608e+08 |   5.34121e+08 |     5.378e+08   |
-| IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh                                                             | iv.net_gain_loss_from_trading_securities                       |   8.0262e+07  |   1.72422e+08 |   2.46982e+08 |     1.68718e+08 |
-| V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư                                                                  | v.net_gain_loss_from_investment_securities                     |   8.22364e+08 |  -5.27544e+08 |   7.85944e+08 |     5.09329e+08 |
-| 5. Thu nhập từ hoạt động khác                                                                                  | n_5.other_income                                               |   1.57381e+09 |   1.19766e+09 |   1.3638e+09  |     1.17921e+09 |
-| 6. Chi phí hoạt động khác                                                                                      | n_6.other_expenses                                             | nan           | nan           | nan           |   nan           |
-| VI. Lãi/lỗ thuần từ hoạt động khác                                                                             | vi.net_other_income                                            |   1.57381e+09 |   1.19766e+09 |   1.3638e+09  |     1.17921e+09 |
-| VII. Thu nhập từ góp vốn, mua cổ phần                                                                          | vii.income_from_capital_contribution_and_long_term_investments |   1.3466e+08  |   1.247e+07   |   2.7174e+07  | 40000           |
-| VIII. Chi phí hoạt động                                                                                        | viii.operating_expenses                                        |   6.22946e+09 |   4.54527e+09 |   4.95647e+09 |     3.94996e+09 |
-| IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng (I+II+III+IV+V+VI+VII-VIII) | ix.operating_profit_before_provision_for_credit_losses         |   1.32985e+10 |   1.10514e+10 |   1.22892e+10 |     1.13727e+10 |
-| X. Chi phí dự phòng rủi ro tín dụng                                                                            | x.provision_for_credit_losses                                  |   2.16936e+09 |   3.80151e+09 |   4.78622e+09 |     2.98641e+09 |
-| XI. Tổng lợi nhuận trước thuế (IX-X)                                                                           | xi.profit_before_tax                                           |   1.11291e+10 |   7.24992e+09 |   7.50299e+09 |     8.38632e+09 |
-| 7. Chi phí thuế TNDN hiện hành                                                                                 | n_7.current_corporate_income_tax_expenses                      |   2.21865e+09 |   1.45274e+09 |   1.49662e+09 |     1.70886e+09 |
-| 8. Chi phí thuế TNDN hoãn lại                                                                                  | n_8.deferred_income_tax_expenses                               |   7.524e+06   |  -3.263e+06   |   1.661e+06   |     2.587e+06   |
-| XII. Chi phí thuế TNDN                                                                                         | xii.corporate_income_tax                                       |   2.22617e+09 |   1.44948e+09 |   1.49828e+09 |     1.71145e+09 |
-| XIII. Lợi nhuận sau thuế (XI-XII)                                                                              | xiii.net_profit_after_tax                                      |   8.90295e+09 |   5.80044e+09 |   6.00471e+09 |     6.67488e+09 |
-| XIV. Lợi ích của cổ đông thiểu số                                                                              | xiv.minority_interest                                          |   1.40382e+08 |   2.29417e+08 |   1.27101e+08 |     1.07139e+08 |
-| XV. Lợi nhuận sau thuế của cổ đông của Ngân hàng mẹ (XIII-XIV)                                                 | xv.net_profit_atttributable_to_the_equity_holders_of_the_bank  |   8.76257e+09 |   5.57102e+09 |   5.8776e+09  |     6.56774e+09 |
-| Lãi cơ bản trên cổ phiếu (BCTC) (VNÐ)                                                                          | earning_per_share_vnd                                          | nan           | nan           | nan           |   nan           |
+| item                                                                                                           | item_id                                                        |       2026-Q1 |       2025-Q4_1 |       2025-Q4 |       2025-Q3 |
+|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|--------------:|----------------:|--------------:|--------------:|
+| 1. Thu nhập lãi và các khoản thu nhập tương tự                                                                 | n_1.interest_income_and_similar_income                         |   2.61328e+10 |     1.95903e+10 |   2.22659e+10 |   2.10991e+10 |
+| 2. Chi phí lãi và các chi phí tương tự                                                                         | n_2.interest_expense_and_similar_expenses                      |   1.15775e+10 |     7.89813e+09 |   9.27537e+09 |   8.72701e+09 |
+| I. Thu nhập lãi thuần                                                                                          | i.net_interest_income                                          |   1.45553e+10 |     1.16922e+10 |   1.29905e+10 |   1.23721e+10 |
+| 3. Thu nhập từ hoạt động dịch vụ                                                                               | n_3.fee_and_commission_income                                  |   5.6022e+09  |     3.61196e+09 |   4.2342e+09  |   4.61388e+09 |
+| 4. Chi phí hoạt động dịch vụ                                                                                   | n_4.fee_and_commission_expenses                                |   3.50103e+09 |     2.37654e+09 |   2.90764e+09 |   2.69833e+09 |
+| II. Lãi/lỗ thuần từ hoạt động dịch vụ                                                                          | ii.net_fee_and_commission_income                               |   2.10117e+09 |     1.23542e+09 |   1.32656e+09 |   1.91554e+09 |
+| III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối và vàng                                                    | iii.net_gain_loss_from_foreign_currencies_and_gold_trading     |   2.60393e+08 |     5.378e+08   |   4.24608e+08 |   5.34121e+08 |
+| IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh                                                             | iv.net_gain_loss_from_trading_securities                       |   8.0262e+07  |     1.68718e+08 |   1.72422e+08 |   2.46982e+08 |
+| V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư                                                                  | v.net_gain_loss_from_investment_securities                     |   8.22364e+08 |     5.09329e+08 |  -5.27544e+08 |   7.85944e+08 |
+| 5. Thu nhập từ hoạt động khác                                                                                  | n_5.other_income                                               |   1.57381e+09 |     1.17921e+09 |   1.19766e+09 |   1.3638e+09  |
+| 6. Chi phí hoạt động khác                                                                                      | n_6.other_expenses                                             | nan           |   nan           | nan           | nan           |
+| VI. Lãi/lỗ thuần từ hoạt động khác                                                                             | vi.net_other_income                                            |   1.57381e+09 |     1.17921e+09 |   1.19766e+09 |   1.3638e+09  |
+| VII. Thu nhập từ góp vốn, mua cổ phần                                                                          | vii.income_from_capital_contribution_and_long_term_investments |   1.3466e+08  | 40000           |   1.247e+07   |   2.7174e+07  |
+| VIII. Chi phí hoạt động                                                                                        | viii.operating_expenses                                        |   6.22946e+09 |     3.94996e+09 |   4.54527e+09 |   4.95647e+09 |
+| IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng (I+II+III+IV+V+VI+VII-VIII) | ix.operating_profit_before_provision_for_credit_losses         |   1.32985e+10 |     1.13727e+10 |   1.10514e+10 |   1.22892e+10 |
+| X. Chi phí dự phòng rủi ro tín dụng                                                                            | x.provision_for_credit_losses                                  |   2.16936e+09 |     2.98641e+09 |   3.80151e+09 |   4.78622e+09 |
+| XI. Tổng lợi nhuận trước thuế (IX-X)                                                                           | xi.profit_before_tax                                           |   1.11291e+10 |     8.38632e+09 |   7.24992e+09 |   7.50299e+09 |
+| 7. Chi phí thuế TNDN hiện hành                                                                                 | n_7.current_corporate_income_tax_expenses                      |   2.21865e+09 |     1.70886e+09 |   1.45274e+09 |   1.49662e+09 |
+| 8. Chi phí thuế TNDN hoãn lại                                                                                  | n_8.deferred_income_tax_expenses                               |   7.524e+06   |     2.587e+06   |  -3.263e+06   |   1.661e+06   |
+| XII. Chi phí thuế TNDN                                                                                         | xii.corporate_income_tax                                       |   2.22617e+09 |     1.71145e+09 |   1.44948e+09 |   1.49828e+09 |
+| XIII. Lợi nhuận sau thuế (XI-XII)                                                                              | xiii.net_profit_after_tax                                      |   8.90295e+09 |     6.67488e+09 |   5.80044e+09 |   6.00471e+09 |
+| XIV. Lợi ích của cổ đông thiểu số                                                                              | xiv.minority_interest                                          |   1.40382e+08 |     1.07139e+08 |   2.29417e+08 |   1.27101e+08 |
+| XV. Lợi nhuận sau thuế của cổ đông của Ngân hàng mẹ (XIII-XIV)                                                 | xv.net_profit_atttributable_to_the_equity_holders_of_the_bank  |   8.76257e+09 |     6.56774e+09 |   5.57102e+09 |   5.8776e+09  |
+| Lãi cơ bản trên cổ phiếu (BCTC) (VNÐ)                                                                          | earning_per_share_vnd                                          | nan           |   nan           | nan           | nan           |
 
 ## Bảng cân đối kế toán
 
-| item                                                             | item_id                                                                     |       2025-Q4 |       2025-Q3 |       2025-Q2 |       2025-Q1 |
+| item                                                             | item_id                                                                     |       2026-Q1 |     2025-Q4_1 |       2025-Q4 |       2025-Q3 |
 |:-----------------------------------------------------------------|:----------------------------------------------------------------------------|--------------:|--------------:|--------------:|--------------:|
 | A. TÀI SẢN                                                       | assets                                                                      | nan           | nan           | nan           | nan           |
-| I. Tiền mặt, vàng bạc, đá quý                                    | i.cash_gold_and_silver_precious_stones                                      |   4.96579e+09 |   4.42147e+09 |   5.26252e+09 |   4.22398e+09 |
-| II. Tiền gửi tại NHNN                                            | ii.balances_with_the_state_bank_of_vietnam                                  |   6.84944e+10 |   1.75075e+10 |   1.52515e+10 |   1.5522e+10  |
-| III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác   | iii.placements_at_and_loans_to_other_credit_institutions                    |   1.82924e+11 |   1.08325e+11 |   9.60813e+10 |   6.43386e+10 |
-| 1. Tiền, vàng gửi tại các TCTD khác                              | n_1.placements_at_other_credit_institutions                                 |   1.82924e+11 |   1.08325e+11 |   9.60813e+10 |   6.43386e+10 |
+| I. Tiền mặt, vàng bạc, đá quý                                    | i.cash_gold_and_silver_precious_stones                                      |   4.96579e+09 |   4.22398e+09 |   4.42147e+09 |   5.26252e+09 |
+| II. Tiền gửi tại NHNN                                            | ii.balances_with_the_state_bank_of_vietnam                                  |   6.84944e+10 |   1.5522e+10  |   1.75075e+10 |   1.52515e+10 |
+| III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác   | iii.placements_at_and_loans_to_other_credit_institutions                    |   1.82924e+11 |   6.43386e+10 |   1.08325e+11 |   9.60813e+10 |
+| 1. Tiền, vàng gửi tại các TCTD khác                              | n_1.placements_at_other_credit_institutions                                 |   1.82924e+11 |   6.43386e+10 |   1.08325e+11 |   9.60813e+10 |
 | 2. Cho vay các TCTD khác                                         | n_2.loans_to_other_credit_institutions                                      | nan           | nan           | nan           | nan           |
 | 3. Dự phòng rủi ro cho vay các TCTD khác                         | n_3.provisions_for_losses_and_risks                                         | nan           | nan           | nan           | nan           |
-| IV. Chứng khoán kinh doanh                                       | iv.trading_securities                                                       |   4.65323e+09 |   3.17217e+09 |   4.58568e+09 |   1.24812e+10 |
-| 1. Chứng khoán kinh doanh                                        | n_1.trading_securities                                                      |   4.69262e+09 |   3.19587e+09 |   4.61829e+09 |   1.25092e+10 |
-| 2. Dự phòng giảm giá chứng khoán kinh doanh                      | n_2.provisions_for_diminution_in_value_of_trading_securities                |  -3.9393e+07  |  -2.37e+07    |  -3.261e+07   |  -2.7979e+07  |
+| IV. Chứng khoán kinh doanh                                       | iv.trading_securities                                                       |   4.65323e+09 |   1.24812e+10 |   3.17217e+09 |   4.58568e+09 |
+| 1. Chứng khoán kinh doanh                                        | n_1.trading_securities                                                      |   4.69262e+09 |   1.25092e+10 |   3.19587e+09 |   4.61829e+09 |
+| 2. Dự phòng giảm giá chứng khoán kinh doanh                      | n_2.provisions_for_diminution_in_value_of_trading_securities                |  -3.9393e+07  |  -2.7979e+07  |  -2.37e+07    |  -3.261e+07   |
 | V. Các công cụ tài chính phái sinh và các tài sản tài chính khác | v.derivatives_and_other_financial_assets                                    | nan           | nan           | nan           | nan           |
-| VI. Cho vay khách hàng                                           | vi.loans_advances_and_finance_leases_to_customers                           |   1.07087e+12 |   9.17699e+11 |   8.6734e+11  |   7.86487e+11 |
-| 1. Cho vay và cho thuê tài chính khách hàng                      | n_1.loans_advances_and_finance_leases_to_customers                          |   1.08402e+12 |   9.31499e+11 |   8.79889e+11 |   7.97537e+11 |
-| 2. Dự phòng rủi ro cho vay và cho thuê tài chính khách hàng      | n_2.provisions_for_losses_on_loans_advances_and_finance_leases_to_customers |  -1.31506e+10 |  -1.37996e+10 |  -1.25483e+10 |  -1.10497e+10 |
-| VII. Hoạt động mua nợ                                            | vii.debt_purchased                                                          |   2.4439e+09  |   2.47605e+09 |   2.58902e+09 |   4.66382e+08 |
-| 1. Mua nợ                                                        | n_1.debt_purchased                                                          |   2.46531e+09 |   2.54868e+09 |   2.66032e+09 |   5.23636e+08 |
-| 2. Dự phòng rủi ro hoạt động mua nợ                              | n_2.provision_for_debt_purchased                                            |  -2.1419e+07  |  -7.2631e+07  |  -7.1303e+07  |  -5.7254e+07  |
-| VIII. Chứng khoán đầu tư                                         | viii.investment_securities                                                  |   2.25575e+11 |   2.35604e+11 |   2.62474e+11 |   2.40235e+11 |
-| 1. Chứng khoán đầu tư sẵn sàng để bán                            | n_1.available_for_sales_securities                                          |   2.21512e+11 |   2.32243e+11 |   2.58676e+11 |   2.36772e+11 |
-| 2. Chứng khoán đầu tư giữ đến ngày đáo hạn                       | n_2.held_to_maturity_securities                                             |   4.29512e+09 |   4.46742e+09 |   4.25559e+09 |   3.96963e+09 |
-| 3. Dự phòng giảm giá chứng khoán đầu tư                          | n_3.provisions_for_diminution_in_value_of_investment_securities             |  -2.32739e+08 |  -1.10657e+09 |  -4.5767e+08  |  -5.06707e+08 |
-| IX. Góp vốn, đầu tư dài hạn                                      | ix.capital_contribution_and_other_long_term_investments                     |   4.68396e+08 |   1.11238e+09 |   5.82898e+08 |   6.96628e+08 |
+| VI. Cho vay khách hàng                                           | vi.loans_advances_and_finance_leases_to_customers                           |   1.07087e+12 |   7.86487e+11 |   9.17699e+11 |   8.6734e+11  |
+| 1. Cho vay và cho thuê tài chính khách hàng                      | n_1.loans_advances_and_finance_leases_to_customers                          |   1.08402e+12 |   7.97537e+11 |   9.31499e+11 |   8.79889e+11 |
+| 2. Dự phòng rủi ro cho vay và cho thuê tài chính khách hàng      | n_2.provisions_for_losses_on_loans_advances_and_finance_leases_to_customers |  -1.31506e+10 |  -1.10497e+10 |  -1.37996e+10 |  -1.25483e+10 |
+| VII. Hoạt động mua nợ                                            | vii.debt_purchased                                                          |   2.4439e+09  |   4.66382e+08 |   2.47605e+09 |   2.58902e+09 |
+| 1. Mua nợ                                                        | n_1.debt_purchased                                                          |   2.46531e+09 |   5.23636e+08 |   2.54868e+09 |   2.66032e+09 |
+| 2. Dự phòng rủi ro hoạt động mua nợ                              | n_2.provision_for_debt_purchased                                            |  -2.1419e+07  |  -5.7254e+07  |  -7.2631e+07  |  -7.1303e+07  |
+| VIII. Chứng khoán đầu tư                                         | viii.investment_securities                                                  |   2.25575e+11 |   2.40235e+11 |   2.35604e+11 |   2.62474e+11 |
+| 1. Chứng khoán đầu tư sẵn sàng để bán                           | n_1.available_for_sales_securities                                          |   2.21512e+11 |   2.36772e+11 |   2.32243e+11 |   2.58676e+11 |
+| 2. Chứng khoán đầu tư giữ đến ngày đáo hạn                       | n_2.held_to_maturity_securities                                             |   4.29512e+09 |   3.96963e+09 |   4.46742e+09 |   4.25559e+09 |
+| 3. Dự phòng giảm giá chứng khoán đầu tư                          | n_3.provisions_for_diminution_in_value_of_investment_securities             |  -2.32739e+08 |  -5.06707e+08 |  -1.10657e+09 |  -4.5767e+08  |
+| IX. Góp vốn, đầu tư dài hạn                                      | ix.capital_contribution_and_other_long_term_investments                     |   4.68396e+08 |   6.96628e+08 |   1.11238e+09 |   5.82898e+08 |
 | 1. Đầu tư vào công ty con                                        | n_1.investments_in_subsidiaries                                             | nan           | nan           | nan           | nan           |
 | 2. Đầu tư vào công ty liên doanh, liên kết                       | n_2.investments_in_associates_joint_ventures                                | nan           | nan           | nan           | nan           |
-| 3. Đầu tư dài hạn khác                                           | n_3.other_long_term_investments                                             |   5.59624e+08 |   1.23572e+09 |   7.0703e+08  |   8.2076e+08  |
-| 4. Dự phòng giảm giá đầu tư dài hạn                              | n_4.provision_for_diminution_in_value_of_long_term_investments              |  -9.1228e+07  |  -1.23344e+08 |  -1.24132e+08 |  -1.24132e+08 |
-| X. Tài sản cố định                                               | x.fixed_assets                                                              |   5.61655e+09 |   5.12109e+09 |   5.34333e+09 |   5.38176e+09 |
-| 1. Tài sản cố định hữu hình                                      | n_1.tangible_fixed_assets                                                   |   3.80553e+09 |   3.53603e+09 |   3.71343e+09 |   3.7724e+09  |
-| a. Nguyên giá TSCĐ                                               | a.cost                                                                      |   9.42324e+09 |   9.028e+09   |   9.1746e+09  |   9.16065e+09 |
-| b. Hao mòn TSCĐ                                                  | b.accumulated_depreciation                                                  |  -5.6177e+09  |  -5.49197e+09 |  -5.46117e+09 |  -5.38825e+09 |
+| 3. Đầu tư dài hạn khác                                           | n_3.other_long_term_investments                                             |   5.59624e+08 |   8.2076e+08  |   1.23572e+09 |   7.0703e+08  |
+| 4. Dự phòng giảm giá đầu tư dài hạn                              | n_4.provision_for_diminution_in_value_of_long_term_investments              |  -9.1228e+07  |  -1.24132e+08 |  -1.23344e+08 |  -1.24132e+08 |
+| X. Tài sản cố định                                               | x.fixed_assets                                                              |   5.61655e+09 |   5.38176e+09 |   5.12109e+09 |   5.34333e+09 |
+| 1. Tài sản cố định hữu hình                                      | n_1.tangible_fixed_assets                                                   |   3.80553e+09 |   3.7724e+09  |   3.53603e+09 |   3.71343e+09 |
+| a. Nguyên giá TSCĐ                                               | a.cost                                                                      |   9.42324e+09 |   9.16065e+09 |   9.028e+09   |   9.1746e+09  |
+| b. Hao mòn TSCĐ                                                  | b.accumulated_depreciation                                                  |  -5.6177e+09  |  -5.38825e+09 |  -5.49197e+09 |  -5.46117e+09 |
 | 2. Tài sản cố định thuê tài chính                                | n_2.finance_leased_fixed_assets                                             | nan           | nan           | nan           | nan           |
 | a. Nguyên giá TSCĐ                                               | a.cost_2                                                                    | nan           | nan           | nan           | nan           |
 | b. Hao mòn TSCĐ                                                  | b.accumulated_depreciation_2                                                | nan           | nan           | nan           | nan           |
-| 3. Tài sản cố định vô hình                                       | n_3.intangible_fixed_assets                                                 |   1.81101e+09 |   1.58506e+09 |   1.6299e+09  |   1.60936e+09 |
-| a. Nguyên giá TSCĐ                                               | a.cost_3                                                                    |   5.6849e+09  |   5.25781e+09 |   5.18062e+09 |   5.00626e+09 |
-| b. Hao mòn TSCĐ                                                  | b.accumulated_depreciation_3                                                |  -3.87389e+09 |  -3.67275e+09 |  -3.55072e+09 |  -3.3969e+09  |
-| XI. Bất động sản đầu tư                                          | xi.investment_properties                                                    |   2.22813e+08 |   2.1937e+08  |   2.20898e+08 |   2.3257e+08  |
-| a. Nguyên giá BĐSĐT                                              | a.cost_4                                                                    |   2.55126e+08 |   2.50155e+08 |   2.50155e+08 |   2.60415e+08 |
-| b. Hao mòn BĐSĐT                                                 | b.accumulated_depreciation_4                                                |  -3.2313e+07  |  -3.0785e+07  |  -2.9257e+07  |  -2.7845e+07  |
-| XII. Tài sản "Có" khác                                           | xii.other_assets                                                            |   4.95315e+10 |   3.29029e+10 |   2.99126e+10 |   2.68523e+10 |
+| 3. Tài sản cố định vô hình                                       | n_3.intangible_fixed_assets                                                 |   1.81101e+09 |   1.60936e+09 |   1.58506e+09 |   1.6299e+09  |
+| a. Nguyên giá TSCĐ                                               | a.cost_3                                                                    |   5.6849e+09  |   5.00626e+09 |   5.25781e+09 |   5.18062e+09 |
+| b. Hao mòn TSCĐ                                                  | b.accumulated_depreciation_3                                                |  -3.87389e+09 |  -3.3969e+09  |  -3.67275e+09 |  -3.55072e+09 |
+| XI. Bất động sản đầu tư                                          | xi.investment_properties                                                    |   2.22813e+08 |   2.3257e+08  |   2.1937e+08  |   2.20898e+08 |
+| a. Nguyên giá BĐSĐT                                              | a.cost_4                                                                    |   2.55126e+08 |   2.60415e+08 |   2.50155e+08 |   2.50155e+08 |
+| b. Hao mòn BĐSĐT                                                 | b.accumulated_depreciation_4                                                |  -3.2313e+07  |  -2.7845e+07  |  -3.0785e+07  |  -2.9257e+07  |
+| XII. Tài sản "Có" khác                                           | xii.other_assets                                                            |   4.95315e+10 |   2.68523e+10 |   3.29029e+10 |   2.99126e+10 |
 
 ## Lưu chuyển tiền tệ
 
-| item                                                                                                            | item_id                                                                                                                   | 2025-Q4   | 2025-Q3   | 2025-Q2   |          2025-Q1 |
-|:----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:----------|:----------|:----------|-----------------:|
-| Lưu chuyển tiền từ hoạt động kinh doanh                                                                         | i.cash_flows_from_operating_activities                                                                                    |           |           |           |    nan           |
-| 1. Thu nhập lãi và các khoản thu nhập tương tự nhận được                                                        | n_1.receipts_from_interest_and_similar_income                                                                             |           |           |           |      1.81867e+10 |
-| 2. Chi phí lãi và các chi phí tương tự đã trả                                                                   | n_2.payments_for_interest_and_similar_expenses                                                                            |           |           |           |     -6.53506e+09 |
-| 3. Thu nhập từ hoạt động dịch vụ nhận được                                                                      | n_3.receipts_from_fee_and_commission_income                                                                               |           |           |           |      1.23542e+09 |
-| 4- Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)               | n_4.net_cash_inflow_from_trading_activities_in_foreign_currencies_gold_and_securities                                     |           |           |           |      1.27429e+09 |
-| 5. Thu nhập khác                                                                                                | n_5.receipts_from_other_income                                                                                            |           |           |           |      1.75647e+08 |
-| 6. Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro                                            | n_6.receipts_from_collection_of_debts_written_off_debts_accounted_for_by_reserves                                         |           |           |           |      1.0034e+09  |
-| 7. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ                                                     | n_7.payments_for_staff_costs_and_operating_expenses                                                                       |           |           |           |     -4.69475e+09 |
-| 8. Tiền thuế thu nhập thực nộp trong kỳ                                                                         | n_8.corporate_income_tax_paid_for_the_period                                                                              |           |           |           |     -3.21391e+09 |
-| Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động                   | cash_flow_from_operating_activities_before_changes_in_operating_assets_and_liabilities                                    |           |           |           |      7.43172e+09 |
-| Những thay đổi về tài sản hoạt động                                                                             | changes_in_operating_assets                                                                                               |           |           |           |    nan           |
-| 9. (Tăng)/Giảm các khoản tiền, vàng gửi và cho vay các TCTD khác                                                | n_9.increase_decrease_in_placements_with_and_loans_to_other_credit_institutions                                           |           |           |           |      1.82199e+09 |
-| 10. (Tăng)/Giảm các khoản về kinh doanh chứng khoán                                                             | n_10.increase_decrease_in_trading_securities_and_investment_securities                                                    |           |           |           |     -3.51984e+10 |
-| 11. (Tăng)/Giảm các công cụ tài chính phái sinh và các công cụ tài chính khác                                   | n_11.increase_decrease_in_derivatives_and_other_financial_assets                                                          |           |           |           |    nan           |
-| 12. (Tăng)/Giảm các khoản cho vay khách hàng                                                                    | n_12.increase_decrease_in_loans_and_advances_to_customers                                                                 |           |           |           |     -2.03611e+10 |
-| 13. Giảm nguồn dự phòng để bù đắp tổn thất các khoản                                                            | n_13.decrease_increase_in_provisions_for_damages                                                                          |           |           |           |     -3.59125e+09 |
-| 14. (Tăng)/Giảm khác về tài sản hoạt động                                                                       | n_14.increase_decrease_in_other_operating_assets                                                                          |           |           |           |      3.50454e+09 |
-| Những thay đổi về công nợ hoạt động                                                                             | changes_in_operating_liabilities                                                                                          |           |           |           |    nan           |
-| 15. Tăng/(Giảm) các khoản nợ chính phủ và NHNN                                                                  | n_15.increase_decrease_in_due_to_the_government_and_borrowings_from_state_bank_of_vietnam                                 |           |           |           |     -2.66186e+09 |
-| 16. Tăng/(Giảm) các khoản tiền gửi, tiền vay các tổ chức tín dụng                                               | n_16.increase_decrease_in_placements_and_borrowings_from_other_credit_institutions                                        |           |           |           |     -1.1539e+09  |
-| 17. Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước)                                           | n_17.increase_decrease_in_deposit_from_customers_including_the_state_treasury                                             |           |           |           |      8.46797e+09 |
-| 18. Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ giấy tờ có giá phát hành được tình vào hoạt động tài chính) | n_18.increase_decrease_in_valuable_papers_issued_excluding_valuable_papers_categorized_under_financing_activities         |           |           |           |      1.54345e+10 |
-| 19. Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro                                        | n_19.increase_decrease_in_funds_received_from_government_institutions_investments_on_behalf_of_investors_and_syndicated_… |           |           |           |      2.09619e+08 |
-| 20. Tăng/(Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác                                  | n_20.increase_decrease_in_derivatives_and_other_financial_liabilities                                                     |           |           |           |      3.34598e+08 |
-| 21. Tăng/(Giảm) khác về công nợ hoạt động                                                                       | n_21.increase_decrease_in_other_operating_liabilities                                                                     |           |           |           |     -1.66948e+08 |
-| 22. Chi từ các quỹ của TCTD                                                                                     | n_22.payments_from_reserves                                                                                               |           |           |           |     -1.46417e+08 |
-| I - Lưu chuyển tiền thuần từ hoạt động kinh doanh                                                               | net_cash_flows_from_operating_activities                                                                                  |           |           |           |     -2.6075e+10  |
-| Lưu chuyển tiền từ hoạt động đầu tư                                                                             | ii.cash_flows_from_investing_activities                                                                                   |           |           |           |    nan           |
-| 1. Mua sắm tài sản cố định                                                                                      | n_1.purchase_of_fixed_assets                                                                                              |           |           |           |     -1.05862e+08 |
-| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ                                                                        | n_2.receipts_from_disposal_of_fixed_assets                                                                                |           |           |           | 166000           |
+| item                                                                                                                 | item_id                                                                                                                   |        2025-Q4_1 |       2025-Q2 |
+|:---------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| V- Tiền và các khoản tương đương tiền tại thời điểm đầu kỳ                                                           | cash_and_cash_equivalents_at_beginning_of_the_period                                                                      |      9.70403e+10 |   2.3926e+11  |
+| VII. Tiền và các khoản tương đương tiền tại thời điểm cuối kỳ                                                        | cash_and_cash_equivalents_at_end_of_the_period                                                                            |      7.29869e+10 |   1.69986e+11 |
+| Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động                        | cash_flow_from_operating_activities_before_changes_in_operating_assets_and_liabilities                                    |      7.43172e+09 |   7.69785e+09 |
+| Những thay đổi về tài sản hoạt động                                                                                  | changes_in_operating_assets                                                                                               |    nan           | nan           |
+| Những thay đổi về công nợ hoạt động                                                                                  | changes_in_operating_liabilities                                                                                          |    nan           | nan           |
+| VI- Điều chỉnh ảnh hưởng của thay đổi tỷ giá                                                                         | exchange_difference_due_to_re_valuation_of_ending_balances                                                                |    nan           | nan           |
+| Lưu chuyển tiền từ hoạt động kinh doanh                                                                              | i.cash_flows_from_operating_activities                                                                                    |    nan           | nan           |
+| Lưu chuyển tiền từ hoạt động đầu tư                                                                                  | ii.cash_flows_from_investing_activities                                                                                   |    nan           | nan           |
+| Lưu chuyển tiền từ hoạt động tài chính                                                                               | iii.cash_flows_from_financing_activities                                                                                  |    nan           | nan           |
+| 1. Mua sắm tài sản cố định                                                                                           | n_1.purchase_of_fixed_assets                                                                                              |     -1.05862e+08 |  -5.91985e+08 |
+| 1. Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu                                                            | n_1.receipts_from_equity_issue_and_owners_capital_contribution                                                            |    nan           |   8.5922e+07  |
+| 1. Thu nhập lãi và các khoản thu nhập tương tự nhận được                                                             | n_1.receipts_from_interest_and_similar_income                                                                             |      1.81867e+10 |   2.69047e+10 |
+| 10. (Tăng)/Giảm các khoản về kinh doanh chứng khoán                                                                  | n_10.increase_decrease_in_trading_securities_and_investment_securities                                                    |     -3.51984e+10 |  -3.79845e+10 |
+| 11. (Tăng)/Giảm các công cụ tài chính phái sinh và các công cụ tài chính khác                                        | n_11.increase_decrease_in_derivatives_and_other_financial_assets                                                          |    nan           | nan           |
+| 12. (Tăng)/Giảm các khoản cho vay khách hàng                                                                         | n_12.increase_decrease_in_loans_and_advances_to_customers                                                                 |     -2.03611e+10 |  -3.63651e+10 |
+| 13. Giảm nguồn dự phòng để bù đắp tổn thất các khoản                                                                 | n_13.decrease_increase_in_provisions_for_damages                                                                          |     -3.59125e+09 |  -1.89256e+09 |
+| 14. (Tăng)/Giảm khác về tài sản hoạt động                                                                            | n_14.increase_decrease_in_other_operating_assets                                                                          |      3.50454e+09 |   9.69164e+09 |
+| 15. Tăng/(Giảm) các khoản nợ chính phủ và NHNN                                                                       | n_15.increase_decrease_in_due_to_the_government_and_borrowings_from_state_bank_of_vietnam                                 |     -2.66186e+09 |  -1.91283e+10 |
+| 16. Tăng/(Giảm) các khoản tiền gửi, tiền vay các tổ chức tín dụng                                                    | n_16.increase_decrease_in_placements_and_borrowings_from_other_credit_institutions                                        |     -1.1539e+09  |   8.87399e+09 |
+| 17. Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước)                                                | n_17.increase_decrease_in_deposit_from_customers_including_the_state_treasury                                             |      8.46797e+09 |  -1.54498e+10 |
+| 18. Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ giấy tờ có giá phát hành được tình vào hoạt động tài chính)      | n_18.increase_decrease_in_valuable_papers_issued_excluding_valuable_papers_categorized_under_financing_activities         |      1.54345e+10 |   2.53789e+10 |
+| 19. Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro                                             | n_19.increase_decrease_in_funds_received_from_government_institutions_investments_on_behalf_of_investors_and_syndicated_… |      2.09619e+08 |  -6.65818e+08 |
+| 2. Chi phí lãi và các chi phí tương tự đã trả                                                                        | n_2.payments_for_interest_and_similar_expenses                                                                            |     -6.53506e+09 |  -1.171e+10   |
+| 2. Tiền thu từ thanh lý, nhượng bán TSCĐ                                                                             | n_2.receipts_from_disposal_of_fixed_assets                                                                                | 166000           |   1.895e+06   |
+| 2. Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác | n_2.receipts_from_issue_of_valuable_papers_qualified_as_owners_capital_and_other_long_term_borrowings                     |      2.19856e+09 | nan           |
+| 20. Tăng/(Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác                                       | n_20.increase_decrease_in_derivatives_and_other_financial_liabilities                                                     |      3.34598e+08 |  -3.7183e+07  |
+| 21. Tăng/(Giảm) khác về công nợ hoạt động                                                                            | n_21.increase_decrease_in_other_operating_liabilities                                                                     |     -1.66948e+08 |  -5.95778e+09 |
+| 22. Chi từ các quỹ của TCTD                                                                                          | n_22.payments_from_reserves                                                                                               |     -1.46417e+08 |  -4.6116e+07  |
+| 3. Tiền chi từ thanh lý, nhượng bán TSCĐ                                                                             | n_3.payments_for_disposal_of_fixed_assets                                                                                 |    nan           | nan           |
+| 3. Tiền chi thanh toán giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác   | n_3.payments_for_issue_of_valuable_papers_qualified_as_owners_capital_and_other_long_term_borrowings                      |    nan           |  -3.79856e+09 |
 
 ## Chỉ số tài chính
 
-| item                                                            | item_id                                                 |   2025-Q4 |   2025-Q3 |   2025-Q2 |   2025-Q1 |
-|:----------------------------------------------------------------|:--------------------------------------------------------|----------:|----------:|----------:|----------:|
-| Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              | trailing_eps                                            |   3980.45 |   4050.73 |   4331.22 |   4516.14 |
-| Giá trị sổ sách của cổ phiếu (BVPS)                             | book_value_per_share_bvps                               |  17631.6  |  16522.8  |  20943.6  |  20267.3  |
-| Chỉ số giá thị trường trên thu nhập (P/E)                       | p_e                                                     |      6.36 |      6.47 |      5.96 |      5.34 |
-| Chỉ số giá thị trường trên giá trị sổ sách (P/B)                | p_b                                                     |      1.43 |      1.59 |      1.23 |      1.19 |
-| Tỷ suất cổ tức                                                  | dividend_yield                                          |      0.01 |      0.01 |      0    |      0.02 |
-| Beta                                                            | beta                                                    |      1.17 |      1.2  |      1.01 |      1.11 |
-| Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)          | roe                                                     |      6.37 |      4.27 |      4.67 |      5.46 |
-| Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)             | roa                                                     |      0.6  |      0.43 |      0.48 |      0.57 |
-| Tỷ suất sinh lợi của Tài sản Có sinh lãi (YOEA)                 | yield_on_earning_assets_yoea                            |      1.67 |      1.72 |      1.68 |      1.75 |
-| Tỷ lệ chi phí hình thành Tài sản Có sinh lãi (COF)              | cost_of_funding_earning_assets_cof                      |      0.91 |      0.83 |      0.84 |      0.81 |
-| Tỷ lệ thu nhập lãi thuần (NIM)                                  | net_interest_margin_nim                                 |      0.93 |      1    |      0.99 |      1.05 |
-| Tỷ lệ chi phí hoạt động/Tổng thu nhập HĐKD trước dự phòng (CIR) | cost_income_ratio_cir                                   |     31.9  |     29.14 |     28.74 |     25.78 |
-| ROE bình quân 4 quý gần nhất                                    | roe_trailling                                           |     21.22 |     20.22 |     21.36 |     22.6  |
-| ROA bình quân 4 quý gần nhất                                    | roa_trailling                                           |      1.99 |      1.98 |      2.13 |      2.29 |
-| Tăng trưởng lợi nhuận trước thuế                                | profit_before_tax                                       |     37.51 |     -0.79 |     -1.7  |     44.71 |
-| Tăng trưởng lợi nhuận sau thuế của CĐ ngân hàng mẹ              | profit_after_tax_for_shareholders_of_the_parent_company |     39.44 |     -3.78 |     -2.47 |     44.9  |
-| Tăng trưởng tổng tài sản                                        | total_assets                                            |     43.14 |     29.13 |     30.45 |     28.45 |
-| Tăng trưởng vốn chủ sở hữu                                      | owners_equity                                           |     21.32 |     20.97 |     22.64 |     27.14 |
-| Tăng trưởng vốn điều lệ                                         | charter_capital                                         |     51.8  |     52.35 |     15.42 |     17.03 |
-| Tăng trưởng dư nợ cho vay                                       | deposits_from_customers                                 |     39.57 |     32.69 |     30.59 |     29.61 |
+| item                                                            | item_id                                                 |   2026-Q1 |   2025-Q4 |   2025-Q4_1 |   2025-Q3 |
+|:----------------------------------------------------------------|:--------------------------------------------------------|----------:|----------:|------------:|----------:|
+| Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)              | trailing_eps                                            |   3980.45 |   4050.73 |     4516.14 |   4331.22 |
+| Giá trị sổ sách của cổ phiếu (BVPS)                             | book_value_per_share_bvps                               |  17631.6  |  16522.8  |    20267.3  |  20943.6  |
+| Chỉ số giá thị trường trên thu nhập (P/E)                       | p_e                                                     |      6.36 |      6.47 |        5.34 |      5.96 |
+| Chỉ số giá thị trường trên giá trị sổ sách (P/B)                | p_b                                                     |      1.43 |      1.59 |        1.19 |      1.23 |
+| Tỷ suất cổ tức                                                  | dividend_yield                                          |      0.01 |      0.01 |        0.02 |      0    |
+| Beta                                                            | beta                                                    |      1.17 |      1.2  |        1.11 |      1.01 |
+| Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)          | roe                                                     |      6.37 |      4.27 |        5.46 |      4.67 |
+| Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)             | roa                                                     |      0.6  |      0.43 |        0.57 |      0.48 |
+| Tỷ suất sinh lợi của Tài sản Có sinh lãi (YOEA)                 | yield_on_earning_assets_yoea                            |      1.67 |      1.72 |        1.75 |      1.68 |
+| Tỷ lệ chi phí hình thành Tài sản Có sinh lãi (COF)              | cost_of_funding_earning_assets_cof                      |      0.91 |      0.83 |        0.81 |      0.84 |
+| Tỷ lệ thu nhập lãi thuần (NIM)                                  | net_interest_margin_nim                                 |      0.93 |      1    |        1.05 |      0.99 |
+| Tỷ lệ chi phí hoạt động/Tổng thu nhập HĐKD trước dự phòng (CIR) | cost_income_ratio_cir                                   |     31.9  |     29.14 |       25.78 |     28.74 |
+| ROE bình quân 4 quý gần nhất                                    | roe_trailling                                           |     21.22 |     20.22 |       22.6  |     21.36 |
+| ROA bình quân 4 quý gần nhất                                    | roa_trailling                                           |      1.99 |      1.98 |        2.29 |      2.13 |
+| Tăng trưởng lợi nhuận trước thuế                                | profit_before_tax                                       |     37.51 |     -0.79 |       44.71 |     -1.7  |
+| Tăng trưởng lợi nhuận sau thuế của CĐ ngân hàng mẹ             | profit_after_tax_for_shareholders_of_the_parent_company |     39.44 |     -3.78 |       44.9  |     -2.47 |
+| Tăng trưởng tổng tài sản                                        | total_assets                                            |     43.14 |     29.13 |       28.45 |     30.45 |
+| Tăng trưởng vốn chủ sở hữu                                      | owners_equity                                           |     21.32 |     20.97 |       27.14 |     22.64 |
+| Tăng trưởng vốn điều lệ                                         | charter_capital                                         |     51.8  |     52.35 |       17.03 |     15.42 |
+| Tăng trưởng dư nợ cho vay                                       | deposits_from_customers                                 |     39.57 |     32.69 |       29.61 |     30.59 |
 
 <!-- END:QUARTERLY -->
