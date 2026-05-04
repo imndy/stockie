@@ -1,219 +1,137 @@
 # POW — Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 03/05/2026 14:16  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 04/05/2026 20:17  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | POW |
-| organ_code | PVPOWER |
-| current_price | 12650.0 |
-| market_cap | 38808247953200.0 |
-| number_of_shares_mkt_cap | 3067845688.0 |
-| ticker | POW |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 27-Mar-26 |
-| en_organ_name | PetroVietnam Power Corporation |
-| en_organ_short_name | PV Power |
-| vi_organ_name | Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP |
-| vi_organ_short_name | Điện lực Dầu khí Việt Nam |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Utilities |
-| sector_vn | Điện, nước & xăng dầu khí đốt |
-| average_match_value1_month | 132285161075.0 |
-| average_match_volume1_month | 10189005.0 |
-| highest_price1_year | 16850.0 |
-| lowest_price1_year | 9753.0 |
-| foreigner_percentage | 0.02953052 |
-| maximum_foreign_percentage | 0.5 |
-| state_percentage | 0.79942265 |
-| analyst | Loc Pham |
-| upside_to_target_percent | 0.3201581028 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.3201581028 |
-| target_price | 16700.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">PetroVietNam Power Corporation (POW)&nbsp;was&nbsp;established in 2007 under Decision No.1468/Q&ETH;-DKVN&nbsp… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tổng C&ocirc;ng ty Điện lực Dầu kh&iacute; Việt Nam (POW)&nbsp;được th&agrave;nh lập v&agrave;o năm&nbsp;2007 … |
-| in_cu | True |
-| icb_code_lv2 | 7500 |
-| icb_code_lv4 | 7535 |
-| free_float | 766961422 |
-| free_float_percentage | 0.25 |
-| listing_date | 2018-03-06T00:00:00 |
-| prev_insight | {'targetPrice': 14300.0, 'rating': 'O-PF', 'ratingAsOf': '10-Dec-25', 'analyst': 'Loc Pham', 'version': '20260323'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 40802347650400 |
+| 52w_high | 16550 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 10097 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 3.2406 |
+| dividend | 0 |
+| beta | 0.67 |
+| eps | 988 |
+| eps_forward | 34.52699383154102 |
+| bvps | 15835 |
+| pe | 12.81 |
+| pb | 0.80 |
+| price_chg_1m | 5.14 |
+| price_chg_ytd | 35.62 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.65 |
-| MA5 | 12.77 |
-| MA10 | 12.975 |
-| EMA20 | 12.97 |
-| EMA50 | 13.185 |
-| Slope MA20 (5p, %) | -1.07 |
-| ATR(14) | 0.351 |
-| RSI(14) | 40.5 |
+| Giá đóng cửa | 13.3 |
+| MA5 | 12.83 |
+| MA10 | 13.0 |
+| EMA20 | 13.002 |
+| EMA50 | 13.184 |
+| Slope MA20 (5p, %) | -0.75 |
+| ATR(14) | 0.372 |
+| RSI(14) | 54.9 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.134 |
-| MACD Signal | -0.118 |
-| MACD Histogram | -0.016 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 17075040 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.092 |
+| MACD Signal | -0.113 |
+| MACD Histogram | 0.021 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 17110853 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    13.6   | 1.41        | 1             |
-| 🔴 Kháng cự     |    13.35  | 0.88        | 1             |
-| 🔴 Kháng cự     |    12.764 | 2.08        | 2             |
-| ▶ Giá hiện tại |    12.65  | —           | —             |
-| 🟢 Hỗ trợ       |    12.386 | 2.55        | 2             |
+| 🔴 Kháng cự    |    14.75  | 0.91        | 1             |
+| 🔴 Kháng cự    |    13.6   | 1.39        | 1             |
+| 🔴 Kháng cự    |    13.35  | 0.87        | 1             |
+| ▶ Giá hiện tại |    13.3   | —           | —             |
+| 🟢 Hỗ trợ      |    12.764 | 2.06        | 2             |
+| 🟢 Hỗ trợ      |    12.386 | 2.53        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | POW |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2701670 |
-| ratio_type | RATIO_TTM |
-| organ_code | PVPOWER |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 2341871600 |
-| market_cap | 30755799722800.0 |
-| dividend_yield | 0.0 |
-| pe | 12.7236839768 |
-| pb | 1.1098093512 |
-| ps | 1.0048333234 |
-| price_to_cash_flow | 4.7758871502 |
-| ev_to_ebitda | 6.0742459612 |
-| cash_ratio | 0.1763985627 |
-| quick_ratio | 0.8774647404 |
-| current_ratio | 1.1049355592 |
-| owners_equity | 0.6543977762 |
-| debt_per_equity | 0.8687147408 |
-| debt_to_equity | 1.226370973 |
-| roe | 0.0865269495 |
-| roa | 0.0382286625 |
-| day_sale_outstanding | 86.635328934 |
-| days_inventory_outstanding | 55.6554894109 |
-| days_payable_outstanding | 76.7706534541 |
-| gross_margin | 0.168778472 |
-| ebit_margin | 0.1421854832 |
-| pre_tax_profit_margin | 0.0957624451 |
-| after_tax_profit_margin | 0.0909699156 |
-| asset_turnover | 0.4840697546 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 4351993650700.0 |
-| ebitda | 8671223067858.0 |
-| roic | 0.0817357182 |
-| cash_cycle | 221.0886655226 |
-| fixed_asset_turnover | 0.688352984 |
-| financial_leverage | 1.226370973 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 12.81 |
+| pb | 0.80 |
+| roe | 7.98 |
+| roe_pct_rank | 43 |
+| roa | 2.78 |
+| roa_pct_rank | 40 |
+| eps | 988 |
+| bvps | 15835 |
+| beta | 0.67 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 51 |
+| pb_pct_rank | 33 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-22 |  6087200 | -64.4%     | 0.198%         |
-| 2026-04-23 | 21685400 | +27.0%     | 0.707%         |
-| 2026-04-24 |  4944700 | -71.0%     | 0.161%         |
+| 2026-04-23 | 21685400 | +26.7%     | 0.707%         |
+| 2026-04-24 |  4944700 | -71.1%     | 0.161%         |
 | 2026-04-28 |  7007100 | -59.0%     | 0.228%         |
-| 2026-04-29 |  4984200 | -70.8%     | 0.162%         |
+| 2026-04-29 |  4984200 | -70.9%     | 0.162%         |
+| 2026-05-04 | 19912100 | +16.4%     | 0.649%         |
 
-- KL trung bình 60 phiên: **17,075,040**
+- KL trung bình 60 phiên: **17,110,853**
 - Số CP lưu hành: **3,067,845,688**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                           | public_date         | news_source_link   |
-|:---------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| POW: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                                        | 2026-04-28T17:41:08 |                    |
-| POW: Thông báo thay đổi nhân sự                                                                                      | 2026-04-22T18:02:37 |                    |
-| POW: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                          | 2026-04-10T18:46:51 |                    |
-| POW: Báo cáo thường niên năm 2025                                                                                    | 2026-04-06T15:59:46 |                    |
-| POW: Giải trình một số chỉ tiêu trên BCTC năm 2025 sau kiểm toán so với cùng kỳ năm trước                            | 2026-03-20T17:49:26 |                    |
-| POW: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                           | 2026-03-13T19:25:00 |                    |
-| POW: Nghị quyết HĐQT về việc chấp thuận giao dịch với CTCP Dịch vụ kỹ thuật Điện lực Dầu khí Việt Nam                | 2026-03-13T18:13:58 |                    |
-| POW: Báo cáo thay đổi phương án sử dụng số tiền thu được từ đợt chào bán                                             | 2026-03-13T18:10:47 |                    |
-| POW: Nghị quyết HĐQT về việc thay đổi phương án sử dụng số tiền thu được từ đợt chào bán thêm cổ phiếu ra công chúng | 2026-03-12T17:36:32 |                    |
-| POW: CBTT ngày ĐKCC chốt DSCĐ tổ chức ĐHĐCĐTN 2026                                                                   | 2026-03-12T14:50:26 |                    |
+| title                                                                                     | publishtime            | url                                                                                                               |
+|:------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------|
+| POW: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                        | 2026-04-29T18:30:18    | /2026/04/pow-giai-trinh-bien-dong-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436040.htm                        |
+| POW: BCTC Hợp nhất quý 1 năm 2026                                                         | 2026-04-29T00:00:00    | /2026/04/pow-bctc-hop-nhat-quy-1-nam-2026-737-1436061.htm                                                         |
+| POW: BCTC quý 1 năm 2026                                                                  | 2026-04-29T00:00:00    | /2026/04/pow-bctc-quy-1-nam-2026-737-1437038.htm                                                                  |
+| POW: Thông báo mời họp ĐHĐCĐ thường niên 2026                                             | 2026-04-28T17:50:30    | /2026/04/pow-thong-bao-moi-hop-dhdcd-thuong-nien-2026-737-1435023.htm                                             |
+| POW: Thông báo thay đổi nhân sự                                                           | 2026-04-22T18:06:56    | /2026/04/pow-thong-bao-thay-doi-nhan-su-214-1432299.htm                                                           |
+| POW: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026               | 2026-04-10T18:46:51    | /2026/04/pow-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1426461.htm               |
+| POW: Báo cáo thường niên năm 2025                                                         | 2026-04-06T16:00:18    | /2026/04/pow-bao-cao-thuong-nien-nam-2025-737-1423540.htm                                                         |
+| Phân tích kỹ thuật phiên chiều 24/03: Long Lower Shadow xuất hiện                         | 2026-03-24T13:37:09.67 | /2026/03/phan-tich-ky-thuat-phien-chieu-2403-long-lower-shadow-xuat-hien-585-1415541.htm                          |
+| POW: Giải trình một số chỉ tiêu trên BCTC năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-03-20T17:49:26    | /2026/03/pow-giai-trinh-mot-so-chi-tieu-tren-bctc-nam-2025-sau-kiem-toan-so-voi-cung-ky-nam-truoc-737-1414610.htm |
+| POW: BCTC Hợp nhất năm 2025                                                               | 2026-03-20T00:00:00    | /2026/03/pow-bctc-hop-nhat-nam-2025-737-1414591.htm                                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-10T00:00:00 | 2026-04-20T00:00:00 | 2026-04-17T00:00:00 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | nan                 | nan                 |
-| 2026-01-15T00:00:00 | nan                 | nan                 |
-| 2026-01-09T00:00:00 | nan                 | nan                 |
-| 2025-12-05T00:00:00 | 2025-12-11T00:00:00 | 2025-12-10T00:00:00 |
-| 2025-12-05T00:00:00 | 2025-12-11T00:00:00 | 2025-12-10T00:00:00 |
-| 2025-12-05T00:00:00 | 2025-12-11T00:00:00 | 2025-12-10T00:00:00 |
-| 2025-08-15T00:00:00 | 2025-08-26T00:00:00 | 2025-08-25T00:00:00 |
-| 2025-03-13T00:00:00 | 2025-03-24T00:00:00 | 2025-03-21T00:00:00 |
-| 2024-04-12T00:00:00 | 2024-04-22T00:00:00 | 2024-04-19T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Tiện ích |
-| % Ngành hôm nay | +1.11% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -1.11% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +1.43% |
+| % Cổ phiếu hôm nay | +5.14% |
+| RS (CP − Ngành) | +3.71% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| POW      | 2025-12-15 00:00:00 |  11.6  |  12    | 11.6  |   12    |  5202113 |
 | POW      | 2025-12-16 00:00:00 |  12.05 |  12.4  | 11.85 |   12.4  |  7471292 |
 | POW      | 2025-12-17 00:00:00 |  12.35 |  12.4  | 12.15 |   12.3  |  3605682 |
 | POW      | 2025-12-18 00:00:00 |  12.3  |  12.35 | 12.15 |   12.3  |  2110210 |
@@ -303,21 +221,22 @@
 | POW      | 2026-04-24 00:00:00 |  12.8  |  12.85 | 12.65 |   12.8  |  4944700 |
 | POW      | 2026-04-28 00:00:00 |  12.8  |  12.85 | 12.55 |   12.65 |  7007100 |
 | POW      | 2026-04-29 00:00:00 |  12.6  |  12.75 | 12.55 |   12.65 |  4984200 |
+| POW      | 2026-05-04 00:00:00 |  12.9  |  13.3  | 12.85 |   13.3  | 19912100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| POW      | 2026-04-29 14:26:26 |   12.65 |      100 | Sell         | 469462102 |
-| POW      | 2026-04-29 14:26:27 |   12.65 |      500 | Sell         | 469462170 |
-| POW      | 2026-04-29 14:26:28 |   12.65 |      600 | Sell         | 469462181 |
-| POW      | 2026-04-29 14:26:29 |   12.7  |     1000 | Buy          | 469462225 |
-| POW      | 2026-04-29 14:26:37 |   12.65 |      300 | Sell         | 469462543 |
-| POW      | 2026-04-29 14:26:50 |   12.65 |     1700 | Sell         | 469463138 |
-| POW      | 2026-04-29 14:26:54 |   12.7  |      500 | Buy          | 469463341 |
-| POW      | 2026-04-29 14:26:54 |   12.7  |      500 | Buy          | 469463342 |
-| POW      | 2026-04-29 14:26:54 |   12.7  |      500 | Buy          | 469463367 |
-| POW      | 2026-04-29 14:27:19 |   12.7  |     1000 | Buy          | 469464889 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      600 | Sell         | 470002780 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      100 | Sell         | 470002784 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |     1000 | Sell         | 470002785 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      100 | Sell         | 470002786 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |     1000 | Sell         | 470002787 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |     7500 | Sell         | 470002788 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      200 | Sell         | 470002802 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      100 | Sell         | 470002790 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |      100 | Sell         | 470002791 |
+| POW      | 2026-05-04 14:28:37 |    13.2 |    10000 | Sell         | 470002789 |
 
 <!-- END:DAILY -->
 

@@ -1,11 +1,10 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 03/05/2026 13:55  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 04/05/2026 20:10  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
@@ -205,7 +204,7 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | +0.43% |
+| % Ngành hôm nay | +0.73% |
 | % Cổ phiếu hôm nay | — |
 | RS (CP − Ngành) | — |
 | Nhận xét | — |

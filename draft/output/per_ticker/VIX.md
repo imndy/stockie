@@ -1,221 +1,137 @@
 # VIX — CTCP Chứng khoán VIX
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 03/05/2026 14:24  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 04/05/2026 20:20  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIX |
-| organ_code | VIX |
-| current_price | 16700.0 |
-| market_cap | 40919805792400.0 |
-| number_of_shares_mkt_cap | 2450287772.0 |
-| ticker | VIX |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | VIX Securities Joint Stock Company |
-| en_organ_short_name | VIX Securities |
-| vi_organ_name | Công ty Cổ phần Chứng khoán VIX |
-| vi_organ_short_name | Chứng khoán VIX |
-| com_type_code | CK |
-| com_group_code | VNINDEX |
-| sector | Financial Services |
-| sector_vn | Dịch vụ tài chính |
-| average_match_value1_month | 627511317481.8182 |
-| average_match_volume1_month | 36174008.0 |
-| highest_price1_year | 34160.0 |
-| lowest_price1_year | 9692.0 |
-| foreigner_percentage | 0.07994831 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">VIX Securities Joint Stock Company (VIX), formerly known as Vincom Securitie… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n VIX (VIX) c&oacute;&nbsp;tiền th&acirc;n l&agrav… |
-| in_cu | False |
-| icb_code_lv2 | 8700 |
-| icb_code_lv4 | 8777 |
-| free_float | 2450287772 |
-| free_float_percentage | 1.0 |
-| listing_date | 2009-12-29T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 25804593107300 |
+| 52w_high | 33419 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 9747 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 8.0668 |
+| dividend | 0 |
+| beta | 1.22 |
+| eps | 3424 |
+| eps_forward | 4.918245217227406 |
+| bvps | 14099.98 |
+| pe | 4.88 |
+| pb | 1.18 |
+| price_chg_1m | 4.01 |
+| price_chg_ytd | 75.78 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.7 |
-| MA5 | 16.71 |
-| MA10 | 17.15 |
-| EMA20 | 17.08 |
-| EMA50 | 17.422 |
-| Slope MA20 (5p, %) | -1.47 |
-| ATR(14) | 0.668 |
-| RSI(14) | 44.8 |
+| Giá đóng cửa | 16.85 |
+| MA5 | 16.67 |
+| MA10 | 17.015 |
+| EMA20 | 17.058 |
+| EMA50 | 17.398 |
+| Slope MA20 (5p, %) | -1.44 |
+| ATR(14) | 0.649 |
+| RSI(14) | 46.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.112 |
-| MACD Signal | -0.004 |
-| MACD Histogram | -0.108 |
+| MACD | -0.116 |
+| MACD Signal | -0.026 |
+| MACD Histogram | -0.09 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 35297462 |
+| KL avg 60 phiên | 34776314 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     17.73 | 0.56        | 1             |
-| 🔴 Kháng cự     |     17.4  | 0.96        | 1             |
-| 🔴 Kháng cự     |     17.02 | 0.7         | 1             |
-| ▶ Giá hiện tại |     16.7  | —           | —             |
-| 🟢 Hỗ trợ       |     15.85 | 3.57        | 3             |
-| 🟢 Hỗ trợ       |     15.15 | 1.22        | 1             |
+| 🔴 Kháng cự    |     17.73 | 0.55        | 1             |
+| 🔴 Kháng cự    |     17.4  | 0.95        | 1             |
+| 🔴 Kháng cự    |     17.02 | 0.69        | 1             |
+| ▶ Giá hiện tại |     16.85 | —           | —             |
+| 🟢 Hỗ trợ      |     15.85 | 3.54        | 3             |
+| 🟢 Hỗ trợ      |     15.15 | 1.21        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIX |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699372 |
-| ratio_type | RATIO_TTM |
-| organ_code | VIX |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 80964583 |
-| market_cap | 526269789500.0 |
-| dividend_yield | 0.0 |
-| pe | 3.9765618155 |
-| pb | 0.4845332696 |
-| ps | 1.12904209 |
-| price_to_cash_flow | 2.0112036811 |
-| ev_to_ebitda | 2.2758675478 |
-| cash_ratio | 6.9197927846 |
-| quick_ratio | 13.0929758916 |
-| current_ratio | 13.0929758916 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0212679045 |
-| debt_to_equity | 0.4495054857 |
-| roe | 0.1439755583 |
-| roa | 0.0898599533 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 34.7854682838 |
-| gross_margin | 0.4979466042 |
-| ebit_margin | 0.4509343329 |
-| pre_tax_profit_margin | 0.3498580218 |
-| after_tax_profit_margin | 0.2838449754 |
-| asset_turnover | 0.3164927704 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 210189787031.0 |
-| ebitda | 212869544386.0 |
-| roic | 0.2084382093 |
-| cash_cycle | 160.2994917691 |
-| fixed_asset_turnover | 49.3074152202 |
-| financial_leverage | 0.4495054857 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 4.88 |
+| pb | 1.18 |
+| roe | 28.85 |
+| roe_pct_rank | 87 |
+| roa | 20.12 |
+| roa_pct_rank | 100 |
+| eps | 3424 |
+| bvps | 14099.98 |
+| beta | 1.22 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 32 |
+| pb_pct_rank | 50 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-22 | 21439300 | -39.3%     | 1.400%         |
-| 2026-04-23 | 53326200 | +51.1%     | 3.482%         |
-| 2026-04-24 | 17019900 | -51.8%     | 1.111%         |
-| 2026-04-28 | 16127000 | -54.3%     | 1.053%         |
-| 2026-04-29 | 15745500 | -55.4%     | 1.028%         |
+| 2026-04-23 | 53326200 | +53.3%     | 3.482%         |
+| 2026-04-24 | 17019900 | -51.1%     | 1.111%         |
+| 2026-04-28 | 16127000 | -53.6%     | 1.053%         |
+| 2026-04-29 | 15745500 | -54.7%     | 1.028%         |
+| 2026-05-04 | 15282000 | -56.1%     | 0.998%         |
 
-- KL trung bình 60 phiên: **35,297,462**
+- KL trung bình 60 phiên: **34,776,314**
 - Số CP lưu hành: **1,531,429,858**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                              | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VIX: Thông báo của UBCKNN về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra công chúng             | 2026-04-23T13:37:42 |                    |
-| VIX: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết và báo cáo kết quả chào bán cổ phiếu                      | 2026-04-22T14:01:06 |                    |
-| VIX: Điều lệ công ty sửa đổi, bổ sung                                                                                   | 2026-04-22T10:43:32 |                    |
-| VIX: Nghị quyết HĐQT về việc thông qua kết quả chào bán cổ phiếu ra công chúng 2025 và sửa đổi, bổ sung điều lệ công ty | 2026-04-21T17:15:36 |                    |
-| Chứng khoán VIX giảm tới 4.321 tỷ đồng nợ vay trong quý I/2026                                                          | 2026-04-20T08:15:00 |                    |
-| VIX: Nghị quyết HĐQT về việc thông qua phương án xử lý cổ phiếu còn dư                                                  | 2026-04-16T17:35:40 |                    |
-| VIX: Báo cáo thường niên năm 2025                                                                                       | 2026-04-09T15:49:08 |                    |
-| VIX: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Cao Thị Hồng                                                   | 2026-04-07T11:09:16 |                    |
-| VIX: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ và người có liên quan                                          | 2026-04-06T10:57:00 |                    |
-| VIX: Báo cáo tỷ lệ an toàn tài chính tại ngày 31/12/2025 đã kiểm toán                                                   | 2026-03-25T16:56:29 |                    |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VIX: Thông báo của UBCKNN về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra công chúng               | 2026-04-23T13:38:47     | /2026/04/vix-thong-bao-cua-ubcknn-ve-viec-da-nhan-duoc-tai-lieu-bao-cao-ket-qua-dot-chao-ban-co-phieu-ra-cong-chung-739-… |
+| VIX: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết và báo cáo kết quả chào bán cổ phiếu                        | 2026-04-22T14:07:17     | /2026/04/vix-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-va-bao-cao-ket-qua-chao-ban-co-phieu-739-1431892.h… |
+| VIX: Điều lệ công ty sửa đổi, bổ sung                                                                                     | 2026-04-22T10:43:32     | /2026/04/vix-dieu-le-cong-ty-sua-doi-bo-sung-737-1431837.htm                                                              |
+| VIX: Thông báo của Uỷ ban Chứng khoán Nhà nước về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra cô… | 2026-04-22T00:00:00     | /2026/04/vix-thong-bao-cua-uy-ban-chung-khoan-nha-nuoc-ve-viec-da-nhan-duoc-tai-lieu-bao-cao-ket-qua-dot-chao-ban-co-phi… |
+| VIX: Nghị quyết HĐQT về việc thông qua kết quả chào bán cổ phiếu ra công chúng 2025 và sửa đổi, bổ sung điều lệ công ty   | 2026-04-21T17:15:36     | /2026/04/vix-nghi-quyet-hdqt-ve-viec-thong-qua-ket-qua-chao-ban-co-phieu-ra-cong-chung-2025-va-sua-doi-bo-sung-dieu-le-c… |
+| VIX: Nghị quyết HĐQT thông qua kết quả đợt chào bán thêm cổ phiếu ra công chúng năm 2025. sửa đổi bổ sung Điều lệ Công t… | 2026-04-21T00:00:00     | /2026/04/vix-nghi-quyet-hdqt-thong-qua-ket-qua-dot-chao-ban-them-co-phieu-ra-cong-chung-nam-2025-sua-doi-bo-sung-dieu-le… |
+| VIX: Thông báo thay đổi sổ lượng cổ phiếu có quyền biểu quyết và Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng      | 2026-04-21T00:00:00     | /2026/04/vix-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-va-bao-cao-ket-qua-dot-chao-ban-co-phieu-ra-cong-c… |
+| VIX: Điều lệ sửa đổi bổ sung ngày 21 tháng 04 năm 2026                                                                    | 2026-04-21T00:00:00     | /2026/04/vix-dieu-le-sua-doi-bo-sung-ngay-21-thang-04-nam-2026-737-1431378.htm                                            |
+| Lợi nhuận thấp nhất 5 quý, VIX nói do thị trường chứng khoán giảm                                                         | 2026-04-17T19:25:50.513 | /2026/04/loi-nhuan-thap-nhat-5-quy-vix-noi-do-thi-truong-chung-khoan-giam-737-1429560.htm                                 |
+| VIX: Báo cáo tài chính  riêng lẻ Q1 2026                                                                                  | 2026-04-17T15:32:00     | /2026/04/vix-bao-cao-tai-chinh-rieng-le-q1-2026-737-1429360.htm                                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-07T00:00:00 | nan                 | nan                 |
-| 2026-04-07T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-02-27T00:00:00 | 2026-03-09T00:00:00 | 2026-03-06T00:00:00 |
-| 2025-09-26T00:00:00 | 2025-10-09T00:00:00 | 2025-10-08T00:00:00 |
-| 2025-07-16T00:00:00 | nan                 | nan                 |
-| 2025-06-12T00:00:00 | 2025-06-19T00:00:00 | 2025-06-18T00:00:00 |
-| 2025-04-02T00:00:00 | 2025-04-16T00:00:00 | 2025-04-15T00:00:00 |
-| 2024-10-18T00:00:00 | nan                 | nan                 |
-| 2024-09-20T00:00:00 | 2024-09-18T00:00:00 | 2024-09-18T00:00:00 |
-| 2024-08-30T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.19% |
-| % Cổ phiếu hôm nay | +2.14% |
-| RS (CP − Ngành) | +2.33% |
+| % Ngành hôm nay | -0.58% |
+| % Cổ phiếu hôm nay | +0.90% |
+| RS (CP − Ngành) | +1.48% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |    volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| VIX      | 2025-12-15 00:00:00 |  18.45 |  18.87 | 18.03 |   18.41 |  35442252 |
 | VIX      | 2025-12-16 00:00:00 |  18.58 |  19.47 | 17.73 |   19.34 |  49683731 |
 | VIX      | 2025-12-17 00:00:00 |  19.34 |  19.38 | 18.66 |   18.79 |  23727230 |
 | VIX      | 2025-12-18 00:00:00 |  18.87 |  18.87 | 18.33 |   18.58 |  25587318 |
@@ -305,21 +221,22 @@
 | VIX      | 2026-04-24 00:00:00 |  16.9  |  16.9  | 16.5  |   16.6  |  17019900 |
 | VIX      | 2026-04-28 00:00:00 |  16.7  |  16.75 | 16.3  |   16.35 |  16127000 |
 | VIX      | 2026-04-29 00:00:00 |  16.4  |  16.8  | 16.35 |   16.7  |  15745500 |
+| VIX      | 2026-05-04 00:00:00 |  16.85 |  17.1  | 16.75 |   16.85 |  15282000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIX      | 2026-04-29 14:28:51 |   16.75 |      100 | Buy          | 469471875 |
-| VIX      | 2026-04-29 14:28:51 |   16.75 |      100 | Buy          | 469471876 |
-| VIX      | 2026-04-29 14:28:57 |   16.7  |      100 | Sell         | 469472371 |
-| VIX      | 2026-04-29 14:28:59 |   16.7  |     5000 | Sell         | 469472573 |
-| VIX      | 2026-04-29 14:28:59 |   16.7  |      600 | Sell         | 469472568 |
-| VIX      | 2026-04-29 14:28:59 |   16.7  |      900 | Sell         | 469472569 |
-| VIX      | 2026-04-29 14:29:01 |   16.7  |     1100 | Sell         | 469472739 |
-| VIX      | 2026-04-29 14:29:01 |   16.7  |     3000 | Sell         | 469472740 |
-| VIX      | 2026-04-29 14:29:02 |   16.75 |      500 | Buy          | 469472786 |
-| VIX      | 2026-04-29 14:29:03 |   16.7  |     1700 | Sell         | 469472869 |
+| VIX      | 2026-05-04 14:28:29 |    16.9 |      100 | Buy          | 470002081 |
+| VIX      | 2026-05-04 14:28:29 |    16.9 |      700 | Buy          | 470002082 |
+| VIX      | 2026-05-04 14:28:31 |    16.9 |      200 | Buy          | 470002280 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |      800 | Buy          | 470002399 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |     1000 | Buy          | 470002381 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |      100 | Buy          | 470002356 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |      100 | Buy          | 470002359 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |      200 | Buy          | 470002358 |
+| VIX      | 2026-05-04 14:28:32 |    16.9 |      200 | Buy          | 470002360 |
+| VIX      | 2026-05-04 14:28:33 |    16.9 |      400 | Buy          | 470002447 |
 
 <!-- END:DAILY -->
 

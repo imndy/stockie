@@ -1,221 +1,134 @@
 # VGC — Tổng Công ty Viglacera - CTCP
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 03/05/2026 14:23  |  🗂 Quarterly: 03/05/2026 14:23
+> 📅 Daily: 04/05/2026 20:19  |  🗂 Quarterly: 03/05/2026 14:23
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VGC |
-| organ_code | VGC |
-| current_price | 42600.0 |
-| market_cap | 19099710000000.0 |
-| number_of_shares_mkt_cap | 448350000.0 |
-| ticker | VGC |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 21-Oct-25 |
-| en_organ_name | Viglacera Corporation - JSC |
-| en_organ_short_name | Viglacera Corporation |
-| vi_organ_name | Tổng Công ty Viglacera - Công ty Cổ phần |
-| vi_organ_short_name | Tổng Công ty Viglacera |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Construction & Materials |
-| sector_vn | Xây dựng và Vật liệu |
-| average_match_value1_month | 38654593965.90909 |
-| average_match_volume1_month | 847566.0 |
-| highest_price1_year | 65743.0 |
-| lowest_price1_year | 37588.0 |
-| foreigner_percentage | 0.01677616 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.38582639 |
-| analyst | Tuan Do |
-| upside_to_target_percent | 0.5046948357 |
-| dividend_per_share_tsr | 2200.0 |
-| projected_tsr_percentage | 0.5563380282 |
-| target_price | 64100.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Viglacera Joint Stock Corporation (VGC), formerly known&nbsp;as Ceramic tiles and terracotta Construction Comp… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tổng C&ocirc;ng ty Viglacera (VGC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Gạch ng&oacute;i S&agrave… |
-| in_cu | True |
-| icb_code_lv2 | 2300 |
-| icb_code_lv4 | 2353 |
-| free_float | 53802000 |
-| free_float_percentage | 0.12 |
-| listing_date | 2015-10-15T00:00:00 |
-| prev_insight | {'targetPrice': 65300.0, 'rating': 'M-PF', 'ratingAsOf': '19-Aug-25', 'analyst': 'Tuan Do', 'version': '20251020'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 19279050000000 |
+| 52w_high | 64599 |
+| 52w_high_date | 2025-08-19 |
+| 52w_low | 38445 |
+| 52w_low_date | 2025-05-06 |
+| foreign_ownership | 1.6866 |
+| dividend | 2200 |
+| beta | 0.97 |
+| eps | 2896 |
+| eps_forward | 10.494342662459076 |
+| bvps | 26938 |
+| pe | 14.71 |
+| pb | 1.58 |
+| price_chg_1m | -4.12 |
+| price_chg_ytd | 14.84 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.05116279069767442 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 42.6 |
-| MA5 | 43.53 |
-| MA10 | 44.66 |
-| EMA20 | 44.909 |
-| EMA50 | 45.724 |
-| Slope MA20 (5p, %) | -2.08 |
-| ATR(14) | 1.557 |
-| RSI(14) | 35.7 |
+| Giá đóng cửa | 43.0 |
+| MA5 | 43.26 |
+| MA10 | 44.34 |
+| EMA20 | 44.727 |
+| EMA50 | 45.606 |
+| Slope MA20 (5p, %) | -2.17 |
+| ATR(14) | 1.532 |
+| RSI(14) | 38.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.73 |
-| MACD Signal | -0.426 |
-| MACD Histogram | -0.304 |
+| MACD | -0.79 |
+| MACD Signal | -0.499 |
+| MACD Histogram | -0.291 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 1310093 |
+| KL avg 60 phiên | 1310605 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    46.75  | 0.96        | 1             |
-| 🔴 Kháng cự     |    44.95  | 1.71        | 2             |
-| 🔴 Kháng cự     |    42.882 | 3.56        | 3             |
-| ▶ Giá hiện tại |    42.6   | —           | —             |
-| 🟢 Hỗ trợ       |    42.3   | 0.62        | 1             |
-| 🟢 Hỗ trợ       |    42     | 1.22        | 1             |
-| 🟢 Hỗ trợ       |    40.15  | 0.65        | 1             |
+| 🔴 Kháng cự    |    47.737 | 5.21        | 4             |
+| 🔴 Kháng cự    |    46.75  | 0.95        | 1             |
+| 🔴 Kháng cự    |    44.95  | 1.68        | 2             |
+| ▶ Giá hiện tại |    43     | —           | —             |
+| 🟢 Hỗ trợ      |    42.882 | 3.53        | 3             |
+| 🟢 Hỗ trợ      |    42.3   | 0.61        | 1             |
+| 🟢 Hỗ trợ      |    42     | 1.21        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VGC |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698928 |
-| ratio_type | RATIO_TTM |
-| organ_code | VGC |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 448350000 |
-| market_cap | 7890960000000.0 |
-| dividend_yield | 0.0 |
-| pe | 12.9782872151 |
-| pb | 1.2431245126 |
-| ps | 0.8895741195 |
-| price_to_cash_flow | 6.9734799948 |
-| ev_to_ebitda | 6.3526878416 |
-| cash_ratio | 0.4204563691 |
-| quick_ratio | 0.8609682348 |
-| current_ratio | 1.5762791888 |
-| owners_equity | 0.1282932257 |
-| debt_per_equity | 0.3435984021 |
-| debt_to_equity | 1.3696709766 |
-| roe | 0.0841845735 |
-| roa | 0.0355096503 |
-| day_sale_outstanding | 45.4442183676 |
-| days_inventory_outstanding | 155.1878564554 |
-| days_payable_outstanding | 53.4589667319 |
-| gross_margin | 0.2212470147 |
-| ebit_margin | 0.0951659236 |
-| pre_tax_profit_margin | 0.0916938903 |
-| after_tax_profit_margin | 0.0762172596 |
-| asset_turnover | 0.560428566 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 844168551742.0 |
-| ebitda | 1324685800198.0 |
-| roic | 0.0914771113 |
-| cash_cycle | 266.8858624386 |
-| fixed_asset_turnover | 2.5641886919 |
-| financial_leverage | 1.3696709766 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 14.71 |
+| pb | 1.58 |
+| eps | 2896 |
+| bvps | 26938 |
+| beta | 0.97 |
+| dividend | 2200 |
+| yield | 0.05116279069767442 |
+| pe_pct_rank | 54 |
+| pb_pct_rank | 62 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-22 |  426300 | -67.5%     | 0.095%         |
-| 2026-04-23 | 1077800 | -17.7%     | 0.240%         |
+| 2026-04-23 | 1077800 | -17.8%     | 0.240%         |
 | 2026-04-24 |  316300 | -75.9%     | 0.071%         |
 | 2026-04-28 |  335900 | -74.4%     | 0.075%         |
 | 2026-04-29 |  771400 | -41.1%     | 0.172%         |
+| 2026-05-04 |  636300 | -51.4%     | 0.142%         |
 
-- KL trung bình 60 phiên: **1,310,093**
+- KL trung bình 60 phiên: **1,310,605**
 - Số CP lưu hành: **448,350,000**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VGC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-28T15:06:31 |                    |
-| VGC: Thông báo thay đổi nhân sự - Thành viên HĐQT độc lập                                                   | 2026-04-28T15:05:00 |                    |
-| VGC: Thông báo đề cử ứng viên để bầu bổ sung vào HĐQT                                                       | 2026-04-20T17:44:00 |                    |
-| VGC: CBTT về việc chấm dứt hoạt động chi nhánh - Công ty sen vòi Viglacera                                  | 2026-04-06T16:58:00 |                    |
-| VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                               | 2026-04-03T17:57:00 |                    |
-| VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                             | 2026-04-03T17:56:35 |                    |
-| VGC: Báo cáo thường niên năm 2025                                                                           | 2026-03-27T18:19:26 |                    |
-| VGC: Nghị quyết HĐQT về việc chấm dứt hoạt động Viện Nghiên cứu phát triển Viglacera                        | 2026-03-17T17:18:39 |                    |
-| VGC: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                 | 2026-03-13T18:01:40 |                    |
-| VGC: Nghị quyết HĐQT phê duyệt ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-03-06T17:44:52 |                    |
+| title                                                                                                    | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VGC: Thông báo thay đổi nhân sự - Thành viên HĐQT độc lập                                                | 2026-04-28T15:07:41 | /2026/04/vgc-thong-bao-thay-doi-nhan-su-thanh-vien-hdqt-doc-lap-214-1434665.htm                                           |
+| VGC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-28T15:07:39 | /2026/04/vgc-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434667.htm                                            |
+| VGC: BCTC quý 1 năm 2026                                                                                 | 2026-04-25T00:00:00 | /2026/04/vgc-bctc-quy-1-nam-2026-737-1434417.htm                                                                          |
+| VGC: BCTC Hợp nhất quý 1 năm 2026                                                                        | 2026-04-25T00:00:00 | /2026/04/vgc-bctc-hop-nhat-quy-1-nam-2026-737-1434418.htm                                                                 |
+| VGC: Thông báo đề cử ứng viên để bầu bổ sung vào HĐQT                                                    | 2026-04-20T17:44:05 | /2026/04/vgc-thong-bao-de-cu-ung-vien-de-bau-bo-sung-vao-hdqt-830-1430736.htm                                             |
+| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00 | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
+| VGC: Quyết định của HĐQT về việc chấm dứt hoạt động chi nhánh - Công ty sen vòi Viglacera                | 2026-04-06T16:58:34 | /2026/04/vgc-quyet-dinh-cua-hdqt-ve-viec-cham-dut-hoat-dong-chi-nhanh-cong-ty-sen-voi-viglacera-737-1423607.htm           |
+| VGC: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026 và đường dẫn tài liệu                          | 2026-04-03T18:04:28 | /2026/04/vgc-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-va-duong-dan-tai-lieu-737-1422863.htm                   |
+| VGC: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                            | 2026-04-03T18:04:28 | /2026/04/vgc-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap-214-1422867.htm                                     |
+| VGC: Báo cáo thường niên năm 2025                                                                        | 2026-03-27T18:19:26 | /2026/03/vgc-bao-cao-thuong-nien-nam-2025-737-1418013.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-13T00:00:00 | 2026-03-30T00:00:00 | 2026-03-27T00:00:00 |
-| 2025-11-04T00:00:00 | 2025-11-12T00:00:00 | 2025-11-11T00:00:00 |
-| 2025-10-24T00:00:00 | nan                 | nan                 |
-| 2025-05-05T00:00:00 | 2025-05-14T00:00:00 | 2025-05-13T00:00:00 |
-| 2024-10-10T00:00:00 | 2024-10-22T00:00:00 | 2024-10-21T00:00:00 |
-| 2024-04-11T00:00:00 | 2024-05-02T00:00:00 | 2024-04-26T00:00:00 |
-| 2023-09-22T00:00:00 | 2023-10-02T00:00:00 | 2023-09-29T00:00:00 |
-| 2023-06-08T00:00:00 | nan                 | nan                 |
-| 2023-05-24T00:00:00 | 2023-06-01T00:00:00 | 2023-05-31T00:00:00 |
-| 2023-04-04T00:00:00 | nan                 | nan                 |
-| 2023-03-29T00:00:00 | 2023-04-12T00:00:00 | 2023-04-11T00:00:00 |
-| 2022-09-21T00:00:00 | 2022-09-28T00:00:00 | 2022-09-27T00:00:00 |
-| 2022-07-27T00:00:00 | 2022-08-11T00:00:00 | 2022-08-10T00:00:00 |
-| 2022-05-12T00:00:00 | 2022-05-18T00:00:00 | 2022-05-17T00:00:00 |
-| 2022-03-16T00:00:00 | 2022-03-30T00:00:00 | 2022-03-29T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | -0.03% |
-| % Cổ phiếu hôm nay | -0.93% |
-| RS (CP − Ngành) | -0.90% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.40% |
+| % Cổ phiếu hôm nay | +0.94% |
+| RS (CP − Ngành) | +1.34% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VGC      | 2025-12-15 00:00:00 |  40.65 |  41.25 | 40    |   40.1  |   498700 |
 | VGC      | 2025-12-16 00:00:00 |  41    |  41.65 | 40    |   41.6  |   510000 |
 | VGC      | 2025-12-17 00:00:00 |  41.7  |  41.95 | 41.15 |   41.35 |   394400 |
 | VGC      | 2025-12-18 00:00:00 |  41.35 |  41.35 | 41    |   41.15 |   131600 |
@@ -305,21 +218,22 @@
 | VGC      | 2026-04-24 00:00:00 |  43.5  |  44.3  | 43.4  |   43.85 |   316300 |
 | VGC      | 2026-04-28 00:00:00 |  43.8  |  44.3  | 43    |   43    |   335900 |
 | VGC      | 2026-04-29 00:00:00 |  42.8  |  43    | 42.2  |   42.6  |   771400 |
+| VGC      | 2026-05-04 00:00:00 |  42.8  |  43.8  | 42.8  |   43    |   636300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VGC      | 2026-04-29 14:09:31 |   42.5  |      100 | Sell         | 469408791 |
-| VGC      | 2026-04-29 14:09:37 |   42.5  |      100 | Buy          | 469409156 |
-| VGC      | 2026-04-29 14:09:37 |   42.5  |      900 | Buy          | 469409157 |
-| VGC      | 2026-04-29 14:09:42 |   42.5  |      100 | Buy          | 469409369 |
-| VGC      | 2026-04-29 14:10:22 |   42.55 |      200 | Buy          | 469411080 |
-| VGC      | 2026-04-29 14:10:57 |   42.55 |      100 | Buy          | 469412545 |
-| VGC      | 2026-04-29 14:11:00 |   42.55 |      500 | Buy          | 469412649 |
-| VGC      | 2026-04-29 14:11:05 |   42.55 |      100 | Buy          | 469412764 |
-| VGC      | 2026-04-29 14:11:05 |   42.55 |      100 | Buy          | 469412765 |
-| VGC      | 2026-04-29 14:11:12 |   42.55 |      400 | Buy          | 469412943 |
+| VGC      | 2026-05-04 14:12:18 |   43.1  |      300 | Sell         | 469944923 |
+| VGC      | 2026-05-04 14:12:18 |   43.1  |     4400 | Sell         | 469944926 |
+| VGC      | 2026-05-04 14:12:18 |   43.1  |      200 | Sell         | 469944924 |
+| VGC      | 2026-05-04 14:12:18 |   43.1  |      100 | Sell         | 469944925 |
+| VGC      | 2026-05-04 14:13:42 |   43.15 |      500 | Buy          | 469948785 |
+| VGC      | 2026-05-04 14:13:58 |   43.15 |      500 | Buy          | 469949462 |
+| VGC      | 2026-05-04 14:14:36 |   43.15 |     2000 | Buy          | 469950869 |
+| VGC      | 2026-05-04 14:15:08 |   43.15 |     1600 | Buy          | 469952421 |
+| VGC      | 2026-05-04 14:15:16 |   43.15 |     1400 | Buy          | 469952992 |
+| VGC      | 2026-05-04 14:15:16 |   43.15 |      100 | Buy          | 469952993 |
 
 <!-- END:DAILY -->
 

@@ -1,222 +1,137 @@
 # PPC — CTCP Nhiệt điện Phả Lại
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 03/05/2026 14:16  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 04/05/2026 20:17  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PPC |
-| organ_code | PPC |
-| current_price | 9900.0 |
-| market_cap | 3174069234600.0 |
-| number_of_shares_mkt_cap | 320613054.0 |
-| ticker | PPC |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 10-Dec-25 |
-| en_organ_name | Pha Lai Thermal Power Joint Stock Company |
-| en_organ_short_name | Pha Lai Thermal Power |
-| vi_organ_name | Công ty Cổ phần Nhiệt điện Phả Lại |
-| vi_organ_short_name | Nhiệt điện Phả Lại |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Utilities |
-| sector_vn | Điện, nước & xăng dầu khí đốt |
-| average_match_value1_month | 4769109911.363636 |
-| average_match_volume1_month | 462998.0 |
-| highest_price1_year | 12533.0 |
-| lowest_price1_year | 9600.0 |
-| foreigner_percentage | 0.04566813 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.51022921 |
-| analyst | Phuoc Duong |
-| upside_to_target_percent | 0.1111111111 |
-| dividend_per_share_tsr | 500.0 |
-| projected_tsr_percentage | 0.1616161616 |
-| target_price | 11000.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Pha Lai Thermal Power Joint Stock Company (PPC),&nbsp;formerly known&nbsp;as Pha Lai Th… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p align="left">C&ocirc;ng ty Cổ phần Nhiệt điện Phả Lại (PPC) c&oacute;&nbsp;tiền th&acirc;n l&agrave; Nh&a… |
-| in_cu | True |
-| icb_code_lv2 | 7500 |
-| icb_code_lv4 | 7535 |
-| free_float | 96183916 |
-| free_float_percentage | 0.2999999994 |
-| listing_date | 2007-01-26T00:00:00 |
-| prev_insight | {'targetPrice': 12400.0, 'rating': 'M-PF', 'ratingAsOf': '02-Jun-25', 'analyst': 'Phuoc Duong', 'version': '20251209'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 3180481495680 |
+| 52w_high | 12199 |
+| 52w_high_date | 2025-05-06 |
+| 52w_low | 9626 |
+| 52w_low_date | 2025-10-20 |
+| foreign_ownership | 4.5722 |
+| dividend | 500 |
+| beta | 0.32 |
+| eps | 665 |
+| eps_forward | 8.171350749040485 |
+| bvps | 14229 |
+| pe | 14.88 |
+| pb | 0.70 |
+| price_chg_1m | -3.22 |
+| price_chg_ytd | -11.04 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.05040322580645161 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 9.9 |
-| MA5 | 9.976 |
-| MA10 | 10.068 |
-| EMA20 | 10.163 |
-| EMA50 | 10.23 |
+| Giá đóng cửa | 9.92 |
+| MA5 | 9.95 |
+| MA10 | 10.04 |
+| EMA20 | 10.14 |
+| EMA50 | 10.218 |
 | Slope MA20 (5p, %) | -1.22 |
-| ATR(14) | 0.208 |
-| RSI(14) | 37.5 |
+| ATR(14) | 0.2 |
+| RSI(14) | 38.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.117 |
-| MACD Signal | -0.082 |
-| MACD Histogram | -0.034 |
+| MACD | -0.121 |
+| MACD Signal | -0.09 |
+| MACD Histogram | -0.031 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 562243 |
+| KL avg 60 phiên | 561862 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    10.189 | 2.48        | 3             |
-| 🔴 Kháng cự     |    10.1   | 4.02        | 3             |
-| 🔴 Kháng cự     |     9.95  | 0.91        | 1             |
-| ▶ Giá hiện tại |     9.9   | —           | —             |
-| 🟢 Hỗ trợ       |     9.779 | 1.23        | 2             |
-| 🟢 Hỗ trợ       |     9.6   | 1.11        | 1             |
+| 🔴 Kháng cự    |    10.189 | 2.45        | 3             |
+| 🔴 Kháng cự    |    10.1   | 3.98        | 3             |
+| 🔴 Kháng cự    |     9.95  | 0.9         | 1             |
+| ▶ Giá hiện tại |     9.92  | —           | —             |
+| 🟢 Hỗ trợ      |     9.779 | 1.21        | 2             |
+| 🟢 Hỗ trợ      |     9.6   | 1.1         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PPC |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698000 |
-| ratio_type | RATIO_TTM |
-| organ_code | PPC |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 320613054 |
-| market_cap | 5514544528800.0 |
-| dividend_yield | 0.0 |
-| pe | 6.2095698049 |
-| pb | 0.9900258596 |
-| ps | 0.8404175735 |
-| price_to_cash_flow | -3.1711927376 |
-| ev_to_ebitda | 8.1796733081 |
-| cash_ratio | 0.3014948639 |
-| quick_ratio | 2.1101560545 |
-| current_ratio | 2.4880379753 |
-| owners_equity | 0.0950593795 |
-| debt_per_equity | 0.1783093189 |
-| debt_to_equity | 0.36238473 |
-| roe | 0.1578564561 |
-| roa | 0.1092635184 |
-| day_sale_outstanding | 83.4443368277 |
-| days_inventory_outstanding | 41.3471442384 |
-| days_payable_outstanding | 23.6284930846 |
-| gross_margin | 0.1243224785 |
-| ebit_margin | 0.107683615 |
-| pre_tax_profit_margin | 0.1602923879 |
-| after_tax_profit_margin | 0.1348005211 |
-| asset_turnover | 0.8105570918 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 706584570043.0 |
-| ebitda | 741882262401.0 |
-| roic | 0.1058016343 |
-| cash_cycle | 202.9684611364 |
-| fixed_asset_turnover | 21.4068448117 |
-| financial_leverage | 0.36238473 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 14.88 |
+| pb | 0.70 |
+| roe | 3.78 |
+| roe_pct_rank | 33 |
+| roa | 3.15 |
+| roa_pct_rank | 44 |
+| eps | 665 |
+| bvps | 14229 |
+| beta | 0.32 |
+| dividend | 500 |
+| yield | 0.05040322580645161 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 28 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-22 | 212700 | -62.2%     | 0.066%         |
-| 2026-04-23 | 742600 | +32.1%     | 0.232%         |
+| 2026-04-23 | 742600 | +32.2%     | 0.232%         |
 | 2026-04-24 | 348900 | -37.9%     | 0.109%         |
 | 2026-04-28 | 128300 | -77.2%     | 0.040%         |
 | 2026-04-29 | 251800 | -55.2%     | 0.079%         |
+| 2026-05-04 | 160700 | -71.4%     | 0.050%         |
 
-- KL trung bình 60 phiên: **562,243**
+- KL trung bình 60 phiên: **561,861**
 - Số CP lưu hành: **320,613,054**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| PPC: Quyết định của HĐQT về việc phê duyệt điều chỉnh chủ trương đầu tư dự án " Cải tạo, nâng cấp hệ thống xử lý khí thả… | 2026-04-22T18:04:49 |                    |
-| PPC: Nghị quyết và Biên bản họp ĐHĐCĐ bất thường 2026                                                                     | 2026-04-21T14:24:12 |                    |
-| PPC: Bổ sung tài liệu họp ĐHĐCĐ bất thường năm 2026                                                                       | 2026-04-16T17:50:34 |                    |
-| PPC: Báo cáo thường niên năm 2025                                                                                         | 2026-04-16T17:49:07 |                    |
-| PPC: Link công bố tài liệu ĐHĐCĐ bất thường năm 2026                                                                      | 2026-03-30T13:30:19 |                    |
-| PPC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 2026-03-27T19:26:04 |                    |
-| PPC: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026                                       | 2026-03-23T16:29:54 |                    |
-| PPC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ bất thường năm 2026                             | 2026-03-10T15:38:25 |                    |
-| PPC: Thông báo và Nghị quyết HĐQT về ngày đăng ký cuối cùng chốt thời gian, địa điểm tổ chức ĐHĐCĐ bất thường năm 2026    | 2026-03-03T14:14:16 |                    |
-| PPC: Giấy chứng nhận đăng ký hoạt động chi nhánh của Ban quản lý dự án                                                    | 2026-02-09T17:23:39 |                    |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PPC: Quyết định của HĐQT về việc phê duyệt điều chỉnh chủ trương đầu tư dự án " Cải tạo, nâng cấp hệ thống xử lý khí thả… | 2026-04-22T18:04:49 | /2026/04/ppc-quyet-dinh-cua-hdqt-ve-viec-phe-duyet-dieu-chinh-chu-truong-dau-tu-du-an-cai-tao-nang-cap-he-thong-xu-ly-kh… |
+| PPC: Nghị quyết và Biên bản họp ĐHĐCĐ bất thường 2026                                                                     | 2026-04-21T14:24:12 | /2026/04/ppc-nghi-quyet-va-bien-ban-hop-dhdcd-bat-thuong-2026-737-1431251.htm                                             |
+| PPC: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-20T00:00:00 | /2026/04/ppc-bctc-tom-tat-quy-1-nam-2026-737-1430675.htm                                                                  |
+| PPC: Báo cáo thường niên năm 2025                                                                                         | 2026-04-16T17:53:45 | /2026/04/ppc-bao-cao-thuong-nien-nam-2025-737-1428851.htm                                                                 |
+| PPC: Bổ sung tài liệu họp ĐHĐCĐ bất thường năm 2026                                                                       | 2026-04-16T17:53:43 | /2026/04/ppc-bo-sung-tai-lieu-hop-dhdcd-bat-thuong-nam-2026-737-1428854.htm                                               |
+| PPC: Link công bố tài liệu ĐHĐCĐ bất thường năm 2026                                                                      | 2026-03-30T13:36:53 | /2026/03/ppc-link-cong-bo-tai-lieu-dhdcd-bat-thuong-nam-2026-737-1418565.htm                                              |
+| PPC: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00 | /2026/03/ppc-bctc-tom-tat-nam-2025-737-1418987.htm                                                                        |
+| PPC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 2026-03-27T19:33:05 | /2026/03/ppc-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1418104.htm                                    |
+| PPC: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026                                       | 2026-03-23T16:31:21 | /2026/03/ppc-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcdtn-2026-737-1415175.htm               |
+| PPC: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ bất thường năm 2026                             | 2026-03-10T15:38:25 | /2026/03/ppc-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-bat-thuong-nam-2026-737-1410363.htm     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-27T00:00:00 | 2026-04-20T00:00:00 | 2026-04-17T00:00:00 |
-| 2026-03-10T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
-| 2025-10-28T00:00:00 | 2025-11-19T00:00:00 | 2025-11-18T00:00:00 |
-| 2025-08-08T00:00:00 | nan                 | nan                 |
-| 2025-04-02T00:00:00 | nan                 | nan                 |
-| 2025-03-14T00:00:00 | 2025-03-28T00:00:00 | 2025-03-27T00:00:00 |
-| 2025-01-14T00:00:00 | nan                 | nan                 |
-| 2024-12-17T00:00:00 | nan                 | nan                 |
-| 2024-12-10T00:00:00 | nan                 | nan                 |
-| 2024-12-05T00:00:00 | 2024-12-25T00:00:00 | 2024-12-24T00:00:00 |
-| 2024-11-01T00:00:00 | nan                 | nan                 |
-| 2024-10-18T00:00:00 | 2024-11-06T00:00:00 | 2024-11-05T00:00:00 |
-| 2024-09-26T00:00:00 | nan                 | nan                 |
-| 2024-09-11T00:00:00 | nan                 | nan                 |
-| 2024-08-16T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Tiện ích |
-| % Ngành hôm nay | +1.11% |
-| % Cổ phiếu hôm nay | -0.60% |
-| RS (CP − Ngành) | -1.71% |
+| % Ngành hôm nay | +1.43% |
+| % Cổ phiếu hôm nay | +0.20% |
+| RS (CP − Ngành) | -1.23% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PPC      | 2025-12-15 00:00:00 |   9.85 |   9.9  |  9.85 |    9.85 |   126700 |
 | PPC      | 2025-12-16 00:00:00 |   9.85 |   9.89 |  9.83 |    9.86 |   117500 |
 | PPC      | 2025-12-17 00:00:00 |   9.86 |   9.9  |  9.83 |    9.85 |    64700 |
 | PPC      | 2025-12-18 00:00:00 |   9.83 |   9.85 |  9.8  |    9.85 |   175500 |
@@ -306,21 +221,22 @@
 | PPC      | 2026-04-24 00:00:00 |   9.91 |  10.05 |  9.91 |   10.05 |   348900 |
 | PPC      | 2026-04-28 00:00:00 |  10    |  10.05 |  9.95 |    9.96 |   128300 |
 | PPC      | 2026-04-29 00:00:00 |   9.99 |   9.99 |  9.85 |    9.9  |   251800 |
+| PPC      | 2026-05-04 00:00:00 |   9.9  |   9.99 |  9.9  |    9.92 |   160700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PPC      | 2026-04-29 13:09:54 |    9.9  |      400 | Sell         | 469245286 |
-| PPC      | 2026-04-29 13:09:54 |    9.9  |      100 | Sell         | 469245287 |
-| PPC      | 2026-04-29 13:10:12 |    9.9  |     1100 | Sell         | 469246304 |
-| PPC      | 2026-04-29 13:10:12 |    9.91 |      100 | Sell         | 469246303 |
-| PPC      | 2026-04-29 13:10:13 |    9.89 |      300 | Sell         | 469246382 |
-| PPC      | 2026-04-29 13:14:20 |    9.9  |      500 | Buy          | 469257300 |
-| PPC      | 2026-04-29 13:14:36 |    9.89 |      100 | Sell         | 469258053 |
-| PPC      | 2026-04-29 13:24:44 |    9.9  |      400 | Buy          | 469282577 |
-| PPC      | 2026-04-29 13:24:59 |    9.89 |      100 | Sell         | 469282984 |
-| PPC      | 2026-04-29 13:28:58 |    9.9  |     1000 | Buy          | 469293855 |
+| PPC      | 2026-05-04 09:56:47 |    9.98 |      100 | Buy          | 469624543 |
+| PPC      | 2026-05-04 09:56:47 |    9.98 |     1000 | Buy          | 469624544 |
+| PPC      | 2026-05-04 09:57:19 |    9.98 |     1000 | Buy          | 469625994 |
+| PPC      | 2026-05-04 09:58:42 |    9.96 |      400 | Sell         | 469629120 |
+| PPC      | 2026-05-04 10:01:05 |    9.96 |      500 | Sell         | 469634102 |
+| PPC      | 2026-05-04 10:01:05 |    9.96 |      500 | Sell         | 469634101 |
+| PPC      | 2026-05-04 10:03:55 |    9.95 |      500 | Sell         | 469639949 |
+| PPC      | 2026-05-04 10:03:55 |    9.95 |      300 | Sell         | 469639950 |
+| PPC      | 2026-05-04 10:04:38 |    9.95 |      100 | Buy          | 469641092 |
+| PPC      | 2026-05-04 10:04:54 |    9.94 |      100 | Sell         | 469641519 |
 
 <!-- END:DAILY -->
 

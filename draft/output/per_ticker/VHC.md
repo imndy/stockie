@@ -1,223 +1,138 @@
 # VHC — CTCP Vĩnh Hoàn
 **Sàn:** HOSE  |  **Ngành:** Chế biến Thủy sản
-> 📅 Daily: 03/05/2026 14:23  |  🗂 Quarterly: 03/05/2026 14:23
+> 📅 Daily: 04/05/2026 20:19  |  🗂 Quarterly: 03/05/2026 14:23
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VHC |
-| organ_code | VHC |
-| current_price | 61200.0 |
-| market_cap | 13736533330800.0 |
-| number_of_shares_mkt_cap | 224453159.0 |
-| ticker | VHC |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 26-Jan-26 |
-| en_organ_name | Vinh Hoan Corporation |
-| en_organ_short_name | Vinh Hoan Corp. |
-| vi_organ_name | Công ty Cổ phần Vĩnh Hoàn |
-| vi_organ_short_name | Thủy sản Vĩnh Hoàn |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 52444125431.818184 |
-| average_match_volume1_month | 863992.0 |
-| highest_price1_year | 69900.0 |
-| lowest_price1_year | 47209.0 |
-| foreigner_percentage | 0.19296401 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.0 |
-| analyst | Nguyen Nguyen |
-| upside_to_target_percent | 0.1699346405 |
-| dividend_per_share_tsr | 2000.0 |
-| projected_tsr_percentage | 0.2026143791 |
-| target_price | 71600.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal" style="text-align: justify;">Vinh Hoan Corporation (VHC), formerly known&nbsp;as Vinh H… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">C&ocirc;ng ty Cổ phần Vĩnh Ho&agrave;n (VHC), c&oacute; tiền th&acirc;n l&ag… |
-| in_cu | True |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3573 |
-| free_float | 112226579 |
-| free_float_percentage | 0.4999999978 |
-| listing_date | 2007-12-24T00:00:00 |
-| prev_insight | {'targetPrice': 63500.0, 'rating': 'O-PF', 'ratingAsOf': '13-Oct-25', 'analyst': 'Nguyen Nguyen', 'version': '20260127'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 13638949060300 |
+| 52w_high | 69200 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 48174 |
+| 52w_low_date | 2025-05-05 |
+| foreign_ownership | 19.3132 |
+| dividend | 2000 |
+| beta | 0.55 |
+| eps | 6326 |
+| eps_forward | 8.585328627301346 |
+| bvps | 46027 |
+| pe | 9.67 |
+| pb | 1.33 |
+| price_chg_1m | 7.49 |
+| price_chg_ytd | 28.46 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.03241491085899514 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 61.2 |
-| MA5 | 61.96 |
-| MA10 | 61.88 |
-| EMA20 | 61.005 |
-| EMA50 | 60.265 |
-| Slope MA20 (5p, %) | 0.98 |
-| ATR(14) | 1.465 |
-| RSI(14) | 52.5 |
+| Giá đóng cửa | 61.7 |
+| MA5 | 61.86 |
+| MA10 | 61.95 |
+| EMA20 | 61.071 |
+| EMA50 | 60.301 |
+| Slope MA20 (5p, %) | 0.81 |
+| ATR(14) | 1.475 |
+| RSI(14) | 55.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.696 |
-| MACD Signal | 0.598 |
-| MACD Histogram | 0.099 |
+| MACD | 0.663 |
+| MACD Signal | 0.612 |
+| MACD Histogram | 0.052 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1323948 |
+| KL avg 60 phiên | 1330470 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    65.3   | 2.13        | 2             |
-| 🔴 Kháng cự     |    63.46  | 2.24        | 2             |
-| 🔴 Kháng cự     |    61.443 | 2.52        | 2             |
-| ▶ Giá hiện tại |    61.2   | —           | —             |
-| 🟢 Hỗ trợ       |    59.6   | 1.29        | 1             |
-| 🟢 Hỗ trợ       |    58.345 | 2.67        | 3             |
-| 🟢 Hỗ trợ       |    56.2   | 1.32        | 1             |
+| 🔴 Kháng cự    |    69.9   | 0.9         | 1             |
+| 🔴 Kháng cự    |    65.3   | 2.11        | 2             |
+| 🔴 Kháng cự    |    63.46  | 2.22        | 2             |
+| ▶ Giá hiện tại |    61.7   | —           | —             |
+| 🟢 Hỗ trợ      |    61.443 | 2.49        | 2             |
+| 🟢 Hỗ trợ      |    59.6   | 1.28        | 1             |
+| 🟢 Hỗ trợ      |    58.345 | 2.64        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VHC |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698120 |
-| ratio_type | RATIO_TTM |
-| organ_code | VHC |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 92301883 |
-| market_cap | 6830339342000.0 |
-| dividend_yield | 0.0 |
-| pe | 11.4927632052 |
-| pb | 2.3940299823 |
-| ps | 0.8190610613 |
-| price_to_cash_flow | 3.8412080405 |
-| ev_to_ebitda | 8.2409548467 |
-| cash_ratio | 0.0284501185 |
-| quick_ratio | 1.3862541282 |
-| current_ratio | 1.843572595 |
-| owners_equity | 0.1146115892 |
-| debt_per_equity | 0.4505714038 |
-| debt_to_equity | 0.7335551979 |
-| roe | 0.2120437578 |
-| roa | 0.1180368098 |
-| day_sale_outstanding | 50.0944034142 |
-| days_inventory_outstanding | 59.9049391519 |
-| days_payable_outstanding | 12.2864090488 |
-| gross_margin | 0.1433525476 |
-| ebit_margin | 0.0869004217 |
-| pre_tax_profit_margin | 0.0848215062 |
-| after_tax_profit_margin | 0.0713186088 |
-| asset_turnover | 1.6562490502 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 724682685175.0 |
-| ebitda | 978985166949.0 |
-| roic | 0.1749074649 |
-| cash_cycle | 124.2114433882 |
-| fixed_asset_turnover | 5.8875595756 |
-| financial_leverage | 0.7335551979 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 9.67 |
+| pb | 1.33 |
+| roe | 15.29 |
+| roe_pct_rank | 59 |
+| roa | 10.63 |
+| roa_pct_rank | 70 |
+| eps | 6326 |
+| bvps | 46027 |
+| beta | 0.55 |
+| dividend | 2000 |
+| yield | 0.03241491085899514 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 54 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-22 |  822900 | -37.8%     | 0.372%         |
-| 2026-04-23 | 1735200 | +31.1%     | 0.785%         |
-| 2026-04-24 |  980800 | -25.9%     | 0.444%         |
-| 2026-04-28 | 1603200 | +21.1%     | 0.725%         |
-| 2026-04-29 | 1133000 | -14.4%     | 0.513%         |
+| 2026-04-23 | 1735200 | +30.4%     | 0.785%         |
+| 2026-04-24 |  980800 | -26.3%     | 0.444%         |
+| 2026-04-28 | 1603200 | +20.5%     | 0.725%         |
+| 2026-04-29 | 1133000 | -14.8%     | 0.513%         |
+| 2026-05-04 | 1678300 | +26.1%     | 0.759%         |
 
-- KL trung bình 60 phiên: **1,323,948**
+- KL trung bình 60 phiên: **1,330,470**
 - Số CP lưu hành: **221,052,659**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                               | public_date         | news_source_link   |
-|:-----------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VHC: Giải trình biến động KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước           | 2026-04-28T15:05:51 |                    |
-| VHC: Sơ yếu lý lịch của các ứng viên được đề cử bầu bổ sung Thành viên HĐQT, BKS         | 2026-04-21T10:33:00 |                    |
-| VHC: Sơ yếu lý lịch của các ứng viên được đề cử bầu bổ sung Thành viên HĐQT độc lập, BKS | 2026-04-21T10:33:00 |                    |
-| VHC: Báo cáo thường niên năm 2025                                                        | 2026-04-20T10:07:41 |                    |
-| Vĩnh Hoàn (VHC) lên kế hoạch lãi 1.600 tỷ đồng trong năm 2026                            | 2026-04-10T07:58:00 |                    |
-| VHC: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                       | 2026-04-09T17:17:21 |                    |
-| VHC: Thông báo về việc mua lại cổ phiếu quỹ                                              | 2026-04-08T18:02:01 |                    |
-| Vĩnh Hoàn (VHC) đã nộp hồ sơ mua lại 15 triệu cổ phiếu giảm vốn điều lệ                  | 2026-04-08T07:05:00 |                    |
-| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước             | 2026-03-31T16:16:44 |                    |
-| VHC: Nghị quyết HĐQT số 10 ngày 23/03/2026                                               | 2026-03-23T17:13:45 |                    |
+| title                                                                            | publishtime             | url                                                                                                     |
+|:---------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
+| Lợi nhuận ròng quý 1 của Vĩnh Hoàn tăng 38%, tạm ứng nhân viên hơn 300 tỷ        | 2026-05-01T19:02:00     | /2026/05/loi-nhuan-rong-quy-1-cua-vinh-hoan-tang-38-tam-ung-nhan-vien-hon-300-ty-737-1435673.htm        |
+| VHC: Giải trình biến động KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước   | 2026-04-28T15:07:40     | /2026/04/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434666.htm  |
+| VHC: BCTC quý 1 năm 2026                                                         | 2026-04-25T00:00:00     | /2026/04/vhc-bctc-quy-1-nam-2026-737-1434732.htm                                                        |
+| VHC: BCTC Hợp nhất quý 1 năm 2026                                                | 2026-04-25T00:00:00     | /2026/04/vhc-bctc-hop-nhat-quy-1-nam-2026-737-1434738.htm                                               |
+| VHC: Sơ yếu lý lịch của các ứng viên được đề cử bầu bổ sung Thành viên HĐQT, BKS | 2026-04-21T10:33:07     | /2026/04/vhc-so-yeu-ly-lich-cua-cac-ung-vien-duoc-de-cu-bau-bo-sung-thanh-vien-hdqt-bks-214-1431112.htm |
+| Công ty của bà Trương Thị Lệ Khanh muốn nâng cổ tức tiền mặt lên 30%             | 2026-04-10T11:20:19.733 | /2026/04/cong-ty-cua-ba-truong-thi-le-khanh-muon-nang-co-tuc-tien-mat-len-30-738-1425950.htm            |
+| Vĩnh Hoàn chốt thời gian mua lại 15 triệu cp                                     | 2026-04-09T18:54:43.403 | /2026/04/vinh-hoan-chot-thoi-gian-mua-lai-15-trieu-cp-739-1425449.htm                                   |
+| VHC: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                               | 2026-04-09T17:17:21     | /2026/04/vhc-thu-moi-tham-du-va-tai-lieu-hop-dhdcd-tn-2026-737-1425648.htm                              |
+| VHC: Thông báo về việc mua lại cổ phiếu quỹ                                      | 2026-04-08T18:02:01     | /2026/04/vhc-thong-bao-ve-viec-mua-lai-co-phieu-quy-739-1425198.htm                                     |
+| VHC: Giải trình biến động KQKD HN và Riêng năm 2025 so với cùng kỳ năm trước     | 2026-03-31T16:17:44     | /2026/03/vhc-giai-trinh-bien-dong-kqkd-hn-va-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1419780.htm    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-12T00:00:00 | 2026-03-27T00:00:00 | 2026-03-26T00:00:00 |
-| 2026-01-15T00:00:00 | nan                 | nan                 |
-| 2026-01-14T00:00:00 | nan                 | nan                 |
-| 2025-12-31T00:00:00 | nan                 | nan                 |
-| 2025-11-26T00:00:00 | nan                 | nan                 |
-| 2025-09-19T00:00:00 | 2025-09-30T00:00:00 | 2025-09-29T00:00:00 |
-| 2025-05-15T00:00:00 | nan                 | nan                 |
-| 2025-03-06T00:00:00 | 2025-03-18T00:00:00 | 2025-03-17T00:00:00 |
-| 2024-11-20T00:00:00 | 2024-12-06T00:00:00 | 2024-12-05T00:00:00 |
-| 2024-11-04T00:00:00 | nan                 | nan                 |
-| 2024-10-01T00:00:00 | nan                 | nan                 |
-| 2024-09-04T00:00:00 | nan                 | nan                 |
-| 2024-08-29T00:00:00 | nan                 | nan                 |
-| 2024-07-29T00:00:00 | nan                 | nan                 |
-| 2024-04-25T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chế biến Thủy sản |
-| % Ngành hôm nay | -1.14% |
-| % Cổ phiếu hôm nay | -1.29% |
-| RS (CP − Ngành) | -0.15% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +0.71% |
+| % Cổ phiếu hôm nay | +0.82% |
+| RS (CP − Ngành) | +0.11% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHC      | 2025-12-15 00:00:00 |   55.2 |   55.4 |  54.6 |    54.8 |   567800 |
 | VHC      | 2025-12-16 00:00:00 |   54.3 |   55.7 |  52.9 |    55   |  1169700 |
 | VHC      | 2025-12-17 00:00:00 |   55.5 |   55.5 |  54.4 |    54.4 |   328200 |
 | VHC      | 2025-12-18 00:00:00 |   54.7 |   54.8 |  54   |    54.5 |   351100 |
@@ -307,21 +222,22 @@
 | VHC      | 2026-04-24 00:00:00 |   62   |   62.7 |  61.8 |    62.4 |   980800 |
 | VHC      | 2026-04-28 00:00:00 |   62.6 |   62.6 |  59.5 |    62   |  1603200 |
 | VHC      | 2026-04-29 00:00:00 |   61.5 |   62.5 |  60.6 |    61.2 |  1133000 |
+| VHC      | 2026-05-04 00:00:00 |   61.2 |   62.8 |  61.2 |    61.7 |  1678300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VHC      | 2026-04-29 14:20:52 |    62.1 |      500 | Buy          | 469441586 |
-| VHC      | 2026-04-29 14:20:52 |    62.1 |     5000 | Buy          | 469441590 |
-| VHC      | 2026-04-29 14:20:52 |    62.1 |      500 | Buy          | 469441587 |
-| VHC      | 2026-04-29 14:20:52 |    62.1 |      100 | Buy          | 469441588 |
-| VHC      | 2026-04-29 14:20:52 |    62.1 |      300 | Buy          | 469441589 |
-| VHC      | 2026-04-29 14:21:00 |    62.2 |      500 | Buy          | 469441986 |
-| VHC      | 2026-04-29 14:21:00 |    62.2 |      200 | Buy          | 469441987 |
-| VHC      | 2026-04-29 14:21:00 |    62.2 |      300 | Buy          | 469441988 |
-| VHC      | 2026-04-29 14:21:00 |    62.2 |     1000 | Buy          | 469441989 |
-| VHC      | 2026-04-29 14:21:00 |    62.2 |      100 | Buy          | 469441990 |
+| VHC      | 2026-05-04 13:09:21 |    62   |      200 | Buy          | 469798927 |
+| VHC      | 2026-05-04 13:09:39 |    62   |      100 | Buy          | 469799851 |
+| VHC      | 2026-05-04 13:10:07 |    62   |      200 | Buy          | 469801148 |
+| VHC      | 2026-05-04 13:10:37 |    62   |      100 | Buy          | 469802375 |
+| VHC      | 2026-05-04 13:11:21 |    62   |      700 | Buy          | 469804085 |
+| VHC      | 2026-05-04 13:11:21 |    62   |      100 | Buy          | 469804086 |
+| VHC      | 2026-05-04 13:11:21 |    62   |      600 | Buy          | 469804084 |
+| VHC      | 2026-05-04 13:12:17 |    62.1 |      600 | Buy          | 469806184 |
+| VHC      | 2026-05-04 13:12:18 |    62.1 |     1000 | Buy          | 469806201 |
+| VHC      | 2026-05-04 13:12:54 |    62.1 |      100 | Sell         | 469807452 |
 
 <!-- END:DAILY -->
 

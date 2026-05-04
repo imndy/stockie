@@ -1,222 +1,137 @@
 # REE — CTCP Cơ Điện Lạnh
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 03/05/2026 14:17  |  🗂 Quarterly: 03/05/2026 14:17
+> 📅 Daily: 04/05/2026 20:17  |  🗂 Quarterly: 03/05/2026 14:17
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | REE |
-| organ_code | REE |
-| current_price | 60300.0 |
-| market_cap | 32661985781700.0 |
-| number_of_shares_mkt_cap | 541658139.0 |
-| ticker | REE |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 23-Feb-26 |
-| en_organ_name | Refrigeration Electrical Engineering Corporation |
-| en_organ_short_name | Refrigeration Electrical Engineering |
-| vi_organ_name | Công ty Cổ phần Cơ điện Lạnh |
-| vi_organ_short_name | Cơ Điện Lạnh REE |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Utilities |
-| sector_vn | Điện, nước & xăng dầu khí đốt |
-| average_match_value1_month | 88696115854.54546 |
-| average_match_volume1_month | 1339750.0 |
-| highest_price1_year | 74200.0 |
-| lowest_price1_year | 57700.0 |
-| foreigner_percentage | 0.48999907 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.05276792 |
-| analyst | Tuan Do |
-| upside_to_target_percent | 0.2587064677 |
-| dividend_per_share_tsr | 1000.0 |
-| projected_tsr_percentage | 0.2752902156 |
-| target_price | 75900.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Refrigeration Electrical Engineering Corporation (REE), formerly known&nbsp;as Refriger… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Cơ Điện Lạnh (REE) c&oacute; tiền th&acirc;n l&agrave;&nbsp;X&iacute; nghiệp Quốc d… |
-| in_cu | True |
-| icb_code_lv2 | 7500 |
-| icb_code_lv4 | 7535 |
-| free_float | 189580348 |
-| free_float_percentage | 0.3499999988 |
-| listing_date | 2000-07-28T00:00:00 |
-| prev_insight | {'targetPrice': 78200.0, 'rating': 'BUY', 'ratingAsOf': '03-Nov-25', 'analyst': 'Tuan Do', 'version': '20260205'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 33149478106800 |
+| 52w_high | 71700 |
+| 52w_high_date | 2026-03-26 |
+| 52w_low | 57700 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 49 |
+| dividend | 1000 |
+| beta | 0.42 |
+| eps | 5058 |
+| eps_forward | 11.60695724482018 |
+| bvps | 46045 |
+| pe | 11.92 |
+| pb | 1.31 |
+| price_chg_1m | -4.97 |
+| price_chg_ytd | 4.44 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.016339869281045753 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 60.3 |
-| MA5 | 61.92 |
-| MA10 | 63.35 |
-| EMA20 | 64.006 |
-| EMA50 | 64.068 |
-| Slope MA20 (5p, %) | -2.29 |
-| ATR(14) | 1.929 |
-| RSI(14) | 34.4 |
+| Giá đóng cửa | 61.2 |
+| MA5 | 61.2 |
+| MA10 | 62.98 |
+| EMA20 | 63.738 |
+| EMA50 | 63.94 |
+| Slope MA20 (5p, %) | -2.59 |
+| ATR(14) | 1.884 |
+| RSI(14) | 38.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.989 |
-| MACD Signal | -0.279 |
-| MACD Histogram | -0.71 |
+| MACD | -1.077 |
+| MACD Signal | -0.438 |
+| MACD Histogram | -0.639 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 1194786 |
+| KL avg 60 phiên | 1194827 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    64.46  | 0.78        | 1             |
-| 🔴 Kháng cự     |    64.1   | 1.32        | 1             |
-| 🔴 Kháng cự     |    62     | 0.92        | 1             |
-| ▶ Giá hiện tại |    60.3   | —           | —             |
-| 🟢 Hỗ trợ       |    59.798 | 5.42        | 7             |
-| 🟢 Hỗ trợ       |    57.7   | 1.11        | 1             |
+| 🔴 Kháng cự    |    64.46  | 0.77        | 1             |
+| 🔴 Kháng cự    |    64.1   | 1.31        | 1             |
+| 🔴 Kháng cự    |    62     | 0.91        | 1             |
+| ▶ Giá hiện tại |    61.2   | —           | —             |
+| 🟢 Hỗ trợ      |    59.798 | 5.34        | 7             |
+| 🟢 Hỗ trợ      |    57.7   | 1.1         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | REE |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698912 |
-| ratio_type | RATIO_TTM |
-| organ_code | REE |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 310050926 |
-| market_cap | 10696756947000.0 |
-| dividend_yield | 0.0 |
-| pe | 7.4932189525 |
-| pb | 1.3510523333 |
-| ps | 2.1578320285 |
-| price_to_cash_flow | 17.6362464619 |
-| ev_to_ebitda | 9.9904806162 |
-| cash_ratio | 0.4999081997 |
-| quick_ratio | 1.0814717845 |
-| current_ratio | 1.5644105103 |
-| owners_equity | 0.2916342268 |
-| debt_per_equity | 0.3587348257 |
-| debt_to_equity | 0.7103087149 |
-| roe | 0.1713192131 |
-| roa | 0.1051458265 |
-| day_sale_outstanding | 53.2587101954 |
-| days_inventory_outstanding | 165.6801136788 |
-| days_payable_outstanding | 42.4272510896 |
-| gross_margin | 0.2922582836 |
-| ebit_margin | 0.2231035587 |
-| pre_tax_profit_margin | 0.3638257394 |
-| after_tax_profit_margin | 0.3207905394 |
-| asset_turnover | 0.3651228221 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 1105963999756.0 |
-| ebitda | 1227245835248.0 |
-| roic | 0.0953213757 |
-| cash_cycle | 300.2831064901 |
-| fixed_asset_turnover | 10.0060790893 |
-| financial_leverage | 0.7103087149 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 11.92 |
+| pb | 1.31 |
+| roe | 13.33 |
+| roe_pct_rank | 54 |
+| roa | 6.62 |
+| roa_pct_rank | 56 |
+| eps | 5058 |
+| bvps | 46045 |
+| beta | 0.42 |
+| dividend | 1000 |
+| yield | 0.016339869281045753 |
+| pe_pct_rank | 49 |
+| pb_pct_rank | 54 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-22 |  775500 | -35.1%     | 0.143%         |
 | 2026-04-23 | 1868200 | +56.4%     | 0.345%         |
 | 2026-04-24 |  526500 | -55.9%     | 0.097%         |
 | 2026-04-28 | 1838100 | +53.8%     | 0.339%         |
 | 2026-04-29 |  934100 | -21.8%     | 0.172%         |
+| 2026-05-04 |  537600 | -55.0%     | 0.099%         |
 
-- KL trung bình 60 phiên: **1,194,786**
+- KL trung bình 60 phiên: **1,194,827**
 - Số CP lưu hành: **541,658,139**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                   | public_date         | news_source_link   |
-|:-------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| REE: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu               | 2026-04-28T15:33:44 |                    |
-| REE: Thông báo phát hành cổ phiếu để trả cổ tức                                                              | 2026-04-28T15:32:23 |                    |
-| REE: Thông báo nhận được văn bản của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức             | 2026-04-28T15:31:40 |                    |
-| REE: Nghị quyết HĐQT thông qua việc chốt danh sách cổ đông để trả cổ tức năm 2025 bằng cổ phiếu              | 2026-04-28T15:29:50 |                    |
-| REE: Nghị quyết HĐQT thông qua việc triển khai thực hiện phương án phát hành cổ phiếu để trả cổ tức năm 2025 | 2026-04-07T17:43:16 |                    |
-| REE: Thông báo thay đổi nhân sự                                                                              | 2026-04-02T16:07:48 |                    |
-| REE: Quy chế nội bộ về quản trị công ty                                                                      | 2026-04-02T16:06:07 |                    |
-| REE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                       | 2026-04-02T16:05:37 |                    |
-| REE: Điều lệ công ty                                                                                         | 2026-04-02T16:05:01 |                    |
-| REE:  PLATINUM VICTORY PTE.LTD đăng ký mua gần 18 triệu cổ phiếu                                             | 2026-03-31T17:56:00 |                    |
+| title                                                                                                        | publishtime            | url                                                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| REE: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu               | 2026-04-28T15:33:44    | /2026/04/ree-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-co-phieu-737-1434762.htm    |
+| REE: Thông báo phát hành cổ phiếu để trả cổ tức                                                              | 2026-04-28T15:32:23    | /2026/04/ree-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-738-1434755.htm                                                   |
+| REE: Thông báo nhận được văn bản của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức             | 2026-04-28T15:31:40    | /2026/04/ree-thong-bao-nhan-duoc-van-ban-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-738-1434750.htm  |
+| REE: Nghị quyết HĐQT thông qua việc chốt danh sách cổ đông để trả cổ tức năm 2025 bằng cổ phiếu              | 2026-04-28T15:29:50    | /2026/04/ree-nghi-quyet-hdqt-thong-qua-viec-chot-danh-sach-co-dong-de-tra-co-tuc-nam-2025-bang-co-phieu-737-1434747.htm   |
+| REE: BCTC quý 1 năm 2026                                                                                     | 2026-04-28T00:00:00    | /2026/04/ree-bctc-quy-1-nam-2026-737-1434652.htm                                                                          |
+| REE: BCTC Hợp nhất quý 1 năm 2026                                                                            | 2026-04-28T00:00:00    | /2026/04/ree-bctc-hop-nhat-quy-1-nam-2026-737-1434653.htm                                                                 |
+| REE: Nghị quyết HĐQT thông qua việc triển khai thực hiện phương án phát hành cổ phiếu để trả cổ tức năm 2025 | 2026-04-07T17:43:16    | /2026/04/ree-nghi-quyet-hdqt-thong-qua-viec-trien-khai-thuc-hien-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-nam-2025-737… |
+| Vì đâu công ty chứng khoán gọi tên BSR, EIB, REE?                                                            | 2026-04-06T14:28:15.65 | /2026/04/vi-dau-cong-ty-chung-khoan-goi-ten-bsr-eib-ree-145-1423333.htm                                                   |
+| REE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                       | 2026-04-02T16:14:50    | /2026/04/ree-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1421671.htm                                            |
+| REE: Điều lệ công ty                                                                                         | 2026-04-02T16:14:50    | /2026/04/ree-dieu-le-cong-ty-737-1421672.htm                                                                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-29T00:00:00 | nan                 | nan                 |
-| 2026-04-02T00:00:00 | nan                 | nan                 |
-| 2026-03-31T00:00:00 | nan                 | nan                 |
-| 2026-03-31T00:00:00 | nan                 | nan                 |
-| 2026-02-25T00:00:00 | nan                 | nan                 |
-| 2026-02-06T00:00:00 | 2026-02-27T00:00:00 | 2026-02-26T00:00:00 |
-| 2026-02-06T00:00:00 | 2026-02-27T00:00:00 | 2026-02-26T00:00:00 |
-| 2026-01-20T00:00:00 | nan                 | nan                 |
-| 2025-12-24T00:00:00 | nan                 | nan                 |
-| 2025-12-17T00:00:00 | nan                 | nan                 |
-| 2025-12-01T00:00:00 | nan                 | nan                 |
-| 2025-11-11T00:00:00 | nan                 | nan                 |
-| 2025-10-08T00:00:00 | nan                 | nan                 |
-| 2025-09-03T00:00:00 | nan                 | nan                 |
-| 2025-08-29T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | +0.43% |
-| % Cổ phiếu hôm nay | +0.50% |
-| RS (CP − Ngành) | +0.07% |
+| % Ngành hôm nay | +0.73% |
+| % Cổ phiếu hôm nay | +1.49% |
+| RS (CP − Ngành) | +0.76% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| REE      | 2025-12-15 00:00:00 |  61.11 |  61.51 | 61.11 |   61.31 |   539070 |
 | REE      | 2025-12-16 00:00:00 |  61.11 |  61.8  | 59.54 |   61.6  |   361501 |
 | REE      | 2025-12-17 00:00:00 |  61.6  |  61.9  | 60.92 |   60.92 |   314633 |
 | REE      | 2025-12-18 00:00:00 |  60.92 |  61.01 | 60.52 |   60.52 |   332210 |
@@ -306,21 +221,22 @@
 | REE      | 2026-04-24 00:00:00 |  62.7  |  62.8  | 61.9  |   62.3  |   526500 |
 | REE      | 2026-04-28 00:00:00 |  62.9  |  62.9  | 60    |   60    |  1838100 |
 | REE      | 2026-04-29 00:00:00 |  60    |  61.4  | 60    |   60.3  |   934100 |
+| REE      | 2026-05-04 00:00:00 |  60.6  |  61.6  | 60.6  |   61.2  |   537600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| REE      | 2026-04-29 14:17:03 |    61.1 |     1100 | Sell         | 469429978 |
-| REE      | 2026-04-29 14:17:03 |    61.1 |      600 | Sell         | 469429981 |
-| REE      | 2026-04-29 14:17:35 |    61.1 |      100 | Sell         | 469431469 |
-| REE      | 2026-04-29 14:17:35 |    61.1 |     1000 | Sell         | 469431470 |
-| REE      | 2026-04-29 14:17:35 |    61.1 |      300 | Sell         | 469431471 |
-| REE      | 2026-04-29 14:17:35 |    61.1 |      200 | Sell         | 469431472 |
-| REE      | 2026-04-29 14:17:35 |    61.1 |      400 | Sell         | 469431468 |
-| REE      | 2026-04-29 14:17:40 |    61.1 |      200 | Sell         | 469431777 |
-| REE      | 2026-04-29 14:18:12 |    61.2 |      200 | Buy          | 469433354 |
-| REE      | 2026-04-29 14:18:36 |    61.2 |      100 | Buy          | 469434567 |
+| REE      | 2026-05-04 14:08:14 |    61   |     1000 | Buy          | 469935133 |
+| REE      | 2026-05-04 14:08:43 |    61   |     2000 | Sell         | 469936071 |
+| REE      | 2026-05-04 14:09:36 |    61.1 |      200 | Buy          | 469938059 |
+| REE      | 2026-05-04 14:09:51 |    61   |      800 | Sell         | 469938745 |
+| REE      | 2026-05-04 14:09:51 |    61   |      200 | Sell         | 469938741 |
+| REE      | 2026-05-04 14:09:51 |    61   |     2000 | Sell         | 469938743 |
+| REE      | 2026-05-04 14:09:51 |    61   |     2000 | Sell         | 469938744 |
+| REE      | 2026-05-04 14:09:59 |    61.1 |      900 | Buy          | 469939130 |
+| REE      | 2026-05-04 14:10:30 |    61   |     2200 | Sell         | 469940492 |
+| REE      | 2026-05-04 14:10:30 |    61   |      100 | Sell         | 469940493 |
 
 <!-- END:DAILY -->
 

@@ -1,221 +1,136 @@
 # VHM — CTCP Vinhomes
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 03/05/2026 14:24  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 04/05/2026 20:19  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
 <!-- BEGIN:DAILY -->
-
 ## Thống kê giao dịch
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VHM |
-| organ_code | NHN |
-| current_price | 146000.0 |
-| market_cap | 599682152584000.0 |
-| number_of_shares_mkt_cap | 4107412004.0 |
-| ticker | VHM |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 30-Mar-26 |
-| en_organ_name | Vinhomes Joint Stock Company |
-| en_organ_short_name | Vinhomes |
-| vi_organ_name | Công ty Cổ phần Vinhomes |
-| vi_organ_short_name | Vinhomes |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Real Estate |
-| sector_vn | Bất động sản |
-| average_match_value1_month | 791970242486.3636 |
-| average_match_volume1_month | 5947329.0 |
-| highest_price1_year | 155900.0 |
-| lowest_price1_year | 57100.0 |
-| foreigner_percentage | 0.07964961 |
-| maximum_foreign_percentage | 0.5 |
-| state_percentage | 0.0 |
-| analyst | Thuc Than |
-| upside_to_target_percent | -0.1602739726 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | -0.1602739726 |
-| target_price | 122600.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p><!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--><o:p>Vinhomes Joint St… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Vinhomes (VHM) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đ&oci… |
-| in_cu | True |
-| icb_code_lv2 | 8600 |
-| icb_code_lv4 | 8633 |
-| free_float | 1232223601 |
-| free_float_percentage | 0.3 |
-| listing_date | 2018-05-17T00:00:00 |
-| prev_insight | {'targetPrice': 118900.0, 'rating': 'O-PF', 'ratingAsOf': '05-Dec-25', 'analyst': 'Thuc Than', 'version': '20260323'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 583252504568000 |
+| 52w_high | 151000 |
+| 52w_high_date | 2026-04-28 |
+| 52w_low | 58000 |
+| 52w_low_date | 2025-05-15 |
+| foreign_ownership | 8.0007 |
+| dividend | 0 |
+| beta | 1.85 |
+| eps | 15585 |
+| eps_forward | 9.994701439100094 |
+| bvps | 66427 |
+| pe | 9.37 |
+| pb | 2.20 |
+| price_chg_1m | 19.13 |
+| price_chg_ytd | 143.15 |
+| price_chg_1m_rank | 10.22 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 146.0 |
-| MA5 | 147.5 |
-| MA10 | 144.42 |
-| EMA20 | 133.614 |
-| EMA50 | 120.99 |
-| Slope MA20 (5p, %) | 7.17 |
-| ATR(14) | 7.794 |
-| RSI(14) | 64.4 |
+| Giá đóng cửa | 142.0 |
+| MA5 | 145.84 |
+| MA10 | 144.92 |
+| EMA20 | 134.412 |
+| EMA50 | 121.758 |
+| Slope MA20 (5p, %) | 5.74 |
+| ATR(14) | 7.761 |
+| RSI(14) | 60.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 10.819 |
-| MACD Signal | 9.828 |
-| MACD Histogram | 0.991 |
+| MACD | 10.143 |
+| MACD Signal | 9.893 |
+| MACD Histogram | 0.249 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 6538152 |
+| KL avg 60 phiên | 6371903 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     150.9 | 1.43        | 2             |
-| ▶ Giá hiện tại |     146   | —           | —             |
-| 🟢 Hỗ trợ       |     127.5 | 0.84        | 1             |
-| 🟢 Hỗ trợ       |     117.5 | 0.77        | 1             |
-| 🟢 Hỗ trợ       |     112.9 | 1.04        | 1             |
+| 🔴 Kháng cự    |     150.9 | 1.41        | 2             |
+| ▶ Giá hiện tại |     142   | —           | —             |
+| 🟢 Hỗ trợ      |     127.5 | 0.83        | 1             |
+| 🟢 Hỗ trợ      |     117.5 | 0.76        | 1             |
+| 🟢 Hỗ trợ      |     112.9 | 1.03        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VHM |
-| year | 2018 |
-| quarter | 2 |
-| ratio_ttm_id | 2737071 |
-| ratio_type | RATIO_TTM |
-| organ_code | NHN |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | nan |
-| market_cap | nan |
-| dividend_yield | nan |
-| pe | nan |
-| pb | nan |
-| ps | nan |
-| price_to_cash_flow | nan |
-| ev_to_ebitda | nan |
-| cash_ratio | nan |
-| quick_ratio | nan |
-| current_ratio | nan |
-| owners_equity | nan |
-| debt_per_equity | nan |
-| debt_to_equity | nan |
-| roe | nan |
-| roa | nan |
-| day_sale_outstanding | nan |
-| days_inventory_outstanding | nan |
-| days_payable_outstanding | nan |
-| gross_margin | nan |
-| ebit_margin | nan |
-| pre_tax_profit_margin | nan |
-| after_tax_profit_margin | 0.3220481306 |
-| asset_turnover | nan |
-| net_interest_margin | nan |
-| average_yield_on_earning_assets | nan |
-| average_cost_of_financing | nan |
-| non_and_interest_income | nan |
-| cost_to_income | nan |
-| loans_growth | nan |
-| deposit_growth | nan |
-| equity_to_liabilities | nan |
-| equity_to_loans | nan |
-| total_equity_total_asset | nan |
-| ldr_loan_deposit_ratio | nan |
-| npl | nan |
-| loans_loss_reserves_to_np_ls | nan |
-| loans_loss_reserve_to_loans | nan |
-| provision_to_outstanding_loans | nan |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | nan |
-| cash_cycle | nan |
-| fixed_asset_turnover | nan |
-| financial_leverage | nan |
-| cir | nan |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 9.37 |
+| pb | 2.20 |
+| roe | 17.97 |
+| roe_pct_rank | 64 |
+| roa | 6.09 |
+| roa_pct_rank | 54 |
+| eps | 15585 |
+| bvps | 66427 |
+| beta | 1.85 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 42 |
+| pb_pct_rank | 79 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-22 | 8653100 | +32.3%     | 0.211%         |
-| 2026-04-23 | 5700100 | -12.8%     | 0.139%         |
-| 2026-04-24 | 6047900 | -7.5%      | 0.147%         |
-| 2026-04-28 | 9348000 | +43.0%     | 0.228%         |
-| 2026-04-29 | 6990600 | +6.9%      | 0.170%         |
+| 2026-04-23 | 5700100 | -10.5%     | 0.139%         |
+| 2026-04-24 | 6047900 | -5.1%      | 0.147%         |
+| 2026-04-28 | 9348000 | +46.7%     | 0.228%         |
+| 2026-04-29 | 6990600 | +9.7%      | 0.170%         |
+| 2026-05-04 | 5533800 | -13.2%     | 0.135%         |
 
-- KL trung bình 60 phiên: **6,538,151**
+- KL trung bình 60 phiên: **6,371,903**
 - Số CP lưu hành: **4,107,412,004**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                            | public_date         | news_source_link   |
-|:----------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VHM: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                            | 2026-04-23T09:00:26 |                    |
-| VHM: CBTT điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                              | 2026-04-20T10:03:57 |                    |
-| VHM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Tập đoàn Vingroup - Công ty Cổ phần | 2026-04-13T14:12:02 |                    |
-| VHM: Báo cáo thường niên năm 2025                                                                                     | 2026-04-13T14:08:29 |                    |
-| VHM: Nghị quyết HĐQT về việc thành lập các Chi nhánh của Công ty                                                      | 2026-04-09T17:49:56 |                    |
-| VHM: Nghị quyết HĐQT về việc chào bán và phát hành trái phiếu doanh nghiệp theo hình thức riêng lẻ                    | 2026-04-09T17:48:50 |                    |
-| VHM: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                             | 2026-04-01T09:12:30 |                    |
-| VHM: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ Tập đoàn VINGROUP-CTCP                    | 2026-03-30T09:15:00 |                    |
-| VHM: Nghị quyết HĐQT về giao dịch tổng thầu với bên liên quan của Công ty                                             | 2026-03-25T10:00:55 |                    |
-| VHM: Nghị quyết HĐQT về việc tham gia đầu tư Dự án KĐT mới Phước Vĩnh Tây và ký Hợp đồng liên danh                    | 2026-03-23T11:15:00 |                    |
+| title                                                                                     | publishtime             | url                                                                                                              |
+|:------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------|
+| Nhịp đập Thị trường 29/04: Thị trường phân hóa, cổ phiếu VIC và VHM gây áp lực lên chỉ số | 2026-04-29T16:27:00     | /2026/04/nhip-dap-thi-truong-2904-thi-truong-phan-hoa-co-phieu-vic-va-vhm-gay-ap-luc-len-chi-so-1636-1435267.htm |
+| VHM: BCTC Hợp nhất quý 1 năm 2026                                                         | 2026-04-28T00:00:00     | /2026/04/vhm-bctc-hop-nhat-quy-1-nam-2026-737-1435203.htm                                                        |
+| VHM: BCTC quý 1 năm 2026                                                                  | 2026-04-28T00:00:00     | /2026/04/vhm-bctc-quy-1-nam-2026-737-1435204.htm                                                                 |
+| VHM: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                | 2026-04-23T09:00:26     | /2026/04/vhm-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432377.htm                               |
+| Vingroup muốn lãi 35 ngàn tỷ, gấp 3 lần năm ngoái                                         | 2026-04-21T16:54:24.793 | /2026/04/vingroup-muon-lai-35-ngan-ty-gap-3-lan-nam-ngoai-737-1431325.htm                                        |
+| Vinhomes nâng lợi nhuận mục tiêu thêm 10,000 tỷ                                           | 2026-04-20T18:34:31.58  | /2026/04/vinhomes-nang-loi-nhuan-muc-tieu-them-10000-ty-737-1430614.htm                                          |
+| VHM: CBTT điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                  | 2026-04-20T10:03:57     | /2026/04/vhm-cbtt-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429995.htm                                 |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                 |
+| Thị trường chứng quyền ngày 16/04/2026: Nhóm chứng quyền VIC và VHM tỏa sáng              | 2026-04-15T20:00:00     | /2026/04/thi-truong-chung-quyen-ngay-16042026-nhom-chung-quyen-vic-va-vhm-toa-sang-1636-1428021.htm              |
+| Nhịp đập Thị trường 13/04: Thị trường phân hóa, nhóm cổ phiếu VIC và VHM nâng đỡ chỉ số   | 2026-04-13T16:02:00     | /2026/04/nhip-dap-thi-truong-1304-thi-truong-phan-hoa-nhom-co-phieu-vic-va-vhm-nang-do-chi-so-1636-1426645.htm   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date            | record_date         | exright_date        |
-|:-----------------------|:--------------------|:--------------------|
-| 2026-04-23T00:00:00    | nan                 | nan                 |
-| 2026-04-13T00:00:00    | nan                 | nan                 |
-| 2026-03-06T00:00:00    | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
-| 2025-03-07T00:00:00    | 2025-03-24T00:00:00 | 2025-03-21T00:00:00 |
-| 2024-12-31T00:00:00    | nan                 | nan                 |
-| 2024-03-07T00:00:00    | 2024-03-22T00:00:00 | 2024-03-21T00:00:00 |
-| 2023-12-29T00:00:00    | nan                 | nan                 |
-| 2023-10-23T00:00:00    | nan                 | nan                 |
-| 2023-08-23T00:00:00    | nan                 | nan                 |
-| 2023-03-16T00:00:00    | 2023-03-24T00:00:00 | 2023-03-23T00:00:00 |
-| 2022-06-07T00:00:00    | nan                 | nan                 |
-| 2022-05-25T00:00:00    | 2022-06-01T00:00:00 | 2022-05-31T00:00:00 |
-| 2022-03-25T00:00:00    | 2022-04-08T00:00:00 | 2022-04-07T00:00:00 |
-| 2021-10-05T10:03:54.91 | nan                 | nan                 |
-| 2021-09-15T00:00:00    | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | -3.50% |
-| % Cổ phiếu hôm nay | -3.31% |
-| RS (CP − Ngành) | +0.19% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | -1.26% |
+| % Cổ phiếu hôm nay | -2.74% |
+| RS (CP − Ngành) | -1.48% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VHM      | 2025-12-15 00:00:00 |   94.8 |   96   |  91.1 |    92.5 |  5413200 |
 | VHM      | 2025-12-16 00:00:00 |   91.3 |   95.7 |  90.5 |    95   |  5672700 |
 | VHM      | 2025-12-17 00:00:00 |   94.9 |   95.3 |  92.7 |    94.9 |  3306500 |
 | VHM      | 2025-12-18 00:00:00 |   94.9 |   95   |  93.5 |    94.9 |  3362700 |
@@ -305,21 +220,22 @@
 | VHM      | 2026-04-24 00:00:00 |  148.1 |  148.6 | 141.2 |   141.2 |  6047900 |
 | VHM      | 2026-04-28 00:00:00 |  140.7 |  151   | 140   |   151   |  9348000 |
 | VHM      | 2026-04-29 00:00:00 |  154.8 |  155.9 | 146   |   146   |  6990600 |
+| VHM      | 2026-05-04 00:00:00 |  148.5 |  149   | 141.7 |   142   |  5533800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VHM      | 2026-04-29 14:29:14 |   146.5 |      100 | Sell         | 469473887 |
-| VHM      | 2026-04-29 14:29:14 |   146.5 |      600 | Sell         | 469473891 |
-| VHM      | 2026-04-29 14:29:14 |   146.5 |     1000 | Sell         | 469473888 |
-| VHM      | 2026-04-29 14:29:14 |   146.5 |      100 | Sell         | 469473889 |
-| VHM      | 2026-04-29 14:29:14 |   146.5 |      200 | Sell         | 469473890 |
-| VHM      | 2026-04-29 14:29:15 |   146.8 |      200 | Sell         | 469473966 |
-| VHM      | 2026-04-29 14:29:15 |   146.4 |      700 | Sell         | 469473948 |
-| VHM      | 2026-04-29 14:29:15 |   146.8 |      100 | Sell         | 469473971 |
-| VHM      | 2026-04-29 14:29:15 |   146.5 |      100 | Sell         | 469473945 |
-| VHM      | 2026-04-29 14:29:15 |   146.5 |      500 | Sell         | 469473942 |
+| VHM      | 2026-05-04 14:28:34 |   142.9 |      600 | Buy          | 470002496 |
+| VHM      | 2026-05-04 14:28:35 |   142.6 |      100 | Sell         | 470002529 |
+| VHM      | 2026-05-04 14:28:35 |   142.9 |      600 | Buy          | 470002539 |
+| VHM      | 2026-05-04 14:28:37 |   142.9 |      600 | Buy          | 470002755 |
+| VHM      | 2026-05-04 14:28:38 |   142.9 |      600 | Buy          | 470002896 |
+| VHM      | 2026-05-04 14:28:39 |   142.9 |      600 | Buy          | 470003021 |
+| VHM      | 2026-05-04 14:28:40 |   142.9 |      600 | Buy          | 470003114 |
+| VHM      | 2026-05-04 14:28:42 |   142.9 |      600 | Buy          | 470003190 |
+| VHM      | 2026-05-04 14:28:42 |   142.9 |      400 | Buy          | 470003206 |
+| VHM      | 2026-05-04 14:28:43 |   143   |      600 | Buy          | 470003287 |
 
 <!-- END:DAILY -->
 
