@@ -1,6 +1,6 @@
 # LPB — Ngân hàng TMCP Lộc Phát Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 04/05/2026 20:15  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 05/05/2026 21:08  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | LPB |
 | exchange | HOSE |
-| market_cap | 140402258700000 |
+| market_cap | 143688269010000 |
 | 52w_high | 53900 |
 | 52w_high_date | 2025-10-29 |
 | 52w_low | 29575 |
 | 52w_low_date | 2025-05-06 |
-| foreign_ownership | 0.9008 |
+| foreign_ownership | 0.9007 |
 | dividend | 2500 |
-| beta | 0.32 |
+| beta | 0.33 |
 | eps | 3738 |
-| eps_forward | 9.431215928984738 |
+| eps_forward | 9.371398491803017 |
 | bvps | 16560.76 |
-| pe | 12.65 |
-| pb | 2.86 |
-| price_chg_1m | 9.05 |
-| price_chg_ytd | 55.01 |
-| price_chg_1m_rank | 10.22 |
+| pe | 12.57 |
+| pb | 2.84 |
+| price_chg_1m | 11.60 |
+| price_chg_ytd | 60.61 |
+| price_chg_1m_rank | 11.46 |
 | price_chg_ytd_rank | 51.19 |
-| yield | 0.05319148936170213 |
+| yield | 0.05197505197505198 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,50 +36,50 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.0 |
-| MA5 | 46.54 |
-| MA10 | 46.605 |
-| EMA20 | 46.135 |
-| EMA50 | 44.696 |
-| Slope MA20 (5p, %) | 0.63 |
-| ATR(14) | 1.602 |
-| RSI(14) | 57.2 |
+| Giá đóng cửa | 48.1 |
+| MA5 | 46.86 |
+| MA10 | 46.685 |
+| EMA20 | 46.322 |
+| EMA50 | 44.833 |
+| Slope MA20 (5p, %) | 0.9 |
+| ATR(14) | 1.601 |
+| RSI(14) | 61.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.836 |
-| MACD Signal | 1.02 |
-| MACD Histogram | -0.184 |
+| MACD | 0.894 |
+| MACD Signal | 0.995 |
+| MACD Histogram | -0.101 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 1622775 |
+| KL avg 60 phiên | 1633912 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     50.1  | 1.36        | 1             |
-| ▶ Giá hiện tại |     47    | —           | —             |
-| 🟢 Hỗ trợ      |     46.8  | 0.58        | 1             |
-| 🟢 Hỗ trợ      |     45    | 0.81        | 1             |
-| 🟢 Hỗ trợ      |     44.42 | 2.21        | 2             |
+| 🔴 Kháng cự    |     50.1  | 1.35        | 1             |
+| ▶ Giá hiện tại |     48.1  | —           | —             |
+| 🟢 Hỗ trợ      |     46.8  | 0.57        | 1             |
+| 🟢 Hỗ trợ      |     45    | 0.79        | 1             |
+| 🟢 Hỗ trợ      |     44.42 | 2.19        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | LPB |
-| pe | 12.65 |
-| pb | 2.86 |
+| pe | 12.57 |
+| pb | 2.84 |
 | roe | 25.23 |
 | roe_pct_rank | 79 |
 | roa | 2.05 |
-| roa_pct_rank | 37 |
+| roa_pct_rank | 40 |
 | eps | 3738 |
 | bvps | 16560.76 |
-| beta | 0.32 |
+| beta | 0.33 |
 | dividend | 2500 |
-| yield | 0.05319148936170213 |
+| yield | 0.05197505197505198 |
 | pe_pct_rank | 50 |
 | pb_pct_rank | 97 |
 | financial_date | 12/2025 |
@@ -89,29 +89,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-23 | 1123000 | -30.8%     | 0.038%         |
-| 2026-04-24 |  586300 | -63.9%     | 0.020%         |
-| 2026-04-28 |  952100 | -41.3%     | 0.032%         |
-| 2026-04-29 | 1345800 | -17.1%     | 0.045%         |
-| 2026-05-04 |  813100 | -49.9%     | 0.027%         |
+| 2026-04-24 |  586300 | -64.1%     | 0.020%         |
+| 2026-04-28 |  952100 | -41.7%     | 0.032%         |
+| 2026-04-29 | 1345800 | -17.6%     | 0.045%         |
+| 2026-05-04 |  813100 | -50.2%     | 0.027%         |
+| 2026-05-05 | 1469600 | -10.1%     | 0.049%         |
 
-- KL trung bình 60 phiên: **1,622,775**
+- KL trung bình 60 phiên: **1,633,911**
 - Số CP lưu hành: **2,987,282,100**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                         | publishtime         | url                                                                                                                 |
-|:----------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------|
-| LPB: Nghị quyết HĐQT về việc thay đồi tên gọi Phòng GD An Phú và Phòng GD Bình Tân            | 2026-05-04T11:06:03 | /2026/05/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-ten-goi-phong-gd-an-phu-va-phong-gd-binh-tan-737-1436926.htm          |
-| LPB: Thông báo thay đổi nhân sự - miễn nhiệm Phó TGĐ                                          | 2026-05-04T10:59:01 | /2026/05/lpb-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tgd-214-1436897.htm                                          |
-| LPB: Thông báo thay đổi nhân sự - HĐQT và BKS                                                 | 2026-05-04T10:56:53 | /2026/05/lpb-thong-bao-thay-doi-nhan-su-hdqt-va-bks-214-1436892.htm                                                 |
-| LPB: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                     | 2026-04-29T10:55:51 | /2026/04/lpb-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1435329.htm                    |
-| LPB: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT độc lập                                 | 2026-04-28T10:28:10 | /2026/04/lpb-thong-bao-nhan-duoc-don-tu-nhiem-thanh-vien-hdqt-doc-lap-214-1434381.htm                               |
-| LPB: Nghị quyết HĐQT về việc cập nhật tài liệu ĐHĐCĐ thường niên năm 2026                     | 2026-04-28T10:27:02 | /2026/04/lpb-nghi-quyet-hdqt-ve-viec-cap-nhat-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1434378.htm                   |
-| LPB: Nghị quyết HĐQT về việc cập nhật và bổ sung tài liệu ĐHĐCĐ thường niên năm 2026          | 2026-04-28T10:26:03 | /2026/04/lpb-nghi-quyet-hdqt-ve-viec-cap-nhat-va-bo-sung-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1434397.htm        |
-| LPBank đạt gần 2,900 tỷ đồng lợi nhuận Quý 1/2026, tăng cường bộ đệm dự phòng ngay từ đầu năm | 2026-04-21T09:22:00 | /2026/04/lpbank-dat-gan-2900-ty-dong-loi-nhuan-quy-12026-tang-cuong-bo-dem-du-phong-ngay-tu-dau-nam-757-1430907.htm |
-| LPB: Báo cáo thường niên năm 2025                                                             | 2026-04-20T17:07:54 | /2026/04/lpb-bao-cao-thuong-nien-nam-2025-737-1430645.htm                                                           |
-| LPB: BCTC quý 1 năm 2026                                                                      | 2026-04-20T00:00:00 | /2026/04/lpb-bctc-quy-1-nam-2026-737-1432142.htm                                                                    |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                                             | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
+| LPB: Thông báo nhận được công văn của NHNN khu vực 4 về việc chấp thuận thay đổi địa điểm đặt trụ sở Chi nhánh Yên Bái -… | 2026-05-05T17:39:38 | /2026/05/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-4-ve-viec-chap-thuan-thay-doi-dia-diem-dat-tru-so-chi-nhanh-y… |
+| LPB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng tiền                                | 2026-05-04T17:35:22 | /2026/05/lpb-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-tien-737-1437412.htm        |
+| LPB: Thông báo về việc chi trả cổ tức năm 2025 bằng tiền mặt cho cổ đông                                                  | 2026-05-04T17:35:21 | /2026/05/lpb-thong-bao-ve-viec-chi-tra-co-tuc-nam-2025-bang-tien-mat-cho-co-dong-738-1437414.htm                          |
+| LPB: Nghị quyết HĐQT về việc phê duyệt triển khai và thực hiện kế hoạch chi trả cổ tức năm 2025 bằng tiền mặt             | 2026-05-04T17:35:21 | /2026/05/lpb-nghi-quyet-hdqt-ve-viec-phe-duyet-trien-khai-va-thuc-hien-ke-hoach-chi-tra-co-tuc-nam-2025-bang-tien-mat-73… |
+| LPB: Nghị quyết HĐQT về việc thay đồi tên gọi Phòng GD An Phú và Phòng GD Bình Tân                                        | 2026-05-04T11:06:03 | /2026/05/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-ten-goi-phong-gd-an-phu-va-phong-gd-binh-tan-737-1436926.htm                |
+| LPB: Thông báo thay đổi nhân sự - miễn nhiệm Phó TGĐ                                                                      | 2026-05-04T10:59:01 | /2026/05/lpb-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tgd-214-1436897.htm                                                |
+| LPB: Thông báo thay đổi nhân sự - HĐQT và BKS                                                                             | 2026-05-04T10:56:53 | /2026/05/lpb-thong-bao-thay-doi-nhan-su-hdqt-va-bks-214-1436892.htm                                                       |
+| LPB: Thông báo công văn của NHNN về chấp thuận cho LPB thay đổi địa điểm Phòng GD Hội An                                  | 2026-05-04T10:56:03 | /2026/05/lpb-thong-bao-cong-van-cua-nhnn-ve-chap-thuan-cho-lpb-thay-doi-dia-diem-phong-gd-hoi-an-830-1436889.htm          |
+| LPB: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                                                 | 2026-04-29T10:55:51 | /2026/04/lpb-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1435329.htm                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,16 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.46% |
-| % Cổ phiếu hôm nay | -0.63% |
-| RS (CP − Ngành) | -1.09% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.25% |
+| % Cổ phiếu hôm nay | +2.34% |
+| RS (CP − Ngành) | +2.59% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| LPB      | 2025-12-16 00:00:00 |  43    |  44.5  | 42.75 |   44.45 |  2136800 |
 | LPB      | 2025-12-17 00:00:00 |  44.7  |  44.8  | 43.3  |   44    |   854400 |
 | LPB      | 2025-12-18 00:00:00 |  44.2  |  44.2  | 42.85 |   43.8  |  1671400 |
 | LPB      | 2025-12-19 00:00:00 |  44    |  46.8  | 43.5  |   43.5  |  1371800 |
@@ -221,21 +220,22 @@ _Không có dữ liệu_
 | LPB      | 2026-04-28 00:00:00 |  46.3  |  46.8  | 45.15 |   45.6  |   952100 |
 | LPB      | 2026-04-29 00:00:00 |  45.6  |  47.45 | 45.3  |   47.3  |  1345800 |
 | LPB      | 2026-05-04 00:00:00 |  47.3  |  47.7  | 46.4  |   47    |   813100 |
+| LPB      | 2026-05-05 00:00:00 |  47.2  |  48.5  | 46.9  |   48.1  |  1469600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| LPB      | 2026-05-04 14:24:19 |   46.9  |      300 | Sell         | 469984334 |
-| LPB      | 2026-05-04 14:24:29 |   46.9  |      100 | Sell         | 469984931 |
-| LPB      | 2026-05-04 14:24:29 |   46.9  |      100 | Sell         | 469984929 |
-| LPB      | 2026-05-04 14:24:29 |   46.9  |      100 | Sell         | 469984930 |
-| LPB      | 2026-05-04 14:24:43 |   46.95 |      100 | Buy          | 469985596 |
-| LPB      | 2026-05-04 14:25:20 |   46.9  |      900 | Sell         | 469987679 |
-| LPB      | 2026-05-04 14:25:20 |   46.85 |     2000 | Sell         | 469987680 |
-| LPB      | 2026-05-04 14:25:27 |   46.85 |     2600 | Sell         | 469988064 |
-| LPB      | 2026-05-04 14:25:31 |   46.85 |     2200 | Sell         | 469988290 |
-| LPB      | 2026-05-04 14:25:36 |   46.85 |     2200 | Sell         | 469988527 |
+| LPB      | 2026-05-05 14:16:42 |   48    |     1000 | Buy          | 470562021 |
+| LPB      | 2026-05-05 14:16:52 |   47.95 |      500 | Buy          | 470562460 |
+| LPB      | 2026-05-05 14:17:04 |   47.95 |      100 | Buy          | 470562993 |
+| LPB      | 2026-05-05 14:17:10 |   48    |     3500 | Buy          | 470563365 |
+| LPB      | 2026-05-05 14:17:32 |   48    |     3500 | Buy          | 470564380 |
+| LPB      | 2026-05-05 14:17:35 |   48    |      100 | Buy          | 470564562 |
+| LPB      | 2026-05-05 14:17:55 |   48    |     1000 | Buy          | 470565954 |
+| LPB      | 2026-05-05 14:18:00 |   48    |     1000 | Buy          | 470566253 |
+| LPB      | 2026-05-05 14:18:13 |   48    |     1000 | Buy          | 470566792 |
+| LPB      | 2026-05-05 14:18:23 |   48    |      100 | Buy          | 470567361 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # BID — Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 04/05/2026 20:10  |  🗂 Quarterly: 03/05/2026 13:56
+> 📅 Daily: 05/05/2026 21:03  |  🗂 Quarterly: 03/05/2026 13:56
 
 ---
 
@@ -10,211 +10,129 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BID |
-| organ_code | BID |
-| current_price | 40100.0 |
-| market_cap | 291930614921000.0 |
-| number_of_shares_mkt_cap | 7280065210.0 |
-| ticker | BID |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 01-Apr-26 |
-| en_organ_name | Joint Stock Commercial Bank for Investment and Development of Vietnam |
-| en_organ_short_name | BIDV |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam |
-| vi_organ_short_name | BIDV |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 308577749954.5455 |
-| average_match_volume1_month | 7631415.0 |
-| highest_price1_year | 56600.0 |
-| lowest_price1_year | 33923.0 |
-| foreigner_percentage | 0.17555381 |
-| maximum_foreign_percentage | 0.3 |
-| state_percentage | 0.76732198 |
-| analyst | Quan Vu |
-| upside_to_target_percent | 0.216957606 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.216957606 |
-| target_price | 48800.0 |
-| en_profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), formerly kn… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Đầu tư v&agrave; Ph&aacute;t triển Việt Nam (BI… |
-| in_cu | True |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 291202608 |
-| free_float_percentage | 0.0399999999 |
-| listing_date | 2014-01-24T00:00:00 |
-| prev_insight | {'targetPrice': 46100.0, 'rating': 'BUY', 'ratingAsOf': '17-Nov-25', 'analyst': 'Quan Vu', 'version': '20260416'} |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 295206644265500 |
+| 52w_high | 55000 |
+| 52w_high_date | 2026-02-02 |
+| 52w_low | 34516 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 17.5764 |
+| dividend | 450 |
+| beta | 0.9 |
+| eps | 4403 |
+| eps_forward | 14.436465416095334 |
+| bvps | 27149.03 |
+| pe | 9.28 |
+| pb | 1.50 |
+| price_chg_1m | 3.84 |
+| price_chg_ytd | 17.65 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.011097410604192354 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 40.85 |
-| MA5 | 40.69 |
-| MA10 | 40.515 |
-| EMA20 | 40.544 |
-| EMA50 | 41.625 |
-| Slope MA20 (5p, %) | 0.17 |
-| ATR(14) | 1.072 |
-| RSI(14) | 50.6 |
+| Giá đóng cửa | 40.55 |
+| MA5 | 40.48 |
+| MA10 | 40.55 |
+| EMA20 | 40.545 |
+| EMA50 | 41.589 |
+| Slope MA20 (5p, %) | -0.09 |
+| ATR(14) | 1.041 |
+| RSI(14) | 48.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.241 |
-| MACD Signal | -0.418 |
-| MACD Histogram | 0.177 |
+| MACD | -0.219 |
+| MACD Signal | -0.379 |
+| MACD Histogram | 0.16 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 8356573 |
+| KL avg 60 phiên | 8296437 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     46.1  | 0.96        | 1             |
-| 🔴 Kháng cự     |     43    | 1.17        | 1             |
-| 🔴 Kháng cự     |     41.95 | 1.35        | 1             |
-| ▶ Giá hiện tại |     40.85 | —           | —             |
-| 🟢 Hỗ trợ       |     40.1  | 1.41        | 1             |
-| 🟢 Hỗ trợ       |     39.5  | 1.11        | 1             |
-| 🟢 Hỗ trợ       |     38.65 | 1.31        | 1             |
+| 🔴 Kháng cự    |    46.1   | 0.95        | 1             |
+| 🔴 Kháng cự    |    43.031 | 2.6         | 2             |
+| 🔴 Kháng cự    |    41.95  | 1.34        | 1             |
+| ▶ Giá hiện tại |    40.55  | —           | —             |
+| 🟢 Hỗ trợ      |    40.1   | 1.39        | 1             |
+| 🟢 Hỗ trợ      |    39.5   | 1.1         | 1             |
+| 🟢 Hỗ trợ      |    38.65  | 1.3         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BID |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699131 |
-| ratio_type | RATIO_TTM |
-| organ_code | BID |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 3418715334 |
-| market_cap | 89912213284200.0 |
-| dividend_yield | 0.0 |
-| pe | 12.7411111843 |
-| pb | 1.8798389586 |
-| ps | 2.1167975768 |
-| price_to_cash_flow | 1.7925167981 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 23.1508724265 |
-| roe | 0.1451545166 |
-| roa | 0.0060655587 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.649532635 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.2121052885 |
-| after_tax_profit_margin | 0.1661391636 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0297730476 |
-| average_yield_on_earning_assets | 0.0742036624 |
-| average_cost_of_financing | -0.0463053078 |
-| non_and_interest_income | 0.2258447855 |
-| cost_to_income | -0.2464581024 |
-| loans_growth | 0.0147262498 |
-| deposit_growth | 0.0584654673 |
-| equity_to_liabilities | 0.0431949164 |
-| equity_to_loans | 0.0578128864 |
-| total_equity_total_asset | 0.0414063717 |
-| ldr_loan_deposit_ratio | 0.9656058472 |
-| npl | 0.0161696317 |
-| loans_loss_reserves_to_np_ls | -0.8067619567 |
-| loans_loss_reserve_to_loans | 0.0130450437 |
-| provision_to_outstanding_loans | -0.0219933179 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.2464581024 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.177365682 |
-| nob66 | 154936424000000.0 |
-| nob69 | 0.0 |
-| nob70 | 6475835000000.0 |
-| bsb113 | 910053496000000.0 |
-| ratio_year_id | nan |
+| pe | 9.28 |
+| pb | 1.50 |
+| roe | 19.14 |
+| roe_pct_rank | 67 |
+| roa | 0.98 |
+| roa_pct_rank | 36 |
+| eps | 4403 |
+| bvps | 27149.03 |
+| beta | 0.9 |
+| dividend | 450 |
+| yield | 0.011097410604192354 |
+| pe_pct_rank | 42 |
+| pb_pct_rank | 59 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |       KL | vs Avg60   | Turnover (%)   |
-|:-----------|---------:|:-----------|:---------------|
-| 2026-04-23 | 23927000 | +186.3%    | 0.329%         |
-| 2026-04-24 |  4703800 | -43.7%     | 0.065%         |
-| 2026-04-28 |  6600700 | -21.0%     | 0.091%         |
-| 2026-04-29 |  6693000 | -19.9%     | 0.092%         |
-| 2026-05-04 |  6495500 | -22.3%     | 0.089%         |
+| Ngày       |      KL | vs Avg60   | Turnover (%)   |
+|:-----------|--------:|:-----------|:---------------|
+| 2026-04-24 | 4703800 | -43.3%     | 0.065%         |
+| 2026-04-28 | 6600700 | -20.4%     | 0.091%         |
+| 2026-04-29 | 6693000 | -19.3%     | 0.092%         |
+| 2026-05-04 | 6495500 | -21.7%     | 0.089%         |
+| 2026-05-05 | 3474000 | -58.1%     | 0.048%         |
 
-- KL trung bình 60 phiên: **8,356,573**
+- KL trung bình 60 phiên: **8,296,436**
 - Số CP lưu hành: **7,280,065,210**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                           | public_date         | news_source_link   |
-|:---------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| BID: Thông báo công văn của VSDC về việc chứng nhận điều chỉnh thông tin số lượng cổ phiếu đăng ký của BID           | 2026-04-29T18:52:44 |                    |
-| BID: HĐQT thông qua hợp đồng thuê thêm diện tích trụ sở CN Hoàn Kiếm                                                 | 2026-04-29T14:35:52 |                    |
-| BID: Thông báo quyết định của NHNN về việc sửa đổi nội dung vốn điều lệ tại Giấy phép thành lập và hoạt động của BID | 2026-04-28T16:57:12 |                    |
-| BID: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu riêng lẻ năm 2026                              | 2026-04-28T16:54:17 |                    |
-| BID: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu tăng vốn theo hình thức riêng lẻ năm 2026      | 2026-04-28T16:53:05 |                    |
-| BID: Thông báo công văn của UBCKNN về tài liệu báo cáo triển khai chào bán trái phiếu đợt 2 của BID                  | 2026-04-28T16:51:27 |                    |
-| BID: Thông báo thay đổi nhân sự thành viên HĐQT, BKS                                                                 | 2026-04-28T15:38:00 |                    |
-| BID: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                               | 2026-04-28T14:41:00 |                    |
-| BID: Nghị quyết HĐQT về việc cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên năm 2026                                   | 2026-04-24T08:58:39 |                    |
-| BID: Báo cáo thường niên năm 2025                                                                                    | 2026-04-20T10:07:03 |                    |
+| title                                                                                                                | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BID: Các Quyết định chấp thuận niêm yết trái phiếu                                                                   | 2026-05-04T15:36:44     | /2026/05/bid-cac-quyet-dinh-chap-thuan-niem-yet-trai-phieu-741-1437219.htm                                                |
+| Tăng dự phòng rủi ro, BIDV vẫn tăng 16% lãi trước thuế quý 1                                                         | 2026-04-30T10:46:38.177 | /2026/04/tang-du-phong-rui-ro-bidv-van-tang-16-lai-truoc-thue-quy-1-737-1436352.htm                                       |
+| BID: Thông báo công văn của VSDC về việc chứng nhận điều chỉnh thông tin số lượng cổ phiếu đăng ký của BID           | 2026-04-29T18:52:44     | /2026/04/bid-thong-bao-cong-van-cua-vsdc-ve-viec-chung-nhan-dieu-chinh-thong-tin-so-luong-co-phieu-dang-ky-cua-bid-830-1… |
+| BID: HĐQT thông qua hợp đồng thuê thêm diện tích trụ sở CN Hoàn Kiếm                                                 | 2026-04-29T14:35:52     | /2026/04/bid-hdqt-thong-qua-hop-dong-thue-them-dien-tich-tru-so-cn-hoan-kiem-830-1435544.htm                              |
+| BID: Thông báo quyết định của NHNN về việc sửa đổi nội dung vốn điều lệ tại Giấy phép thành lập và hoạt động của BID | 2026-04-28T16:57:12     | /2026/04/bid-thong-bao-quyet-dinh-cua-nhnn-ve-viec-sua-doi-noi-dung-von-dieu-le-tai-giay-phep-thanh-lap-va-hoat-dong-cua… |
+| BID: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu riêng lẻ năm 2026                              | 2026-04-28T16:54:17     | /2026/04/bid-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-rieng-le-nam-2026-737-1434902.htm           |
+| BID: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu tăng vốn theo hình thức riêng lẻ năm 2026      | 2026-04-28T16:53:05     | /2026/04/bid-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-tang-von-theo-hinh-thuc-rieng-le-nam-2026-… |
+| BID: Thông báo công văn của UBCKNN về tài liệu báo cáo triển khai chào bán trái phiếu đợt 2 của BID                  | 2026-04-28T16:52:52     | /2026/04/bid-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-trien-khai-chao-ban-trai-phieu-dot-2-cua-bid-739-1434878.… |
+| BID: Thông báo thay đổi nhân sự thành viên HĐQT, BKS                                                                 | 2026-04-28T15:38:22     | /2026/04/bid-thong-bao-thay-doi-nhan-su-thanh-vien-hdqt-bks-214-1434774.htm                                               |
+| BID: Thông báo về chào bán trái phiếu ra công chúng (đợt 2)                                                          | 2026-04-28T15:37:20     | /2026/04/bid-thong-bao-ve-chao-ban-trai-phieu-ra-cong-chung-dot-2-739-1434772.htm                                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-03-25T00:00:00 | 2026-03-24T00:00:00 | 2026-03-24T00:00:00 |
-| 2026-03-05T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2025-10-08T00:00:00 | 2025-10-15T00:00:00 | 2025-10-14T00:00:00 |
-| 2025-05-14T00:00:00 | nan                 | nan                 |
-| 2025-03-03T00:00:00 | 2025-02-28T00:00:00 | 2025-02-28T00:00:00 |
-| 2025-02-21T00:00:00 | 2025-03-10T00:00:00 | 2025-03-07T00:00:00 |
-| 2025-01-17T00:00:00 | nan                 | nan                 |
-| 2024-12-17T00:00:00 | 2024-12-24T00:00:00 | 2024-12-23T00:00:00 |
-| 2024-03-08T00:00:00 | 2024-03-26T00:00:00 | 2024-03-25T00:00:00 |
-| 2024-01-17T00:00:00 | nan                 | nan                 |
-| 2024-01-04T00:00:00 | nan                 | nan                 |
-| 2023-12-15T00:00:00 | 2023-12-29T00:00:00 | 2023-12-28T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.46% |
-| % Cổ phiếu hôm nay | +1.87% |
-| RS (CP − Ngành) | +1.41% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | -0.25% |
+| % Cổ phiếu hôm nay | -0.73% |
+| RS (CP − Ngành) | -0.48% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BID      | 2025-12-16 00:00:00 |  37.1  |  37.75 | 36.85 |   37.4  |  2060100 |
 | BID      | 2025-12-17 00:00:00 |  37.45 |  38.5  | 37.45 |   38    |  4085100 |
 | BID      | 2025-12-18 00:00:00 |  38.1  |  38.3  | 37.9  |   38    |  1238300 |
 | BID      | 2025-12-19 00:00:00 |  38    |  38.15 | 37.6  |   37.7  |  2050700 |
@@ -304,21 +222,22 @@
 | BID      | 2026-04-28 00:00:00 |  40.9  |  41.1  | 40.05 |   40.15 |  6600700 |
 | BID      | 2026-04-29 00:00:00 |  40.2  |  40.35 | 39.7  |   40.1  |  6693000 |
 | BID      | 2026-05-04 00:00:00 |  40.4  |  41.3  | 40.1  |   40.85 |  6495500 |
+| BID      | 2026-05-05 00:00:00 |  40.6  |  40.8  | 40.2  |   40.55 |  3474000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BID      | 2026-05-04 14:27:31 |    40.7 |      200 | Sell         | 469996782 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      700 | Sell         | 469996793 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      100 | Sell         | 469996792 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      100 | Sell         | 469996791 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      500 | Sell         | 469996790 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      100 | Sell         | 469996784 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |     2000 | Sell         | 469996788 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |     1000 | Sell         | 469996787 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |     1000 | Sell         | 469996786 |
-| BID      | 2026-05-04 14:27:31 |    40.7 |      100 | Sell         | 469996785 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |     1000 | Sell         | 470592064 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |     3400 | Sell         | 470592069 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |      600 | Sell         | 470592068 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |      200 | Sell         | 470592065 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |     1700 | Sell         | 470592066 |
+| BID      | 2026-05-05 14:25:30 |    40.5 |      500 | Sell         | 470592067 |
+| BID      | 2026-05-05 14:25:38 |    40.5 |     1000 | Sell         | 470592376 |
+| BID      | 2026-05-05 14:25:41 |    40.5 |      600 | Sell         | 470592575 |
+| BID      | 2026-05-05 14:25:41 |    40.5 |     1400 | Sell         | 470592576 |
+| BID      | 2026-05-05 14:25:42 |    40.5 |      600 | Sell         | 470592624 |
 
 <!-- END:DAILY -->
 

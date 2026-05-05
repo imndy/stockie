@@ -1,6 +1,6 @@
 # CTR — Tổng Công ty cổ phần Công trình Viettel
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 04/05/2026 20:11  |  🗂 Quarterly: 03/05/2026 13:59
+> 📅 Daily: 05/05/2026 21:04  |  🗂 Quarterly: 03/05/2026 13:59
 
 ---
 
@@ -10,211 +10,129 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTR |
-| organ_code | CTR |
-| current_price | 85900.0 |
-| market_cap | 9825747006100.0 |
-| number_of_shares_mkt_cap | 114385879.0 |
-| ticker | CTR |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 14-Apr-26 |
-| en_organ_name | Viettel Construction Joint Stock Corporation |
-| en_organ_short_name | Viettel Construction |
-| vi_organ_name | Tổng Công ty Cổ phần Công trình Viettel |
-| vi_organ_short_name | Công trình Viettel |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Construction & Materials |
-| sector_vn | Xây dựng và Vật liệu |
-| average_match_value1_month | 27641658468.181816 |
-| average_match_volume1_month | 321500.0 |
-| highest_price1_year | 113000.0 |
-| lowest_price1_year | 75500.0 |
-| foreigner_percentage | 0.05194185 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.65661728 |
-| analyst | Nguyen Nguyen |
-| upside_to_target_percent | 0.1268917346 |
-| dividend_per_share_tsr | 1500.0 |
-| projected_tsr_percentage | 0.1443538999 |
-| target_price | 96800.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Viettel Construction Joint Stock&nbsp;Corporation (CTR), a subsidiary of Viettel Group, is a big company in th… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tổng C&ocirc;ng ty Cổ phần C&ocirc;ng tr&igrave;nh Viettel (CTR), một c&ocirc;ng ty con của Tập đo&agrave;n Vi… |
-| in_cu | True |
-| icb_code_lv2 | 2300 |
-| icb_code_lv4 | 2357 |
-| free_float | 40035057 |
-| free_float_percentage | 0.3499999943 |
-| listing_date | 2017-10-31T00:00:00 |
-| prev_insight | {'targetPrice': 100400.0, 'rating': 'O-PF', 'ratingAsOf': '12-Sep-25', 'analyst': 'Nguyen Nguyen', 'version': '20260413'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 9608413836000 |
+| 52w_high | 108000 |
+| 52w_high_date | 2026-01-14 |
+| 52w_low | 78600 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 5.2045 |
+| dividend | 2150 |
+| beta | 0.76 |
+| eps | 5488 |
+| eps_forward | 15.64991273932321 |
+| bvps | 19358 |
+| pe | 15.51 |
+| pb | 4.40 |
+| price_chg_1m | -1.06 |
+| price_chg_ytd | -0.90 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.025595238095238095 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 85.1 |
-| MA5 | 86.3 |
-| MA10 | 86.37 |
-| EMA20 | 85.965 |
-| EMA50 | 86.697 |
-| Slope MA20 (5p, %) | 0.2 |
-| ATR(14) | 2.125 |
-| RSI(14) | 46.4 |
+| Giá đóng cửa | 84.0 |
+| MA5 | 85.9 |
+| MA10 | 86.09 |
+| EMA20 | 85.777 |
+| EMA50 | 86.571 |
+| Slope MA20 (5p, %) | -0.04 |
+| ATR(14) | 2.13 |
+| RSI(14) | 42.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.099 |
-| MACD Signal | 0.083 |
-| MACD Histogram | 0.016 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 487457 |
+| MACD | -0.075 |
+| MACD Signal | 0.052 |
+| MACD Histogram | -0.127 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 482058 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    91.7   | 0.95        | 1             |
-| 🔴 Kháng cự     |    88.1   | 1.28        | 1             |
-| 🔴 Kháng cự     |    86.4   | 0.56        | 1             |
-| ▶ Giá hiện tại |    85.1   | —           | —             |
-| 🟢 Hỗ trợ       |    82.871 | 1.96        | 2             |
-| 🟢 Hỗ trợ       |    77.9   | 1.11        | 1             |
-| 🟢 Hỗ trợ       |    75.5   | 1.21        | 1             |
+| 🔴 Kháng cự    |    91.7   | 0.94        | 1             |
+| 🔴 Kháng cự    |    88.1   | 1.27        | 1             |
+| 🔴 Kháng cự    |    86.4   | 0.55        | 1             |
+| ▶ Giá hiện tại |    84     | —           | —             |
+| 🟢 Hỗ trợ      |    83.132 | 3.37        | 3             |
+| 🟢 Hỗ trợ      |    77.9   | 1.1         | 1             |
+| 🟢 Hỗ trợ      |    75.5   | 1.19        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTR |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699382 |
-| ratio_type | RATIO_TTM |
-| organ_code | CTR |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 47123341 |
-| market_cap | 1172711464126.0 |
-| dividend_yield | 0.0 |
-| pe | 10.3495611378 |
-| pb | 1.6209990606 |
-| ps | 0.3094613958 |
-| price_to_cash_flow | 12.4783783168 |
-| ev_to_ebitda | 7.6175141474 |
-| cash_ratio | 0.1835552588 |
-| quick_ratio | 1.1021640301 |
-| current_ratio | 1.6326546133 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0019279095 |
-| debt_to_equity | 1.495317993 |
-| roe | 0.1679591216 |
-| roa | 0.0623326585 |
-| day_sale_outstanding | 74.7042975914 |
-| days_inventory_outstanding | 52.1465684567 |
-| days_payable_outstanding | 31.0823023029 |
-| gross_margin | 0.057941557 |
-| ebit_margin | 0.0329231103 |
-| pre_tax_profit_margin | 0.0403416767 |
-| after_tax_profit_margin | 0.0299138153 |
-| asset_turnover | 2.0846401813 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 124762924716.0 |
-| ebitda | 128053915765.0 |
-| roic | 0.1720487365 |
-| cash_cycle | 183.2813207767 |
-| fixed_asset_turnover | 127.7572803342 |
-| financial_leverage | 1.495317993 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 15.51 |
+| pb | 4.40 |
+| roe | 30.5 |
+| roe_pct_rank | 90 |
+| roa | 7.85 |
+| roa_pct_rank | 60 |
+| eps | 5488 |
+| bvps | 19358 |
+| beta | 0.76 |
+| dividend | 2150 |
+| yield | 0.025595238095238095 |
+| pe_pct_rank | 56 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-23 | 310000 | -36.4%     | 0.271%         |
-| 2026-04-24 | 918900 | +88.5%     | 0.803%         |
-| 2026-04-28 | 175600 | -64.0%     | 0.154%         |
-| 2026-04-29 | 293300 | -39.8%     | 0.256%         |
-| 2026-05-04 | 179200 | -63.2%     | 0.157%         |
+| 2026-04-24 | 918900 | +90.6%     | 0.803%         |
+| 2026-04-28 | 175600 | -63.6%     | 0.154%         |
+| 2026-04-29 | 293300 | -39.2%     | 0.256%         |
+| 2026-05-04 | 179200 | -62.8%     | 0.157%         |
+| 2026-05-05 | 238900 | -50.4%     | 0.209%         |
 
-- KL trung bình 60 phiên: **487,456**
+- KL trung bình 60 phiên: **482,058**
 - Số CP lưu hành: **114,385,879**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                      | public_date         | news_source_link   |
-|:----------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| CTR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                          | 2026-04-24T14:24:19 |                    |
-| CTR: Báo cáo thường niên năm 2025                                                                               | 2026-04-09T17:17:55 |                    |
-| Viettel Contruction (CTR) đặt mục tiêu lợi nhuận 2026 tăng 3,8%, muốn lấn sân kinh doanh kim loại, BESS         | 2026-04-06T15:28:00 |                    |
-| CTR: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026                                                       | 2026-04-01T17:54:41 |                    |
-| CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026                  | 2026-02-10T09:11:36 |                    |
-| CTR: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                  | 2026-02-03T18:12:49 |                    |
-| CTR: Báo cáo tình hình quản trị công ty năm 2025                                                                | 2026-01-30T18:45:33 |                    |
-| CTR: Nghị quyết HĐQT về việc phê duyệt kế hoạch SXKD, kế hoạch đầu tư, kế hoạch lao động và tiền lương năm 2026 | 2026-01-23T14:22:58 |                    |
-| CTR: Nghị quyết HĐQT về việc thông qua kế hoạch tổ chức ĐHĐCĐ TN 2026                                           | 2026-01-23T14:21:11 |                    |
-| CTR: Thông báo thay đổi nhân sự                                                                                 | 2026-01-23T14:20:08 |                    |
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| CTR: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-28T00:00:00     | /2026/04/ctr-bctc-hop-nhat-quy-1-nam-2026-737-1435367.htm                                                              |
+| CTR: BCTC quý 1 năm 2026                                                                       | 2026-04-28T00:00:00     | /2026/04/ctr-bctc-quy-1-nam-2026-737-1435368.htm                                                                       |
+| CTR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                         | 2026-04-24T14:25:15     | /2026/04/ctr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433280.htm                                         |
+| ĐHĐCĐ CTR: Tăng tốc giai đoạn mới, phát triển nhà ở xã hội mang thương hiệu Viettel            | 2026-04-23T09:08:11.547 | /2026/04/dhdcd-ctr-tang-toc-giai-doan-moi-phat-trien-nha-o-xa-hoi-mang-thuong-hieu-viettel-737-1432164.htm             |
+| CTR: Báo cáo thường niên năm 2025                                                              | 2026-04-09T17:17:55     | /2026/04/ctr-bao-cao-thuong-nien-nam-2025-737-1425656.htm                                                              |
+| CTR: Thông báo về việc tổ chức ĐHĐCĐ thường niên năm 2026                                      | 2026-04-01T17:54:41     | /2026/04/ctr-thong-bao-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1421155.htm                                      |
+| CTR: BCTC năm 2025                                                                             | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-nam-2025-737-1414375.htm                                                                             |
+| CTR: BCTC Hợp nhất năm 2025                                                                    | 2026-03-19T00:00:00     | /2026/03/ctr-bctc-hop-nhat-nam-2025-737-1414376.htm                                                                    |
+| CTR: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-02-10T09:18:55     | /2026/02/ctr-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1402193.htm |
+| Phân tích kỹ thuật phiên chiều 05/02: Stochastic Oscillator về vùng oversold                   | 2026-02-05T13:04:27.347 | /2026/02/phan-tich-ky-thuat-phien-chieu-0502-stochastic-oscillator-ve-vung-oversold-585-1400831.htm                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-02-10T00:00:00 | 2026-03-09T00:00:00 | 2026-03-06T00:00:00 |
-| 2025-10-30T00:00:00 | nan                 | nan                 |
-| 2025-09-19T00:00:00 | 2025-10-01T00:00:00 | 2025-09-30T00:00:00 |
-| 2025-01-24T00:00:00 | 2025-02-18T00:00:00 | 2025-02-17T00:00:00 |
-| 2024-11-15T00:00:00 | nan                 | nan                 |
-| 2024-09-24T00:00:00 | 2024-09-30T00:00:00 | 2024-09-27T00:00:00 |
-| 2024-02-07T00:00:00 | 2024-03-08T00:00:00 | 2024-03-07T00:00:00 |
-| 2024-01-10T00:00:00 | 2024-01-19T00:00:00 | 2024-01-18T00:00:00 |
-| 2023-09-27T00:00:00 | nan                 | nan                 |
-| 2023-06-22T00:00:00 | 2023-06-30T00:00:00 | 2023-06-29T00:00:00 |
-| 2023-05-18T00:00:00 | nan                 | nan                 |
-| 2023-02-22T00:00:00 | 2023-03-10T00:00:00 | 2023-03-09T00:00:00 |
-| 2022-08-03T00:00:00 | nan                 | nan                 |
-| 2022-06-14T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Công nghệ và thông tin |
-| % Ngành hôm nay | -2.12% |
-| % Cổ phiếu hôm nay | -0.93% |
-| RS (CP − Ngành) | +1.19% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.56% |
+| % Cổ phiếu hôm nay | -1.29% |
+| RS (CP − Ngành) | -1.85% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTR      | 2025-12-16 00:00:00 |   83.4 |   83.8 |  82   |    83.8 |   254700 |
 | CTR      | 2025-12-17 00:00:00 |   84   |   86.4 |  83.8 |    84.8 |   316400 |
 | CTR      | 2025-12-18 00:00:00 |   84.6 |   84.6 |  83.8 |    83.8 |   126900 |
 | CTR      | 2025-12-19 00:00:00 |   83.4 |   83.8 |  83.3 |    83.7 |   153700 |
@@ -304,21 +222,22 @@
 | CTR      | 2026-04-28 00:00:00 |   87.2 |   87.3 |  86.2 |    87.3 |   175600 |
 | CTR      | 2026-04-29 00:00:00 |   87.2 |   87.2 |  85   |    85.9 |   293300 |
 | CTR      | 2026-05-04 00:00:00 |   85.4 |   86.4 |  85   |    85.1 |   179200 |
+| CTR      | 2026-05-05 00:00:00 |   85.7 |   85.7 |  83.5 |    84   |   238900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTR      | 2026-05-04 14:04:30 |    85.2 |      300 | Sell         | 469926145 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      200 | Sell         | 469928257 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      100 | Sell         | 469928256 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      400 | Sell         | 469928252 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      100 | Sell         | 469928254 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      100 | Sell         | 469928253 |
-| CTR      | 2026-05-04 14:05:15 |    85.2 |      100 | Sell         | 469928255 |
-| CTR      | 2026-05-04 14:06:00 |    85.2 |      300 | Sell         | 469929695 |
-| CTR      | 2026-05-04 14:06:00 |    85.2 |      100 | Sell         | 469929693 |
-| CTR      | 2026-05-04 14:06:00 |    85.2 |      100 | Sell         | 469929694 |
+| CTR      | 2026-05-05 13:52:31 |    84.1 |      100 | Sell         | 470479421 |
+| CTR      | 2026-05-05 13:53:05 |    84.1 |      100 | Sell         | 470482031 |
+| CTR      | 2026-05-05 13:53:05 |    84.1 |      100 | Sell         | 470482030 |
+| CTR      | 2026-05-05 13:53:05 |    84.1 |      600 | Sell         | 470482027 |
+| CTR      | 2026-05-05 13:53:05 |    84.1 |      100 | Sell         | 470482028 |
+| CTR      | 2026-05-05 13:53:05 |    84.1 |      100 | Sell         | 470482029 |
+| CTR      | 2026-05-05 13:53:16 |    84   |      300 | Sell         | 470482701 |
+| CTR      | 2026-05-05 13:53:16 |    84.1 |      200 | Sell         | 470482699 |
+| CTR      | 2026-05-05 13:53:17 |    84   |      100 | Sell         | 470482744 |
+| CTR      | 2026-05-05 13:55:22 |    84.1 |      100 | Buy          | 470491513 |
 
 <!-- END:DAILY -->
 

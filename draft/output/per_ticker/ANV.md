@@ -1,6 +1,6 @@
 # ANV — CTCP Nam Việt
 **Sàn:** HOSE  |  **Ngành:** Chế biến Thủy sản
-> 📅 Daily: 04/05/2026 20:10  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 05/05/2026 21:02  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
@@ -10,213 +10,125 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | ANV |
-| organ_code | ANV |
-| current_price | 23900.0 |
-| market_cap | 6363512425000.0 |
-| number_of_shares_mkt_cap | 266255750.0 |
-| ticker | ANV |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Nam Viet Corporation |
-| en_organ_short_name | Nam Viet |
-| vi_organ_name | Công ty Cổ phần Nam Việt |
-| vi_organ_short_name | Thủy sản Nam Việt |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 20885421268.181816 |
-| average_match_volume1_month | 857034.0 |
-| highest_price1_year | 33399.0 |
-| lowest_price1_year | 13602.0 |
-| foreigner_percentage | 0.04070308 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Nam Viet Corporation (ANV), formerly known as Nam Viet Limited Company, was established in 1993. The Comp… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Nam Việt (ANV) c&oacute;&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Nam Việt… |
-| in_cu | False |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3573 |
-| free_float | 79876725 |
-| free_float_percentage | 0.3 |
-| listing_date | 2007-12-07T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 6243697337500 |
+| 52w_high | 32285 |
+| 52w_high_date | 2025-10-13 |
+| 52w_low | 14230 |
+| 52w_low_date | 2025-05-15 |
+| foreign_ownership | 4.085 |
+| dividend | 1000 |
+| beta | 0.87 |
+| eps | 3992 |
+| eps_forward | 5.968862227694025 |
+| bvps | 13980 |
+| pe | 6.00 |
+| pb | 1.71 |
+| price_chg_1m | -0.64 |
+| price_chg_ytd | 58.33 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.042643923240938165 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 23.95 |
-| MA5 | 24.12 |
-| MA10 | 24.56 |
-| EMA20 | 24.336 |
-| EMA50 | 24.704 |
-| Slope MA20 (5p, %) | -0.62 |
-| ATR(14) | 0.718 |
-| RSI(14) | 45.8 |
+| Giá đóng cửa | 23.45 |
+| MA5 | 23.98 |
+| MA10 | 24.43 |
+| EMA20 | 24.251 |
+| EMA50 | 24.654 |
+| Slope MA20 (5p, %) | -0.83 |
+| ATR(14) | 0.713 |
+| RSI(14) | 41.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.018 |
-| MACD Signal | 0.036 |
-| MACD Histogram | -0.054 |
+| MACD | -0.088 |
+| MACD Signal | 0.011 |
+| MACD Histogram | -0.099 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 1439990 |
+| KL avg 60 phiên | 1352138 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     25.48 | 4.11        | 3             |
-| 🔴 Kháng cự     |     25    | 0.95        | 1             |
-| 🔴 Kháng cự     |     24.4  | 0.73        | 1             |
-| ▶ Giá hiện tại |     23.95 | —           | —             |
-| 🟢 Hỗ trợ       |     22.75 | 1.32        | 1             |
-| 🟢 Hỗ trợ       |     21.85 | 1.11        | 1             |
-| 🟢 Hỗ trợ       |     21.45 | 1.21        | 1             |
+| 🔴 Kháng cự    |     25.48 | 4.08        | 3             |
+| 🔴 Kháng cự    |     25    | 0.94        | 1             |
+| 🔴 Kháng cự    |     24.4  | 0.72        | 1             |
+| ▶ Giá hiện tại |     23.45 | —           | —             |
+| 🟢 Hỗ trợ      |     22.75 | 1.31        | 1             |
+| 🟢 Hỗ trợ      |     21.85 | 1.1         | 1             |
+| 🟢 Hỗ trợ      |     21.45 | 1.19        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | ANV |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2697808 |
-| ratio_type | RATIO_TTM |
-| organ_code | ANV |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 124649875 |
-| market_cap | 2362115131250.0 |
-| dividend_yield | 0.0 |
-| pe | 12.9908202356 |
-| pb | 1.6081923442 |
-| ps | 0.7691695569 |
-| price_to_cash_flow | 1.4113454266 |
-| ev_to_ebitda | 10.0587548218 |
-| cash_ratio | 0.0041756044 |
-| quick_ratio | 0.3167607942 |
-| current_ratio | 0.899706479 |
-| owners_equity | 0.037836 |
-| debt_per_equity | 0.8265241981 |
-| debt_to_equity | 1.0551731812 |
-| roe | 0.1324224301 |
-| roa | 0.0663175217 |
-| day_sale_outstanding | 81.6796619059 |
-| days_inventory_outstanding | 130.5219418176 |
-| days_payable_outstanding | 20.5648410465 |
-| gross_margin | 0.1533142038 |
-| ebit_margin | 0.0921270262 |
-| pre_tax_profit_margin | 0.0688954071 |
-| after_tax_profit_margin | 0.0597656498 |
-| asset_turnover | 1.120063834 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 282921549031.0 |
-| ebitda | 354966050968.0 |
-| roic | 0.1054015791 |
-| cash_cycle | 200.060018433 |
-| fixed_asset_turnover | 6.018137308 |
-| financial_leverage | 1.0551731812 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 6.00 |
+| pb | 1.71 |
+| eps | 3992 |
+| bvps | 13980 |
+| beta | 0.87 |
+| dividend | 1000 |
+| yield | 0.042643923240938165 |
+| pe_pct_rank | 34 |
+| pb_pct_rank | 65 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |      KL | vs Avg60   | Turnover (%)   |
-|:-----------|--------:|:-----------|:---------------|
-| 2026-04-23 | 1105500 | -23.2%     | 0.415%         |
-| 2026-04-24 |  789900 | -45.1%     | 0.297%         |
-| 2026-04-28 |  413000 | -71.3%     | 0.155%         |
-| 2026-04-29 |  720100 | -50.0%     | 0.270%         |
-| 2026-05-04 |  218200 | -84.8%     | 0.082%         |
+| Ngày       |     KL | vs Avg60   | Turnover (%)   |
+|:-----------|-------:|:-----------|:---------------|
+| 2026-04-24 | 789900 | -41.6%     | 0.297%         |
+| 2026-04-28 | 413000 | -69.5%     | 0.155%         |
+| 2026-04-29 | 720100 | -46.7%     | 0.270%         |
+| 2026-05-04 | 218200 | -83.9%     | 0.082%         |
+| 2026-05-05 | 432500 | -68.0%     | 0.162%         |
 
-- KL trung bình 60 phiên: **1,439,990**
+- KL trung bình 60 phiên: **1,352,138**
 - Số CP lưu hành: **266,255,750**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| ANV: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                       | 2026-04-28T17:31:16 |                    |
-| ANV: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026    | 2026-04-24T09:31:12 |                    |
-| ANV: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                   | 2026-04-24T09:30:32 |                    |
-| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên                           | 2026-04-17T09:36:50 |                    |
-| ANV: Báo cáo thường niên năm 2025                                                                 | 2026-04-08T10:56:49 |                    |
-| ANV: Phó TGĐ thường trực đăng ký mua 1 triệu cổ phiếu                                             | 2026-03-24T09:18:00 |                    |
-| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên                           | 2026-03-23T18:05:44 |                    |
-| ANV: Phó TGĐ thường trực đăng ký mua 1 triệu cổ phiếu                                             | 2026-03-11T08:28:00 |                    |
-| ANV: Biên bản họp và Nghị quyết HĐQT về việc gia hạn thời gian tổ chức ĐHĐCĐ thường niên năm 2026 | 2026-03-06T11:04:28 |                    |
-| ANV: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Đỗ Lập Nghiệp                            | 2026-01-29T10:10:35 |                    |
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| ANV: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                    | 2026-04-28T17:31:16     | /2026/04/anv-thong-bao-ve-ngay-dang-ky-cuoi-cung-tham-du-dhdcd-thuong-nien-nam-2026-737-1434985.htm                    |
+| ANV: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐ thường niên năm 2026                                | 2026-04-24T09:42:49     | /2026/04/anv-nghi-quyet-hdqt-ve-viec-to-chuc-dhdcd-thuong-nien-nam-2026-737-1433115.htm                                |
+| ANV: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-04-24T09:42:49     | /2026/04/anv-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1433116.htm |
+| ANV: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-23T00:00:00     | /2026/04/anv-bctc-hop-nhat-quy-1-nam-2026-737-1432551.htm                                                              |
+| ANV: BCTC quý 1 năm 2026                                                                       | 2026-04-23T00:00:00     | /2026/04/anv-bctc-quy-1-nam-2026-737-1432552.htm                                                                       |
+| Phó Tổng giám đốc Doãn Chí Thiên đã gom thêm 1 triệu cổ phiếu ANV                              | 2026-04-18T12:06:20.123 | /2026/04/pho-tong-giam-doc-doan-chi-thien-da-gom-them-1-trieu-co-phieu-anv-739-1429737.htm                             |
+| ANV: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Doãn Chí Thiên                        | 2026-04-17T09:39:52     | /2026/04/anv-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-chi-thien-739-1429017.htm                        |
+| ANV: Báo cáo thường niên năm 2025                                                              | 2026-04-08T11:01:17     | /2026/04/anv-bao-cao-thuong-nien-nam-2025-737-1424780.htm                                                              |
+| ANV: BCTC Hợp nhất năm 2025                                                                    | 2026-03-26T00:00:00     | /2026/03/anv-bctc-hop-nhat-nam-2025-737-1416888.htm                                                                    |
+| ANV: BCTC năm 2025                                                                             | 2026-03-26T00:00:00     | /2026/03/anv-bctc-nam-2025-737-1416890.htm                                                                             |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-17T00:00:00 | nan                 | nan                 |
-| 2026-03-23T00:00:00 | nan                 | nan                 |
-| 2026-01-29T00:00:00 | nan                 | nan                 |
-| 2026-01-26T00:00:00 | nan                 | nan                 |
-| 2025-10-10T00:00:00 | 2025-10-24T00:00:00 | 2025-10-23T00:00:00 |
-| 2025-10-10T00:00:00 | 2025-10-24T00:00:00 | 2025-10-23T00:00:00 |
-| 2025-09-04T00:00:00 | nan                 | nan                 |
-| 2025-08-01T00:00:00 | nan                 | nan                 |
-| 2025-06-03T00:00:00 | nan                 | nan                 |
-| 2025-05-27T00:00:00 | nan                 | nan                 |
-| 2025-05-16T00:00:00 | nan                 | nan                 |
-| 2025-05-12T00:00:00 | nan                 | nan                 |
-| 2025-05-07T00:00:00 | nan                 | nan                 |
-| 2025-05-06T00:00:00 | 2025-05-26T00:00:00 | 2025-05-23T00:00:00 |
-| 2025-04-25T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chế biến Thủy sản |
-| % Ngành hôm nay | +0.71% |
-| % Cổ phiếu hôm nay | +0.21% |
-| RS (CP − Ngành) | -0.50% |
+| % Ngành hôm nay | -0.20% |
+| % Cổ phiếu hôm nay | -2.09% |
+| RS (CP − Ngành) | -1.89% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ANV      | 2025-12-16 00:00:00 |  26.65 |  27.4  | 25.8  |   27.25 |  1444900 |
 | ANV      | 2025-12-17 00:00:00 |  27.5  |  27.5  | 27.05 |   27.05 |   287300 |
 | ANV      | 2025-12-18 00:00:00 |  27.1  |  27.5  | 27.05 |   27.3  |   407600 |
 | ANV      | 2025-12-19 00:00:00 |  27.35 |  27.35 | 27.05 |   27.1  |   505200 |
@@ -306,21 +218,22 @@
 | ANV      | 2026-04-28 00:00:00 |  24.6  |  24.6  | 24.2  |   24.3  |   413000 |
 | ANV      | 2026-04-29 00:00:00 |  24.3  |  24.4  | 23.5  |   23.9  |   720100 |
 | ANV      | 2026-05-04 00:00:00 |  23.95 |  24.25 | 23.9  |   23.95 |   218200 |
+| ANV      | 2026-05-05 00:00:00 |  23.9  |  23.95 | 23.3  |   23.45 |   432500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ANV      | 2026-05-04 13:00:23 |   24    |     1000 | Sell         | 469775228 |
-| ANV      | 2026-05-04 13:05:13 |   24    |      700 | Buy          | 469787074 |
-| ANV      | 2026-05-04 13:05:13 |   24    |      900 | Buy          | 469787075 |
-| ANV      | 2026-05-04 13:05:40 |   23.95 |      700 | Sell         | 469788158 |
-| ANV      | 2026-05-04 13:05:40 |   23.95 |      100 | Sell         | 469788149 |
-| ANV      | 2026-05-04 13:05:40 |   23.95 |      300 | Sell         | 469788157 |
-| ANV      | 2026-05-04 13:09:50 |   23.95 |      200 | Sell         | 469800340 |
-| ANV      | 2026-05-04 13:11:12 |   23.9  |      100 | Sell         | 469803785 |
-| ANV      | 2026-05-04 13:11:12 |   23.9  |      100 | Sell         | 469803784 |
-| ANV      | 2026-05-04 13:11:12 |   23.9  |      200 | Sell         | 469803786 |
+| ANV      | 2026-05-05 14:08:23 |   23.45 |     3000 | Sell         | 470537366 |
+| ANV      | 2026-05-05 14:08:23 |   23.45 |     1000 | Sell         | 470537367 |
+| ANV      | 2026-05-05 14:10:21 |   23.45 |      300 | Buy          | 470543067 |
+| ANV      | 2026-05-05 14:10:24 |   23.45 |      200 | Buy          | 470543264 |
+| ANV      | 2026-05-05 14:10:31 |   23.45 |      200 | Buy          | 470543865 |
+| ANV      | 2026-05-05 14:10:31 |   23.45 |      100 | Buy          | 470543864 |
+| ANV      | 2026-05-05 14:11:48 |   23.45 |     2000 | Buy          | 470547234 |
+| ANV      | 2026-05-05 14:11:48 |   23.45 |     1200 | Buy          | 470547235 |
+| ANV      | 2026-05-05 14:12:44 |   23.45 |     2700 | Sell         | 470549960 |
+| ANV      | 2026-05-05 14:12:44 |   23.45 |      500 | Sell         | 470549961 |
 
 <!-- END:DAILY -->
 

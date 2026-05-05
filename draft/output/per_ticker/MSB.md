@@ -1,6 +1,6 @@
 # MSB — Ngân hàng TMCP Hàng hải Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 04/05/2026 20:15  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 05/05/2026 21:08  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -11,22 +11,22 @@
 | --- | --- |
 | symbol | MSB |
 | exchange | HOSE |
-| market_cap | 39156000000000 |
+| market_cap | 39624000000000 |
 | 52w_high | 15417 |
 | 52w_high_date | 2025-09-04 |
 | 52w_low | 9333 |
 | 52w_low_date | 2025-05-07 |
-| foreign_ownership | 24.8783 |
+| foreign_ownership | 24.9416 |
 | dividend | 0 |
 | beta | 0.73 |
 | eps | 2061 |
-| eps_forward | 4.875004875004875 |
+| eps_forward | 4.894504894504895 |
 | bvps | 14095.48 |
-| pe | 6.07 |
+| pe | 6.09 |
 | pb | 0.89 |
-| price_chg_1m | 9.13 |
-| price_chg_ytd | 34.47 |
-| price_chg_1m_rank | 10.22 |
+| price_chg_1m | 10.43 |
+| price_chg_ytd | 35.47 |
+| price_chg_1m_rank | 11.46 |
 | price_chg_ytd_rank | 51.19 |
 | yield | 0 |
 | financial_date | 12/2025 |
@@ -36,40 +36,41 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.55 |
-| MA5 | 12.55 |
-| MA10 | 12.57 |
-| EMA20 | 12.336 |
-| EMA50 | 12.108 |
-| Slope MA20 (5p, %) | 1.12 |
-| ATR(14) | 0.259 |
-| RSI(14) | 59.8 |
+| Giá đóng cửa | 12.7 |
+| MA5 | 12.57 |
+| MA10 | 12.575 |
+| EMA20 | 12.371 |
+| EMA50 | 12.132 |
+| Slope MA20 (5p, %) | 1.09 |
+| ATR(14) | 0.265 |
+| RSI(14) | 63.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 0.234 |
-| MACD Signal | 0.248 |
-| MACD Histogram | -0.014 |
+| MACD Signal | 0.245 |
+| MACD Histogram | -0.011 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 6947635 |
+| KL avg 60 phiên | 7063493 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    13.031 | 2.72        | 3             |
-| ▶ Giá hiện tại |    12.55  | —           | —             |
-| 🟢 Hỗ trợ      |    12.4   | 2.86        | 2             |
-| 🟢 Hỗ trợ      |    12.35  | 1.03        | 1             |
-| 🟢 Hỗ trợ      |    12.139 | 2.92        | 4             |
+| 🔴 Kháng cự    |    13.1   | 1.36        | 1             |
+| 🔴 Kháng cự    |    12.961 | 2.76        | 3             |
+| ▶ Giá hiện tại |    12.7   | —           | —             |
+| 🟢 Hỗ trợ      |    12.4   | 2.84        | 2             |
+| 🟢 Hỗ trợ      |    12.35  | 1.02        | 1             |
+| 🟢 Hỗ trợ      |    12.126 | 2.33        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSB |
-| pe | 6.07 |
+| pe | 6.09 |
 | pb | 0.89 |
 | roe | 14.2 |
 | roe_pct_rank | 56 |
@@ -87,21 +88,23 @@
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |       KL | vs Avg60   | Turnover (%)   |
-|:-----------|---------:|:-----------|:---------------|
-| 2026-04-23 | 14550200 | +109.4%    | 0.466%         |
-| 2026-04-24 |  7110000 | +2.3%      | 0.228%         |
-| 2026-04-28 |  4096700 | -41.0%     | 0.131%         |
-| 2026-04-29 |  5034100 | -27.5%     | 0.161%         |
-| 2026-05-04 |  4245100 | -38.9%     | 0.136%         |
+| Ngày       |      KL | vs Avg60   | Turnover (%)   |
+|:-----------|--------:|:-----------|:---------------|
+| 2026-04-24 | 7110000 | +0.7%      | 0.228%         |
+| 2026-04-28 | 4096700 | -42.0%     | 0.131%         |
+| 2026-04-29 | 5034100 | -28.7%     | 0.161%         |
+| 2026-05-04 | 4245100 | -39.9%     | 0.136%         |
+| 2026-05-05 | 9907700 | +40.3%     | 0.318%         |
 
-- KL trung bình 60 phiên: **6,947,635**
+- KL trung bình 60 phiên: **7,063,493**
 - Số CP lưu hành: **3,120,000,000**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                | publishtime         | url                                                                                                                       |
 |:-----------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                        | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
+| MSB: Quyết định về việc chuyển địa điểm đặt trụ sở Chi nhánh Bắc Ninh (bao gồm ATM)                  | 2026-05-04T17:35:18 | /2026/05/msb-quyet-dinh-ve-viec-chuyen-dia-diem-dat-tru-so-chi-nhanh-bac-ninh-bao-gom-atm-737-1437420.htm                 |
 | Chất lượng nợ vay cải thiện, MSB tăng 16% lãi trước thuế quý 1                                       | 2026-05-01T14:07:00 | /2026/05/chat-luong-no-vay-cai-thien-msb-tang-16-lai-truoc-thue-quy-1-737-1436368.htm                                     |
 | MSB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                               | 2026-04-28T11:16:00 | /2026/04/msb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434463.htm                                            |
 | MSB: Thông báo thay đổi nhân sự                                                                      | 2026-04-28T11:15:58 | /2026/04/msb-thong-bao-thay-doi-nhan-su-214-1434465.htm                                                                   |
@@ -110,8 +113,6 @@
 | MSB: BCTC Hợp nhất quý 1 năm 2026                                                                    | 2026-04-24T00:00:00 | /2026/04/msb-bctc-hop-nhat-quy-1-nam-2026-737-1433456.htm                                                                 |
 | MSB: BCTC quý 1 năm 2026                                                                             | 2026-04-24T00:00:00 | /2026/04/msb-bctc-quy-1-nam-2026-737-1433457.htm                                                                          |
 | MSB: Báo cáo thường niên năm 2025                                                                    | 2026-04-21T14:07:13 | /2026/04/msb-bao-cao-thuong-nien-nam-2025-737-1431198.htm                                                                 |
-| MSB: Nghị quyết HĐQT phê duyệt hạn mức tín dụng cho người có liên quan của người nội bộ              | 2026-04-16T17:18:49 | /2026/04/msb-nghi-quyet-hdqt-phe-duyet-han-muc-tin-dung-cho-nguoi-co-lien-quan-cua-nguoi-noi-bo-737-1428741.htm           |
-| MSB: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Phó TGĐ                                     | 2026-04-15T16:54:51 | /2026/04/msb-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-pho-tgd-214-1428155.htm                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.46% |
-| % Cổ phiếu hôm nay | +0.40% |
-| RS (CP − Ngành) | -0.06% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.25% |
+| % Cổ phiếu hôm nay | +1.20% |
+| RS (CP − Ngành) | +1.45% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MSB      | 2025-12-16 00:00:00 |  12.25 |  12.6  | 12.2  |   12.5  |  3269400 |
 | MSB      | 2025-12-17 00:00:00 |  12.5  |  12.55 | 12.4  |   12.45 |  2611200 |
 | MSB      | 2025-12-18 00:00:00 |  12.4  |  12.5  | 12.35 |   12.5  |  2962500 |
 | MSB      | 2025-12-19 00:00:00 |  12.55 |  12.85 | 12.5  |   12.7  |  5507700 |
@@ -221,21 +221,22 @@ _Không có dữ liệu_
 | MSB      | 2026-04-28 00:00:00 |  12.6  |  12.65 | 12.5  |   12.5  |  4096700 |
 | MSB      | 2026-04-29 00:00:00 |  12.5  |  12.6  | 12.5  |   12.5  |  5034100 |
 | MSB      | 2026-05-04 00:00:00 |  12.55 |  12.65 | 12.5  |   12.55 |  4245100 |
+| MSB      | 2026-05-05 00:00:00 |  12.6  |  12.9  | 12.55 |   12.7  |  9907700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MSB      | 2026-05-04 14:25:20 |   12.55 |     1000 | Sell         | 469987653 |
-| MSB      | 2026-05-04 14:25:20 |   12.55 |     1100 | Sell         | 469987654 |
-| MSB      | 2026-05-04 14:25:22 |   12.6  |     3000 | Buy          | 469987727 |
-| MSB      | 2026-05-04 14:25:27 |   12.55 |     2300 | Sell         | 469988068 |
-| MSB      | 2026-05-04 14:25:27 |   12.55 |     1800 | Sell         | 469988065 |
-| MSB      | 2026-05-04 14:25:27 |   12.55 |      100 | Sell         | 469988066 |
-| MSB      | 2026-05-04 14:25:27 |   12.55 |      100 | Sell         | 469988067 |
-| MSB      | 2026-05-04 14:25:31 |   12.55 |     3700 | Sell         | 469988258 |
-| MSB      | 2026-05-04 14:25:35 |   12.55 |     3600 | Sell         | 469988488 |
-| MSB      | 2026-05-04 14:25:39 |   12.6  |      100 | Buy          | 469988639 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      200 | Sell         | 470581050 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      100 | Sell         | 470581060 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      500 | Sell         | 470581052 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      500 | Sell         | 470581053 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      600 | Sell         | 470581054 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      700 | Sell         | 470581055 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |     3000 | Sell         | 470581057 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      100 | Sell         | 470581059 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      300 | Sell         | 470581058 |
+| MSB      | 2026-05-05 14:22:21 |    12.7 |      500 | Sell         | 470581061 |
 
 <!-- END:DAILY -->
 

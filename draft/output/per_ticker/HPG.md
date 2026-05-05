@@ -1,6 +1,6 @@
 # HPG — CTCP Tập đoàn Hòa Phát
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 04/05/2026 20:14  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 05/05/2026 21:07  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -10,212 +10,128 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HPG |
-| organ_code | HPG |
-| current_price | 27750.0 |
-| market_cap | 212994177476250.0 |
-| number_of_shares_mkt_cap | 7675465855.0 |
-| ticker | HPG |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 04-Apr-26 |
-| en_organ_name | Hoa Phat Group Joint Stock Company |
-| en_organ_short_name | Hoa Phat Group |
-| vi_organ_name | Công ty Cổ phần Tập đoàn Hòa Phát |
-| vi_organ_short_name | Hòa Phát |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Basic Resources |
-| sector_vn | Tài nguyên Cơ bản |
-| average_match_value1_month | 989276823884.091 |
-| average_match_volume1_month | 35454848.0 |
-| highest_price1_year | 30850.0 |
-| lowest_price1_year | 20624.0 |
-| foreigner_percentage | 0.22714048 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | Huy Hoang |
-| upside_to_target_percent | 0.3189189189 |
-| dividend_per_share_tsr | 500.0 |
-| projected_tsr_percentage | 0.3369369369 |
-| target_price | 36600.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Hoa Phat Group Joint Stock Company (HPG) is a multi-sectoral industrial Group in Vietna… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Ho&agrave; Ph&aacute;t (HPG)&nbsp;l&agrave; một trong những Tập đo&… |
-| in_cu | True |
-| icb_code_lv2 | 1700 |
-| icb_code_lv4 | 1757 |
-| free_float | 4221506220 |
-| free_float_percentage | 0.55 |
-| listing_date | 2007-11-15T00:00:00 |
-| prev_insight | {'targetPrice': 35700.0, 'rating': 'BUY', 'ratingAsOf': '10-Nov-25', 'analyst': 'Huy Hoang', 'version': '20260413'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 209540217841500 |
+| 52w_high | 30350 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 21151 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 22.7406 |
+| dividend | 0 |
+| beta | 0.63 |
+| eps | 2887 |
+| eps_forward | 9.629205799852073 |
+| bvps | 18212 |
+| pe | 9.56 |
+| pb | 1.52 |
+| price_chg_1m | 2.44 |
+| price_chg_ytd | 27.56 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.6 |
-| MA5 | 27.76 |
-| MA10 | 27.995 |
-| EMA20 | 27.734 |
-| EMA50 | 27.413 |
-| Slope MA20 (5p, %) | 0.03 |
-| ATR(14) | 0.624 |
-| RSI(14) | 49.6 |
+| Giá đóng cửa | 27.3 |
+| MA5 | 27.66 |
+| MA10 | 27.93 |
+| EMA20 | 27.693 |
+| EMA50 | 27.414 |
+| Slope MA20 (5p, %) | -0.14 |
+| ATR(14) | 0.615 |
+| RSI(14) | 45.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | 0.199 |
-| MACD Signal | 0.27 |
-| MACD Histogram | -0.071 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.14 |
+| MACD Signal | 0.244 |
+| MACD Histogram | -0.104 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 44205678 |
+| KL avg 60 phiên | 44257080 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    29.594 | 2.44        | 2             |
-| 🔴 Kháng cự     |    28.491 | 1.68        | 2             |
-| 🔴 Kháng cự     |    27.7   | 0.64        | 1             |
-| ▶ Giá hiện tại |    27.6   | —           | —             |
-| 🟢 Hỗ trợ       |    26.273 | 1.79        | 2             |
-| 🟢 Hỗ trợ       |    25.328 | 2.99        | 3             |
+| 🔴 Kháng cự    |    29.594 | 2.42        | 2             |
+| 🔴 Kháng cự    |    28.491 | 1.66        | 2             |
+| 🔴 Kháng cự    |    27.7   | 0.63        | 1             |
+| ▶ Giá hiện tại |    27.3   | —           | —             |
+| 🟢 Hỗ trợ      |    26.273 | 1.77        | 2             |
+| 🟢 Hỗ trợ      |    25.328 | 2.96        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HPG |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698976 |
-| ratio_type | RATIO_TTM |
-| organ_code | HPG |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 2123907166 |
-| market_cap | 78690760500300.0 |
-| dividend_yield | 0.0 |
-| pe | 9.1408614173 |
-| pb | 1.6383790994 |
-| ps | 1.6092870911 |
-| price_to_cash_flow | 8.8109261347 |
-| ev_to_ebitda | 6.9458965121 |
-| cash_ratio | 0.3816338651 |
-| quick_ratio | 1.2381928106 |
-| current_ratio | 1.8873231067 |
-| owners_equity | 0.0603326371 |
-| debt_per_equity | 0.3592521155 |
-| debt_to_equity | 0.5811891176 |
-| roe | 0.2763486737 |
-| roa | 0.169518803 |
-| day_sale_outstanding | 13.6482495416 |
-| days_inventory_outstanding | 111.0633035613 |
-| days_payable_outstanding | 34.4814777353 |
-| gross_margin | 0.2285624609 |
-| ebit_margin | 0.2055598988 |
-| pre_tax_profit_margin | 0.1974297466 |
-| after_tax_profit_margin | 0.1697867597 |
-| asset_turnover | 1.0006522413 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 10051447533609.0 |
-| ebitda | 12150511172900.0 |
-| roic | 0.2147901517 |
-| cash_cycle | 183.6478846919 |
-| fixed_asset_turnover | 3.8112495795 |
-| financial_leverage | 0.5811891176 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 9.56 |
+| pb | 1.52 |
+| roe | 12.62 |
+| roe_pct_rank | 53 |
+| roa | 6.41 |
+| roa_pct_rank | 55 |
+| eps | 2887 |
+| bvps | 18212 |
+| beta | 0.63 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 60 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-23 | 41133900 | -6.9%      | 0.536%         |
 | 2026-04-24 | 23402000 | -47.1%     | 0.305%         |
 | 2026-04-28 | 14071500 | -68.2%     | 0.183%         |
 | 2026-04-29 | 17239200 | -61.0%     | 0.225%         |
 | 2026-05-04 | 32374300 | -26.8%     | 0.422%         |
+| 2026-05-05 | 30692800 | -30.6%     | 0.400%         |
 
-- KL trung bình 60 phiên: **44,205,678**
+- KL trung bình 60 phiên: **44,257,080**
 - Số CP lưu hành: **7,675,465,855**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                   | public_date         | news_source_link   |
-|:---------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HPG: Thông báo ngày ĐKCC thực hiện quyền chi trả cổ tức năm 2025 bằng tiền mặt               | 2026-04-29T14:34:22 |                    |
-| HPG: Nghị quyết HĐQT về việc triển khai phương án chi tiết chi trả cổ tức 2025               | 2026-04-29T11:13:13 |                    |
-| HPG: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                          | 2026-04-28T17:10:15 |                    |
-| HPG: Nghị quyết HĐQT về việc bầu Chủ tịch, Phó Chủ tịch HĐQT và TGĐ                          | 2026-04-24T09:56:00 |                    |
-| HPG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                       | 2026-04-23T13:34:45 |                    |
-| HPG: CBTT kết quả kinh doanh quý 1/2026                                                      | 2026-04-22T14:07:14 |                    |
-| HPG: Báo cáo phát triển bền vững năm 2025                                                    | 2026-04-21T17:18:33 |                    |
-| HPG: Thông báo đường dẫn báo cáo thường niên năm 2025                                        | 2026-04-15T16:51:23 |                    |
-| HPG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trần Vũ Minh | 2026-04-13T16:53:55 |                    |
-| Hòa Phát hợp tác với TÜV SÜD kiểm định và chứng nhận chất lượng ray đường sắt                | 2026-04-03T13:46:00 |                    |
+| title                                                                                 | publishtime             | url                                                                                                        |
+|:--------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
+| HPG: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền            | 2026-05-05T10:25:17     | /2026/05/hpg-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2025-bang-tien-737-1437727.htm         |
+| KBC, TCB và HPG có gì hấp dẫn?                                                        | 2026-05-04T11:46:27.21  | /2026/05/kbc-tcb-va-hpg-co-gi-hap-dan-145-1436849.htm                                                      |
+| Cổ đông HPG sắp nhận cổ tức tiền mặt đầu tiên sau 4 năm                               | 2026-04-29T17:52:50.463 | /2026/04/co-dong-hpg-sap-nhan-co-tuc-tien-mat-dau-tien-sau-4-nam-738-1435781.htm                           |
+| HPG: Thông báo ngày ĐKCC thực hiện quyền chi trả cổ tức năm 2025 bằng tiền mặt        | 2026-04-29T14:38:11     | /2026/04/hpg-thong-bao-ngay-dkcc-thuc-hien-quyen-chi-tra-co-tuc-nam-2025-bang-tien-mat-738-1435543.htm     |
+| HPG: Nghị quyết HĐQT về việc triển khai phương án chi tiết chi trả cổ tức 2025        | 2026-04-29T11:13:13     | /2026/04/hpg-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-chi-tiet-chi-tra-co-tuc-2025-737-1435380.htm     |
+| HPG: BCTC quý 1 năm 2026                                                              | 2026-04-29T00:00:00     | /2026/04/hpg-bctc-quy-1-nam-2026-737-1435965.htm                                                           |
+| HPG: BCTC Hợp nhất quý 1 năm 2026                                                     | 2026-04-29T00:00:00     | /2026/04/hpg-bctc-hop-nhat-quy-1-nam-2026-737-1437008.htm                                                  |
+| HPG: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                   | 2026-04-28T17:10:15     | /2026/04/hpg-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1434922.htm                                |
+| Digiworld báo lãi tăng 90% trong quý 1, rót thêm tiền vào cổ phiếu TCB, VPB, giảm HPG | 2026-04-27T11:02:00     | /2026/04/digiworld-bao-lai-tang-90-trong-quy-1-rot-them-tien-vao-co-phieu-tcb-vpb-giam-hpg-737-1434053.htm |
+| HPG: Nghị quyết HĐQT về việc bầu Chủ tịch, Phó Chủ tịch HĐQT và TGĐ                   | 2026-04-24T10:05:46     | /2026/04/hpg-nghi-quyet-hdqt-ve-viec-bau-chu-tich-pho-chu-tich-hdqt-va-tgd-737-1433135.htm                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-29T00:00:00 | nan                 | nan                 |
-| 2026-04-29T00:00:00 | nan                 | nan                 |
-| 2026-04-13T00:00:00 | nan                 | nan                 |
-| 2026-03-03T00:00:00 | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
-| 2025-08-28T00:00:00 | nan                 | nan                 |
-| 2025-08-13T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-22T00:00:00 | nan                 | nan                 |
-| 2025-06-05T00:00:00 | 2025-06-27T00:00:00 | 2025-06-26T00:00:00 |
-| 2025-05-15T00:00:00 | nan                 | nan                 |
-| 2025-05-15T00:00:00 | nan                 | nan                 |
-| 2025-05-05T00:00:00 | nan                 | nan                 |
-| 2025-02-25T00:00:00 | 2025-03-17T00:00:00 | 2025-03-14T00:00:00 |
-| 2024-09-06T00:00:00 | nan                 | nan                 |
-| 2024-06-21T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | -0.40% |
-| % Cổ phiếu hôm nay | -0.54% |
-| RS (CP − Ngành) | -0.14% |
+| % Ngành hôm nay | -1.01% |
+| % Cổ phiếu hôm nay | -1.09% |
+| RS (CP − Ngành) | -0.08% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |    volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| HPG      | 2025-12-16 00:00:00 |  26.35 |  26.95 | 26.25 |   26.7  |  29329900 |
 | HPG      | 2025-12-17 00:00:00 |  26.7  |  26.7  | 26.4  |   26.4  |  16546600 |
 | HPG      | 2025-12-18 00:00:00 |  26.4  |  26.55 | 26.25 |   26.4  |  18777900 |
 | HPG      | 2025-12-19 00:00:00 |  26.4  |  26.7  | 26.4  |   26.7  |  29580600 |
@@ -305,21 +221,22 @@
 | HPG      | 2026-04-28 00:00:00 |  27.8  |  28    | 27.7  |   27.75 |  14071500 |
 | HPG      | 2026-04-29 00:00:00 |  27.65 |  27.9  | 27.6  |   27.75 |  17239200 |
 | HPG      | 2026-05-04 00:00:00 |  27.75 |  27.95 | 27.4  |   27.6  |  32374300 |
+| HPG      | 2026-05-05 00:00:00 |  27.65 |  27.7  | 27.2  |   27.3  |  30692800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HPG      | 2026-05-04 14:28:32 |    27.5 |     1000 | Buy          | 470002367 |
-| HPG      | 2026-05-04 14:28:32 |    27.5 |      100 | Buy          | 470002401 |
-| HPG      | 2026-05-04 14:28:32 |    27.5 |      300 | Buy          | 470002378 |
-| HPG      | 2026-05-04 14:28:32 |    27.5 |      100 | Buy          | 470002382 |
-| HPG      | 2026-05-04 14:28:33 |    27.5 |      100 | Buy          | 470002437 |
-| HPG      | 2026-05-04 14:28:33 |    27.5 |     1000 | Buy          | 470002438 |
-| HPG      | 2026-05-04 14:28:35 |    27.5 |      400 | Buy          | 470002700 |
-| HPG      | 2026-05-04 14:28:37 |    27.5 |      800 | Buy          | 470002821 |
-| HPG      | 2026-05-04 14:28:38 |    27.5 |      300 | Buy          | 470002946 |
-| HPG      | 2026-05-04 14:28:39 |    27.5 |      100 | Buy          | 470002993 |
+| HPG      | 2026-05-05 14:29:14 |   27.3  |      100 | Sell         | 470604411 |
+| HPG      | 2026-05-05 14:29:14 |   27.3  |      100 | Sell         | 470604412 |
+| HPG      | 2026-05-05 14:29:24 |   27.35 |      200 | Buy          | 470605206 |
+| HPG      | 2026-05-05 14:29:26 |   27.35 |     1000 | Buy          | 470605277 |
+| HPG      | 2026-05-05 14:29:30 |   27.35 |     1000 | Buy          | 470605670 |
+| HPG      | 2026-05-05 14:29:31 |   27.3  |      100 | Sell         | 470605697 |
+| HPG      | 2026-05-05 14:29:31 |   27.3  |      100 | Sell         | 470605698 |
+| HPG      | 2026-05-05 14:29:31 |   27.3  |      200 | Sell         | 470605699 |
+| HPG      | 2026-05-05 14:29:31 |   27.3  |      600 | Sell         | 470605700 |
+| HPG      | 2026-05-05 14:29:31 |   27.35 |      200 | Buy          | 470605758 |
 
 <!-- END:DAILY -->
 

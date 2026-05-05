@@ -1,6 +1,6 @@
 # KDH — CTCP Đầu tư và Kinh doanh Nhà Khang Điền
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 04/05/2026 20:15  |  🗂 Quarterly: 03/05/2026 14:10
+> 📅 Daily: 05/05/2026 21:08  |  🗂 Quarterly: 03/05/2026 14:10
 
 ---
 
@@ -11,22 +11,22 @@
 | --- | --- |
 | symbol | KDH |
 | exchange | HOSE |
-| market_cap | 28055372475000 |
+| market_cap | 27382043535600 |
 | 52w_high | 37000 |
 | 52w_high_date | 2025-08-18 |
 | 52w_low | 23950 |
 | 52w_low_date | 2026-03-09 |
-| foreign_ownership | 27.8981 |
+| foreign_ownership | 27.8911 |
 | dividend | 0 |
-| beta | 0.93 |
+| beta | 0.94 |
 | eps | 1120 |
-| eps_forward | 19.002872875269333 |
+| eps_forward | 18.70361503471391 |
 | bvps | 19180 |
-| pe | 22.69 |
-| pb | 1.32 |
-| price_chg_1m | -1.19 |
-| price_chg_ytd | 4.45 |
-| price_chg_1m_rank | 10.22 |
+| pe | 22.33 |
+| pb | 1.30 |
+| price_chg_1m | -3.56 |
+| price_chg_ytd | -1.06 |
+| price_chg_1m_rank | 11.46 |
 | price_chg_ytd_rank | 51.19 |
 | yield | 0 |
 | financial_date | 12/2025 |
@@ -36,51 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.0 |
-| MA5 | 25.4 |
-| MA10 | 25.675 |
-| EMA20 | 25.74 |
-| EMA50 | 26.398 |
-| Slope MA20 (5p, %) | -0.92 |
-| ATR(14) | 0.685 |
-| RSI(14) | 38.0 |
+| Giá đóng cửa | 24.4 |
+| MA5 | 25.16 |
+| MA10 | 25.485 |
+| EMA20 | 25.612 |
+| EMA50 | 26.302 |
+| Slope MA20 (5p, %) | -1.28 |
+| ATR(14) | 0.686 |
+| RSI(14) | 32.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.215 |
-| MACD Signal | -0.146 |
-| MACD Histogram | -0.069 |
+| MACD | -0.295 |
+| MACD Signal | -0.175 |
+| MACD Histogram | -0.12 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 4745880 |
+| KL avg 60 phiên | 4768897 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    26.886 | 5.16        | 4             |
-| 🔴 Kháng cự    |    25.9   | 0.86        | 1             |
-| 🔴 Kháng cự    |    25.4   | 0.93        | 1             |
-| ▶ Giá hiện tại |    25     | —           | —             |
-| 🟢 Hỗ trợ      |    23.977 | 3.63        | 3             |
+| 🔴 Kháng cự    |    26.886 | 5.12        | 4             |
+| 🔴 Kháng cự    |    25.9   | 0.85        | 1             |
+| 🔴 Kháng cự    |    25.4   | 0.92        | 1             |
+| ▶ Giá hiện tại |    24.4   | —           | —             |
+| 🟢 Hỗ trợ      |    23.977 | 3.59        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | KDH |
-| pe | 22.69 |
-| pb | 1.32 |
+| pe | 22.33 |
+| pb | 1.30 |
 | roe | 8.04 |
 | roe_pct_rank | 43 |
 | roa | 3.25 |
 | roa_pct_rank | 44 |
 | eps | 1120 |
 | bvps | 19180 |
-| beta | 0.93 |
+| beta | 0.94 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 71 |
+| pe_pct_rank | 70 |
 | pb_pct_rank | 54 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -89,19 +89,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-23 | 3208400 | -32.4%     | 0.286%         |
-| 2026-04-24 | 2273900 | -52.1%     | 0.203%         |
-| 2026-04-28 | 1685600 | -64.5%     | 0.150%         |
-| 2026-04-29 | 7454800 | +57.1%     | 0.664%         |
-| 2026-05-04 | 5864100 | +23.6%     | 0.523%         |
+| 2026-04-24 | 2273900 | -52.3%     | 0.203%         |
+| 2026-04-28 | 1685600 | -64.7%     | 0.150%         |
+| 2026-04-29 | 7454800 | +56.3%     | 0.664%         |
+| 2026-05-04 | 5864100 | +23.0%     | 0.523%         |
+| 2026-05-05 | 4864500 | +2.0%      | 0.433%         |
 
-- KL trung bình 60 phiên: **4,745,880**
+- KL trung bình 60 phiên: **4,768,896**
 - Số CP lưu hành: **1,122,214,899**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime            | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| KDH: Báo cáo về thay đổi sở hữu của nhóm CĐ lớn                                                                           | 2026-05-05T17:39:41    | /2026/05/kdh-bao-cao-ve-thay-doi-so-huu-cua-nhom-cd-lon-739-1438213.htm                                                   |
 | Vì sao lợi nhuận Khang Điền bật tăng hơn 130% dù mảng kinh doanh cốt lõi giảm mạnh?                                       | 2026-05-01T14:42:00    | /2026/05/vi-sao-loi-nhuan-khang-dien-bat-tang-hon-130-du-mang-kinh-doanh-cot-loi-giam-manh-737-1435906.htm                |
 | KDH: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00    | /2026/04/kdh-bctc-hop-nhat-quy-1-nam-2026-737-1435530.htm                                                                 |
 | KDH: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00    | /2026/04/kdh-bctc-quy-1-nam-2026-737-1435531.htm                                                                          |
@@ -111,7 +112,6 @@
 | ĐHĐCĐ Khang Điền: Lấn sân phân khúc nhà ở thương mại giá phù hợp và dự án BT                                              | 2026-04-22T17:02:49.15 | /2026/04/dhdcd-khang-dien-lan-san-phan-khuc-nha-o-thuong-mai-gia-phu-hop-va-du-an-bt-737-1431994.htm                      |
 | KDH: Báo cáo tiến độ sử dụng số tiền thu được từ đợt phát hành ESOP năm 2024                                              | 2026-04-21T10:36:24    | /2026/04/kdh-bao-cao-tien-do-su-dung-so-tien-thu-duoc-tu-dot-phat-hanh-esop-nam-2024-764-1431089.htm                      |
 | Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
-| KDH: Nghị quyết HĐQT về việc thông qua danh sách ứng viên thành viên HĐQT, BKS nhiệm kỳ 2022-2027                         | 2026-04-10T16:52:19    | /2026/04/kdh-nghi-quyet-hdqt-ve-viec-thong-qua-danh-sach-ung-vien-thanh-vien-hdqt-bks-nhiem-ky-20222027-737-1426260.htm   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,16 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | -1.26% |
-| % Cổ phiếu hôm nay | -1.57% |
-| RS (CP − Ngành) | -0.31% |
+| % Ngành hôm nay | +3.20% |
+| % Cổ phiếu hôm nay | -2.40% |
+| RS (CP − Ngành) | -5.60% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KDH      | 2025-12-16 00:00:00 |  29.65 |  31.65 | 29.45 |   31.6  |  7010500 |
 | KDH      | 2025-12-17 00:00:00 |  31.6  |  32.25 | 31.35 |   31.7  |  5315000 |
 | KDH      | 2025-12-18 00:00:00 |  31.7  |  32.25 | 31.5  |   32.1  |  3552200 |
 | KDH      | 2025-12-19 00:00:00 |  32.1  |  32.7  | 31.85 |   32.65 |  4196200 |
@@ -221,21 +220,22 @@ _Không có dữ liệu_
 | KDH      | 2026-04-28 00:00:00 |  25.6  |  25.75 | 25.35 |   25.4  |  1685600 |
 | KDH      | 2026-04-29 00:00:00 |  25.5  |  25.55 | 25.25 |   25.4  |  7454800 |
 | KDH      | 2026-05-04 00:00:00 |  25.6  |  25.75 | 24.9  |   25    |  5864100 |
+| KDH      | 2026-05-05 00:00:00 |  25    |  25    | 24.3  |   24.4  |  4864500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| KDH      | 2026-05-04 14:23:37 |   24.95 |      200 | Buy          | 469981898 |
-| KDH      | 2026-05-04 14:23:37 |   24.95 |      200 | Buy          | 469981901 |
-| KDH      | 2026-05-04 14:23:37 |   24.95 |     5000 | Buy          | 469981899 |
-| KDH      | 2026-05-04 14:23:37 |   24.95 |     1300 | Buy          | 469981900 |
-| KDH      | 2026-05-04 14:23:41 |   25    |      900 | Buy          | 469982206 |
-| KDH      | 2026-05-04 14:23:52 |   24.95 |      500 | Sell         | 469982861 |
-| KDH      | 2026-05-04 14:24:00 |   24.95 |     2000 | Sell         | 469983272 |
-| KDH      | 2026-05-04 14:24:04 |   24.95 |     2300 | Sell         | 469983538 |
-| KDH      | 2026-05-04 14:24:04 |   24.95 |     1000 | Sell         | 469983534 |
-| KDH      | 2026-05-04 14:24:04 |   24.95 |      100 | Sell         | 469983531 |
+| KDH      | 2026-05-05 14:25:12 |    24.4 |      800 | Sell         | 470591191 |
+| KDH      | 2026-05-05 14:25:15 |    24.4 |     1400 | Sell         | 470591400 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     1000 | Sell         | 470591964 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |      100 | Sell         | 470591965 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |      100 | Sell         | 470591966 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     1300 | Sell         | 470591951 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     2000 | Sell         | 470591967 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     2000 | Sell         | 470591969 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     1000 | Sell         | 470591970 |
+| KDH      | 2026-05-05 14:25:28 |    24.4 |     5000 | Sell         | 470591971 |
 
 <!-- END:DAILY -->
 

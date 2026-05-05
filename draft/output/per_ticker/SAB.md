@@ -1,6 +1,6 @@
 # SAB — Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 04/05/2026 20:17  |  🗂 Quarterly: 03/05/2026 14:17
+> 📅 Daily: 05/05/2026 21:11  |  🗂 Quarterly: 03/05/2026 14:17
 
 ---
 
@@ -10,211 +10,129 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SAB |
-| organ_code | SBCO |
-| current_price | 47500.0 |
-| market_cap | 60921712670000.0 |
-| number_of_shares_mkt_cap | 1282562372.0 |
-| ticker | SAB |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 06-Jan-26 |
-| en_organ_name | Saigon Beer - Alcohol - Beverage Corporation |
-| en_organ_short_name | SABECO |
-| vi_organ_name | Tổng Công ty Cổ phần Bia - Rượu - Nước Giải khát Sài Gòn |
-| vi_organ_short_name | SABECO |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 33650580520.454544 |
-| average_match_volume1_month | 732178.0 |
-| highest_price1_year | 57100.0 |
-| lowest_price1_year | 42050.0 |
-| foreigner_percentage | 0.58516067 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.36002389 |
-| analyst | Nguyen Nguyen |
-| upside_to_target_percent | 0.2421052632 |
-| dividend_per_share_tsr | 5000.0 |
-| projected_tsr_percentage | 0.3473684211 |
-| target_price | 59000.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Saigon Beer - Alcohol - Beverage Joint Stock Corporation (SAB), formerly known as a Beer Workshop, was establi… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tổng c&ocirc;ng ty cổ phần Bia &ndash; Rượu &ndash; Nước giải kh&aacute;t S&agrave;i G&ograve;n (SAB) c&oacute… |
-| in_cu | True |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3533 |
-| free_float | 141081860 |
-| free_float_percentage | 0.1099999993 |
-| listing_date | 2016-12-06T00:00:00 |
-| prev_insight | {'targetPrice': 58000.0, 'rating': 'BUY', 'ratingAsOf': '10-Sep-25', 'analyst': 'Nguyen Nguyen', 'version': '20260108'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 60344559602600 |
+| 52w_high | 53700 |
+| 52w_high_date | 2026-01-14 |
+| 52w_low | 42202 |
+| 52w_low_date | 2025-10-20 |
+| foreign_ownership | 58.5371 |
+| dividend | 5000 |
+| beta | 0.77 |
+| eps | 3754 |
+| eps_forward | 12.300841964705546 |
+| bvps | 18868 |
+| pe | 12.61 |
+| pb | 2.51 |
+| price_chg_1m | 6.69 |
+| price_chg_ytd | 8.86 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0.10626992561105207 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 47.35 |
-| MA5 | 47.71 |
-| MA10 | 46.55 |
-| EMA20 | 46.149 |
-| EMA50 | 46.192 |
-| Slope MA20 (5p, %) | 2.21 |
-| ATR(14) | 1.213 |
-| RSI(14) | 57.0 |
+| Giá đóng cửa | 47.05 |
+| MA5 | 47.48 |
+| MA10 | 46.68 |
+| EMA20 | 46.234 |
+| EMA50 | 46.187 |
+| Slope MA20 (5p, %) | 1.75 |
+| ATR(14) | 1.212 |
+| RSI(14) | 55.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.605 |
-| MACD Signal | 0.3 |
-| MACD Histogram | 0.306 |
+| MACD | 0.597 |
+| MACD Signal | 0.361 |
+| MACD Histogram | 0.236 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 988163 |
+| KL avg 60 phiên | 979280 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    49.9   | 1.02        | 1             |
-| 🔴 Kháng cự     |    48.001 | 1.8         | 2             |
-| 🔴 Kháng cự     |    47.86  | 0.66        | 1             |
-| ▶ Giá hiện tại |    47.35  | —           | —             |
-| 🟢 Hỗ trợ       |    46.13  | 0.55        | 1             |
-| 🟢 Hỗ trợ       |    45.173 | 2.39        | 2             |
-| 🟢 Hỗ trợ       |    45.118 | 2.13        | 2             |
+| 🔴 Kháng cự    |    49.9   | 1.01        | 1             |
+| 🔴 Kháng cự    |    48.001 | 1.78        | 2             |
+| 🔴 Kháng cự    |    47.86  | 0.65        | 1             |
+| ▶ Giá hiện tại |    47.05  | —           | —             |
+| 🟢 Hỗ trợ      |    45.173 | 2.37        | 2             |
+| 🟢 Hỗ trợ      |    45.118 | 2.11        | 2             |
+| 🟢 Hỗ trợ      |    43.9   | 1.31        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SAB |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699098 |
-| ratio_type | RATIO_TTM |
-| organ_code | SBCO |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 641281186 |
-| market_cap | 132616949264800.0 |
-| dividend_yield | 0.0 |
-| pe | 27.4742435363 |
-| pb | 9.1521433288 |
-| ps | 3.844350217 |
-| price_to_cash_flow | 31.1011940552 |
-| ev_to_ebitda | 21.9780141951 |
-| cash_ratio | 0.973555479 |
-| quick_ratio | 2.0710353267 |
-| current_ratio | 2.5123321331 |
-| owners_equity | 9.84934e-05 |
-| debt_per_equity | 0.0520448394 |
-| debt_to_equity | 0.3352447647 |
-| roe | 0.3160804077 |
-| roa | 0.2293518148 |
-| day_sale_outstanding | 1.9871901007 |
-| days_inventory_outstanding | 31.2125619418 |
-| days_payable_outstanding | 22.9156689671 |
-| gross_margin | 0.2434119659 |
-| ebit_margin | 0.1512578525 |
-| pre_tax_profit_margin | 0.1819029008 |
-| after_tax_profit_margin | 0.1479878762 |
-| asset_turnover | 1.6390982246 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 5217879179444.0 |
-| ebitda | 5849156845264.0 |
-| roic | 0.3189294306 |
-| cash_cycle | 61.7684302345 |
-| fixed_asset_turnover | 6.8263722551 |
-| financial_leverage | 0.3352447647 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 12.61 |
+| pb | 2.51 |
+| roe | 19.28 |
+| roe_pct_rank | 67 |
+| roa | 13.4 |
+| roa_pct_rank | 80 |
+| eps | 3754 |
+| bvps | 18868 |
+| beta | 0.77 |
+| dividend | 5000 |
+| yield | 0.10626992561105207 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 87 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-23 | 3372800 | +241.3%    | 0.263%         |
-| 2026-04-24 |  825900 | -16.4%     | 0.064%         |
-| 2026-04-28 | 1524700 | +54.3%     | 0.119%         |
-| 2026-04-29 |  590700 | -40.2%     | 0.046%         |
-| 2026-05-04 |  884900 | -10.5%     | 0.069%         |
+| 2026-04-24 |  825900 | -15.7%     | 0.064%         |
+| 2026-04-28 | 1524700 | +55.7%     | 0.119%         |
+| 2026-04-29 |  590700 | -39.7%     | 0.046%         |
+| 2026-05-04 |  884900 | -9.6%      | 0.069%         |
+| 2026-05-05 | 1090900 | +11.4%     | 0.085%         |
 
-- KL trung bình 60 phiên: **988,163**
+- KL trung bình 60 phiên: **979,280**
 - Số CP lưu hành: **1,282,562,372**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------|:--------------------|:-------------------|
-| SAB: Thông báo nhận được đơn xin từ chức của Phó TGĐ                      | 2026-04-29T17:59:00 |                    |
-| SAB công bố lãi 1.200 tỷ, chốt cổ tức 30%                                 | 2026-04-28T08:41:00 |                    |
-| SAB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                | 2026-04-24T18:46:55 |                    |
-| SAB: Thông báo thay đổi nhân sự                                           | 2026-04-24T17:57:32 |                    |
-| SAB: Thông báo chốt DSCĐ để chi trả cổ tức còn lại năm 2025 bằng tiền mặt | 2026-04-24T17:57:08 |                    |
-| SAB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước      | 2026-04-23T13:32:11 |                    |
-| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (cập nhật lần 2)             | 2026-04-20T17:31:51 |                    |
-| SAB: Tài liệu họp ĐHĐCĐ thường niên 2026 (cập nhật)                       | 2026-04-16T17:58:21 |                    |
-| SAB: Link công bố Báo cáo phát triển bền vững 2025                        | 2026-04-16T15:08:02 |                    |
-| SAB: Link công bố Báo cáo thường niên năm 2025                            | 2026-04-16T15:06:52 |                    |
+| title                                                                           | publishtime            | url                                                                                                     |
+|:--------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------|
+| SAB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                      | 2026-04-24T18:46:55    | /2026/04/sab-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1433826.htm                      |
+| SAB: Thông báo thay đổi nhân sự                                                 | 2026-04-24T17:57:32    | /2026/04/sab-thong-bao-thay-doi-nhan-su-214-1433736.htm                                                 |
+| SAB: Thông báo chốt DSCĐ để chi trả cổ tức còn lại năm 2025 bằng tiền mặt       | 2026-04-24T17:57:08    | /2026/04/sab-thong-bao-chot-dscd-de-chi-tra-co-tuc-con-lai-nam-2025-bang-tien-mat-738-1433735.htm       |
+| SAB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước            | 2026-04-23T13:32:11    | /2026/04/sab-giai-trinh-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1432538.htm            |
+| Tổng Giám đốc Sabeco: Chưa có công ty bia giữ chắc thị phần số một tại Việt Nam | 2026-04-23T11:40:00    | /2026/04/tong-giam-doc-sabeco-chua-co-cong-ty-bia-giu-chac-thi-phan-so-mot-tai-viet-nam-737-1432424.htm |
+| SAB: BCTC Hợp nhất quý 1 năm 2026                                               | 2026-04-23T00:00:00    | /2026/04/sab-bctc-hop-nhat-quy-1-nam-2026-737-1432534.htm                                               |
+| SAB: BCTC quý 1 năm 2026                                                        | 2026-04-23T00:00:00    | /2026/04/sab-bctc-quy-1-nam-2026-737-1432535.htm                                                        |
+| SAB: Tài liệu họp ĐHĐCĐ thường niên năm 2026 (cập nhật lần 2)                   | 2026-04-20T17:41:39    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-cap-nhat-lan-2-737-1430750.htm                     |
+| DCM, HDB và SAB có triển vọng gì?                                               | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                                |
+| SAB: Tài liệu họp ĐHĐCĐ thường niên 2026 (cập nhật)                             | 2026-04-16T18:01:40    | /2026/04/sab-tai-lieu-hop-dhdcd-thuong-nien-2026-cap-nhat-737-1428818.htm                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-02-04T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2025-11-17T00:00:00 | 2026-01-13T00:00:00 | 2026-01-12T00:00:00 |
-| 2025-09-19T00:00:00 | nan                 | nan                 |
-| 2025-05-08T00:00:00 | 2025-07-01T00:00:00 | 2025-06-30T00:00:00 |
-| 2025-02-05T00:00:00 | 2025-03-24T00:00:00 | 2025-03-21T00:00:00 |
-| 2024-11-06T00:00:00 | 2024-12-27T00:00:00 | 2024-12-26T00:00:00 |
-| 2024-06-20T00:00:00 | 2024-07-08T00:00:00 | 2024-07-05T00:00:00 |
-| 2024-02-06T00:00:00 | 2024-03-25T00:00:00 | 2024-03-22T00:00:00 |
-| 2023-12-08T00:00:00 | 2024-01-05T00:00:00 | 2024-01-04T00:00:00 |
-| 2023-10-20T00:00:00 | nan                 | nan                 |
-| 2023-08-31T00:00:00 | 2023-09-15T00:00:00 | 2023-09-14T00:00:00 |
-| 2023-05-15T00:00:00 | 2023-06-12T00:00:00 | 2023-06-09T00:00:00 |
-| 2023-02-03T00:00:00 | 2023-03-27T00:00:00 | 2023-03-24T00:00:00 |
-| 2022-12-07T00:00:00 | 2023-03-03T00:00:00 | 2023-03-02T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.03% |
-| % Cổ phiếu hôm nay | -0.32% |
-| RS (CP − Ngành) | -0.29% |
+| % Ngành hôm nay | -0.44% |
+| % Cổ phiếu hôm nay | -0.63% |
+| RS (CP − Ngành) | -0.19% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SAB      | 2025-12-16 00:00:00 |  48.91 |  49.87 | 46.13 |   49.59 |  2085346 |
 | SAB      | 2025-12-17 00:00:00 |  49.68 |  49.68 | 48.05 |   48.05 |  1557109 |
 | SAB      | 2025-12-18 00:00:00 |  48.53 |  48.63 | 47.76 |   48.15 |  1044322 |
 | SAB      | 2025-12-19 00:00:00 |  48.15 |  48.15 | 47.57 |   47.67 |  1139995 |
@@ -304,21 +222,22 @@
 | SAB      | 2026-04-28 00:00:00 |  47.25 |  49.4  | 47.1  |   48.5  |  1524700 |
 | SAB      | 2026-04-29 00:00:00 |  48    |  48.5  | 47.5  |   47.5  |   590700 |
 | SAB      | 2026-05-04 00:00:00 |  47.5  |  47.8  | 46.55 |   47.35 |   884900 |
+| SAB      | 2026-05-05 00:00:00 |  47.25 |  47.3  | 46.15 |   47.05 |  1090900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SAB      | 2026-05-04 14:12:03 |   47.5  |      100 | Buy          | 469944224 |
-| SAB      | 2026-05-04 14:12:20 |   47.4  |      200 | Sell         | 469945146 |
-| SAB      | 2026-05-04 14:12:20 |   47.4  |      800 | Sell         | 469945147 |
-| SAB      | 2026-05-04 14:12:24 |   47.4  |      100 | Sell         | 469945304 |
-| SAB      | 2026-05-04 14:12:26 |   47.45 |      400 | Buy          | 469945383 |
-| SAB      | 2026-05-04 14:12:33 |   47.4  |      100 | Sell         | 469945793 |
-| SAB      | 2026-05-04 14:12:38 |   47.4  |      200 | Sell         | 469945995 |
-| SAB      | 2026-05-04 14:12:38 |   47.35 |      200 | Sell         | 469946027 |
-| SAB      | 2026-05-04 14:12:38 |   47.35 |     2000 | Sell         | 469946030 |
-| SAB      | 2026-05-04 14:13:19 |   47.4  |      100 | Buy          | 469947687 |
+| SAB      | 2026-05-05 14:26:23 |    46.7 |      100 | Sell         | 470594899 |
+| SAB      | 2026-05-05 14:26:23 |    46.7 |      200 | Sell         | 470594900 |
+| SAB      | 2026-05-05 14:26:24 |    47   |      500 | Buy          | 470594921 |
+| SAB      | 2026-05-05 14:26:24 |    47   |      400 | Buy          | 470594920 |
+| SAB      | 2026-05-05 14:26:24 |    47   |      100 | Buy          | 470594922 |
+| SAB      | 2026-05-05 14:26:29 |    47   |      600 | Buy          | 470595122 |
+| SAB      | 2026-05-05 14:26:29 |    47   |      400 | Buy          | 470595123 |
+| SAB      | 2026-05-05 14:26:34 |    47   |     1000 | Buy          | 470595388 |
+| SAB      | 2026-05-05 14:26:37 |    46.7 |      200 | Sell         | 470595545 |
+| SAB      | 2026-05-05 14:26:38 |    47   |     1000 | Buy          | 470595615 |
 
 <!-- END:DAILY -->
 

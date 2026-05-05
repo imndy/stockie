@@ -1,6 +1,6 @@
 # CTS — CTCP Chứng khoán VietinBank
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 04/05/2026 20:11  |  🗂 Quarterly: 03/05/2026 14:00
+> 📅 Daily: 05/05/2026 21:04  |  🗂 Quarterly: 03/05/2026 14:00
 
 ---
 
@@ -10,210 +10,127 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTS |
-| organ_code | CTS |
-| current_price | 26100.0 |
-| market_cap | 5551298731800.0 |
-| number_of_shares_mkt_cap | 212693438.0 |
-| ticker | CTS |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Vietinbank Securities Joint Stock Company |
-| en_organ_short_name | Vietinbank Securities |
-| vi_organ_name | Công ty Cổ phần Chứng khoán Vietinbank |
-| vi_organ_short_name | Chứng khoán Vietinbank |
-| com_type_code | CK |
-| com_group_code | VNINDEX |
-| sector | Financial Services |
-| sector_vn | Dịch vụ tài chính |
-| average_match_value1_month | 20475699809.090908 |
-| average_match_volume1_month | 741715.0 |
-| highest_price1_year | 46850.0 |
-| lowest_price1_year | 22482.0 |
-| foreigner_percentage | 0.0052498 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.75636246 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Vietinbank Securities Joint Stock Company (CTS), formerly known as Vietinbank Securities Co., Ltd, was es… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Vietinbank&nbsp;(CTS) c&oacute;&nbsp;tiền th&aci… |
-| in_cu | False |
-| icb_code_lv2 | 8700 |
-| icb_code_lv4 | 8777 |
-| free_float | 53173359 |
-| free_float_percentage | 0.2499999976 |
-| listing_date | 2009-07-31T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 5583202747500 |
+| 52w_high | 44900 |
+| 52w_high_date | 2025-10-17 |
+| 52w_low | 22637 |
+| 52w_low_date | 2025-05-07 |
+| foreign_ownership | 0.557 |
+| dividend | 0 |
+| beta | 1.04 |
+| eps | 2757 |
+| eps_forward | 12.34463792966133 |
+| bvps | 13666.41 |
+| pe | 9.56 |
+| pb | 1.93 |
+| price_chg_1m | -3.49 |
+| price_chg_ytd | 15.60 |
+| price_chg_1m_rank | 11.46 |
+| price_chg_ytd_rank | 51.19 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.35 |
-| MA5 | 26.29 |
-| MA10 | 26.7 |
-| EMA20 | 26.998 |
-| EMA50 | 28.137 |
-| Slope MA20 (5p, %) | -1.72 |
-| ATR(14) | 0.813 |
-| RSI(14) | 42.3 |
+| Giá đóng cửa | 26.25 |
+| MA5 | 26.2 |
+| MA10 | 26.59 |
+| EMA20 | 26.927 |
+| EMA50 | 28.072 |
+| Slope MA20 (5p, %) | -1.71 |
+| ATR(14) | 0.776 |
+| RSI(14) | 41.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.469 |
-| MACD Signal | -0.385 |
-| MACD Histogram | -0.083 |
+| MACD | -0.472 |
+| MACD Signal | -0.403 |
+| MACD Histogram | -0.069 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 774625 |
+| KL avg 60 phiên | 772093 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     30.25 | 0.69        | 1             |
-| 🔴 Kháng cự     |     29.5  | 0.96        | 1             |
-| 🔴 Kháng cự     |     29.25 | 1.33        | 1             |
-| ▶ Giá hiện tại |     26.35 | —           | —             |
-| 🟢 Hỗ trợ       |     24.45 | 1.21        | 1             |
+| 🔴 Kháng cự    |     30.25 | 0.68        | 1             |
+| 🔴 Kháng cự    |     29.5  | 0.95        | 1             |
+| 🔴 Kháng cự    |     29.25 | 1.32        | 1             |
+| ▶ Giá hiện tại |     26.25 | —           | —             |
+| 🟢 Hỗ trợ      |     24.45 | 1.19        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTS |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698818 |
-| ratio_type | RATIO_TTM |
-| organ_code | CTS |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 97616203 |
-| market_cap | 1093301473600.0 |
-| dividend_yield | 0.0 |
-| pe | 8.6053730844 |
-| pb | 0.9020480223 |
-| ps | 3.0649385122 |
-| price_to_cash_flow | -1.6746433923 |
-| ev_to_ebitda | 10.3334532349 |
-| cash_ratio | 0.5604323482 |
-| quick_ratio | 1.9918943115 |
-| current_ratio | 1.9918943115 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.632930948 |
-| debt_to_equity | 0.9505193478 |
-| roe | 0.1093166035 |
-| roa | 0.0702173747 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 35.6509386024 |
-| gross_margin | 0.6065973184 |
-| ebit_margin | 0.4885757427 |
-| pre_tax_profit_margin | 0.4326513452 |
-| after_tax_profit_margin | 0.3561657132 |
-| asset_turnover | 0.1971480468 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 174281009983.0 |
-| ebitda | 178478057518.0 |
-| roic | 0.0880255159 |
-| cash_cycle | 70.9418062618 |
-| fixed_asset_turnover | 7.6777306432 |
-| financial_leverage | 0.9505193478 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 9.56 |
+| pb | 1.93 |
+| roe | 22.61 |
+| roe_pct_rank | 74 |
+| roa | 5.47 |
+| roa_pct_rank | 52 |
+| eps | 2757 |
+| bvps | 13666.41 |
+| beta | 1.04 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 71 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-23 | 627800 | -19.0%     | 0.295%         |
-| 2026-04-24 | 334200 | -56.9%     | 0.157%         |
-| 2026-04-28 | 393800 | -49.2%     | 0.185%         |
-| 2026-04-29 | 370600 | -52.2%     | 0.174%         |
-| 2026-05-04 | 381900 | -50.7%     | 0.180%         |
+| 2026-04-24 | 334200 | -56.7%     | 0.157%         |
+| 2026-04-28 | 393800 | -49.0%     | 0.185%         |
+| 2026-04-29 | 370600 | -52.0%     | 0.174%         |
+| 2026-05-04 | 381900 | -50.5%     | 0.180%         |
+| 2026-05-05 | 264000 | -65.8%     | 0.124%         |
 
-- KL trung bình 60 phiên: **774,625**
+- KL trung bình 60 phiên: **772,093**
 - Số CP lưu hành: **212,693,438**
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                             | public_date         | news_source_link   |
-|:-------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| CTS: Điều lệ tổ chức và hoạt động sửa đổi                                                              | 2026-04-22T17:35:28 |                    |
-| CTS: CBTT kế hoạch kinh doanh năm 2026                                                                 | 2026-04-22T17:34:39 |                    |
-| CTS: Quy chế hoạt động của HĐQT sửa đổi                                                                | 2026-04-22T17:33:00 |                    |
-| CTS: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                             | 2026-04-22T16:24:11 |                    |
-| Chứng khoán VietinBank (CTS) đặt kế hoạch lợi nhuận 454 tỷ đồng, tìm động lực mới từ thị trường carbon | 2026-04-21T14:51:00 |                    |
-| CTS: Cập nhật, bổ sung tài liệu họp ĐHĐCĐ thường niên 2026                                             | 2026-04-21T10:37:40 |                    |
-| CTS: Giấy chứng nhận đăng ký địa điểm kinh doanh - PGD Bà Triệu                                        | 2026-04-07T16:26:43 |                    |
-| CTS: Nghị quyết HĐQT về việc phê duyệt hạn mức vay vốn tại VIB                                         | 2026-04-03T18:00:24 |                    |
-| CTS: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                           | 2026-03-31T08:47:32 |                    |
-| CTS: Báo cáo thường niên năm 2025                                                                      | 2026-03-27T17:35:29 |                    |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Tự doanh suy giảm, CTS báo lãi quý 1 đi lùi 38%                                                                           | 2026-04-24T12:54:58.907 | /2026/04/tu-doanh-suy-giam-cts-bao-lai-quy-1-di-lui-38-737-1433163.htm                                                    |
+| CTS: Quy chế hoạt động của HĐQT sửa đổi                                                                                   | 2026-04-22T17:39:02     | /2026/04/cts-quy-che-hoat-dong-cua-hdqt-sua-doi-143-1432244.htm                                                           |
+| CTS: Điều lệ tổ chức và hoạt động sửa đổi                                                                                 | 2026-04-22T17:35:28     | /2026/04/cts-dieu-le-to-chuc-va-hoat-dong-sua-doi-737-1432247.htm                                                         |
+| CTS: CBTT kế hoạch kinh doanh năm 2026                                                                                    | 2026-04-22T17:34:39     | /2026/04/cts-cbtt-ke-hoach-kinh-doanh-nam-2026-737-1432246.htm                                                            |
+| CTS: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                                | 2026-04-22T16:24:11     | /2026/04/cts-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432127.htm                                        |
+| CTS: VBSE: CBTT Biên bản họp và Nghị quyết Đại hội đồng cổ đông thường niên 2026/ VBSE: Information disclosure of Meetin… | 2026-04-22T00:00:00     | /2026/04/cts-vbse-cbtt-bien-ban-hop-va-nghi-quyet-dai-hoi-dong-co-dong-thuong-nien-2026-vbse-information-disclosure-of-m… |
+| CTS: VBSE: CBTT Kế hoạch kinh doanh năm 2026 của Công ty theo Nghị quyết ĐHĐCĐ thường niên 2026/ VBSE: Information discl… | 2026-04-22T00:00:00     | /2026/04/cts-vbse-cbtt-ke-hoach-kinh-doanh-nam-2026-cua-cong-ty-theo-nghi-quyet-dhdcd-thuong-nien-2026-vbse-information-… |
+| CTS: VBSE: Công bố thông tin Điều lệ Tổ chức và Hoạt động của Công ty/ VBSE: Information disclosure of the Company’s Cha… | 2026-04-22T00:00:00     | /2026/04/cts-vbse-cong-bo-thong-tin-dieu-le-to-chuc-va-hoat-dong-cua-cong-ty-vbse-information-disclosure-of-the-company’… |
+| CTS: VBSE: CBTT Quy chế hoạt động của Hội đồng quản trị Công ty/ VBSE: Information disclosure of the Company’s Regulatio… | 2026-04-22T00:00:00     | /2026/04/cts-vbse-cbtt-quy-che-hoat-dong-cua-hoi-dong-quan-tri-cong-ty-vbse-information-disclosure-of-the-company’s-regu… |
+| CTS: Cập nhật, bổ sung tài liệu họp ĐHĐCĐ thường niên 2026                                                                | 2026-04-21T10:37:40     | /2026/04/cts-cap-nhat-bo-sung-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1431091.htm                                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-22T00:00:00 | nan                 | nan                 |
-| 2026-03-11T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2025-10-07T00:00:00 | 2025-10-21T00:00:00 | 2025-10-20T00:00:00 |
-| 2025-09-11T00:00:00 | nan                 | nan                 |
-| 2025-07-17T00:00:00 | nan                 | nan                 |
-| 2025-05-29T00:00:00 | 2025-06-06T00:00:00 | 2025-06-05T00:00:00 |
-| 2025-03-07T00:00:00 | 2025-03-27T00:00:00 | 2025-03-26T00:00:00 |
-| 2024-02-20T00:00:00 | 2024-03-04T00:00:00 | 2024-03-01T00:00:00 |
-| 2023-07-14T00:00:00 | 2023-07-31T00:00:00 | 2023-07-28T00:00:00 |
-| 2023-02-10T00:00:00 | 2023-02-27T00:00:00 | 2023-02-24T00:00:00 |
-| 2022-10-12T00:00:00 | nan                 | nan                 |
-| 2022-08-16T00:00:00 | 2022-08-25T00:00:00 | 2022-08-24T00:00:00 |
-| 2022-08-16T00:00:00 | 2022-08-25T00:00:00 | 2022-08-24T00:00:00 |
-| 2022-05-13T00:00:00 | nan                 | nan                 |
-| 2022-04-29T00:00:00 | 2022-06-03T00:00:00 | 2022-06-02T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.58% |
-| % Cổ phiếu hôm nay | +0.96% |
-| RS (CP − Ngành) | +1.54% |
+| % Ngành hôm nay | -0.62% |
+| % Cổ phiếu hôm nay | -0.38% |
+| RS (CP − Ngành) | +0.24% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTS      | 2025-12-16 00:00:00 |  33.55 |  34.9  | 32    |   34.25 |  1165200 |
 | CTS      | 2025-12-17 00:00:00 |  34.25 |  34.25 | 33.5  |   33.5  |   488300 |
 | CTS      | 2025-12-18 00:00:00 |  33.55 |  33.75 | 33.2  |   33.4  |   459700 |
 | CTS      | 2025-12-19 00:00:00 |  33.95 |  33.95 | 33.25 |   33.7  |   546800 |
@@ -303,21 +220,22 @@
 | CTS      | 2026-04-28 00:00:00 |  26.45 |  26.6  | 25.9  |   25.9  |   393800 |
 | CTS      | 2026-04-29 00:00:00 |  25.75 |  26.3  | 25.75 |   26.1  |   370600 |
 | CTS      | 2026-05-04 00:00:00 |  26.45 |  26.85 | 26.35 |   26.35 |   381900 |
+| CTS      | 2026-05-05 00:00:00 |  26.25 |  26.4  | 26.1  |   26.25 |   264000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      300 | Sell         | 469840932 |
-| CTS      | 2026-05-04 13:26:48 |   26.35 |     3700 | Sell         | 469840942 |
-| CTS      | 2026-05-04 13:26:48 |   26.35 |     1000 | Sell         | 469840941 |
-| CTS      | 2026-05-04 13:26:48 |   26.35 |     1000 | Sell         | 469840940 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      500 | Sell         | 469840939 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      500 | Sell         | 469840933 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      100 | Sell         | 469840937 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      300 | Sell         | 469840934 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |     1000 | Sell         | 469840938 |
-| CTS      | 2026-05-04 13:26:48 |   26.4  |      200 | Sell         | 469840936 |
+| CTS      | 2026-05-05 13:28:49 |    26.1 |     2000 | Sell         | 470401059 |
+| CTS      | 2026-05-05 13:29:52 |    26.1 |      200 | Buy          | 470403322 |
+| CTS      | 2026-05-05 13:30:24 |    26.1 |     2000 | Buy          | 470404637 |
+| CTS      | 2026-05-05 13:30:30 |    26.1 |      300 | Buy          | 470404802 |
+| CTS      | 2026-05-05 13:30:30 |    26.1 |      500 | Buy          | 470404803 |
+| CTS      | 2026-05-05 13:31:32 |    26.1 |     1200 | Sell         | 470406988 |
+| CTS      | 2026-05-05 13:31:50 |    26.1 |     1000 | Sell         | 470407611 |
+| CTS      | 2026-05-05 13:32:10 |    26.1 |      100 | Sell         | 470408559 |
+| CTS      | 2026-05-05 13:32:22 |    26.1 |      300 | Buy          | 470408945 |
+| CTS      | 2026-05-05 13:32:50 |    26.1 |     1600 | Sell         | 470409986 |
 
 <!-- END:DAILY -->
 
