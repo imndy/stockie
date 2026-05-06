@@ -1,6 +1,6 @@
 # PDR — CTCP Phát triển Bất động sản Phát Đạt
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 05/05/2026 21:10  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 06/05/2026 11:11  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | PDR |
 | exchange | HOSE |
-| market_cap | 16364073815600 |
+| market_cap | 16164511939800 |
 | 52w_high | 26300 |
 | 52w_high_date | 2025-10-16 |
 | 52w_low | 14500 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 6.2194 |
+| foreign_ownership | 6.1921 |
 | dividend | 0 |
 | beta | 0.88 |
 | eps | 626 |
-| eps_forward | 18.967479394420113 |
+| eps_forward | 18.85252497384787 |
 | bvps | 12584 |
-| pe | 26.38 |
-| pb | 1.31 |
-| price_chg_1m | 3.14 |
-| price_chg_ytd | 13.20 |
-| price_chg_1m_rank | 11.46 |
-| price_chg_ytd_rank | 51.19 |
+| pe | 26.22 |
+| pb | 1.30 |
+| price_chg_1m | 4.18 |
+| price_chg_ytd | 8.35 |
+| price_chg_1m_rank | 11.52 |
+| price_chg_ytd_rank | 50.67 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,47 +36,47 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.4 |
+| Giá đóng cửa | 16.2 |
 | MA5 | 16.35 |
-| MA10 | 16.24 |
-| EMA20 | 16.23 |
-| EMA50 | 16.417 |
-| Slope MA20 (5p, %) | 0.54 |
-| ATR(14) | 0.548 |
-| RSI(14) | 54.4 |
+| MA10 | 16.245 |
+| EMA20 | 16.227 |
+| EMA50 | 16.402 |
+| Slope MA20 (5p, %) | 0.49 |
+| ATR(14) | 0.527 |
+| RSI(14) | 49.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.081 |
-| MACD Signal | 0.062 |
-| MACD Histogram | 0.019 |
+| MACD | 0.068 |
+| MACD Signal | 0.063 |
+| MACD Histogram | 0.004 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 9765953 |
+| KL avg 60 phiên | 9630820 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    18.073 | 1.83        | 2             |
-| 🔴 Kháng cự    |    16.981 | 2.58        | 2             |
-| 🔴 Kháng cự    |    16.695 | 2.49        | 3             |
-| ▶ Giá hiện tại |    16.4   | —           | —             |
-| 🟢 Hỗ trợ      |    15.85  | 1.14        | 1             |
-| 🟢 Hỗ trợ      |    15.15  | 1.3         | 1             |
-| 🟢 Hỗ trợ      |    14.1   | 1.19        | 1             |
+| 🔴 Kháng cự    |    18.073 | 1.81        | 2             |
+| 🔴 Kháng cự    |    16.981 | 2.56        | 2             |
+| 🔴 Kháng cự    |    16.695 | 2.46        | 3             |
+| ▶ Giá hiện tại |    16.2   | —           | —             |
+| 🟢 Hỗ trợ      |    15.85  | 1.13        | 1             |
+| 🟢 Hỗ trợ      |    15.7   | 1.44        | 1             |
+| 🟢 Hỗ trợ      |    15.15  | 1.29        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PDR |
-| pe | 26.38 |
-| pb | 1.31 |
+| pe | 26.22 |
+| pb | 1.30 |
 | roe | 4.38 |
 | roe_pct_rank | 34 |
 | roa | 2.01 |
-| roa_pct_rank | 36 |
+| roa_pct_rank | 40 |
 | eps | 626 |
 | bvps | 12584 |
 | beta | 0.88 |
@@ -91,19 +91,21 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-24 |  6233400 | -36.2%     | 0.625%         |
-| 2026-04-28 |  4958700 | -49.2%     | 0.497%         |
-| 2026-04-29 | 11759800 | +20.4%     | 1.179%         |
-| 2026-05-04 |  8738800 | -10.5%     | 0.876%         |
-| 2026-05-05 |  8642700 | -11.5%     | 0.866%         |
+| 2026-04-28 |  4958700 | -48.5%     | 0.497%         |
+| 2026-04-29 | 11759800 | +22.1%     | 1.179%         |
+| 2026-05-04 |  8738800 | -9.3%      | 0.876%         |
+| 2026-05-05 |  8642700 | -10.3%     | 0.866%         |
+| 2026-05-06 |  2543800 | -73.6%     | 0.255%         |
 
-- KL trung bình 60 phiên: **9,765,953**
+- KL trung bình 60 phiên: **9,630,820**
 - Số CP lưu hành: **997,809,379**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                            | publishtime            | url                                                                                                                      |
 |:-------------------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| PDR: Điều lệ công ty sửa đổi, bổ sung ban hành tháng 05/2026                                     | 2026-05-05T17:39:42    | /2026/05/pdr-dieu-le-cong-ty-sua-doi-bo-sung-ban-hanh-thang-05-2026-737-1438145.htm                                      |
+| PDR: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp                                | 2026-05-05T17:25:15    | /2026/05/pdr-giay-xac-nhan-ve-viec-thay-doi-noi-dung-dang-ky-doanh-nghiep-830-1438128.htm                                |
 | Bất ngờ khoản thuế "khủng" quý 1 của Phát Đạt, lợi nhuận mới đạt 16% kế hoạch năm                | 2026-04-30T14:14:25.09 | /2026/04/bat-ngo-khoan-thue-khung-quy-1-cua-phat-dat-loi-nhuan-moi-dat-16-ke-hoach-nam-737-1435698.htm                   |
 | PDR: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                         | 2026-04-29T16:27:48    | /2026/04/pdr-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435736.htm                                         |
 | PDR: BCTC Hợp nhất quý 1 năm 2026                                                                | 2026-04-29T00:00:00    | /2026/04/pdr-bctc-hop-nhat-quy-1-nam-2026-737-1435793.htm                                                                |
@@ -112,8 +114,6 @@
 | PDR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                           | 2026-04-17T15:43:45    | /2026/04/pdr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429316.htm                                           |
 | PDR: CBTT sửa đổi Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT              | 2026-04-17T15:43:44    | /2026/04/pdr-cbtt-sua-doi-dieu-le-quy-che-noi-bo-ve-quan-tri-va-quy-che-hoat-dong-cua-hdqt-737-1429317.htm               |
 | Chủ tịch Phát Đạt: “Tôi thấy cần thiết phải di dời các trường đại học”                           | 2026-04-16T12:11:00    | /2026/04/chu-tich-phat-dat-toi-thay-can-thiet-phai-di-doi-cac-truong-dai-hoc-737-1428330.htm                             |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                      | 2026-04-16T09:02:00    | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                         |
-| PDR: Báo cáo thường niên năm 2025                                                                | 2026-04-15T16:34:36    | /2026/04/pdr-bao-cao-thuong-nien-nam-2025-737-1428108.htm                                                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +3.20% |
-| % Cổ phiếu hôm nay | -0.61% |
-| RS (CP − Ngành) | -3.81% |
+| % Ngành hôm nay | -1.04% |
+| % Cổ phiếu hôm nay | -1.22% |
+| RS (CP − Ngành) | -0.18% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PDR      | 2025-12-17 00:00:00 |  19.5  |  19.55 | 18.9  |   19.2  |  7136000 |
 | PDR      | 2025-12-18 00:00:00 |  19.05 |  19.1  | 18.7  |   19.05 |  8851500 |
 | PDR      | 2025-12-19 00:00:00 |  19.1  |  19.3  | 18.8  |   19.3  | 12044600 |
 | PDR      | 2025-12-22 00:00:00 |  19.45 |  20.55 | 19.4  |   20.5  | 17489800 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | PDR      | 2026-04-29 00:00:00 |  16.05 |  16.6  | 16    |   16.45 | 11759800 |
 | PDR      | 2026-05-04 00:00:00 |  16.55 |  16.9  | 16.35 |   16.5  |  8738800 |
 | PDR      | 2026-05-05 00:00:00 |  16.35 |  16.5  | 16    |   16.4  |  8642700 |
+| PDR      | 2026-05-06 00:00:00 |  16.35 |  16.4  | 16.15 |   16.2  |  2543800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PDR      | 2026-05-05 14:27:27 |    16.4 |      500 | Sell         | 470598190 |
-| PDR      | 2026-05-05 14:27:28 |    16.4 |     1500 | Sell         | 470598218 |
-| PDR      | 2026-05-05 14:27:32 |    16.4 |     1500 | Sell         | 470598470 |
-| PDR      | 2026-05-05 14:27:32 |    16.4 |     2500 | Sell         | 470598469 |
-| PDR      | 2026-05-05 14:27:33 |    16.4 |     2000 | Sell         | 470598571 |
-| PDR      | 2026-05-05 14:27:34 |    16.4 |     7600 | Sell         | 470598639 |
-| PDR      | 2026-05-05 14:27:35 |    16.4 |     1000 | Sell         | 470598661 |
-| PDR      | 2026-05-05 14:27:40 |    16.4 |      100 | Sell         | 470598841 |
-| PDR      | 2026-05-05 14:27:42 |    16.4 |      500 | Sell         | 470598957 |
-| PDR      | 2026-05-05 14:27:46 |    16.4 |      200 | Sell         | 470599180 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |      500 | Sell         | 470823034 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |     1600 | Sell         | 470823039 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |      200 | Sell         | 470823038 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |      700 | Sell         | 470823035 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |     1500 | Sell         | 470823036 |
+| PDR      | 2026-05-06 11:04:51 |   16.15 |      300 | Sell         | 470823037 |
+| PDR      | 2026-05-06 11:05:02 |   16.15 |      500 | Sell         | 470823251 |
+| PDR      | 2026-05-06 11:05:17 |   16.15 |     1600 | Sell         | 470823505 |
+| PDR      | 2026-05-06 11:05:17 |   16.15 |      100 | Sell         | 470823504 |
+| PDR      | 2026-05-06 11:05:17 |   16.15 |      300 | Sell         | 470823503 |
 
 <!-- END:DAILY -->
 

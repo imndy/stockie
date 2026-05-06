@@ -1,6 +1,6 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 05/05/2026 21:02  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 06/05/2026 11:04  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
@@ -25,11 +25,11 @@
 | pe | 4.48 |
 | pb | 0.10 |
 | price_chg_1m | 0.00 |
-| price_chg_ytd | -13.65 |
-| price_chg_1m_rank | 11.46 |
-| price_chg_ytd_rank | 51.19 |
+| price_chg_ytd | -17.59 |
+| price_chg_1m_rank | 11.59 |
+| price_chg_ytd_rank | 50.76 |
 | yield | 0 |
-| financial_date | 12/2024 |
+| financial_date | 12/2025 |
 | source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
@@ -70,10 +70,10 @@
 | symbol | BCG |
 | pe | 4.48 |
 | pb | 0.10 |
-| roe | 14.53 |
-| roe_pct_rank | 57 |
-| roa | 13.11 |
-| roa_pct_rank | 79 |
+| roe | 4.35 |
+| roe_pct_rank | 34 |
+| roa | 0.91 |
+| roa_pct_rank | 36 |
 | eps | 565 |
 | bvps | 24305 |
 | beta | 0 |
@@ -81,7 +81,7 @@
 | yield | 0 |
 | pe_pct_rank | 31 |
 | pb_pct_rank | 1 |
-| financial_date | 12/2025 |
+| financial_date | 12/2024 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
@@ -121,7 +121,7 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | -0.57% |
+| % Ngành hôm nay | +0.30% |
 | % Cổ phiếu hôm nay | — |
 | RS (CP − Ngành) | — |
 | Nhận xét | — |

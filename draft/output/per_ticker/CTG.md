@@ -1,6 +1,6 @@
 # CTG — Ngân hàng TMCP Công Thương Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 05/05/2026 21:04  |  🗂 Quarterly: 03/05/2026 13:59
+> 📅 Daily: 06/05/2026 11:06  |  🗂 Quarterly: 03/05/2026 13:59
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | CTG |
 | exchange | HOSE |
-| market_cap | 274173145686100 |
+| market_cap | 272231409526850 |
 | 52w_high | 41500 |
 | 52w_high_date | 2026-01-12 |
 | 52w_low | 25700 |
 | 52w_low_date | 2025-05-07 |
-| foreign_ownership | 25.2509 |
+| foreign_ownership | 25.2165 |
 | dividend | 450 |
 | beta | 0.9 |
 | eps | 6486 |
-| eps_forward | 8.056374107474538 |
+| eps_forward | 8.044978953149963 |
 | bvps | 24294.26 |
-| pe | 5.45 |
-| pb | 1.46 |
-| price_chg_1m | 4.44 |
-| price_chg_ytd | 37.72 |
-| price_chg_1m_rank | 11.46 |
-| price_chg_ytd_rank | 51.19 |
-| yield | 0.012747875354107648 |
+| pe | 5.44 |
+| pb | 1.45 |
+| price_chg_1m | 4.01 |
+| price_chg_ytd | 35.84 |
+| price_chg_1m_rank | 11.55 |
+| price_chg_ytd_rank | 50.71 |
+| yield | 0.012838801711840228 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,52 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 35.3 |
-| MA5 | 35.08 |
-| MA10 | 35.06 |
-| EMA20 | 34.946 |
-| EMA50 | 35.272 |
-| Slope MA20 (5p, %) | 0.29 |
-| ATR(14) | 0.731 |
-| RSI(14) | 53.4 |
+| Giá đóng cửa | 35.05 |
+| MA5 | 35.09 |
+| MA10 | 35.08 |
+| EMA20 | 34.955 |
+| EMA50 | 35.258 |
+| Slope MA20 (5p, %) | 0.28 |
+| ATR(14) | 0.708 |
+| RSI(14) | 50.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.061 |
-| MACD Signal | -0.029 |
-| MACD Histogram | 0.091 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.059 |
+| MACD Signal | -0.011 |
+| MACD Histogram | 0.07 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 10962007 |
+| KL avg 60 phiên | 10531908 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    36.665 | 2.05        | 2             |
-| 🔴 Kháng cự    |    36.65  | 0.94        | 1             |
-| 🔴 Kháng cự    |    35.694 | 3.06        | 3             |
-| ▶ Giá hiện tại |    35.3   | —           | —             |
-| 🟢 Hỗ trợ      |    34.5   | 1.38        | 1             |
-| 🟢 Hỗ trợ      |    33.265 | 2.4         | 2             |
-| 🟢 Hỗ trợ      |    32     | 1.19        | 1             |
+| 🔴 Kháng cự    |    36.665 | 2.03        | 2             |
+| 🔴 Kháng cự    |    36.65  | 0.93        | 1             |
+| 🔴 Kháng cự    |    35.77  | 2.48        | 2             |
+| ▶ Giá hiện tại |    35.05  | —           | —             |
+| 🟢 Hỗ trợ      |    34.5   | 1.37        | 1             |
+| 🟢 Hỗ trợ      |    33.265 | 2.38        | 2             |
+| 🟢 Hỗ trợ      |    32     | 1.18        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTG |
-| pe | 5.45 |
-| pb | 1.46 |
+| pe | 5.44 |
+| pb | 1.45 |
 | roe | 21.08 |
 | roe_pct_rank | 71 |
 | roa | 1.34 |
-| roa_pct_rank | 33 |
+| roa_pct_rank | 37 |
 | eps | 6486 |
 | bvps | 24294.26 |
 | beta | 0.9 |
 | dividend | 450 |
-| yield | 0.012747875354107648 |
+| yield | 0.012838801711840228 |
 | pe_pct_rank | 33 |
 | pb_pct_rank | 58 |
 | financial_date | 12/2025 |
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-24 | 4783100 | -56.4%     | 0.062%         |
-| 2026-04-28 | 6945200 | -36.6%     | 0.089%         |
-| 2026-04-29 | 6648700 | -39.3%     | 0.086%         |
-| 2026-05-04 | 8318000 | -24.1%     | 0.107%         |
-| 2026-05-05 | 5731700 | -47.7%     | 0.074%         |
+| 2026-04-28 | 6945200 | -34.1%     | 0.089%         |
+| 2026-04-29 | 6648700 | -36.9%     | 0.086%         |
+| 2026-05-04 | 8318000 | -21.0%     | 0.107%         |
+| 2026-05-05 | 5731700 | -45.6%     | 0.074%         |
+| 2026-05-06 | 2669000 | -74.7%     | 0.034%         |
 
-- KL trung bình 60 phiên: **10,962,006**
+- KL trung bình 60 phiên: **10,531,908**
 - Số CP lưu hành: **7,766,944,637**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                 | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Nợ xấu cải thiện, VietinBank tăng 65% lãi trước thuế quý 1                                            | 2026-04-30T10:23:16.303 | /2026/04/no-xau-cai-thien-vietinbank-tang-65-lai-truoc-thue-quy-1-737-1436351.htm                                         |
-| CTG: Quy chế nội bộ về quản trị công ty                                                               | 2026-04-28T11:13:22     | /2026/04/ctg-quy-che-noi-bo-ve-quan-tri-cong-ty-143-1434472.htm                                                           |
-| CTG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                | 2026-04-28T09:19:55     | /2026/04/ctg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434276.htm                                            |
-| CTG: BCTC quý 1 năm 2026                                                                              | 2026-04-28T00:00:00     | /2026/04/ctg-bctc-quy-1-nam-2026-737-1435248.htm                                                                          |
-| CTG: BCTC Hợp nhất quý 1 năm 2026                                                                     | 2026-04-28T00:00:00     | /2026/04/ctg-bctc-hop-nhat-quy-1-nam-2026-737-1435250.htm                                                                 |
-| CTG: Thông báo thay đổi nhân sự                                                                       | 2026-04-24T17:58:18     | /2026/04/ctg-thong-bao-thay-doi-nhan-su-214-1433739.htm                                                                   |
-| CTG: Nghị quyết HĐQT về việc cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên năm 2026                    | 2026-04-24T09:00:20     | /2026/04/ctg-nghi-quyet-hdqt-ve-viec-cap-nhat-bo-sung-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1433069.htm                 |
-| CTG: Báo cáo thường niên năm 2025                                                                     | 2026-04-20T17:09:14     | /2026/04/ctg-bao-cao-thuong-nien-nam-2025-737-1430669.htm                                                                 |
-| CTG: HĐQT thông qua hợp đồng đại diện nhận TSBĐ và văn bản ủy quyền giữa Vietinbank và Vietinbank Lào | 2026-04-15T18:13:57     | /2026/04/ctg-hdqt-thong-qua-hop-dong-dai-dien-nhan-tsbd-va-van-ban-uy-quyen-giua-vietinbank-va-vietinbank-lao-830-142829… |
-| CTG: HĐQT thông qua dự thảo hợp đồng cấp bảo lãnh hạn mức ký kết giữa VietinBank với VBI              | 2026-04-14T17:49:32     | /2026/04/ctg-hdqt-thong-qua-du-thao-hop-dong-cap-bao-lanh-han-muc-ky-ket-giua-vietinbank-voi-vbi-830-1427667.htm          |
+| title                                                                              | publishtime             | url                                                                                                       |
+|:-----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng      | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm       |
+| CTG: Quyết định của TGĐ về việc thay đổi địa điểm trụ sở Chi nhánh Hồng Bàng       | 2026-05-05T17:16:05     | /2026/05/ctg-quyet-dinh-cua-tgd-ve-viec-thay-doi-dia-diem-tru-so-chi-nhanh-hong-bang-737-1438141.htm      |
+| Nợ xấu cải thiện, VietinBank tăng 65% lãi trước thuế quý 1                         | 2026-04-30T10:23:16.303 | /2026/04/no-xau-cai-thien-vietinbank-tang-65-lai-truoc-thue-quy-1-737-1436351.htm                         |
+| CTG: Quy chế nội bộ về quản trị công ty                                            | 2026-04-28T11:13:22     | /2026/04/ctg-quy-che-noi-bo-ve-quan-tri-cong-ty-143-1434472.htm                                           |
+| CTG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                             | 2026-04-28T09:19:55     | /2026/04/ctg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434276.htm                            |
+| CTG: BCTC quý 1 năm 2026                                                           | 2026-04-28T00:00:00     | /2026/04/ctg-bctc-quy-1-nam-2026-737-1435248.htm                                                          |
+| CTG: BCTC Hợp nhất quý 1 năm 2026                                                  | 2026-04-28T00:00:00     | /2026/04/ctg-bctc-hop-nhat-quy-1-nam-2026-737-1435250.htm                                                 |
+| CTG: Thông báo thay đổi nhân sự                                                    | 2026-04-24T17:58:18     | /2026/04/ctg-thong-bao-thay-doi-nhan-su-214-1433739.htm                                                   |
+| CTG: Nghị quyết HĐQT về việc cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên năm 2026 | 2026-04-24T09:00:20     | /2026/04/ctg-nghi-quyet-hdqt-ve-viec-cap-nhat-bo-sung-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1433069.htm |
+| CTG: Báo cáo thường niên năm 2025                                                  | 2026-04-20T17:09:14     | /2026/04/ctg-bao-cao-thuong-nien-nam-2025-737-1430669.htm                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.25% |
-| % Cổ phiếu hôm nay | -0.14% |
-| RS (CP − Ngành) | +0.11% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.13% |
+| % Cổ phiếu hôm nay | -0.85% |
+| RS (CP − Ngành) | -0.98% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTG      | 2025-12-17 00:00:00 |  35.5  |  35.55 | 34.35 |   34.7  | 10686668 |
 | CTG      | 2025-12-18 00:00:00 |  34.7  |  34.75 | 33.95 |   34.35 |  5829595 |
 | CTG      | 2025-12-19 00:00:00 |  34.35 |  34.6  | 34.05 |   34.45 |  7243047 |
 | CTG      | 2025-12-22 00:00:00 |  34.5  |  35.25 | 34.3  |   35.15 | 11788972 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | CTG      | 2026-04-29 00:00:00 |  35    |  35.1  | 34.75 |   34.95 |  6648700 |
 | CTG      | 2026-05-04 00:00:00 |  35.4  |  35.7  | 35.2  |   35.35 |  8318000 |
 | CTG      | 2026-05-05 00:00:00 |  35.3  |  35.3  | 34.85 |   35.3  |  5731700 |
+| CTG      | 2026-05-06 00:00:00 |  35.3  |  35.4  | 35    |   35.05 |  2669000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTG      | 2026-05-05 14:26:23 |    35.1 |      200 | Buy          | 470594849 |
-| CTG      | 2026-05-05 14:26:23 |    35.1 |     1400 | Buy          | 470594851 |
-| CTG      | 2026-05-05 14:26:32 |    35.1 |     1500 | Buy          | 470595333 |
-| CTG      | 2026-05-05 14:26:35 |    35.1 |      500 | Buy          | 470595456 |
-| CTG      | 2026-05-05 14:26:36 |    35.1 |      100 | Buy          | 470595486 |
-| CTG      | 2026-05-05 14:26:37 |    35.1 |     1600 | Buy          | 470595544 |
-| CTG      | 2026-05-05 14:26:38 |    35.1 |      100 | Buy          | 470595600 |
-| CTG      | 2026-05-05 14:26:44 |    35.1 |      100 | Buy          | 470595894 |
-| CTG      | 2026-05-05 14:26:51 |    35.1 |     1600 | Buy          | 470596250 |
-| CTG      | 2026-05-05 14:26:54 |    35.1 |      100 | Buy          | 470596515 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |      100 | Buy          | 470816146 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |      100 | Buy          | 470816152 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |      100 | Buy          | 470816151 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |      600 | Buy          | 470816147 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |      600 | Buy          | 470816149 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |     2000 | Buy          | 470816150 |
+| CTG      | 2026-05-06 10:59:16 |    35.1 |     8900 | Buy          | 470816148 |
+| CTG      | 2026-05-06 10:59:32 |    35.1 |    37200 | Sell         | 470816528 |
+| CTG      | 2026-05-06 10:59:32 |    35.1 |    10000 | Sell         | 470816529 |
+| CTG      | 2026-05-06 10:59:37 |    35.1 |      200 | Buy          | 470816628 |
 
 <!-- END:DAILY -->
 

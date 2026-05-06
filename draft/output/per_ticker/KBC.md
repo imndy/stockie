@@ -1,6 +1,6 @@
 # KBC — Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 05/05/2026 21:08  |  🗂 Quarterly: 03/05/2026 14:10
+> 📅 Daily: 06/05/2026 11:10  |  🗂 Quarterly: 03/05/2026 14:10
 
 ---
 
@@ -11,12 +11,12 @@
 | --- | --- |
 | symbol | KBC |
 | exchange | HOSE |
-| market_cap | 32443451447550 |
+| market_cap | 32490539185500 |
 | 52w_high | 41150 |
 | 52w_high_date | 2025-09-05 |
-| 52w_low | 23500 |
-| 52w_low_date | 2025-05-06 |
-| foreign_ownership | 9.3344 |
+| 52w_low | 24200 |
+| 52w_low_date | 2025-05-09 |
+| foreign_ownership | 9.3288 |
 | dividend | 0 |
 | beta | 1.12 |
 | eps | 1782 |
@@ -24,10 +24,10 @@
 | bvps | 28628 |
 | pe | 19.33 |
 | pb | 1.20 |
-| price_chg_1m | 7.66 |
-| price_chg_ytd | 45.67 |
-| price_chg_1m_rank | 11.46 |
-| price_chg_ytd_rank | 51.19 |
+| price_chg_1m | 8.65 |
+| price_chg_ytd | 47.02 |
+| price_chg_1m_rank | 11.52 |
+| price_chg_ytd_rank | 50.67 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,35 +36,35 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 34.45 |
-| MA5 | 34.2 |
-| MA10 | 34.375 |
-| EMA20 | 33.723 |
-| EMA50 | 33.295 |
-| Slope MA20 (5p, %) | 0.97 |
-| ATR(14) | 1.012 |
-| RSI(14) | 58.9 |
+| Giá đóng cửa | 34.6 |
+| MA5 | 34.28 |
+| MA10 | 34.33 |
+| EMA20 | 33.807 |
+| EMA50 | 33.363 |
+| Slope MA20 (5p, %) | 0.99 |
+| ATR(14) | 0.99 |
+| RSI(14) | 59.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.569 |
-| MACD Signal | 0.578 |
-| MACD Histogram | -0.009 |
+| MACD | 0.567 |
+| MACD Signal | 0.575 |
+| MACD Histogram | -0.008 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 4194878 |
+| KL avg 60 phiên | 4169278 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    38.154 | 1.68        | 2             |
-| 🔴 Kháng cự    |    36.183 | 2.41        | 2             |
-| 🔴 Kháng cự    |    34.95  | 0.59        | 1             |
-| ▶ Giá hiện tại |    34.45  | —           | —             |
-| 🟢 Hỗ trợ      |    33.28  | 1.78        | 2             |
-| 🟢 Hỗ trợ      |    32.45  | 0.63        | 1             |
-| 🟢 Hỗ trợ      |    29.5   | 1.1         | 1             |
+| 🔴 Kháng cự    |    38.154 | 1.66        | 2             |
+| 🔴 Kháng cự    |    36.183 | 2.39        | 2             |
+| 🔴 Kháng cự    |    34.95  | 0.58        | 1             |
+| ▶ Giá hiện tại |    34.6   | —           | —             |
+| 🟢 Hỗ trợ      |    33.343 | 3.19        | 3             |
+| 🟢 Hỗ trợ      |    32.45  | 0.62        | 1             |
+| 🟢 Hỗ trợ      |    29.5   | 1.09        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-24 | 1898200 | -54.7%     | 0.202%         |
-| 2026-04-28 | 1729800 | -58.8%     | 0.184%         |
-| 2026-04-29 | 2170500 | -48.3%     | 0.230%         |
-| 2026-05-04 | 4527400 | +7.9%      | 0.481%         |
-| 2026-05-05 | 2912300 | -30.6%     | 0.309%         |
+| 2026-04-28 | 1729800 | -58.5%     | 0.184%         |
+| 2026-04-29 | 2170500 | -47.9%     | 0.230%         |
+| 2026-05-04 | 4527400 | +8.6%      | 0.481%         |
+| 2026-05-05 | 2912300 | -30.1%     | 0.309%         |
+| 2026-05-06 | 3260300 | -21.8%     | 0.346%         |
 
-- KL trung bình 60 phiên: **4,194,878**
+- KL trung bình 60 phiên: **4,169,278**
 - Số CP lưu hành: **941,754,759**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                               | publishtime             | url                                                                                                        |
-|:------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------|
-| KBC, TCB và HPG có gì hấp dẫn?                                                      | 2026-05-04T11:46:27.21  | /2026/05/kbc-tcb-va-hpg-co-gi-hap-dan-145-1436849.htm                                                      |
-| Lợi nhuận quý 1 của Kinh Bắc giảm hơn 70%, nợ vay vượt 30 ngàn tỷ                   | 2026-04-30T09:42:00     | /2026/04/loi-nhuan-quy-1-cua-kinh-bac-giam-hon-70-no-vay-vuot-30-ngan-ty-737-1435516.htm                   |
-| KBC: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                  | 2026-04-29T10:43:24     | /2026/04/kbc-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1435342.htm                 |
-| KBC: BCTC quý 1 năm 2026                                                            | 2026-04-29T00:00:00     | /2026/04/kbc-bctc-quy-1-nam-2026-737-1435331.htm                                                           |
-| KBC: BCTC Hợp nhất quý 1 năm 2026                                                   | 2026-04-29T00:00:00     | /2026/04/kbc-bctc-hop-nhat-quy-1-nam-2026-737-1435332.htm                                                  |
-| KBC: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo           | 2026-04-20T10:03:59     | /2026/04/kbc-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1429970.htm           |
-| Ông Đặng Thành Tâm kêu gọi cổ đông đi cùng “đoàn tàu” KBC để chờ ngày hái thành quả | 2026-04-18T16:18:16.327 | /2026/04/ong-dang-thanh-tam-keu-goi-co-dong-di-cung-doan-tau-kbc-de-cho-ngay-hai-thanh-qua-830-1429765.htm |
-| ĐHĐCĐ KBC: “Khát” vốn nhưng vẫn cam kết chia cổ tức 2026                            | 2026-04-18T12:27:00     | /2026/04/dhdcd-kbc-khat-von-nhung-van-cam-ket-chia-co-tuc-2026-737-1429716.htm                             |
-| KBC: Báo cáo về ngày trở thành cổ đông lớn Công ty Cổ phần Chứng khoán VPBank       | 2026-04-16T17:43:08     | /2026/04/kbc-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cong-ty-co-phan-chung-khoan-vpbank-739-1428780.htm      |
-| Phân tích kỹ thuật phiên chiều 16/04: Sự tích cực kéo dài                           | 2026-04-16T13:12:00     | /2026/04/phan-tich-ky-thuat-phien-chieu-1604-su-tich-cuc-keo-dai-585-1428452.htm                           |
+| title                                                                                          | publishtime             | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| KBC: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Thị Kim Thanh | 2026-05-05T17:39:39     | /2026/05/kbc-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-thi-kim-thanh-739-1438149.htm |
+| KBC, TCB và HPG có gì hấp dẫn?                                                                 | 2026-05-04T11:46:27.21  | /2026/05/kbc-tcb-va-hpg-co-gi-hap-dan-145-1436849.htm                                                                  |
+| Lợi nhuận quý 1 của Kinh Bắc giảm hơn 70%, nợ vay vượt 30 ngàn tỷ                              | 2026-04-30T09:42:00     | /2026/04/loi-nhuan-quy-1-cua-kinh-bac-giam-hon-70-no-vay-vuot-30-ngan-ty-737-1435516.htm                               |
+| KBC: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                             | 2026-04-29T10:43:24     | /2026/04/kbc-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1435342.htm                             |
+| KBC: BCTC quý 1 năm 2026                                                                       | 2026-04-29T00:00:00     | /2026/04/kbc-bctc-quy-1-nam-2026-737-1435331.htm                                                                       |
+| KBC: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-29T00:00:00     | /2026/04/kbc-bctc-hop-nhat-quy-1-nam-2026-737-1435332.htm                                                              |
+| KBC: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                      | 2026-04-20T10:03:59     | /2026/04/kbc-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1429970.htm                       |
+| Ông Đặng Thành Tâm kêu gọi cổ đông đi cùng “đoàn tàu” KBC để chờ ngày hái thành quả            | 2026-04-18T16:18:16.327 | /2026/04/ong-dang-thanh-tam-keu-goi-co-dong-di-cung-doan-tau-kbc-de-cho-ngay-hai-thanh-qua-830-1429765.htm             |
+| ĐHĐCĐ KBC: “Khát” vốn nhưng vẫn cam kết chia cổ tức 2026                                       | 2026-04-18T12:27:00     | /2026/04/dhdcd-kbc-khat-von-nhung-van-cam-ket-chia-co-tuc-2026-737-1429716.htm                                         |
+| KBC: Báo cáo về ngày trở thành cổ đông lớn Công ty Cổ phần Chứng khoán VPBank                  | 2026-04-16T17:43:08     | /2026/04/kbc-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cong-ty-co-phan-chung-khoan-vpbank-739-1428780.htm                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +3.20% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -3.20% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -1.04% |
+| % Cổ phiếu hôm nay | +0.29% |
+| RS (CP − Ngành) | +1.33% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| KBC      | 2025-12-17 00:00:00 |  34.5  |  34.5  | 33.8  |   33.8  |  1324000 |
 | KBC      | 2025-12-18 00:00:00 |  33.75 |  34.35 | 33.7  |   33.8  |  1436600 |
 | KBC      | 2025-12-19 00:00:00 |  34.2  |  34.3  | 33.75 |   34.3  |  1921600 |
 | KBC      | 2025-12-22 00:00:00 |  34.6  |  34.7  | 34.25 |   34.6  |  1807400 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | KBC      | 2026-04-29 00:00:00 |  34.3  |  34.3  | 33.75 |   33.9  |  2170500 |
 | KBC      | 2026-05-04 00:00:00 |  33.85 |  35    | 33.8  |   34.45 |  4527400 |
 | KBC      | 2026-05-05 00:00:00 |  34.2  |  34.45 | 33.85 |   34.45 |  2912300 |
+| KBC      | 2026-05-06 00:00:00 |  34.65 |  35.05 | 34.35 |   34.6  |  3260300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| KBC      | 2026-05-05 14:24:18 |   33.95 |      100 | Sell         | 470588244 |
-| KBC      | 2026-05-05 14:24:18 |   33.95 |     1200 | Sell         | 470588250 |
-| KBC      | 2026-05-05 14:24:20 |   33.95 |      100 | Sell         | 470588382 |
-| KBC      | 2026-05-05 14:24:33 |   34    |     4100 | Buy          | 470589077 |
-| KBC      | 2026-05-05 14:24:33 |   33.95 |     1100 | Sell         | 470589069 |
-| KBC      | 2026-05-05 14:24:33 |   34    |      300 | Buy          | 470589075 |
-| KBC      | 2026-05-05 14:24:33 |   34    |      600 | Buy          | 470589076 |
-| KBC      | 2026-05-05 14:24:37 |   33.95 |     5000 | Sell         | 470589295 |
-| KBC      | 2026-05-05 14:24:37 |   33.95 |      300 | Sell         | 470589306 |
-| KBC      | 2026-05-05 14:24:46 |   33.95 |      100 | Sell         | 470589693 |
+| KBC      | 2026-05-06 11:01:44 |   34.55 |     3400 | Sell         | 470819380 |
+| KBC      | 2026-05-06 11:01:44 |   34.55 |    12600 | Sell         | 470819381 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |     1200 | Sell         | 470819421 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |      100 | Sell         | 470819425 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |      100 | Sell         | 470819424 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |     7400 | Sell         | 470819420 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |     1000 | Sell         | 470819422 |
+| KBC      | 2026-05-06 11:01:46 |   34.55 |      100 | Sell         | 470819423 |
+| KBC      | 2026-05-06 11:02:01 |   34.55 |     6000 | Buy          | 470819663 |
+| KBC      | 2026-05-06 11:02:13 |   34.55 |      100 | Buy          | 470819958 |
 
 <!-- END:DAILY -->
 
