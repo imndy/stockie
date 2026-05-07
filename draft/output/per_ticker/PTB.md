@@ -1,6 +1,6 @@
 # PTB — CTCP Phú Tài
 **Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
-> 📅 Daily: 06/05/2026 11:12  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 07/05/2026 10:53  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PTB |
 | exchange | HOSE |
-| market_cap | 4012287895800 |
+| market_cap | 4040402025200 |
 | 52w_high | 57900 |
 | 52w_high_date | 2026-02-27 |
 | 52w_low | 40867 |
 | 52w_low_date | 2025-10-03 |
-| foreign_ownership | 16.0944 |
+| foreign_ownership | 16.1034 |
 | dividend | 1500 |
 | beta | 0.82 |
 | eps | 8041 |
-| eps_forward | 5.274044198392843 |
+| eps_forward | 5.31632110579479 |
 | bvps | 45509 |
-| pe | 6.21 |
-| pb | 1.10 |
-| price_chg_1m | 4.06 |
-| price_chg_ytd | 17.31 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
-| yield | 0.03003003003003003 |
+| pe | 6.26 |
+| pb | 1.11 |
+| price_chg_1m | 6.34 |
+| price_chg_ytd | 19.33 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
+| yield | 0.02982107355864811 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,23 +36,23 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 49.95 |
-| MA5 | 49.99 |
-| MA10 | 49.825 |
-| EMA20 | 49.725 |
-| EMA50 | 49.955 |
-| Slope MA20 (5p, %) | 0.34 |
-| ATR(14) | 1.107 |
-| RSI(14) | 51.3 |
+| Giá đóng cửa | 50.1 |
+| MA5 | 50.08 |
+| MA10 | 49.82 |
+| EMA20 | 49.791 |
+| EMA50 | 49.974 |
+| Slope MA20 (5p, %) | 0.39 |
+| ATR(14) | 1.111 |
+| RSI(14) | 52.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.007 |
-| MACD Signal | -0.121 |
-| MACD Histogram | 0.128 |
+| Giá vs EMA50 | Trên |
+| MACD | 0.053 |
+| MACD Signal | -0.082 |
+| MACD Histogram | 0.135 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 157965 |
+| KL avg 60 phiên | 145432 |
 
 ## Vùng hỗ trợ / Kháng cự
 
@@ -60,19 +60,19 @@
 |:---------------|----------:|:------------|:--------------|
 | 🔴 Kháng cự    |    53     | 0.79        | 1             |
 | 🔴 Kháng cự    |    51     | 0.92        | 1             |
-| 🔴 Kháng cự    |    50.9   | 2.76        | 2             |
-| ▶ Giá hiện tại |    49.95  | —           | —             |
-| 🟢 Hỗ trợ      |    48.8   | 0.83        | 1             |
-| 🟢 Hỗ trợ      |    48.046 | 2.52        | 2             |
-| 🟢 Hỗ trợ      |    46.95  | 1.3         | 1             |
+| 🔴 Kháng cự    |    50.9   | 2.74        | 2             |
+| ▶ Giá hiện tại |    50.1   | —           | —             |
+| 🟢 Hỗ trợ      |    49.95  | 1.24        | 1             |
+| 🟢 Hỗ trợ      |    48.8   | 0.82        | 1             |
+| 🟢 Hỗ trợ      |    48.046 | 2.5         | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PTB |
-| pe | 6.21 |
-| pb | 1.10 |
+| pe | 6.26 |
+| pb | 1.11 |
 | roe | 16.29 |
 | roe_pct_rank | 61 |
 | roa | 8.44 |
@@ -81,7 +81,7 @@
 | bvps | 45509 |
 | beta | 0.82 |
 | dividend | 1500 |
-| yield | 0.03003003003003003 |
+| yield | 0.02982107355864811 |
 | pe_pct_rank | 35 |
 | pb_pct_rank | 47 |
 | financial_date | 12/2025 |
@@ -91,19 +91,20 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-28 | 124100 | -21.4%     | 0.154%         |
-| 2026-04-29 | 108700 | -31.2%     | 0.135%         |
-| 2026-05-04 |  46200 | -70.8%     | 0.058%         |
-| 2026-05-05 |  75700 | -52.1%     | 0.094%         |
-| 2026-05-06 |  18500 | -88.3%     | 0.023%         |
+| 2026-04-29 | 108700 | -25.3%     | 0.135%         |
+| 2026-05-04 |  46200 | -68.2%     | 0.058%         |
+| 2026-05-05 |  75700 | -47.9%     | 0.094%         |
+| 2026-05-06 |  71300 | -51.0%     | 0.089%         |
+| 2026-05-07 |  37300 | -74.4%     | 0.046%         |
 
-- KL trung bình 60 phiên: **157,965**
+- KL trung bình 60 phiên: **145,431**
 - Số CP lưu hành: **80,326,084**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                             | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PTB: Quyết định của HĐQT về việc góp vốn đầu tư thành lập Công ty liên doanh                      | 2026-05-06T16:52:42 | /2026/05/ptb-quyet-dinh-cua-hdqt-ve-viec-gop-von-dau-tu-thanh-lap-cong-ty-lien-doanh-737-1438820.htm                      |
 | PTB: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                          | 2026-05-04T11:11:00 | /2026/05/ptb-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436955.htm                                          |
 | PTB: BCTC quý 1 năm 2026                                                                          | 2026-04-30T00:00:00 | /2026/04/ptb-bctc-quy-1-nam-2026-737-1436896.htm                                                                          |
 | PTB: BCTC Hợp nhất quý 1 năm 2026                                                                 | 2026-04-30T00:00:00 | /2026/04/ptb-bctc-hop-nhat-quy-1-nam-2026-737-1436898.htm                                                                 |
@@ -113,7 +114,6 @@
 | PTB: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Lê Thục Trinh           | 2026-04-28T14:59:48 | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thuc-trinh-739-1434630.htm           |
 | PTB: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức | 2026-04-28T13:33:28 | /2026/04/ptb-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-738-1434550.ht… |
 | PTB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Lê Thục Trinh     | 2026-04-24T18:39:39 | /2026/04/ptb-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thuc-trinh-739-1433824.htm     |
-| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Lê Anh Văn                                     | 2026-04-22T15:13:57 | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-le-anh-van-830-1431974.htm                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +121,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | SX Phụ trợ |
-| % Ngành hôm nay | +0.72% |
-| % Cổ phiếu hôm nay | +0.10% |
-| RS (CP − Ngành) | -0.62% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PTB      | 2025-12-18 00:00:00 |  44.4  |  44.6  | 43.7  |   44.3  |    17668 |
 | PTB      | 2025-12-19 00:00:00 |  43.85 |  44.5  | 43.85 |   44    |    58817 |
 | PTB      | 2025-12-22 00:00:00 |  43.55 |  44.2  | 43.35 |   44    |   129065 |
 | PTB      | 2025-12-23 00:00:00 |  44.05 |  44.05 | 43.65 |   44    |    37102 |
@@ -222,22 +215,23 @@ _Không có dữ liệu_
 | PTB      | 2026-04-29 00:00:00 |  49.35 |  50.3  | 49.35 |   50.1  |   108700 |
 | PTB      | 2026-05-04 00:00:00 |  49.95 |  50.5  | 49.75 |   50    |    46200 |
 | PTB      | 2026-05-05 00:00:00 |  50    |  50.1  | 49.6  |   49.9  |    75700 |
-| PTB      | 2026-05-06 00:00:00 |  50    |  50    | 49.75 |   49.95 |    18500 |
+| PTB      | 2026-05-06 00:00:00 |  50    |  50.4  | 49.75 |   50.3  |    71300 |
+| PTB      | 2026-05-07 00:00:00 |  50.8  |  50.8  | 50    |   50.1  |    37300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PTB      | 2026-05-06 09:20:21 |   50    |      100 | Sell         | 470635579 |
-| PTB      | 2026-05-06 09:22:30 |   50    |      100 | Buy          | 470640209 |
-| PTB      | 2026-05-06 09:34:39 |   49.9  |     1000 | Sell         | 470664185 |
-| PTB      | 2026-05-06 09:35:13 |   49.9  |     2000 | Sell         | 470665158 |
-| PTB      | 2026-05-06 09:35:13 |   49.9  |     3500 | Sell         | 470665159 |
-| PTB      | 2026-05-06 09:35:14 |   49.9  |      200 | Sell         | 470665190 |
-| PTB      | 2026-05-06 09:37:43 |   49.9  |     1200 | Sell         | 470670302 |
-| PTB      | 2026-05-06 09:44:49 |   49.9  |      100 | Sell         | 470689186 |
-| PTB      | 2026-05-06 09:58:23 |   49.85 |      100 | Sell         | 470715684 |
-| PTB      | 2026-05-06 10:05:50 |   49.85 |      900 | Sell         | 470728087 |
+| PTB      | 2026-05-07 09:15:00 |    50.8 |     2000 | ATO          | 471217820 |
+| PTB      | 2026-05-07 09:15:24 |    50.7 |      600 | Sell         | 471219067 |
+| PTB      | 2026-05-07 09:17:52 |    50.7 |      100 | Buy          | 471228216 |
+| PTB      | 2026-05-07 09:24:29 |    50.5 |      100 | Buy          | 471256172 |
+| PTB      | 2026-05-07 09:27:57 |    50.4 |      300 | Sell         | 471269839 |
+| PTB      | 2026-05-07 09:27:57 |    50.4 |      100 | Sell         | 471269840 |
+| PTB      | 2026-05-07 09:27:58 |    50.4 |      100 | Sell         | 471269916 |
+| PTB      | 2026-05-07 09:28:06 |    50.5 |      700 | Buy          | 471270396 |
+| PTB      | 2026-05-07 09:28:06 |    50.5 |      300 | Buy          | 471270397 |
+| PTB      | 2026-05-07 09:37:28 |    50.3 |      100 | Sell         | 471294876 |
 
 <!-- END:DAILY -->
 

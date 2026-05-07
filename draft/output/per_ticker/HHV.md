@@ -1,6 +1,6 @@
 # HHV — CTCP Đầu tư Hạ tầng Giao thông Đèo Cả
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 06/05/2026 11:09  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 07/05/2026 10:50  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HHV |
 | exchange | HOSE |
-| market_cap | 6866937014800 |
+| market_cap | 6976370274000 |
 | 52w_high | 16378 |
 | 52w_high_date | 2025-09-29 |
 | 52w_low | 11000 |
 | 52w_low_date | 2026-03-09 |
-| foreign_ownership | 10.3217 |
+| foreign_ownership | 10.3852 |
 | dividend | 0 |
 | beta | 0.73 |
 | eps | 1293 |
-| eps_forward | 9.000385730817035 |
+| eps_forward | 9.214680629169822 |
 | bvps | 25907 |
-| pe | 9.75 |
-| pb | 0.49 |
-| price_chg_1m | 7.23 |
-| price_chg_ytd | 11.82 |
-| price_chg_1m_rank | 11.55 |
-| price_chg_ytd_rank | 50.71 |
+| pe | 9.98 |
+| pb | 0.50 |
+| price_chg_1m | 8.47 |
+| price_chg_ytd | 13.13 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,53 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.6 |
-| MA5 | 12.58 |
-| MA10 | 12.64 |
-| EMA20 | 12.553 |
-| EMA50 | 12.456 |
-| Slope MA20 (5p, %) | 0.17 |
-| ATR(14) | 0.402 |
-| RSI(14) | 52.2 |
+| Giá đóng cửa | 12.9 |
+| MA5 | 12.72 |
+| MA10 | 12.685 |
+| EMA20 | 12.612 |
+| EMA50 | 12.485 |
+| Slope MA20 (5p, %) | 0.66 |
+| ATR(14) | 0.401 |
+| RSI(14) | 57.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.105 |
-| MACD Signal | 0.133 |
-| MACD Histogram | -0.028 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 6057980 |
+| MACD | 0.138 |
+| MACD Signal | 0.138 |
+| MACD Histogram | 0.0 |
+| MACD nhận xét | MACD gần cắt Signal (chú ý) |
+| KL avg 60 phiên | 6099945 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    13.45  | 1.34        | 1             |
-| 🔴 Kháng cự    |    13.188 | 3.63        | 3             |
-| 🔴 Kháng cự    |    12.853 | 3.02        | 3             |
-| ▶ Giá hiện tại |    12.6   | —           | —             |
-| 🟢 Hỗ trợ      |    12.55  | 1.26        | 1             |
-| 🟢 Hỗ trợ      |    12.223 | 2.81        | 3             |
-| 🟢 Hỗ trợ      |    11.981 | 1.76        | 2             |
+| 🔴 Kháng cự    |    13.45  | 1.33        | 1             |
+| 🔴 Kháng cự    |    13.188 | 3.6         | 3             |
+| ▶ Giá hiện tại |    12.9   | —           | —             |
+| 🟢 Hỗ trợ      |    12.853 | 3.0         | 3             |
+| 🟢 Hỗ trợ      |    12.55  | 1.25        | 1             |
+| 🟢 Hỗ trợ      |    12.223 | 2.79        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HHV |
-| pe | 9.75 |
-| pb | 0.49 |
+| pe | 9.98 |
+| pb | 0.50 |
 | roe | 9.09 |
 | roe_pct_rank | 45 |
 | roa | 1.48 |
-| roa_pct_rank | 34 |
+| roa_pct_rank | 38 |
 | eps | 1293 |
 | bvps | 25907 |
 | beta | 0.73 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 43 |
+| pe_pct_rank | 44 |
 | pb_pct_rank | 19 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -91,29 +90,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-28 | 3425400 | -43.5%     | 0.626%         |
-| 2026-04-29 | 4614300 | -23.8%     | 0.843%         |
-| 2026-05-04 | 5316300 | -12.2%     | 0.972%         |
-| 2026-05-05 | 4629000 | -23.6%     | 0.846%         |
-| 2026-05-06 | 1188700 | -80.4%     | 0.217%         |
+| 2026-04-29 | 4614300 | -24.4%     | 0.843%         |
+| 2026-05-04 | 5316300 | -12.8%     | 0.972%         |
+| 2026-05-05 | 4629000 | -24.1%     | 0.846%         |
+| 2026-05-06 | 5455700 | -10.6%     | 0.997%         |
+| 2026-05-07 | 2151500 | -64.7%     | 0.393%         |
 
-- KL trung bình 60 phiên: **6,057,980**
+- KL trung bình 60 phiên: **6,099,945**
 - Số CP lưu hành: **547,166,296**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                           | publishtime            | url                                                                                                     |
-|:--------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------|
-| HHV: Giải trình biến động LNST trên BCTC HN quý 1/2026 so với cùng kỳ năm trước | 2026-05-04T08:58:10    | /2026/05/hhv-giai-trinh-bien-dong-lnst-tren-bctc-hn-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436755.htm |
-| HHV: BCTC Hợp nhất quý 1 năm 2026                                               | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-hop-nhat-quy-1-nam-2026-737-1436793.htm                                               |
-| HHV: BCTC quý 1 năm 2026                                                        | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-quy-1-nam-2026-737-1436794.htm                                                        |
-| HHV: Thông báo mời họp ĐHĐCĐ thường niên 2026 lần 2                             | 2026-04-24T16:17:17    | /2026/04/hhv-thong-bao-moi-hop-dhdcd-thuong-nien-2026-lan-2-737-1433486.htm                             |
-| HHV: Biên bản ghi nhận cuộc họp ĐHĐCĐ thường niên 2026                          | 2026-04-24T16:16:40    | /2026/04/hhv-bien-ban-ghi-nhan-cuoc-hop-dhdcd-thuong-nien-2026-737-1433485.htm                          |
-| HHV ước lợi nhuận sau thuế quý 1 gần 220 tỷ đồng                                | 2026-04-24T10:39:46.18 | /2026/04/hhv-uoc-loi-nhuan-sau-thue-quy-1-gan-220-ty-dong-737-1433084.htm                               |
-| HHV: Báo cáo thường niên năm 2025                                               | 2026-04-21T08:51:17    | /2026/04/hhv-bao-cao-thuong-nien-nam-2025-737-1430938.htm                                               |
-| Cổ đông lớn đề cử 2 ứng viên vào Ban Kiểm soát Đèo Cả trước thềm ĐHĐCĐ          | 2026-04-14T11:22:15.84 | /2026/04/co-dong-lon-de-cu-2-ung-vien-vao-ban-kiem-soat-deo-ca-truoc-them-dhdcd-214-1427244.htm         |
-| HHV: Danh sách ứng viên bầu làm Kiểm soát viên nhiệm kỳ 2026-2031               | 2026-04-13T18:02:29    | /2026/04/hhv-danh-sach-ung-vien-bau-lam-kiem-soat-vien-nhiem-ky-20262031-830-1427131.htm                |
-| HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết          | 2026-04-09T17:51:38    | /2026/04/hhv-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1425709.htm          |
+| title                                                                                          | publishtime            | url                                                                                                                     |
+|:-----------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------------|
+| Đại Quang Minh tăng vốn lên tỷ USD, đề xuất mới cho siêu dự án trục đại lộ cảnh quan sông Hồng | 2026-05-06T12:31:07.18 | /2026/05/dai-quang-minh-tang-von-len-ty-usd-de-xuat-moi-cho-sieu-du-an-truc-dai-lo-canh-quan-song-hong-4221-1438484.htm |
+| HHV: Giải trình biến động LNST trên BCTC HN quý 1/2026 so với cùng kỳ năm trước                | 2026-05-04T08:58:10    | /2026/05/hhv-giai-trinh-bien-dong-lnst-tren-bctc-hn-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436755.htm                 |
+| HHV: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-hop-nhat-quy-1-nam-2026-737-1436793.htm                                                               |
+| HHV: BCTC quý 1 năm 2026                                                                       | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-quy-1-nam-2026-737-1436794.htm                                                                        |
+| HHV: Thông báo mời họp ĐHĐCĐ thường niên 2026 lần 2                                            | 2026-04-24T16:17:17    | /2026/04/hhv-thong-bao-moi-hop-dhdcd-thuong-nien-2026-lan-2-737-1433486.htm                                             |
+| HHV: Biên bản ghi nhận cuộc họp ĐHĐCĐ thường niên 2026                                         | 2026-04-24T16:16:40    | /2026/04/hhv-bien-ban-ghi-nhan-cuoc-hop-dhdcd-thuong-nien-2026-737-1433485.htm                                          |
+| HHV ước lợi nhuận sau thuế quý 1 gần 220 tỷ đồng                                               | 2026-04-24T10:39:46.18 | /2026/04/hhv-uoc-loi-nhuan-sau-thue-quy-1-gan-220-ty-dong-737-1433084.htm                                               |
+| HHV: Báo cáo thường niên năm 2025                                                              | 2026-04-21T08:51:17    | /2026/04/hhv-bao-cao-thuong-nien-nam-2025-737-1430938.htm                                                               |
+| Cổ đông lớn đề cử 2 ứng viên vào Ban Kiểm soát Đèo Cả trước thềm ĐHĐCĐ                         | 2026-04-14T11:22:15.84 | /2026/04/co-dong-lon-de-cu-2-ung-vien-vao-ban-kiem-soat-deo-ca-truoc-them-dhdcd-214-1427244.htm                         |
+| HHV: Danh sách ứng viên bầu làm Kiểm soát viên nhiệm kỳ 2026-2031                              | 2026-04-13T18:02:29    | /2026/04/hhv-danh-sach-ung-vien-bau-lam-kiem-soat-vien-nhiem-ky-20262031-830-1427131.htm                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +120,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | -0.40% |
-| RS (CP − Ngành) | -0.70% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HHV      | 2025-12-18 00:00:00 |  13.62 |  13.77 | 13.47 |   13.77 |  3032436 |
 | HHV      | 2025-12-19 00:00:00 |  13.82 |  13.86 | 13.47 |   13.52 |  4300842 |
 | HHV      | 2025-12-22 00:00:00 |  13.62 |  13.77 | 13.52 |   13.67 |  6001068 |
 | HHV      | 2025-12-23 00:00:00 |  13.77 |  13.77 | 13.38 |   13.38 |  9709484 |
@@ -222,22 +214,23 @@ _Không có dữ liệu_
 | HHV      | 2026-04-29 00:00:00 |  12.5  |  12.65 | 12.5  |   12.5  |  4614300 |
 | HHV      | 2026-05-04 00:00:00 |  12.6  |  12.9  | 12.6  |   12.7  |  5316300 |
 | HHV      | 2026-05-05 00:00:00 |  12.65 |  12.9  | 12.55 |   12.6  |  4629000 |
-| HHV      | 2026-05-06 00:00:00 |  12.6  |  12.7  | 12.55 |   12.6  |  1188700 |
+| HHV      | 2026-05-06 00:00:00 |  12.6  |  12.9  | 12.55 |   12.9  |  5455700 |
+| HHV      | 2026-05-07 00:00:00 |  12.9  |  12.95 | 12.75 |   12.9  |  2151500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HHV      | 2026-05-06 10:51:28 |   12.55 |      500 | Sell         | 470805163 |
-| HHV      | 2026-05-06 10:51:28 |   12.55 |      100 | Sell         | 470805165 |
-| HHV      | 2026-05-06 10:51:28 |   12.55 |      200 | Sell         | 470805166 |
-| HHV      | 2026-05-06 10:51:53 |   12.6  |     2000 | Buy          | 470805698 |
-| HHV      | 2026-05-06 10:51:55 |   12.55 |      200 | Sell         | 470805719 |
-| HHV      | 2026-05-06 10:52:15 |   12.55 |      100 | Sell         | 470806219 |
-| HHV      | 2026-05-06 10:52:26 |   12.55 |      500 | Sell         | 470806485 |
-| HHV      | 2026-05-06 10:52:26 |   12.55 |      600 | Sell         | 470806486 |
-| HHV      | 2026-05-06 10:52:26 |   12.55 |      100 | Sell         | 470806487 |
-| HHV      | 2026-05-06 10:52:26 |   12.55 |      200 | Sell         | 470806488 |
+| HHV      | 2026-05-07 10:45:50 |   12.8  |      100 | Sell         | 471484895 |
+| HHV      | 2026-05-07 10:46:42 |   12.8  |      500 | Sell         | 471487299 |
+| HHV      | 2026-05-07 10:47:07 |   12.8  |      200 | Sell         | 471488317 |
+| HHV      | 2026-05-07 10:47:20 |   12.8  |      500 | Sell         | 471488898 |
+| HHV      | 2026-05-07 10:47:20 |   12.8  |     1000 | Sell         | 471488903 |
+| HHV      | 2026-05-07 10:47:24 |   12.85 |    10000 | Buy          | 471489021 |
+| HHV      | 2026-05-07 10:47:39 |   12.85 |     2000 | Buy          | 471489652 |
+| HHV      | 2026-05-07 10:47:44 |   12.85 |     1000 | Buy          | 471489811 |
+| HHV      | 2026-05-07 10:47:48 |   12.85 |     6000 | Buy          | 471489967 |
+| HHV      | 2026-05-07 10:47:50 |   12.85 |     2000 | Buy          | 471490050 |
 
 <!-- END:DAILY -->
 

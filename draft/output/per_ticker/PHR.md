@@ -1,6 +1,6 @@
 # PHR — CTCP Cao su Phước Hòa
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 06/05/2026 11:12  |  🗂 Quarterly: 03/05/2026 14:15
+> 📅 Daily: 07/05/2026 10:52  |  🗂 Quarterly: 03/05/2026 14:15
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PHR |
 | exchange | HOSE |
-| market_cap | 8685498591800 |
+| market_cap | 8726148351200 |
 | 52w_high | 69000 |
 | 52w_high_date | 2026-03-03 |
-| 52w_low | 43919 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 13.7309 |
+| 52w_low | 44261 |
+| 52w_low_date | 2025-05-23 |
+| foreign_ownership | 13.7434 |
 | dividend | 1350 |
-| beta | 0.7 |
+| beta | 0.69 |
 | eps | 5140 |
-| eps_forward | 35.25348805083575 |
+| eps_forward | 35.47451305428927 |
 | bvps | 33364 |
-| pe | 12.41 |
-| pb | 1.91 |
-| price_chg_1m | 5.78 |
-| price_chg_ytd | 46.44 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
-| yield | 0.02106084243369735 |
+| pe | 12.49 |
+| pb | 1.92 |
+| price_chg_1m | 6.45 |
+| price_chg_ytd | 46.63 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
+| yield | 0.02096273291925466 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,52 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 63.9 |
-| MA5 | 62.86 |
-| MA10 | 62.12 |
-| EMA20 | 62.159 |
-| EMA50 | 61.716 |
-| Slope MA20 (5p, %) | 0.9 |
-| ATR(14) | 1.655 |
-| RSI(14) | 59.9 |
+| Giá đóng cửa | 65.1 |
+| MA5 | 63.7 |
+| MA10 | 62.46 |
+| EMA20 | 62.465 |
+| EMA50 | 61.86 |
+| Slope MA20 (5p, %) | 1.46 |
+| ATR(14) | 1.636 |
+| RSI(14) | 64.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.389 |
-| MACD Signal | 0.157 |
-| MACD Histogram | 0.232 |
+| MACD | 0.591 |
+| MACD Signal | 0.247 |
+| MACD Histogram | 0.344 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 490990 |
+| KL avg 60 phiên | 480965 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    69.9   | 1.05        | 1             |
+| 🔴 Kháng cự    |    69.9   | 1.04        | 1             |
 | 🔴 Kháng cự    |    69.133 | 1.65        | 2             |
-| 🔴 Kháng cự    |    64     | 1.33        | 1             |
-| ▶ Giá hiện tại |    63.9   | —           | —             |
+| ▶ Giá hiện tại |    65.1   | —           | —             |
+| 🟢 Hỗ trợ      |    64     | 1.32        | 1             |
 | 🟢 Hỗ trợ      |    62.7   | 1.14        | 1             |
-| 🟢 Hỗ trợ      |    61.1   | 0.82        | 1             |
-| 🟢 Hỗ trợ      |    59.774 | 2.73        | 2             |
+| 🟢 Hỗ trợ      |    61.1   | 0.81        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PHR |
-| pe | 12.41 |
-| pb | 1.91 |
+| pe | 12.49 |
+| pb | 1.92 |
 | roe | 13.02 |
 | roe_pct_rank | 54 |
 | roa | 8.49 |
 | roa_pct_rank | 62 |
 | eps | 5140 |
 | bvps | 33364 |
-| beta | 0.7 |
+| beta | 0.69 |
 | dividend | 1350 |
-| yield | 0.02106084243369735 |
+| yield | 0.02096273291925466 |
 | pe_pct_rank | 50 |
 | pb_pct_rank | 71 |
 | financial_date | 12/2025 |
@@ -91,29 +90,29 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-28 |  88800 | -81.9%     | 0.066%         |
-| 2026-04-29 | 126700 | -74.2%     | 0.094%         |
-| 2026-05-04 | 620800 | +26.4%     | 0.458%         |
-| 2026-05-05 | 183000 | -62.7%     | 0.135%         |
-| 2026-05-06 |  93700 | -80.9%     | 0.069%         |
+| 2026-04-29 | 126700 | -73.7%     | 0.094%         |
+| 2026-05-04 | 620800 | +29.1%     | 0.458%         |
+| 2026-05-05 | 183000 | -62.0%     | 0.135%         |
+| 2026-05-06 | 271900 | -43.5%     | 0.201%         |
+| 2026-05-07 | 178000 | -63.0%     | 0.131%         |
 
-- KL trung bình 60 phiên: **490,990**
+- KL trung bình 60 phiên: **480,965**
 - Số CP lưu hành: **135,499,198**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| PHR: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-28T00:00:00 | /2026/04/phr-bctc-hop-nhat-quy-1-nam-2026-737-1435198.htm                                                                 |
-| PHR: Thông báo thư mời, giấy ủy quyền tham dự phiên họp ĐHĐCĐ thường niên năm 2026                                        | 2026-04-24T16:41:09 | /2026/04/phr-thong-bao-thu-moi-giay-uy-quyen-tham-du-phien-hop-dhdcd-thuong-nien-nam-2026-737-1433546.htm                 |
-| PHR: BCTC quý 1 năm 2026                                                                                                  | 2026-04-24T00:00:00 | /2026/04/phr-bctc-quy-1-nam-2026-737-1434661.htm                                                                          |
-| PHR: Nhắc nhở chậm CBTT BCTC giải trình chênh lệch LNST trên BCTC kiểm toán 2025 so với quý 4/2025                        | 2026-04-21T10:36:13 | /2026/04/phr-nhac-nho-cham-cbtt-bctc-giai-trinh-chenh-lech-lnst-tren-bctc-kiem-toan-2025-so-voi-quy-4-2025-737-1431076.h… |
-| PHR: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 đã kiểm toán                                                    | 2026-04-17T18:04:51 | /2026/04/phr-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-737-1429561.htm                            |
-| PHR: Ứng cử, đề cử nhân sự bầu bổ sung thành viên HĐQT nhiệm kỳ 2023-2028                                                 | 2026-04-07T17:41:22 | /2026/04/phr-ung-cu-de-cu-nhan-su-bau-bo-sung-thanh-vien-hdqt-nhiem-ky-20232028-214-1424356.htm                           |
-| PHR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-02T17:37:25 | /2026/04/phr-bao-cao-thuong-nien-nam-2025-737-1421797.htm                                                                 |
-| PHR: Thông báo thay đổi nhân sự                                                                                           | 2026-03-31T17:55:00 | /2026/03/phr-thong-bao-thay-doi-nhan-su-214-1419963.htm                                                                   |
-| PHR: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                                               | 2026-03-31T13:40:19 | /2026/03/phr-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026-737-1419491.htm                                       |
-| PHR: Nghị quyết HĐQT về việc phê duyệt mua mủ cao su thành phẩm của Công ty TNHH Phát triển Cao su Phước Hòa - Kampong T… | 2026-03-30T14:06:11 | /2026/03/phr-nghi-quyet-hdqt-ve-viec-phe-duyet-mua-mu-cao-su-thanh-pham-cua-cong-ty-tnhh-phat-trien-cao-su-phuoc-hoa-kam… |
+| title                                                                                              | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PHR: Thông báo thay đổi nhân sự - TGĐ                                                              | 2026-05-06T17:53:59 | /2026/05/phr-thong-bao-thay-doi-nhan-su-tgd-214-1438942.htm                                                               |
+| PHR: BCTC Hợp nhất quý 1 năm 2026                                                                  | 2026-04-28T00:00:00 | /2026/04/phr-bctc-hop-nhat-quy-1-nam-2026-737-1435198.htm                                                                 |
+| PHR: Thông báo thư mời, giấy ủy quyền tham dự phiên họp ĐHĐCĐ thường niên năm 2026                 | 2026-04-24T16:41:09 | /2026/04/phr-thong-bao-thu-moi-giay-uy-quyen-tham-du-phien-hop-dhdcd-thuong-nien-nam-2026-737-1433546.htm                 |
+| PHR: BCTC quý 1 năm 2026                                                                           | 2026-04-24T00:00:00 | /2026/04/phr-bctc-quy-1-nam-2026-737-1434661.htm                                                                          |
+| PHR: Nhắc nhở chậm CBTT BCTC giải trình chênh lệch LNST trên BCTC kiểm toán 2025 so với quý 4/2025 | 2026-04-21T10:36:13 | /2026/04/phr-nhac-nho-cham-cbtt-bctc-giai-trinh-chenh-lech-lnst-tren-bctc-kiem-toan-2025-so-voi-quy-4-2025-737-1431076.h… |
+| PHR: Giải trình chênh lệch LNST BCTC HN và Riêng năm 2025 đã kiểm toán                             | 2026-04-17T18:04:51 | /2026/04/phr-giai-trinh-chenh-lech-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-737-1429561.htm                            |
+| PHR: Ứng cử, đề cử nhân sự bầu bổ sung thành viên HĐQT nhiệm kỳ 2023-2028                          | 2026-04-07T17:41:22 | /2026/04/phr-ung-cu-de-cu-nhan-su-bau-bo-sung-thanh-vien-hdqt-nhiem-ky-20232028-214-1424356.htm                           |
+| PHR: Báo cáo thường niên năm 2025                                                                  | 2026-04-02T17:37:25 | /2026/04/phr-bao-cao-thuong-nien-nam-2025-737-1421797.htm                                                                 |
+| PHR: Thông báo thay đổi nhân sự                                                                    | 2026-03-31T17:55:00 | /2026/03/phr-thong-bao-thay-doi-nhan-su-214-1419963.htm                                                                   |
+| PHR: Thông báo ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2026                                        | 2026-03-31T13:40:19 | /2026/03/phr-thong-bao-ngay-dkcc-to-chuc-dhdcd-thuong-nien-nam-2026-737-1419491.htm                                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +120,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.52% |
-| % Cổ phiếu hôm nay | +0.47% |
-| RS (CP − Ngành) | -0.05% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PHR      | 2025-12-18 00:00:00 |   57.8 |   57.9 |  56.8 |    57   |   104800 |
 | PHR      | 2025-12-19 00:00:00 |   57   |   57.9 |  56.6 |    57.8 |   211800 |
 | PHR      | 2025-12-22 00:00:00 |   57.8 |   58.5 |  57.6 |    58   |   197400 |
 | PHR      | 2025-12-23 00:00:00 |   58   |   58.3 |  56.6 |    56.7 |   262000 |
@@ -222,22 +214,23 @@ _Không có dữ liệu_
 | PHR      | 2026-04-29 00:00:00 |   61.2 |   62   |  60.7 |    61.4 |   126700 |
 | PHR      | 2026-05-04 00:00:00 |   61.9 |   64   |  61.8 |    64   |   620800 |
 | PHR      | 2026-05-05 00:00:00 |   64.5 |   64.5 |  62.6 |    63.8 |   183000 |
-| PHR      | 2026-05-06 00:00:00 |   63.1 |   64.2 |  63.1 |    63.9 |    93700 |
+| PHR      | 2026-05-06 00:00:00 |   63.1 |   64.4 |  63.1 |    64.2 |   271900 |
+| PHR      | 2026-05-07 00:00:00 |   64.2 |   65.4 |  64.2 |    65.1 |   178000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PHR      | 2026-05-06 09:15:00 |    63.1 |      800 | ATO          | 470619236 |
-| PHR      | 2026-05-06 09:15:45 |    64   |      100 | Buy          | 470621304 |
-| PHR      | 2026-05-06 09:15:45 |    64   |     1000 | Buy          | 470621306 |
-| PHR      | 2026-05-06 09:16:17 |    63.9 |     1600 | Buy          | 470622937 |
-| PHR      | 2026-05-06 09:16:24 |    63.9 |      100 | Buy          | 470623373 |
-| PHR      | 2026-05-06 09:16:24 |    63.9 |      400 | Buy          | 470623372 |
-| PHR      | 2026-05-06 09:17:01 |    64   |     1500 | Buy          | 470625694 |
-| PHR      | 2026-05-06 09:17:01 |    64   |      500 | Buy          | 470625695 |
-| PHR      | 2026-05-06 09:17:22 |    64   |      400 | Sell         | 470626564 |
-| PHR      | 2026-05-06 09:18:26 |    64.1 |      200 | Buy          | 470629989 |
+| PHR      | 2026-05-07 10:39:35 |      65 |      100 | Buy          | 471463320 |
+| PHR      | 2026-05-07 10:39:35 |      65 |     2100 | Buy          | 471463325 |
+| PHR      | 2026-05-07 10:39:35 |      65 |      500 | Buy          | 471463324 |
+| PHR      | 2026-05-07 10:39:35 |      65 |     1000 | Buy          | 471463321 |
+| PHR      | 2026-05-07 10:39:35 |      65 |      100 | Buy          | 471463322 |
+| PHR      | 2026-05-07 10:39:35 |      65 |     3000 | Buy          | 471463323 |
+| PHR      | 2026-05-07 10:40:00 |      65 |      100 | Buy          | 471464453 |
+| PHR      | 2026-05-07 10:40:00 |      65 |     1500 | Buy          | 471464456 |
+| PHR      | 2026-05-07 10:40:00 |      65 |     1800 | Buy          | 471464457 |
+| PHR      | 2026-05-07 10:40:00 |      65 |      400 | Buy          | 471464448 |
 
 <!-- END:DAILY -->
 

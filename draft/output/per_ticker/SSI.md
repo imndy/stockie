@@ -1,6 +1,6 @@
 # SSI — CTCP Chứng khoán SSI
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 06/05/2026 11:14  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 07/05/2026 10:54  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | SSI |
 | exchange | HOSE |
-| market_cap | 69003407730400 |
+| market_cap | 70871731044400 |
 | 52w_high | 37787 |
 | 52w_high_date | 2025-10-15 |
-| 52w_low | 20313 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 32.0585 |
+| 52w_low | 20402 |
+| 52w_low_date | 2025-05-09 |
+| foreign_ownership | 32.0753 |
 | dividend | 1000 |
 | beta | 1.06 |
 | eps | 2177 |
-| eps_forward | 11.658346393812963 |
+| eps_forward | 12.170801180354191 |
 | bvps | 15923.98 |
-| pe | 12.54 |
-| pb | 1.71 |
-| price_chg_1m | 2.60 |
-| price_chg_ytd | 34.35 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
-| yield | 0.036101083032490974 |
+| pe | 13.09 |
+| pb | 1.79 |
+| price_chg_1m | 3.64 |
+| price_chg_ytd | 40.30 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
+| yield | 0.0351493848857645 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,32 +36,32 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.7 |
-| MA5 | 27.6 |
-| MA10 | 27.905 |
-| EMA20 | 27.987 |
-| EMA50 | 28.589 |
-| Slope MA20 (5p, %) | -0.9 |
-| ATR(14) | 0.686 |
-| RSI(14) | 45.5 |
+| Giá đóng cửa | 28.45 |
+| MA5 | 27.92 |
+| MA10 | 27.935 |
+| EMA20 | 28.1 |
+| EMA50 | 28.614 |
+| Slope MA20 (5p, %) | -0.3 |
+| ATR(14) | 0.732 |
+| RSI(14) | 52.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.234 |
-| MACD Signal | -0.191 |
-| MACD Histogram | -0.043 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 32531485 |
+| MACD | -0.121 |
+| MACD Signal | -0.167 |
+| MACD Histogram | 0.046 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 32704593 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | 🔴 Kháng cự    |    29.5   | 0.93        | 1             |
-| 🔴 Kháng cự    |    29.347 | 2.71        | 2             |
+| 🔴 Kháng cự    |    29.347 | 2.69        | 2             |
 | 🔴 Kháng cự    |    28.65  | 0.67        | 1             |
-| ▶ Giá hiện tại |    27.7   | —           | —             |
+| ▶ Giá hiện tại |    28.45  | —           | —             |
 | 🟢 Hỗ trợ      |    25.2   | 1.18        | 1             |
 
 ## Tóm tắt chỉ số tài chính
@@ -69,8 +69,8 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SSI |
-| pe | 12.54 |
-| pb | 1.71 |
+| pe | 13.09 |
+| pb | 1.79 |
 | roe | 13.54 |
 | roe_pct_rank | 55 |
 | roa | 4.71 |
@@ -79,9 +79,9 @@
 | bvps | 15923.98 |
 | beta | 1.06 |
 | dividend | 1000 |
-| yield | 0.036101083032490974 |
-| pe_pct_rank | 50 |
-| pb_pct_rank | 65 |
+| yield | 0.0351493848857645 |
+| pe_pct_rank | 51 |
+| pb_pct_rank | 67 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -89,29 +89,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-28 | 10748300 | -67.0%     | 0.431%         |
-| 2026-04-29 | 12241100 | -62.4%     | 0.491%         |
-| 2026-05-04 | 12736100 | -60.8%     | 0.511%         |
-| 2026-05-05 | 14283800 | -56.1%     | 0.573%         |
-| 2026-05-06 |  4510800 | -86.1%     | 0.181%         |
+| 2026-04-29 | 12241100 | -62.6%     | 0.491%         |
+| 2026-05-04 | 12736100 | -61.1%     | 0.511%         |
+| 2026-05-05 | 14283800 | -56.3%     | 0.573%         |
+| 2026-05-06 | 27728100 | -15.2%     | 1.113%         |
+| 2026-05-07 |  7504900 | -77.1%     | 0.301%         |
 
-- KL trung bình 60 phiên: **32,531,485**
+- KL trung bình 60 phiên: **32,704,593**
 - Số CP lưu hành: **2,491,097,752**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SSI: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm thành viên HĐQT                                                  | 2026-04-28T15:40:48     | /2026/04/ssi-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-thanh-vien-hdqt-214-1434745.htm                            |
-| 21 công ty chứng khoán báo lỗ trong quý 1                                                                                 | 2026-04-28T10:42:25.49  | /2026/04/21-cong-ty-chung-khoan-bao-lo-trong-quy-1-737-1434265.htm                                                        |
-| SSI: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-28T10:38:12     | /2026/04/ssi-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434484.htm                                            |
-| SSI: Công bố Biên bản họp, Nghị quyết Đại hội đồng cổ đông thường niên năm 2026 và các tài liệu khác có liên quan         | 2026-04-24T00:00:00     | /2026/04/ssi-cong-bo-bien-ban-hop-nghi-quyet-dai-hoi-dong-co-dong-thuong-nien-nam-2026-va-cac-tai-lieu-khac-co-lien-quan… |
-| SSI: Thông báo thay đổi nhân sự thành viên Hội đồng quản trị/Announce the change in personnel of member of the Board of … | 2026-04-24T00:00:00     | /2026/04/ssi-thong-bao-thay-doi-nhan-su-thanh-vien-hoi-dong-quan-tri-announce-the-change-in-personnel-of-member-of-the-b… |
-| Chủ tịch SSI: Làm “anh cả” là cùng xây và chia sẻ lợi ích thị trường chứ không giành giật                                 | 2026-04-23T16:52:00     | /2026/04/chu-tich-ssi-lam-anh-ca-la-cung-xay-va-chia-se-loi-ich-thi-truong-chu-khong-gianh-giat-737-1432570.htm           |
-| SSI: Báo cáo tài chính hợp nhất Q1 2026                                                                                   | 2026-04-23T12:30:00     | /2026/04/ssi-bao-cao-tai-chinh-hop-nhat-q1-2026-737-1432532.htm                                                           |
-| SSI: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-23T00:00:00     | /2026/04/ssi-bctc-hop-nhat-quy-1-nam-2026-737-1432572.htm                                                                 |
-| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                                                          | 2026-04-21T17:14:00     | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                                    |
-| SSI quý 1/2026: Doanh thu hợp nhất 3,295 tỷ đồng, lãi trước thuế 1,593 tỷ đồng                                            | 2026-04-20T11:39:16.317 | /2026/04/ssi-quy-12026-doanh-thu-hop-nhat-3295-ty-dong-lai-truoc-thue-1593-ty-dong-737-1430025.htm                        |
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SSI: CBTT - Nghị quyết HĐQT thông qua bộ Hồ sơ đăng ký chào bán thêm cổ phiếu cho cổ đông hiện hữu | The Board of Direct… | 2026-05-05T00:00:00    | /2026/05/ssi-cbtt-nghi-quyet-hdqt-thong-qua-bo-ho-so-dang-ky-chao-ban-them-co-phieu-cho-co-dong-hien-huu-|-the-board-of-… |
+| SSI: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm thành viên HĐQT                                                  | 2026-04-28T15:40:48    | /2026/04/ssi-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-thanh-vien-hdqt-214-1434745.htm                            |
+| 21 công ty chứng khoán báo lỗ trong quý 1                                                                                 | 2026-04-28T10:42:25.49 | /2026/04/21-cong-ty-chung-khoan-bao-lo-trong-quy-1-737-1434265.htm                                                        |
+| SSI: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-28T10:38:12    | /2026/04/ssi-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434484.htm                                            |
+| SSI: Công bố Biên bản họp, Nghị quyết Đại hội đồng cổ đông thường niên năm 2026 và các tài liệu khác có liên quan         | 2026-04-24T00:00:00    | /2026/04/ssi-cong-bo-bien-ban-hop-nghi-quyet-dai-hoi-dong-co-dong-thuong-nien-nam-2026-va-cac-tai-lieu-khac-co-lien-quan… |
+| SSI: Thông báo thay đổi nhân sự thành viên Hội đồng quản trị/Announce the change in personnel of member of the Board of … | 2026-04-24T00:00:00    | /2026/04/ssi-thong-bao-thay-doi-nhan-su-thanh-vien-hoi-dong-quan-tri-announce-the-change-in-personnel-of-member-of-the-b… |
+| Chủ tịch SSI: Làm “anh cả” là cùng xây và chia sẻ lợi ích thị trường chứ không giành giật                                 | 2026-04-23T16:52:00    | /2026/04/chu-tich-ssi-lam-anh-ca-la-cung-xay-va-chia-se-loi-ich-thi-truong-chu-khong-gianh-giat-737-1432570.htm           |
+| SSI: Báo cáo tài chính hợp nhất Q1 2026                                                                                   | 2026-04-23T12:30:00    | /2026/04/ssi-bao-cao-tai-chinh-hop-nhat-q1-2026-737-1432532.htm                                                           |
+| SSI: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-23T00:00:00    | /2026/04/ssi-bctc-hop-nhat-quy-1-nam-2026-737-1432572.htm                                                                 |
+| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                                                          | 2026-04-21T17:14:00    | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,19 +119,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | +0.63% |
-| % Cổ phiếu hôm nay | +1.47% |
-| RS (CP − Ngành) | +0.84% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SSI      | 2025-12-18 00:00:00 |  29.65 |  30.1  | 29.35 |   29.85 | 16290583 |
 | SSI      | 2025-12-19 00:00:00 |  30    |  30.95 | 29.85 |   30.8  | 42628200 |
 | SSI      | 2025-12-22 00:00:00 |  30.9  |  31.5  | 30.55 |   31.45 | 29655000 |
 | SSI      | 2025-12-23 00:00:00 |  31.45 |  31.6  | 30.65 |   30.8  | 26174900 |
@@ -220,22 +213,23 @@ _Không có dữ liệu_
 | SSI      | 2026-04-29 00:00:00 |  27.7  |  27.9  | 27.65 |   27.65 | 12241100 |
 | SSI      | 2026-05-04 00:00:00 |  27.85 |  28.15 | 27.7  |   27.7  | 12736100 |
 | SSI      | 2026-05-05 00:00:00 |  27.6  |  27.75 | 27.3  |   27.3  | 14283800 |
-| SSI      | 2026-05-06 00:00:00 |  27.55 |  27.7  | 27.45 |   27.7  |  4510800 |
+| SSI      | 2026-05-06 00:00:00 |  27.55 |  28.7  | 27.45 |   28.5  | 27728100 |
+| SSI      | 2026-05-07 00:00:00 |  28.75 |  28.8  | 28.4  |   28.45 |  7504900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SSI      | 2026-05-06 11:09:40 |   27.65 |      100 | Sell         | 470828838 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |     6300 | Sell         | 470828847 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |      300 | Sell         | 470828846 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |      100 | Sell         | 470828845 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |      100 | Sell         | 470828844 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |     1000 | Sell         | 470828839 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |     1000 | Sell         | 470828842 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |     4000 | Sell         | 470828840 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |     1000 | Sell         | 470828843 |
-| SSI      | 2026-05-06 11:09:40 |   27.65 |      200 | Sell         | 470828841 |
+| SSI      | 2026-05-07 10:49:23 |   28.45 |      100 | Buy          | 471493449 |
+| SSI      | 2026-05-07 10:49:24 |   28.45 |     5100 | Buy          | 471493570 |
+| SSI      | 2026-05-07 10:49:25 |   28.45 |      100 | Buy          | 471493596 |
+| SSI      | 2026-05-07 10:49:27 |   28.45 |      400 | Buy          | 471493653 |
+| SSI      | 2026-05-07 10:49:30 |   28.45 |      200 | Buy          | 471493745 |
+| SSI      | 2026-05-07 10:49:35 |   28.45 |      100 | Buy          | 471493927 |
+| SSI      | 2026-05-07 10:49:41 |   28.45 |      300 | Buy          | 471494155 |
+| SSI      | 2026-05-07 10:49:46 |   28.45 |      800 | Buy          | 471494383 |
+| SSI      | 2026-05-07 10:49:55 |   28.45 |      100 | Buy          | 471494634 |
+| SSI      | 2026-05-07 10:50:05 |   28.45 |      500 | Buy          | 471494985 |
 
 <!-- END:DAILY -->
 

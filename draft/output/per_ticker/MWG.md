@@ -1,6 +1,6 @@
 # MWG — CTCP Đầu tư Thế giới Di động
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 06/05/2026 11:10  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 07/05/2026 10:51  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | MWG |
 | exchange | HOSE |
-| market_cap | 124962842317900 |
+| market_cap | 127312319964300 |
 | 52w_high | 93700 |
 | 52w_high_date | 2026-02-02 |
-| 52w_low | 59248 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 48.9999 |
+| 52w_low | 59445 |
+| 52w_low_date | 2025-05-08 |
+| foreign_ownership | 49 |
 | dividend | 1000 |
-| beta | 1.21 |
+| beta | 1.2 |
 | eps | 5561 |
-| eps_forward | 13.546737041539599 |
+| eps_forward | 13.73843615061799 |
 | bvps | 24471 |
-| pe | 15.25 |
-| pb | 3.47 |
-| price_chg_1m | 8.56 |
-| price_chg_ytd | 42.52 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
-| yield | 0.011750881316098707 |
+| pe | 15.46 |
+| pb | 3.51 |
+| price_chg_1m | 11.15 |
+| price_chg_ytd | 46.33 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
+| yield | 0.011534025374855825 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,52 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 85.0 |
-| MA5 | 84.86 |
-| MA10 | 85.16 |
-| EMA20 | 83.782 |
-| EMA50 | 83.756 |
-| Slope MA20 (5p, %) | 0.84 |
-| ATR(14) | 2.164 |
-| RSI(14) | 53.8 |
+| Giá đóng cửa | 86.7 |
+| MA5 | 85.28 |
+| MA10 | 85.2 |
+| EMA20 | 84.146 |
+| EMA50 | 83.909 |
+| Slope MA20 (5p, %) | 0.99 |
+| ATR(14) | 2.156 |
+| RSI(14) | 57.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.742 |
-| MACD Signal | 0.529 |
-| MACD Histogram | 0.213 |
+| MACD | 0.937 |
+| MACD Signal | 0.623 |
+| MACD Histogram | 0.314 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 7764140 |
+| KL avg 60 phiên | 7656003 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
+| 🔴 Kháng cự    |    94.367 | 1.88        | 2             |
 | 🔴 Kháng cự    |    89.962 | 1.28        | 2             |
 | 🔴 Kháng cự    |    88.5   | 1.39        | 1             |
-| 🔴 Kháng cự    |    86     | 0.91        | 1             |
-| ▶ Giá hiện tại |    85     | —           | —             |
-| 🟢 Hỗ trợ      |    83.9   | 1.26        | 1             |
-| 🟢 Hỗ trợ      |    83.844 | 1.57        | 2             |
-| 🟢 Hỗ trợ      |    76.827 | 2.38        | 2             |
+| ▶ Giá hiện tại |    86.7   | —           | —             |
+| 🟢 Hỗ trợ      |    86     | 0.91        | 1             |
+| 🟢 Hỗ trợ      |    83.9   | 1.25        | 1             |
+| 🟢 Hỗ trợ      |    83.844 | 1.56        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MWG |
-| pe | 15.25 |
-| pb | 3.47 |
+| pe | 15.46 |
+| pb | 3.51 |
 | roe | 23.08 |
 | roe_pct_rank | 75 |
 | roa | 9.12 |
 | roa_pct_rank | 65 |
 | eps | 5561 |
 | bvps | 24471 |
-| beta | 1.21 |
+| beta | 1.2 |
 | dividend | 1000 |
-| yield | 0.011750881316098707 |
+| yield | 0.011534025374855825 |
 | pe_pct_rank | 56 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-28 | 5380700 | -30.7%     | 0.366%         |
-| 2026-04-29 | 4897200 | -36.9%     | 0.334%         |
-| 2026-05-04 | 6372100 | -17.9%     | 0.434%         |
-| 2026-05-05 | 4720200 | -39.2%     | 0.321%         |
-| 2026-05-06 | 1987300 | -74.4%     | 0.135%         |
+| 2026-04-29 | 4897200 | -36.0%     | 0.334%         |
+| 2026-05-04 | 6372100 | -16.8%     | 0.434%         |
+| 2026-05-05 | 4720200 | -38.3%     | 0.321%         |
+| 2026-05-06 | 6696800 | -12.5%     | 0.456%         |
+| 2026-05-07 | 2668500 | -65.1%     | 0.182%         |
 
-- KL trung bình 60 phiên: **7,764,140**
+- KL trung bình 60 phiên: **7,656,003**
 - Số CP lưu hành: **1,468,423,529**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                          | publishtime             | url                                                                                                 |
-|:-------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------|
-| Thành viên HĐQT MWG đăng ký bán 2 triệu cp để tham gia IPO Điện máy Xanh       | 2026-05-04T10:17:41.727 | /2026/05/thanh-vien-hdqt-mwg-dang-ky-ban-2-trieu-cp-de-tham-gia-ipo-dien-may-xanh-739-1436771.htm   |
-| MWG: Thông báo giao dịch cổ phiếu của người nội bộ Đoàn Văn Hiểu Em            | 2026-04-29T18:10:22     | /2026/04/mwg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-van-hieu-em-830-1435981.htm         |
-| MWG: Giải trình chênh lệch BCTC quý 1/2026 so với cùng kỳ năm trước            | 2026-04-28T15:04:37     | /2026/04/mwg-giai-trinh-chenh-lech-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434659.htm         |
-| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm |
-| MWG: BCTC quý 1 năm 2026                                                       | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-quy-1-nam-2026-737-1433677.htm                                                    |
-| MWG: BCTC Hợp nhất quý 1 năm 2026                                              | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-hop-nhat-quy-1-nam-2026-737-1433678.htm                                           |
-| MWG: Quy chế hoạt động của HĐQT và Quy chế Quản trị nội bộ                     | 2026-04-20T14:08:28     | /2026/04/mwg-quy-che-hoat-dong-cua-hdqt-va-quy-che-quan-tri-noi-bo-143-1430221.htm                  |
-| MWG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                         | 2026-04-20T14:07:33     | /2026/04/mwg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430220.htm                      |
-| MWG: Điều lệ công ty                                                           | 2026-04-20T14:07:00     | /2026/04/mwg-dieu-le-cong-ty-737-1430219.htm                                                        |
-| CEO Vũ Đăng Linh: MWG không thay đổi kế hoạch, đã lãi 2.7 ngàn tỷ trong quý 1  | 2026-04-18T16:17:00     | /2026/04/ceo-vu-dang-linhmwg-khong-thay-doi-ke-hoach-da-lai-27-ngan-ty-trong-quy-1-737-1429724.htm  |
+| title                                                                          | publishtime             | url                                                                                                    |
+|:-------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------|
+| MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan | 2026-05-06T16:59:01     | /2026/05/mwg-bao-cao-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-737-1438841.htm |
+| Thành viên HĐQT MWG đăng ký bán 2 triệu cp để tham gia IPO Điện máy Xanh       | 2026-05-04T10:17:41.727 | /2026/05/thanh-vien-hdqt-mwg-dang-ky-ban-2-trieu-cp-de-tham-gia-ipo-dien-may-xanh-739-1436771.htm      |
+| MWG: Thông báo giao dịch cổ phiếu của người nội bộ Đoàn Văn Hiểu Em            | 2026-04-29T18:10:22     | /2026/04/mwg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-van-hieu-em-830-1435981.htm            |
+| MWG: Giải trình chênh lệch BCTC quý 1/2026 so với cùng kỳ năm trước            | 2026-04-28T15:04:37     | /2026/04/mwg-giai-trinh-chenh-lech-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434659.htm            |
+| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm    |
+| MWG: BCTC quý 1 năm 2026                                                       | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-quy-1-nam-2026-737-1433677.htm                                                       |
+| MWG: BCTC Hợp nhất quý 1 năm 2026                                              | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-hop-nhat-quy-1-nam-2026-737-1433678.htm                                              |
+| MWG: Quy chế hoạt động của HĐQT và Quy chế Quản trị nội bộ                     | 2026-04-20T14:08:28     | /2026/04/mwg-quy-che-hoat-dong-cua-hdqt-va-quy-che-quan-tri-noi-bo-143-1430221.htm                     |
+| MWG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                         | 2026-04-20T14:07:33     | /2026/04/mwg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1430220.htm                         |
+| MWG: Điều lệ công ty                                                           | 2026-04-20T14:07:00     | /2026/04/mwg-dieu-le-cong-ty-737-1430219.htm                                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +121,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Bán lẻ |
-| % Ngành hôm nay | +0.06% |
-| % Cổ phiếu hôm nay | +0.35% |
-| RS (CP − Ngành) | +0.29% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| MWG      | 2025-12-18 00:00:00 |   81.3 |   81.6 |  80.5 |    81.6 |  3495200 |
 | MWG      | 2025-12-19 00:00:00 |   81.5 |   83   |  81.3 |    82.9 |  5439900 |
 | MWG      | 2025-12-22 00:00:00 |   82.7 |   85   |  82.7 |    85   |  7856400 |
 | MWG      | 2025-12-23 00:00:00 |   85   |   88   |  84.9 |    87.5 | 13817800 |
@@ -222,22 +215,23 @@ _Không có dữ liệu_
 | MWG      | 2026-04-29 00:00:00 |   85   |   85.7 |  84   |    84   |  4897200 |
 | MWG      | 2026-05-04 00:00:00 |   84.7 |   85.4 |  83.4 |    84.9 |  6372100 |
 | MWG      | 2026-05-05 00:00:00 |   84.6 |   85.4 |  84.1 |    84.8 |  4720200 |
-| MWG      | 2026-05-06 00:00:00 |   85.2 |   85.7 |  84.9 |    85   |  1987300 |
+| MWG      | 2026-05-06 00:00:00 |   85.2 |   86.4 |  84.9 |    86   |  6696800 |
+| MWG      | 2026-05-07 00:00:00 |   86.2 |   87.4 |  86.2 |    86.7 |  2668500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MWG      | 2026-05-06 10:52:05 |    85   |     2000 | Sell         | 470805998 |
-| MWG      | 2026-05-06 10:52:13 |    85.1 |      200 | Buy          | 470806156 |
-| MWG      | 2026-05-06 10:52:13 |    85.1 |      100 | Buy          | 470806158 |
-| MWG      | 2026-05-06 10:52:17 |    85   |      900 | Sell         | 470806278 |
-| MWG      | 2026-05-06 10:52:17 |    85   |      100 | Sell         | 470806279 |
-| MWG      | 2026-05-06 10:52:43 |    85.1 |     1500 | Buy          | 470806978 |
-| MWG      | 2026-05-06 10:52:52 |    85   |    10000 | Sell         | 470807173 |
-| MWG      | 2026-05-06 10:52:52 |    85   |     2000 | Sell         | 470807172 |
-| MWG      | 2026-05-06 10:52:52 |    85   |      100 | Sell         | 470807169 |
-| MWG      | 2026-05-06 10:52:52 |    85   |      200 | Sell         | 470807168 |
+| MWG      | 2026-05-07 10:42:35 |    86.8 |      200 | Buy          | 471473352 |
+| MWG      | 2026-05-07 10:42:35 |    86.8 |      400 | Buy          | 471473353 |
+| MWG      | 2026-05-07 10:42:35 |    86.8 |     3400 | Buy          | 471473354 |
+| MWG      | 2026-05-07 10:43:12 |    86.8 |     4000 | Buy          | 471475206 |
+| MWG      | 2026-05-07 10:43:23 |    86.8 |      100 | Buy          | 471475956 |
+| MWG      | 2026-05-07 10:43:35 |    86.8 |      700 | Buy          | 471476580 |
+| MWG      | 2026-05-07 10:43:39 |    86.7 |     4000 | Sell         | 471476877 |
+| MWG      | 2026-05-07 10:43:49 |    86.8 |      100 | Buy          | 471477434 |
+| MWG      | 2026-05-07 10:43:55 |    86.8 |      600 | Buy          | 471477757 |
+| MWG      | 2026-05-07 10:44:03 |    86.8 |      100 | Buy          | 471478577 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # PDR — CTCP Phát triển Bất động sản Phát Đạt
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 06/05/2026 11:11  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 07/05/2026 10:52  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | PDR |
 | exchange | HOSE |
-| market_cap | 16164511939800 |
+| market_cap | 16862978505100 |
 | 52w_high | 26300 |
 | 52w_high_date | 2025-10-16 |
 | 52w_low | 14500 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 6.1921 |
+| foreign_ownership | 6.199 |
 | dividend | 0 |
 | beta | 0.88 |
 | eps | 626 |
-| eps_forward | 18.85252497384787 |
+| eps_forward | 19.082433814992356 |
 | bvps | 12584 |
-| pe | 26.22 |
-| pb | 1.30 |
-| price_chg_1m | 4.18 |
-| price_chg_ytd | 8.35 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
+| pe | 26.54 |
+| pb | 1.32 |
+| price_chg_1m | 7.64 |
+| price_chg_ytd | 9.98 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.2 |
-| MA5 | 16.35 |
-| MA10 | 16.245 |
-| EMA20 | 16.227 |
-| EMA50 | 16.402 |
-| Slope MA20 (5p, %) | 0.49 |
-| ATR(14) | 0.527 |
-| RSI(14) | 49.4 |
+| Giá đóng cửa | 16.95 |
+| MA5 | 16.58 |
+| MA10 | 16.365 |
+| EMA20 | 16.33 |
+| EMA50 | 16.439 |
+| Slope MA20 (5p, %) | 1.1 |
+| ATR(14) | 0.552 |
+| RSI(14) | 63.8 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | 0.068 |
-| MACD Signal | 0.063 |
-| MACD Histogram | 0.004 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | 0.141 |
+| MACD Signal | 0.084 |
+| MACD Histogram | 0.057 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 9630820 |
+| KL avg 60 phiên | 9755848 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    18.073 | 1.81        | 2             |
-| 🔴 Kháng cự    |    16.981 | 2.56        | 2             |
-| 🔴 Kháng cự    |    16.695 | 2.46        | 3             |
-| ▶ Giá hiện tại |    16.2   | —           | —             |
-| 🟢 Hỗ trợ      |    15.85  | 1.13        | 1             |
-| 🟢 Hỗ trợ      |    15.7   | 1.44        | 1             |
-| 🟢 Hỗ trợ      |    15.15  | 1.29        | 1             |
+| 🔴 Kháng cự    |    18.5   | 0.79        | 1             |
+| 🔴 Kháng cự    |    18.073 | 1.8         | 2             |
+| 🔴 Kháng cự    |    16.981 | 2.54        | 2             |
+| ▶ Giá hiện tại |    16.95  | —           | —             |
+| 🟢 Hỗ trợ      |    16.695 | 2.45        | 3             |
+| 🟢 Hỗ trợ      |    15.85  | 1.12        | 1             |
+| 🟢 Hỗ trợ      |    15.7   | 1.43        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PDR |
-| pe | 26.22 |
-| pb | 1.30 |
+| pe | 26.54 |
+| pb | 1.32 |
 | roe | 4.38 |
 | roe_pct_rank | 34 |
 | roa | 2.01 |
@@ -91,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-28 |  4958700 | -48.5%     | 0.497%         |
-| 2026-04-29 | 11759800 | +22.1%     | 1.179%         |
-| 2026-05-04 |  8738800 | -9.3%      | 0.876%         |
-| 2026-05-05 |  8642700 | -10.3%     | 0.866%         |
-| 2026-05-06 |  2543800 | -73.6%     | 0.255%         |
+| 2026-04-29 | 11759800 | +20.5%     | 1.179%         |
+| 2026-05-04 |  8738800 | -10.4%     | 0.876%         |
+| 2026-05-05 |  8642700 | -11.4%     | 0.866%         |
+| 2026-05-06 |  9430200 | -3.3%      | 0.945%         |
+| 2026-05-07 | 11970300 | +22.7%     | 1.200%         |
 
-- KL trung bình 60 phiên: **9,630,820**
+- KL trung bình 60 phiên: **9,755,848**
 - Số CP lưu hành: **997,809,379**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                            | publishtime            | url                                                                                                                      |
-|:-------------------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| PDR: Điều lệ công ty sửa đổi, bổ sung ban hành tháng 05/2026                                     | 2026-05-05T17:39:42    | /2026/05/pdr-dieu-le-cong-ty-sua-doi-bo-sung-ban-hanh-thang-05-2026-737-1438145.htm                                      |
-| PDR: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp                                | 2026-05-05T17:25:15    | /2026/05/pdr-giay-xac-nhan-ve-viec-thay-doi-noi-dung-dang-ky-doanh-nghiep-830-1438128.htm                                |
-| Bất ngờ khoản thuế "khủng" quý 1 của Phát Đạt, lợi nhuận mới đạt 16% kế hoạch năm                | 2026-04-30T14:14:25.09 | /2026/04/bat-ngo-khoan-thue-khung-quy-1-cua-phat-dat-loi-nhuan-moi-dat-16-ke-hoach-nam-737-1435698.htm                   |
-| PDR: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                         | 2026-04-29T16:27:48    | /2026/04/pdr-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435736.htm                                         |
-| PDR: BCTC Hợp nhất quý 1 năm 2026                                                                | 2026-04-29T00:00:00    | /2026/04/pdr-bctc-hop-nhat-quy-1-nam-2026-737-1435793.htm                                                                |
-| PDR: BCTC quý 1 năm 2026                                                                         | 2026-04-29T00:00:00    | /2026/04/pdr-bctc-quy-1-nam-2026-737-1435794.htm                                                                         |
-| PDR: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Lê Thị Lĩnh Phúc | 2026-04-24T18:47:40    | /2026/04/pdr-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thi-linh-phuc-739-1433828.htm |
-| PDR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                           | 2026-04-17T15:43:45    | /2026/04/pdr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429316.htm                                           |
-| PDR: CBTT sửa đổi Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT              | 2026-04-17T15:43:44    | /2026/04/pdr-cbtt-sua-doi-dieu-le-quy-che-noi-bo-ve-quan-tri-va-quy-che-hoat-dong-cua-hdqt-737-1429317.htm               |
-| Chủ tịch Phát Đạt: “Tôi thấy cần thiết phải di dời các trường đại học”                           | 2026-04-16T12:11:00    | /2026/04/chu-tich-phat-dat-toi-thay-can-thiet-phai-di-doi-cac-truong-dai-hoc-737-1428330.htm                             |
+| title                                                                                            | publishtime             | url                                                                                                                      |
+|:-------------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| KSF cho vay đối tác gần 27 ngàn tỷ, còn khoản phải thu hơn 990 tỷ từ Phát Đạt                    | 2026-05-06T16:37:48.037 | /2026/05/ksf-cho-vay-doi-tac-gan-27-ngan-ty-con-khoan-phai-thu-hon-990-ty-tu-phat-dat-737-1438577.htm                    |
+| PDR: Điều lệ công ty sửa đổi, bổ sung ban hành tháng 05/2026                                     | 2026-05-05T17:39:42     | /2026/05/pdr-dieu-le-cong-ty-sua-doi-bo-sung-ban-hanh-thang-05-2026-737-1438145.htm                                      |
+| PDR: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp                                | 2026-05-05T17:25:15     | /2026/05/pdr-giay-xac-nhan-ve-viec-thay-doi-noi-dung-dang-ky-doanh-nghiep-830-1438128.htm                                |
+| Bất ngờ khoản thuế "khủng" quý 1 của Phát Đạt, lợi nhuận mới đạt 16% kế hoạch năm                | 2026-04-30T14:14:25.09  | /2026/04/bat-ngo-khoan-thue-khung-quy-1-cua-phat-dat-loi-nhuan-moi-dat-16-ke-hoach-nam-737-1435698.htm                   |
+| PDR: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                         | 2026-04-29T16:27:48     | /2026/04/pdr-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435736.htm                                         |
+| PDR: BCTC Hợp nhất quý 1 năm 2026                                                                | 2026-04-29T00:00:00     | /2026/04/pdr-bctc-hop-nhat-quy-1-nam-2026-737-1435793.htm                                                                |
+| PDR: BCTC quý 1 năm 2026                                                                         | 2026-04-29T00:00:00     | /2026/04/pdr-bctc-quy-1-nam-2026-737-1435794.htm                                                                         |
+| PDR: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Lê Thị Lĩnh Phúc | 2026-04-24T18:47:40     | /2026/04/pdr-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thi-linh-phuc-739-1433828.htm |
+| PDR: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                           | 2026-04-17T15:43:45     | /2026/04/pdr-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1429316.htm                                           |
+| PDR: CBTT sửa đổi Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT              | 2026-04-17T15:43:44     | /2026/04/pdr-cbtt-sua-doi-dieu-le-quy-che-noi-bo-ve-quan-tri-va-quy-che-hoat-dong-cua-hdqt-737-1429317.htm               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +121,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | -1.04% |
-| % Cổ phiếu hôm nay | -1.22% |
-| RS (CP − Ngành) | -0.18% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PDR      | 2025-12-18 00:00:00 |  19.05 |  19.1  | 18.7  |   19.05 |  8851500 |
 | PDR      | 2025-12-19 00:00:00 |  19.1  |  19.3  | 18.8  |   19.3  | 12044600 |
 | PDR      | 2025-12-22 00:00:00 |  19.45 |  20.55 | 19.4  |   20.5  | 17489800 |
 | PDR      | 2025-12-23 00:00:00 |  20.4  |  20.5  | 19.75 |   20.15 | 11270400 |
@@ -222,22 +215,23 @@ _Không có dữ liệu_
 | PDR      | 2026-04-29 00:00:00 |  16.05 |  16.6  | 16    |   16.45 | 11759800 |
 | PDR      | 2026-05-04 00:00:00 |  16.55 |  16.9  | 16.35 |   16.5  |  8738800 |
 | PDR      | 2026-05-05 00:00:00 |  16.35 |  16.5  | 16    |   16.4  |  8642700 |
-| PDR      | 2026-05-06 00:00:00 |  16.35 |  16.4  | 16.15 |   16.2  |  2543800 |
+| PDR      | 2026-05-06 00:00:00 |  16.35 |  16.7  | 16.15 |   16.6  |  9430200 |
+| PDR      | 2026-05-07 00:00:00 |  16.6  |  17.1  | 16.5  |   16.95 | 11970300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PDR      | 2026-05-06 11:04:51 |   16.15 |      500 | Sell         | 470823034 |
-| PDR      | 2026-05-06 11:04:51 |   16.15 |     1600 | Sell         | 470823039 |
-| PDR      | 2026-05-06 11:04:51 |   16.15 |      200 | Sell         | 470823038 |
-| PDR      | 2026-05-06 11:04:51 |   16.15 |      700 | Sell         | 470823035 |
-| PDR      | 2026-05-06 11:04:51 |   16.15 |     1500 | Sell         | 470823036 |
-| PDR      | 2026-05-06 11:04:51 |   16.15 |      300 | Sell         | 470823037 |
-| PDR      | 2026-05-06 11:05:02 |   16.15 |      500 | Sell         | 470823251 |
-| PDR      | 2026-05-06 11:05:17 |   16.15 |     1600 | Sell         | 470823505 |
-| PDR      | 2026-05-06 11:05:17 |   16.15 |      100 | Sell         | 470823504 |
-| PDR      | 2026-05-06 11:05:17 |   16.15 |      300 | Sell         | 470823503 |
+| PDR      | 2026-05-07 10:50:59 |   17    |      100 | Sell         | 471496826 |
+| PDR      | 2026-05-07 10:50:59 |   17    |      100 | Sell         | 471496830 |
+| PDR      | 2026-05-07 10:50:59 |   17    |      100 | Sell         | 471496827 |
+| PDR      | 2026-05-07 10:50:59 |   17    |      100 | Sell         | 471496828 |
+| PDR      | 2026-05-07 10:50:59 |   17    |      200 | Sell         | 471496829 |
+| PDR      | 2026-05-07 10:51:02 |   17    |      500 | Buy          | 471496896 |
+| PDR      | 2026-05-07 10:51:03 |   17    |      100 | Buy          | 471496904 |
+| PDR      | 2026-05-07 10:51:08 |   17    |      100 | Buy          | 471497124 |
+| PDR      | 2026-05-07 10:51:08 |   17    |      600 | Buy          | 471497125 |
+| PDR      | 2026-05-07 10:51:09 |   16.95 |      200 | Sell         | 471497157 |
 
 <!-- END:DAILY -->
 

@@ -1,36 +1,13 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 06/05/2026 11:04  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 07/05/2026 10:45  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | BCG |
-| exchange | HOSE |
-| market_cap | 2226932929320 |
-| 52w_high | 4090 |
-| 52w_high_date | 2025-07-16 |
-| 52w_low | 2530 |
-| 52w_low_date | 2025-10-08 |
-| foreign_ownership | 1.136 |
-| dividend | 0 |
-| beta | 0 |
-| eps | 565 |
-| eps_forward | 6.357263110284695 |
-| bvps | 24305 |
-| pe | 4.48 |
-| pb | 0.10 |
-| price_chg_1m | 0.00 |
-| price_chg_ytd | -17.59 |
-| price_chg_1m_rank | 11.59 |
-| price_chg_ytd_rank | 50.76 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -40,7 +17,7 @@
 | MA5 | 2.7 |
 | MA10 | 2.998 |
 | EMA20 | 3.14 |
-| EMA50 | 3.349 |
+| EMA50 | 3.35 |
 | Slope MA20 (5p, %) | -8.76 |
 | ATR(14) | 0.141 |
 | RSI(14) | 19.3 |
@@ -58,9 +35,9 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     2.97  | 1.14        | 2             |
-| 🔴 Kháng cự    |     2.914 | 1.56        | 2             |
-| 🔴 Kháng cự    |     2.83  | 0.64        | 1             |
+| 🔴 Kháng cự    |     2.97  | 1.16        | 2             |
+| 🔴 Kháng cự    |     2.914 | 1.57        | 2             |
+| 🔴 Kháng cự    |     2.82  | 1.2         | 2             |
 | ▶ Giá hiện tại |     2.53  | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
@@ -101,6 +78,7 @@
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| BCG: Nhắc nhở chậm công bố thông tin Báo cáo tài chính quý 1 năm 2026                                                     | 2026-05-06T09:21:32 | /2026/05/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-tai-chinh-quy-1-nam-2026-737-1438326.htm                             |
 | BCG: Nhắc nhở chậm công bố thông tin Báo cáo thường niên năm 2025 lần 2                                                   | 2026-05-05T09:21:47 | /2026/05/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-thuong-nien-nam-2025-lan-2-737-1437578.htm                           |
 | BCG: Nhắc nhở chậm công bố thông tin Báo cáo thường niên năm 2025                                                         | 2026-04-22T17:48:58 | /2026/04/bcg-nhac-nho-cham-cong-bo-thong-tin-bao-cao-thuong-nien-nam-2025-737-1432257.htm                                 |
 | BCG: Nghị quyết HĐQT về việc ký kết hợp thỏa thuận bảo mật thông tin với BCG Energy và thông qua giao dịch với các bên l… | 2026-04-20T09:59:28 | /2026/04/bcg-nghi-quyet-hdqt-ve-viec-ky-ket-hop-thoa-thuan-bao-mat-thong-tin-voi-bcg-energy-va-thong-qua-giao-dich-voi-c… |
@@ -110,7 +88,6 @@
 | Cùng lý do "bất khả kháng", BCG và TCD lại xin hoãn loạt BCTC kiểm toán                                                   | 2026-02-09T14:15:00 | /2026/02/cung-ly-do-bat-kha-khang-bcg-va-tcd-lai-xin-hoan-loat-bctc-kiem-toan-737-1401816.htm                             |
 | BCG: Xin tạm hoãn nộp BCTC kiểm toán năm 2024. 2025 và soát xét bán niên 2025                                             | 2026-02-09T10:33:18 | /2026/02/bcg-xin-tam-hoan-nop-bctc-kiem-toan-nam-2024-2025-va-soat-xet-ban-nien-2025-737-1401793.htm                      |
 | BCG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-02-05T13:59:22 | /2026/02/bcg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1400881.htm                                     |
-| BCG: Nhắc nhở chậm CBTT BCTC quý 4/2025                                                                                   | 2026-02-04T10:36:27 | /2026/02/bcg-nhac-nho-cham-cbtt-bctc-quy-4-2025-737-1400279.htm                                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -118,13 +95,7 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | — |
-| RS (CP − Ngành) | — |
-| Nhận xét | — |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

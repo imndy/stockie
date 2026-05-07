@@ -1,6 +1,6 @@
 # VPB — Ngân hàng TMCP Việt Nam Thịnh Vượng
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 06/05/2026 11:16  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 07/05/2026 10:57  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -11,12 +11,12 @@
 | --- | --- |
 | symbol | VPB |
 | exchange | HOSE |
-| market_cap | 219769683747700 |
+| market_cap | 220959772287850 |
 | 52w_high | 38650 |
 | 52w_high_date | 2025-08-21 |
 | 52w_low | 16550 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 24.5273 |
+| 52w_low_date | 2025-05-08 |
+| foreign_ownership | 24.5244 |
 | dividend | 500 |
 | beta | 1.11 |
 | eps | 3314 |
@@ -24,11 +24,11 @@
 | bvps | 23519.86 |
 | pe | 8.45 |
 | pb | 1.19 |
-| price_chg_1m | 8.20 |
-| price_chg_ytd | 68.36 |
-| price_chg_1m_rank | 11.54 |
-| price_chg_ytd_rank | 50.70 |
-| yield | 0.018050541516245487 |
+| price_chg_1m | 6.91 |
+| price_chg_ytd | 68.28 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.61 |
+| yield | 0.017953321364452424 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,35 +36,35 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.6 |
-| MA5 | 27.21 |
-| MA10 | 27.385 |
-| EMA20 | 27.186 |
-| EMA50 | 27.103 |
-| Slope MA20 (5p, %) | 0.19 |
-| ATR(14) | 0.729 |
-| RSI(14) | 54.2 |
+| Giá đóng cửa | 28.0 |
+| MA5 | 27.49 |
+| MA10 | 27.42 |
+| EMA20 | 27.298 |
+| EMA50 | 27.153 |
+| Slope MA20 (5p, %) | 0.65 |
+| ATR(14) | 0.719 |
+| RSI(14) | 58.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.204 |
-| MACD Signal | 0.205 |
-| MACD Histogram | -0.001 |
-| MACD nhận xét | MACD gần cắt Signal (chú ý) |
-| KL avg 60 phiên | 16123582 |
+| MACD | 0.268 |
+| MACD Signal | 0.223 |
+| MACD Histogram | 0.045 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 16176438 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | 🔴 Kháng cự    |    31.45  | 0.72        | 1             |
-| 🔴 Kháng cự    |    29.583 | 1.6         | 2             |
-| 🔴 Kháng cự    |    28.5   | 2.78        | 2             |
-| ▶ Giá hiện tại |    27.6   | —           | —             |
-| 🟢 Hỗ trợ      |    27.35  | 0.62        | 1             |
+| 🔴 Kháng cự    |    29.583 | 1.59        | 2             |
+| 🔴 Kháng cự    |    28.5   | 2.76        | 2             |
+| ▶ Giá hiện tại |    28     | —           | —             |
+| 🟢 Hỗ trợ      |    27.35  | 0.61        | 1             |
 | 🟢 Hỗ trợ      |    26.35  | 0.93        | 1             |
-| 🟢 Hỗ trợ      |    25.5   | 2.59        | 2             |
+| 🟢 Hỗ trợ      |    25.5   | 2.57        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -81,7 +81,7 @@
 | bvps | 23519.86 |
 | beta | 1.11 |
 | dividend | 500 |
-| yield | 0.018050541516245487 |
+| yield | 0.017953321364452424 |
 | pe_pct_rank | 40 |
 | pb_pct_rank | 51 |
 | financial_date | 12/2025 |
@@ -91,19 +91,20 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-28 |  7722200 | -52.1%     | 0.097%         |
-| 2026-04-29 | 18791500 | +16.5%     | 0.237%         |
-| 2026-05-04 |  6238600 | -61.3%     | 0.079%         |
-| 2026-05-05 | 22244500 | +38.0%     | 0.280%         |
-| 2026-05-06 |  6181200 | -61.7%     | 0.078%         |
+| 2026-04-29 | 18791500 | +16.2%     | 0.237%         |
+| 2026-05-04 |  6238600 | -61.4%     | 0.079%         |
+| 2026-05-05 | 22244500 | +37.5%     | 0.280%         |
+| 2026-05-06 | 18609200 | +15.0%     | 0.235%         |
+| 2026-05-07 |  4898200 | -69.7%     | 0.062%         |
 
-- KL trung bình 60 phiên: **16,123,581**
+- KL trung bình 60 phiên: **16,176,438**
 - Số CP lưu hành: **7,933,923,601**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VPB: Nghị quyết HĐQT về ngày đăng ký cuối cùng thực hiện chi trả cổ tức năm 2025 bằng tiền                                | 2026-05-06T17:21:07 | /2026/05/vpb-nghi-quyet-hdqt-ve-ngay-dang-ky-cuoi-cung-thuc-hien-chi-tra-co-tuc-nam-2025-bang-tien-737-1438856.htm        |
 | Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                                             | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
 | VPB: Thông báo giao dịch cổ phiếu của người nội bộ Phạm Thị Nhung                                                         | 2026-05-05T17:49:33 | /2026/05/vpb-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-pham-thi-nhung-830-1438204.htm                                 |
 | Thành viên HĐQT VPBank đăng ký mua 30 triệu cp VPB                                                                        | 2026-05-05T17:22:00 | /2026/05/thanh-vien-hdqt-vpbank-dang-ky-mua-30-trieu-cp-vpb-739-1438008.htm                                               |
@@ -113,7 +114,6 @@
 | ĐHĐCĐ VPBank: Mục tiêu lọt top 3 ngân hàng lớn nhất trong 5 năm tới là hoàn toàn khả thi                                  | 2026-04-22T17:19:00 | /2026/04/dhdcd-vpbank-muc-tieulot-top-3-ngan-hang-lon-nhat-trong-5-nam-toi-la-hoan-toan-kha-thi-737-1429790.htm           |
 | VPB: Nghị quyết HĐQT số 104/2026 ngày 17/04/2026                                                                          | 2026-04-17T17:13:33 | /2026/04/vpb-nghi-quyet-hdqt-so-104-2026-ngay-17-04-2026-737-1429459.htm                                                  |
 | VPBank duy trì tăng trưởng mạnh mẽ trong quý 1/2026, quy mô tín dụng vượt 1 triệu tỷ đồng                                 | 2026-04-17T16:42:00 | /2026/04/vpbank-duy-tri-tang-truong-manh-me-trong-quy-12026-quy-mo-tin-dung-vuot-1-trieu-ty-dong-737-1429322.htm          |
-| VPB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                              | 2026-04-17T15:52:13 | /2026/04/vpb-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1429333.htm                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,19 +121,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.13% |
-| % Cổ phiếu hôm nay | -1.25% |
-| RS (CP − Ngành) | -1.38% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VPB      | 2025-12-18 00:00:00 |  28    |  28.3  | 27.7  |   28.3  |  7996800 |
 | VPB      | 2025-12-19 00:00:00 |  28.25 |  28.45 | 28    |   28.45 |  9896000 |
 | VPB      | 2025-12-22 00:00:00 |  28.45 |  29    | 28.1  |   29    | 13903800 |
 | VPB      | 2025-12-23 00:00:00 |  29.1  |  29.4  | 28.55 |   28.7  | 12224300 |
@@ -222,22 +215,23 @@ _Không có dữ liệu_
 | VPB      | 2026-04-29 00:00:00 |  26.8  |  27    | 26.5  |   26.5  | 18791500 |
 | VPB      | 2026-05-04 00:00:00 |  26.7  |  27.15 | 26.7  |   26.95 |  6238600 |
 | VPB      | 2026-05-05 00:00:00 |  26.9  |  28    | 26.5  |   28    | 22244500 |
-| VPB      | 2026-05-06 00:00:00 |  27.9  |  28    | 27.6  |   27.6  |  6181200 |
+| VPB      | 2026-05-06 00:00:00 |  27.9  |  28.1  | 27.55 |   28    | 18609200 |
+| VPB      | 2026-05-07 00:00:00 |  28    |  28.25 | 27.8  |   28    |  4898200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPB      | 2026-05-06 11:09:36 |   27.65 |     1000 | Sell         | 470828755 |
-| VPB      | 2026-05-06 11:09:36 |   27.65 |     1000 | Sell         | 470828756 |
-| VPB      | 2026-05-06 11:09:36 |   27.65 |     2200 | Sell         | 470828757 |
-| VPB      | 2026-05-06 11:09:44 |   27.65 |     3600 | Sell         | 470828965 |
-| VPB      | 2026-05-06 11:09:46 |   27.7  |      200 | Buy          | 470829000 |
-| VPB      | 2026-05-06 11:09:46 |   27.65 |     1300 | Sell         | 470828988 |
-| VPB      | 2026-05-06 11:09:57 |   27.65 |    42900 | Sell         | 470829375 |
-| VPB      | 2026-05-06 11:09:57 |   27.65 |      200 | Sell         | 470829376 |
-| VPB      | 2026-05-06 11:09:57 |   27.65 |     5000 | Sell         | 470829377 |
-| VPB      | 2026-05-06 11:09:57 |   27.65 |      100 | Sell         | 470829378 |
+| VPB      | 2026-05-07 10:53:39 |   27.95 |      300 | Buy          | 471501462 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |    36400 | Buy          | 471502011 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |     5000 | Buy          | 471502010 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |     2000 | Buy          | 471502009 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |      300 | Buy          | 471502008 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |      200 | Buy          | 471502007 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |      400 | Buy          | 471502006 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |    20000 | Buy          | 471502005 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |     3200 | Buy          | 471502004 |
+| VPB      | 2026-05-07 10:53:58 |   27.95 |     3200 | Buy          | 471502003 |
 
 <!-- END:DAILY -->
 

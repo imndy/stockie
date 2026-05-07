@@ -1,6 +1,6 @@
 # SHB — Ngân hàng TMCP Sài Gòn - Hà Nội
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 06/05/2026 11:13  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 07/05/2026 10:54  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | SHB |
 | exchange | HOSE |
-| market_cap | 64541538923900 |
+| market_cap | 65000909307700 |
 | 52w_high | 18793 |
 | 52w_high_date | 2025-09-03 |
-| 52w_low | 10598 |
-| 52w_low_date | 2025-05-07 |
-| foreign_ownership | 2.9591 |
+| 52w_low | 10850 |
+| 52w_low_date | 2025-05-08 |
+| foreign_ownership | 2.9558 |
 | dividend | 500 |
-| beta | 0.61 |
+| beta | 0.59 |
 | eps | 2809 |
-| eps_forward | 6.253657272780063 |
+| eps_forward | 6.298326253299921 |
 | bvps | 15613.37 |
-| pe | 4.98 |
+| pe | 5.02 |
 | pb | 0.90 |
-| price_chg_1m | -3.10 |
-| price_chg_ytd | 33.63 |
-| price_chg_1m_rank | 11.52 |
-| price_chg_ytd_rank | 50.67 |
-| yield | 0.03558718861209965 |
+| price_chg_1m | -3.74 |
+| price_chg_ytd | 33.52 |
+| price_chg_1m_rank | 11.81 |
+| price_chg_ytd_rank | 52.60 |
+| yield | 0.0353356890459364 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,50 +36,50 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.05 |
-| MA5 | 14.28 |
-| MA10 | 14.66 |
-| EMA20 | 14.751 |
-| EMA50 | 15.002 |
-| Slope MA20 (5p, %) | -2.15 |
-| ATR(14) | 0.343 |
-| RSI(14) | 35.4 |
+| Giá đóng cửa | 14.2 |
+| MA5 | 14.24 |
+| MA10 | 14.555 |
+| EMA20 | 14.703 |
+| EMA50 | 14.973 |
+| Slope MA20 (5p, %) | -2.08 |
+| ATR(14) | 0.336 |
+| RSI(14) | 38.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.214 |
-| MACD Signal | -0.085 |
-| MACD Histogram | -0.129 |
+| MACD | -0.227 |
+| MACD Signal | -0.113 |
+| MACD Histogram | -0.114 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 66276266 |
+| KL avg 60 phiên | 66071735 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    15.08  | 2.27        | 2             |
+| 🔴 Kháng cự    |    15.08  | 2.26        | 2             |
 | 🔴 Kháng cự    |    14.73  | 0.93        | 1             |
-| 🔴 Kháng cự    |    14.4   | 1.28        | 1             |
-| ▶ Giá hiện tại |    14.05  | —           | —             |
-| 🟢 Hỗ trợ      |    14.022 | 2.27        | 2             |
+| 🔴 Kháng cự    |    14.4   | 1.27        | 1             |
+| ▶ Giá hiện tại |    14.2   | —           | —             |
+| 🟢 Hỗ trợ      |    14.022 | 2.26        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SHB |
-| pe | 4.98 |
+| pe | 5.02 |
 | pb | 0.90 |
 | roe | 19.05 |
 | roe_pct_rank | 66 |
 | roa | 1.46 |
-| roa_pct_rank | 34 |
+| roa_pct_rank | 38 |
 | eps | 2809 |
 | bvps | 15613.37 |
-| beta | 0.61 |
+| beta | 0.59 |
 | dividend | 500 |
-| yield | 0.03558718861209965 |
+| yield | 0.0353356890459364 |
 | pe_pct_rank | 32 |
 | pb_pct_rank | 38 |
 | financial_date | 12/2025 |
@@ -89,13 +89,13 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-28 | 51564900 | -22.2%     | 1.123%         |
-| 2026-04-29 | 41650500 | -37.2%     | 0.907%         |
-| 2026-05-04 | 62363300 | -5.9%      | 1.358%         |
-| 2026-05-05 | 79172900 | +19.5%     | 1.724%         |
-| 2026-05-06 | 13177900 | -80.1%     | 0.287%         |
+| 2026-04-29 | 41650500 | -37.0%     | 0.907%         |
+| 2026-05-04 | 62363300 | -5.6%      | 1.358%         |
+| 2026-05-05 | 79172900 | +19.8%     | 1.724%         |
+| 2026-05-06 | 38754800 | -41.3%     | 0.844%         |
+| 2026-05-07 | 12053600 | -81.8%     | 0.262%         |
 
-- KL trung bình 60 phiên: **66,276,266**
+- KL trung bình 60 phiên: **66,071,734**
 - Số CP lưu hành: **4,593,703,838**
 
 ## Tin tức gần nhất (Top 10)
@@ -107,11 +107,11 @@
 | SHB: Báo cáo kết quả giao dịch quyền mua cổ phiếu của Người nội bộ Phạm Viết Dần, Ngô Thu Hà                              | 2026-05-05T17:35:30     | /2026/05/shb-bao-cao-ket-qua-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-pham-viet-dan-ngo-thu-ha-739-1438160.htm       |
 | SHS: Quyết định HĐQT về việc thông qua chủ trương hợp tác giữa SHS và SHB để triển khai phối hợp khai thác Khách hàng cá… | 2026-05-05T17:28:00     | /2026/05/shs-quyet-dinh-hdqt-ve-viec-thong-qua-chu-truong-hop-tac-giua-shs-va-shb-de-trien-khai-phoi-hop-khai-thac-khach… |
 | SHS: Quyết định HĐQT cung cấp cho SHB các dịch vụ liên quan đến chào bán Trái phiếu SHB phát hành ra công chúng năm 2026  | 2026-05-05T17:25:00     | /2026/05/shs-quyet-dinh-hdqt-cung-cap-cho-shb-cac-dich-vu-lien-quan-den-chao-ban-trai-phieu-shb-phat-hanh-ra-cong-chung-… |
+| SHS: Quyết định Hội đồng quản trị cung cấp cho SHB các dịch vụ liên quan đến chào bán Trái phiếu SHB phát hành ra công c… | 2026-05-05T17:25:00     | /2026/05/shs-quyet-dinh-hoi-dong-quan-tri-cung-cap-cho-shb-cac-dich-vu-lien-quan-den-chao-ban-trai-phieu-shb-phat-hanh-r… |
 | Từ “trời tròn, đất vuông” đến dáng hình chữ S: Diện mạo mới của SHB ghi điểm với tư duy hiện đại và chiều sâu bản sắc     | 2026-05-05T15:43:01.26  | /2026/05/tu-troi-tron-dat-vuong-den-dang-hinh-chu-s-dien-mao-moi-cua-shb-ghi-diem-voi-tu-duy-hien-dai-va-chieu-sau-ban-s… |
 | SHB: Thông báo nhận được Văn bản của UBCKNN về tài liệu báo cáo kết quả chào bán cổ phiếu riêng lẻ của SHB                | 2026-05-05T09:57:12     | /2026/05/shb-thong-bao-nhan-duoc-van-ban-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-chao-ban-co-phieu-rieng-le-cua-shb-739-1… |
 | Trụ sở SHB đặt dấu ấn mới tại trung tâm Hà Nội, khẳng định vị thế TOP5 ngân hàng TMCP tư nhân Việt Nam                    | 2026-05-04T12:16:25.463 | /2026/05/tru-so-shb-dat-dau-an-moi-tai-trung-tam-ha-noi-khang-dinh-vi-the-top5-ngan-hang-tmcp-tu-nhan-viet-nam-757-14369… |
 | SHB: Báo cáo kết quả giao dịch quyền mua cổ phiếu của người nội bộ Đỗ Văn Sinh                                            | 2026-04-29T19:28:31     | /2026/04/shb-bao-cao-ket-qua-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-do-van-sinh-739-1436161.htm                    |
-| SHB: Báo cáo kết quả giao dịch quyền mua cổ phiếu của người nội bộ Vũ Xuân Thủy Sơn                                       | 2026-04-29T19:28:31     | /2026/04/shb-bao-cao-ket-qua-giao-dich-quyen-mua-co-phieu-cua-nguoi-noi-bo-vu-xuan-thuy-son-739-1436162.htm               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,19 +119,12 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.13% |
-| % Cổ phiếu hôm nay | +0.36% |
-| RS (CP − Ngành) | +0.23% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |    volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|----------:|
-| SHB      | 2025-12-18 00:00:00 |  15.62 |  16.02 | 15.42 |   15.87 |  72308882 |
 | SHB      | 2025-12-19 00:00:00 |  15.97 |  15.97 | 15.67 |   15.92 |  47552908 |
 | SHB      | 2025-12-22 00:00:00 |  15.97 |  16.26 | 15.87 |   16.07 |  66450637 |
 | SHB      | 2025-12-23 00:00:00 |  16.11 |  16.21 | 15.92 |   16.07 |  59847224 |
@@ -220,22 +213,23 @@ _Không có dữ liệu_
 | SHB      | 2026-04-29 00:00:00 |  14.55 |  14.6  | 14.35 |   14.55 |  41650500 |
 | SHB      | 2026-05-04 00:00:00 |  14.65 |  14.65 | 14.35 |   14.35 |  62363300 |
 | SHB      | 2026-05-05 00:00:00 |  14.4  |  14.4  | 14    |   14    |  79172900 |
-| SHB      | 2026-05-06 00:00:00 |  14.1  |  14.15 | 14    |   14.05 |  13177900 |
+| SHB      | 2026-05-06 00:00:00 |  14.1  |  14.2  | 14    |   14.1  |  38754800 |
+| SHB      | 2026-05-07 00:00:00 |  14.25 |  14.3  | 14.1  |   14.2  |  12053600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SHB      | 2026-05-06 11:06:53 |   14    |     2000 | Sell         | 470825255 |
-| SHB      | 2026-05-06 11:06:54 |   14.05 |      900 | Buy          | 470825271 |
-| SHB      | 2026-05-06 11:06:57 |   14.05 |     1000 | Buy          | 470825339 |
-| SHB      | 2026-05-06 11:06:58 |   14.05 |      800 | Buy          | 470825352 |
-| SHB      | 2026-05-06 11:07:00 |   14.05 |      500 | Buy          | 470825394 |
-| SHB      | 2026-05-06 11:07:03 |   14.05 |      100 | Buy          | 470825450 |
-| SHB      | 2026-05-06 11:07:05 |   14.05 |     1000 | Buy          | 470825519 |
-| SHB      | 2026-05-06 11:07:12 |   14.05 |     5000 | Buy          | 470825646 |
-| SHB      | 2026-05-06 11:07:15 |   14.05 |     2000 | Buy          | 470825713 |
-| SHB      | 2026-05-06 11:07:16 |   14.05 |    10000 | Buy          | 470825731 |
+| SHB      | 2026-05-07 10:50:02 |    14.2 |      100 | Buy          | 471494900 |
+| SHB      | 2026-05-07 10:50:07 |    14.2 |     1000 | Buy          | 471495057 |
+| SHB      | 2026-05-07 10:50:17 |    14.2 |      200 | Buy          | 471495443 |
+| SHB      | 2026-05-07 10:50:31 |    14.2 |     1000 | Buy          | 471495941 |
+| SHB      | 2026-05-07 10:50:56 |    14.2 |      100 | Buy          | 471496624 |
+| SHB      | 2026-05-07 10:50:57 |    14.2 |     1000 | Buy          | 471496657 |
+| SHB      | 2026-05-07 10:51:00 |    14.2 |      700 | Buy          | 471496857 |
+| SHB      | 2026-05-07 10:51:05 |    14.2 |     1000 | Buy          | 471496992 |
+| SHB      | 2026-05-07 10:51:07 |    14.2 |      100 | Buy          | 471497062 |
+| SHB      | 2026-05-07 10:51:09 |    14.2 |      100 | Buy          | 471497147 |
 
 <!-- END:DAILY -->
 
