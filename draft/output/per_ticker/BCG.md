@@ -1,13 +1,36 @@
 # BCG — CTCP Tập đoàn Bamboo Capital
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 07/05/2026 10:45  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 08/05/2026 13:02  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | BCG |
+| exchange | HOSE |
+| market_cap | 2226932929320 |
+| 52w_high | 4090 |
+| 52w_high_date | 2025-07-16 |
+| 52w_low | 2530 |
+| 52w_low_date | 2025-10-08 |
+| foreign_ownership | 1.136 |
+| dividend | 0 |
+| beta | 0 |
+| eps | 565 |
+| eps_forward | 6.357263110284695 |
+| bvps | 24305 |
+| pe | 4.48 |
+| pb | 0.10 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | -13.06 |
+| price_chg_1m_rank | 8.50 |
+| price_chg_ytd_rank | 49.61 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 

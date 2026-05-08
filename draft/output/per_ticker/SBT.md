@@ -1,6 +1,6 @@
 # SBT — CTCP Thành Thành Công - Biên Hòa
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 07/05/2026 10:54  |  🗂 Quarterly: 03/05/2026 14:18
+> 📅 Daily: 08/05/2026 13:16  |  🗂 Quarterly: 03/05/2026 14:18
 
 ---
 
@@ -16,7 +16,7 @@
 | 52w_high_date | 2025-10-13 |
 | 52w_low | 16313 |
 | 52w_low_date | 2025-05-12 |
-| foreign_ownership | 19.7156 |
+| foreign_ownership | 19.7163 |
 | dividend | 0 |
 | beta | 0.28 |
 | eps | 952 |
@@ -24,10 +24,10 @@
 | bvps | 14840 |
 | pe | 21.42 |
 | pb | 1.37 |
-| price_chg_1m | -0.99 |
-| price_chg_ytd | 28.02 |
-| price_chg_1m_rank | 11.81 |
-| price_chg_ytd_rank | 52.60 |
+| price_chg_1m | -1.43 |
+| price_chg_ytd | 24.69 |
+| price_chg_1m_rank | 8.99 |
+| price_chg_ytd_rank | 50.28 |
 | yield | 0 |
 | financial_date | 12/2024 |
 | source | KBS |
@@ -36,34 +36,34 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 20.4 |
+| Giá đóng cửa | 20.35 |
 | MA5 | 20.39 |
-| MA10 | 20.45 |
-| EMA20 | 20.558 |
-| EMA50 | 21.018 |
-| Slope MA20 (5p, %) | -0.52 |
-| ATR(14) | 0.269 |
-| RSI(14) | 37.9 |
+| MA10 | 20.43 |
+| EMA20 | 20.538 |
+| EMA50 | 20.989 |
+| Slope MA20 (5p, %) | -0.47 |
+| ATR(14) | 0.261 |
+| RSI(14) | 36.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.165 |
-| MACD Signal | -0.183 |
-| MACD Histogram | 0.018 |
+| MACD | -0.163 |
+| MACD Signal | -0.179 |
+| MACD Histogram | 0.016 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 518940 |
+| KL avg 60 phiên | 515891 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    21.823 | 2.41        | 3             |
-| 🔴 Kháng cự    |    21.51  | 3.69        | 3             |
-| 🔴 Kháng cự    |    20.498 | 2.35        | 2             |
-| ▶ Giá hiện tại |    20.4   | —           | —             |
-| 🟢 Hỗ trợ      |    20.05  | 1.4         | 1             |
-| 🟢 Hỗ trợ      |    19.15  | 1.18        | 1             |
+| 🔴 Kháng cự    |    21.823 | 2.38        | 3             |
+| 🔴 Kháng cự    |    21.51  | 3.66        | 3             |
+| 🔴 Kháng cự    |    20.498 | 2.33        | 2             |
+| ▶ Giá hiện tại |    20.35  | —           | —             |
+| 🟢 Hỗ trợ      |    20.05  | 1.39        | 1             |
+| 🟢 Hỗ trợ      |    19.15  | 1.17        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -86,19 +86,20 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-04-29 | 447010 | -13.9%     | 0.051%         |
-| 2026-05-04 | 425767 | -18.0%     | 0.049%         |
-| 2026-05-05 | 511900 | -1.4%      | 0.058%         |
-| 2026-05-06 | 445700 | -14.1%     | 0.051%         |
-| 2026-05-07 | 298800 | -42.4%     | 0.034%         |
+| 2026-05-04 | 425767 | -17.5%     | 0.049%         |
+| 2026-05-05 | 511900 | -0.8%      | 0.058%         |
+| 2026-05-06 | 445700 | -13.6%     | 0.051%         |
+| 2026-05-07 | 442300 | -14.3%     | 0.050%         |
+| 2026-05-08 | 254200 | -50.7%     | 0.029%         |
 
-- KL trung bình 60 phiên: **518,939**
+- KL trung bình 60 phiên: **515,890**
 - Số CP lưu hành: **876,723,922**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SBT: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo kết quả phát hành cổ phiếu để trả cổ tức của SBT         | 2026-05-07T16:48:46 | /2026/05/sbt-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tra-co-tuc-cua-sb… |
 | SBT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư Thành Thành Côn… | 2026-05-05T17:09:25 | /2026/05/sbt-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-thanh-t… |
 | SBT: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành                                               | 2026-05-04T11:02:56 | /2026/05/sbt-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-dang-luu-hanh-741-1436924.htm                       |
 | SBT: Nghị quyết HĐQT về việc tăng vốn điều lệ và các vấn đề liên quan                                                     | 2026-05-04T11:02:19 | /2026/05/sbt-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-cac-van-de-lien-quan-737-1436923.htm                             |
@@ -108,7 +109,6 @@
 | SBT: Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức                                                                 | 2026-05-04T10:58:38 | /2026/05/sbt-bao-cao-ket-qua-dot-phat-hanh-co-phieu-de-tra-co-tuc-738-1436918.htm                                         |
 | AgriS (SBT) mở rộng động lực tăng trưởng, các mảng ngoài đường đóng góp tích cực trong Quý 3                              | 2026-04-28T11:32:00 | /2026/04/agris-sbt-mo-rong-dong-luc-tang-truong-cac-mang-ngoai-duong-dong-gop-tich-cuc-trong-quy-3-737-1434363.htm        |
 | SBT: Giải trình biến động KQKD quý 3 NĐTC 2025-2026 so với cùng kỳ năm trước                                              | 2026-04-28T09:49:16 | /2026/04/sbt-giai-trinh-bien-dong-kqkd-quy-3-ndtc-20252026-so-voi-cung-ky-nam-truoc-737-1434322.htm                       |
-| SBT: BCTC quý 3 năm 2026                                                                                                  | 2026-04-25T00:00:00 | /2026/04/sbt-bctc-quy-3-nam-2026-737-1434297.htm                                                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -116,13 +116,18 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.16% |
+| % Cổ phiếu hôm nay | -0.25% |
+| RS (CP − Ngành) | -0.09% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SBT      | 2025-12-19 00:00:00 |  23.11 |  23.35 | 22.88 |   23.35 |   848082 |
 | SBT      | 2025-12-22 00:00:00 |  23.35 |  23.35 | 23.02 |   23.35 |   735965 |
 | SBT      | 2025-12-23 00:00:00 |  23.35 |  23.35 | 22.92 |   22.92 |   572924 |
 | SBT      | 2025-12-24 00:00:00 |  22.92 |  23.02 | 22.74 |   23.02 |   503498 |
@@ -211,22 +216,23 @@ _Không có dữ liệu_
 | SBT      | 2026-05-04 00:00:00 |  20.35 |  20.45 | 20.25 |   20.4  |   425767 |
 | SBT      | 2026-05-05 00:00:00 |  20.4  |  20.4  | 20.25 |   20.4  |   511900 |
 | SBT      | 2026-05-06 00:00:00 |  20.4  |  20.4  | 20.1  |   20.4  |   445700 |
-| SBT      | 2026-05-07 00:00:00 |  20.4  |  20.4  | 20.25 |   20.4  |   298800 |
+| SBT      | 2026-05-07 00:00:00 |  20.4  |  20.4  | 20.25 |   20.4  |   442300 |
+| SBT      | 2026-05-08 00:00:00 |  20.4  |  20.4  | 20.25 |   20.35 |   254200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SBT      | 2026-05-07 09:52:24 |   20.35 |     1300 | Sell         | 471346800 |
-| SBT      | 2026-05-07 09:52:24 |   20.35 |      100 | Sell         | 471346801 |
-| SBT      | 2026-05-07 09:52:24 |   20.35 |      900 | Sell         | 471346802 |
-| SBT      | 2026-05-07 09:52:39 |   20.35 |     1500 | Buy          | 471347374 |
-| SBT      | 2026-05-07 09:52:47 |   20.35 |     2800 | Buy          | 471347692 |
-| SBT      | 2026-05-07 09:52:58 |   20.35 |      200 | Buy          | 471348263 |
-| SBT      | 2026-05-07 09:54:38 |   20.35 |     3400 | Sell         | 471353402 |
-| SBT      | 2026-05-07 09:54:38 |   20.35 |      200 | Sell         | 471353404 |
-| SBT      | 2026-05-07 09:54:38 |   20.35 |      100 | Sell         | 471353405 |
-| SBT      | 2026-05-07 09:55:29 |   20.35 |     1300 | Buy          | 471356036 |
+| SBT      | 2026-05-08 10:20:46 |   20.35 |     2400 | Buy          | 472044506 |
+| SBT      | 2026-05-08 10:21:01 |   20.35 |     1200 | Buy          | 472044903 |
+| SBT      | 2026-05-08 10:21:08 |   20.35 |     2900 | Buy          | 472045071 |
+| SBT      | 2026-05-08 10:21:24 |   20.35 |      100 | Sell         | 472045454 |
+| SBT      | 2026-05-08 10:21:35 |   20.35 |     1400 | Buy          | 472045624 |
+| SBT      | 2026-05-08 10:22:06 |   20.35 |      100 | Buy          | 472046430 |
+| SBT      | 2026-05-08 10:22:06 |   20.35 |     2500 | Buy          | 472046431 |
+| SBT      | 2026-05-08 10:22:06 |   20.35 |      900 | Buy          | 472046432 |
+| SBT      | 2026-05-08 10:22:13 |   20.35 |     1400 | Buy          | 472046604 |
+| SBT      | 2026-05-08 10:22:20 |   20.35 |      900 | Buy          | 472046736 |
 
 <!-- END:DAILY -->
 

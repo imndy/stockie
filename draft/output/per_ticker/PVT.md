@@ -1,6 +1,6 @@
 # PVT — Tổng Công ty cổ phần Vận tải Dầu khí
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 07/05/2026 10:53  |  🗂 Quarterly: 03/05/2026 14:17
+> 📅 Daily: 08/05/2026 13:15  |  🗂 Quarterly: 03/05/2026 14:17
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | PVT |
 | exchange | HOSE |
-| market_cap | 10737928719750 |
+| market_cap | 10502963102250 |
 | 52w_high | 30700 |
 | 52w_high_date | 2026-03-06 |
 | 52w_low | 16382 |
 | 52w_low_date | 2025-05-23 |
-| foreign_ownership | 13.7402 |
+| foreign_ownership | 13.7006 |
 | dividend | 0 |
 | beta | 0.66 |
 | eps | 2626 |
-| eps_forward | 9.202802351218098 |
+| eps_forward | 8.752452448924448 |
 | bvps | 25275 |
-| pe | 8.95 |
-| pb | 0.93 |
-| price_chg_1m | 9.57 |
-| price_chg_ytd | 38.51 |
-| price_chg_1m_rank | 11.81 |
-| price_chg_ytd_rank | 52.60 |
+| pe | 8.51 |
+| pb | 0.88 |
+| price_chg_1m | 1.59 |
+| price_chg_ytd | 34.57 |
+| price_chg_1m_rank | 8.99 |
+| price_chg_ytd_rank | 50.28 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.8 |
-| MA5 | 22.86 |
-| MA10 | 22.715 |
-| EMA20 | 22.495 |
-| EMA50 | 22.36 |
-| Slope MA20 (5p, %) | 1.22 |
-| ATR(14) | 1.102 |
-| RSI(14) | 51.8 |
+| Giá đóng cửa | 22.35 |
+| MA5 | 22.84 |
+| MA10 | 22.695 |
+| EMA20 | 22.442 |
+| EMA50 | 22.33 |
+| Slope MA20 (5p, %) | 1.08 |
+| ATR(14) | 1.079 |
+| RSI(14) | 49.5 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Trên |
-| MACD | 0.138 |
-| MACD Signal | -0.041 |
-| MACD Histogram | 0.179 |
+| MACD | 0.079 |
+| MACD Signal | -0.022 |
+| MACD Histogram | 0.101 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 10086050 |
+| KL avg 60 phiên | 10018870 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    32.7   | 1.07        | 1             |
-| 🔴 Kháng cự    |    24.35  | 1.43        | 1             |
-| 🔴 Kháng cự    |    23.075 | 3.44        | 3             |
-| ▶ Giá hiện tại |    22.8   | —           | —             |
-| 🟢 Hỗ trợ      |    22.1   | 0.73        | 1             |
-| 🟢 Hỗ trợ      |    21.05  | 1.36        | 1             |
-| 🟢 Hỗ trợ      |    20.295 | 2.47        | 2             |
+| 🔴 Kháng cự    |    32.7   | 1.06        | 1             |
+| 🔴 Kháng cự    |    24.35  | 1.42        | 1             |
+| 🔴 Kháng cự    |    23.075 | 3.41        | 3             |
+| ▶ Giá hiện tại |    22.35  | —           | —             |
+| 🟢 Hỗ trợ      |    22.1   | 0.72        | 1             |
+| 🟢 Hỗ trợ      |    20.953 | 2.79        | 2             |
+| 🟢 Hỗ trợ      |    20.295 | 2.45        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PVT |
-| pe | 8.95 |
-| pb | 0.93 |
+| pe | 8.51 |
+| pb | 0.88 |
 | roe | 12.16 |
 | roe_pct_rank | 52 |
 | roa | 4.92 |
@@ -82,8 +82,8 @@
 | beta | 0.66 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 41 |
-| pb_pct_rank | 39 |
+| pe_pct_rank | 40 |
+| pb_pct_rank | 37 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-04-29 |  5834800 | -42.1%     | 1.242%         |
-| 2026-05-04 |  3551800 | -64.8%     | 0.756%         |
-| 2026-05-05 | 12490000 | +23.8%     | 2.658%         |
-| 2026-05-06 |  5762600 | -42.9%     | 1.226%         |
-| 2026-05-07 |  2786500 | -72.4%     | 0.593%         |
+| 2026-05-04 |  3551800 | -64.5%     | 0.756%         |
+| 2026-05-05 | 12490000 | +24.7%     | 2.658%         |
+| 2026-05-06 |  5762600 | -42.5%     | 1.226%         |
+| 2026-05-07 |  8812200 | -12.0%     | 1.875%         |
+| 2026-05-08 |  1235300 | -87.7%     | 0.263%         |
 
-- KL trung bình 60 phiên: **10,086,050**
+- KL trung bình 60 phiên: **10,018,870**
 - Số CP lưu hành: **469,931,235**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                           | publishtime             | url                                                                                                                     |
-|:------------------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------------------|
-| PVT: Giấy ủy quyền thực hiện CBTT                                                               | 2026-05-05T10:25:18     | /2026/05/pvt-giay-uy-quyen-thuc-hien-cbtt-830-1437726.htm                                                               |
-| PVT: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                       | 2026-04-29T00:00:00     | /2026/04/pvt-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1436002.htm                                                       |
-| PVT: BCTC Tóm tắt quý 1 năm 2026                                                                | 2026-04-29T00:00:00     | /2026/04/pvt-bctc-tom-tat-quy-1-nam-2026-737-1436206.htm                                                                |
-| PVT: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hùng Sơn | 2026-04-23T13:30:40     | /2026/04/pvt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-hung-son-739-1432540.htm |
-| PVT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                          | 2026-04-23T11:08:01     | /2026/04/pvt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432491.htm                                          |
-| Chủ tịch PVTrans: Giá cước vận tải biển sẽ còn đi lên, đầu tư tàu VLCC theo hợp đồng dài hạn    | 2026-04-22T07:32:00     | /2026/04/chu-tich-pvtrans-gia-cuoc-van-tai-bien-se-con-di-len-dau-tu-tau-vlcc-theo-hop-dong-dai-han-737-1431287.htm     |
-| Chủ tịch PVT thôi bán cổ phiếu khi giá đã hạ nhiệt                                              | 2026-04-13T20:02:00     | /2026/04/chu-tich-pvt-thoi-ban-co-phieu-khi-gia-da-ha-nhiet-739-1427081.htm                                             |
-| PVT: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Phạm Việt Anh                          | 2026-04-13T10:02:52     | /2026/04/pvt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-pham-viet-anh-739-1426660.htm                          |
-| PVT: Báo cáo thường niên năm 2025                                                               | 2026-04-13T09:46:41     | /2026/04/pvt-bao-cao-thuong-nien-nam-2025-737-1426653.htm                                                               |
-| Phân tích kỹ thuật phiên chiều 06/04: Tiếp tục điều chỉnh                                       | 2026-04-06T13:09:51.547 | /2026/04/phan-tich-ky-thuat-phien-chieu-0604-tiep-tuc-dieu-chinh-585-1423378.htm                                        |
+| title                                                                                           | publishtime         | url                                                                                                                     |
+|:------------------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------------------------------------|
+| PVT: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Kế toán trưởng                         | 2026-05-07T17:45:52 | /2026/05/pvt-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-ke-toan-truong-214-1439694.htm                           |
+| PVT: Giấy ủy quyền thực hiện CBTT                                                               | 2026-05-05T10:25:18 | /2026/05/pvt-giay-uy-quyen-thuc-hien-cbtt-830-1437726.htm                                                               |
+| PVT: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                       | 2026-04-29T00:00:00 | /2026/04/pvt-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1436002.htm                                                       |
+| PVT: BCTC Tóm tắt quý 1 năm 2026                                                                | 2026-04-29T00:00:00 | /2026/04/pvt-bctc-tom-tat-quy-1-nam-2026-737-1436206.htm                                                                |
+| PVT: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Hùng Sơn | 2026-04-23T13:30:40 | /2026/04/pvt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-hung-son-739-1432540.htm |
+| PVT: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                          | 2026-04-23T11:08:01 | /2026/04/pvt-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432491.htm                                          |
+| Chủ tịch PVTrans: Giá cước vận tải biển sẽ còn đi lên, đầu tư tàu VLCC theo hợp đồng dài hạn    | 2026-04-22T07:32:00 | /2026/04/chu-tich-pvtrans-gia-cuoc-van-tai-bien-se-con-di-len-dau-tu-tau-vlcc-theo-hop-dong-dai-han-737-1431287.htm     |
+| Chủ tịch PVT thôi bán cổ phiếu khi giá đã hạ nhiệt                                              | 2026-04-13T20:02:00 | /2026/04/chu-tich-pvt-thoi-ban-co-phieu-khi-gia-da-ha-nhiet-739-1427081.htm                                             |
+| PVT: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Phạm Việt Anh                          | 2026-04-13T10:02:52 | /2026/04/pvt-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-pham-viet-anh-739-1426660.htm                          |
+| PVT: Báo cáo thường niên năm 2025                                                               | 2026-04-13T09:46:41 | /2026/04/pvt-bao-cao-thuong-nien-nam-2025-737-1426653.htm                                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -127,7 +127,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PVT      | 2025-12-19 00:00:00 |  18.3  |  18.55 | 18.25 |   18.25 |  1560700 |
 | PVT      | 2025-12-22 00:00:00 |  18.25 |  18.5  | 18.25 |   18.5  |  1352700 |
 | PVT      | 2025-12-23 00:00:00 |  18.6  |  18.85 | 18.45 |   18.45 |  3524200 |
 | PVT      | 2025-12-24 00:00:00 |  18.5  |  18.9  | 18.5  |   18.9  |  4089100 |
@@ -216,22 +215,23 @@ _Không có dữ liệu_
 | PVT      | 2026-05-04 00:00:00 |  22.4  |  23.05 | 22.25 |   22.25 |  3551800 |
 | PVT      | 2026-05-05 00:00:00 |  22.45 |  23.8  | 22.15 |   23.75 | 12490000 |
 | PVT      | 2026-05-06 00:00:00 |  23.45 |  23.9  | 23.25 |   23.5  |  5762600 |
-| PVT      | 2026-05-07 00:00:00 |  23.3  |  23.3  | 22.7  |   22.8  |  2786500 |
+| PVT      | 2026-05-07 00:00:00 |  23.3  |  23.3  | 22.35 |   22.35 |  8812200 |
+| PVT      | 2026-05-08 00:00:00 |  22.6  |  22.7  | 22.25 |   22.35 |  1235300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PVT      | 2026-05-07 10:47:39 |   22.75 |      100 | Sell         | 471489650 |
-| PVT      | 2026-05-07 10:47:47 |   22.75 |     1000 | Sell         | 471489943 |
-| PVT      | 2026-05-07 10:47:59 |   22.75 |      100 | Sell         | 471490326 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      800 | Sell         | 471490958 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      300 | Sell         | 471490957 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      100 | Sell         | 471490956 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      300 | Sell         | 471490953 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      800 | Sell         | 471490945 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      800 | Sell         | 471490951 |
-| PVT      | 2026-05-07 10:48:16 |   22.75 |      100 | Sell         | 471490950 |
+| PVT      | 2026-05-08 13:08:57 |   22.3  |      100 | Sell         | 472210234 |
+| PVT      | 2026-05-08 13:08:57 |   22.3  |      100 | Sell         | 472210239 |
+| PVT      | 2026-05-08 13:09:16 |   22.3  |      100 | Sell         | 472211664 |
+| PVT      | 2026-05-08 13:09:17 |   22.35 |      700 | Buy          | 472211691 |
+| PVT      | 2026-05-08 13:09:21 |   22.35 |      100 | Buy          | 472211895 |
+| PVT      | 2026-05-08 13:09:22 |   22.35 |      100 | Buy          | 472212332 |
+| PVT      | 2026-05-08 13:09:22 |   22.35 |      800 | Buy          | 472212346 |
+| PVT      | 2026-05-08 13:09:22 |   22.35 |      300 | Buy          | 472212345 |
+| PVT      | 2026-05-08 13:09:22 |   22.35 |      200 | Buy          | 472212344 |
+| PVT      | 2026-05-08 13:09:22 |   22.35 |      100 | Buy          | 472212348 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # IMP — CTCP Dược phẩm Imexpharm
 **Sàn:** HOSE  |  **Ngành:** Chăm sóc sức khỏe
-> 📅 Daily: 07/05/2026 10:50  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 08/05/2026 13:10  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | IMP |
 | exchange | HOSE |
-| market_cap | 7407831072200 |
+| market_cap | 7415531520300 |
 | 52w_high | 56700 |
 | 52w_high_date | 2026-03-11 |
 | 52w_low | 46100 |
 | 52w_low_date | 2025-11-21 |
-| foreign_ownership | 50.8417 |
+| foreign_ownership | 72.7486 |
 | dividend | 500 |
 | beta | 0.1 |
 | eps | 2316 |
-| eps_forward | 15.097396619656074 |
+| eps_forward | 14.60642437186238 |
 | bvps | 15444 |
-| pe | 21.24 |
-| pb | 3.19 |
-| price_chg_1m | -13.33 |
-| price_chg_ytd | 9.38 |
-| price_chg_1m_rank | 11.81 |
-| price_chg_ytd_rank | 52.60 |
-| yield | 0.010395010395010396 |
+| pe | 20.55 |
+| pb | 3.08 |
+| price_chg_1m | -13.40 |
+| price_chg_ytd | 3.44 |
+| price_chg_1m_rank | 8.72 |
+| price_chg_ytd_rank | 49.91 |
+| yield | 0.010384215991692628 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,40 +36,41 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 48.4 |
-| MA5 | 49.64 |
-| MA10 | 50.025 |
-| EMA20 | 51.88 |
-| EMA50 | 53.168 |
-| Slope MA20 (5p, %) | -2.86 |
-| ATR(14) | 1.329 |
-| RSI(14) | 30.6 |
+| Giá đóng cửa | 48.15 |
+| MA5 | 48.95 |
+| MA10 | 49.25 |
+| EMA20 | 51.455 |
+| EMA50 | 52.932 |
+| Slope MA20 (5p, %) | -3.2 |
+| ATR(14) | 1.321 |
+| RSI(14) | 31.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.667 |
-| MACD Signal | -1.152 |
-| MACD Histogram | -0.515 |
+| MACD | -1.799 |
+| MACD Signal | -1.291 |
+| MACD Histogram | -0.508 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 45647 |
+| KL avg 60 phiên | 45338 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    53.557 | 2.0         | 2             |
-| 🔴 Kháng cự    |    53.2   | 0.65        | 1             |
-| 🔴 Kháng cự    |    52.2   | 1.02        | 1             |
-| ▶ Giá hiện tại |    48.4   | —           | —             |
+| 🔴 Kháng cự    |    53.557 | 1.98        | 2             |
+| 🔴 Kháng cự    |    53.2   | 0.64        | 1             |
+| 🔴 Kháng cự    |    52.2   | 1.01        | 1             |
+| ▶ Giá hiện tại |    48.15  | —           | —             |
+| 🟢 Hỗ trợ      |    46.6   | 1.44        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | IMP |
-| pe | 21.24 |
-| pb | 3.19 |
+| pe | 20.55 |
+| pb | 3.08 |
 | roe | 15.55 |
 | roe_pct_rank | 59 |
 | roa | 13.21 |
@@ -78,8 +79,8 @@
 | bvps | 15444 |
 | beta | 0.1 |
 | dividend | 500 |
-| yield | 0.010395010395010396 |
-| pe_pct_rank | 68 |
+| yield | 0.010384215991692628 |
+| pe_pct_rank | 66 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -88,19 +89,20 @@
 
 | Ngày       |    KL | vs Avg60   | Turnover (%)   |
 |:-----------|------:|:-----------|:---------------|
-| 2026-04-29 | 31100 | -31.9%     | 0.020%         |
-| 2026-05-04 | 15400 | -66.3%     | 0.010%         |
-| 2026-05-05 |  6800 | -85.1%     | 0.004%         |
-| 2026-05-06 |  6600 | -85.5%     | 0.004%         |
-| 2026-05-07 | 11400 | -75.0%     | 0.007%         |
+| 2026-05-04 | 15400 | -66.0%     | 0.010%         |
+| 2026-05-05 |  6800 | -85.0%     | 0.004%         |
+| 2026-05-06 |  6600 | -85.4%     | 0.004%         |
+| 2026-05-07 | 31500 | -30.5%     | 0.020%         |
+| 2026-05-08 |  1200 | -97.4%     | 0.001%         |
 
-- KL trung bình 60 phiên: **45,646**
+- KL trung bình 60 phiên: **45,338**
 - Số CP lưu hành: **154,008,962**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| IMP: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-05-07T18:01:01 | /2026/05/imp-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1439719.htm                                     |
 | Imexpharm báo lãi tăng 10%, khởi đầu tích cực                                                                             | 2026-05-06T17:30:00 | /2026/05/imexpharm-bao-lai-tang-10-khoi-dau-tich-cuc-737-1438699.htm                                                      |
 | IMP: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư KBA, SK Investm… | 2026-04-29T15:26:33 | /2026/04/imp-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-kba-sk-… |
 | IMP: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư Bình Minh Kim    | 2026-04-29T15:25:03 | /2026/04/imp-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-binh-mi… |
@@ -110,7 +112,6 @@
 | IMP: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                              | 2026-04-20T16:57:55 | /2026/04/imp-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430621.htm                      |
 | IMP: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/imp-bctc-quy-1-nam-2026-737-1430679.htm                                                                          |
 | IMP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ SK Investment Vina III Pte. Ltd., Công ty Cổ… | 2026-04-15T16:47:29 | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-sk-investment-vina-iii-pte-ltd-cong-… |
-| IMP: Thông báo giao dịch cổ phiếu của Người nội bộ Huỳnh Văn Nhung                                                        | 2026-04-10T18:34:01 | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-huynh-van-nhung-830-1426445.htm                                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,7 +125,6 @@ _Không có dữ liệu_
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| IMP      | 2025-12-19 00:00:00 |  48.9  |  50.5  | 48.6  |   49.9  |    99600 |
 | IMP      | 2025-12-22 00:00:00 |  49.9  |  50.5  | 49.9  |   50.3  |    52100 |
 | IMP      | 2025-12-23 00:00:00 |  50.3  |  50.5  | 50    |   50.2  |    60900 |
 | IMP      | 2025-12-24 00:00:00 |  49.1  |  50.1  | 49.1  |   50.1  |     7300 |
@@ -213,22 +213,23 @@ _Không có dữ liệu_
 | IMP      | 2026-05-04 00:00:00 |  50.8  |  50.8  | 48.8  |   49.9  |    15400 |
 | IMP      | 2026-05-05 00:00:00 |  48.35 |  49.9  | 48.35 |   49.9  |     6800 |
 | IMP      | 2026-05-06 00:00:00 |  49.35 |  49.35 | 49.2  |   49.2  |     6600 |
-| IMP      | 2026-05-07 00:00:00 |  49.2  |  49.2  | 48    |   48.4  |    11400 |
+| IMP      | 2026-05-07 00:00:00 |  49.2  |  49.2  | 47.6  |   47.6  |    31500 |
+| IMP      | 2026-05-08 00:00:00 |  47.8  |  48.45 | 47.75 |   48.15 |     1200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| IMP      | 2026-05-07 09:15:00 |   49.2  |      100 | ATO          | 471217758 |
-| IMP      | 2026-05-07 09:20:39 |   49.2  |      100 | Sell         | 471238133 |
-| IMP      | 2026-05-07 09:24:01 |   49.2  |      300 | Sell         | 471253933 |
-| IMP      | 2026-05-07 09:24:01 |   49.2  |      200 | Sell         | 471253934 |
-| IMP      | 2026-05-07 09:24:01 |   49.2  |      100 | Sell         | 471253929 |
-| IMP      | 2026-05-07 09:34:31 |   48.9  |      200 | Sell         | 471286823 |
-| IMP      | 2026-05-07 09:40:24 |   49    |      100 | Sell         | 471304054 |
-| IMP      | 2026-05-07 09:43:56 |   48.85 |      100 | Buy          | 471315730 |
-| IMP      | 2026-05-07 09:47:08 |   48.8  |      100 | Sell         | 471329942 |
-| IMP      | 2026-05-07 09:47:08 |   48.8  |      200 | Sell         | 471329950 |
+| IMP      | 2026-05-08 09:20:48 |   47.8  |      100 | Sell         | 471931415 |
+| IMP      | 2026-05-08 09:52:10 |   47.75 |      200 | Buy          | 471998438 |
+| IMP      | 2026-05-08 09:53:24 |   47.75 |      100 | Buy          | 472000228 |
+| IMP      | 2026-05-08 10:12:18 |   48.45 |      100 | Buy          | 472031644 |
+| IMP      | 2026-05-08 10:54:16 |   48.25 |      100 | Buy          | 472104985 |
+| IMP      | 2026-05-08 11:03:33 |   48.15 |      100 | Buy          | 472125341 |
+| IMP      | 2026-05-08 11:22:07 |   48.15 |      100 | Buy          | 472159752 |
+| IMP      | 2026-05-08 13:00:53 |   48.15 |      100 | Buy          | 472181864 |
+| IMP      | 2026-05-08 13:02:58 |   48.15 |      200 | Buy          | 472190207 |
+| IMP      | 2026-05-08 13:09:27 |   48.15 |      100 | Buy          | 472212746 |
 
 <!-- END:DAILY -->
 

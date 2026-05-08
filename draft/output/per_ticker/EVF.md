@@ -1,6 +1,6 @@
 # EVF — Công ty Tài chính Tổng hợp Cổ phần Điện lực
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 07/05/2026 10:48  |  🗂 Quarterly: 03/05/2026 14:03
+> 📅 Daily: 08/05/2026 13:06  |  🗂 Quarterly: 03/05/2026 14:03
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | EVF |
 | exchange | HOSE |
-| market_cap | 10153553456700 |
+| market_cap | 10039468586400 |
 | 52w_high | 16250 |
 | 52w_high_date | 2025-08-14 |
 | 52w_low | 9650 |
 | 52w_low_date | 2025-05-21 |
-| foreign_ownership | 0.33 |
+| foreign_ownership | 0.3211 |
 | dividend | 0 |
 | beta | 0.89 |
 | eps | 1210 |
-| eps_forward | 7.605675843225495 |
+| eps_forward | 7.634376506784837 |
 | bvps | 13336.02 |
-| pe | 10.95 |
-| pb | 0.99 |
-| price_chg_1m | -1.11 |
-| price_chg_ytd | 39.21 |
-| price_chg_1m_rank | 12.04 |
-| price_chg_ytd_rank | 52.92 |
+| pe | 10.99 |
+| pb | 1.00 |
+| price_chg_1m | -5.38 |
+| price_chg_ytd | 34.56 |
+| price_chg_1m_rank | 8.48 |
+| price_chg_ytd_rank | 49.58 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 13.4 |
-| MA5 | 13.13 |
-| MA10 | 13.195 |
-| EMA20 | 13.399 |
-| EMA50 | 13.296 |
-| Slope MA20 (5p, %) | -1.2 |
-| ATR(14) | 0.479 |
-| RSI(14) | 49.3 |
+| Giá đóng cửa | 13.2 |
+| MA5 | 13.15 |
+| MA10 | 13.13 |
+| EMA20 | 13.372 |
+| EMA50 | 13.273 |
+| Slope MA20 (5p, %) | -1.01 |
+| ATR(14) | 0.463 |
+| RSI(14) | 46.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
-| Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | -0.131 |
-| MACD Signal | -0.083 |
-| MACD Histogram | -0.048 |
+| Tín hiệu EMA | TRUNG TÍNH |
+| Giá vs EMA20 | Dưới |
+| Giá vs EMA50 | Dưới |
+| MACD | -0.134 |
+| MACD Signal | -0.094 |
+| MACD Histogram | -0.041 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 10271673 |
+| KL avg 60 phiên | 10206672 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    15.25  | 1.1         | 1             |
-| 🔴 Kháng cự    |    14.9   | 1.24        | 1             |
-| 🔴 Kháng cự    |    14.479 | 2.38        | 2             |
-| ▶ Giá hiện tại |    13.4   | —           | —             |
-| 🟢 Hỗ trợ      |    13.2   | 1.28        | 1             |
-| 🟢 Hỗ trợ      |    12.9   | 1.18        | 1             |
-| 🟢 Hỗ trợ      |    12.642 | 3.59        | 3             |
+| 🔴 Kháng cự    |    15.25  | 1.09        | 1             |
+| 🔴 Kháng cự    |    14.9   | 1.23        | 1             |
+| 🔴 Kháng cự    |    14.479 | 2.35        | 2             |
+| ▶ Giá hiện tại |    13.2   | —           | —             |
+| 🟢 Hỗ trợ      |    12.9   | 1.17        | 1             |
+| 🟢 Hỗ trợ      |    12.642 | 3.56        | 3             |
+| 🟢 Hỗ trợ      |    12.45  | 0.79        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | EVF |
-| pe | 10.95 |
-| pb | 0.99 |
+| pe | 10.99 |
+| pb | 1.00 |
 | roe | 9.47 |
 | roe_pct_rank | 46 |
 | roa | 1.25 |
@@ -91,29 +91,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-04-29 | 3157300 | -69.3%     | 0.415%         |
-| 2026-05-04 | 3230400 | -68.6%     | 0.425%         |
-| 2026-05-05 | 2910300 | -71.7%     | 0.383%         |
-| 2026-05-06 | 3959500 | -61.5%     | 0.521%         |
-| 2026-05-07 | 2080700 | -79.7%     | 0.274%         |
+| 2026-05-04 | 3230400 | -68.4%     | 0.425%         |
+| 2026-05-05 | 2910300 | -71.5%     | 0.383%         |
+| 2026-05-06 | 3959500 | -61.2%     | 0.521%         |
+| 2026-05-07 | 4025400 | -60.6%     | 0.529%         |
+| 2026-05-08 |  955800 | -90.6%     | 0.126%         |
 
-- KL trung bình 60 phiên: **10,271,673**
+- KL trung bình 60 phiên: **10,206,671**
 - Số CP lưu hành: **760,565,802**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                        | publishtime           | url                                                                                                                |
-|:---------------------------------------------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------|
-| EVF duy trì đà tăng trưởng, lợi nhuận quý 1/2026 tăng 8.1%                                   | 2026-04-21T15:42:00   | /2026/04/evf-duy-tri-da-tang-truong-loi-nhuan-quy-12026-tang-81-737-1431262.htm                                    |
-| EVF: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                           | 2026-04-21T09:32:27   | /2026/04/evf-giai-trinh-bien-dong-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1431003.htm                         |
-| EVF: BCTC quý 1 năm 2026                                                                     | 2026-04-20T00:00:00   | /2026/04/evf-bctc-quy-1-nam-2026-737-1431015.htm                                                                   |
-| Phân tích kỹ thuật phiên chiều 15/04: Tiếp tục đi lên                                        | 2026-04-15T13:33:01.5 | /2026/04/phan-tich-ky-thuat-phien-chieu-1504-tiep-tuc-di-len-585-1427891.htm                                       |
-| EVF: Điều lệ tổ chức và hoạt động                                                            | 2026-04-10T15:23:41   | /2026/04/evf-dieu-le-to-chuc-va-hoat-dong-737-1426109.htm                                                          |
-| EVF: Quy chế quản trị nội bộ                                                                 | 2026-04-10T15:19:46   | /2026/04/evf-quy-che-quan-tri-noi-bo-143-1426108.htm                                                               |
-| EVF: Quy chế tổ chức và hoạt động của HĐQT                                                   | 2026-04-10T15:18:52   | /2026/04/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1426107.htm                                                 |
-| EVF: Công văn CBTT về banh hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB | 2026-04-10T15:17:46   | /2026/04/evf-cong-van-cbtt-ve-banh-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb-737-1426106.htm |
-| EVF: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                   | 2026-04-06T10:03:21   | /2026/04/evf-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1423259.htm                                 |
-| Đại hội cổ đông EVF thông qua kế hoạch lợi nhuận nghìn tỷ                                    | 2026-04-03T16:02:00   | /2026/04/dai-hoi-co-dong-evf-thong-qua-ke-hoach-loi-nhuan-nghin-ty-737-1422582.htm                                 |
+| title                                                                                                          | publishtime            | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DGC bị loại khỏi VN30, BSR thay thế                                                                            | 2026-05-07T20:21:20.25 | /2026/05/dgc-bi-loai-khoi-vn30-bsr-thay-the-830-1439738.htm                                                               |
+| Kinh tế tư nhân trong kỷ nguyên vươn mình: EVF tinh gọn và tinh nhuệ hóa bộ máy để theo đuổi mục tiêu bền vững | 2026-05-07T15:52:00    | /2026/05/kinh-te-tu-nhan-trong-ky-nguyen-vuon-minh-evf-tinh-gon-va-tinh-nhue-hoa-bo-may-de-theo-duoi-muc-tieu-ben-vung-7… |
+| EVF duy trì đà tăng trưởng, lợi nhuận quý 1/2026 tăng 8.1%                                                     | 2026-04-21T15:42:00    | /2026/04/evf-duy-tri-da-tang-truong-loi-nhuan-quy-12026-tang-81-737-1431262.htm                                           |
+| EVF: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                                             | 2026-04-21T09:32:27    | /2026/04/evf-giai-trinh-bien-dong-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1431003.htm                                |
+| EVF: BCTC quý 1 năm 2026                                                                                       | 2026-04-20T00:00:00    | /2026/04/evf-bctc-quy-1-nam-2026-737-1431015.htm                                                                          |
+| Phân tích kỹ thuật phiên chiều 15/04: Tiếp tục đi lên                                                          | 2026-04-15T13:33:01.5  | /2026/04/phan-tich-ky-thuat-phien-chieu-1504-tiep-tuc-di-len-585-1427891.htm                                              |
+| EVF: Điều lệ tổ chức và hoạt động                                                                              | 2026-04-10T15:23:41    | /2026/04/evf-dieu-le-to-chuc-va-hoat-dong-737-1426109.htm                                                                 |
+| EVF: Quy chế quản trị nội bộ                                                                                   | 2026-04-10T15:19:46    | /2026/04/evf-quy-che-quan-tri-noi-bo-143-1426108.htm                                                                      |
+| EVF: Quy chế tổ chức và hoạt động của HĐQT                                                                     | 2026-04-10T15:18:52    | /2026/04/evf-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1426107.htm                                                        |
+| EVF: Công văn CBTT về banh hành Điều lệ, Quy chế tổ chức và hoạt động của HĐQT, Quy chế QTNB                   | 2026-04-10T15:17:46    | /2026/04/evf-cong-van-cbtt-ve-banh-hanh-dieu-le-quy-che-to-chuc-va-hoat-dong-cua-hdqt-quy-che-qtnb-737-1426106.htm        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,13 +121,18 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.83% |
+| % Cổ phiếu hôm nay | -0.75% |
+| RS (CP − Ngành) | -1.58% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EVF      | 2025-12-19 00:00:00 |  11.3  |  11.35 | 11.15 |   11.25 |  1518800 |
 | EVF      | 2025-12-22 00:00:00 |  11.3  |  11.55 | 11.25 |   11.5  |  3374900 |
 | EVF      | 2025-12-23 00:00:00 |  11.55 |  11.65 | 11.35 |   11.4  |  2291700 |
 | EVF      | 2025-12-24 00:00:00 |  11.35 |  11.45 | 11.3  |   11.45 |  2099400 |
@@ -216,22 +221,23 @@ _Không có dữ liệu_
 | EVF      | 2026-05-04 00:00:00 |  12.95 |  13.2  | 12.95 |   13.1  |  3230400 |
 | EVF      | 2026-05-05 00:00:00 |  13.1  |  13.1  | 12.85 |   12.9  |  2910300 |
 | EVF      | 2026-05-06 00:00:00 |  12.95 |  13.3  | 12.8  |   13.25 |  3959500 |
-| EVF      | 2026-05-07 00:00:00 |  13.3  |  13.45 | 13.2  |   13.4  |  2080700 |
+| EVF      | 2026-05-07 00:00:00 |  13.3  |  13.45 | 13.2  |   13.3  |  4025400 |
+| EVF      | 2026-05-08 00:00:00 |  13.4  |  13.4  | 13.15 |   13.2  |   955800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EVF      | 2026-05-07 10:33:10 |   13.35 |     3100 | Sell         | 471447876 |
-| EVF      | 2026-05-07 10:33:10 |   13.35 |     6900 | Sell         | 471447877 |
-| EVF      | 2026-05-07 10:33:11 |   13.35 |     2000 | Sell         | 471447891 |
-| EVF      | 2026-05-07 10:33:24 |   13.35 |    10000 | Sell         | 471448221 |
-| EVF      | 2026-05-07 10:33:25 |   13.35 |     3900 | Sell         | 471448279 |
-| EVF      | 2026-05-07 10:33:25 |   13.35 |     1100 | Sell         | 471448278 |
-| EVF      | 2026-05-07 10:33:42 |   13.35 |     1000 | Sell         | 471448792 |
-| EVF      | 2026-05-07 10:34:08 |   13.35 |     1200 | Sell         | 471449923 |
-| EVF      | 2026-05-07 10:34:20 |   13.35 |     3900 | Sell         | 471450538 |
-| EVF      | 2026-05-07 10:34:20 |   13.35 |      300 | Sell         | 471450539 |
+| EVF      | 2026-05-08 11:07:57 |    13.2 |      100 | Sell         | 472134915 |
+| EVF      | 2026-05-08 11:08:09 |    13.2 |    30000 | Sell         | 472135178 |
+| EVF      | 2026-05-08 11:08:43 |    13.2 |     2000 | Sell         | 472136088 |
+| EVF      | 2026-05-08 11:09:19 |    13.2 |     2000 | Sell         | 472137210 |
+| EVF      | 2026-05-08 11:10:24 |    13.2 |      100 | Sell         | 472139448 |
+| EVF      | 2026-05-08 11:10:47 |    13.2 |     1000 | Sell         | 472140287 |
+| EVF      | 2026-05-08 11:11:27 |    13.2 |    10400 | Sell         | 472141936 |
+| EVF      | 2026-05-08 11:11:27 |    13.2 |    39600 | Sell         | 472141937 |
+| EVF      | 2026-05-08 11:12:09 |    13.2 |     5200 | Sell         | 472143579 |
+| EVF      | 2026-05-08 11:12:12 |    13.2 |      200 | Sell         | 472143746 |
 
 <!-- END:DAILY -->
 
