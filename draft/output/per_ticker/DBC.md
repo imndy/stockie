@@ -1,6 +1,6 @@
 # DBC — CTCP Tập đoàn Dabaco Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 08/05/2026 13:05  |  🗂 Quarterly: 03/05/2026 14:00
+> 📅 Daily: 08/05/2026 21:54  |  🗂 Quarterly: 03/05/2026 14:00
 
 ---
 
@@ -10,122 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DBC |
-| exchange | HOSE |
-| market_cap | 8717230007550 |
-| 52w_high | 31250 |
-| 52w_high_date | 2025-08-12 |
-| 52w_low | 22000 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 1.4442 |
-| dividend | 0 |
-| beta | 0.76 |
-| eps | 3762 |
-| eps_forward | 7.82138304103642 |
-| bvps | 21938 |
-| pe | 6.03 |
-| pb | 1.03 |
-| price_chg_1m | -3.21 |
-| price_chg_ytd | -5.56 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DBC |
+| current_price | 22700.0 |
+| market_cap | 8736473340900.0 |
+| number_of_shares_mkt_cap | 384866667.0 |
+| ticker | DBC |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | DABACO Group |
+| en_organ_short_name | DABACO |
+| vi_organ_name | Công ty Cổ phần Tập đoàn Dabaco Việt Nam |
+| vi_organ_short_name | Tập đoàn DABACO |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Food & Beverage |
+| sector_vn | Thực phẩm và đồ uống |
+| average_match_value1_month | 55135376807.89474 |
+| average_match_volume1_month | 2379068.0 |
+| highest_price1_year | 32350.0 |
+| lowest_price1_year | 21900.0 |
+| foreigner_percentage | 0.01435865 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>DBC Group (DBC), formerly known&nbsp;as Ha Bac Agricultural Product Company,&nbsp;was&nbsp;established in… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Dabaco Việt Nam (DBC)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&oc… |
+| in_cu | False |
+| icb_code_lv2 | 3500 |
+| icb_code_lv4 | 3573 |
+| free_float | 269406666 |
+| free_float_percentage | 0.6999999977 |
+| listing_date | 2008-03-18T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.65 |
-| MA5 | 22.71 |
-| MA10 | 22.755 |
-| EMA20 | 22.958 |
-| EMA50 | 23.737 |
-| Slope MA20 (5p, %) | -0.69 |
-| ATR(14) | 0.481 |
-| RSI(14) | 43.2 |
+| Giá đóng cửa | 22.5 |
+| MA5 | 22.68 |
+| MA10 | 22.74 |
+| EMA20 | 22.944 |
+| EMA50 | 23.731 |
+| Slope MA20 (5p, %) | -0.75 |
+| ATR(14) | 0.492 |
+| RSI(14) | 41.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.259 |
-| MACD Signal | -0.276 |
-| MACD Histogram | 0.017 |
+| MACD | -0.271 |
+| MACD Signal | -0.278 |
+| MACD Histogram | 0.007 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 3737233 |
+| KL avg 60 phiên | 3764000 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    24.3   | 1.33        | 1             |
-| 🔴 Kháng cự    |    23.65  | 1.24        | 1             |
-| 🔴 Kháng cự    |    22.75  | 1.07        | 1             |
-| ▶ Giá hiện tại |    22.65  | —           | —             |
-| 🟢 Hỗ trợ      |    22.3   | 2.55        | 2             |
-| 🟢 Hỗ trợ      |    21.966 | 2.6         | 2             |
+| 🔴 Kháng cự     |    24.3   | 1.33        | 1             |
+| 🔴 Kháng cự     |    23.65  | 1.24        | 1             |
+| 🔴 Kháng cự     |    22.75  | 1.07        | 1             |
+| ▶ Giá hiện tại |    22.5   | —           | —             |
+| 🟢 Hỗ trợ       |    22.3   | 2.55        | 2             |
+| 🟢 Hỗ trợ       |    21.966 | 2.6         | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DBC |
-| pe | 6.03 |
-| pb | 1.03 |
-| roe | 20.31 |
-| roe_pct_rank | 69 |
-| roa | 10.01 |
-| roa_pct_rank | 68 |
-| eps | 3762 |
-| bvps | 21938 |
-| beta | 0.76 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 34 |
-| pb_pct_rank | 44 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698820 |
+| ratio_type | RATIO_TTM |
+| organ_code | DBC |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 82818465 |
+| market_cap | 2062179778500.0 |
+| dividend_yield | 0.0 |
+| pe | 10.4784726711 |
+| pb | 0.8206648984 |
+| ps | 0.3592135933 |
+| price_to_cash_flow | 7.2991507207 |
+| ev_to_ebitda | 11.4210272648 |
+| cash_ratio | 0.0302685756 |
+| quick_ratio | 0.3760669528 |
+| current_ratio | 1.0033165421 |
+| owners_equity | 0.4481454101 |
+| debt_per_equity | 1.3829376881 |
+| debt_to_equity | 1.8078820705 |
+| roe | 0.0808516143 |
+| roa | 0.0286544822 |
+| day_sale_outstanding | 23.1451651923 |
+| days_inventory_outstanding | 159.401835433 |
+| days_payable_outstanding | 31.5181001896 |
+| gross_margin | 0.1331876148 |
+| ebit_margin | 0.0583508867 |
+| pre_tax_profit_margin | 0.0473362369 |
+| after_tax_profit_margin | 0.0342825552 |
+| asset_turnover | 0.8358327441 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 334981806993.0 |
+| ebitda | 476269003498.0 |
+| roic | 0.0559432727 |
+| cash_cycle | 230.9892193809 |
+| fixed_asset_turnover | 2.9507555068 |
+| financial_leverage | 1.8078820705 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 1058800 | -71.7%     | 0.275%         |
-| 2026-05-05 | 2321600 | -37.9%     | 0.603%         |
-| 2026-05-06 | 1527500 | -59.1%     | 0.397%         |
-| 2026-05-07 | 1539400 | -58.8%     | 0.400%         |
-| 2026-05-08 |  462300 | -87.6%     | 0.120%         |
+| 2026-05-04 | 1058800 | -71.9%     | 0.275%         |
+| 2026-05-05 | 2321600 | -38.3%     | 0.603%         |
+| 2026-05-06 | 1527500 | -59.4%     | 0.397%         |
+| 2026-05-07 | 1539400 | -59.1%     | 0.400%         |
+| 2026-05-08 | 2068300 | -45.1%     | 0.537%         |
 
-- KL trung bình 60 phiên: **3,737,233**
+- KL trung bình 60 phiên: **3,764,000**
 - Số CP lưu hành: **384,866,667**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                 | publishtime             | url                                                                                                           |
-|:--------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------|
-| Dabaco giảm lãi 2 quý liên tiếp                                                       | 2026-05-04T16:17:16.213 | /2026/05/dabaco-giam-lai-2-quy-lien-tiep-737-1437093.htm                                                      |
-| DBC: Giải trình chênh lệch LNST BCTC HN và Cty mẹ quý 1/2026 so với cùng kỳ năm trước | 2026-04-28T17:37:57     | /2026/04/dbc-giai-trinh-chenh-lech-lnst-bctc-hn-va-cty-me-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434978.htm |
-| DBC: Điều lệ và các Quy chế sửa đổi, bổ sung                                          | 2026-04-28T13:36:06     | /2026/04/dbc-dieu-le-va-cac-quy-che-sua-doi-bo-sung-737-1434546.htm                                           |
-| DBC: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo         | 2026-04-28T13:35:13     | /2026/04/dbc-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-tai-lieu-kem-theo-737-1434545.htm          |
-| DBC: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                          | 2026-04-28T13:34:23     | /2026/04/dbc-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1434551.htm                                          |
-| DBC: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                             | 2026-04-28T00:00:00     | /2026/04/dbc-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1435004.htm                                             |
-| DBC: BCTC Tóm tắt quý 1 năm 2026                                                      | 2026-04-28T00:00:00     | /2026/04/dbc-bctc-tom-tat-quy-1-nam-2026-737-1435005.htm                                                      |
-| DBC: Báo cáo phát triển bền vững năm 2025                                             | 2026-04-15T11:02:44     | /2026/04/dbc-bao-cao-phat-trien-ben-vung-nam-2025-830-1427876.htm                                             |
-| DBC: Báo cáo thường niên năm 2025                                                     | 2026-04-15T11:01:19     | /2026/04/dbc-bao-cao-thuong-nien-nam-2025-737-1427874.htm                                                     |
-| DBC - Tăng trưởng giữa biến động (Kỳ 2)                                               | 2026-04-09T11:02:00     | /2026/04/dbc-tang-truong-giua-bien-dong-ky-2-582-1423775.htm                                                  |
+| news_title                                                                              | public_date         | news_source_link   |
+|:----------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| Dabaco Việt Nam (DBC): Lãi quý I/2026 giảm 26,4% khi giá heo hơi thấp hơn cùng kỳ       | 2026-04-29T09:36:00 |                    |
+| DBC: Giải trình chênh lệch LNST BCTC HN và Cty mẹ quý 1/2026 so với cùng kỳ năm trước   | 2026-04-28T17:25:21 |                    |
+| DBC: Điều lệ và các Quy chế sửa đổi, bổ sung                                            | 2026-04-28T13:36:06 |                    |
+| DBC: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo           | 2026-04-28T13:35:13 |                    |
+| DBC: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                            | 2026-04-28T13:34:23 |                    |
+| DBC: Báo cáo phát triển bền vững năm 2025                                               | 2026-04-15T11:02:44 |                    |
+| DBC: Báo cáo thường niên năm 2025                                                       | 2026-04-15T11:01:19 |                    |
+| Dabaco Việt Nam (DBC) lên kế hoạch lãi ròng giảm 25,9% trong năm 2026, về 1.117 tỷ đồng | 2026-04-07T07:12:00 |                    |
+| DBC: Link công bố tài liệu ĐHĐCĐ thường niên 2026                                       | 2026-04-06T18:01:34 |                    |
+| DBC: CBTT tổ chức ĐHĐCĐ thường niên năm 2026                                            | 2026-03-31T13:26:47 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-28T00:00:00 | nan                 | nan                 |
+| 2026-03-10T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
+| 2025-12-04T00:00:00 | nan                 | nan                 |
+| 2025-10-24T00:00:00 | nan                 | nan                 |
+| 2025-08-26T00:00:00 | nan                 | nan                 |
+| 2025-08-18T00:00:00 | nan                 | nan                 |
+| 2025-07-31T00:00:00 | 2025-08-08T00:00:00 | 2025-08-07T00:00:00 |
+| 2025-04-23T00:00:00 | nan                 | nan                 |
+| 2025-03-25T00:00:00 | nan                 | nan                 |
+| 2025-03-04T00:00:00 | 2025-03-20T00:00:00 | 2025-03-19T00:00:00 |
+| 2025-02-25T00:00:00 | nan                 | nan                 |
+| 2024-12-31T00:00:00 | nan                 | nan                 |
+| 2024-11-18T00:00:00 | nan                 | nan                 |
+| 2024-11-18T00:00:00 | nan                 | nan                 |
+| 2024-10-28T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.16% |
-| % Cổ phiếu hôm nay | -0.44% |
-| RS (CP − Ngành) | -0.28% |
+| % Ngành hôm nay | -0.76% |
+| % Cổ phiếu hôm nay | -0.88% |
+| RS (CP − Ngành) | -0.12% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -221,22 +304,22 @@ _Không có dữ liệu_
 | DBC      | 2026-05-05 00:00:00 |  22.55 |  23    | 22.5  |   22.75 |  2321600 |
 | DBC      | 2026-05-06 00:00:00 |  22.8  |  22.95 | 22.55 |   22.9  |  1527500 |
 | DBC      | 2026-05-07 00:00:00 |  22.8  |  23.05 | 22.7  |   22.7  |  1539400 |
-| DBC      | 2026-05-08 00:00:00 |  22.7  |  22.75 | 22.6  |   22.65 |   462300 |
+| DBC      | 2026-05-08 00:00:00 |  22.7  |  22.75 | 22.45 |   22.5  |  2068300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DBC      | 2026-05-08 11:16:04 |   22.65 |      100 | Sell         | 472150165 |
-| DBC      | 2026-05-08 11:16:04 |   22.65 |    13700 | Sell         | 472150170 |
-| DBC      | 2026-05-08 11:16:04 |   22.65 |      300 | Sell         | 472150169 |
-| DBC      | 2026-05-08 11:16:04 |   22.65 |      100 | Sell         | 472150166 |
-| DBC      | 2026-05-08 11:16:04 |   22.65 |      100 | Sell         | 472150167 |
-| DBC      | 2026-05-08 11:16:04 |   22.65 |      100 | Sell         | 472150168 |
-| DBC      | 2026-05-08 11:16:10 |   22.7  |      600 | Buy          | 472150272 |
-| DBC      | 2026-05-08 11:16:10 |   22.7  |     1600 | Buy          | 472150274 |
-| DBC      | 2026-05-08 11:20:05 |   22.65 |      500 | Sell         | 472156266 |
-| DBC      | 2026-05-08 11:21:56 |   22.65 |      100 | Sell         | 472159362 |
+| DBC      | 2026-05-08 14:19:17 |   22.5  |      100 | Sell         | 472515481 |
+| DBC      | 2026-05-08 14:19:17 |   22.5  |      900 | Sell         | 472515482 |
+| DBC      | 2026-05-08 14:19:17 |   22.5  |      300 | Sell         | 472515483 |
+| DBC      | 2026-05-08 14:19:55 |   22.5  |      300 | Sell         | 472518023 |
+| DBC      | 2026-05-08 14:19:55 |   22.5  |      700 | Sell         | 472518021 |
+| DBC      | 2026-05-08 14:19:55 |   22.5  |      100 | Sell         | 472518022 |
+| DBC      | 2026-05-08 14:20:14 |   22.55 |     2000 | Buy          | 472519374 |
+| DBC      | 2026-05-08 14:20:14 |   22.5  |     1200 | Sell         | 472519361 |
+| DBC      | 2026-05-08 14:20:14 |   22.5  |      100 | Sell         | 472519357 |
+| DBC      | 2026-05-08 14:20:14 |   22.5  |      200 | Sell         | 472519358 |
 
 <!-- END:DAILY -->
 

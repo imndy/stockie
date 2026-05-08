@@ -1,6 +1,6 @@
 # SIP — CTCP Đầu tư Sài Gòn VRG
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 08/05/2026 13:16  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 08/05/2026 22:01  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -10,118 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SIP |
-| exchange | HOSE |
-| market_cap | 14163607165500 |
-| 52w_high | 67254 |
-| 52w_high_date | 2025-07-24 |
-| 52w_low | 49163 |
-| 52w_low_date | 2025-10-20 |
-| foreign_ownership | 2.4507 |
-| dividend | 1700 |
-| beta | 0.69 |
-| eps | 5899 |
-| eps_forward | 16.34059335741032 |
-| bvps | 25506 |
-| pe | 10.00 |
-| pb | 2.31 |
-| price_chg_1m | -4.57 |
-| price_chg_ytd | 1.46 |
-| price_chg_1m_rank | 8.99 |
-| price_chg_ytd_rank | 50.28 |
-| yield | 0.02905982905982906 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | SGVRG |
+| current_price | 59000.0 |
+| market_cap | 14284663637000.0 |
+| number_of_shares_mkt_cap | 242112943.0 |
+| ticker | SIP |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 22-Dec-25 |
+| en_organ_name | Saigon VRG Investment Corporation |
+| en_organ_short_name | SVGR CORP |
+| vi_organ_name | Công ty Cổ phần Đầu tư Sài Gòn VRG |
+| vi_organ_short_name | Đầu tư Sài Gòn VRG |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Real Estate |
+| sector_vn | Bất động sản |
+| average_match_value1_month | 15506992857.894735 |
+| average_match_volume1_month | 257667.0 |
+| highest_price1_year | 67742.0 |
+| lowest_price1_year | 49160.0 |
+| foreigner_percentage | 0.0244981 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.00665475 |
+| analyst | Anh Pham |
+| upside_to_target_percent | 0.1830508475 |
+| dividend_per_share_tsr | 2000.0 |
+| projected_tsr_percentage | 0.2169491526 |
+| target_price | 69800.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Saigon VRG Investment Corporation (SIP)&nbsp;was&nbsp;established&nbsp;in 2007 by&nbsp;4 founding shareholders… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Đầu tư S&agrave;i G&ograve;n VRG (SIP)&nbsp;được th&agrave;nh lập&nbsp;v&agrave;o năm 20… |
+| in_cu | True |
+| icb_code_lv2 | 8600 |
+| icb_code_lv4 | 8633 |
+| free_float | 108950824 |
+| free_float_percentage | 0.4499999986 |
+| listing_date | 2019-06-06T00:00:00 |
+| prev_insight | {'targetPrice': 73900.0, 'rating': 'BUY', 'ratingAsOf': '18-Jun-25', 'analyst': 'Anh Pham', 'version': '20251217'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 58.5 |
-| MA5 | 59.64 |
-| MA10 | 59.75 |
-| EMA20 | 59.933 |
-| EMA50 | 59.375 |
-| Slope MA20 (5p, %) | -0.43 |
-| ATR(14) | 1.509 |
-| RSI(14) | 42.9 |
+| Giá đóng cửa | 58.6 |
+| MA5 | 59.66 |
+| MA10 | 59.76 |
+| EMA20 | 59.942 |
+| EMA50 | 59.379 |
+| Slope MA20 (5p, %) | -0.41 |
+| ATR(14) | 1.531 |
+| RSI(14) | 43.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.031 |
-| MACD Signal | 0.243 |
-| MACD Histogram | -0.273 |
+| MACD | -0.023 |
+| MACD Signal | 0.244 |
+| MACD Histogram | -0.267 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 420757 |
+| KL avg 60 phiên | 422952 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    62.232 | 2.6         | 2             |
-| 🔴 Kháng cự    |    60.9   | 0.75        | 1             |
-| 🔴 Kháng cự    |    59.5   | 1.15        | 1             |
-| ▶ Giá hiện tại |    58.5   | —           | —             |
-| 🟢 Hỗ trợ      |    57.266 | 2.32        | 2             |
-| 🟢 Hỗ trợ      |    54.3   | 2.23        | 2             |
-| 🟢 Hỗ trợ      |    52.9   | 0.57        | 1             |
+| 🔴 Kháng cự     |    62.232 | 2.6         | 2             |
+| 🔴 Kháng cự     |    60.9   | 0.75        | 1             |
+| 🔴 Kháng cự     |    59.5   | 1.15        | 1             |
+| ▶ Giá hiện tại |    58.6   | —           | —             |
+| 🟢 Hỗ trợ       |    57.266 | 2.32        | 2             |
+| 🟢 Hỗ trợ       |    54.3   | 2.23        | 2             |
+| 🟢 Hỗ trợ       |    52.9   | 0.57        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SIP |
-| pe | 10.00 |
-| pb | 2.31 |
-| roe | 28.01 |
-| roe_pct_rank | 85 |
-| roa | 5.04 |
-| roa_pct_rank | 50 |
-| eps | 5899 |
-| bvps | 25506 |
-| beta | 0.69 |
-| dividend | 1700 |
-| yield | 0.02905982905982906 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 82 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2019 |
+| quarter | 4 |
+| ratio_ttm_id | 2735284 |
+| ratio_type | RATIO_TTM |
+| organ_code | SGVRG |
+| year_report | 2019 |
+| number_of_shares_mkt_cap | 69048195 |
+| market_cap | 5503831623450.0 |
+| dividend_yield | 0.0125454774 |
+| pe | 9.250731836 |
+| pb | 3.3491375858 |
+| ps | 1.2682397296 |
+| price_to_cash_flow | 2.5767088602 |
+| ev_to_ebitda | 9.1639206255 |
+| cash_ratio | 0.1766270201 |
+| quick_ratio | 1.433227926 |
+| current_ratio | 1.5051913869 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.1939889925 |
+| debt_to_equity | 6.0971891109 |
+| roe | 0.3648622079 |
+| roa | 0.0491604416 |
+| day_sale_outstanding | 18.665861763 |
+| days_inventory_outstanding | 32.8823933504 |
+| days_payable_outstanding | 10.535727143 |
+| gross_margin | 0.1395819351 |
+| ebit_margin | 0.1157090968 |
+| pre_tax_profit_margin | 0.1864233952 |
+| after_tax_profit_margin | 0.1487357126 |
+| asset_turnover | 0.358583674 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 502147481483.0 |
+| ebitda | 597073923879.0 |
+| roic | 0.2216561195 |
+| cash_cycle | 158.3191340803 |
+| fixed_asset_turnover | 18.8257267745 |
+| financial_leverage | 6.0971891109 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 218000 | -48.2%     | 0.090%         |
-| 2026-05-05 | 239300 | -43.1%     | 0.099%         |
-| 2026-05-06 | 278700 | -33.8%     | 0.115%         |
-| 2026-05-07 | 357200 | -15.1%     | 0.148%         |
-| 2026-05-08 | 166600 | -60.4%     | 0.069%         |
+| 2026-05-04 | 218000 | -48.5%     | 0.090%         |
+| 2026-05-05 | 239300 | -43.4%     | 0.099%         |
+| 2026-05-06 | 278700 | -34.1%     | 0.115%         |
+| 2026-05-07 | 357200 | -15.5%     | 0.148%         |
+| 2026-05-08 | 298300 | -29.5%     | 0.123%         |
 
-- KL trung bình 60 phiên: **420,756**
+- KL trung bình 60 phiên: **422,951**
 - Số CP lưu hành: **242,112,943**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                              | publishtime         | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SIP: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                 | 2026-05-04T11:12:43 | /2026/05/sip-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1436959.htm                                |
-| Lợi nhuận SIP đi lùi do chi phí leo thang, vẫn giữ “của để dành” gần 14 ngàn tỷ                    | 2026-05-03T14:52:00 | /2026/05/loi-nhuan-sip-di-lui-do-chi-phi-leo-thang-van-giu-cua-de-danh-gan-14-ngan-ty-737-1436371.htm                     |
-| SIP: BCTC Hợp nhất quý 1 năm 2026                                                                  | 2026-04-30T00:00:00 | /2026/04/sip-bctc-hop-nhat-quy-1-nam-2026-737-1436907.htm                                                                 |
-| SIP: BCTC quý 1 năm 2026                                                                           | 2026-04-30T00:00:00 | /2026/04/sip-bctc-quy-1-nam-2026-737-1436908.htm                                                                          |
-| SIP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện nhận cổ tức đợt 23 năm 2025 bằng tiền mặt | 2026-04-29T17:41:55 | /2026/04/sip-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-nhan-co-tuc-dot-23-nam-2025-bang-tien-mat-737-1435915.h… |
-| SIP: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                          | 2026-04-23T10:19:05 | /2026/04/sip-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1432452.htm                          |
-| SIP: Thông báo thay đổi nhân sự                                                                    | 2026-04-23T10:19:04 | /2026/04/sip-thong-bao-thay-doi-nhan-su-214-1432453.htm                                                                   |
-| ĐHĐCĐ SIP: Đồng Nai lên Thành phố mang lại cơ hội lẫn thách thức                                   | 2026-04-21T17:38:00 | /2026/04/dhdcd-sip-dong-nai-len-thanh-pho-mang-lai-co-hoi-lan-thach-thuc-737-1431216.htm                                  |
-| SIP: Báo cáo thường niên năm 2025                                                                  | 2026-04-20T15:56:31 | /2026/04/sip-bao-cao-thuong-nien-nam-2025-737-1430469.htm                                                                 |
-| SIP: Nghị quyết HĐQT về việc điều chỉnh tài liệu họp ĐHĐCĐTN 2026                                  | 2026-04-17T17:47:44 | /2026/04/sip-nghi-quyet-hdqt-ve-viec-dieu-chinh-tai-lieu-hop-dhdcdtn-2026-737-1429538.htm                                 |
+| news_title                                                                                        | public_date         | news_source_link   |
+|:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| SIP: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                | 2026-05-04T11:12:43 |                    |
+| Quý I/2026, lợi nhuận sau thuế của Đầu tư Sài Gòn VRG (SIP) giảm 11,4%, về 356,58 tỷ đồng         | 2026-05-03T20:32:00 |                    |
+| SIP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện nhận cổ tức đợt 2 năm 2025 bằng tiền mặt | 2026-04-29T17:32:00 |                    |
+| SIP: Thông báo thay đổi nhân sự                                                                   | 2026-04-23T10:13:57 |                    |
+| SIP: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                         | 2026-04-23T10:13:15 |                    |
+| SIP: Báo cáo thường niên năm 2025                                                                 | 2026-04-20T15:56:31 |                    |
+| SIP: Nghị quyết HĐQT về việc điều chỉnh tài liệu họp ĐHĐCĐTN 2026                                 | 2026-04-17T17:43:28 |                    |
+| SIP: Nghị quyết HĐQT số 1396 ngày 09/04/2026                                                      | 2026-04-10T17:26:28 |                    |
+| SIP: Thông báo đơn xin từ nhiệm của Thành viên BKS                                                | 2026-04-06T15:20:33 |                    |
+| SIP: Tài liệu họp ĐHĐCĐ thường niên 2026                                                          | 2026-03-31T17:13:16 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-05-04T00:00:00 | nan                 | nan                 |
+| 2026-03-03T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
+| 2025-11-13T00:00:00 | 2025-11-20T00:00:00 | 2025-11-19T00:00:00 |
+| 2025-08-29T00:00:00 | nan                 | nan                 |
+| 2025-08-13T00:00:00 | nan                 | nan                 |
+| 2025-07-04T00:00:00 | 2025-07-15T00:00:00 | 2025-07-14T00:00:00 |
+| 2025-07-02T00:00:00 | nan                 | nan                 |
+| 2025-07-02T00:00:00 | nan                 | nan                 |
+| 2025-07-02T00:00:00 | nan                 | nan                 |
+| 2025-05-09T00:00:00 | 2025-05-16T00:00:00 | 2025-05-15T00:00:00 |
+| 2025-03-06T00:00:00 | 2025-03-25T00:00:00 | 2025-03-24T00:00:00 |
+| 2024-12-24T00:00:00 | nan                 | nan                 |
+| 2024-12-12T00:00:00 | nan                 | nan                 |
+| 2024-12-06T00:00:00 | 2024-12-13T00:00:00 | 2024-12-12T00:00:00 |
+| 2024-11-18T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -0.68% |
+| RS (CP − Ngành) | +0.60% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +303,22 @@ _Không có dữ liệu_
 | SIP      | 2026-05-05 00:00:00 |   60.7 |   60.7 |  59.4 |    60   |   239300 |
 | SIP      | 2026-05-06 00:00:00 |   59.6 |   60.2 |  59.2 |    60.1 |   278700 |
 | SIP      | 2026-05-07 00:00:00 |   59.7 |   60   |  59   |    59   |   357200 |
-| SIP      | 2026-05-08 00:00:00 |   58.6 |   59.5 |  58.5 |    58.5 |   166600 |
+| SIP      | 2026-05-08 00:00:00 |   58.6 |   59.5 |  58.2 |    58.6 |   298300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SIP      | 2026-05-08 13:01:41 |    58.5 |      500 | Sell         | 472185077 |
-| SIP      | 2026-05-08 13:02:11 |    58.5 |      500 | Sell         | 472187456 |
-| SIP      | 2026-05-08 13:02:15 |    58.5 |      100 | Sell         | 472187612 |
-| SIP      | 2026-05-08 13:02:33 |    58.5 |      100 | Sell         | 472188749 |
-| SIP      | 2026-05-08 13:02:33 |    58.5 |      100 | Sell         | 472188750 |
-| SIP      | 2026-05-08 13:02:40 |    58.5 |      300 | Sell         | 472189101 |
-| SIP      | 2026-05-08 13:02:40 |    58.5 |      200 | Sell         | 472189102 |
-| SIP      | 2026-05-08 13:02:51 |    58.5 |      100 | Sell         | 472189740 |
-| SIP      | 2026-05-08 13:03:10 |    58.5 |      100 | Sell         | 472191025 |
-| SIP      | 2026-05-08 13:03:10 |    58.5 |      200 | Sell         | 472191027 |
+| SIP      | 2026-05-08 14:05:51 |    58.7 |      100 | Sell         | 472448568 |
+| SIP      | 2026-05-08 14:05:54 |    58.7 |      100 | Sell         | 472448730 |
+| SIP      | 2026-05-08 14:06:25 |    58.4 |      200 | Sell         | 472451402 |
+| SIP      | 2026-05-08 14:06:30 |    58.4 |      100 | Sell         | 472451994 |
+| SIP      | 2026-05-08 14:07:05 |    58.4 |      100 | Sell         | 472455180 |
+| SIP      | 2026-05-08 14:07:15 |    58.6 |      100 | Buy          | 472456433 |
+| SIP      | 2026-05-08 14:08:25 |    58.6 |      200 | Buy          | 472464564 |
+| SIP      | 2026-05-08 14:08:25 |    58.6 |      200 | Buy          | 472464565 |
+| SIP      | 2026-05-08 14:08:25 |    58.6 |      100 | Buy          | 472464566 |
+| SIP      | 2026-05-08 14:08:25 |    58.6 |     2000 | Buy          | 472464567 |
 
 <!-- END:DAILY -->
 

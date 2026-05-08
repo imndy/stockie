@@ -1,6 +1,6 @@
 # CII — CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 08/05/2026 13:03  |  🗂 Quarterly: 03/05/2026 13:58
+> 📅 Daily: 08/05/2026 21:53  |  🗂 Quarterly: 03/05/2026 13:58
 
 ---
 
@@ -10,118 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CII |
-| exchange | HOSE |
-| market_cap | 12465327148050 |
-| 52w_high | 30350 |
-| 52w_high_date | 2025-10-17 |
-| 52w_low | 11320 |
-| 52w_low_date | 2025-05-13 |
-| foreign_ownership | 3.8066 |
-| dividend | 500 |
-| beta | 0.98 |
-| eps | 238 |
-| eps_forward | 29.06749597587085 |
-| bvps | 18601 |
-| pe | 78.03 |
-| pb | 1.00 |
-| price_chg_1m | -1.33 |
-| price_chg_ytd | 66.40 |
-| price_chg_1m_rank | 8.50 |
-| price_chg_ytd_rank | 49.61 |
-| yield | 0.026954177897574125 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | CII |
+| current_price | 18600.0 |
+| market_cap | 12498926412600.0 |
+| number_of_shares_mkt_cap | 671985291.0 |
+| ticker | CII |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | Ho Chi Minh City Infrastructure Investment Joint Stock Company |
+| en_organ_short_name | Ho Chi Minh Infrastructure |
+| vi_organ_name | Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh |
+| vi_organ_short_name | Hạ tầng Kỹ thuật TP.HCM |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Construction & Materials |
+| sector_vn | Xây dựng và Vật liệu |
+| average_match_value1_month | 407846548426.3158 |
+| average_match_volume1_month | 21276995.0 |
+| highest_price1_year | 31350.0 |
+| lowest_price1_year | 11119.0 |
+| foreigner_percentage | 0.03805135 |
+| maximum_foreign_percentage | 0.4 |
+| state_percentage | 0.04079867 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Ho Chi Minh City Infrastructure Investment Joint Stock Company (CII)&nbsp;was established&nbsp;by 03 founding … |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM (CII)&nbsp;được th&agrave;nh lập bởi 03 cổ đ&ocirc;n… |
+| in_cu | False |
+| icb_code_lv2 | 2300 |
+| icb_code_lv4 | 2357 |
+| free_float | 638386026 |
+| free_float_percentage | 0.9499999993 |
+| listing_date | 2006-05-18T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 18.5 |
-| MA5 | 18.68 |
-| MA10 | 18.83 |
-| EMA20 | 18.701 |
-| EMA50 | 18.496 |
-| Slope MA20 (5p, %) | -0.14 |
-| ATR(14) | 0.79 |
-| RSI(14) | 48.9 |
+| Giá đóng cửa | 18.45 |
+| MA5 | 18.67 |
+| MA10 | 18.825 |
+| EMA20 | 18.696 |
+| EMA50 | 18.494 |
+| Slope MA20 (5p, %) | -0.16 |
+| ATR(14) | 0.8 |
+| RSI(14) | 48.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Trên |
-| MACD | 0.167 |
-| MACD Signal | 0.287 |
-| MACD Histogram | -0.12 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.163 |
+| MACD Signal | 0.286 |
+| MACD Histogram | -0.123 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 16226488 |
+| KL avg 60 phiên | 16364397 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    20.8   | 1.33        | 1             |
-| 🔴 Kháng cự    |    19.322 | 2.03        | 2             |
-| 🔴 Kháng cự    |    18.931 | 1.84        | 2             |
-| ▶ Giá hiện tại |    18.5   | —           | —             |
-| 🟢 Hỗ trợ      |    18.1   | 1.41        | 1             |
-| 🟢 Hỗ trợ      |    17.5   | 1.11        | 1             |
-| 🟢 Hỗ trợ      |    17.428 | 3.25        | 3             |
+| 🔴 Kháng cự     |    20.8   | 1.33        | 1             |
+| 🔴 Kháng cự     |    19.322 | 2.03        | 2             |
+| 🔴 Kháng cự     |    18.931 | 1.84        | 2             |
+| ▶ Giá hiện tại |    18.45  | —           | —             |
+| 🟢 Hỗ trợ       |    18.1   | 1.41        | 1             |
+| 🟢 Hỗ trợ       |    17.5   | 1.11        | 1             |
+| 🟢 Hỗ trợ       |    17.428 | 3.25        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CII |
-| pe | 78.03 |
-| pb | 1.00 |
-| roe | 3.57 |
-| roe_pct_rank | 32 |
-| roa | 0.36 |
-| roa_pct_rank | 34 |
-| eps | 238 |
-| bvps | 18601 |
-| beta | 0.98 |
-| dividend | 500 |
-| yield | 0.026954177897574125 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 42 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2699058 |
+| ratio_type | RATIO_TTM |
+| organ_code | CII |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 244713403 |
+| market_cap | 6166777755600.0 |
+| dividend_yield | 0.0 |
+| pe | 21.5507218265 |
+| pb | 1.4289720036 |
+| ps | 2.4024158749 |
+| price_to_cash_flow | -13.8852003151 |
+| ev_to_ebitda | 19.0431534725 |
+| cash_ratio | 0.3897322701 |
+| quick_ratio | 1.3863764606 |
+| current_ratio | 1.6351312367 |
+| owners_equity | 1.0529275886 |
+| debt_per_equity | 1.3141991135 |
+| debt_to_equity | 1.7851754351 |
+| roe | 0.0371611278 |
+| roa | 0.0138907017 |
+| day_sale_outstanding | 144.8493552459 |
+| days_inventory_outstanding | 149.9761444004 |
+| days_payable_outstanding | 44.4101086628 |
+| gross_margin | 0.2037415952 |
+| ebit_margin | -0.0193841147 |
+| pre_tax_profit_margin | 0.2108900675 |
+| after_tax_profit_margin | 0.1707997392 |
+| asset_turnover | 0.1252743796 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | -49757216662.0 |
+| ebitda | 776614193034.0 |
+| roic | -0.0027973587 |
+| cash_cycle | 572.7104423874 |
+| fixed_asset_turnover | 0.4738905577 |
+| financial_leverage | 1.7851754351 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-04 | 17196400 | +6.0%      | 2.559%         |
-| 2026-05-05 | 21054700 | +29.8%     | 3.133%         |
-| 2026-05-06 |  7572100 | -53.3%     | 1.127%         |
-| 2026-05-07 | 15626100 | -3.7%      | 2.325%         |
-| 2026-05-08 |  4246300 | -73.8%     | 0.632%         |
+| 2026-05-04 | 17196400 | +5.1%      | 2.559%         |
+| 2026-05-05 | 21054700 | +28.7%     | 3.133%         |
+| 2026-05-06 |  7572100 | -53.7%     | 1.127%         |
+| 2026-05-07 | 15626100 | -4.5%      | 2.325%         |
+| 2026-05-08 | 12520800 | -23.5%     | 1.863%         |
 
-- KL trung bình 60 phiên: **16,226,488**
+- KL trung bình 60 phiên: **16,364,396**
 - Số CP lưu hành: **671,985,291**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                    | publishtime             | url                                                                                                                       |
-|:-------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CII: Nghị quyết HĐQT số 186 ngày 05/05/2026                                                                              | 2026-05-05T17:33:51     | /2026/05/cii-nghi-quyet-hdqt-so-186-ngay-05-05-2026-737-1438157.htm                                                       |
-| Đồng Nai duyệt chủ trương làm dự án đường trên cao dọc Quốc lộ 51 do CII đề xuất                                         | 2026-05-05T10:22:56.663 | /2026/05/dong-nai-duyet-chu-truong-lam-du-an-duong-tren-cao-doc-quoc-lo-51-do-cii-de-xuat-4221-1437546.htm                |
-| LGC: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty TNHH MTV Dịch vụ và Đầu tư CII | 2026-05-05T09:45:03     | /2026/05/lgc-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-tnhh-mtv-dich-vu-va-da… |
-| CII: HĐQT thông qua việc gia hạn thời gian phân phối trái phiếu chuyển đổi                                               | 2026-04-29T11:24:25     | /2026/04/cii-hdqt-thong-qua-viec-gia-han-thoi-gian-phan-phoi-trai-phieu-chuyen-doi-785-1435397.htm                        |
-| CII: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                   | 2026-04-29T11:15:40     | /2026/04/cii-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1435375.htm                                            |
-| CII: BCTC quý 1 năm 2026                                                                                                 | 2026-04-29T00:00:00     | /2026/04/cii-bctc-quy-1-nam-2026-737-1435822.htm                                                                          |
-| CII: BCTC Hợp nhất quý 1 năm 2026                                                                                        | 2026-04-29T00:00:00     | /2026/04/cii-bctc-hop-nhat-quy-1-nam-2026-737-1435823.htm                                                                 |
-| Tổng Giám đốc CII Lê Quốc Bình: Không “chôn” vốn, chỉ mất lợi nhuận ngắn hạn, giá trị tài sản dài hạn vẫn còn            | 2026-04-28T12:34:00     | /2026/04/tong-giam-doc-cii-le-quoc-binh-khong-chon-von-chi-mat-loi-nhuan-ngan-han-gia-tri-tai-san-dai-han-van-con-737-14… |
-| CII: Thông báo đường dẫn báo cáo thường niên năm 2025                                                                    | 2026-04-15T10:56:54     | /2026/04/cii-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1427840.htm                                             |
-| CII: HĐQT thông qua việc thay đổi, bổ nhiệm một số chức danh Ban Điều hành công ty                                       | 2026-04-13T14:11:44     | /2026/04/cii-hdqt-thong-qua-viec-thay-doi-bo-nhiem-mot-so-chuc-danh-ban-dieu-hanh-cong-ty-214-1426776.htm                 |
+| news_title                                                                                                                | public_date         | news_source_link   |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| CII: Nghị quyết HĐQT số 186 ngày 05/05/2026                                                                               | 2026-05-05T17:33:51 |                    |
+| Lãi ròng Đầu tư Hạ tầng Kỹ thuật TP.HCM (CII) giảm 57,4% trong quý I/2026, về 40,77 tỷ đồng                               | 2026-04-30T18:42:00 |                    |
+| CII: HĐQT thông qua việc gia hạn thời gian phân phối trái phiếu chuyển đổi                                                | 2026-04-29T11:20:56 |                    |
+| CII: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2025                                                                    | 2026-04-29T11:15:00 |                    |
+| CII: Thông báo đường dẫn báo cáo thường niên năm 2025                                                                     | 2026-04-15T10:56:54 |                    |
+| CII: HĐQT thông qua việc thay đổi, bổ nhiệm một số chức danh Ban Điều hành công ty                                        | 2026-04-13T14:11:44 |                    |
+| CII: Thư mời và đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2025                                                         | 2026-04-07T08:54:06 |                    |
+| CII: HĐQT thông qua tài liệu ĐHĐCĐ thường niên năm 2025                                                                   | 2026-04-07T08:52:53 |                    |
+| CII: CBTT về việc UBND TP.HCM  ban hành công văn giao liên danh CII-HFIC làm nhà đầu tư đề xuất dự án BOT Võ Nguyên GIáp… | 2026-03-30T14:27:46 |                    |
+| CII: Nghị quyết HĐQT người sở hữu trái phiếu CII425021                                                                    | 2026-03-27T19:29:50 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-06T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
+| 2026-02-26T00:00:00 | nan                 | nan                 |
+| 2026-02-03T00:00:00 | 2026-01-26T00:00:00 | 2026-01-26T00:00:00 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2025-11-21T00:00:00 | nan                 | nan                 |
+| 2025-11-04T00:00:00 | 2025-11-03T00:00:00 | 2025-11-03T00:00:00 |
+| 2025-09-04T00:00:00 | 2025-09-15T00:00:00 | 2025-09-12T00:00:00 |
+| 2025-08-22T00:00:00 | nan                 | nan                 |
+| 2025-08-19T00:00:00 | nan                 | nan                 |
+| 2025-07-04T00:00:00 | 2025-08-06T00:00:00 | 2025-08-05T00:00:00 |
+| 2025-06-18T00:00:00 | nan                 | nan                 |
+| 2025-06-06T00:00:00 | nan                 | nan                 |
+| 2025-05-13T00:00:00 | 2025-05-05T00:00:00 | 2025-05-05T00:00:00 |
+| 2025-03-28T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Xây dựng |
+| % Ngành hôm nay | -0.62% |
+| % Cổ phiếu hôm nay | -0.81% |
+| RS (CP − Ngành) | -0.19% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +304,22 @@ _Không có dữ liệu_
 | CII      | 2026-05-05 00:00:00 |  19    |  19.15 | 18.25 |   18.45 | 21054700 |
 | CII      | 2026-05-06 00:00:00 |  18.55 |  18.9  | 18.45 |   18.8  |  7572100 |
 | CII      | 2026-05-07 00:00:00 |  19    |  19.4  | 18.6  |   18.6  | 15626100 |
-| CII      | 2026-05-08 00:00:00 |  18.6  |  18.75 | 18.5  |   18.5  |  4246300 |
+| CII      | 2026-05-08 00:00:00 |  18.6  |  18.75 | 18.35 |   18.45 | 12520800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CII      | 2026-05-08 13:03:19 |    18.5 |      500 | Sell         | 472191810 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      100 | Sell         | 472191786 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      500 | Sell         | 472191787 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |     3000 | Sell         | 472191788 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      200 | Sell         | 472191789 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      600 | Sell         | 472191790 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      100 | Sell         | 472191791 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |     1000 | Sell         | 472191792 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      100 | Sell         | 472191793 |
-| CII      | 2026-05-08 13:03:19 |    18.5 |      500 | Sell         | 472191794 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |      100 | Sell         | 472560220 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |      200 | Sell         | 472560227 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |    20000 | Sell         | 472560222 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |      100 | Sell         | 472560224 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |     2000 | Sell         | 472560225 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |      500 | Sell         | 472560226 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |     5000 | Sell         | 472560223 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |     1100 | Sell         | 472560228 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |     1000 | Sell         | 472560229 |
+| CII      | 2026-05-08 14:28:14 |   18.45 |      500 | Sell         | 472560230 |
 
 <!-- END:DAILY -->
 

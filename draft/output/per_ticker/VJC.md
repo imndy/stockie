@@ -1,6 +1,6 @@
 # VJC — CTCP Hàng không Vietjet
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 08/05/2026 13:21  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 08/05/2026 22:03  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -10,90 +10,207 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VJC |
-| exchange | HOSE |
-| market_cap | 105661784252400 |
-| 52w_high | 219100 |
-| 52w_high_date | 2025-11-25 |
-| 52w_low | 87000 |
-| 52w_low_date | 2025-05-30 |
-| foreign_ownership | 6.3985 |
-| dividend | 0 |
-| beta | 0.73 |
-| eps | 4383 |
-| eps_forward | 44.47474591968643 |
-| bvps | 43997 |
-| pe | 41.53 |
-| pb | 4.14 |
-| price_chg_1m | 5.37 |
-| price_chg_ytd | 98.89 |
-| price_chg_1m_rank | 8.99 |
-| price_chg_ytd_rank | 50.28 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | VIETJET |
+| current_price | 182000.0 |
+| market_cap | 107673262788000.0 |
+| number_of_shares_mkt_cap | 591611334.0 |
+| ticker | VJC |
+| tag | None |
+| rating | O-PF |
+| rating_as_of | 15-Mar-24 |
+| en_organ_name | VietJet Aviation Joint Stock Company |
+| en_organ_short_name | Vietjet Air |
+| vi_organ_name | Công ty Cổ phần Hàng không Vietjet |
+| vi_organ_short_name | Vietjet Air |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Travel & Leisure |
+| sector_vn | Du lịch và Giải trí |
+| average_match_value1_month | 244363354926.3158 |
+| average_match_volume1_month | 1395924.0 |
+| highest_price1_year | 220000.0 |
+| lowest_price1_year | 86200.0 |
+| foreigner_percentage | 0.06397854 |
+| maximum_foreign_percentage | 0.3 |
+| state_percentage | 0.0 |
+| analyst | Nam Hoang |
+| upside_to_target_percent | -0.3736263736 |
+| dividend_per_share_tsr | 0.0 |
+| projected_tsr_percentage | -0.3736263736 |
+| target_price | 114000.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p class="MsoNormal">Vietjet Aviation Joint Stock Company (VJC) is the first private airline in Vietnam, est… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p class="MsoNormal">C&ocirc;ng ty Cổ phần H&agrave;ng kh&ocirc;ng Vietjet (VJC) l&agrave; h&atilde;ng h&agr… |
+| in_cu | True |
+| icb_code_lv2 | 5700 |
+| icb_code_lv4 | 5751 |
+| free_float | 266225100 |
+| free_float_percentage | 0.4499999995 |
+| listing_date | 2017-02-28T00:00:00 |
+| prev_insight | {'targetPrice': 104100.0, 'rating': 'M-PF', 'ratingAsOf': '22-Nov-23', 'analyst': 'Nam Hoang', 'version': '20240318021355'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 178.9 |
-| MA5 | 180.66 |
-| MA10 | 179.31 |
-| EMA20 | 175.604 |
-| EMA50 | 171.982 |
-| Slope MA20 (5p, %) | 1.89 |
-| ATR(14) | 5.744 |
-| RSI(14) | 59.7 |
+| Giá đóng cửa | 176.2 |
+| MA5 | 180.12 |
+| MA10 | 179.04 |
+| EMA20 | 175.347 |
+| EMA50 | 171.876 |
+| Slope MA20 (5p, %) | 1.75 |
+| ATR(14) | 5.873 |
+| RSI(14) | 54.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 4.271 |
-| MACD Signal | 4.13 |
-| MACD Histogram | 0.141 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1305555 |
+| MACD | 4.056 |
+| MACD Signal | 4.087 |
+| MACD Histogram | -0.032 |
+| MACD nhận xét | MACD gần cắt Signal (chú ý) |
+| KL avg 60 phiên | 1313210 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |   213.869 | 1.25        | 2             |
-| 🔴 Kháng cự    |   193.6   | 0.79        | 1             |
-| 🔴 Kháng cự    |   186.6   | 0.97        | 1             |
-| ▶ Giá hiện tại |   178.9   | —           | —             |
-| 🟢 Hỗ trợ      |   177.5   | 0.73        | 1             |
-| 🟢 Hỗ trợ      |   172.2   | 1.42        | 1             |
-| 🟢 Hỗ trợ      |   170.5   | 1.26        | 1             |
+| 🔴 Kháng cự     |   193.6   | 0.79        | 1             |
+| 🔴 Kháng cự     |   186.6   | 0.97        | 1             |
+| 🔴 Kháng cự     |   177.5   | 0.73        | 1             |
+| ▶ Giá hiện tại |   176.2   | —           | —             |
+| 🟢 Hỗ trợ       |   172.2   | 1.42        | 1             |
+| 🟢 Hỗ trợ       |   170.5   | 1.26        | 1             |
+| 🟢 Hỗ trợ       |   160.141 | 1.77        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | VJC |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2699115 |
+| ratio_type | RATIO_TTM |
+| organ_code | VIETJET |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 541611334 |
+| market_cap | 78262837763000.0 |
+| dividend_yield | 0.0 |
+| pe | 14.212077628 |
+| pb | 5.6617590639 |
+| ps | 1.5711307748 |
+| price_to_cash_flow | 7.122507687 |
+| ev_to_ebitda | 12.4554152025 |
+| cash_ratio | 0.5135593761 |
+| quick_ratio | 1.4173449264 |
+| current_ratio | 1.4427644484 |
+| owners_equity | 0.0546847194 |
+| debt_per_equity | 0.5641334953 |
+| debt_to_equity | 1.8114143902 |
+| roe | 0.5925564005 |
+| roa | 0.1911096562 |
+| day_sale_outstanding | 13.1914579213 |
+| days_inventory_outstanding | 1.9564022017 |
+| days_payable_outstanding | 3.0789958913 |
+| gross_margin | 0.1416855058 |
+| ebit_margin | 0.124978462 |
+| pre_tax_profit_margin | 0.1166688884 |
+| after_tax_profit_margin | 0.1105348088 |
+| asset_turnover | 1.7287327787 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 6225560120867.0 |
+| ebitda | 6347230177332.0 |
+| roic | 0.3454759457 |
+| cash_cycle | 78.8807350184 |
+| fixed_asset_turnover | 35.6485066255 |
+| financial_leverage | 1.8114143902 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 1174600 | -10.0%     | 0.199%         |
-| 2026-05-05 | 1482700 | +13.6%     | 0.251%         |
-| 2026-05-06 | 2074100 | +58.9%     | 0.351%         |
-| 2026-05-07 | 1264500 | -3.1%      | 0.214%         |
-| 2026-05-08 |  904600 | -30.7%     | 0.153%         |
+| 2026-05-04 | 1174600 | -10.6%     | 0.199%         |
+| 2026-05-05 | 1482700 | +12.9%     | 0.251%         |
+| 2026-05-06 | 2074100 | +57.9%     | 0.351%         |
+| 2026-05-07 | 1264500 | -3.7%      | 0.214%         |
+| 2026-05-08 | 1363900 | +3.9%      | 0.231%         |
 
-- KL trung bình 60 phiên: **1,305,555**
+- KL trung bình 60 phiên: **1,313,210**
 - Số CP lưu hành: **591,611,334**
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| news_title                                                                                                   | public_date         | news_source_link   |
+|:-------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| VJC: Thông báo thay đổi nhân sự - Phân công chức danh cho các Thành viên HĐQT                                | 2026-05-05T17:47:03 |                    |
+| Vietjet ghi nhận tăng trưởng ấn tượng quý 1/2026, tự tin bước vào giai đoạn tăng trưởng mới                  | 2026-05-01T13:51:00 |                    |
+| VJC: Thông báo thay đổi nhân sự - phân công lãnh đạo cấp cao                                                 | 2026-04-29T17:48:25 |                    |
+| VJC: Thông báo thay đổi nhân sự - bổ sung Thành viên HĐQT                                                    | 2026-04-28T17:54:19 |                    |
+| VJC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                       | 2026-04-28T17:24:55 |                    |
+| VJC: Báo cáo thường niên năm 2025                                                                            | 2026-04-20T13:40:23 |                    |
+| VJC: Nghị quyết HĐQT về việc tổ chức ĐHĐCĐTN 2026                                                            | 2026-04-06T09:15:55 |                    |
+| VJC: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Phước Hùng Anh Victor | 2026-04-02T17:47:28 |                    |
+| VJC: Giải trình biến động KQKD kiểm toán năm 2025 so với cùng kỳ năm trước                                   | 2026-03-30T16:09:47 |                    |
+| VJC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên 2026                                      | 2026-03-13T19:21:30 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-29T00:00:00 | nan                 | nan                 |
+| 2026-04-29T00:00:00 | nan                 | nan                 |
+| 2026-04-02T00:00:00 | nan                 | nan                 |
+| 2026-03-13T00:00:00 | 2026-03-30T00:00:00 | 2026-03-27T00:00:00 |
+| 2025-12-19T00:00:00 | nan                 | nan                 |
+| 2025-11-21T00:00:00 | nan                 | nan                 |
+| 2025-10-24T00:00:00 | nan                 | nan                 |
+| 2025-10-10T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-08-29T00:00:00 | nan                 | nan                 |
+| 2025-08-29T00:00:00 | nan                 | nan                 |
+| 2025-08-25T00:00:00 | nan                 | nan                 |
+| 2025-06-19T00:00:00 | nan                 | nan                 |
+| 2025-06-16T00:00:00 | 2025-06-12T00:00:00 | 2025-06-12T00:00:00 |
+| 2025-04-24T00:00:00 | 2025-05-07T00:00:00 | 2025-05-06T00:00:00 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -1.58% |
+| % Cổ phiếu hôm nay | -3.19% |
+| RS (CP − Ngành) | -1.61% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -188,22 +305,22 @@ _Không có dữ liệu_
 | VJC      | 2026-05-05 00:00:00 |  179   |  182   | 177.2 |   181   |  1482700 |
 | VJC      | 2026-05-06 00:00:00 |  181.1 |  190   | 179   |   181.5 |  2074100 |
 | VJC      | 2026-05-07 00:00:00 |  181.5 |  184.5 | 180.2 |   182   |  1264500 |
-| VJC      | 2026-05-08 00:00:00 |  181.9 |  182   | 178   |   178.9 |   904600 |
+| VJC      | 2026-05-08 00:00:00 |  181.9 |  182   | 176.2 |   176.2 |  1363900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VJC      | 2026-05-08 13:15:50 |   179   |      100 | Buy          | 472234206 |
-| VJC      | 2026-05-08 13:15:53 |   179   |      500 | Sell         | 472234331 |
-| VJC      | 2026-05-08 13:15:53 |   179   |      200 | Sell         | 472234332 |
-| VJC      | 2026-05-08 13:15:55 |   179.1 |     1200 | Buy          | 472234449 |
-| VJC      | 2026-05-08 13:15:57 |   179.1 |      700 | Buy          | 472234547 |
-| VJC      | 2026-05-08 13:16:03 |   179.1 |      200 | Buy          | 472234844 |
-| VJC      | 2026-05-08 13:16:03 |   179.1 |      100 | Buy          | 472234845 |
-| VJC      | 2026-05-08 13:16:08 |   179.2 |     1400 | Buy          | 472235201 |
-| VJC      | 2026-05-08 13:16:12 |   179.1 |      100 | Sell         | 472235382 |
-| VJC      | 2026-05-08 13:16:17 |   179.2 |      600 | Buy          | 472235863 |
+| VJC      | 2026-05-08 14:21:29 |   179.6 |     1500 | Sell         | 472525392 |
+| VJC      | 2026-05-08 14:21:30 |   179.5 |     1000 | Sell         | 472525425 |
+| VJC      | 2026-05-08 14:21:35 |   179.5 |      100 | Sell         | 472525822 |
+| VJC      | 2026-05-08 14:21:40 |   179.8 |      100 | Buy          | 472526244 |
+| VJC      | 2026-05-08 14:22:01 |   179.8 |      500 | Sell         | 472528426 |
+| VJC      | 2026-05-08 14:22:01 |   179.8 |      500 | Buy          | 472528399 |
+| VJC      | 2026-05-08 14:22:02 |   179.8 |      100 | Buy          | 472528453 |
+| VJC      | 2026-05-08 14:22:03 |   179.8 |      400 | Buy          | 472528491 |
+| VJC      | 2026-05-08 14:22:03 |   179.8 |      300 | Buy          | 472528492 |
+| VJC      | 2026-05-08 14:22:15 |   179.8 |      100 | Buy          | 472529330 |
 
 <!-- END:DAILY -->
 

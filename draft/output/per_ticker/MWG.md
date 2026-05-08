@@ -1,6 +1,6 @@
 # MWG — CTCP Đầu tư Thế giới Di động
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 08/05/2026 13:12  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 08/05/2026 21:58  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -10,118 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MWG |
-| exchange | HOSE |
-| market_cap | 125109684670800 |
-| 52w_high | 93700 |
-| 52w_high_date | 2026-02-02 |
-| 52w_low | 59543 |
-| 52w_low_date | 2025-05-09 |
-| foreign_ownership | 49 |
-| dividend | 1000 |
-| beta | 1.2 |
-| eps | 5561 |
-| eps_forward | 13.73843615061799 |
-| bvps | 24471 |
-| pe | 15.46 |
-| pb | 3.51 |
-| price_chg_1m | 4.03 |
-| price_chg_ytd | 43.33 |
-| price_chg_1m_rank | 8.72 |
-| price_chg_ytd_rank | 49.91 |
-| yield | 0.011737089201877934 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | MWG |
+| current_price | 86000.0 |
+| market_cap | 126284423494000.0 |
+| number_of_shares_mkt_cap | 1468423529.0 |
+| ticker | MWG |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 14-Oct-25 |
+| en_organ_name | Mobile World Investment Corporation |
+| en_organ_short_name | Mobile World Investment |
+| vi_organ_name | Công ty Cổ phần Đầu tư Thế Giới Di Động |
+| vi_organ_short_name | Thế giới di động |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Retail |
+| sector_vn | Bán lẻ |
+| average_match_value1_month | 548874762400.0 |
+| average_match_volume1_month | 6514779.0 |
+| highest_price1_year | 94400.0 |
+| lowest_price1_year | 58064.0 |
+| foreigner_percentage | 0.48989906 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | Vinh Bui |
+| upside_to_target_percent | 0.1744186047 |
+| dividend_per_share_tsr | 1000.0 |
+| projected_tsr_percentage | 0.1860465117 |
+| target_price | 101000.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Mobile World Investment Corporation (MWG) was established in March 2004, formerly known as Mobile World C… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Đầu tư Thế Giới Di Động (MWG) được th&agrave;nh lập từ&nbsp;th&aacute;ng 03/2004, với ti… |
+| in_cu | True |
+| icb_code_lv2 | 5300 |
+| icb_code_lv4 | 5379 |
+| free_float | 1101317646 |
+| free_float_percentage | 0.7499999995 |
+| listing_date | 2014-07-14T00:00:00 |
+| prev_insight | {'targetPrice': 78300.0, 'rating': 'BUY', 'ratingAsOf': '30-May-25', 'analyst': 'Ha Huynh', 'version': '20251013'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 85.2 |
-| MA5 | 85.38 |
-| MA10 | 85.09 |
-| EMA20 | 84.186 |
-| EMA50 | 83.852 |
-| Slope MA20 (5p, %) | 0.96 |
-| ATR(14) | 2.076 |
-| RSI(14) | 53.7 |
+| Giá đóng cửa | 84.6 |
+| MA5 | 85.26 |
+| MA10 | 85.03 |
+| EMA20 | 84.129 |
+| EMA50 | 83.828 |
+| Slope MA20 (5p, %) | 0.89 |
+| ATR(14) | 2.104 |
+| RSI(14) | 52.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.856 |
-| MACD Signal | 0.664 |
-| MACD Histogram | 0.192 |
+| MACD | 0.808 |
+| MACD Signal | 0.654 |
+| MACD Histogram | 0.154 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 7578445 |
+| KL avg 60 phiên | 7625190 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    89.962 | 1.26        | 2             |
-| 🔴 Kháng cự    |    88.5   | 1.38        | 1             |
-| 🔴 Kháng cự    |    86     | 0.9         | 1             |
-| ▶ Giá hiện tại |    85.2   | —           | —             |
-| 🟢 Hỗ trợ      |    83.9   | 1.24        | 1             |
-| 🟢 Hỗ trợ      |    83.844 | 1.54        | 2             |
-| 🟢 Hỗ trợ      |    76.827 | 2.34        | 2             |
+| 🔴 Kháng cự     |    89.962 | 1.26        | 2             |
+| 🔴 Kháng cự     |    88.5   | 1.38        | 1             |
+| 🔴 Kháng cự     |    86     | 0.9         | 1             |
+| ▶ Giá hiện tại |    84.6   | —           | —             |
+| 🟢 Hỗ trợ       |    83.9   | 1.24        | 1             |
+| 🟢 Hỗ trợ       |    83.844 | 1.54        | 2             |
+| 🟢 Hỗ trợ       |    76.827 | 2.34        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MWG |
-| pe | 15.46 |
-| pb | 3.51 |
-| roe | 23.08 |
-| roe_pct_rank | 75 |
-| roa | 9.12 |
-| roa_pct_rank | 65 |
-| eps | 5561 |
-| bvps | 24471 |
-| beta | 1.2 |
-| dividend | 1000 |
-| yield | 0.011737089201877934 |
-| pe_pct_rank | 56 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2699083 |
+| ratio_type | RATIO_TTM |
+| organ_code | MWG |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 322890596 |
+| market_cap | 37455309136000.0 |
+| dividend_yield | 0.0 |
+| pe | 14.7158101284 |
+| pb | 5.1614261813 |
+| ps | 0.5094762143 |
+| price_to_cash_flow | 26.8530686596 |
+| ev_to_ebitda | 10.9637580578 |
+| cash_ratio | 0.1559905789 |
+| quick_ratio | 0.3041003103 |
+| current_ratio | 1.263415612 |
+| owners_equity | 0.1874032781 |
+| debt_per_equity | 1.1358825337 |
+| debt_to_equity | 2.2552142772 |
+| roe | 0.4251336914 |
+| roa | 0.1263046267 |
+| day_sale_outstanding | 2.7844217451 |
+| days_inventory_outstanding | 67.2412325564 |
+| days_payable_outstanding | 33.1249504801 |
+| gross_margin | 0.1695462459 |
+| ebit_margin | 0.0426234513 |
+| pre_tax_profit_margin | 0.0428020216 |
+| after_tax_profit_margin | 0.0334103254 |
+| asset_turnover | 3.7819568566 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 3133560504811.0 |
+| ebitda | 3955444960402.0 |
+| roic | 0.2018580183 |
+| cash_cycle | 107.2783749014 |
+| fixed_asset_turnover | 23.4044397022 |
+| financial_leverage | 2.2552142772 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 6372100 | -15.9%     | 0.434%         |
-| 2026-05-05 | 4720200 | -37.7%     | 0.321%         |
-| 2026-05-06 | 6696800 | -11.6%     | 0.456%         |
-| 2026-05-07 | 6344700 | -16.3%     | 0.432%         |
-| 2026-05-08 | 1800600 | -76.2%     | 0.123%         |
+| 2026-05-04 | 6372100 | -16.4%     | 0.434%         |
+| 2026-05-05 | 4720200 | -38.1%     | 0.321%         |
+| 2026-05-06 | 6696800 | -12.2%     | 0.456%         |
+| 2026-05-07 | 6344700 | -16.8%     | 0.432%         |
+| 2026-05-08 | 4605300 | -39.6%     | 0.314%         |
 
-- KL trung bình 60 phiên: **7,578,445**
+- KL trung bình 60 phiên: **7,625,190**
 - Số CP lưu hành: **1,468,423,529**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                          | publishtime             | url                                                                                                    |
-|:-------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------|
-| Bách hóa Xanh có cửa hàng đầu tiên tại Hà Nội                                  | 2026-05-07T16:31:49.797 | /2026/05/bach-hoa-xanh-co-cua-hang-dau-tien-tai-ha-noi-737-1439439.htm                                 |
-| Động thái mới của Dragon Capital tại MWG                                       | 2026-05-07T10:03:40.63  | /2026/05/dong-thai-moi-cua-dragon-capital-tai-mwg-739-1439153.htm                                      |
-| MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan | 2026-05-06T16:59:01     | /2026/05/mwg-bao-cao-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-737-1438841.htm |
-| Thành viên HĐQT MWG đăng ký bán 2 triệu cp để tham gia IPO Điện máy Xanh       | 2026-05-04T10:17:41.727 | /2026/05/thanh-vien-hdqt-mwg-dang-ky-ban-2-trieu-cp-de-tham-gia-ipo-dien-may-xanh-739-1436771.htm      |
-| MWG: Thông báo giao dịch cổ phiếu của người nội bộ Đoàn Văn Hiểu Em            | 2026-04-29T18:10:22     | /2026/04/mwg-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-van-hieu-em-830-1435981.htm            |
-| MWG: Giải trình chênh lệch BCTC quý 1/2026 so với cùng kỳ năm trước            | 2026-04-28T15:04:37     | /2026/04/mwg-giai-trinh-chenh-lech-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434659.htm            |
-| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm    |
-| MWG: BCTC quý 1 năm 2026                                                       | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-quy-1-nam-2026-737-1433677.htm                                                       |
-| MWG: BCTC Hợp nhất quý 1 năm 2026                                              | 2026-04-24T00:00:00     | /2026/04/mwg-bctc-hop-nhat-quy-1-nam-2026-737-1433678.htm                                              |
-| MWG: Quy chế hoạt động của HĐQT và Quy chế Quản trị nội bộ                     | 2026-04-20T14:08:28     | /2026/04/mwg-quy-che-hoat-dong-cua-hdqt-va-quy-che-quan-tri-noi-bo-143-1430221.htm                     |
+| news_title                                                                     | public_date         | news_source_link   |
+|:-------------------------------------------------------------------------------|:--------------------|:-------------------|
+| MWG: Báo cáo không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan | 2026-05-06T16:59:00 |                    |
+| MWG: Ông Đoàn Văn Hiểu Em - thành viên HĐQT đăng ký bán 2 triệu cổ phiếu       | 2026-04-29T18:02:00 |                    |
+| MWG: Giải trình chênh lệch BCTC quý 1/2026 so với cùng kỳ năm trước            | 2026-04-28T15:04:37 |                    |
+| MWG hoàn thành 25% kế hoạch năm 2026, doanh thu đạt 46.508 tỷ đồng             | 2026-04-23T07:06:00 |                    |
+| MWG: Quy chế hoạt động của HĐQT và Quy chế Quản trị nội bộ                     | 2026-04-20T14:08:00 |                    |
+| MWG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                         | 2026-04-20T14:07:33 |                    |
+| MWG: Điều lệ công ty                                                           | 2026-04-20T14:07:00 |                    |
+| MWG: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                  | 2026-03-31T17:49:00 |                    |
+| Thế giới Di động (MWG) muốn lấn sân sang tư vấn tài chính và bất động sản      | 2026-03-30T16:07:00 |                    |
+| MWG: Báo cáo về ngày không còn là cổ đông lớn của nhóm NĐTNN CLQ               | 2026-03-27T17:05:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         |   record_date |   exright_date |
+|:--------------------|--------------:|---------------:|
+| 2026-05-06T00:00:00 |           nan |            nan |
+| 2026-05-06T00:00:00 |           nan |            nan |
+| 2026-05-06T00:00:00 |           nan |            nan |
+| 2026-04-29T00:00:00 |           nan |            nan |
+| 2026-04-20T00:00:00 |           nan |            nan |
+| 2026-04-20T00:00:00 |           nan |            nan |
+| 2026-03-31T00:00:00 |           nan |            nan |
+| 2026-03-31T00:00:00 |           nan |            nan |
+| 2026-03-27T00:00:00 |           nan |            nan |
+| 2026-03-24T00:00:00 |           nan |            nan |
+| 2026-03-24T00:00:00 |           nan |            nan |
+| 2026-03-24T00:00:00 |           nan |            nan |
+| 2026-03-12T00:00:00 |           nan |            nan |
+| 2026-03-12T00:00:00 |           nan |            nan |
+| 2026-03-12T00:00:00 |           nan |            nan |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.13% |
+| % Cổ phiếu hôm nay | -1.63% |
+| RS (CP − Ngành) | -0.50% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +304,22 @@ _Không có dữ liệu_
 | MWG      | 2026-05-05 00:00:00 |   84.6 |   85.4 |  84.1 |    84.8 |  4720200 |
 | MWG      | 2026-05-06 00:00:00 |   85.2 |   86.4 |  84.9 |    86   |  6696800 |
 | MWG      | 2026-05-07 00:00:00 |   86.2 |   87.4 |  86   |    86   |  6344700 |
-| MWG      | 2026-05-08 00:00:00 |   85.7 |   85.9 |  85   |    85.2 |  1800600 |
+| MWG      | 2026-05-08 00:00:00 |   85.7 |   85.9 |  84.6 |    84.6 |  4605300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MWG      | 2026-05-08 13:06:18 |    85.3 |      100 | Buy          | 472200658 |
-| MWG      | 2026-05-08 13:06:19 |    85.2 |      100 | Sell         | 472200703 |
-| MWG      | 2026-05-08 13:06:21 |    85.3 |     1000 | Buy          | 472200922 |
-| MWG      | 2026-05-08 13:06:21 |    85.3 |      100 | Buy          | 472200923 |
-| MWG      | 2026-05-08 13:06:21 |    85.3 |      200 | Buy          | 472200924 |
-| MWG      | 2026-05-08 13:06:21 |    85.3 |     4500 | Buy          | 472200925 |
-| MWG      | 2026-05-08 13:06:21 |    85.3 |      700 | Buy          | 472200921 |
-| MWG      | 2026-05-08 13:06:27 |    85.3 |     2900 | Buy          | 472201240 |
-| MWG      | 2026-05-08 13:06:27 |    85.3 |      200 | Buy          | 472201241 |
-| MWG      | 2026-05-08 13:06:35 |    85.4 |     1700 | Buy          | 472201682 |
+| MWG      | 2026-05-08 14:27:44 |    84.8 |      100 | Sell         | 472557257 |
+| MWG      | 2026-05-08 14:27:44 |    84.8 |      600 | Sell         | 472557258 |
+| MWG      | 2026-05-08 14:27:44 |    84.8 |      100 | Sell         | 472557259 |
+| MWG      | 2026-05-08 14:27:47 |    84.8 |     1000 | Sell         | 472557573 |
+| MWG      | 2026-05-08 14:27:47 |    84.8 |      300 | Sell         | 472557570 |
+| MWG      | 2026-05-08 14:27:47 |    84.8 |      400 | Sell         | 472557571 |
+| MWG      | 2026-05-08 14:27:47 |    84.8 |      100 | Sell         | 472557572 |
+| MWG      | 2026-05-08 14:27:55 |    84.8 |      100 | Sell         | 472558303 |
+| MWG      | 2026-05-08 14:27:58 |    84.8 |      200 | Sell         | 472558568 |
+| MWG      | 2026-05-08 14:27:58 |    84.8 |      600 | Sell         | 472558565 |
 
 <!-- END:DAILY -->
 

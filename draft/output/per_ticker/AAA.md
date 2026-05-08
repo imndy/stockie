@@ -1,6 +1,6 @@
 # AAA — CTCP Nhựa An Phát Xanh
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 13:02  |  🗂 Quarterly: 03/05/2026 13:54
+> 📅 Daily: 08/05/2026 21:52  |  🗂 Quarterly: 03/05/2026 13:54
 
 ---
 
@@ -10,123 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | AAA |
-| exchange | HOSE |
-| market_cap | 2870384501700 |
-| 52w_high | 8850 |
-| 52w_high_date | 2025-12-09 |
-| 52w_low | 6690 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 1.8143 |
-| dividend | 300 |
-| beta | 0.66 |
-| eps | 1213 |
-| eps_forward | 7.624180139532941 |
-| bvps | 15827 |
-| pe | 6.02 |
-| pb | 0.46 |
-| price_chg_1m | 2.82 |
-| price_chg_ytd | 7.22 |
-| price_chg_1m_rank | 8.50 |
-| price_chg_ytd_rank | 49.61 |
-| yield | 0.0411522633744856 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | AAA |
+| current_price | 7300.0 |
+| market_cap | 2874321929000.0 |
+| number_of_shares_mkt_cap | 393742730.0 |
+| ticker | AAA |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | An Phat Bioplastics Joint Stock Company |
+| en_organ_short_name | An Phat Bioplastics |
+| vi_organ_name | Công ty Cổ phần Nhựa An Phát Xanh |
+| vi_organ_short_name | An Phát Bioplastics |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Chemicals |
+| sector_vn | Hóa chất |
+| average_match_value1_month | 8369083346.315789 |
+| average_match_volume1_month | 1161885.0 |
+| highest_price1_year | 8970.0 |
+| lowest_price1_year | 6650.0 |
+| foreigner_percentage | 0.01812342 |
+| maximum_foreign_percentage | 1.0 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>An Phat Bioplastics Joint Stock Company (AAA), formerly&nbsp;known&nbsp;as&nbsp;Anh Hai Duy Limited Compa… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần Nhựa An Ph&aacute;t Xanh (AAA) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty TN… |
+| in_cu | False |
+| icb_code_lv2 | 1300 |
+| icb_code_lv4 | 1353 |
+| free_float | 196871365 |
+| free_float_percentage | 0.5 |
+| listing_date | 2016-11-25T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 7.3 |
-| MA5 | 7.38 |
-| MA10 | 7.225 |
-| EMA20 | 7.188 |
-| EMA50 | 7.25 |
-| Slope MA20 (5p, %) | 1.69 |
-| ATR(14) | 0.159 |
-| RSI(14) | 55.9 |
+| Giá đóng cửa | 7.19 |
+| MA5 | 7.358 |
+| MA10 | 7.214 |
+| EMA20 | 7.177 |
+| EMA50 | 7.246 |
+| Slope MA20 (5p, %) | 1.54 |
+| ATR(14) | 0.167 |
+| RSI(14) | 50.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
-| Giá vs EMA50 | Trên |
-| MACD | 0.058 |
-| MACD Signal | 0.015 |
-| MACD Histogram | 0.043 |
+| Giá vs EMA50 | Dưới |
+| MACD | 0.049 |
+| MACD Signal | 0.013 |
+| MACD Histogram | 0.036 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1255852 |
+| KL avg 60 phiên | 1266035 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     8.189 | 2.64        | 3             |
-| 🔴 Kháng cự    |     7.713 | 4.06        | 5             |
-| 🔴 Kháng cự    |     7.35  | 1.11        | 1             |
-| ▶ Giá hiện tại |     7.3   | —           | —             |
-| 🟢 Hỗ trợ      |     7.203 | 2.58        | 2             |
-| 🟢 Hỗ trợ      |     6.888 | 3.79        | 3             |
-| 🟢 Hỗ trợ      |     6.65  | 1.17        | 1             |
+| 🔴 Kháng cự     |     7.713 | 4.06        | 5             |
+| 🔴 Kháng cự     |     7.35  | 1.11        | 1             |
+| 🔴 Kháng cự     |     7.203 | 2.58        | 2             |
+| ▶ Giá hiện tại |     7.19  | —           | —             |
+| 🟢 Hỗ trợ       |     6.888 | 3.79        | 3             |
+| 🟢 Hỗ trợ       |     6.65  | 1.17        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | AAA |
-| pe | 6.02 |
-| pb | 0.46 |
-| roe | 6.88 |
-| roe_pct_rank | 40 |
-| roa | 2.8 |
-| roa_pct_rank | 40 |
-| eps | 1213 |
-| bvps | 15827 |
-| beta | 0.66 |
-| dividend | 300 |
-| yield | 0.0411522633744856 |
-| pe_pct_rank | 34 |
-| pb_pct_rank | 17 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698941 |
+| ratio_type | RATIO_TTM |
+| organ_code | AAA |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 167199976 |
+| market_cap | 2909279582400.0 |
+| dividend_yield | 0.0 |
+| pe | 7.7930478522 |
+| pb | 1.1611120081 |
+| ps | 0.6271577765 |
+| price_to_cash_flow | -3.8678212646 |
+| ev_to_ebitda | 8.9923458081 |
+| cash_ratio | 0.2003133673 |
+| quick_ratio | 0.7727428128 |
+| current_ratio | 1.113669195 |
+| owners_equity | 0.752492031 |
+| debt_per_equity | 1.8404738309 |
+| debt_to_equity | 2.1639090878 |
+| roe | 0.1486836544 |
+| roa | 0.0498232059 |
+| day_sale_outstanding | 28.8926469896 |
+| days_inventory_outstanding | 50.4634126842 |
+| days_payable_outstanding | 38.5058031134 |
+| gross_margin | 0.1285164821 |
+| ebit_margin | 0.0850041821 |
+| pre_tax_profit_margin | 0.0670709466 |
+| after_tax_profit_margin | 0.0542234357 |
+| asset_turnover | 1.1236605307 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 394320122796.0 |
+| ebitda | 585616201981.0 |
+| roic | 0.0917562463 |
+| cash_cycle | 149.6055192729 |
+| fixed_asset_turnover | 2.4016391149 |
+| financial_leverage | 2.1639090878 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 3180400 | +153.2%    | 0.808%         |
-| 2026-05-05 |  700500 | -44.2%     | 0.178%         |
-| 2026-05-06 | 1389600 | +10.7%     | 0.353%         |
-| 2026-05-07 | 1337000 | +6.5%      | 0.340%         |
-| 2026-05-08 |  244100 | -80.6%     | 0.062%         |
+| 2026-05-04 | 3180400 | +151.2%    | 0.808%         |
+| 2026-05-05 |  700500 | -44.7%     | 0.178%         |
+| 2026-05-06 | 1389600 | +9.8%      | 0.353%         |
+| 2026-05-07 | 1337000 | +5.6%      | 0.340%         |
+| 2026-05-08 |  855100 | -32.5%     | 0.217%         |
 
-- KL trung bình 60 phiên: **1,255,851**
+- KL trung bình 60 phiên: **1,266,035**
 - Số CP lưu hành: **393,742,730**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                 | publishtime         | url                                                                                                           |
-|:--------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------|
-| AAA: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu                | 2026-05-07T17:30:40 | /2026/05/aaa-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-tai-lieu-737-1439658.htm                |
-| AAA: Thông báo thay đổi nhân sự - Tái bổ nhiệm thành viên HĐQT, BKS                   | 2026-05-07T17:30:40 | /2026/05/aaa-thong-bao-thay-doi-nhan-su-tai-bo-nhiem-thanh-vien-hdqt-bks-214-1439659.htm                      |
-| AAA: BCTC quý 1 năm 2026                                                              | 2026-04-29T00:00:00 | /2026/04/aaa-bctc-quy-1-nam-2026-737-1435760.htm                                                              |
-| AAA: BCTC Hợp nhất quý 1 năm 2026                                                     | 2026-04-29T00:00:00 | /2026/04/aaa-bctc-hop-nhat-quy-1-nam-2026-737-1435761.htm                                                     |
-| AAA: Nghị quyết HĐQT số 240402/2026 ngày 24/04/2026                                   | 2026-04-24T17:33:08 | /2026/04/aaa-nghi-quyet-hdqt-so-240402-2026-ngay-24-04-2026-737-1433652.htm                                   |
-| AAA: Nghị quyết HĐQT về việc thông qua tài liệu họp ĐHĐCĐTN 2026 và link tài liệu họp | 2026-04-16T18:01:43 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-tai-lieu-hop-dhdcdtn-2026-va-link-tai-lieu-hop-737-1428812.htm |
-| AAA: Báo cáo thường niên năm 2025                                                     | 2026-04-16T16:19:39 | /2026/04/aaa-bao-cao-thuong-nien-nam-2025-737-1428883.htm                                                     |
-| AAA: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026       | 2026-04-03T10:39:48 | /2026/04/aaa-nghi-quyet-hdqt-ve-viec-thong-qua-thoi-gian-dia-diem-to-chuc-dhdcdtn-2026-737-1422397.htm        |
-| AAA: Giải trình chênh lệch LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-30T16:12:14 | /2026/03/aaa-giai-trinh-chenh-lech-lnst-bctc-rieng-nam-2025-so-voi-cung-ky-nam-truoc-737-1418781.htm          |
-| AAA: BCTC Hợp nhất năm 2025                                                           | 2026-03-30T00:00:00 | /2026/03/aaa-bctc-hop-nhat-nam-2025-737-1418616.htm                                                           |
+| news_title                                                                            | public_date         | news_source_link   |
+|:--------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| AAA: Giải trình chênh lệch LNST BCTC quý 1/2026 so với cùng kỳ năm trước              | 2026-04-29T16:01:00 |                    |
+| AAA: Nghị quyết HĐQT số 240402/2026 ngày 24/04/2026                                   | 2026-04-24T17:33:08 |                    |
+| AAA: Nghị quyết HĐQT về việc thông qua tài liệu họp ĐHĐCĐTN 2026 và link tài liệu họp | 2026-04-16T17:57:00 |                    |
+| AAA: Báo cáo thường niên năm 2025                                                     | 2026-04-16T16:19:39 |                    |
+| AAA: Nghị quyết HĐQT về việc thông qua thời gian, địa điểm tổ chức ĐHĐCĐTN 2026       | 2026-04-03T10:39:04 |                    |
+| AAA: Giải trình chênh lệch LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước          | 2026-03-30T16:12:14 |                    |
+| AAA: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026           | 2026-03-06T14:46:32 |                    |
+| AAA: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026   | 2026-03-02T13:41:05 |                    |
+| AAA: Báo cáo tình hình quản trị công ty năm 2025                                      | 2026-01-30T13:19:50 |                    |
+| AAA: Giải trình chênh lệch LNST BCTC riêng quý 4/2025 so với cùng kỳ năm trước        | 2026-01-28T11:15:32 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-06T00:00:00 | 2026-03-26T00:00:00 | 2026-03-25T00:00:00 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-18T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-09-08T00:00:00 | nan                 | nan                 |
+| 2025-08-29T00:00:00 | 2025-08-29T00:00:00 | 2025-08-29T00:00:00 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | -0.27% |
-| RS (CP − Ngành) | -0.57% |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -1.51% |
+| RS (CP − Ngành) | -0.72% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -222,22 +304,22 @@ _Không có dữ liệu_
 | AAA      | 2026-05-05 00:00:00 |   7.49 |   7.5  |  7.3  |    7.37 |   700500 |
 | AAA      | 2026-05-06 00:00:00 |   7.42 |   7.52 |  7.33 |    7.45 |  1389600 |
 | AAA      | 2026-05-07 00:00:00 |   7.45 |   7.52 |  7.3  |    7.3  |  1337000 |
-| AAA      | 2026-05-08 00:00:00 |   7.3  |   7.36 |  7.28 |    7.3  |   244100 |
+| AAA      | 2026-05-08 00:00:00 |   7.3  |   7.36 |  7.16 |    7.19 |   855100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| AAA      | 2026-05-08 10:37:27 |    7.33 |      200 | Buy          | 472074664 |
-| AAA      | 2026-05-08 10:37:27 |    7.33 |      100 | Buy          | 472074665 |
-| AAA      | 2026-05-08 10:37:27 |    7.33 |      200 | Buy          | 472074666 |
-| AAA      | 2026-05-08 10:38:08 |    7.32 |      200 | Sell         | 472075907 |
-| AAA      | 2026-05-08 10:38:48 |    7.32 |      500 | Sell         | 472076740 |
-| AAA      | 2026-05-08 10:39:03 |    7.31 |      600 | Sell         | 472077267 |
-| AAA      | 2026-05-08 10:39:03 |    7.3  |     1200 | Sell         | 472077268 |
-| AAA      | 2026-05-08 10:39:03 |    7.3  |      100 | Sell         | 472077269 |
-| AAA      | 2026-05-08 10:39:03 |    7.3  |     2200 | Sell         | 472077270 |
-| AAA      | 2026-05-08 10:39:22 |    7.3  |      900 | Buy          | 472077796 |
+| AAA      | 2026-05-08 14:14:35 |    7.23 |     3400 | Sell         | 472498144 |
+| AAA      | 2026-05-08 14:16:35 |    7.22 |      200 | Sell         | 472505327 |
+| AAA      | 2026-05-08 14:16:35 |    7.22 |      100 | Sell         | 472505325 |
+| AAA      | 2026-05-08 14:16:35 |    7.22 |      100 | Sell         | 472505326 |
+| AAA      | 2026-05-08 14:16:56 |    7.21 |      100 | Sell         | 472507063 |
+| AAA      | 2026-05-08 14:16:56 |    7.21 |      400 | Sell         | 472507064 |
+| AAA      | 2026-05-08 14:16:56 |    7.2  |    10000 | Sell         | 472507065 |
+| AAA      | 2026-05-08 14:16:56 |    7.2  |     9500 | Sell         | 472507066 |
+| AAA      | 2026-05-08 14:17:04 |    7.2  |      500 | Sell         | 472507739 |
+| AAA      | 2026-05-08 14:17:04 |    7.2  |     2000 | Sell         | 472507741 |
 
 <!-- END:DAILY -->
 

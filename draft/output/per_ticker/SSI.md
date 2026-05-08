@@ -1,13 +1,58 @@
 # SSI — CTCP Chứng khoán SSI
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 08/05/2026 13:17  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 08/05/2026 22:01  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| organ_code | SSI |
+| current_price | 28350.0 |
+| market_cap | 70622621269200.0 |
+| number_of_shares_mkt_cap | 2491097752.0 |
+| ticker | SSI |
+| tag | None |
+| rating | O-PF |
+| rating_as_of | 27-Aug-25 |
+| en_organ_name | SSI Securities Corporation |
+| en_organ_short_name | SSI Securities |
+| vi_organ_name | Công ty Cổ phần Chứng khoán SSI |
+| vi_organ_short_name | Chứng khoán SSI |
+| com_type_code | CK |
+| com_group_code | VNINDEX |
+| sector | Financial Services |
+| sector_vn | Dịch vụ tài chính |
+| average_match_value1_month | 630374835392.1052 |
+| average_match_volume1_month | 22074456.0 |
+| highest_price1_year | 39442.0 |
+| lowest_price1_year | 20209.0 |
+| foreigner_percentage | 0.32094826 |
+| maximum_foreign_percentage | 1.0 |
+| state_percentage | 0.0 |
+| analyst | Nga Ho |
+| upside_to_target_percent | 0.4391534392 |
+| dividend_per_share_tsr | 1000.0 |
+| projected_tsr_percentage | 0.4744268078 |
+| target_price | 40800.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p style="text-align: justify;">SSI Securities Corporation (SSI), formerly known&nbsp;as Saigon Securities I… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p class="MsoNormal" style="text-align: justify;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n SSI (SSI) c&oacut… |
+| in_cu | True |
+| icb_code_lv2 | 8700 |
+| icb_code_lv4 | 8777 |
+| free_float | 1743768426 |
+| free_float_percentage | 0.6999999998 |
+| listing_date | 2006-12-15T00:00:00 |
+| prev_insight | {'targetPrice': 27100.0, 'rating': 'O-PF', 'ratingAsOf': '04-Jun-25', 'analyst': 'Nga Ho', 'version': '20250827'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -19,7 +64,7 @@ _Không có dữ liệu_
 | EMA20 | 28.111 |
 | EMA50 | 28.577 |
 | Slope MA20 (5p, %) | -0.08 |
-| ATR(14) | 0.712 |
+| ATR(14) | 0.715 |
 | RSI(14) | 51.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
@@ -29,54 +74,141 @@ _Không có dữ liệu_
 | MACD Signal | -0.153 |
 | MACD Histogram | 0.056 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 32532327 |
+| KL avg 60 phiên | 32686735 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    29.5   | 0.92        | 1             |
-| 🔴 Kháng cự    |    29.347 | 2.67        | 2             |
-| 🔴 Kháng cự    |    28.65  | 0.66        | 1             |
+| 🔴 Kháng cự     |    29.5   | 0.92        | 1             |
+| 🔴 Kháng cự     |    29.347 | 2.67        | 2             |
+| 🔴 Kháng cự     |    28.65  | 0.66        | 1             |
 | ▶ Giá hiện tại |    28.3   | —           | —             |
-| 🟢 Hỗ trợ      |    25.2   | 1.17        | 1             |
+| 🟢 Hỗ trợ       |    25.2   | 1.17        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | SSI |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2699105 |
+| ratio_type | RATIO_TTM |
+| organ_code | SSI |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 499847842 |
+| market_cap | 14670534162700.0 |
+| dividend_yield | 0.0 |
+| pe | 11.2574509301 |
+| pb | 1.6430461116 |
+| ps | 4.3428392938 |
+| price_to_cash_flow | -6.6769337495 |
+| ev_to_ebitda | 12.8789369637 |
+| cash_ratio | 0.1802248408 |
+| quick_ratio | 1.8198731891 |
+| current_ratio | 1.8198731891 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.9477040541 |
+| debt_to_equity | 1.316580245 |
+| roe | 0.1452734983 |
+| roa | 0.069949388 |
+| day_sale_outstanding | 0.0 |
+| days_inventory_outstanding | 0.0 |
+| days_payable_outstanding | 1.8874432509 |
+| gross_margin | 0.562265212 |
+| ebit_margin | 0.5099266236 |
+| pre_tax_profit_margin | 0.4589998015 |
+| after_tax_profit_margin | 0.3796626784 |
+| asset_turnover | 0.1841409366 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 1722581805537.0 |
+| ebitda | 1744778808348.0 |
+| roic | 0.0981543488 |
+| cash_cycle | 11.8278856177 |
+| fixed_asset_turnover | 27.1101263273 |
+| financial_leverage | 1.316580245 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-04 | 12736100 | -60.9%     | 0.511%         |
-| 2026-05-05 | 14283800 | -56.1%     | 0.573%         |
-| 2026-05-06 | 27728100 | -14.8%     | 1.113%         |
-| 2026-05-07 | 19095400 | -41.3%     | 0.767%         |
-| 2026-05-08 |  5704300 | -82.5%     | 0.229%         |
+| 2026-05-04 | 12736100 | -61.0%     | 0.511%         |
+| 2026-05-05 | 14283800 | -56.3%     | 0.573%         |
+| 2026-05-06 | 27728100 | -15.2%     | 1.113%         |
+| 2026-05-07 | 19095400 | -41.6%     | 0.767%         |
+| 2026-05-08 | 14968800 | -54.2%     | 0.601%         |
 
-- KL trung bình 60 phiên: **32,532,326**
+- KL trung bình 60 phiên: **32,686,735**
 - Số CP lưu hành: **2,491,097,752**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                             | publish_time        | url                                                       |
-|:----------------------------------|:--------------------|:----------------------------------------------------------|
-| SSI: BCTC Hợp nhất quý 1 năm 2026 | 2026-04-23T00:00:00 | /2026/04/ssi-bctc-hop-nhat-quy-1-nam-2026-737-1432572.htm |
+| news_title                                                               | public_date         | news_source_link   |
+|:-------------------------------------------------------------------------|:--------------------|:-------------------|
+| SSI: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm thành viên HĐQT | 2026-04-28T15:39:00 |                    |
+| SSI: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                   | 2026-04-28T10:38:12 |                    |
+| ĐHCĐ SSI: Dư nợ margin có thể lên tới 45.000 tỷ đồng                     | 2026-04-24T11:47:00 |                    |
+| Quý I/2026, SSI đạt doanh thu 3.295 tỷ đồng, lợi nhuận 1.593 tỷ đồng     | 2026-04-20T10:13:00 |                    |
+| SSI: Báo cáo thường niên năm 2025                                        | 2026-04-15T16:53:52 |                    |
+| SSI: Báo cáo phát triển bền vững 2025                                    | 2026-04-15T16:53:28 |                    |
+| SSI: Thông báo danh sách ứng cử viên HĐQT nhiệm kỳ 2026-2031             | 2026-04-09T17:42:00 |                    |
+| SSI: Thông báo thay đổi nhân sự                                          | 2026-04-03T18:24:18 |                    |
+| SSI: Nghị quyết HĐQT về việc thông qua chào bán chứng quyền có bảo đảm   | 2026-04-03T18:23:53 |                    |
+| SSI: Tài liệu họp ĐHĐCĐ thường niên 2026                                 | 2026-04-01T16:10:30 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-28T00:00:00 | nan                 | nan                 |
+| 2026-04-28T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | 2026-03-17T00:00:00 | 2026-03-16T00:00:00 |
+| 2026-02-10T00:00:00 | nan                 | nan                 |
+| 2026-01-28T00:00:00 | nan                 | nan                 |
+| 2026-01-28T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-09T00:00:00 | nan                 | nan                 |
+| 2026-01-07T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.08% |
-| % Cổ phiếu hôm nay | -0.35% |
-| RS (CP − Ngành) | -0.27% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | -0.18% |
+| RS (CP − Ngành) | +0.08% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -171,22 +303,22 @@ _Không có dữ liệu_
 | SSI      | 2026-05-05 00:00:00 |  27.6  |  27.75 | 27.3  |   27.3  | 14283800 |
 | SSI      | 2026-05-06 00:00:00 |  27.55 |  28.7  | 27.45 |   28.5  | 27728100 |
 | SSI      | 2026-05-07 00:00:00 |  28.75 |  28.8  | 28.3  |   28.35 | 19095400 |
-| SSI      | 2026-05-08 00:00:00 |  28.35 |  28.55 | 28.2  |   28.3  |  5704300 |
+| SSI      | 2026-05-08 00:00:00 |  28.35 |  28.6  | 28.2  |   28.3  | 14968800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SSI      | 2026-05-08 13:14:52 |   28.3  |     2100 | Buy          | 472230577 |
-| SSI      | 2026-05-08 13:14:57 |   28.3  |      500 | Buy          | 472230852 |
-| SSI      | 2026-05-08 13:15:14 |   28.3  |      500 | Buy          | 472232019 |
-| SSI      | 2026-05-08 13:15:15 |   28.3  |     1000 | Buy          | 472232033 |
-| SSI      | 2026-05-08 13:15:17 |   28.25 |      100 | Sell         | 472232120 |
-| SSI      | 2026-05-08 13:15:19 |   28.3  |     1000 | Buy          | 472232292 |
-| SSI      | 2026-05-08 13:15:20 |   28.3  |      100 | Buy          | 472232369 |
-| SSI      | 2026-05-08 13:15:23 |   28.3  |      100 | Buy          | 472232710 |
-| SSI      | 2026-05-08 13:15:28 |   28.3  |      700 | Buy          | 472233017 |
-| SSI      | 2026-05-08 13:15:31 |   28.25 |     1500 | Sell         | 472233225 |
+| SSI      | 2026-05-08 14:28:57 |   28.45 |     1300 | Buy          | 472565103 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      100 | Buy          | 472565191 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      700 | Buy          | 472565193 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      100 | Buy          | 472565203 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      200 | Buy          | 472565190 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      300 | Buy          | 472565202 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      700 | Buy          | 472565188 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |      300 | Buy          | 472565189 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |     1000 | Buy          | 472565205 |
+| SSI      | 2026-05-08 14:28:58 |   28.45 |     1000 | Buy          | 472565206 |
 
 <!-- END:DAILY -->
 

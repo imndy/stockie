@@ -1,6 +1,6 @@
 # HAG — CTCP Hoàng Anh Gia Lai
 **Sàn:** HOSE  |  **Ngành:** Nông - Lâm - Ngư
-> 📅 Daily: 08/05/2026 13:08  |  🗂 Quarterly: 03/05/2026 14:06
+> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:06
 
 ---
 
@@ -10,118 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HAG |
-| exchange | HOSE |
-| market_cap | 20848718205350 |
-| 52w_high | 18850 |
-| 52w_high_date | 2025-11-17 |
-| 52w_low | 12750 |
-| 52w_low_date | 2025-06-09 |
-| foreign_ownership | 1.9397 |
-| dividend | 0 |
-| beta | 0.7 |
-| eps | 2506 |
-| eps_forward | 4.946806745755247 |
-| bvps | 12594 |
-| pe | 6.54 |
-| pb | 1.30 |
-| price_chg_1m | 1.23 |
-| price_chg_ytd | 26.54 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | HAG |
+| current_price | 16400.0 |
+| market_cap | 20785348241200.0 |
+| number_of_shares_mkt_cap | 1267399283.0 |
+| ticker | HAG |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | Hoang Anh Gia Lai Joint Stock Company |
+| en_organ_short_name | HAGL Joint Stock Company |
+| vi_organ_name | Công ty Cổ phần Hoàng Anh Gia Lai |
+| vi_organ_short_name | Hoàng Anh Gia Lai |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Food & Beverage |
+| sector_vn | Thực phẩm và đồ uống |
+| average_match_value1_month | 76101232731.57895 |
+| average_match_volume1_month | 4626470.0 |
+| highest_price1_year | 19250.0 |
+| lowest_price1_year | 12700.0 |
+| foreigner_percentage | 0.0192743 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Hoang Anh Gia Lai Corporation (HAG), established in 1993, has&nbsp;changed its operation as a joint-stock… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Ho&agrave;ng Anh Gia Lai (HAG) th&agrave;nh lập v&agrave;o năm 1993, năm 2006 chuyển san… |
+| in_cu | False |
+| icb_code_lv2 | 3500 |
+| icb_code_lv4 | 3573 |
+| free_float | 633699641 |
+| free_float_percentage | 0.4999999996 |
+| listing_date | 2008-12-22T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.35 |
-| MA5 | 16.3 |
-| MA10 | 16.305 |
-| EMA20 | 16.278 |
-| EMA50 | 16.246 |
-| Slope MA20 (5p, %) | 0.11 |
-| ATR(14) | 0.392 |
-| RSI(14) | 52.8 |
+| Giá đóng cửa | 16.55 |
+| MA5 | 16.34 |
+| MA10 | 16.325 |
+| EMA20 | 16.297 |
+| EMA50 | 16.254 |
+| Slope MA20 (5p, %) | 0.22 |
+| ATR(14) | 0.396 |
+| RSI(14) | 57.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.069 |
-| MACD Signal | 0.095 |
-| MACD Histogram | -0.026 |
+| MACD | 0.085 |
+| MACD Signal | 0.098 |
+| MACD Histogram | -0.013 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 5071970 |
+| KL avg 60 phiên | 5100682 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    17.1   | 4.04        | 3             |
-| 🔴 Kháng cự    |    16.684 | 3.43        | 3             |
-| 🔴 Kháng cự    |    16.395 | 1.51        | 2             |
-| ▶ Giá hiện tại |    16.35  | —           | —             |
-| 🟢 Hỗ trợ      |    15.939 | 2.34        | 2             |
-| 🟢 Hỗ trợ      |    15.5   | 2.24        | 2             |
-| 🟢 Hỗ trợ      |    15.35  | 1.28        | 1             |
+| 🔴 Kháng cự     |    18.4   | 1.52        | 2             |
+| 🔴 Kháng cự     |    17.1   | 4.04        | 3             |
+| 🔴 Kháng cự     |    16.684 | 3.43        | 3             |
+| ▶ Giá hiện tại |    16.55  | —           | —             |
+| 🟢 Hỗ trợ       |    16.395 | 1.51        | 2             |
+| 🟢 Hỗ trợ       |    15.939 | 2.34        | 2             |
+| 🟢 Hỗ trợ       |    15.5   | 2.24        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HAG |
-| pe | 6.54 |
-| pb | 1.30 |
-| roe | 19.08 |
-| roe_pct_rank | 66 |
-| roa | 8.65 |
-| roa_pct_rank | 63 |
-| eps | 2506 |
-| bvps | 12594 |
-| beta | 0.7 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 54 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698972 |
+| ratio_type | RATIO_TTM |
+| organ_code | HAG |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 927399283 |
+| market_cap | 7029686565140.0 |
+| dividend_yield | 0.0 |
+| pe | 9.5831980897 |
+| pb | 0.5195499698 |
+| ps | 1.3112243439 |
+| price_to_cash_flow | 5.6873787044 |
+| ev_to_ebitda | 13.2806835851 |
+| cash_ratio | 0.0090618703 |
+| quick_ratio | 0.4733651087 |
+| current_ratio | 0.5952194085 |
+| owners_equity | 1.1067778134 |
+| debt_per_equity | 1.2358299715 |
+| debt_to_equity | 1.9038980329 |
+| roe | 0.039224169 |
+| roa | 0.0135038499 |
+| day_sale_outstanding | 151.3787390993 |
+| days_inventory_outstanding | 142.8510742664 |
+| days_payable_outstanding | 119.3379795646 |
+| gross_margin | 0.3941191816 |
+| ebit_margin | 0.2340151978 |
+| pre_tax_profit_margin | 0.2286521841 |
+| after_tax_profit_margin | 0.227651856 |
+| asset_turnover | 0.1012725023 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 1254593464000.0 |
+| ebitda | 2222710662000.0 |
+| roic | 0.0306885932 |
+| cash_cycle | 705.0040057584 |
+| fixed_asset_turnover | 0.5245728122 |
+| financial_leverage | 1.9038980329 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 3328900 | -34.4%     | 0.263%         |
-| 2026-05-05 | 1709600 | -66.3%     | 0.135%         |
-| 2026-05-06 | 3226000 | -36.4%     | 0.255%         |
-| 2026-05-07 | 4558100 | -10.1%     | 0.360%         |
-| 2026-05-08 | 2588800 | -49.0%     | 0.204%         |
+| 2026-05-04 | 3328900 | -34.7%     | 0.263%         |
+| 2026-05-05 | 1709600 | -66.5%     | 0.135%         |
+| 2026-05-06 | 3226000 | -36.8%     | 0.255%         |
+| 2026-05-07 | 4558100 | -10.6%     | 0.360%         |
+| 2026-05-08 | 4311500 | -15.5%     | 0.340%         |
 
-- KL trung bình 60 phiên: **5,071,970**
+- KL trung bình 60 phiên: **5,100,681**
 - Số CP lưu hành: **1,267,399,283**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                        | publishtime             | url                                                                                                 |
-|:-----------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------|
-| Công ty của bầu Đức báo lãi quý cao kỷ lục                                   | 2026-05-04T18:57:17.847 | /2026/05/cong-ty-cua-bau-duc-bao-lai-quy-cao-ky-luc-737-1437341.htm                                 |
-| Trái phiếu HAGL trở lại với lô mới 2,000 tỷ đồng, có gì đáng chú ý?          | 2026-05-01T17:17:26.887 | /2026/05/trai-phieu-hagl-tro-lai-voi-lo-moi-2000-ty-dong-co-gi-dang-chu-y-3118-1436415.htm          |
-| HAG: CBTT kết quả phát hành trái phiếu riêng lẻ                              | 2026-04-29T19:36:23     | /2026/04/hag-cbtt-ket-qua-phat-hanh-trai-phieu-rieng-le-785-1436172.htm                             |
-| HAG: BCTC Hợp nhất quý 1 năm 2026                                            | 2026-04-29T00:00:00     | /2026/04/hag-bctc-hop-nhat-quy-1-nam-2026-737-1436789.htm                                           |
-| HAG: BCTC quý 1 năm 2026                                                     | 2026-04-29T00:00:00     | /2026/04/hag-bctc-quy-1-nam-2026-737-1436790.htm                                                    |
-| HAG: Bản Trích lục Nghị quyết HĐQT số 09/26 và 11/26 ngày 22/04/2026         | 2026-04-24T14:11:57     | /2026/04/hag-ban-trich-luc-nghi-quyet-hdqt-so-09-26-va-11-26-ngay-22-04-2026-737-1433265.htm        |
-| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG          | 2026-04-20T15:02:00     | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm          |
-| HAG: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và link điều lệ sửa đổi | 2026-04-20T10:01:26     | /2026/04/hag-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-link-dieu-le-sua-doi-737-1429964.htm |
-| HAG: Thông báo giao dịch cổ phiếu của người nội bộ Đoàn Nguyên Đức           | 2026-04-17T14:48:23     | /2026/04/hag-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-nguyen-duc-830-1429235.htm          |
-| Bầu Đức: Trả nợ xong, sau này cổ tức luôn trả bằng tiền mặt                  | 2026-04-17T11:42:00     | /2026/04/bau-duc-tra-no-xong-sau-nay-co-tuc-luon-tra-bang-tien-mat-737-1428975.htm                  |
+| news_title                                                                                 | public_date         | news_source_link   |
+|:-------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| HAG: Bản Trích lục Nghị quyết HĐQT số 09/26 và 11/26 ngày 22/04/2026                       | 2026-04-24T14:11:57 |                    |
+| HAG: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và link điều lệ sửa đổi               | 2026-04-20T10:01:26 |                    |
+| HAG: Ông Đoàn Nguyên Đức đăng ký mua 4 triệu cổ phiếu từ ngày 22/4                         | 2026-04-17T14:48:00 |                    |
+| HAG: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Đoàn Nguyên Đức                   | 2026-04-16T17:38:01 |                    |
+| HAG: Thông báo đường dẫn báo cáo thường niên năm 2025                                      | 2026-04-16T16:29:07 |                    |
+| Hoàng Anh Gia Lai (HAG) đã tất toán toàn bộ khoản nợ trái phiếu                            | 2026-04-02T11:15:00 |                    |
+| HAG: Link công bố cập nhật tài liệu ĐHĐCĐ thường niên 2026                                 | 2026-04-01T18:18:38 |                    |
+| HAG được giảm trừ hơn 1.500 tỷ đồng tiền lãi trái phiếu HAGLBOND 16.26                     | 2026-04-01T09:12:00 |                    |
+| HAG: CBTT tình hình thanh toán gốc, lãi trái phiếu 2016 tại ngày đáo hạn                   | 2026-03-31T17:44:00 |                    |
+| Hoàng Anh Gia Lai (HAGL) đặt mục tiêu lãi sau thuế 4.200 tỷ đồng và trả cổ tức tiền mặt 5% | 2026-03-30T16:08:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-17T00:00:00 | nan                 | nan                 |
+| 2026-04-16T00:00:00 | nan                 | nan                 |
+| 2026-03-19T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | 2026-03-06T00:00:00 | 2026-03-05T00:00:00 |
+| 2025-10-13T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | 2025-09-25T00:00:00 | 2025-09-25T00:00:00 |
+| 2025-08-28T00:00:00 | nan                 | nan                 |
+| 2025-08-22T00:00:00 | nan                 | nan                 |
+| 2025-08-22T00:00:00 | nan                 | nan                 |
+| 2025-06-23T00:00:00 | nan                 | nan                 |
+| 2025-06-23T00:00:00 | nan                 | nan                 |
+| 2025-06-19T00:00:00 | nan                 | nan                 |
+| 2025-06-13T00:00:00 | nan                 | nan                 |
+| 2025-06-09T00:00:00 | nan                 | nan                 |
+| 2025-06-09T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Nông - Lâm - Ngư |
+| % Ngành hôm nay | -0.45% |
+| % Cổ phiếu hôm nay | +0.91% |
+| RS (CP − Ngành) | +1.36% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +304,22 @@ _Không có dữ liệu_
 | HAG      | 2026-05-05 00:00:00 |  16.45 |  16.45 | 16.15 |   16.2  |  1709600 |
 | HAG      | 2026-05-06 00:00:00 |  16.25 |  16.55 | 16.15 |   16.2  |  3226000 |
 | HAG      | 2026-05-07 00:00:00 |  16.4  |  16.45 | 16.3  |   16.4  |  4558100 |
-| HAG      | 2026-05-08 00:00:00 |  16.4  |  16.7  | 16.35 |   16.35 |  2588800 |
+| HAG      | 2026-05-08 00:00:00 |  16.4  |  16.7  | 16.3  |   16.55 |  4311500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HAG      | 2026-05-08 13:01:43 |   16.4  |     2500 | Sell         | 472185206 |
-| HAG      | 2026-05-08 13:01:43 |   16.4  |     7500 | Sell         | 472185209 |
-| HAG      | 2026-05-08 13:01:43 |   16.4  |     1000 | Sell         | 472185207 |
-| HAG      | 2026-05-08 13:01:43 |   16.4  |     1000 | Sell         | 472185208 |
-| HAG      | 2026-05-08 13:02:55 |   16.4  |     2000 | Sell         | 472190019 |
-| HAG      | 2026-05-08 13:03:20 |   16.4  |      100 | Sell         | 472191838 |
-| HAG      | 2026-05-08 13:03:39 |   16.4  |    20000 | Sell         | 472192773 |
-| HAG      | 2026-05-08 13:03:46 |   16.45 |      200 | Buy          | 472193144 |
-| HAG      | 2026-05-08 13:03:48 |   16.4  |      400 | Sell         | 472193245 |
-| HAG      | 2026-05-08 13:03:48 |   16.4  |      100 | Sell         | 472193246 |
+| HAG      | 2026-05-08 14:16:38 |   16.35 |      100 | Sell         | 472505512 |
+| HAG      | 2026-05-08 14:16:38 |   16.35 |      100 | Sell         | 472505513 |
+| HAG      | 2026-05-08 14:16:38 |   16.35 |     1000 | Sell         | 472505514 |
+| HAG      | 2026-05-08 14:16:41 |   16.35 |      100 | Buy          | 472505825 |
+| HAG      | 2026-05-08 14:17:18 |   16.35 |      600 | Sell         | 472508691 |
+| HAG      | 2026-05-08 14:17:18 |   16.35 |      200 | Sell         | 472508690 |
+| HAG      | 2026-05-08 14:18:07 |   16.35 |      300 | Sell         | 472511395 |
+| HAG      | 2026-05-08 14:18:29 |   16.35 |      100 | Sell         | 472512500 |
+| HAG      | 2026-05-08 14:18:29 |   16.35 |      300 | Sell         | 472512501 |
+| HAG      | 2026-05-08 14:18:37 |   16.35 |     2000 | Sell         | 472512908 |
 
 <!-- END:DAILY -->
 

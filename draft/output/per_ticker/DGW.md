@@ -1,6 +1,6 @@
 # DGW — CTCP Thế Giới Số
 **Sàn:** HOSE  |  **Ngành:** Bán buôn
-> 📅 Daily: 08/05/2026 13:05  |  🗂 Quarterly: 03/05/2026 14:01
+> 📅 Daily: 08/05/2026 21:55  |  🗂 Quarterly: 03/05/2026 14:01
 
 ---
 
@@ -10,118 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DGW |
-| exchange | HOSE |
-| market_cap | 9532370970000 |
-| 52w_high | 56000 |
-| 52w_high_date | 2026-02-03 |
-| 52w_low | 32000 |
-| 52w_low_date | 2025-05-23 |
-| foreign_ownership | 23.5219 |
-| dividend | 1500 |
-| beta | 1.06 |
-| eps | 2920 |
-| eps_forward | 14.821720191408097 |
-| bvps | 16613 |
-| pe | 15.14 |
-| pb | 2.66 |
-| price_chg_1m | -5.79 |
-| price_chg_ytd | 29.28 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0.03480278422273782 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DGW |
+| current_price | 44200.0 |
+| market_cap | 9775656540000.0 |
+| number_of_shares_mkt_cap | 221168700.0 |
+| ticker | DGW |
+| tag | None |
+| rating | M-PF |
+| rating_as_of | 18-Nov-25 |
+| en_organ_name | Digiworld Corp. |
+| en_organ_short_name | Digiworld Corp. |
+| vi_organ_name | Công ty Cổ phần Thế Giới Số |
+| vi_organ_short_name | Thế Giới Số |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Retail |
+| sector_vn | Bán lẻ |
+| average_match_value1_month | 67424744434.210526 |
+| average_match_volume1_month | 1495260.0 |
+| highest_price1_year | 57900.0 |
+| lowest_price1_year | 31000.0 |
+| foreigner_percentage | 0.23512891 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | Ngan Ly |
+| upside_to_target_percent | 0.0271493213 |
+| dividend_per_share_tsr | 500.0 |
+| projected_tsr_percentage | 0.0384615385 |
+| target_price | 45400.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Established in 2003, Digiworld Corporation (DGW)&nbsp;is one of the leading enterprises in trading, manuf… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Th&agrave;nh lập năm 2003, C&ocirc;ng ty Cổ phần Thế giới Số (DGW)&nbsp;l&agrave; một trong những c&ocirc;ng t… |
+| in_cu | True |
+| icb_code_lv2 | 5300 |
+| icb_code_lv4 | 5379 |
+| free_float | 132701220 |
+| free_float_percentage | 0.6 |
+| listing_date | 2015-08-03T00:00:00 |
+| prev_insight | {'targetPrice': 47400.0, 'rating': 'M-PF', 'ratingAsOf': '23-Jul-25', 'analyst': 'Ngan Ly', 'version': '20251118'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 43.15 |
-| MA5 | 43.57 |
-| MA10 | 43.9 |
-| EMA20 | 44.314 |
-| EMA50 | 44.793 |
-| Slope MA20 (5p, %) | -1.08 |
-| ATR(14) | 1.436 |
-| RSI(14) | 41.5 |
+| Giá đóng cửa | 43.3 |
+| MA5 | 43.6 |
+| MA10 | 43.915 |
+| EMA20 | 44.328 |
+| EMA50 | 44.798 |
+| Slope MA20 (5p, %) | -1.05 |
+| ATR(14) | 1.444 |
+| RSI(14) | 42.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.458 |
-| MACD Signal | -0.318 |
-| MACD Histogram | -0.14 |
+| MACD | -0.446 |
+| MACD Signal | -0.316 |
+| MACD Histogram | -0.13 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 2509743 |
+| KL avg 60 phiên | 2530237 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    47.8   | 0.93        | 1             |
-| 🔴 Kháng cự    |    47.7   | 1.36        | 1             |
-| 🔴 Kháng cự    |    46.6   | 1.24        | 1             |
-| ▶ Giá hiện tại |    43.15  | —           | —             |
-| 🟢 Hỗ trợ      |    42.523 | 3.99        | 3             |
-| 🟢 Hỗ trợ      |    41.1   | 0.57        | 1             |
-| 🟢 Hỗ trợ      |    40     | 1.07        | 1             |
+| 🔴 Kháng cự     |    47.8   | 0.93        | 1             |
+| 🔴 Kháng cự     |    47.7   | 1.36        | 1             |
+| 🔴 Kháng cự     |    46.6   | 1.24        | 1             |
+| ▶ Giá hiện tại |    43.3   | —           | —             |
+| 🟢 Hỗ trợ       |    43.15  | 0.81        | 1             |
+| 🟢 Hỗ trợ       |    42.523 | 3.99        | 3             |
+| 🟢 Hỗ trợ       |    41.1   | 0.57        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DGW |
-| pe | 15.14 |
-| pb | 2.66 |
-| roe | 17.12 |
-| roe_pct_rank | 62 |
-| roa | 5.55 |
-| roa_pct_rank | 52 |
-| eps | 2920 |
-| bvps | 16613 |
-| beta | 1.06 |
-| dividend | 1500 |
-| yield | 0.03480278422273782 |
-| pe_pct_rank | 55 |
-| pb_pct_rank | 92 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698738 |
+| ratio_type | RATIO_TTM |
+| organ_code | DGW |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 40600278 |
+| market_cap | 913506255000.0 |
+| dividend_yield | 0.0 |
+| pe | 10.0109458446 |
+| pb | 1.2985019081 |
+| ps | 0.2113076974 |
+| price_to_cash_flow | -5.6461568942 |
+| ev_to_ebitda | 12.7012153498 |
+| cash_ratio | 0.0367131325 |
+| quick_ratio | 1.0233202443 |
+| current_ratio | 1.8947649612 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.7912210373 |
+| debt_to_equity | 0.9700780764 |
+| roe | 0.1328569378 |
+| roa | 0.0619428463 |
+| day_sale_outstanding | 36.1523845531 |
+| days_inventory_outstanding | 61.7886254559 |
+| days_payable_outstanding | 17.1768089539 |
+| gross_margin | 0.0700378792 |
+| ebit_margin | 0.0252875899 |
+| pre_tax_profit_margin | 0.0260495965 |
+| after_tax_profit_margin | 0.0206465403 |
+| asset_turnover | 2.9873457076 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 109321013105.0 |
+| ebitda | 114105651256.0 |
+| roic | 0.0860888991 |
+| cash_cycle | 124.1030896142 |
+| fixed_asset_turnover | 51.4511279387 |
+| financial_leverage | 0.9700780764 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 |  639600 | -74.5%     | 0.289%         |
-| 2026-05-05 |  576300 | -77.0%     | 0.261%         |
-| 2026-05-06 | 1254100 | -50.0%     | 0.567%         |
-| 2026-05-07 | 1255600 | -50.0%     | 0.568%         |
-| 2026-05-08 |  684500 | -72.7%     | 0.309%         |
+| 2026-05-04 |  639600 | -74.7%     | 0.289%         |
+| 2026-05-05 |  576300 | -77.2%     | 0.261%         |
+| 2026-05-06 | 1254100 | -50.4%     | 0.567%         |
+| 2026-05-07 | 1255600 | -50.4%     | 0.568%         |
+| 2026-05-08 | 1914100 | -24.4%     | 0.865%         |
 
-- KL trung bình 60 phiên: **2,509,743**
+- KL trung bình 60 phiên: **2,530,236**
 - Số CP lưu hành: **221,168,700**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                 | publishtime         | url                                                                                                        |
-|:--------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------|
-| DGW: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền            | 2026-04-29T17:32:33 | /2026/04/dgw-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2025-bang-tien-737-1435903.htm         |
-| Digiworld báo lãi tăng 90% trong quý 1, rót thêm tiền vào cổ phiếu TCB, VPB, giảm HPG | 2026-04-27T11:02:00 | /2026/04/digiworld-bao-lai-tang-90-trong-quy-1-rot-them-tien-vao-co-phieu-tcb-vpb-giam-hpg-737-1434053.htm |
-| DGW: Giải trình KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước                  | 2026-04-24T17:24:58 | /2026/04/dgw-giai-trinh-kqkd-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1433657.htm               |
-| DGW: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                | 2026-04-24T09:13:55 | /2026/04/dgw-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433082.htm                             |
-| DGW: Nghị quyết HĐQT về việc bầu Chủ tịch HĐQT và các Ủy ban trực thuộc               | 2026-04-24T09:13:48 | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-bau-chu-tich-hdqt-va-cac-uy-ban-truc-thuoc-737-1433073.htm            |
-| DGW: Nghị quyết HĐQT về việc chốt DSCĐ thực hiện quyền nhận cổ tức năm 2025           | 2026-04-24T09:13:47 | /2026/04/dgw-nghi-quyet-hdqt-ve-viec-chot-dscd-thuc-hien-quyen-nhan-co-tuc-nam-2025-737-1433074.htm        |
-| DGW: Thông báo ngày ĐKCC thực hiện quyền nhận cổ tức năm 2025                         | 2026-04-24T09:13:46 | /2026/04/dgw-thong-bao-ngay-dkcc-thuc-hien-quyen-nhan-co-tuc-nam-2025-738-1433075.htm                      |
-| DGW: Thông báo thay đổi nhân sự                                                       | 2026-04-24T09:13:45 | /2026/04/dgw-thong-bao-thay-doi-nhan-su-214-1433076.htm                                                    |
-| DGW: BCTC quý 2 năm 2026                                                              | 2026-04-24T00:00:00 | /2026/04/dgw-bctc-quy-2-nam-2026-737-1433619.htm                                                           |
-| DGW: BCTC Hợp nhất quý 2 năm 2026                                                     | 2026-04-24T00:00:00 | /2026/04/dgw-bctc-hop-nhat-quy-2-nam-2026-737-1433620.htm                                                  |
+| news_title                                                                                           | public_date         | news_source_link   |
+|:-----------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DGW: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền                           | 2026-04-29T17:31:14 |                    |
+| DGW: Giải trình KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước                                 | 2026-04-24T17:24:58 |                    |
+| DGW: Thông báo thay đổi nhân sự                                                                      | 2026-04-24T09:11:10 |                    |
+| DGW: Thông báo ngày ĐKCC thực hiện quyền nhận cổ tức năm 2025                                        | 2026-04-24T09:10:15 |                    |
+| DGW: Nghị quyết HĐQT về việc chốt DSCĐ thực hiện quyền nhận cổ tức năm 2025                          | 2026-04-24T09:09:37 |                    |
+| DGW: Nghị quyết HĐQT về việc bầu Chủ tịch HĐQT và các Ủy ban trực thuộc                              | 2026-04-24T09:08:26 |                    |
+| DGW: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                               | 2026-04-24T09:03:19 |                    |
+| Digiworld cán mốc doanh thu 1 tỷ USD, đặt mục tiêu 31.500 tỷ đồng năm 2026                           | 2026-04-22T22:53:00 |                    |
+| DGW: Thông báo thay đổi nhân sự - Miễn nhiệm Trưởng phòng Tài chính và Trưởng phòng kiểm toán nội bộ | 2026-04-16T09:08:51 |                    |
+| DGW: Nghị quyết HĐQT về việc miễn nhiệm Trưởng phòng Tài chính                                       | 2026-04-16T09:07:17 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-29T00:00:00 | 2026-05-14T00:00:00 | 2026-05-13T00:00:00 |
+| 2026-04-24T00:00:00 | nan                 | nan                 |
+| 2026-02-25T00:00:00 | 2026-03-11T00:00:00 | 2026-03-10T00:00:00 |
+| 2025-11-24T00:00:00 | nan                 | nan                 |
+| 2025-10-08T00:00:00 | 2025-10-03T00:00:00 | 2025-10-03T00:00:00 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-26T00:00:00 | nan                 | nan                 |
+| 2025-09-25T00:00:00 | nan                 | nan                 |
+| 2025-09-25T00:00:00 | nan                 | nan                 |
+| 2025-09-25T00:00:00 | nan                 | nan                 |
+| 2025-09-25T00:00:00 | nan                 | nan                 |
+| 2025-09-09T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán buôn |
+| % Ngành hôm nay | -0.46% |
+| % Cổ phiếu hôm nay | -2.04% |
+| RS (CP − Ngành) | -1.58% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +304,22 @@ _Không có dữ liệu_
 | DGW      | 2026-05-05 00:00:00 |  43.6  |  43.6  | 42.95 |   43.5  |   576300 |
 | DGW      | 2026-05-06 00:00:00 |  43.5  |  43.9  | 43.2  |   43.5  |  1254100 |
 | DGW      | 2026-05-07 00:00:00 |  44    |  44.75 | 43.6  |   44.2  |  1255600 |
-| DGW      | 2026-05-08 00:00:00 |  43.85 |  44.1  | 43    |   43.15 |   684500 |
+| DGW      | 2026-05-08 00:00:00 |  43.85 |  44.1  | 42.9  |   43.3  |  1914100 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGW      | 2026-05-08 11:27:04 |    43.1 |      300 | Sell         | 472166634 |
-| DGW      | 2026-05-08 11:27:04 |    43.1 |      100 | Sell         | 472166635 |
-| DGW      | 2026-05-08 11:27:04 |    43.1 |      200 | Sell         | 472166636 |
-| DGW      | 2026-05-08 11:27:08 |    43.1 |      100 | Buy          | 472166738 |
-| DGW      | 2026-05-08 11:27:10 |    43.1 |      500 | Buy          | 472166774 |
-| DGW      | 2026-05-08 11:27:21 |    43.1 |      200 | Buy          | 472167132 |
-| DGW      | 2026-05-08 11:27:22 |    43.1 |      100 | Buy          | 472167166 |
-| DGW      | 2026-05-08 11:27:28 |    43.1 |      500 | Buy          | 472167312 |
-| DGW      | 2026-05-08 11:27:35 |    43.1 |      500 | Buy          | 472167483 |
-| DGW      | 2026-05-08 11:27:35 |    43.1 |      100 | Buy          | 472167488 |
+| DGW      | 2026-05-08 14:26:50 |   43.85 |      300 | Buy          | 472550728 |
+| DGW      | 2026-05-08 14:26:53 |   43.8  |      100 | Buy          | 472551058 |
+| DGW      | 2026-05-08 14:26:54 |   43.8  |      300 | Buy          | 472551093 |
+| DGW      | 2026-05-08 14:26:55 |   43.8  |      600 | Buy          | 472551235 |
+| DGW      | 2026-05-08 14:26:55 |   43.8  |     2600 | Buy          | 472551237 |
+| DGW      | 2026-05-08 14:27:00 |   43.8  |     3200 | Buy          | 472551887 |
+| DGW      | 2026-05-08 14:27:00 |   43.75 |      200 | Sell         | 472551894 |
+| DGW      | 2026-05-08 14:27:05 |   43.75 |      800 | Buy          | 472552378 |
+| DGW      | 2026-05-08 14:27:05 |   43.75 |     1500 | Buy          | 472552379 |
+| DGW      | 2026-05-08 14:27:05 |   43.75 |      300 | Buy          | 472552380 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # BMP — CTCP Nhựa Bình Minh
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 13:02  |  🗂 Quarterly: 03/05/2026 13:56
+> 📅 Daily: 08/05/2026 21:53  |  🗂 Quarterly: 03/05/2026 13:56
 
 ---
 
@@ -10,123 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BMP |
-| exchange | HOSE |
-| market_cap | 12205465855800 |
-| 52w_high | 188800 |
-| 52w_high_date | 2025-12-17 |
-| 52w_low | 121200 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 80.5059 |
-| dividend | 12750 |
-| beta | 0.69 |
-| eps | 15218 |
-| eps_forward | 9.646524688954024 |
-| bvps | 38864 |
-| pe | 9.90 |
-| pb | 3.88 |
-| price_chg_1m | 11.94 |
-| price_chg_ytd | 12.38 |
-| price_chg_1m_rank | 8.50 |
-| price_chg_ytd_rank | 49.61 |
-| yield | 0.08551307847082495 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | BMP |
+| current_price | 150600.0 |
+| market_cap | 12328257262800.0 |
+| number_of_shares_mkt_cap | 81860938.0 |
+| ticker | BMP |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 12-Nov-25 |
+| en_organ_name | Binh Minh Plastics Joint Stock Company |
+| en_organ_short_name | Binh Minh Plastics |
+| vi_organ_name | Công ty Cổ phần Nhựa Bình Minh |
+| vi_organ_short_name | Nhựa Bình Minh |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Construction & Materials |
+| sector_vn | Xây dựng và Vật liệu |
+| average_match_value1_month | 33277123252.631577 |
+| average_match_volume1_month | 232569.0 |
+| highest_price1_year | 191000.0 |
+| lowest_price1_year | 121200.0 |
+| foreigner_percentage | 0.80470469 |
+| maximum_foreign_percentage | 1.0 |
+| state_percentage | 0.00024411 |
+| analyst | Huy Hoang |
+| upside_to_target_percent | 0.2782204515 |
+| dividend_per_share_tsr | 16000.0 |
+| projected_tsr_percentage | 0.3844621514 |
+| target_price | 192500.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Binh Minh Plastics Joint Stock Company (BMP), formerly known&nbsp;as Binh Minh Plastics Public-Private Pa… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Nhựa B&igrave;nh Minh (BMP)&nbsp;c&oacute;&nbsp;tiền th&acirc;n l&agrave; Nh&agrave; m&a… |
+| in_cu | True |
+| icb_code_lv2 | 2300 |
+| icb_code_lv4 | 2353 |
+| free_float | 36837422 |
+| free_float_percentage | 0.4499999988 |
+| listing_date | 2006-07-11T00:00:00 |
+| prev_insight | {'targetPrice': 155400.0, 'rating': 'O-PF', 'ratingAsOf': '04-Sep-25', 'analyst': 'Huy Hoang', 'version': '20251111'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 149.1 |
-| MA5 | 150.12 |
-| MA10 | 148.72 |
-| EMA20 | 145.61 |
-| EMA50 | 145.48 |
-| Slope MA20 (5p, %) | 2.04 |
+| Giá đóng cửa | 150.0 |
+| MA5 | 150.3 |
+| MA10 | 148.81 |
+| EMA20 | 145.696 |
+| EMA50 | 145.515 |
+| Slope MA20 (5p, %) | 2.1 |
 | ATR(14) | 4.507 |
-| RSI(14) | 57.4 |
+| RSI(14) | 59.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 3.199 |
-| MACD Signal | 2.768 |
-| MACD Histogram | 0.431 |
+| MACD | 3.271 |
+| MACD Signal | 2.783 |
+| MACD Histogram | 0.488 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 198227 |
+| KL avg 60 phiên | 198890 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |   162.8   | 0.99        | 1             |
-| 🔴 Kháng cự    |   154.697 | 1.72        | 2             |
-| 🔴 Kháng cự    |   154.4   | 1.39        | 1             |
-| ▶ Giá hiện tại |   149.1   | —           | —             |
-| 🟢 Hỗ trợ      |   123.6   | 1.28        | 1             |
-| 🟢 Hỗ trợ      |   121.2   | 1.17        | 1             |
+| 🔴 Kháng cự     |   162.8   | 0.99        | 1             |
+| 🔴 Kháng cự     |   154.697 | 1.72        | 2             |
+| 🔴 Kháng cự     |   154.4   | 1.39        | 1             |
+| ▶ Giá hiện tại |   150     | —           | —             |
+| 🟢 Hỗ trợ       |   123.6   | 1.28        | 1             |
+| 🟢 Hỗ trợ       |   121.2   | 1.17        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BMP |
-| pe | 9.90 |
-| pb | 3.88 |
-| roe | 44.05 |
-| roe_pct_rank | 100 |
-| roa | 37.35 |
-| roa_pct_rank | 100 |
-| eps | 15218 |
-| bvps | 38864 |
-| beta | 0.69 |
-| dividend | 12750 |
-| yield | 0.08551307847082495 |
-| pe_pct_rank | 44 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698946 |
+| ratio_type | RATIO_TTM |
+| organ_code | BMP |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 81860938 |
+| market_cap | 4469607214800.0 |
+| dividend_yield | 0.0 |
+| pe | 9.763394891 |
+| pb | 1.762700291 |
+| ps | 1.2104664528 |
+| price_to_cash_flow | 12.4476884508 |
+| ev_to_ebitda | 5.6475736089 |
+| cash_ratio | 1.1078816793 |
+| quick_ratio | 4.8945337944 |
+| current_ratio | 7.3857349992 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.0226983133 |
+| debt_to_equity | 0.0915170967 |
+| roe | 0.1872013804 |
+| roa | 0.1619161108 |
+| day_sale_outstanding | 35.0230834952 |
+| days_inventory_outstanding | 64.7883061834 |
+| days_payable_outstanding | 18.0997899985 |
+| gross_margin | 0.2493225559 |
+| ebit_margin | 0.173208791 |
+| pre_tax_profit_margin | 0.1531685848 |
+| after_tax_profit_margin | 0.1239800772 |
+| asset_turnover | 1.3059849166 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 639567713848.0 |
+| ebitda | 756089591717.0 |
+| roic | 0.2466312528 |
+| cash_cycle | 143.4743432906 |
+| fixed_asset_turnover | 4.8301209606 |
+| financial_leverage | 0.0915170967 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 216200 | +9.1%      | 0.264%         |
-| 2026-05-05 |  99900 | -49.6%     | 0.122%         |
-| 2026-05-06 |  72400 | -63.5%     | 0.088%         |
-| 2026-05-07 | 167900 | -15.3%     | 0.205%         |
-| 2026-05-08 |  39500 | -80.1%     | 0.048%         |
+| 2026-05-04 | 216200 | +8.7%      | 0.264%         |
+| 2026-05-05 |  99900 | -49.8%     | 0.122%         |
+| 2026-05-06 |  72400 | -63.6%     | 0.088%         |
+| 2026-05-07 | 167900 | -15.6%     | 0.205%         |
+| 2026-05-08 |  79300 | -60.1%     | 0.097%         |
 
-- KL trung bình 60 phiên: **198,226**
+- KL trung bình 60 phiên: **198,890**
 - Số CP lưu hành: **81,860,938**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                        | publishtime            | url                                                                                                                  |
-|:---------------------------------------------------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------------|
-| BMP: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức còn lại cho năm 2025 | 2026-05-06T17:00:06    | /2026/05/bmp-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-con-lai-cho-nam-2025-737-1439002.htm |
-| BMP: Biên bản họp ĐHĐCĐ thường niên 2026                                                     | 2026-04-29T19:00:08    | /2026/04/bmp-bien-ban-hop-dhdcd-thuong-nien-2026-737-1436098.htm                                                     |
-| BMP: Nghị quyết họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-29T15:42:17    | /2026/04/bmp-nghi-quyet-hop-dhdcd-thuong-nien-2026-737-1436305.htm                                                   |
-| BMP: CBTT trả cổ tức còn lại năm 2025 bằng tiền mặt                                          | 2026-04-29T15:41:38    | /2026/04/bmp-cbtt-tra-co-tuc-con-lai-nam-2025-bang-tien-mat-738-1435678.htm                                          |
-| ĐHĐCĐ BMP: Tự tin hoàn thành kế hoạch, thận trọng khi tham gia các dự án                     | 2026-04-28T20:02:00    | /2026/04/dhdcd-bmp-tu-tin-hoan-thanh-ke-hoach-than-trong-khi-tham-gia-cac-du-an-737-1434651.htm                      |
-| Chủ tịch BMP: Giá nguyên liệu khó quay về mức cũ khi chiến sự kết thúc                       | 2026-04-28T17:04:02.96 | /2026/04/chu-tich-bmp-gia-nguyen-lieu-kho-quay-ve-muc-cu-khi-chien-su-ket-thuc-737-1434776.htm                       |
-| Nhựa Bình Minh chia cổ tức tiền mặt kỷ lục 148.6% cho năm 2025                               | 2026-04-17T14:36:29.44 | /2026/04/nhua-binh-minh-chia-co-tuc-tien-mat-ky-luc-1486-cho-nam-2025-738-1429129.htm                                |
-| BMP: BCTC quý 1 năm 2026                                                                     | 2026-04-17T00:00:00    | /2026/04/bmp-bctc-quy-1-nam-2026-737-1429494.htm                                                                     |
-| BMP: BCTC Hợp nhất quý 1 năm 2026                                                            | 2026-04-17T00:00:00    | /2026/04/bmp-bctc-hop-nhat-quy-1-nam-2026-737-1429495.htm                                                            |
-| BMP: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                | 2026-04-16T18:01:47    | /2026/04/bmp-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1428808.htm                                                  |
+| news_title                                                                                   | public_date         | news_source_link   |
+|:---------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| BMP: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức còn lại cho năm 2025 | 2026-05-06T17:00:06 |                    |
+| BMP: Biên bản họp ĐHĐCĐ thường niên 2026                                                     | 2026-04-29T18:53:28 |                    |
+| BMP: Nghị quyết họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-29T15:42:17 |                    |
+| BMP: CBTT trả cổ tức còn lại năm 2025 bằng tiền mặt                                          | 2026-04-29T15:41:38 |                    |
+| BMP: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                | 2026-04-16T17:54:50 |                    |
+| BMP: Báo cáo thường niên năm 2025                                                            | 2026-04-14T17:20:25 |                    |
+| BMP: Thông báo mời họp ĐHĐCĐ thường niên năm 2026                                            | 2026-04-08T18:06:22 |                    |
+| BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước                            | 2026-03-30T17:59:36 |                    |
+| BMP: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                  | 2026-03-26T15:04:56 |                    |
+| BMP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐTN 2026          | 2026-03-17T10:54:44 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-05-06T00:00:00 | nan                 | nan                 |
+| 2026-03-26T00:00:00 | 2026-04-06T00:00:00 | 2026-04-03T00:00:00 |
+| 2025-10-30T00:00:00 | 2025-11-18T00:00:00 | 2025-11-17T00:00:00 |
+| 2025-05-09T00:00:00 | 2025-05-20T00:00:00 | 2025-05-19T00:00:00 |
+| 2025-02-11T00:00:00 | 2025-04-02T00:00:00 | 2025-04-01T00:00:00 |
+| 2024-10-25T00:00:00 | 2024-11-14T00:00:00 | 2024-11-13T00:00:00 |
+| 2024-05-08T00:00:00 | 2024-05-20T00:00:00 | 2024-05-17T00:00:00 |
+| 2024-03-20T00:00:00 | 2024-04-02T00:00:00 | 2024-04-01T00:00:00 |
+| 2023-11-06T00:00:00 | 2023-11-21T00:00:00 | 2023-11-20T00:00:00 |
+| 2023-05-29T00:00:00 | nan                 | nan                 |
+| 2023-05-12T00:00:00 | 2023-05-22T00:00:00 | 2023-05-19T00:00:00 |
+| 2023-03-15T00:00:00 | 2023-03-29T00:00:00 | 2023-03-28T00:00:00 |
+| 2023-03-10T00:00:00 | nan                 | nan                 |
+| 2023-02-08T00:00:00 | nan                 | nan                 |
+| 2023-01-30T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | -1.00% |
-| RS (CP − Ngành) | -1.30% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -0.40% |
+| RS (CP − Ngành) | +0.39% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -221,22 +303,22 @@ _Không có dữ liệu_
 | BMP      | 2026-05-05 00:00:00 |  150.2 |  150.5 | 148   |   150.5 |    99900 |
 | BMP      | 2026-05-06 00:00:00 |  150.7 |  150.8 | 148.9 |   150.4 |    72400 |
 | BMP      | 2026-05-07 00:00:00 |  147.1 |  152.4 | 147.1 |   150.6 |   167900 |
-| BMP      | 2026-05-08 00:00:00 |  150.6 |  150.6 | 149   |   149.1 |    39500 |
+| BMP      | 2026-05-08 00:00:00 |  150.6 |  150.6 | 149   |   150   |    79300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BMP      | 2026-05-08 10:04:49 |   149.2 |     8000 | Sell         | 472021334 |
-| BMP      | 2026-05-08 10:05:50 |   149.2 |      100 | Buy          | 472022441 |
-| BMP      | 2026-05-08 10:08:36 |   149.2 |      100 | Sell         | 472026445 |
-| BMP      | 2026-05-08 10:08:36 |   149.2 |      100 | Sell         | 472026447 |
-| BMP      | 2026-05-08 10:08:36 |   149.3 |     1000 | Sell         | 472026444 |
-| BMP      | 2026-05-08 10:08:36 |   149.2 |      100 | Sell         | 472026446 |
-| BMP      | 2026-05-08 10:09:03 |   149.1 |      500 | Sell         | 472027050 |
-| BMP      | 2026-05-08 10:09:03 |   149.1 |      500 | Sell         | 472027051 |
-| BMP      | 2026-05-08 10:09:03 |   149.1 |      100 | Sell         | 472027052 |
-| BMP      | 2026-05-08 10:09:03 |   149.1 |      400 | Buy          | 472027053 |
+| BMP      | 2026-05-08 13:56:52 |   149.8 |      100 | Buy          | 472412705 |
+| BMP      | 2026-05-08 13:57:14 |   149.8 |      100 | Buy          | 472414004 |
+| BMP      | 2026-05-08 13:57:36 |   149.8 |      100 | Buy          | 472415375 |
+| BMP      | 2026-05-08 13:57:56 |   149.7 |      100 | Sell         | 472416623 |
+| BMP      | 2026-05-08 13:57:58 |   149.7 |      100 | Buy          | 472416820 |
+| BMP      | 2026-05-08 13:58:12 |   149.7 |      100 | Buy          | 472417612 |
+| BMP      | 2026-05-08 13:58:20 |   149.7 |      100 | Buy          | 472417991 |
+| BMP      | 2026-05-08 13:58:42 |   149.7 |      100 | Buy          | 472419168 |
+| BMP      | 2026-05-08 13:59:21 |   149.7 |      100 | Sell         | 472422159 |
+| BMP      | 2026-05-08 13:59:45 |   149.7 |      100 | Sell         | 472423522 |
 
 <!-- END:DAILY -->
 

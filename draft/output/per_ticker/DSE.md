@@ -1,6 +1,6 @@
 # DSE — CTCP Chứng khoán DNSE
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 08/05/2026 13:06  |  🗂 Quarterly: 03/05/2026 14:02
+> 📅 Daily: 08/05/2026 21:55  |  🗂 Quarterly: 03/05/2026 14:02
 
 ---
 
@@ -10,121 +10,202 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DSE |
-| exchange | HOSE |
-| market_cap | 9571383164100 |
-| 52w_high | 30351 |
-| 52w_high_date | 2025-08-29 |
-| 52w_low | 20264 |
-| 52w_low_date | 2025-06-09 |
-| foreign_ownership | 11.1542 |
-| dividend | 700 |
-| beta | 0.76 |
-| eps | 684 |
-| eps_forward | 17.67499805341431 |
-| bvps | 15640.53 |
-| pe | 33.18 |
-| pb | 1.45 |
-| price_chg_1m | -7.84 |
-| price_chg_ytd | 7.67 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0.03131991051454139 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DNSE |
+| current_price | 22700.0 |
+| market_cap | 9721270596200.0 |
+| number_of_shares_mkt_cap | 428249806.0 |
+| ticker | DSE |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | DNSE Securities Joint Stock Company |
+| en_organ_short_name | DNSE Securities |
+| vi_organ_name | Công ty Cổ phần Chứng khoán DNSE |
+| vi_organ_short_name | Chứng Khoán DNSE |
+| com_type_code | CK |
+| com_group_code | VNINDEX |
+| sector | Financial Services |
+| sector_vn | Dịch vụ tài chính |
+| average_match_value1_month | 9656482928.947369 |
+| average_match_volume1_month | 410337.0 |
+| highest_price1_year | 30349.0 |
+| lowest_price1_year | 19500.0 |
+| foreigner_percentage | 0.11154193 |
+| maximum_foreign_percentage | 1.0 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">DNSE Securities Joint Stock Company (DSE) was established in 2007 under a license from th… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n DNSE (DSE) được th&agrave;nh lập theo giấy ph&eacute;p của Uỷ ban Chứ… |
+| in_cu | False |
+| icb_code_lv2 | 8700 |
+| icb_code_lv4 | 8777 |
+| free_float | 128474941 |
+| free_float_percentage | 0.2999999981 |
+| listing_date | 2024-07-01T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.3 |
-| MA5 | 22.49 |
-| MA10 | 23.03 |
-| EMA20 | 23.184 |
-| EMA50 | 23.433 |
-| Slope MA20 (5p, %) | -1.89 |
+| Giá đóng cửa | 22.4 |
+| MA5 | 22.51 |
+| MA10 | 23.04 |
+| EMA20 | 23.194 |
+| EMA50 | 23.437 |
+| Slope MA20 (5p, %) | -1.85 |
 | ATR(14) | 0.589 |
-| RSI(14) | 37.7 |
+| RSI(14) | 38.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.298 |
-| MACD Signal | -0.156 |
-| MACD Histogram | -0.142 |
+| MACD | -0.29 |
+| MACD Signal | -0.154 |
+| MACD Histogram | -0.136 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 336305 |
+| KL avg 60 phiên | 337653 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    24.296 | 5.5         | 5             |
-| 🔴 Kháng cự    |    23.4   | 0.9         | 1             |
-| 🔴 Kháng cự    |    22.673 | 5.55        | 5             |
-| ▶ Giá hiện tại |    22.3   | —           | —             |
-| 🟢 Hỗ trợ      |    21.79  | 0.65        | 1             |
+| 🔴 Kháng cự     |    24.296 | 5.5         | 5             |
+| 🔴 Kháng cự     |    23.4   | 0.9         | 1             |
+| 🔴 Kháng cự     |    22.673 | 5.55        | 5             |
+| ▶ Giá hiện tại |    22.4   | —           | —             |
+| 🟢 Hỗ trợ       |    21.79  | 0.65        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DSE |
-| pe | 33.18 |
-| pb | 1.45 |
-| roe | 6.54 |
-| roe_pct_rank | 39 |
-| roa | 2.11 |
-| roa_pct_rank | 40 |
-| eps | 684 |
-| bvps | 15640.53 |
-| beta | 0.76 |
-| dividend | 700 |
-| yield | 0.03131991051454139 |
-| pe_pct_rank | 92 |
-| pb_pct_rank | 58 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2024 |
+| quarter | 3 |
+| ratio_ttm_id | 2813690 |
+| ratio_type | RATIO_TTM |
+| organ_code | DNSE |
+| year_report | 2024 |
+| number_of_shares_mkt_cap | 330000000 |
+| market_cap | 8629500000000.0 |
+| dividend_yield | 0.0191204589 |
+| pe | 33.9101099816 |
+| pb | 2.0735452705 |
+| ps | 10.9601236463 |
+| price_to_cash_flow | -1.9230393832 |
+| ev_to_ebitda | 43.5131155302 |
+| cash_ratio | 0.1458077983 |
+| quick_ratio | 1.2576149542 |
+| current_ratio | 1.2576149542 |
+| owners_equity | 0.0073987478 |
+| debt_per_equity | 1.4791436804 |
+| debt_to_equity | 1.4950909592 |
+| roe | 0.0623395602 |
+| roa | 0.0274416958 |
+| day_sale_outstanding | 0.0 |
+| days_inventory_outstanding | 0.0 |
+| days_payable_outstanding | 1.541213389 |
+| gross_margin | 0.5751157606 |
+| ebit_margin | 0.3984627429 |
+| pre_tax_profit_margin | 0.3917117168 |
+| after_tax_profit_margin | 0.313389982 |
+| asset_turnover | 0.0875640491 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 313731336535.0 |
+| ebitda | 336186948755.0 |
+| roic | 0.0304077363 |
+| cash_cycle | 147.5176639015 |
+| fixed_asset_turnover | 9.4387881425 |
+| financial_leverage | 1.4950909592 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 481400 | +43.1%     | 0.112%         |
-| 2026-05-05 | 251000 | -25.4%     | 0.059%         |
-| 2026-05-06 | 424000 | +26.1%     | 0.099%         |
-| 2026-05-07 | 354100 | +5.3%      | 0.083%         |
-| 2026-05-08 | 129400 | -61.5%     | 0.030%         |
+| 2026-05-04 | 481400 | +42.6%     | 0.112%         |
+| 2026-05-05 | 251000 | -25.7%     | 0.059%         |
+| 2026-05-06 | 424000 | +25.6%     | 0.099%         |
+| 2026-05-07 | 354100 | +4.9%      | 0.083%         |
+| 2026-05-08 | 210300 | -37.7%     | 0.049%         |
 
-- KL trung bình 60 phiên: **336,305**
+- KL trung bình 60 phiên: **337,653**
 - Số CP lưu hành: **428,249,806**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DSE: Nghị quyết HĐQT về việc sửa đổi, bổ sung quy chế phát hành ESOP lần 2 năm 2025                                       | 2026-05-04T11:35:52 | /2026/05/dse-nghi-quyet-hdqt-ve-viec-sua-doi-bo-sung-quy-che-phat-hanh-esop-lan-2-nam-2025-737-1436968.htm                |
-| DSE: Nghị quyết HĐQT về việc thu hồi cổ phiếu ESOP                                                                        | 2026-05-04T11:23:19 | /2026/05/dse-nghi-quyet-hdqt-ve-viec-thu-hoi-co-phieu-esop-737-1436969.htm                                                |
-| DSE: Nghị quyết Hội đồng quản trị về việc Sửa đổi, bổ sung Quy chế phát hành cổ phiếu theo chương trình lựa chọn cho ngư… | 2026-04-29T00:00:00 | /2026/04/dse-nghi-quyet-hoi-dong-quan-tri-ve-viec-sua-doi-bo-sung-quy-che-phat-hanh-co-phieu-theo-chuong-trinh-lua-chon-… |
-| DSE: Resolution of the Board of Directors on the Amendment and supplement of the Employee Stock Ownership Plan (ESOP) Is… | 2026-04-29T00:00:00 | /2026/04/dse-resolution-of-the-board-of-directors-on-the-amendment-and-supplement-of-the-employee-stock-ownership-plan-e… |
-| DSE: Nghị quyết Hội đồng quản trị về việc Thu hồi cổ phiếu thưởng phát hành theo chương trình lựa chọn cho người lao độn… | 2026-04-29T00:00:00 | /2026/04/dse-nghi-quyet-hoi-dong-quan-tri-ve-viec-thu-hoi-co-phieu-thuong-phat-hanh-theo-chuong-trinh-lua-chon-cho-nguoi… |
-| DSE: Resolution of the Board of Directors on the Clawback of bonus shares issued under the ESOP programs 2025             | 2026-04-29T00:00:00 | /2026/04/dse-resolution-of-the-board-of-directors-on-the-clawback-of-bonus-shares-issued-under-the-esop-programs-2025-76… |
-| DSE: Nghị quyết HĐQT về việc phê duyệt giao dịch với YEG                                                                  | 2026-04-24T17:53:27 | /2026/04/dse-nghi-quyet-hdqt-ve-viec-phe-duyet-giao-dich-voi-yeg-737-1433718.htm                                          |
-| DSE: Nghị quyết Hội đồng quản trị về việc Phê duyệt giao dịch với người có liên quan                                      | 2026-04-24T00:00:00 | /2026/04/dse-nghi-quyet-hoi-dong-quan-tri-ve-viec-phe-duyet-giao-dich-voi-nguoi-co-lien-quan-737-1433630.htm              |
-| DSE: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                                                | 2026-04-21T14:10:04 | /2026/04/dse-thong-bao-ve-viec-niem-yet-va-giao-dich-chung-khoan-thay-doi-niem-yet-741-1431223.htm                        |
-| DSE: Thông báo của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh về việc giao dịch chứng khoán thay đổi đăng ký niêm yế… | 2026-04-21T00:00:00 | /2026/04/dse-thong-bao-cua-so-giao-dich-chung-khoan-thanh-pho-ho-chi-minh-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky… |
+| news_title                                                                                   | public_date         | news_source_link   |
+|:---------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DSE: Nghị quyết HĐQT về việc thu hồi cổ phiếu ESOP                                           | 2026-05-04T11:23:19 |                    |
+| DSE: Nghị quyết HĐQT về việc sửa đổi, bổ sung quy chế phát hành ESOP lần 2 năm 2025          | 2026-05-04T11:22:49 |                    |
+| DSE: Nghị quyết HĐQT về việc phê duyệt giao dịch với YEG                                     | 2026-04-24T17:53:27 |                    |
+| DSE: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết                   | 2026-04-21T14:10:00 |                    |
+| DSE: Nghị quyết HĐQT về việc thông qua giao dịch với bên có liên quan và hợp đồng nguyên tắc | 2026-04-15T11:01:43 |                    |
+| DSE: Quyết định về việc thay đổi đăng ký niêm yết                                            | 2026-04-15T10:40:00 |                    |
+| DSE: Quyết định của TGĐ về việc phê duyệt hạn mức tín dụng do VCB Tây Hồ cấp                 | 2026-04-13T17:17:12 |                    |
+| DSE: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                                    | 2026-04-02T14:36:09 |                    |
+| DSE: Đính chính thay đổi nhân sự - bổ nhiệm, miễn nhiệm Thành viên HĐQT, BKS, Ban điều hành  | 2026-03-31T14:45:31 |                    |
+| DSE: Thông báo thay đổi nhân sự - Bổ nhiệm thành viên HĐQT, BKS                              | 2026-03-30T17:17:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         |   record_date |   exright_date |
+|:--------------------|--------------:|---------------:|
+| 2026-04-21T00:00:00 |           nan |            nan |
+| 2026-03-30T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-17T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
+| 2026-03-06T00:00:00 |           nan |            nan |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.08% |
-| % Cổ phiếu hôm nay | -1.76% |
-| RS (CP − Ngành) | -1.68% |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | -1.32% |
+| RS (CP − Ngành) | -1.06% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -220,22 +301,22 @@ _Không có dữ liệu_
 | DSE      | 2026-05-05 00:00:00 |  22.55 |  22.65 | 22.2  |   22.2  |   251000 |
 | DSE      | 2026-05-06 00:00:00 |  22.2  |  22.9  | 22    |   22.85 |   424000 |
 | DSE      | 2026-05-07 00:00:00 |  22.95 |  23.15 | 22.55 |   22.7  |   354100 |
-| DSE      | 2026-05-08 00:00:00 |  22.7  |  22.7  | 22.3  |   22.3  |   129400 |
+| DSE      | 2026-05-08 00:00:00 |  22.7  |  22.7  | 22.3  |   22.4  |   210300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DSE      | 2026-05-08 09:15:00 |   22.7  |      500 | ATO          | 471916725 |
-| DSE      | 2026-05-08 09:15:11 |   22.7  |     6000 | Sell         | 471917421 |
-| DSE      | 2026-05-08 09:17:03 |   22.65 |     1800 | Sell         | 471922749 |
-| DSE      | 2026-05-08 09:17:03 |   22.65 |     3300 | Sell         | 471922731 |
-| DSE      | 2026-05-08 09:17:15 |   22.6  |     5000 | Sell         | 471923239 |
-| DSE      | 2026-05-08 09:17:53 |   22.6  |     4500 | Sell         | 471924707 |
-| DSE      | 2026-05-08 09:24:20 |   22.6  |      100 | Buy          | 471940888 |
-| DSE      | 2026-05-08 09:24:51 |   22.6  |     4400 | Buy          | 471942348 |
-| DSE      | 2026-05-08 09:25:04 |   22.6  |     2000 | Buy          | 471943052 |
-| DSE      | 2026-05-08 09:25:04 |   22.6  |      500 | Buy          | 471943051 |
+| DSE      | 2026-05-08 10:44:46 |   22.35 |      100 | Buy          | 472087934 |
+| DSE      | 2026-05-08 10:46:26 |   22.35 |     7500 | Buy          | 472090789 |
+| DSE      | 2026-05-08 10:46:38 |   22.35 |     2600 | Sell         | 472091715 |
+| DSE      | 2026-05-08 10:48:42 |   22.35 |     2000 | Buy          | 472095674 |
+| DSE      | 2026-05-08 10:50:49 |   22.35 |      100 | Buy          | 472099243 |
+| DSE      | 2026-05-08 10:50:49 |   22.35 |      400 | Buy          | 472099242 |
+| DSE      | 2026-05-08 10:55:46 |   22.4  |      200 | Buy          | 472107961 |
+| DSE      | 2026-05-08 10:55:46 |   22.4  |      300 | Buy          | 472107962 |
+| DSE      | 2026-05-08 11:02:30 |   22.4  |      500 | Buy          | 472123163 |
+| DSE      | 2026-05-08 11:05:00 |   22.3  |      100 | Sell         | 472128528 |
 
 <!-- END:DAILY -->
 

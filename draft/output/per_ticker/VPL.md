@@ -1,6 +1,6 @@
 # VPL — CTCP Vinpearl
 **Sàn:** HOSE  |  **Ngành:** Dịch vụ lưu trú, ăn uống, giải trí
-> 📅 Daily: 08/05/2026 13:22  |  🗂 Quarterly: 03/05/2026 14:27
+> 📅 Daily: 08/05/2026 22:04  |  🗂 Quarterly: 03/05/2026 14:27
 
 ---
 
@@ -10,116 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VPL |
-| exchange | HOSE |
-| market_cap | 161038373854600 |
-| 52w_high | 106300 |
-| 52w_high_date | 2025-12-08 |
-| 52w_low | 70500 |
-| 52w_low_date | 2025-11-10 |
-| foreign_ownership | 1.7706 |
-| dividend | 0 |
-| beta | 1.25 |
-| eps | 1420 |
-| eps_forward | 54.695766009719705 |
-| bvps | 21249 |
-| pe | 64.43 |
-| pb | 4.31 |
-| price_chg_1m | 5.65 |
-| price_chg_ytd | 25.95 |
-| price_chg_1m_rank | 9.22 |
-| price_chg_ytd_rank | 50.60 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | VPL |
+| current_price | 91500.0 |
+| market_cap | 164086984495500.0 |
+| number_of_shares_mkt_cap | 1793300377.0 |
+| ticker | VPL |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | Vinpearl Joint Stock Company |
+| en_organ_short_name | Vinpearl Jsc |
+| vi_organ_name | Công ty Cổ phần Vinpearl |
+| vi_organ_short_name | Vinpearl  |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Travel & Leisure |
+| sector_vn | Du lịch và Giải trí |
+| average_match_value1_month | 84322814678.94737 |
+| average_match_volume1_month | 991095.0 |
+| highest_price1_year | 111000.0 |
+| lowest_price1_year | 67000.0 |
+| foreigner_percentage | 0.01765523 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Vinpearl Joint Stock Company (VPL), formerly known as Hon Tre Tourism, Trade, and Service Development Inv… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần VinPearl (VPL), tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Đầu tư Ph&aacute;t tri… |
+| in_cu | False |
+| icb_code_lv2 | 5700 |
+| icb_code_lv4 | 5755 |
+| free_float | 268995056 |
+| free_float_percentage | 0.1499999997 |
+| listing_date | 2025-05-13T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 90.7 |
-| MA5 | 89.08 |
-| MA10 | 86.43 |
-| EMA20 | 85.551 |
-| EMA50 | 84.171 |
-| Slope MA20 (5p, %) | 2.98 |
+| Giá đóng cửa | 91.5 |
+| MA5 | 89.24 |
+| MA10 | 86.51 |
+| EMA20 | 85.627 |
+| EMA50 | 84.202 |
+| Slope MA20 (5p, %) | 3.07 |
 | ATR(14) | 3.947 |
-| RSI(14) | 63.6 |
+| RSI(14) | 65.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 2.031 |
-| MACD Signal | 1.231 |
-| MACD Histogram | 0.8 |
+| MACD | 2.095 |
+| MACD Signal | 1.244 |
+| MACD Histogram | 0.851 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 795578 |
+| KL avg 60 phiên | 804167 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |   106.369 | 1.26        | 2             |
-| ▶ Giá hiện tại |    90.7   | —           | —             |
-| 🟢 Hỗ trợ      |    89.7   | 1.26        | 1             |
-| 🟢 Hỗ trợ      |    88     | 1.35        | 1             |
-| 🟢 Hỗ trợ      |    87.941 | 1.33        | 2             |
+| 🔴 Kháng cự     |   106.369 | 1.26        | 2             |
+| ▶ Giá hiện tại |    91.5   | —           | —             |
+| 🟢 Hỗ trợ       |    89.7   | 1.26        | 1             |
+| 🟢 Hỗ trợ       |    88     | 1.35        | 1             |
+| 🟢 Hỗ trợ       |    87.941 | 1.33        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VPL |
-| pe | 64.43 |
-| pb | 4.31 |
-| roe | 3.32 |
-| roe_pct_rank | 32 |
-| roa | 1.38 |
-| roa_pct_rank | 37 |
-| eps | 1420 |
-| bvps | 21249 |
-| beta | 1.25 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2025 |
+| quarter | 3 |
+| ratio_ttm_id | 2826476 |
+| ratio_type | RATIO_TTM |
+| organ_code | VPL |
+| year_report | 2025 |
+| number_of_shares_mkt_cap | 1793300377 |
+| market_cap | 165880284872500.0 |
+| dividend_yield | 0.0 |
+| pe | -1551.2833965127 |
+| pb | 4.6178833342 |
+| ps | 14.4910604578 |
+| price_to_cash_flow | -33.123152675 |
+| ev_to_ebitda | 45.4551427578 |
+| cash_ratio | 0.2481408912 |
+| quick_ratio | 0.9671170104 |
+| current_ratio | 1.1830763654 |
+| owners_equity | 0.2592038938 |
+| debt_per_equity | 0.3488278893 |
+| debt_to_equity | 1.466843485 |
+| roe | -0.0030829602 |
+| roa | -0.0013350226 |
+| day_sale_outstanding | 31.4636285534 |
+| days_inventory_outstanding | 245.1021713765 |
+| days_payable_outstanding | 104.1291451508 |
+| gross_margin | 0.2529403795 |
+| ebit_margin | 0.0110533021 |
+| pre_tax_profit_margin | -0.0034172042 |
+| after_tax_profit_margin | -0.0093303295 |
+| asset_turnover | 0.1429155878 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 126528000000.0 |
+| ebitda | 3810703000000.0 |
+| roic | 0.0026112134 |
+| cash_cycle | 889.156047094 |
+| fixed_asset_turnover | 0.3342579556 |
+| financial_leverage | 1.466843485 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 |  580500 | -27.0%     | 0.032%         |
-| 2026-05-05 | 2036700 | +156.0%    | 0.114%         |
-| 2026-05-06 | 1322600 | +66.2%     | 0.074%         |
-| 2026-05-07 | 1519200 | +91.0%     | 0.085%         |
-| 2026-05-08 |  480300 | -39.6%     | 0.027%         |
+| 2026-05-04 |  580500 | -27.8%     | 0.032%         |
+| 2026-05-05 | 2036700 | +153.3%    | 0.114%         |
+| 2026-05-06 | 1322600 | +64.5%     | 0.074%         |
+| 2026-05-07 | 1519200 | +88.9%     | 0.085%         |
+| 2026-05-08 |  995600 | +23.8%     | 0.056%         |
 
-- KL trung bình 60 phiên: **795,578**
+- KL trung bình 60 phiên: **804,166**
 - Số CP lưu hành: **1,793,300,377**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                       | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| VPL: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026 và Thông báo thay đổi nhân sự                    | 2026-04-28T15:18:14     | /2026/04/vpl-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-thong-bao-thay-doi-nhan-su-737-1434712.htm          |
-| VPL: BCTC quý 1 năm 2026                                                                                    | 2026-04-28T00:00:00     | /2026/04/vpl-bctc-quy-1-nam-2026-737-1434996.htm                                                                          |
-| VPL: BCTC Hợp nhất quý 1 năm 2026                                                                           | 2026-04-28T00:00:00     | /2026/04/vpl-bctc-hop-nhat-quy-1-nam-2026-737-1434997.htm                                                                 |
-| Vingroup muốn lãi 35 ngàn tỷ, gấp 3 lần năm ngoái                                                           | 2026-04-21T16:54:24.793 | /2026/04/vingroup-muon-lai-35-ngan-ty-gap-3-lan-nam-ngoai-737-1431325.htm                                                 |
-| VPL: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                         | 2026-04-17T19:06:25     | /2026/04/vpl-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429638.htm                                               |
-| Phân tích kỹ thuật phiên chiều 16/04: Sự tích cực kéo dài                                                   | 2026-04-16T13:12:00     | /2026/04/phan-tich-ky-thuat-phien-chieu-1604-su-tich-cuc-keo-dai-585-1428452.htm                                          |
-| VPL: Nghị quyết HĐQT thông qua việc chấm dứt hoạt động của Chi nhánh Củ Chi                                 | 2026-04-06T17:04:57     | /2026/04/vpl-nghi-quyet-hdqt-thong-qua-viec-cham-dut-hoat-dong-cua-chi-nhanh-cu-chi-737-1423593.htm                       |
-| VPL: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026 và phê duyệt chương trình, tài liệu họp | 2026-04-06T17:01:20     | /2026/04/vpl-nghi-quyet-hdqt-ve-viec-to-chuc-hop-dhdcd-thuong-nien-nam-2026-va-phe-duyet-chuong-trinh-tai-lieu-hop-737-1… |
-| VPL: Báo cáo thường niên năm 2025                                                                           | 2026-03-31T17:33:03     | /2026/03/vpl-bao-cao-thuong-nien-nam-2025-737-1419927.htm                                                                 |
-| VPL: Giải trình BCTC kiểm toán năm 2025                                                                     | 2026-03-11T17:10:10     | /2026/03/vpl-giai-trinh-bctc-kiem-toan-nam-2025-737-1411076.htm                                                           |
+| news_title                                                                                                  | public_date         | news_source_link   |
+|:------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| VPL: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026 và Thông báo thay đổi nhân sự                    | 2026-04-28T15:18:14 |                    |
+| VPL: Điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                                         | 2026-04-17T19:01:34 |                    |
+| VPL: Nghị quyết HĐQT thông qua việc chấm dứt hoạt động của Chi nhánh Củ Chi                                 | 2026-04-06T17:02:37 |                    |
+| VPL: CBTT về việc chấm dứt hoạt động của Chi nhánh Củ Chi                                                   | 2026-04-06T17:02:00 |                    |
+| VPL: Nghị quyết HĐQT về việc tổ chức họp ĐHĐCĐ thường niên năm 2026 và phê duyệt chương trình, tài liệu họp | 2026-04-06T17:01:20 |                    |
+| VPL: CBTT về cuộc họp và tài liệu ĐHĐCĐ thường niên năm 2026                                                | 2026-04-06T17:01:00 |                    |
+| VPL: Báo cáo thường niên năm 2025                                                                           | 2026-03-31T17:33:03 |                    |
+| VPL: Giải trình BCTC kiểm toán năm 2025                                                                     | 2026-03-11T17:10:10 |                    |
+| VPL: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2026                                 | 2026-03-11T10:41:45 |                    |
+| VPL: CBTT về nội dung các Nghị quyết HĐQT ngày 28/02/2026                                                   | 2026-03-02T13:48:48 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-11T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
+| 2025-12-18T00:00:00 | nan                 | nan                 |
+| 2025-05-06T00:00:00 | nan                 | nan                 |
+| 2025-02-27T00:00:00 | 2025-03-17T00:00:00 | 2025-03-14T00:00:00 |
+| 2025-01-02T00:00:00 | 2025-01-10T00:00:00 | 2025-01-09T00:00:00 |
+| 2024-02-29T00:00:00 | 2024-02-29T00:00:00 | 2024-02-29T00:00:00 |
+| 2024-02-29T00:00:00 | 2024-02-29T00:00:00 | 2024-02-29T00:00:00 |
+| 2023-12-22T00:00:00 | 2023-12-22T00:00:00 | 2023-12-22T00:00:00 |
+| 2023-11-27T00:00:00 | 2023-11-27T00:00:00 | 2023-11-27T00:00:00 |
+| 2023-07-31T00:00:00 | 2023-07-31T00:00:00 | 2023-07-31T00:00:00 |
+| 2023-07-21T00:00:00 | 2023-07-21T00:00:00 | 2023-07-21T00:00:00 |
+| 2023-05-10T00:00:00 | 2023-05-10T00:00:00 | 2023-05-10T00:00:00 |
+| 2022-01-27T00:00:00 | 2022-01-27T00:00:00 | 2022-01-27T00:00:00 |
+| 2021-07-19T00:00:00 | 2021-07-19T00:00:00 | 2021-07-19T00:00:00 |
+| 2021-07-07T00:00:00 | 2021-07-07T00:00:00 | 2021-07-07T00:00:00 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Dịch vụ lưu trú, ăn uống, giải trí |
+| % Ngành hôm nay | +0.37% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | -0.37% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -214,22 +303,22 @@ _Không có dữ liệu_
 | VPL      | 2026-05-05 00:00:00 |   84.1 |   90.3 |  84   |    88   |  2036700 |
 | VPL      | 2026-05-06 00:00:00 |   89   |   92   |  89   |    90   |  1322600 |
 | VPL      | 2026-05-07 00:00:00 |   91   |   92   |  88   |    91.5 |  1519200 |
-| VPL      | 2026-05-08 00:00:00 |   92   |   92   |  89   |    90.7 |   480300 |
+| VPL      | 2026-05-08 00:00:00 |   92   |   92   |  89   |    91.5 |   995600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VPL      | 2026-05-08 13:16:29 |    89.9 |      100 | Buy          | 472236626 |
-| VPL      | 2026-05-08 13:16:31 |    89.9 |      100 | Buy          | 472236863 |
-| VPL      | 2026-05-08 13:16:48 |    89.9 |      300 | Buy          | 472238003 |
-| VPL      | 2026-05-08 13:16:48 |    89.9 |      100 | Buy          | 472238002 |
-| VPL      | 2026-05-08 13:16:49 |    89.9 |      100 | Buy          | 472238023 |
-| VPL      | 2026-05-08 13:16:54 |    89.9 |      100 | Buy          | 472238383 |
-| VPL      | 2026-05-08 13:16:58 |    89.9 |      100 | Buy          | 472238671 |
-| VPL      | 2026-05-08 13:17:00 |    89.9 |     1000 | Sell         | 472238728 |
-| VPL      | 2026-05-08 13:17:14 |    90   |      300 | Buy          | 472239705 |
-| VPL      | 2026-05-08 13:17:19 |    90   |      500 | Buy          | 472239967 |
+| VPL      | 2026-05-08 14:24:05 |    89.6 |     1300 | Sell         | 472535943 |
+| VPL      | 2026-05-08 14:24:05 |    89.5 |      400 | Sell         | 472535947 |
+| VPL      | 2026-05-08 14:24:05 |    89.5 |     3500 | Sell         | 472535944 |
+| VPL      | 2026-05-08 14:24:05 |    89.5 |      100 | Sell         | 472535945 |
+| VPL      | 2026-05-08 14:24:05 |    89.5 |     1000 | Sell         | 472535946 |
+| VPL      | 2026-05-08 14:24:18 |    89.6 |      100 | Sell         | 472536734 |
+| VPL      | 2026-05-08 14:24:28 |    89.5 |     1000 | Sell         | 472537473 |
+| VPL      | 2026-05-08 14:24:28 |    89.5 |      100 | Sell         | 472537467 |
+| VPL      | 2026-05-08 14:24:28 |    89.6 |      100 | Sell         | 472537463 |
+| VPL      | 2026-05-08 14:24:28 |    89.5 |     1600 | Sell         | 472537464 |
 
 <!-- END:DAILY -->
 

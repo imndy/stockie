@@ -1,6 +1,6 @@
 # BCM — Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 08/05/2026 13:02  |  🗂 Quarterly: 03/05/2026 13:56
+> 📅 Daily: 08/05/2026 21:53  |  🗂 Quarterly: 03/05/2026 13:56
 
 ---
 
@@ -10,118 +10,204 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BCM |
-| exchange | HOSE |
-| market_cap | 54855000000000 |
-| 52w_high | 78638 |
-| 52w_high_date | 2026-01-20 |
-| 52w_low | 50500 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 0.9338 |
-| dividend | 1100 |
-| beta | 0.77 |
-| eps | 3285 |
-| eps_forward | 14.233585397514187 |
-| bvps | 21718 |
-| pe | 16.25 |
-| pb | 2.46 |
-| price_chg_1m | -3.64 |
-| price_chg_ytd | -10.14 |
-| price_chg_1m_rank | 8.50 |
-| price_chg_ytd_rank | 49.61 |
-| yield | 0.020754716981132074 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | BIDC |
+| current_price | 53400.0 |
+| market_cap | 55269000000000.0 |
+| number_of_shares_mkt_cap | 1035000000.0 |
+| ticker | BCM |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | Becamex Investment And Industrial Development Group |
+| en_organ_short_name | Becamex Group |
+| vi_organ_name | Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP |
+| vi_organ_short_name | Becamex Group |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Real Estate |
+| sector_vn | Bất động sản |
+| average_match_value1_month | 26422852715.789474 |
+| average_match_volume1_month | 480029.0 |
+| highest_price1_year | 82277.0 |
+| lowest_price1_year | 49750.0 |
+| foreigner_percentage | 0.00933688 |
+| maximum_foreign_percentage | 0.34 |
+| state_percentage | 0.95440077 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Becamex Investment And Industrial Development Group (BCM), formerly known&nbsp;as&nbsp;Ben Cat General Trade C… |
+| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Tập đo&agrave;n Đầu tư v&agrave; Ph&aacute;t triển C&ocirc;ng nghiệp Becamex - CTCP (BCM)… |
+| in_cu | False |
+| icb_code_lv2 | 8600 |
+| icb_code_lv4 | 8633 |
+| free_float | 41400000 |
+| free_float_percentage | 0.04 |
+| listing_date | 2018-02-21T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 53.2 |
-| MA5 | 53.42 |
-| MA10 | 53.76 |
-| EMA20 | 54.199 |
-| EMA50 | 56.164 |
-| Slope MA20 (5p, %) | -0.93 |
-| ATR(14) | 1.291 |
-| RSI(14) | 41.7 |
+| Giá đóng cửa | 53.0 |
+| MA5 | 53.38 |
+| MA10 | 53.74 |
+| EMA20 | 54.18 |
+| EMA50 | 56.157 |
+| Slope MA20 (5p, %) | -0.97 |
+| ATR(14) | 1.305 |
+| RSI(14) | 40.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.617 |
-| MACD Signal | -0.569 |
-| MACD Histogram | -0.048 |
+| MACD | -0.633 |
+| MACD Signal | -0.572 |
+| MACD Histogram | -0.06 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 781864 |
+| KL avg 60 phiên | 785238 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     57.6  | 1.38        | 1             |
-| 🔴 Kháng cự    |     57.51 | 0.6         | 1             |
-| 🔴 Kháng cự    |     56.5  | 1.31        | 1             |
-| ▶ Giá hiện tại |     53.2  | —           | —             |
-| 🟢 Hỗ trợ      |     52.8  | 1.44        | 1             |
-| 🟢 Hỗ trợ      |     52    | 1.28        | 1             |
-| 🟢 Hỗ trợ      |     49.75 | 1.17        | 1             |
+| 🔴 Kháng cự     |     57.6  | 1.38        | 1             |
+| 🔴 Kháng cự     |     57.51 | 0.6         | 1             |
+| 🔴 Kháng cự     |     56.5  | 1.31        | 1             |
+| ▶ Giá hiện tại |     53    | —           | —             |
+| 🟢 Hỗ trợ       |     52    | 1.28        | 1             |
+| 🟢 Hỗ trợ       |     49.75 | 1.17        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BCM |
-| pe | 16.25 |
-| pb | 2.46 |
-| roe | 15.98 |
-| roe_pct_rank | 60 |
-| roa | 5.83 |
-| roa_pct_rank | 53 |
-| eps | 3285 |
-| bvps | 21718 |
-| beta | 0.77 |
-| dividend | 1100 |
-| yield | 0.020754716981132074 |
-| pe_pct_rank | 58 |
-| pb_pct_rank | 86 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 4 |
+| ratio_ttm_id | 2717455 |
+| ratio_type | RATIO_TTM |
+| organ_code | BIDC |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 1012581100 |
+| market_cap | 23825020701900.0 |
+| dividend_yield | 0.0 |
+| pe | 10.7765969078 |
+| pb | 1.927321047 |
+| ps | 3.6258227268 |
+| price_to_cash_flow | 36.1287905646 |
+| ev_to_ebitda | 19.4106322193 |
+| cash_ratio | 0.1166284483 |
+| quick_ratio | 0.4016290088 |
+| current_ratio | 1.3779532234 |
+| owners_equity | 0.6753638925 |
+| debt_per_equity | 1.4526580299 |
+| debt_to_equity | 2.3393764138 |
+| roe | 0.1814585306 |
+| roa | 0.045890196 |
+| day_sale_outstanding | 332.3839245895 |
+| days_inventory_outstanding | 2689.0182968826 |
+| days_payable_outstanding | 184.5318571328 |
+| gross_margin | 0.4988694078 |
+| ebit_margin | 0.3140046982 |
+| pre_tax_profit_margin | 0.3970422776 |
+| after_tax_profit_margin | 0.3578765697 |
+| asset_turnover | 0.1363939116 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 2063302317464.0 |
+| ebitda | 2286353148413.0 |
+| roic | 0.0621740363 |
+| cash_cycle | 3157.7958199364 |
+| fixed_asset_turnover | 3.9566516889 |
+| financial_leverage | 2.3393764138 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 272700 | -65.1%     | 0.026%         |
-| 2026-05-05 | 182000 | -76.7%     | 0.018%         |
-| 2026-05-06 | 176900 | -77.4%     | 0.017%         |
-| 2026-05-07 | 241000 | -69.2%     | 0.023%         |
-| 2026-05-08 | 141800 | -81.9%     | 0.014%         |
+| 2026-05-04 | 272700 | -65.3%     | 0.026%         |
+| 2026-05-05 | 182000 | -76.8%     | 0.018%         |
+| 2026-05-06 | 176900 | -77.5%     | 0.017%         |
+| 2026-05-07 | 241000 | -69.3%     | 0.023%         |
+| 2026-05-08 | 344200 | -56.2%     | 0.033%         |
 
-- KL trung bình 60 phiên: **781,864**
+- KL trung bình 60 phiên: **785,237**
 - Số CP lưu hành: **1,035,000,000**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime         | url                                                                                                                 |
-|:--------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------|
-| BCM: Nghị quyết HĐQT về việc chốt DSCĐ tổ chức ĐHĐCĐTN 2026                                 | 2026-05-05T14:00:08 | /2026/05/bcm-nghi-quyet-hdqt-ve-viec-chot-dscd-to-chuc-dhdcdtn-2026-737-1437831.htm                                 |
-| Mảng trụ cột hụt hơi, lợi nhuận BCM về thấp nhất 8 quý                                      | 2026-05-03T09:32:00 | /2026/05/mang-tru-cot-hut-hoi-loi-nhuan-bcm-ve-thap-nhat-8-quy-737-1436370.htm                                      |
-| BCM: BCTC Hợp nhất quý 1 năm 2026                                                           | 2026-04-30T00:00:00 | /2026/04/bcm-bctc-hop-nhat-quy-1-nam-2026-737-1437070.htm                                                           |
-| BCM: BCTC quý 1 năm 2026                                                                    | 2026-04-30T00:00:00 | /2026/04/bcm-bctc-quy-1-nam-2026-737-1437122.htm                                                                    |
-| BCM: Nghị quyết HĐQT về việc gia hạn thời gian tổ chức ĐHĐCĐ TN năm 2026                    | 2026-04-22T13:59:47 | /2026/04/bcm-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-to-chuc-dhdcd-tn-nam-2026-737-1431877.htm                    |
-| BCM: Báo cáo thường niên năm 2025                                                           | 2026-04-21T10:29:31 | /2026/04/bcm-bao-cao-thuong-nien-nam-2025-737-1431106.htm                                                           |
-| BCM: Báo cáo phát triển bền vững năm 2025                                                   | 2026-04-20T17:08:20 | /2026/04/bcm-bao-cao-phat-trien-ben-vung-nam-2025-830-1430668.htm                                                   |
-| BCM: BCTC năm 2025                                                                          | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-nam-2025-737-1420941.htm                                                                          |
-| BCM: BCTC Hợp nhất năm 2025                                                                 | 2026-03-31T00:00:00 | /2026/03/bcm-bctc-hop-nhat-nam-2025-737-1420942.htm                                                                 |
-| BCM: Nghị quyết HĐQT về việc góp vốn điều lệ ban đầu thành lập Công ty TNHH MTV WTC Becamex | 2026-03-06T16:09:17 | /2026/03/bcm-nghi-quyet-hdqt-ve-viec-gop-von-dieu-le-ban-dau-thanh-lap-cong-ty-tnhh-mtv-wtc-becamex-737-1409258.htm |
+| news_title                                                                                  | public_date         | news_source_link   |
+|:--------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| BCM: Nghị quyết HĐQT về việc chốt DSCĐ tổ chức ĐHĐCĐTN 2026                                 | 2026-05-05T14:00:08 |                    |
+| BCM: Nghị quyết HĐQT về việc gia hạn thời gian tổ chức ĐHĐCĐ TN năm 2026                    | 2026-04-22T13:59:47 |                    |
+| BCM: Báo cáo thường niên năm 2025                                                           | 2026-04-21T10:29:31 |                    |
+| BCM: Báo cáo phát triển bền vững năm 2025                                                   | 2026-04-20T17:08:20 |                    |
+| BCM: Nghị quyết HĐQT về việc góp vốn điều lệ ban đầu thành lập Công ty TNHH MTV WTC Becamex | 2026-03-06T16:09:17 |                    |
+| BCM: CBTT hoàn thành nghĩa vụ thuế                                                          | 2026-02-12T15:18:19 |                    |
+| BCM: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2024 bằng tiền                  | 2026-02-06T16:11:39 |                    |
+| Becamex IDC (BCM) chia cổ tức 11% bằng tiền mặt, lợi nhuận 2025 vượt hơn 42% kế hoạch       | 2026-02-03T15:43:00 |                    |
+| BCM: Nghị quyết HĐQT về việc chi trả cổ tức năm 2024                                        | 2026-02-02T14:14:56 |                    |
+| BCM: Báo cáo tình hình quản trị công ty năm 2025                                            | 2026-01-30T18:48:59 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-02-06T00:00:00 | 2026-02-13T00:00:00 | 2026-02-12T00:00:00 |
+| 2025-07-03T00:00:00 | nan                 | nan                 |
+| 2025-04-02T00:00:00 | 2025-04-14T00:00:00 | 2025-04-11T00:00:00 |
+| 2025-02-12T00:00:00 | nan                 | nan                 |
+| 2024-10-21T00:00:00 | 2024-11-05T00:00:00 | 2024-11-04T00:00:00 |
+| 2024-05-09T00:00:00 | 2024-05-27T00:00:00 | 2024-05-24T00:00:00 |
+| 2023-12-26T00:00:00 | nan                 | nan                 |
+| 2023-11-23T00:00:00 | nan                 | nan                 |
+| 2023-11-22T00:00:00 | nan                 | nan                 |
+| 2023-11-14T00:00:00 | 2023-11-29T00:00:00 | 2023-11-28T00:00:00 |
+| 2023-10-30T00:00:00 | nan                 | nan                 |
+| 2023-05-12T00:00:00 | 2023-05-29T00:00:00 | 2023-05-26T00:00:00 |
+| 2022-09-30T00:00:00 | 2022-10-10T00:00:00 | 2022-10-07T00:00:00 |
+| 2022-09-28T00:00:00 | nan                 | nan                 |
+| 2022-09-27T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -0.75% |
+| RS (CP − Ngành) | -1.45% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +302,22 @@ _Không có dữ liệu_
 | BCM      | 2026-05-05 00:00:00 |  53.1  |  53.5  | 52.9  |   53.3  |   182000 |
 | BCM      | 2026-05-06 00:00:00 |  53.5  |  53.9  | 53.3  |   53.8  |   176900 |
 | BCM      | 2026-05-07 00:00:00 |  54.1  |  54.2  | 53.4  |   53.4  |   241000 |
-| BCM      | 2026-05-08 00:00:00 |  53.5  |  53.5  | 52.9  |   53.2  |   141800 |
+| BCM      | 2026-05-08 00:00:00 |  53.5  |  53.5  | 52.7  |   53    |   344200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060477 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060490 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060489 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060488 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      500 | Sell         | 472060487 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060486 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060485 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      500 | Sell         | 472060478 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      200 | Sell         | 472060483 |
-| BCM      | 2026-05-08 10:29:03 |      53 |      100 | Sell         | 472060482 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      100 | Sell         | 472421589 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      300 | Sell         | 472421601 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |     2000 | Sell         | 472421600 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      800 | Sell         | 472421599 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      100 | Sell         | 472421598 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      300 | Sell         | 472421597 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      200 | Sell         | 472421590 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      600 | Sell         | 472421595 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      100 | Sell         | 472421593 |
+| BCM      | 2026-05-08 13:59:15 |    52.7 |      500 | Sell         | 472421592 |
 
 <!-- END:DAILY -->
 

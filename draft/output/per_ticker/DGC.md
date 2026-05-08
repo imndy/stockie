@@ -1,6 +1,6 @@
 # DGC — CTCP Tập đoàn Hóa chất Đức Giang
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 13:05  |  🗂 Quarterly: 03/05/2026 14:01
+> 📅 Daily: 08/05/2026 21:54  |  🗂 Quarterly: 03/05/2026 14:01
 
 ---
 
@@ -10,122 +10,203 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DGC |
-| exchange | HOSE |
-| market_cap | 20166233730300 |
-| 52w_high | 103379 |
-| 52w_high_date | 2025-08-12 |
-| 52w_low | 49100 |
-| 52w_low_date | 2026-03-30 |
-| foreign_ownership | 6.5616 |
-| dividend | 3000 |
-| beta | 0.56 |
-| eps | 6940 |
-| eps_forward | 6.823372138361277 |
-| bvps | 41696 |
-| pe | 7.77 |
-| pb | 1.29 |
-| price_chg_1m | -4.67 |
-| price_chg_ytd | -39.89 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0.05649717514124294 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DGC |
+| current_price | 53900.0 |
+| market_cap | 20470056460700.0 |
+| number_of_shares_mkt_cap | 379778413.0 |
+| ticker | DGC |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 02-Mar-26 |
+| en_organ_name | Ducgiang Chemicals Group Joint Stock Company |
+| en_organ_short_name | Ducgiang Chemicals |
+| vi_organ_name | Công ty Cổ phần Tập đoàn Hóa chất Đức Giang |
+| vi_organ_short_name | Hóa chất Đức Giang |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Chemicals |
+| sector_vn | Hóa chất |
+| average_match_value1_month | 162792589742.10526 |
+| average_match_volume1_month | 2998892.0 |
+| highest_price1_year | 106253.0 |
+| lowest_price1_year | 48250.0 |
+| foreigner_percentage | 0.06478153 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | Han Nguyen |
+| upside_to_target_percent | 0.6920222635 |
+| dividend_per_share_tsr | 3000.0 |
+| projected_tsr_percentage | 0.7476808906 |
+| target_price | 91200.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Ducgiang Chemicals Group Joint Stock Company (DGC), formerly known as Duc Giang Chemicals Company,&nbsp;was&nb… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Tập đo&agrave;n H&oacute;a chất Đức Giang (DGC)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;n… |
+| in_cu | True |
+| icb_code_lv2 | 1300 |
+| icb_code_lv4 | 1357 |
+| free_float | 227867047 |
+| free_float_percentage | 0.5999999979 |
+| listing_date | 2014-08-26T00:00:00 |
+| prev_insight | {'targetPrice': 118000.0, 'rating': 'BUY', 'ratingAsOf': '07-Nov-25', 'analyst': 'Han Nguyen', 'version': '20260227'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 52.5 |
-| MA5 | 53.72 |
-| MA10 | 53.61 |
-| EMA20 | 54.325 |
-| EMA50 | 58.491 |
-| Slope MA20 (5p, %) | -0.75 |
-| ATR(14) | 2.284 |
-| RSI(14) | 42.9 |
+| Giá đóng cửa | 52.2 |
+| MA5 | 53.66 |
+| MA10 | 53.58 |
+| EMA20 | 54.296 |
+| EMA50 | 58.48 |
+| Slope MA20 (5p, %) | -0.8 |
+| ATR(14) | 2.298 |
+| RSI(14) | 42.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.32 |
-| MACD Signal | -1.732 |
-| MACD Histogram | 0.412 |
+| MACD | -1.344 |
+| MACD Signal | -1.737 |
+| MACD Histogram | 0.393 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 4911080 |
+| KL avg 60 phiên | 4953112 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    62.6   | 1.39        | 2             |
-| 🔴 Kháng cự    |    58.2   | 0.61        | 1             |
-| 🔴 Kháng cự    |    57.365 | 2.59        | 2             |
-| ▶ Giá hiện tại |    52.5   | —           | —             |
-| 🟢 Hỗ trợ      |    51.887 | 2.74        | 2             |
-| 🟢 Hỗ trợ      |    48.25  | 1.22        | 1             |
+| 🔴 Kháng cự     |    62.6   | 1.39        | 2             |
+| 🔴 Kháng cự     |    58.2   | 0.61        | 1             |
+| 🔴 Kháng cự     |    57.365 | 2.59        | 2             |
+| ▶ Giá hiện tại |    52.2   | —           | —             |
+| 🟢 Hỗ trợ       |    51.887 | 2.74        | 2             |
+| 🟢 Hỗ trợ       |    48.25  | 1.22        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DGC |
-| pe | 7.77 |
-| pb | 1.29 |
-| roe | 21.91 |
-| roe_pct_rank | 72 |
-| roa | 17.1 |
-| roa_pct_rank | 93 |
-| eps | 6940 |
-| bvps | 41696 |
-| beta | 0.56 |
-| dividend | 3000 |
-| yield | 0.05649717514124294 |
-| pe_pct_rank | 39 |
-| pb_pct_rank | 53 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698878 |
+| ratio_type | RATIO_TTM |
+| organ_code | DGC |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 50008002 |
+| market_cap | 1825292073000.0 |
+| dividend_yield | 0.0 |
+| pe | 7.8190648874 |
+| pb | 2.696486329 |
+| ps | 0.7755695816 |
+| price_to_cash_flow | 20.4394107995 |
+| ev_to_ebitda | 9.6985077803 |
+| cash_ratio | 0.6144519814 |
+| quick_ratio | 2.4864032413 |
+| current_ratio | 3.0483647585 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.0074838938 |
+| debt_to_equity | 0.110404904 |
+| roe | 0.208371873 |
+| roa | 0.1569122878 |
+| day_sale_outstanding | 37.0229668898 |
+| days_inventory_outstanding | 18.5015684059 |
+| days_payable_outstanding | 25.5427924953 |
+| gross_margin | 0.1302022282 |
+| ebit_margin | 0.0617908813 |
+| pre_tax_profit_margin | 0.1213233881 |
+| after_tax_profit_margin | 0.1128615541 |
+| asset_turnover | 1.5819353111 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 145423967767.0 |
+| ebitda | 183990821389.0 |
+| roic | 0.2132338515 |
+| cash_cycle | 94.0352801761 |
+| fixed_asset_turnover | 7.0445846796 |
+| financial_leverage | 0.110404904 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 1030600 | -79.0%     | 0.271%         |
-| 2026-05-05 | 1564200 | -68.1%     | 0.412%         |
-| 2026-05-06 | 5766700 | +17.4%     | 1.518%         |
-| 2026-05-07 | 3649000 | -25.7%     | 0.961%         |
-| 2026-05-08 | 2061000 | -58.0%     | 0.543%         |
+| 2026-05-04 | 1030600 | -79.2%     | 0.271%         |
+| 2026-05-05 | 1564200 | -68.4%     | 0.412%         |
+| 2026-05-06 | 5766700 | +16.4%     | 1.518%         |
+| 2026-05-07 | 3649000 | -26.3%     | 0.961%         |
+| 2026-05-08 | 4582900 | -7.5%      | 1.207%         |
 
-- KL trung bình 60 phiên: **4,911,080**
+- KL trung bình 60 phiên: **4,953,111**
 - Số CP lưu hành: **379,778,413**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime            | url                                                                                                              |
-|:-----------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------|
-| DGC bị loại khỏi VN30, BSR thay thế                                                      | 2026-05-07T20:21:20.25 | /2026/05/dgc-bi-loai-khoi-vn30-bsr-thay-the-830-1439738.htm                                                      |
-| DGC: Biên bản họp nhóm và Giấy đề cử Thành viên HĐQT                                     | 2026-05-07T15:23:52    | /2026/05/dgc-bien-ban-hop-nhom-va-giay-de-cu-thanh-vien-hdqt-214-1439449.htm                                     |
-| DGC vào diện kiểm soát, nguy cơ bị loại khỏi VN30?                                       | 2026-05-06T20:58:59.93 | /2026/05/dgc-vao-dien-kiem-soat-nguy-co-bi-loai-khoi-vn30-830-1439072.htm                                        |
-| DGC: Thông báo về việc xử lý vi phạm đối với cổ phiếu                                    | 2026-05-06T18:02:37    | /2026/05/dgc-thong-bao-ve-viec-xu-ly-vi-pham-doi-voi-co-phieu-830-1438935.htm                                    |
-| DGC: Quyết định về việc chuyển cổ phiếu từ diện cảnh báo sang diện kiểm soát             | 2026-05-06T18:02:36    | /2026/05/dgc-quyet-dinh-ve-viec-chuyen-co-phieu-tu-dien-canh-bao-sang-dien-kiem-soat-830-1438936.htm             |
-| DGC: Giải trình biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo       | 2026-05-04T18:01:33    | /2026/05/dgc-giai-trinh-bien-phap-va-lo-trinh-khac-phuc-tinh-trang-chung-khoan-bi-canh-bao-830-1437468.htm       |
-| Hóa chất Đức Giang kinh doanh ra sao sau khi Chủ tịch bị bắt?                            | 2026-05-04T17:00:00    | /2026/05/hoa-chat-duc-giang-kinh-doanh-ra-sao-sau-khi-chu-tich-bi-bat-737-1437197.htm                            |
-| DGC: Giải trình chênh lệch LNST quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-29T10:42:33    | /2026/04/dgc-giai-trinh-chenh-lech-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1435310.htm                      |
-| HOSE điều chỉnh danh mục cổ phiếu cơ sở cho CW, DGC bị loại                              | 2026-04-28T17:33:37.46 | /2026/04/hose-dieu-chinh-danh-muc-co-phieu-co-so-cho-cw-dgc-bi-loai-4308-1434563.htm                             |
-| DGC: Nghị quyết HĐQT thông qua việc gia hạn thời gian tổ chức họp ĐHĐCĐ thường niên 2026 | 2026-04-28T16:02:35    | /2026/04/dgc-nghi-quyet-hdqt-thong-qua-viec-gia-han-thoi-gian-to-chuc-hop-dhdcd-thuong-nien-2026-737-1434814.htm |
+| news_title                                                                                   | public_date         | news_source_link   |
+|:---------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DGC: Biên bản họp nhóm và Giấy đề cử Thành viên HĐQT                                         | 2026-05-07T15:23:00 |                    |
+| Cổ phiếu DGC bị chuyển sang diện kiểm soát từ ngày 13/5                                      | 2026-05-07T07:36:00 |                    |
+| DGC: Quyết định về việc chuyển cổ phiếu từ diện cảnh báo sang diện kiểm soát                 | 2026-05-06T17:56:24 |                    |
+| DGC: Thông báo về việc xử lý vi phạm đối với cổ phiếu                                        | 2026-05-06T17:55:03 |                    |
+| DGC: Giải trình biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo           | 2026-05-04T18:01:33 |                    |
+| DGC: Giải trình chênh lệch LNST quý 1/2026 so với cùng kỳ năm trước                          | 2026-04-29T10:38:36 |                    |
+| DGC: Nghị quyết HĐQT thông qua việc gia hạn thời gian tổ chức họp ĐHĐCĐ thường niên 2026     | 2026-04-28T16:02:35 |                    |
+| DGC thanh lý hợp đồng kiểm toán với PwC và giải trình việc cổ phiếu bị đưa vào diện cảnh báo | 2026-04-25T08:31:00 |                    |
+| DGC: CBTT thanh lý hợp đồng kiểm toán với PwC                                                | 2026-04-24T17:03:53 |                    |
+| Chậm nộp báo cáo tài chính năm 2025, DGC bị đưa vào diện cảnh báo                            | 2026-04-19T09:27:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-02T00:00:00 | 2026-04-10T00:00:00 | 2026-04-09T00:00:00 |
+| 2026-02-10T00:00:00 | nan                 | nan                 |
+| 2025-12-11T00:00:00 | 2025-12-25T00:00:00 | 2025-12-24T00:00:00 |
+| 2025-11-13T00:00:00 | nan                 | nan                 |
+| 2025-11-13T00:00:00 | nan                 | nan                 |
+| 2025-11-07T00:00:00 | nan                 | nan                 |
+| 2025-11-07T00:00:00 | nan                 | nan                 |
+| 2025-10-31T00:00:00 | nan                 | nan                 |
+| 2025-08-14T00:00:00 | nan                 | nan                 |
+| 2025-08-14T00:00:00 | nan                 | nan                 |
+| 2025-08-14T00:00:00 | nan                 | nan                 |
+| 2025-07-25T00:00:00 | nan                 | nan                 |
+| 2025-07-17T00:00:00 | nan                 | nan                 |
+| 2025-07-17T00:00:00 | nan                 | nan                 |
+| 2025-07-17T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | -2.04% |
-| RS (CP − Ngành) | -2.34% |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -3.15% |
+| RS (CP − Ngành) | -2.36% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -221,22 +302,22 @@ _Không có dữ liệu_
 | DGC      | 2026-05-05 00:00:00 |  53.1  |  53.3  | 52.6  |   53    |  1564200 |
 | DGC      | 2026-05-06 00:00:00 |  53.2  |  56.2  | 52.8  |   55.8  |  5766700 |
 | DGC      | 2026-05-07 00:00:00 |  54.8  |  55.8  | 53.9  |   53.9  |  3649000 |
-| DGC      | 2026-05-08 00:00:00 |  53.1  |  54.3  | 52.4  |   52.5  |  2061000 |
+| DGC      | 2026-05-08 00:00:00 |  53.1  |  54.3  | 52.2  |   52.2  |  4582900 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DGC      | 2026-05-08 13:03:42 |    52.5 |      700 | Buy          | 472192919 |
-| DGC      | 2026-05-08 13:03:42 |    52.5 |      500 | Buy          | 472192923 |
-| DGC      | 2026-05-08 13:03:42 |    52.5 |      600 | Buy          | 472192920 |
-| DGC      | 2026-05-08 13:03:42 |    52.5 |     2000 | Buy          | 472192921 |
-| DGC      | 2026-05-08 13:03:42 |    52.5 |      700 | Buy          | 472192922 |
-| DGC      | 2026-05-08 13:03:43 |    52.5 |      200 | Sell         | 472192960 |
-| DGC      | 2026-05-08 13:03:43 |    52.5 |      100 | Sell         | 472192959 |
-| DGC      | 2026-05-08 13:03:48 |    52.6 |      100 | Buy          | 472193247 |
-| DGC      | 2026-05-08 13:03:56 |    52.6 |     1000 | Buy          | 472193573 |
-| DGC      | 2026-05-08 13:04:07 |    52.6 |      100 | Buy          | 472194221 |
+| DGC      | 2026-05-08 14:25:50 |    52.4 |      800 | Buy          | 472544568 |
+| DGC      | 2026-05-08 14:25:50 |    52.4 |      200 | Buy          | 472544569 |
+| DGC      | 2026-05-08 14:25:51 |    52.4 |      500 | Buy          | 472544759 |
+| DGC      | 2026-05-08 14:25:52 |    52.4 |     3000 | Buy          | 472544920 |
+| DGC      | 2026-05-08 14:25:56 |    52.4 |      500 | Buy          | 472545212 |
+| DGC      | 2026-05-08 14:26:02 |    52.3 |      300 | Sell         | 472545853 |
+| DGC      | 2026-05-08 14:26:02 |    52.3 |      100 | Sell         | 472545854 |
+| DGC      | 2026-05-08 14:26:02 |    52.3 |      300 | Sell         | 472545855 |
+| DGC      | 2026-05-08 14:26:02 |    52.3 |      100 | Sell         | 472545856 |
+| DGC      | 2026-05-08 14:26:06 |    52.4 |      300 | Buy          | 472546193 |
 
 <!-- END:DAILY -->
 

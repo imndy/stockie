@@ -1,6 +1,6 @@
 # DPM — Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 13:06  |  🗂 Quarterly: 03/05/2026 14:02
+> 📅 Daily: 08/05/2026 21:55  |  🗂 Quarterly: 03/05/2026 14:02
 
 ---
 
@@ -10,27 +10,48 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DPM |
-| exchange | HOSE |
-| market_cap | 17678050546000 |
-| 52w_high | 34000 |
-| 52w_high_date | 2026-03-12 |
-| 52w_low | 18467 |
-| 52w_low_date | 2025-05-30 |
-| foreign_ownership | 5.1927 |
-| dividend | 1500 |
-| beta | 0.29 |
-| eps | 2307 |
-| eps_forward | 25.999740002599975 |
-| bvps | 17379 |
-| pe | 11.27 |
-| pb | 1.50 |
-| price_chg_1m | -10.03 |
-| price_chg_ytd | 37.29 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0.057692307692307696 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DPM |
+| current_price | 26000.0 |
+| market_cap | 17678050546000.0 |
+| number_of_shares_mkt_cap | 679925021.0 |
+| ticker | DPM |
+| tag | None |
+| rating | M-PF |
+| rating_as_of | 10-Mar-26 |
+| en_organ_name | Petrovietnam Fertilizer and Chemicals Corporation |
+| en_organ_short_name | Petrovietnam Fertilizer and Chemicals |
+| vi_organ_name | Tổng Công ty Phân bón và Hóa chất Dầu khí - Công ty Cổ phần |
+| vi_organ_short_name | Tổng Công ty Phân bón và Hóa chất Dầu khí |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Chemicals |
+| sector_vn | Hóa chất |
+| average_match_value1_month | 115439072060.52632 |
+| average_match_volume1_month | 4165004.0 |
+| highest_price1_year | 35800.0 |
+| lowest_price1_year | 18233.0 |
+| foreigner_percentage | 0.05190964 |
+| maximum_foreign_percentage | 0.5 |
+| state_percentage | 0.59587103 |
+| analyst | Tuan Do |
+| upside_to_target_percent | 0.2 |
+| dividend_per_share_tsr | 1200.0 |
+| projected_tsr_percentage | 0.2461538462 |
+| target_price | 31200.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Petrovietnam Fertilizer and Chemicals Corporation (DPM), formerly known as PetroVietnam Fertilizer and Ch… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tổng C&ocirc;ng ty Ph&acirc;n b&oacute;n v&agrave; H&oacute;a chất Dầu kh&iacute; (DPM)&nbsp;c&oacute; tiền th… |
+| in_cu | True |
+| icb_code_lv2 | 1300 |
+| icb_code_lv4 | 1357 |
+| free_float | 271970008 |
+| free_float_percentage | 0.3999999994 |
+| listing_date | 2007-11-05T00:00:00 |
+| prev_insight | {'targetPrice': 25300.0, 'rating': 'O-PF', 'ratingAsOf': '29-Jan-26', 'analyst': 'Tuan Do', 'version': '20260310'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -42,7 +63,7 @@
 | EMA20 | 27.288 |
 | EMA50 | 27.645 |
 | Slope MA20 (5p, %) | -2.57 |
-| ATR(14) | 0.992 |
+| ATR(14) | 0.999 |
 | RSI(14) | 37.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
@@ -52,82 +73,143 @@
 | MACD Signal | -0.619 |
 | MACD Histogram | -0.17 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 9186057 |
+| KL avg 60 phiên | 9215945 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    29.7   | 1.32        | 1             |
-| 🔴 Kháng cự    |    27.84  | 2.44        | 2             |
-| 🔴 Kháng cự    |    26.35  | 0.78        | 1             |
+| 🔴 Kháng cự     |    29.7   | 1.32        | 1             |
+| 🔴 Kháng cự     |    27.84  | 2.44        | 2             |
+| 🔴 Kháng cự     |    26.35  | 0.78        | 1             |
 | ▶ Giá hiện tại |    25.85  | —           | —             |
-| 🟢 Hỗ trợ      |    25.613 | 1.6         | 2             |
-| 🟢 Hỗ trợ      |    25.5   | 2.86        | 2             |
-| 🟢 Hỗ trợ      |    22.85  | 0.8         | 1             |
+| 🟢 Hỗ trợ       |    25.613 | 1.6         | 2             |
+| 🟢 Hỗ trợ       |    25.5   | 2.86        | 2             |
+| 🟢 Hỗ trợ       |    22.85  | 0.8         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DPM |
-| pe | 11.27 |
-| pb | 1.50 |
-| roe | 9.65 |
-| roe_pct_rank | 46 |
-| roa | 6.26 |
-| roa_pct_rank | 54 |
-| eps | 2307 |
-| bvps | 17379 |
-| beta | 0.29 |
-| dividend | 1500 |
-| yield | 0.057692307692307696 |
-| pe_pct_rank | 47 |
-| pb_pct_rank | 59 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2697868 |
+| ratio_type | RATIO_TTM |
+| organ_code | DPM |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 391334260 |
+| market_cap | 6965749828000.0 |
+| dividend_yield | 0.0 |
+| pe | 10.6917788849 |
+| pb | 0.8672078265 |
+| ps | 0.8598055345 |
+| price_to_cash_flow | 6.977619097 |
+| ev_to_ebitda | 6.8705199958 |
+| cash_ratio | 0.8274702193 |
+| quick_ratio | 1.5291692462 |
+| current_ratio | 2.2725461651 |
+| owners_equity | 0.0775572517 |
+| debt_per_equity | 0.0775572517 |
+| debt_to_equity | 0.3839476691 |
+| roe | 0.0793610497 |
+| roa | 0.061087251 |
+| day_sale_outstanding | 10.5181891005 |
+| days_inventory_outstanding | 83.3944924252 |
+| days_payable_outstanding | 29.2487412871 |
+| gross_margin | 0.2452933864 |
+| ebit_margin | 0.0773895002 |
+| pre_tax_profit_margin | 0.0982554798 |
+| after_tax_profit_margin | 0.0816818317 |
+| asset_turnover | 0.759626862 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 626974212093.0 |
+| ebitda | 828042104842.0 |
+| roic | 0.0708938089 |
+| cash_cycle | 131.9937251115 |
+| fixed_asset_turnover | 3.3607659288 |
+| financial_leverage | 0.3839476691 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 3474600 | -62.2%     | 0.511%         |
-| 2026-05-05 | 4425800 | -51.8%     | 0.651%         |
-| 2026-05-06 | 2049100 | -77.7%     | 0.301%         |
-| 2026-05-07 | 3729200 | -59.4%     | 0.548%         |
-| 2026-05-08 |  754100 | -91.8%     | 0.111%         |
+| 2026-05-04 | 3474600 | -62.3%     | 0.511%         |
+| 2026-05-05 | 4425800 | -52.0%     | 0.651%         |
+| 2026-05-06 | 2049100 | -77.8%     | 0.301%         |
+| 2026-05-07 | 3729200 | -59.5%     | 0.548%         |
+| 2026-05-08 | 2547400 | -72.4%     | 0.375%         |
 
-- KL trung bình 60 phiên: **9,186,056**
+- KL trung bình 60 phiên: **9,215,945**
 - Số CP lưu hành: **679,925,021**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                   | publishtime             | url                                                                                                           |
-|:----------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------|
-| DPM: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                      | 2026-05-05T13:56:50     | /2026/05/dpm-giai-trinh-bien-dong-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1437825.htm                    |
-| DPM báo lãi gấp đôi, hoàn thành hơn 60% kế hoạch lợi nhuận sau 1 quý                    | 2026-05-04T17:47:00     | /2026/05/dpm-bao-lai-gap-doi-hoan-thanh-hon-60-ke-hoach-loi-nhuan-sau-1-quy-737-1437222.htm                   |
-| DPM: Báo cáo tài chính HN và Cty mẹ quý 1/2026                                          | 2026-05-04T14:06:45     | /2026/05/dpm-bao-cao-tai-chinh-hn-va-cty-me-quy-1-2026-737-1437052.htm                                        |
-| DPM: BCTC quý 1 năm 2026                                                                | 2026-04-29T00:00:00     | /2026/04/dpm-bctc-quy-1-nam-2026-737-1437080.htm                                                              |
-| DPM: BCTC Hợp nhất quý 1 năm 2026                                                       | 2026-04-29T00:00:00     | /2026/04/dpm-bctc-hop-nhat-quy-1-nam-2026-737-1437081.htm                                                     |
-| DPM: Thông báo thay đổi nhân sự                                                         | 2026-04-28T15:40:27     | /2026/04/dpm-thong-bao-thay-doi-nhan-su-214-1434780.htm                                                       |
-| DPM: Sửa đổi, bổ sung Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT | 2026-04-24T17:36:28     | /2026/04/dpm-sua-doi-bo-sung-dieu-le-quy-che-noi-bo-ve-quan-tri-va-quy-che-hoat-dong-cua-hdqt-737-1433655.htm |
-| DPM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                  | 2026-04-24T17:12:16     | /2026/04/dpm-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433611.htm                                |
-| PVFCCo - Phú Mỹ đặt doanh thu 17,600 tỷ đồng và tăng tốc chuyển dịch xanh               | 2026-04-24T10:57:00     | /2026/04/pvfcco-phu-my-dat-doanh-thu-17600-ty-dong-va-tang-toc-chuyen-dich-xanh-737-1433125.htm               |
-| Phân tích kỹ thuật phiên chiều 20/04: Tăng trong thận trọng                             | 2026-04-20T13:04:16.947 | /2026/04/phan-tich-ky-thuat-phien-chieu-2004-tang-trong-than-trong-585-1430122.htm                            |
+| news_title                                                                                       | public_date         | news_source_link   |
+|:-------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DPM: Giải trình biến động KQKD quý 1/2026 so với cùng kỳ năm trước                               | 2026-05-05T13:56:50 |                    |
+| DPM: Báo cáo tài chính HN và Cty mẹ quý 1/2026                                                   | 2026-05-04T14:06:45 |                    |
+| DPM: Thông báo thay đổi nhân sự                                                                  | 2026-04-28T15:40:27 |                    |
+| DPM: Sửa đổi, bổ sung Điều lệ, Quy chế nội bộ về quản trị và Quy chế hoạt động của HĐQT          | 2026-04-24T17:36:00 |                    |
+| DPM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                           | 2026-04-24T17:04:42 |                    |
+| PVFCCo - Phú Mỹ (DPM) lợi nhuận quý I/2026 đột biến đạt 515 tỷ đồng, hoàn thành 61% kế hoạch năm | 2026-04-23T19:34:00 |                    |
+| DPM: Link công bố Báo cáo thường niên năm 2025                                                   | 2026-04-13T17:10:24 |                    |
+| DPM: Thông báo thay đổi nhân sự - Bổ nhiệm lại Phó Tổng Giám đốc                                 | 2026-04-10T15:10:16 |                    |
+| Phú Mỹ (DPM) đẩy mạnh xuất khẩu ure kỹ thuật, tận dụng cơ hội giá thế giới tăng cao              | 2026-04-08T20:46:00 |                    |
+| DPM: Công bố thông tin BCTC HN và Riêng năm 2025 đã kiểm toán                                    | 2026-03-26T17:10:05 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-13T00:00:00 | 2026-03-25T00:00:00 | 2026-03-24T00:00:00 |
+| 2025-09-22T00:00:00 | nan                 | nan                 |
+| 2025-09-11T00:00:00 | nan                 | nan                 |
+| 2025-07-23T00:00:00 | 2025-08-08T00:00:00 | 2025-08-07T00:00:00 |
+| 2025-07-10T00:00:00 | 2025-07-16T00:00:00 | 2025-07-15T00:00:00 |
+| 2025-04-23T00:00:00 | 2025-05-07T00:00:00 | 2025-05-06T00:00:00 |
+| 2025-03-05T00:00:00 | 2025-03-17T00:00:00 | 2025-03-14T00:00:00 |
+| 2024-08-15T00:00:00 | 2024-08-22T00:00:00 | 2024-08-21T00:00:00 |
+| 2024-02-22T00:00:00 | 2024-02-28T00:00:00 | 2024-02-27T00:00:00 |
+| 2023-08-29T00:00:00 | nan                 | nan                 |
+| 2023-08-29T00:00:00 | nan                 | nan                 |
+| 2023-08-29T00:00:00 | nan                 | nan                 |
+| 2023-08-15T00:00:00 | 2023-08-23T00:00:00 | 2023-08-22T00:00:00 |
+| 2023-06-22T00:00:00 | nan                 | nan                 |
+| 2023-06-22T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -0.30% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -0.58% |
+| RS (CP − Ngành) | +0.21% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -222,22 +304,22 @@ _Không có dữ liệu_
 | DPM      | 2026-05-05 00:00:00 |  26.2  |  26.6  | 25.75 |   26.55 |  4425800 |
 | DPM      | 2026-05-06 00:00:00 |  26.65 |  26.65 | 26.4  |   26.55 |  2049100 |
 | DPM      | 2026-05-07 00:00:00 |  26.55 |  26.7  | 25.95 |   26    |  3729200 |
-| DPM      | 2026-05-08 00:00:00 |  26    |  26.2  | 25.85 |   25.85 |   754100 |
+| DPM      | 2026-05-08 00:00:00 |  26    |  26.2  | 25.75 |   25.85 |  2547400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      100 | Sell         | 472184097 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |     1800 | Sell         | 472184123 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      100 | Sell         | 472184122 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |     5500 | Sell         | 472184121 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      100 | Sell         | 472184120 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      100 | Sell         | 472184118 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      100 | Sell         | 472184117 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |     1000 | Sell         | 472184116 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      200 | Sell         | 472184115 |
-| DPM      | 2026-05-08 13:01:25 |    25.9 |      500 | Sell         | 472184114 |
+| DPM      | 2026-05-08 14:25:12 |   25.85 |      900 | Sell         | 472540577 |
+| DPM      | 2026-05-08 14:25:37 |   25.85 |      200 | Sell         | 472543276 |
+| DPM      | 2026-05-08 14:25:44 |   25.9  |      500 | Buy          | 472543882 |
+| DPM      | 2026-05-08 14:26:01 |   25.85 |      100 | Sell         | 472545793 |
+| DPM      | 2026-05-08 14:26:01 |   25.85 |      100 | Sell         | 472545794 |
+| DPM      | 2026-05-08 14:26:01 |   25.85 |      100 | Sell         | 472545795 |
+| DPM      | 2026-05-08 14:26:01 |   25.85 |      200 | Sell         | 472545796 |
+| DPM      | 2026-05-08 14:26:01 |   25.85 |     7500 | Sell         | 472545797 |
+| DPM      | 2026-05-08 14:26:04 |   25.85 |      200 | Sell         | 472546004 |
+| DPM      | 2026-05-08 14:26:07 |   25.85 |      900 | Sell         | 472546315 |
 
 <!-- END:DAILY -->
 

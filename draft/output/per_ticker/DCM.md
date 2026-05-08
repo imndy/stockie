@@ -1,6 +1,6 @@
 # DCM — CTCP - Tổng công ty Phân bón Dầu khí Cà Mau
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 13:05  |  🗂 Quarterly: 03/05/2026 14:00
+> 📅 Daily: 08/05/2026 21:54  |  🗂 Quarterly: 03/05/2026 14:00
 
 ---
 
@@ -10,123 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DCM |
-| exchange | HOSE |
-| market_cap | 21414230000000 |
-| 52w_high | 50200 |
-| 52w_high_date | 2026-03-12 |
-| 52w_low | 31122 |
-| 52w_low_date | 2025-05-21 |
-| foreign_ownership | 9.7883 |
-| dividend | 2000 |
-| beta | 0.16 |
-| eps | 4364 |
-| eps_forward | 18.549275179174263 |
-| bvps | 21789 |
-| pe | 9.42 |
-| pb | 1.89 |
-| price_chg_1m | -10.61 |
-| price_chg_ytd | 25.96 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0.049443757725587144 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DCM |
+| current_price | 41100.0 |
+| market_cap | 21758340000000.0 |
+| number_of_shares_mkt_cap | 529400000.0 |
+| ticker | DCM |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 10-Mar-26 |
+| en_organ_name | PetroVietnam Ca Mau Fertilizer Corporation |
+| en_organ_short_name | PetroVietnam Camau Fertilizer |
+| vi_organ_name | Công ty Cổ phần - Tổng Công ty Phân bón Dầu Khí Cà Mau |
+| vi_organ_short_name | Đạm Cà Mau |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Chemicals |
+| sector_vn | Hóa chất |
+| average_match_value1_month | 165556686481.57895 |
+| average_match_volume1_month | 3753477.0 |
+| highest_price1_year | 52900.0 |
+| lowest_price1_year | 30932.0 |
+| foreigner_percentage | 0.09771163 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.7556159 |
+| analyst | Tuan Do |
+| upside_to_target_percent | 0.401459854 |
+| dividend_per_share_tsr | 2000.0 |
+| projected_tsr_percentage | 0.4501216545 |
+| target_price | 57600.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">PetroVietnam Ca Mau Fertilizer Corporation (DCM), formerly known&nbsp;as PetroVietnam Camau Fertilizer One-Mem… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần - Tổng C&ocirc;ng ty Ph&acirc;n b&oacute;n Dầu Kh&iacute; C&agrave; Mau (DCM) c&oac… |
+| in_cu | True |
+| icb_code_lv2 | 1300 |
+| icb_code_lv4 | 1357 |
+| free_float | 132350000 |
+| free_float_percentage | 0.25 |
+| listing_date | 2015-03-31T00:00:00 |
+| prev_insight | {'targetPrice': 41600.0, 'rating': 'BUY', 'ratingAsOf': '29-Jan-26', 'analyst': 'Tuan Do', 'version': '20260310'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 40.4 |
-| MA5 | 41.75 |
-| MA10 | 42.17 |
-| EMA20 | 43.192 |
-| EMA50 | 43.199 |
-| Slope MA20 (5p, %) | -2.26 |
-| ATR(14) | 1.847 |
-| RSI(14) | 38.4 |
+| Giá đóng cửa | 40.2 |
+| MA5 | 41.71 |
+| MA10 | 42.15 |
+| EMA20 | 43.173 |
+| EMA50 | 43.191 |
+| Slope MA20 (5p, %) | -2.31 |
+| ATR(14) | 1.865 |
+| RSI(14) | 37.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.005 |
-| MACD Signal | -0.642 |
-| MACD Histogram | -0.362 |
+| MACD | -1.02 |
+| MACD Signal | -0.645 |
+| MACD Histogram | -0.375 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 5565863 |
+| KL avg 60 phiên | 5596867 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     48    | 1.32        | 1             |
-| 🔴 Kháng cự    |     43    | 1.27        | 1             |
-| 🔴 Kháng cự    |     41.45 | 1.12        | 1             |
-| ▶ Giá hiện tại |     40.4  | —           | —             |
-| 🟢 Hỗ trợ      |     40.3  | 1.43        | 1             |
-| 🟢 Hỗ trợ      |     38.15 | 0.79        | 1             |
-| 🟢 Hỗ trợ      |     37.2  | 0.72        | 1             |
+| 🔴 Kháng cự     |     43    | 1.27        | 1             |
+| 🔴 Kháng cự     |     41.45 | 1.12        | 1             |
+| 🔴 Kháng cự     |     40.3  | 1.43        | 1             |
+| ▶ Giá hiện tại |     40.2  | —           | —             |
+| 🟢 Hỗ trợ       |     38.15 | 0.79        | 1             |
+| 🟢 Hỗ trợ       |     37.2  | 0.72        | 1             |
+| 🟢 Hỗ trợ       |     34.25 | 0.8         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DCM |
-| pe | 9.42 |
-| pb | 1.89 |
-| roe | 18.33 |
-| roe_pct_rank | 65 |
-| roa | 11.48 |
-| roa_pct_rank | 73 |
-| eps | 4364 |
-| bvps | 21789 |
-| beta | 0.16 |
-| dividend | 2000 |
-| yield | 0.049443757725587144 |
-| pe_pct_rank | 43 |
-| pb_pct_rank | 70 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698960 |
+| ratio_type | RATIO_TTM |
+| organ_code | DCM |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 529400000 |
+| market_cap | 5479290000000.0 |
+| dividend_yield | 0.0 |
+| pe | 8.9394815423 |
+| pb | 0.8606566732 |
+| ps | 0.9434988824 |
+| price_to_cash_flow | 4.1176317271 |
+| ev_to_ebitda | 4.591198862 |
+| cash_ratio | 0.259764418 |
+| quick_ratio | 1.623491025 |
+| current_ratio | 1.8640089221 |
+| owners_equity | 0.4982212608 |
+| debt_per_equity | 0.6617975692 |
+| debt_to_equity | 0.9297083076 |
+| roe | 0.0988488995 |
+| roa | 0.0488061236 |
+| day_sale_outstanding | 0.7930658029 |
+| days_inventory_outstanding | 36.9225886573 |
+| days_payable_outstanding | 34.2995719903 |
+| gross_margin | 0.220803244 |
+| ebit_margin | 0.1130717198 |
+| pre_tax_profit_margin | 0.1122869739 |
+| after_tax_profit_margin | 0.1060119475 |
+| asset_turnover | 0.462429208 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 656654454367.0 |
+| ebitda | 1964988202745.0 |
+| roic | 0.0617995355 |
+| cash_cycle | 98.7015599692 |
+| fixed_asset_turnover | 0.7581336676 |
+| financial_leverage | 0.9297083076 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 | 2910000 | -47.7%     | 0.550%         |
-| 2026-05-05 | 2580200 | -53.6%     | 0.487%         |
-| 2026-05-06 | 1296400 | -76.7%     | 0.245%         |
-| 2026-05-07 | 5118200 | -8.0%      | 0.967%         |
-| 2026-05-08 | 1534800 | -72.4%     | 0.290%         |
+| 2026-05-04 | 2910000 | -48.0%     | 0.550%         |
+| 2026-05-05 | 2580200 | -53.9%     | 0.487%         |
+| 2026-05-06 | 1296400 | -76.8%     | 0.245%         |
+| 2026-05-07 | 5118200 | -8.6%      | 0.967%         |
+| 2026-05-08 | 3395000 | -39.3%     | 0.641%         |
 
-- KL trung bình 60 phiên: **5,565,863**
+- KL trung bình 60 phiên: **5,596,866**
 - Số CP lưu hành: **529,400,000**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                           | publishtime            | url                                                                                                    |
-|:--------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------|
-| DCM: Thông báo thay đổi nhân sự                                                 | 2026-05-04T16:22:55    | /2026/05/dcm-thong-bao-thay-doi-nhan-su-214-1437271.htm                                                |
-| DCM: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 9                    | 2026-04-28T14:54:47    | /2026/04/dcm-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-9-737-1434830.htm                   |
-| DCM: BCTC quý 1 năm 2026                                                        | 2026-04-24T00:00:00    | /2026/04/dcm-bctc-quy-1-nam-2026-737-1434500.htm                                                       |
-| DCM: BCTC quý 1 năm 2026                                                        | 2026-04-24T00:00:00    | /2026/04/dcm-bctc-quy-1-nam-2026-737-1434501.htm                                                       |
-| DCM: Thông báo thay đổi nhân sự                                                 | 2026-04-23T17:33:42    | /2026/04/dcm-thong-bao-thay-doi-nhan-su-214-1432850.htm                                                |
-| DCM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                          | 2026-04-23T14:31:26    | /2026/04/dcm-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432589.htm                         |
-| DCM: Nghị quyết HĐQT về việc thông qua kế hoạch SXKD 05 năm giai đoạn 2026-2030 | 2026-04-22T17:58:11    | /2026/04/dcm-nghi-quyet-hdqt-ve-viec-thong-qua-ke-hoach-sxkd-05-nam-giai-doan-20262030-737-1432294.htm |
-| ĐHĐCĐ DCM: Lợi nhuận trước thuế quý 1 đạt 878 tỷ đồng                           | 2026-04-22T13:32:00    | /2026/04/dhdcd-dcm-loi-nhuan-truoc-thue-quy-1-dat-878-ty-dong-737-1431654.htm                          |
-| DCM: Cập nhật, điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                   | 2026-04-20T13:48:06    | /2026/04/dcm-cap-nhat-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1430176.htm                   |
-| DCM, HDB và SAB có triển vọng gì?                                               | 2026-04-20T12:29:08.79 | /2026/04/dcm-hdb-va-sab-co-trien-vong-gi-145-1430092.htm                                               |
+| news_title                                                                                         | public_date         | news_source_link   |
+|:---------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DCM: Thông báo thay đổi nhân sự                                                                    | 2026-05-04T16:22:55 |                    |
+| DCM: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 9                                       | 2026-04-28T14:54:47 |                    |
+| DCM: Thông báo thay đổi nhân sự                                                                    | 2026-04-23T17:33:42 |                    |
+| DCM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                             | 2026-04-23T14:31:26 |                    |
+| DCM: Nghị quyết HĐQT về việc thông qua kế hoạch SXKD 05 năm giai đoạn 2026-2030                    | 2026-04-22T17:53:55 |                    |
+| DCM: Cập nhật, điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                      | 2026-04-20T13:48:06 |                    |
+| DCM: Quyết định của HĐQT về việc thành lập Chi nhánh - Thương mại & Dịch vụ                        | 2026-04-13T18:03:56 |                    |
+| Phân bón Dầu khí Cà Mau (DCM) đặt kế hoạch lợi nhuận sau thuế 1.200 tỷ đồng, cổ tức 10% trong 2026 | 2026-03-24T17:54:00 |                    |
+| DCM: Thông báo họp ĐHĐCĐ thường niên 2026                                                          | 2026-03-23T16:28:25 |                    |
+| DCM: Tài liệu họp ĐHĐCĐ thường niên 2026                                                           | 2026-03-23T16:27:34 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-12T00:00:00 | nan                 | nan                 |
+| 2026-02-10T00:00:00 | 2026-03-12T00:00:00 | 2026-03-11T00:00:00 |
+| 2025-10-09T00:00:00 | nan                 | nan                 |
+| 2025-09-12T00:00:00 | 2025-09-26T00:00:00 | 2025-09-25T00:00:00 |
+| 2025-06-20T00:00:00 | 2025-06-30T00:00:00 | 2025-06-27T00:00:00 |
+| 2025-04-24T00:00:00 | 2025-05-08T00:00:00 | 2025-05-07T00:00:00 |
+| 2024-06-18T00:00:00 | 2024-06-25T00:00:00 | 2024-06-24T00:00:00 |
+| 2024-04-05T00:00:00 | 2024-04-19T00:00:00 | 2024-04-17T00:00:00 |
+| 2023-12-12T00:00:00 | nan                 | nan                 |
+| 2023-11-09T00:00:00 | 2023-11-23T00:00:00 | 2023-11-22T00:00:00 |
+| 2023-09-05T00:00:00 | nan                 | nan                 |
+| 2023-09-05T00:00:00 | nan                 | nan                 |
+| 2023-08-18T00:00:00 | 2023-08-30T00:00:00 | 2023-08-29T00:00:00 |
+| 2023-04-28T00:00:00 | 2023-05-11T00:00:00 | 2023-05-10T00:00:00 |
+| 2023-04-06T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | +0.30% |
-| % Cổ phiếu hôm nay | -1.58% |
-| RS (CP − Ngành) | -1.88% |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -2.19% |
+| RS (CP − Ngành) | -1.40% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -222,22 +304,22 @@ _Không có dữ liệu_
 | DCM      | 2026-05-05 00:00:00 |  42.5  |  42.95 | 41.2  |   42.6  |  2580200 |
 | DCM      | 2026-05-06 00:00:00 |  42.7  |  42.8  | 42.25 |   42.6  |  1296400 |
 | DCM      | 2026-05-07 00:00:00 |  42.5  |  42.5  | 41    |   41.1  |  5118200 |
-| DCM      | 2026-05-08 00:00:00 |  41.1  |  41.4  | 40.3  |   40.4  |  1534800 |
+| DCM      | 2026-05-08 00:00:00 |  41.1  |  41.4  | 40.05 |   40.2  |  3395000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DCM      | 2026-05-08 13:00:20 |   40.45 |      300 | Sell         | 472180244 |
-| DCM      | 2026-05-08 13:00:20 |   40.4  |     1000 | Sell         | 472180246 |
-| DCM      | 2026-05-08 13:00:26 |   40.4  |     1100 | Sell         | 472180435 |
-| DCM      | 2026-05-08 13:00:40 |   40.45 |     3000 | Buy          | 472180805 |
-| DCM      | 2026-05-08 13:00:40 |   40.45 |      100 | Buy          | 472180806 |
-| DCM      | 2026-05-08 13:00:44 |   40.45 |      500 | Sell         | 472180986 |
-| DCM      | 2026-05-08 13:00:44 |   40.45 |     1300 | Sell         | 472181018 |
-| DCM      | 2026-05-08 13:00:44 |   40.45 |      300 | Sell         | 472181019 |
-| DCM      | 2026-05-08 13:00:47 |   40.45 |     3100 | Sell         | 472181465 |
-| DCM      | 2026-05-08 13:00:56 |   40.45 |     1100 | Sell         | 472182141 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |     7100 | Sell         | 472548235 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |     2700 | Sell         | 472548247 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      300 | Sell         | 472548246 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      500 | Sell         | 472548242 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      200 | Sell         | 472548241 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      500 | Sell         | 472548236 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      100 | Sell         | 472548239 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      200 | Sell         | 472548237 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |      100 | Sell         | 472548240 |
+| DCM      | 2026-05-08 14:26:25 |   40.05 |     1000 | Sell         | 472548238 |
 
 <!-- END:DAILY -->
 

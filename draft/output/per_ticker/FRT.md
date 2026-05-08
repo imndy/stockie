@@ -1,6 +1,6 @@
 # FRT — CTCP Bán lẻ Kỹ thuật số FPT
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 08/05/2026 13:08  |  🗂 Quarterly: 03/05/2026 14:04
+> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:04
 
 ---
 
@@ -10,117 +10,204 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | FRT |
-| exchange | HOSE |
-| market_cap | 24523457040000 |
-| 52w_high | 175500 |
-| 52w_high_date | 2026-02-02 |
-| 52w_low | 123000 |
-| 52w_low_date | 2025-10-03 |
-| foreign_ownership | 32.1968 |
-| dividend | 0 |
-| beta | 0.81 |
-| eps | 5794 |
-| eps_forward | 16.00836786064699 |
-| bvps | 32377 |
-| pe | 25.15 |
-| pb | 4.50 |
-| price_chg_1m | -5.94 |
-| price_chg_ytd | 5.59 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | FPTR |
+| current_price | 145700.0 |
+| market_cap | 24812970074500.0 |
+| number_of_shares_mkt_cap | 170301785.0 |
+| ticker | FRT |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 13-Nov-25 |
+| en_organ_name | FPT Digital Retail Joint Stock Company |
+| en_organ_short_name | FPT Retail |
+| vi_organ_name | Công ty Cổ phần Bán lẻ Kỹ thuật số FPT |
+| vi_organ_short_name | Bán lẻ FPT |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Retail |
+| sector_vn | Bán lẻ |
+| average_match_value1_month | 48164452026.31579 |
+| average_match_volume1_month | 321694.0 |
+| highest_price1_year | 181000.0 |
+| lowest_price1_year | 122100.0 |
+| foreigner_percentage | 0.32172439 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.0 |
+| analyst | Ngan Ly |
+| upside_to_target_percent | 0.2271791352 |
+| dividend_per_share_tsr | 1000.0 |
+| projected_tsr_percentage | 0.2340425532 |
+| target_price | 178800.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">FPT Digital Retail Joint Stock Company (FRT), formerly known&nbsp;as FPT Retail Limited Company,&nbsp;was&nbsp… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ Phần B&aacute;n Lẻ Kỹ Thuật Số FPT (FRT)&nbsp;c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng … |
+| in_cu | True |
+| icb_code_lv2 | 5300 |
+| icb_code_lv4 | 5379 |
+| free_float | 93665981 |
+| free_float_percentage | 0.5499999956 |
+| listing_date | 2018-04-26T00:00:00 |
+| prev_insight | {'targetPrice': 165300.0, 'rating': 'BUY', 'ratingAsOf': '03-Sep-25', 'analyst': 'Ngan Ly', 'version': '20251113'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 144.0 |
-| MA5 | 146.88 |
-| MA10 | 147.2 |
-| EMA20 | 148.934 |
-| EMA50 | 151.631 |
-| Slope MA20 (5p, %) | -0.99 |
-| ATR(14) | 3.731 |
-| RSI(14) | 38.0 |
+| Giá đóng cửa | 145.0 |
+| MA5 | 147.08 |
+| MA10 | 147.3 |
+| EMA20 | 149.029 |
+| EMA50 | 151.671 |
+| Slope MA20 (5p, %) | -0.92 |
+| ATR(14) | 3.753 |
+| RSI(14) | 39.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -2.054 |
-| MACD Signal | -1.832 |
-| MACD Histogram | -0.222 |
+| MACD | -1.974 |
+| MACD Signal | -1.816 |
+| MACD Histogram | -0.158 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 430802 |
+| KL avg 60 phiên | 434187 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |   159.6   | 0.92        | 1             |
-| 🔴 Kháng cự    |   156.765 | 2.03        | 2             |
-| 🔴 Kháng cự    |   145.506 | 2.08        | 2             |
-| ▶ Giá hiện tại |   144     | —           | —             |
-| 🟢 Hỗ trợ      |   143.334 | 3.29        | 3             |
-| 🟢 Hỗ trợ      |   140.1   | 1.06        | 1             |
+| 🔴 Kháng cự     |   159.6   | 0.92        | 1             |
+| 🔴 Kháng cự     |   156.765 | 2.03        | 2             |
+| 🔴 Kháng cự     |   145.506 | 2.08        | 2             |
+| ▶ Giá hiện tại |   145     | —           | —             |
+| 🟢 Hỗ trợ       |   143.334 | 3.29        | 3             |
+| 🟢 Hỗ trợ       |   140.1   | 1.06        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | FRT |
-| pe | 25.15 |
-| pb | 4.50 |
-| roe | 27.12 |
-| roe_pct_rank | 83 |
-| roa | 4.02 |
-| roa_pct_rank | 47 |
-| eps | 5794 |
-| bvps | 32377 |
-| beta | 0.81 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 76 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 2 |
+| ratio_ttm_id | 2713165 |
+| ratio_type | RATIO_TTM |
+| organ_code | FPTR |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 68000000 |
+| market_cap | 4964000000000.0 |
+| dividend_yield | 0.0 |
+| pe | 15.3429930539 |
+| pb | 5.2641370453 |
+| ps | 0.3477894784 |
+| price_to_cash_flow | -5.5802239615 |
+| ev_to_ebitda | 16.0339365851 |
+| cash_ratio | 0.1262204024 |
+| quick_ratio | 0.5883932661 |
+| current_ratio | 1.1833600865 |
+| owners_equity | 0.0 |
+| debt_per_equity | 2.2497261756 |
+| debt_to_equity | 3.3883559618 |
+| roe | 0.3933236712 |
+| roa | 0.0859555222 |
+| day_sale_outstanding | 9.3558178229 |
+| days_inventory_outstanding | 49.2454679735 |
+| days_payable_outstanding | 24.6775409832 |
+| gross_margin | 0.1390666717 |
+| ebit_margin | 0.0291621832 |
+| pre_tax_profit_margin | 0.0283836904 |
+| after_tax_profit_margin | 0.0226676423 |
+| asset_turnover | 3.7919921758 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 416231905155.0 |
+| ebitda | 416751165157.0 |
+| roic | 0.1358263445 |
+| cash_cycle | 97.1291825713 |
+| fixed_asset_turnover | 309.5987052986 |
+| financial_leverage | 3.3883559618 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 155900 | -63.8%     | 0.092%         |
-| 2026-05-05 | 148500 | -65.5%     | 0.087%         |
-| 2026-05-06 | 226100 | -47.5%     | 0.133%         |
-| 2026-05-07 | 316600 | -26.5%     | 0.186%         |
-| 2026-05-08 | 171200 | -60.3%     | 0.101%         |
+| 2026-05-04 | 155900 | -64.1%     | 0.092%         |
+| 2026-05-05 | 148500 | -65.8%     | 0.087%         |
+| 2026-05-06 | 226100 | -47.9%     | 0.133%         |
+| 2026-05-07 | 316600 | -27.1%     | 0.186%         |
+| 2026-05-08 | 374300 | -13.8%     | 0.220%         |
 
-- KL trung bình 60 phiên: **430,801**
+- KL trung bình 60 phiên: **434,186**
 - Số CP lưu hành: **170,301,785**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                             | publishtime         | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| FRT: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                      | 2026-04-29T09:08:36 | /2026/04/frt-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435236.htm                      |
-| FPT Retail ghi nhận kết quả kinh doanh tích cực trong quý 1/2026, duy trì đà tăng trưởng ở cả hai mảng kinh doanh | 2026-04-28T17:45:00 | /2026/04/fpt-retail-ghi-nhan-ket-qua-kinh-doanh-tich-cuc-trong-quy-12026-duy-tri-da-tang-truong-o-ca-hai-mang-kinh-doanh… |
-| FRT: BCTC Hợp nhất quý 1 năm 2026                                                                                 | 2026-04-28T00:00:00 | /2026/04/frt-bctc-hop-nhat-quy-1-nam-2026-737-1435189.htm                                                                 |
-| FRT: BCTC quý 1 năm 2026                                                                                          | 2026-04-28T00:00:00 | /2026/04/frt-bctc-quy-1-nam-2026-737-1435221.htm                                                                          |
-| FRT: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                        | 2026-04-20T10:20:24 | /2026/04/frt-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1430013.htm                                        |
-| Chủ tịch FPT Retail: Đã chuẩn bị kịch bản xấu, lập “phòng chiến tranh” ứng phó biến động                          | 2026-04-17T17:12:00 | /2026/04/chu-tich-fpt-retail-da-chuan-bi-kich-ban-xau-lap-phong-chien-tranh-ung-pho-bien-dong-737-1429122.htm             |
-| FRT: Báo cáo thường niên năm 2025                                                                                 | 2026-04-14T17:23:45 | /2026/04/frt-bao-cao-thuong-nien-nam-2025-737-1427597.htm                                                                 |
-| Nhóm Dragon Capital trở thành cổ đông lớn FPT Retail                                                              | 2026-04-03T20:02:00 | /2026/04/nhom-dragon-capital-tro-thanh-co-dong-lon-fpt-retail-739-1422895.htm                                             |
-| FRT: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                                                     | 2026-04-02T18:32:13 | /2026/04/frt-bao-cao-ve-ngay-tro-thanh-co-dong-lon-cua-nhom-ndtnn-clq-739-1421977.htm                                     |
-| FRT: Giải trình biến động LNST BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước                    | 2026-03-26T17:04:45 | /2026/03/frt-giai-trinh-bien-dong-lnst-bctc-hn-va-rieng-nam-2025-da-kiem-toan-so-voi-cung-ky-nam-truoc-737-1417054.htm    |
+| news_title                                                                                     | public_date         | news_source_link   |
+|:-----------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| FRT: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                   | 2026-04-29T09:08:36 |                    |
+| FPT Retail (FRT) ghi nhận lãi 472 tỷ đồng trong quý đầu năm 2026                               | 2026-04-29T07:04:00 |                    |
+| FRT: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                     | 2026-04-20T10:20:24 |                    |
+| FRT: Báo cáo thường niên năm 2025                                                              | 2026-04-14T17:23:45 |                    |
+| FRT: Báo cáo về ngày trở thành cổ đông lớn của nhóm NĐTNN CLQ                                  | 2026-04-02T18:32:13 |                    |
+| FRT: Giải trình biến động LNST BCTC HN và Riêng năm 2025 đã kiểm toán so với cùng kỳ năm trước | 2026-03-26T17:04:45 |                    |
+| FPT Retail (FRT) lên kế hoạch doanh thu 59.500 tỷ đồng trong năm 2026                          | 2026-03-24T14:13:00 |                    |
+| FRT: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-03-24T08:53:45 |                    |
+| FRT: Thông báo thay đổi nhân sự                                                                | 2026-03-02T17:09:10 |                    |
+| FPT Retail (FRT) bổ nhiệm một Phó tổng giám đốc                                                | 2026-03-02T16:01:00 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-02T00:00:00 | nan                 | nan                 |
+| 2026-04-02T00:00:00 | nan                 | nan                 |
+| 2026-04-02T00:00:00 | nan                 | nan                 |
+| 2026-02-11T00:00:00 | 2026-03-13T00:00:00 | 2026-03-12T00:00:00 |
+| 2025-08-20T00:00:00 | nan                 | nan                 |
+| 2025-08-19T00:00:00 | nan                 | nan                 |
+| 2025-08-05T00:00:00 | nan                 | nan                 |
+| 2025-08-05T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
+| 2025-07-28T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.13% |
+| % Cổ phiếu hôm nay | -0.48% |
+| RS (CP − Ngành) | +0.65% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -215,22 +302,22 @@ _Không có dữ liệu_
 | FRT      | 2026-05-05 00:00:00 |  146.7 |  148.9 | 146.1 |   148.9 |   148500 |
 | FRT      | 2026-05-06 00:00:00 |  147.3 |  148.7 | 147.3 |   147.8 |   226100 |
 | FRT      | 2026-05-07 00:00:00 |  147.7 |  149.4 | 145.6 |   145.7 |   316600 |
-| FRT      | 2026-05-08 00:00:00 |  145.7 |  147.4 | 144   |   144   |   171200 |
+| FRT      | 2026-05-08 00:00:00 |  145.7 |  147.4 | 143.7 |   145   |   374300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FRT      | 2026-05-08 13:00:00 |   144   |      100 | Sell         | 472176119 |
-| FRT      | 2026-05-08 13:00:00 |   144   |      300 | Sell         | 472176120 |
-| FRT      | 2026-05-08 13:00:01 |   144.1 |      100 | Sell         | 472177575 |
-| FRT      | 2026-05-08 13:00:01 |   144   |      400 | Sell         | 472176837 |
-| FRT      | 2026-05-08 13:00:01 |   144   |      200 | Sell         | 472177576 |
-| FRT      | 2026-05-08 13:00:02 |   144.2 |      100 | Buy          | 472178971 |
-| FRT      | 2026-05-08 13:00:21 |   144.2 |      100 | Sell         | 472180318 |
-| FRT      | 2026-05-08 13:00:21 |   144.1 |      100 | Sell         | 472180319 |
-| FRT      | 2026-05-08 13:00:21 |   144   |      100 | Sell         | 472180320 |
-| FRT      | 2026-05-08 13:00:21 |   144   |      100 | Sell         | 472180321 |
+| FRT      | 2026-05-08 14:14:24 |   144   |      100 | Sell         | 472497407 |
+| FRT      | 2026-05-08 14:14:24 |   144   |      200 | Sell         | 472497479 |
+| FRT      | 2026-05-08 14:14:38 |   144   |      400 | Sell         | 472498353 |
+| FRT      | 2026-05-08 14:14:58 |   144   |      100 | Sell         | 472499387 |
+| FRT      | 2026-05-08 14:14:59 |   144   |      400 | Sell         | 472499471 |
+| FRT      | 2026-05-08 14:15:04 |   144   |      200 | Sell         | 472500008 |
+| FRT      | 2026-05-08 14:15:20 |   144   |      400 | Sell         | 472500986 |
+| FRT      | 2026-05-08 14:15:31 |   144.1 |      100 | Sell         | 472501632 |
+| FRT      | 2026-05-08 14:15:37 |   144.4 |      100 | Buy          | 472501911 |
+| FRT      | 2026-05-08 14:15:41 |   144.1 |      400 | Sell         | 472502097 |
 
 <!-- END:DAILY -->
 

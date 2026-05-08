@@ -1,6 +1,6 @@
 # SJS — CTCP SJ Group
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 08/05/2026 13:16  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 08/05/2026 22:01  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -10,117 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SJS |
-| exchange | HOSE |
-| market_cap | 16956065196000 |
-| 52w_high | 81300 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 33457 |
-| 52w_low_date | 2025-05-30 |
-| foreign_ownership | 0.5709 |
-| dividend | 0 |
-| beta | 0.55 |
-| eps | 1791 |
-| eps_forward | 14.288737039941251 |
-| bvps | 12157 |
-| pe | 32.05 |
-| pb | 4.72 |
-| price_chg_1m | 15.62 |
-| price_chg_ytd | 61.07 |
-| price_chg_1m_rank | 8.99 |
-| price_chg_ytd_rank | 50.28 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | SJS |
+| current_price | 57400.0 |
+| market_cap | 17075055127200.0 |
+| number_of_shares_mkt_cap | 297474828.0 |
+| ticker | SJS |
+| tag | None |
+| rating | None |
+| rating_as_of | None |
+| en_organ_name | SJ Group Joint Stock Company |
+| en_organ_short_name | SJ Group |
+| vi_organ_name | Công ty Cổ phần SJ Group |
+| vi_organ_short_name | SJ Group |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Real Estate |
+| sector_vn | Bất động sản |
+| average_match_value1_month | 2781828873.68421 |
+| average_match_volume1_month | 48997.0 |
+| highest_price1_year | 84800.0 |
+| lowest_price1_year | 33436.0 |
+| foreigner_percentage | 0.00570897 |
+| maximum_foreign_percentage | 0.5 |
+| state_percentage | 0.0 |
+| analyst | None |
+| upside_to_target_percent | None |
+| dividend_per_share_tsr | None |
+| projected_tsr_percentage | None |
+| target_price | None |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p class="MsoNormal">SJ Group Joint Stock Company (SJS)&nbsp;was established in 2003 as a subsidiary of Song… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>C&ocirc;ng ty Cổ phần SJ Group (SJS) được th&agrave;nh lập năm 2003 thuộc Tổng C&ocirc;ng ty S&ocirc;ng đ… |
+| in_cu | False |
+| icb_code_lv2 | 8600 |
+| icb_code_lv4 | 8633 |
+| free_float | 223106121 |
+| free_float_percentage | 0.75 |
+| listing_date | 2006-07-06T00:00:00 |
+| prev_insight | None |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 56.8 |
-| MA5 | 57.66 |
-| MA10 | 58.19 |
-| EMA20 | 55.657 |
-| EMA50 | 53.684 |
-| Slope MA20 (5p, %) | 2.31 |
-| ATR(14) | 1.71 |
-| RSI(14) | 57.5 |
+| Giá đóng cửa | 56.7 |
+| MA5 | 57.64 |
+| MA10 | 58.18 |
+| EMA20 | 55.647 |
+| EMA50 | 53.681 |
+| Slope MA20 (5p, %) | 2.29 |
+| ATR(14) | 1.724 |
+| RSI(14) | 57.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.858 |
-| MACD Signal | 1.878 |
-| MACD Histogram | -0.02 |
+| MACD | 1.85 |
+| MACD Signal | 1.877 |
+| MACD Histogram | -0.026 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 34938 |
+| KL avg 60 phiên | 35122 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |      62.8 | 1.41        | 1             |
-| 🔴 Kháng cự    |      61.8 | 0.64        | 1             |
-| ▶ Giá hiện tại |      56.8 | —           | —             |
-| 🟢 Hỗ trợ      |      56.7 | 0.7         | 1             |
-| 🟢 Hỗ trợ      |      55.8 | 1.31        | 1             |
-| 🟢 Hỗ trợ      |      55   | 0.61        | 1             |
+| 🔴 Kháng cự     |      62.8 | 1.41        | 1             |
+| 🔴 Kháng cự     |      61.8 | 0.64        | 1             |
+| ▶ Giá hiện tại |      56.7 | —           | —             |
+| 🟢 Hỗ trợ       |      55.8 | 1.31        | 1             |
+| 🟢 Hỗ trợ       |      55   | 0.61        | 1             |
+| 🟢 Hỗ trợ       |      52   | 3.9         | 4             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SJS |
-| pe | 32.05 |
-| pb | 4.72 |
-| roe | 8.91 |
-| roe_pct_rank | 45 |
-| roa | 3.38 |
-| roa_pct_rank | 44 |
-| eps | 1791 |
-| bvps | 12157 |
-| beta | 0.55 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 89 |
-| pb_pct_rank | 100 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2737158 |
+| ratio_type | RATIO_TTM |
+| organ_code | SJS |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | nan |
+| market_cap | nan |
+| dividend_yield | nan |
+| pe | nan |
+| pb | nan |
+| ps | nan |
+| price_to_cash_flow | nan |
+| ev_to_ebitda | nan |
+| cash_ratio | nan |
+| quick_ratio | nan |
+| current_ratio | nan |
+| owners_equity | nan |
+| debt_per_equity | nan |
+| debt_to_equity | nan |
+| roe | nan |
+| roa | nan |
+| day_sale_outstanding | nan |
+| days_inventory_outstanding | nan |
+| days_payable_outstanding | nan |
+| gross_margin | nan |
+| ebit_margin | nan |
+| pre_tax_profit_margin | nan |
+| after_tax_profit_margin | -11.4318291089 |
+| asset_turnover | nan |
+| net_interest_margin | nan |
+| average_yield_on_earning_assets | nan |
+| average_cost_of_financing | nan |
+| non_and_interest_income | nan |
+| cost_to_income | nan |
+| loans_growth | nan |
+| deposit_growth | nan |
+| equity_to_liabilities | nan |
+| equity_to_loans | nan |
+| total_equity_total_asset | nan |
+| ldr_loan_deposit_ratio | nan |
+| npl | nan |
+| loans_loss_reserves_to_np_ls | nan |
+| loans_loss_reserve_to_loans | nan |
+| provision_to_outstanding_loans | nan |
+| ebit | 0.0 |
+| ebitda | 0.0 |
+| roic | nan |
+| cash_cycle | nan |
+| fixed_asset_turnover | nan |
+| financial_leverage | nan |
+| cir | nan |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |    KL | vs Avg60   | Turnover (%)   |
 |:-----------|------:|:-----------|:---------------|
-| 2026-05-04 | 48700 | +39.4%     | 0.016%         |
-| 2026-05-05 | 32600 | -6.7%      | 0.011%         |
-| 2026-05-06 | 20900 | -40.2%     | 0.007%         |
-| 2026-05-07 | 22000 | -37.0%     | 0.007%         |
-| 2026-05-08 | 21800 | -37.6%     | 0.007%         |
+| 2026-05-04 | 48700 | +38.7%     | 0.016%         |
+| 2026-05-05 | 32600 | -7.2%      | 0.011%         |
+| 2026-05-06 | 20900 | -40.5%     | 0.007%         |
+| 2026-05-07 | 22000 | -37.4%     | 0.007%         |
+| 2026-05-08 | 32800 | -6.6%      | 0.011%         |
 
-- KL trung bình 60 phiên: **34,938**
+- KL trung bình 60 phiên: **35,121**
 - Số CP lưu hành: **297,474,828**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                    | publishtime             | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SJS: Nghị quyết HĐQT về việc ban hành Sơ đồ tổ chức                                                      | 2026-04-28T16:47:35     | /2026/04/sjs-nghi-quyet-hdqt-ve-viec-ban-hanh-so-do-to-chuc-737-1434869.htm                                               |
-| SJS: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                 | 2026-04-24T17:09:49     | /2026/04/sjs-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1433956.htm                                                          |
-| SJS: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-24T17:09:09     | /2026/04/sjs-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433954.htm                                            |
-| Lãi quý 1 SJS lên đỉnh 15 năm, muốn chào bán 200 triệu cp thấp hơn thị giá 83%                           | 2026-04-22T22:07:57.167 | /2026/04/lai-quy-1-sjs-len-dinh-15-nam-muon-chao-ban-200-trieu-cp-thap-hon-thi-gia-83-737-1432010.htm                     |
-| SJS: Giải trình chênh lệch LNST quý 1/2026 so với cùng kỳ năm trước                                      | 2026-04-21T18:11:36     | /2026/04/sjs-giai-trinh-chenh-lech-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1431582.htm                               |
-| SJS: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Trưởng ban Kiểm toán nội bộ                     | 2026-04-21T17:17:46     | /2026/04/sjs-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-truong-ban-kiem-toan-noi-bo-737-1431426.htm                |
-| SJS: Báo cáo thường niên năm 2025                                                                        | 2026-04-21T14:07:09     | /2026/04/sjs-bao-cao-thuong-nien-nam-2025-737-1431203.htm                                                                 |
-| SJS: BCTC quý 1 năm 2026                                                                                 | 2026-04-21T00:00:00     | /2026/04/sjs-bctc-quy-1-nam-2026-737-1431524.htm                                                                          |
-| SJS: BCTC Hợp nhất quý 1 năm 2026                                                                        | 2026-04-21T00:00:00     | /2026/04/sjs-bctc-hop-nhat-quy-1-nam-2026-737-1431525.htm                                                                 |
-| Hà Nội ra tối hậu thư với 341 dự án chậm triển khai, nhiều doanh nghiệp lớn như NTL, CEO, VGC bị gọi tên | 2026-04-16T07:52:00     | /2026/04/ha-noi-ra-toi-hau-thu-voi-341-du-an-cham-trien-khai-nhieu-doanh-nghiep-lon-nhu-ntl-ceo-vgc-bi-goi-ten-4222-1428… |
+| news_title                                                                                    | public_date         | news_source_link   |
+|:----------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| SJS: Nghị quyết HĐQT về việc ban hành Sơ đồ tổ chức                                           | 2026-04-28T16:47:35 |                    |
+| SJS: Tài liệu họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-24T17:09:49 |                    |
+| SJS: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                        | 2026-04-24T17:09:09 |                    |
+| SJ Group (SJS) đặt mục tiêu lợi nhuận nghìn tỷ, dự kiến tăng vốn lên hơn 5.272 tỷ đồng        | 2026-04-23T16:57:00 |                    |
+| SJS: Giải trình chênh lệch LNST quý 1/2026 so với cùng kỳ năm trước                           | 2026-04-21T18:02:04 |                    |
+| SJS: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Trưởng ban Kiểm toán nội bộ          | 2026-04-21T17:10:55 |                    |
+| SJS: Báo cáo thường niên năm 2025                                                             | 2026-04-21T14:05:52 |                    |
+| SJS: Thông báo thay đổi nhân sự - Bổ nhiệm Phó Tổng Giám đốc phụ trách Kinh doanh - Marketing | 2026-04-03T17:59:44 |                    |
+| SJS: Thông báo mời họp ĐHĐCĐ thường niên 2026                                                 | 2026-03-31T17:15:37 |                    |
+| SJS: Nghị quyết HĐQT về việc phê duyệt thời gian, địa điểm và tài liệu họp ĐHĐCĐ TN năm 2026  | 2026-03-31T17:14:43 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-11T00:00:00 | nan                 | nan                 |
+| 2026-03-09T00:00:00 | nan                 | nan                 |
+| 2026-03-05T00:00:00 | nan                 | nan                 |
+| 2026-03-05T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
+| 2026-03-03T00:00:00 | nan                 | nan                 |
+| 2026-02-27T00:00:00 | nan                 | nan                 |
+| 2025-10-03T00:00:00 | nan                 | nan                 |
+| 2025-08-29T00:00:00 | nan                 | nan                 |
+| 2025-07-25T00:00:00 | 2025-07-31T00:00:00 | 2025-07-30T00:00:00 |
+| 2025-07-25T00:00:00 | 2025-07-31T00:00:00 | 2025-07-30T00:00:00 |
+| 2025-07-11T00:00:00 | nan                 | nan                 |
+| 2025-03-24T00:00:00 | nan                 | nan                 |
+| 2025-02-18T00:00:00 | 2025-03-03T00:00:00 | 2025-02-28T00:00:00 |
+| 2025-01-17T00:00:00 | nan                 | nan                 |
+| 2025-01-17T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -1.22% |
+| RS (CP − Ngành) | -1.92% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -215,7 +304,7 @@ _Không có dữ liệu_
 | SJS      | 2026-05-05 00:00:00 |  57.9  |  58.2  | 57.5  |   58.1  |    32600 |
 | SJS      | 2026-05-06 00:00:00 |  58.2  |  58.5  | 57.5  |   57.8  |    20900 |
 | SJS      | 2026-05-07 00:00:00 |  57.7  |  57.9  | 57.2  |   57.4  |    22000 |
-| SJS      | 2026-05-08 00:00:00 |  57.4  |  57.5  | 56.8  |   56.8  |    21800 |
+| SJS      | 2026-05-08 00:00:00 |  57.4  |  57.5  | 56.6  |   56.7  |    32800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 

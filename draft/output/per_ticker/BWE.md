@@ -1,6 +1,6 @@
 # BWE — CTCP - Tổng công ty nước - môi trường Bình Dương
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 08/05/2026 13:03  |  🗂 Quarterly: 03/05/2026 13:58
+> 📅 Daily: 08/05/2026 21:53  |  🗂 Quarterly: 03/05/2026 13:58
 
 ---
 
@@ -10,117 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BWE |
-| exchange | HOSE |
-| market_cap | 9687856768200 |
-| 52w_high | 50634 |
-| 52w_high_date | 2025-05-09 |
-| 52w_low | 40818 |
-| 52w_low_date | 2025-12-26 |
-| foreign_ownership | 2.786 |
-| dividend | 1300 |
-| beta | 0.35 |
-| eps | 4778 |
-| eps_forward | 13.729833325478738 |
-| bvps | 29486 |
-| pe | 9.15 |
-| pb | 1.48 |
-| price_chg_1m | 2.32 |
-| price_chg_ytd | -11.30 |
-| price_chg_1m_rank | 8.50 |
-| price_chg_ytd_rank | 49.61 |
-| yield | 0.029511918274687854 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | BIWASE |
+| current_price | 43700.0 |
+| market_cap | 9610881742800.0 |
+| number_of_shares_mkt_cap | 219928644.0 |
+| ticker | BWE |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 02-Feb-26 |
+| en_organ_name | Binh Duong Water - Environment Corporation - Joint Stock Company |
+| en_organ_short_name | Binh Duong Water Environment |
+| vi_organ_name | Công ty Cổ phần - Tổng công ty Nước - Môi trường Bình Dương |
+| vi_organ_short_name | Nước - Môi trường Bình Dương |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Utilities |
+| sector_vn | Điện, nước & xăng dầu khí đốt |
+| average_match_value1_month | 11847825134.210526 |
+| average_match_volume1_month | 272497.0 |
+| highest_price1_year | 51511.0 |
+| lowest_price1_year | 40820.0 |
+| foreigner_percentage | 0.02784569 |
+| maximum_foreign_percentage | 0.49 |
+| state_percentage | 0.19438123 |
+| analyst | Loc Pham |
+| upside_to_target_percent | 0.3432494279 |
+| dividend_per_share_tsr | 1300.0 |
+| projected_tsr_percentage | 0.3729977117 |
+| target_price | 58700.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Binh Duong Water - Environment Corporation - Joint Stock Company (BWE), formerly known as Binh Duong Water Sup… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần - Tổng C&ocirc;ng ty Nước - M&ocirc;i trường B&igrave;nh Dương (BWE), c&oacute; tiền th&… |
+| in_cu | True |
+| icb_code_lv2 | 7500 |
+| icb_code_lv4 | 7577 |
+| free_float | 54982161 |
+| free_float_percentage | 0.25 |
+| listing_date | 2017-07-20T00:00:00 |
+| prev_insight | {'targetPrice': 57300.0, 'rating': 'BUY', 'ratingAsOf': '11-Nov-25', 'analyst': 'Loc Pham', 'version': '20260205'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 44.05 |
-| MA5 | 43.71 |
-| MA10 | 43.505 |
-| EMA20 | 43.472 |
-| EMA50 | 43.476 |
-| Slope MA20 (5p, %) | 0.41 |
+| Giá đóng cửa | 43.5 |
+| MA5 | 43.6 |
+| MA10 | 43.45 |
+| EMA20 | 43.42 |
+| EMA50 | 43.455 |
+| Slope MA20 (5p, %) | 0.29 |
 | ATR(14) | 0.694 |
-| RSI(14) | 57.4 |
+| RSI(14) | 51.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.142 |
-| MACD Signal | 0.076 |
-| MACD Histogram | 0.066 |
+| MACD | 0.098 |
+| MACD Signal | 0.068 |
+| MACD Histogram | 0.031 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 233487 |
+| KL avg 60 phiên | 236166 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    46.626 | 1.36        | 2             |
-| 🔴 Kháng cự    |    46.045 | 1.86        | 2             |
-| ▶ Giá hiện tại |    44.05  | —           | —             |
-| 🟢 Hỗ trợ      |    43.95  | 2.59        | 2             |
-| 🟢 Hỗ trợ      |    42.931 | 1.68        | 2             |
-| 🟢 Hỗ trợ      |    42.333 | 2.12        | 2             |
+| 🔴 Kháng cự     |    46.626 | 1.36        | 2             |
+| 🔴 Kháng cự     |    46.045 | 1.86        | 2             |
+| 🔴 Kháng cự     |    43.95  | 2.59        | 2             |
+| ▶ Giá hiện tại |    43.5   | —           | —             |
+| 🟢 Hỗ trợ       |    42.931 | 1.68        | 2             |
+| 🟢 Hỗ trợ       |    42.333 | 2.12        | 2             |
+| 🟢 Hỗ trợ       |    40.995 | 1.77        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BWE |
-| pe | 9.15 |
-| pb | 1.48 |
-| roe | 14.78 |
-| roe_pct_rank | 57 |
-| roa | 6.09 |
-| roa_pct_rank | 54 |
-| eps | 4778 |
-| bvps | 29486 |
-| beta | 0.35 |
-| dividend | 1300 |
-| yield | 0.029511918274687854 |
-| pe_pct_rank | 42 |
-| pb_pct_rank | 59 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2698729 |
+| ratio_type | RATIO_TTM |
+| organ_code | BIWASE |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 150000000 |
+| market_cap | 2640000000000.0 |
+| dividend_yield | 0.0 |
+| pe | 12.2813862599 |
+| pb | 0.7632316344 |
+| ps | 1.4071533214 |
+| price_to_cash_flow | 1.2644034823 |
+| ev_to_ebitda | 7.2907058985 |
+| cash_ratio | 0.1375784011 |
+| quick_ratio | 0.900076165 |
+| current_ratio | 1.1306614062 |
+| owners_equity | 0.4442266127 |
+| debt_per_equity | 0.6116790319 |
+| debt_to_equity | 2.1983051769 |
+| roe | 0.0648200101 |
+| roa | 0.0207661568 |
+| day_sale_outstanding | 55.7774193303 |
+| days_inventory_outstanding | 93.7888874646 |
+| days_payable_outstanding | 104.9814503947 |
+| gross_margin | 0.3783895199 |
+| ebit_margin | 0.1740238818 |
+| pre_tax_profit_margin | 0.1313439017 |
+| after_tax_profit_margin | 0.1145705754 |
+| asset_turnover | 0.1812433575 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 326491108627.0 |
+| ebitda | 626946841989.0 |
+| roic | 0.0585659562 |
+| cash_cycle | 365.9466235455 |
+| fixed_asset_turnover | 0.4829399697 |
+| financial_leverage | 2.1983051769 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 445500 | +90.8%     | 0.203%         |
-| 2026-05-05 | 213100 | -8.7%      | 0.097%         |
-| 2026-05-06 | 138300 | -40.8%     | 0.063%         |
-| 2026-05-07 | 272600 | +16.8%     | 0.124%         |
-| 2026-05-08 | 163100 | -30.1%     | 0.074%         |
+| 2026-05-04 | 445500 | +88.6%     | 0.203%         |
+| 2026-05-05 | 213100 | -9.8%      | 0.097%         |
+| 2026-05-06 | 138300 | -41.4%     | 0.063%         |
+| 2026-05-07 | 272600 | +15.4%     | 0.124%         |
+| 2026-05-08 | 323800 | +37.1%     | 0.147%         |
 
-- KL trung bình 60 phiên: **233,487**
+- KL trung bình 60 phiên: **236,165**
 - Số CP lưu hành: **219,928,644**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime         | url                                                                                                              |
-|:-----------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------|
-| BWE: Báo cáo tiến độ sử dụng vốn                                                         | 2026-05-04T11:24:11 | /2026/05/bwe-bao-cao-tien-do-su-dung-von-830-1436970.htm                                                         |
-| BWE: BCTC Hợp nhất quý 1 năm 2026                                                        | 2026-04-29T00:00:00 | /2026/04/bwe-bctc-hop-nhat-quy-1-nam-2026-737-1435824.htm                                                        |
-| BWE: BCTC quý 1 năm 2026                                                                 | 2026-04-29T00:00:00 | /2026/04/bwe-bctc-quy-1-nam-2026-737-1435825.htm                                                                 |
-| BWE: Thông báo thay đổi nhân sự                                                          | 2026-04-28T18:01:28 | /2026/04/bwe-thong-bao-thay-doi-nhan-su-214-1435041.htm                                                          |
-| BWE: Nghị quyết HĐQT về việc thông qua Hồ sơ đăng ký chào bán cổ phiếu ra công chúng     | 2026-04-20T17:41:38 | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-ho-so-dang-ky-chao-ban-co-phieu-ra-cong-chung-737-1430752.htm     |
-| BWE: Nghị quyết HĐQT về việc thông qua phương án tách Công ty và thành lập 4 công ty mới | 2026-04-17T17:58:41 | /2026/04/bwe-nghi-quyet-hdqt-ve-viec-thong-qua-phuong-an-tach-cong-ty-va-thanh-lap-4-cong-ty-moi-737-1429559.htm |
-| BWE: Nghị quyết HĐQT số 25 ngày 13/04/2026                                               | 2026-04-14T17:21:22 | /2026/04/bwe-nghi-quyet-hdqt-so-25-ngay-13-04-2026-737-1427577.htm                                               |
-| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                    | 2026-04-07T16:33:28 | /2026/04/bwe-thong-bao-duong-dan-dang-tai-dieu-le-cong-ty-sua-doi-lan-thu-9-737-1424223.htm                      |
-| BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)              | 2026-04-02T14:37:17 | /2026/04/bwe-thong-bao-thay-doi-nhan-su-dinh-chinh-ban-cbtt-so-06-ngay-28-03-2026-214-1421552.htm                |
-| BWE: Thông báo thay đổi nhân sự                                                          | 2026-03-30T14:22:35 | /2026/03/bwe-thong-bao-thay-doi-nhan-su-214-1418635.htm                                                          |
+| news_title                                                                               | public_date         | news_source_link   |
+|:-----------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| BWE: Báo cáo tiến độ sử dụng vốn                                                         | 2026-05-04T11:24:11 |                    |
+| BWE: Thông báo thay đổi nhân sự                                                          | 2026-04-28T17:55:09 |                    |
+| BWE: Nghị quyết HĐQT về việc thông qua Hồ sơ đăng ký chào bán cổ phiếu ra công chúng     | 2026-04-20T17:34:10 |                    |
+| BWE: Nghị quyết HĐQT về việc thông qua phương án tách Công ty và thành lập 4 công ty mới | 2026-04-17T17:58:41 |                    |
+| BIWASE (BWE) lên kế hoạch phát hành thêm hơn 31,4 triệu cổ phiếu                         | 2026-04-15T07:02:00 |                    |
+| BWE: Nghị quyết HĐQT số 25 ngày 13/04/2026                                               | 2026-04-14T17:21:22 |                    |
+| BWE: Thông báo đường dẫn đăng tải Điều lệ Công ty (sửa đổi lần thứ 9)                    | 2026-04-07T16:28:59 |                    |
+| BWE: Thông báo thay đổi nhân sự (đính chính bản CBTT số 06 ngày 28/03/2026)              | 2026-04-02T14:37:17 |                    |
+| BWE: Thông báo thay đổi nhân sự                                                          | 2026-03-30T14:22:35 |                    |
+| BWE: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                   | 2026-03-30T09:16:25 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-03-30T00:00:00 | nan                 | nan                 |
+| 2026-02-12T00:00:00 | nan                 | nan                 |
+| 2026-02-10T00:00:00 | nan                 | nan                 |
+| 2026-01-27T00:00:00 | nan                 | nan                 |
+| 2026-01-16T00:00:00 | 2026-02-04T00:00:00 | 2026-02-03T00:00:00 |
+| 2026-01-16T00:00:00 | 2026-02-04T00:00:00 | 2026-02-03T00:00:00 |
+| 2026-01-14T00:00:00 | nan                 | nan                 |
+| 2025-12-30T00:00:00 | nan                 | nan                 |
+| 2025-10-17T00:00:00 | nan                 | nan                 |
+| 2025-10-17T00:00:00 | nan                 | nan                 |
+| 2025-10-10T00:00:00 | nan                 | nan                 |
+| 2025-08-13T00:00:00 | nan                 | nan                 |
+| 2025-08-11T00:00:00 | nan                 | nan                 |
+| 2025-07-30T00:00:00 | nan                 | nan                 |
+| 2025-07-23T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -0.46% |
+| RS (CP − Ngành) | +0.82% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -215,22 +303,22 @@ _Không có dữ liệu_
 | BWE      | 2026-05-05 00:00:00 |  43.25 |  43.5  | 43.15 |   43.5  |   213100 |
 | BWE      | 2026-05-06 00:00:00 |  43.7  |  44.5  | 43.65 |   44    |   138300 |
 | BWE      | 2026-05-07 00:00:00 |  44    |  44.1  | 43.7  |   43.7  |   272600 |
-| BWE      | 2026-05-08 00:00:00 |  44    |  44.1  | 43.5  |   44.05 |   163100 |
+| BWE      | 2026-05-08 00:00:00 |  44    |  44.1  | 43.5  |   43.5  |   323800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BWE      | 2026-05-08 09:28:43 |   44    |      700 | Buy          | 471953958 |
-| BWE      | 2026-05-08 09:44:31 |   43.75 |      100 | Sell         | 471985495 |
-| BWE      | 2026-05-08 09:44:31 |   43.75 |     3000 | Sell         | 471985496 |
-| BWE      | 2026-05-08 09:45:03 |   43.75 |     1000 | Buy          | 471986458 |
-| BWE      | 2026-05-08 09:53:58 |   43.95 |     1000 | Buy          | 472001208 |
-| BWE      | 2026-05-08 10:06:11 |   43.95 |     2000 | Buy          | 472022948 |
-| BWE      | 2026-05-08 10:06:11 |   43.95 |      500 | Buy          | 472022949 |
-| BWE      | 2026-05-08 10:06:11 |   44    |     2100 | Buy          | 472022950 |
-| BWE      | 2026-05-08 10:06:11 |   44    |      400 | Buy          | 472022951 |
-| BWE      | 2026-05-08 10:06:11 |   44    |      100 | Buy          | 472022952 |
+| BWE      | 2026-05-08 13:07:51 |   44.05 |     2000 | Buy          | 472205501 |
+| BWE      | 2026-05-08 13:08:44 |   44.05 |     1000 | Buy          | 472209203 |
+| BWE      | 2026-05-08 13:08:44 |   44.05 |      300 | Buy          | 472209205 |
+| BWE      | 2026-05-08 13:12:30 |   44    |      300 | Sell         | 472223449 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      700 | Sell         | 472224685 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      500 | Sell         | 472224686 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      300 | Sell         | 472224687 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      300 | Sell         | 472224688 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      300 | Sell         | 472224689 |
+| BWE      | 2026-05-08 13:12:56 |   44    |      300 | Sell         | 472224690 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # DXG — CTCP Tập đoàn Đất Xanh
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 08/05/2026 13:06  |  🗂 Quarterly: 03/05/2026 14:02
+> 📅 Daily: 08/05/2026 21:55  |  🗂 Quarterly: 03/05/2026 14:02
 
 ---
 
@@ -10,118 +10,206 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DXG |
-| exchange | HOSE |
-| market_cap | 17130716510600 |
-| 52w_high | 24200 |
-| 52w_high_date | 2025-09-15 |
-| 52w_low | 13050 |
-| 52w_low_date | 2026-03-23 |
-| foreign_ownership | 20.2977 |
-| dividend | 0 |
-| beta | 1 |
-| eps | 220 |
-| eps_forward | 14.344471575663606 |
-| bvps | 18969 |
-| pe | 70.21 |
-| pb | 0.81 |
-| price_chg_1m | 3.70 |
-| price_chg_ytd | 12.40 |
-| price_chg_1m_rank | 8.48 |
-| price_chg_ytd_rank | 49.58 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | DXG |
+| current_price | 15450.0 |
+| market_cap | 17186335720050.0 |
+| number_of_shares_mkt_cap | 1112384189.0 |
+| ticker | DXG |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 06-Apr-26 |
+| en_organ_name | Bluemarq Group Joint Stock Company |
+| en_organ_short_name | Bluemarq Group |
+| vi_organ_name | Công ty Cổ phần Bluemarq Group |
+| vi_organ_short_name | Bluemarq Group |
+| com_type_code | CT |
+| com_group_code | VNINDEX |
+| sector | Real Estate |
+| sector_vn | Bất động sản |
+| average_match_value1_month | 262768289718.42105 |
+| average_match_volume1_month | 17263517.0 |
+| highest_price1_year | 24500.0 |
+| lowest_price1_year | 12800.0 |
+| foreigner_percentage | 0.20296616 |
+| maximum_foreign_percentage | 0.5 |
+| state_percentage | 0.0 |
+| analyst | Anh Pham |
+| upside_to_target_percent | 0.2103559871 |
+| dividend_per_share_tsr | 0.0 |
+| projected_tsr_percentage | 0.2103559871 |
+| target_price | 18700.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p>Established in 2003, Bluemarq Group Joint Stock Company (DXG), formerly known&nbsp;as Dat Xanh Real Estat… |
+| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Bluemarq Group (DXG)&nbsp;tiền th&acirc;n l&agrave; C&ocirc;ng ty TNHH Dịch vụ v&agrave;… |
+| in_cu | True |
+| icb_code_lv2 | 8600 |
+| icb_code_lv4 | 8633 |
+| free_float | 889907351 |
+| free_float_percentage | 0.7999999998 |
+| listing_date | 2009-12-22T00:00:00 |
+| prev_insight | {'targetPrice': 24000.0, 'rating': 'BUY', 'ratingAsOf': '05-Dec-25', 'analyst': 'Anh Pham', 'version': '20260403'} |
+| fund_info | None |
+| is_bank | False |
+| listing | True |
+| bank | False |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.35 |
-| MA5 | 15.49 |
-| MA10 | 15.18 |
-| EMA20 | 15.077 |
-| EMA50 | 14.947 |
-| Slope MA20 (5p, %) | 1.79 |
-| ATR(14) | 0.541 |
-| RSI(14) | 55.6 |
+| Giá đóng cửa | 15.45 |
+| MA5 | 15.51 |
+| MA10 | 15.19 |
+| EMA20 | 15.086 |
+| EMA50 | 14.951 |
+| Slope MA20 (5p, %) | 1.86 |
+| ATR(14) | 0.548 |
+| RSI(14) | 57.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.235 |
-| MACD Signal | 0.192 |
-| MACD Histogram | 0.043 |
+| MACD | 0.243 |
+| MACD Signal | 0.194 |
+| MACD Histogram | 0.05 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 17195335 |
+| KL avg 60 phiên | 17296623 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     18.25 | 0.58        | 1             |
-| 🔴 Kháng cự    |     16.1  | 0.96        | 1             |
-| 🔴 Kháng cự    |     15.75 | 2.67        | 2             |
-| ▶ Giá hiện tại |     15.35 | —           | —             |
-| 🟢 Hỗ trợ      |     15.3  | 0.7         | 1             |
-| 🟢 Hỗ trợ      |     15.2  | 1.24        | 1             |
-| 🟢 Hỗ trợ      |     14.55 | 0.8         | 1             |
+| 🔴 Kháng cự     |     18.25 | 0.58        | 1             |
+| 🔴 Kháng cự     |     16.1  | 0.96        | 1             |
+| 🔴 Kháng cự     |     15.75 | 2.67        | 2             |
+| ▶ Giá hiện tại |     15.45 | —           | —             |
+| 🟢 Hỗ trợ       |     15.3  | 0.7         | 1             |
+| 🟢 Hỗ trợ       |     15.2  | 1.24        | 1             |
+| 🟢 Hỗ trợ       |     14.55 | 0.8         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DXG |
-| pe | 70.21 |
-| pb | 0.81 |
-| roe | 3.19 |
-| roe_pct_rank | 32 |
-| roa | 0.68 |
-| roa_pct_rank | 35 |
-| eps | 220 |
-| bvps | 18969 |
-| beta | 1 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 100 |
-| pb_pct_rank | 33 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2697875 |
+| ratio_type | RATIO_TTM |
+| organ_code | DXG |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 342321356 |
+| market_cap | 8386873222000.0 |
+| dividend_yield | 0.0 |
+| pe | 9.0913357547 |
+| pb | 1.8200520233 |
+| ps | 2.4123894264 |
+| price_to_cash_flow | -8.5952013346 |
+| ev_to_ebitda | 6.9760076219 |
+| cash_ratio | 0.3099156305 |
+| quick_ratio | 1.4671661837 |
+| current_ratio | 2.2174665148 |
+| owners_equity | 0.3818311464 |
+| debt_per_equity | 0.503235497 |
+| debt_to_equity | 1.2406991697 |
+| roe | 0.2083259311 |
+| roa | 0.0945105623 |
+| day_sale_outstanding | 67.1483117023 |
+| days_inventory_outstanding | 587.8131274201 |
+| days_payable_outstanding | 61.1632964577 |
+| gross_margin | 0.5585100912 |
+| ebit_margin | 0.3874628523 |
+| pre_tax_profit_margin | 0.4534990853 |
+| after_tax_profit_margin | 0.3727017545 |
+| asset_turnover | 0.3579983795 |
+| net_interest_margin | 0.0 |
+| average_yield_on_earning_assets | 0.0 |
+| average_cost_of_financing | 0.0 |
+| non_and_interest_income | 0.0 |
+| cost_to_income | 0.0 |
+| loans_growth | 0.0 |
+| deposit_growth | 0.0 |
+| equity_to_liabilities | 0.0 |
+| equity_to_loans | 0.0 |
+| total_equity_total_asset | 0.0 |
+| ldr_loan_deposit_ratio | 0.0 |
+| npl | 0.0 |
+| loans_loss_reserves_to_np_ls | 0.0 |
+| loans_loss_reserve_to_loans | 0.0 |
+| provision_to_outstanding_loans | 0.0 |
+| ebit | 1347046950516.0 |
+| ebitda | 1365770166549.0 |
+| roic | 0.1867555081 |
+| cash_cycle | 1052.9599933228 |
+| fixed_asset_turnover | 59.556534558 |
+| financial_leverage | 1.2406991697 |
+| cir | 0.0 |
+| car | None |
+| equity | None |
+| casa_ratio | None |
+| nob66 | None |
+| nob69 | None |
+| nob70 | None |
+| bsb113 | 0.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-04 | 24103000 | +40.2%     | 2.167%         |
-| 2026-05-05 | 12856400 | -25.2%     | 1.156%         |
-| 2026-05-06 | 18990600 | +10.4%     | 1.707%         |
-| 2026-05-07 | 18767800 | +9.1%      | 1.687%         |
-| 2026-05-08 |  3741500 | -78.2%     | 0.336%         |
+| 2026-05-04 | 24103000 | +39.4%     | 2.167%         |
+| 2026-05-05 | 12856400 | -25.7%     | 1.156%         |
+| 2026-05-06 | 18990600 | +9.8%      | 1.707%         |
+| 2026-05-07 | 18767800 | +8.5%      | 1.687%         |
+| 2026-05-08 |  9818800 | -43.2%     | 0.883%         |
 
-- KL trung bình 60 phiên: **17,195,335**
+- KL trung bình 60 phiên: **17,296,623**
 - Số CP lưu hành: **1,112,384,189**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                      | publishtime             | url                                                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DXG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 32                                              | 2026-05-07T17:37:49     | /2026/05/dxg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-32-737-1439673.htm                                     |
-| DXG: Thông báo thay đổi mẫu con dấu Công ty                                                                | 2026-05-07T16:59:12     | /2026/05/dxg-thong-bao-thay-doi-mau-con-dau-cong-ty-830-1439609.htm                                                       |
-| DXG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 32                                              | 2026-05-07T16:58:41     | /2026/05/dxg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-32-737-1439630.htm                                     |
-| Tập đoàn Đất Xanh đổi tên thành Bluemarq Group, loạt công ty con đổi theo "họ" mới                         | 2026-05-07T16:52:36.613 | /2026/05/tap-doan-dat-xanh-doi-ten-thanh-bluemarq-group-loat-cong-ty-con-doi-theo-ho-moi-737-1439495.htm                  |
-| DXG: Công văn công bố BCTC quý 1/2026 và giải trình                                                        | 2026-05-04T11:11:16     | /2026/05/dxg-cong-van-cong-bo-bctc-quy-1-2026-va-giai-trinh-737-1436956.htm                                               |
-| Đất Xanh đạt 80% kế hoạch lợi nhuận năm sau quý 1, cho vay bí ẩn hơn 3.3 ngàn tỷ                           | 2026-05-01T16:19:16.833 | /2026/05/dat-xanh-dat-80-ke-hoach-loi-nhuan-nam-sau-quy-1-cho-vay-bi-an-hon-33-ngan-ty-737-1436413.htm                    |
-| DXG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Trường Sơn                                 | 2026-04-29T19:08:09     | /2026/04/dxg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-truong-son-739-1436117.htm                        |
-| DXG: BCTC quý 1 năm 2026                                                                                   | 2026-04-29T00:00:00     | /2026/04/dxg-bctc-quy-1-nam-2026-737-1436872.htm                                                                          |
-| DXG: BCTC Hợp nhất quý 1 năm 2026                                                                          | 2026-04-29T00:00:00     | /2026/04/dxg-bctc-hop-nhat-quy-1-nam-2026-737-1436873.htm                                                                 |
-| DXG: Nghị quyết HĐQT về việc giao và ủy quyền cho TGĐ quyết định và thực hiện thủ tục thay đổi tên công ty | 2026-04-20T09:25:41     | /2026/04/dxg-nghi-quyet-hdqt-ve-viec-giao-va-uy-quyen-cho-tgd-quyet-dinh-va-thuc-hien-thu-tuc-thay-doi-ten-cong-ty-737-1… |
+| news_title                                                                                                 | public_date         | news_source_link   |
+|:-----------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| DXG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 32                                              | 2026-05-07T16:58:41 |                    |
+| DXG: Thông báo thay đổi mẫu con dấu Công ty                                                                | 2026-05-07T16:57:58 |                    |
+| DXG: Công văn công bố BCTC quý 1/2026 và giải trình                                                        | 2026-05-04T11:11:16 |                    |
+| DXG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Trường Sơn                                 | 2026-04-29T19:05:09 |                    |
+| DXG: Nghị quyết HĐQT về việc giao và ủy quyền cho TGĐ quyết định và thực hiện thủ tục thay đổi tên công ty | 2026-04-20T09:25:41 |                    |
+| DXG: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                   | 2026-04-17T19:15:21 |                    |
+| DXG: Thông báo thay đổi nhân sự - HĐQT                                                                     | 2026-04-17T19:14:00 |                    |
+| DXG: Thông báo thay đổi nhân sự - Chủ tịch UBKT                                                            | 2026-04-17T19:13:40 |                    |
+| DXG: Nghị quyết HĐQT về việc thay đổi nhân sự UBKT                                                         | 2026-04-17T19:12:47 |                    |
+| DXG: Nghị quyết HĐQT về việc thông qua ký kết thực hiện, hợp đồng, giao dịch với các bên liên quan         | 2026-04-17T19:10:57 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-29T00:00:00 | nan                 | nan                 |
+| 2026-04-17T00:00:00 | nan                 | nan                 |
+| 2026-03-26T00:00:00 | nan                 | nan                 |
+| 2026-03-26T00:00:00 | nan                 | nan                 |
+| 2026-03-26T00:00:00 | nan                 | nan                 |
+| 2026-03-26T00:00:00 | nan                 | nan                 |
+| 2026-03-09T00:00:00 | nan                 | nan                 |
+| 2026-03-09T00:00:00 | nan                 | nan                 |
+| 2026-03-09T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | 2026-03-06T00:00:00 | 2026-03-05T00:00:00 |
+| 2026-01-29T00:00:00 | nan                 | nan                 |
+| 2026-01-29T00:00:00 | nan                 | nan                 |
+| 2026-01-29T00:00:00 | nan                 | nan                 |
+| 2026-01-16T00:00:00 | nan                 | nan                 |
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | -0.70% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
@@ -216,22 +304,22 @@ _Không có dữ liệu_
 | DXG      | 2026-05-05 00:00:00 |  15.45 |  15.6  | 15.05 |   15.35 | 12856400 |
 | DXG      | 2026-05-06 00:00:00 |  15.35 |  15.85 | 15.2  |   15.8  | 18990600 |
 | DXG      | 2026-05-07 00:00:00 |  16    |  16    | 15.45 |   15.45 | 18767800 |
-| DXG      | 2026-05-08 00:00:00 |  15.4  |  15.5  | 15.3  |   15.35 |  3741500 |
+| DXG      | 2026-05-08 00:00:00 |  15.4  |  15.6  | 15.3  |   15.45 |  9818800 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      100 | Sell         | 472177964 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      900 | Sell         | 472178421 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      200 | Sell         | 472178409 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      300 | Sell         | 472178402 |
-| DXG      | 2026-05-08 13:00:01 |   15.4  |      100 | Buy          | 472178141 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      300 | Sell         | 472178087 |
-| DXG      | 2026-05-08 13:00:01 |   15.4  |      200 | Buy          | 472178076 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |     2500 | Sell         | 472178005 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      100 | Sell         | 472177965 |
-| DXG      | 2026-05-08 13:00:01 |   15.35 |      200 | Sell         | 472178003 |
+| DXG      | 2026-05-08 14:27:42 |   15.4  |     1300 | Buy          | 472556940 |
+| DXG      | 2026-05-08 14:27:42 |   15.4  |     1300 | Buy          | 472556944 |
+| DXG      | 2026-05-08 14:27:42 |   15.4  |      300 | Buy          | 472556941 |
+| DXG      | 2026-05-08 14:27:42 |   15.4  |     9700 | Buy          | 472556942 |
+| DXG      | 2026-05-08 14:27:42 |   15.4  |    10000 | Buy          | 472556943 |
+| DXG      | 2026-05-08 14:27:43 |   15.4  |    10000 | Sell         | 472557120 |
+| DXG      | 2026-05-08 14:27:44 |   15.45 |      100 | Buy          | 472557206 |
+| DXG      | 2026-05-08 14:27:46 |   15.4  |    19000 | Sell         | 472557419 |
+| DXG      | 2026-05-08 14:27:46 |   15.4  |     1000 | Sell         | 472557425 |
+| DXG      | 2026-05-08 14:27:50 |   15.45 |      100 | Buy          | 472557872 |
 
 <!-- END:DAILY -->
 

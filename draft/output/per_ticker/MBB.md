@@ -1,6 +1,6 @@
 # MBB — Ngân hàng TMCP Quân đội
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 13:11  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 08/05/2026 21:58  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -10,123 +10,205 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MBB |
-| exchange | HOSE |
-| market_cap | 210235497624900 |
-| 52w_high | 29000 |
-| 52w_high_date | 2026-02-11 |
-| 52w_low | 17625 |
-| 52w_low_date | 2025-05-09 |
-| foreign_ownership | 23.0658 |
-| dividend | 300 |
-| beta | 0.77 |
-| eps | 3848 |
-| eps_forward | 10.356444208128817 |
-| bvps | 18590.36 |
-| pe | 6.78 |
-| pb | 1.40 |
-| price_chg_1m | -1.88 |
-| price_chg_ytd | 47.77 |
-| price_chg_1m_rank | 8.72 |
-| price_chg_ytd_rank | 49.91 |
-| yield | 0.011494252873563218 |
-| financial_date | 12/2025 |
-| source | KBS |
+| organ_code | MBB |
+| current_price | 26100.0 |
+| market_cap | 210235497624900.0 |
+| number_of_shares_mkt_cap | 8054999909.0 |
+| ticker | MBB |
+| tag | None |
+| rating | BUY |
+| rating_as_of | 13-Mar-26 |
+| en_organ_name | Military Commercial Joint Stock Bank |
+| en_organ_short_name | MBBank |
+| vi_organ_name | Ngân hàng Thương mại Cổ phần Quân đội |
+| vi_organ_short_name | MBBank |
+| com_type_code | NH |
+| com_group_code | VNINDEX |
+| sector | Banks |
+| sector_vn | Ngân hàng |
+| average_match_value1_month | 394295690765.7895 |
+| average_match_volume1_month | 14944942.0 |
+| highest_price1_year | 29500.0 |
+| lowest_price1_year | 17414.0 |
+| foreigner_percentage | 0.2296027 |
+| maximum_foreign_percentage | 0.232351 |
+| state_percentage | 0.44344919 |
+| analyst | Ngoc Huynh |
+| upside_to_target_percent | 0.3409961686 |
+| dividend_per_share_tsr | 500.0 |
+| projected_tsr_percentage | 0.3601532567 |
+| target_price | 35000.0 |
+| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
+<p style="text-align: justify;">Hanoi-based Military Commercial Joint Stock Bank (MBB)&nbsp;was&nbsp;establi… |
+| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Qu&acirc;n đội (MBB) được th&agrave;nh lập từ n… |
+| in_cu | True |
+| icb_code_lv2 | 8300 |
+| icb_code_lv4 | 8355 |
+| free_float | 4027499954 |
+| free_float_percentage | 0.4999999999 |
+| listing_date | 2011-11-01T00:00:00 |
+| prev_insight | {'targetPrice': 32500.0, 'rating': 'BUY', 'ratingAsOf': '24-Nov-25', 'analyst': 'Ngoc Huynh', 'version': '20260323'} |
+| fund_info | None |
+| is_bank | True |
+| listing | True |
+| bank | True |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.2 |
-| MA5 | 26.08 |
-| MA10 | 26.125 |
-| EMA20 | 26.201 |
-| EMA50 | 26.312 |
-| Slope MA20 (5p, %) | -0.28 |
+| Giá đóng cửa | 26.15 |
+| MA5 | 26.07 |
+| MA10 | 26.12 |
+| EMA20 | 26.196 |
+| EMA50 | 26.31 |
+| Slope MA20 (5p, %) | -0.3 |
 | ATR(14) | 0.449 |
-| RSI(14) | 49.1 |
+| RSI(14) | 48.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.079 |
-| MACD Signal | -0.072 |
-| MACD Histogram | -0.007 |
+| MACD | -0.083 |
+| MACD Signal | -0.073 |
+| MACD Histogram | -0.01 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 22268203 |
+| KL avg 60 phiên | 22407510 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    28.3   | 0.71        | 1             |
-| 🔴 Kháng cự    |    27.076 | 3.96        | 3             |
-| 🔴 Kháng cự    |    26.45  | 0.9         | 1             |
-| ▶ Giá hiện tại |    26.2   | —           | —             |
-| 🟢 Hỗ trợ      |    26     | 0.8         | 1             |
-| 🟢 Hỗ trợ      |    25.65  | 0.57        | 1             |
-| 🟢 Hỗ trợ      |    25.45  | 1.28        | 1             |
+| 🔴 Kháng cự     |    28.3   | 0.71        | 1             |
+| 🔴 Kháng cự     |    27.076 | 3.96        | 3             |
+| 🔴 Kháng cự     |    26.45  | 0.9         | 1             |
+| ▶ Giá hiện tại |    26.15  | —           | —             |
+| 🟢 Hỗ trợ       |    26     | 0.8         | 1             |
+| 🟢 Hỗ trợ       |    25.65  | 0.57        | 1             |
+| 🟢 Hỗ trợ       |    25.45  | 1.28        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MBB |
-| pe | 6.78 |
-| pb | 1.40 |
-| roe | 21.14 |
-| roe_pct_rank | 71 |
-| roa | 1.95 |
-| roa_pct_rank | 39 |
-| eps | 3848 |
-| bvps | 18590.36 |
-| beta | 0.77 |
-| dividend | 300 |
-| yield | 0.011494252873563218 |
-| pe_pct_rank | 36 |
-| pb_pct_rank | 56 |
-| financial_date | 12/2025 |
-| source | KBS |
+| year | 2018 |
+| quarter | 1 |
+| ratio_ttm_id | 2697957 |
+| ratio_type | RATIO_TTM |
+| organ_code | MBB |
+| year_report | 2018 |
+| number_of_shares_mkt_cap | 2160451381 |
+| market_cap | 50338517177300.0 |
+| dividend_yield | 0.0 |
+| pe | 12.1797692909 |
+| pb | 1.4360078468 |
+| ps | 3.3119844521 |
+| price_to_cash_flow | 2.8870191449 |
+| ev_to_ebitda | 0.0 |
+| cash_ratio | 0.0 |
+| quick_ratio | 0.0 |
+| current_ratio | 0.0 |
+| owners_equity | 0.0 |
+| debt_per_equity | 0.0 |
+| debt_to_equity | 9.1949485961 |
+| roe | 0.1414558591 |
+| roa | 0.0137398229 |
+| day_sale_outstanding | 0.0 |
+| days_inventory_outstanding | 0.0 |
+| days_payable_outstanding | 0.0 |
+| gross_margin | 0.5781624051 |
+| ebit_margin | 0.0 |
+| pre_tax_profit_margin | 0.3567535385 |
+| after_tax_profit_margin | 0.2708411971 |
+| asset_turnover | 0.0 |
+| net_interest_margin | 0.0434264886 |
+| average_yield_on_earning_assets | 0.075467671 |
+| average_cost_of_financing | -0.0342670299 |
+| non_and_interest_income | 0.2826885209 |
+| cost_to_income | -0.3833301012 |
+| loans_growth | 0.051890322 |
+| deposit_growth | 0.0310743783 |
+| equity_to_liabilities | 0.108755366 |
+| equity_to_loans | 0.1601564688 |
+| total_equity_total_asset | 0.0980877923 |
+| ldr_loan_deposit_ratio | 0.8534382637 |
+| npl | 0.014092693 |
+| loans_loss_reserves_to_np_ls | -0.9097066033 |
+| loans_loss_reserve_to_loans | 0.0128202158 |
+| provision_to_outstanding_loans | -0.0185190292 |
+| ebit | 0.0 |
+| ebitda | 0.0 |
+| roic | 0.0 |
+| cash_cycle | 0.0 |
+| fixed_asset_turnover | 0.0 |
+| financial_leverage | 0.0 |
+| cir | -0.3833301012 |
+| car | 0.0 |
+| equity | None |
+| casa_ratio | 0.4222474615 |
+| nob66 | 74947326000000.0 |
+| nob69 | 18228199000000.0 |
+| nob70 | 2682188000000.0 |
+| bsb113 | 227017855000000.0 |
+| ratio_year_id | nan |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-04 | 10177100 | -54.3%     | 0.126%         |
-| 2026-05-05 | 12314500 | -44.7%     | 0.153%         |
-| 2026-05-06 | 16164500 | -27.4%     | 0.201%         |
-| 2026-05-07 | 16786200 | -24.6%     | 0.208%         |
-| 2026-05-08 | 13845600 | -37.8%     | 0.172%         |
+| 2026-05-04 | 10177100 | -54.6%     | 0.126%         |
+| 2026-05-05 | 12314500 | -45.0%     | 0.153%         |
+| 2026-05-06 | 16164500 | -27.9%     | 0.201%         |
+| 2026-05-07 | 16786200 | -25.1%     | 0.208%         |
+| 2026-05-08 | 22204000 | -0.9%      | 0.276%         |
 
-- KL trung bình 60 phiên: **22,268,203**
+- KL trung bình 60 phiên: **22,407,510**
 - Số CP lưu hành: **8,054,999,909**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime             | url                                                                                                                     |
-|:--------------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------------------|
-| Doanh thu quý 1 âm, LDG bị ngân hàng MB phong tỏa gần 1.6 ngàn tỷ đồng                      | 2026-05-07T14:41:47.613 | /2026/05/doanh-thu-quy-1-am-ldg-bi-ngan-hang-mb-phong-toa-gan-16-ngan-ty-dong-737-1439271.htm                           |
-| MB – Ngân hàng top đầu cấp vốn lưu động cho doanh nghiệp SME thuộc ngành kinh tế trọng điểm | 2026-05-07T10:52:00     | /2026/05/mb-8211-ngan-hang-top-dau-cap-von-luu-dong-cho-doanh-nghiep-sme-thuoc-nganh-kinh-te-trong-diem-757-1439184.htm |
-| Vay mua ô tô ngân hàng: Lộ trình thông minh để sở hữu xe mà không áp lực                    | 2026-05-06T16:02:00     | /2026/05/vay-mua-o-to-ngan-hang-lo-trinh-thong-minh-de-so-huu-xe-ma-khong-ap-luc-757-1438507.htm                        |
-| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng               | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                     |
-| MB lãi trước thuế quý 1 tăng 15%, động lực lớn từ tăng trưởng kinh doanh cốt lõi            | 2026-05-01T10:07:00     | /2026/05/mb-lai-truoc-thue-quy-1-tang-15-dong-luc-lon-tu-tang-truong-kinh-doanh-cot-loi-737-1436359.htm                 |
-| MBB: BCTC Hợp nhất quý 1 năm 2026                                                           | 2026-04-28T00:00:00     | /2026/04/mbb-bctc-hop-nhat-quy-1-nam-2026-737-1434963.htm                                                               |
-| MBB: BCTC quý 1 năm 2026                                                                    | 2026-04-28T00:00:00     | /2026/04/mbb-bctc-quy-1-nam-2026-737-1435195.htm                                                                        |
-| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB              | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm                     |
-| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026       | 2026-04-20T16:57:57     | /2026/04/mbb-nghi-quyet-hdqt-ve-viec-phe-duyet-phuong-an-phat-hanh-trai-phieu-thuong-nam-2026-737-1430618.htm           |
-| MBB: Thông báo thay đổi nhân sự                                                             | 2026-04-20T16:30:07     | /2026/04/mbb-thong-bao-thay-doi-nhan-su-214-1430551.htm                                                                 |
+| news_title                                                                                                  | public_date         | news_source_link   |
+|:------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
+| MBB: Nghị quyết HĐQT về việc phê duyệt phương án phát hành trái phiếu thường năm 2026                       | 2026-04-20T16:49:21 |                    |
+| MBB: Thông báo thay đổi nhân sự                                                                             | 2026-04-20T16:25:27 |                    |
+| MBB: Biên bản họp ĐHĐCĐ                                                                                     | 2026-04-20T09:15:24 |                    |
+| MBB: Nghị quyết ĐHĐCĐ bầu thay thế Thành viên HĐQT nhiệm kỳ 2024-2029                                       | 2026-04-20T09:14:50 |                    |
+| MBB: Nghị quyết ĐHĐCĐ cập nhật phương án khắc phục dự kiến trong trường hợp được can thiệp sớm              | 2026-04-20T09:13:48 |                    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung Quy chế tổ chức và hoạt động HĐQT và Quy chế Quản trị nội bộ | 2026-04-20T09:12:16 |                    |
+| MBB: Nghị quyết ĐHĐCĐ về việc sửa đổi, bổ sung điều lệ năm 2026                                             | 2026-04-20T09:10:59 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua BCTC và phương án phân phối lợi nhuận năm 2025                              | 2026-04-20T09:09:51 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua các vấn đề tại ĐHĐCĐTN 2026                                                 | 2026-04-20T09:08:39 |                    |
+| MBB: Nghị quyết ĐHĐCĐ thông qua phương án tăng vốn điều lệ                                                  | 2026-04-20T09:06:56 |                    |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-_Không có dữ liệu_
+| public_date         | record_date         | exright_date        |
+|:--------------------|:--------------------|:--------------------|
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-20T00:00:00 | nan                 | nan                 |
+| 2026-04-17T00:00:00 | nan                 | nan                 |
+| 2026-03-24T00:00:00 | nan                 | nan                 |
+| 2026-02-13T00:00:00 | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
+| 2026-02-04T00:00:00 | nan                 | nan                 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2026-01-30T00:00:00 | nan                 | nan                 |
+| 2025-12-22T00:00:00 | nan                 | nan                 |
+| 2025-11-14T00:00:00 | nan                 | nan                 |
+| 2025-10-24T00:00:00 | nan                 | nan                 |
+| 2025-10-14T00:00:00 | nan                 | nan                 |
+| 2025-10-03T00:00:00 | nan                 | nan                 |
+| 2025-08-08T00:00:00 | 2025-08-14T00:00:00 | 2025-08-13T00:00:00 |
 
 ## RS vs Ngành
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.83% |
+| % Ngành hôm nay | +0.77% |
 | % Cổ phiếu hôm nay | +0.19% |
-| RS (CP − Ngành) | -0.64% |
+| RS (CP − Ngành) | -0.58% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
@@ -222,22 +304,22 @@ _Không có dữ liệu_
 | MBB      | 2026-05-05 00:00:00 |  26    |  26.1  | 25.75 |   25.95 |  12314500 |
 | MBB      | 2026-05-06 00:00:00 |  26    |  26.15 | 25.85 |   26.05 |  16164500 |
 | MBB      | 2026-05-07 00:00:00 |  26.15 |  26.3  | 26    |   26.1  |  16786200 |
-| MBB      | 2026-05-08 00:00:00 |  26.1  |  26.55 | 26.05 |   26.2  |  13845600 |
+| MBB      | 2026-05-08 00:00:00 |  26.1  |  26.55 | 26.05 |   26.15 |  22204000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| MBB      | 2026-05-08 13:08:16 |   26.2  |      500 | Buy          | 472207220 |
-| MBB      | 2026-05-08 13:08:16 |   26.15 |     1300 | Sell         | 472207221 |
-| MBB      | 2026-05-08 13:08:16 |   26.15 |     1200 | Sell         | 472207223 |
-| MBB      | 2026-05-08 13:08:22 |   26.15 |      600 | Sell         | 472207764 |
-| MBB      | 2026-05-08 13:08:23 |   26.15 |     1200 | Sell         | 472207802 |
-| MBB      | 2026-05-08 13:08:23 |   26.15 |      200 | Sell         | 472207823 |
-| MBB      | 2026-05-08 13:08:23 |   26.15 |     1200 | Sell         | 472207801 |
-| MBB      | 2026-05-08 13:08:24 |   26.15 |     8600 | Sell         | 472207830 |
-| MBB      | 2026-05-08 13:08:24 |   26.15 |      200 | Sell         | 472207832 |
-| MBB      | 2026-05-08 13:08:24 |   26.15 |     1200 | Sell         | 472207834 |
+| MBB      | 2026-05-08 14:28:51 |   26.3  |      700 | Buy          | 472564481 |
+| MBB      | 2026-05-08 14:28:51 |   26.25 |     1100 | Sell         | 472564485 |
+| MBB      | 2026-05-08 14:28:51 |   26.3  |      500 | Buy          | 472564482 |
+| MBB      | 2026-05-08 14:28:51 |   26.3  |      100 | Buy          | 472564483 |
+| MBB      | 2026-05-08 14:28:51 |   26.3  |     5100 | Buy          | 472564484 |
+| MBB      | 2026-05-08 14:28:52 |   26.25 |     2900 | Buy          | 472564542 |
+| MBB      | 2026-05-08 14:28:52 |   26.3  |     3500 | Buy          | 472564543 |
+| MBB      | 2026-05-08 14:28:55 |   26.3  |      800 | Buy          | 472564847 |
+| MBB      | 2026-05-08 14:28:55 |   26.3  |      100 | Buy          | 472564848 |
+| MBB      | 2026-05-08 14:28:55 |   26.3  |      100 | Buy          | 472564849 |
 
 <!-- END:DAILY -->
 
