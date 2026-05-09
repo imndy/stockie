@@ -1,6 +1,6 @@
 # OCB — Ngân hàng TMCP Phương Đông
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 21:59  |  🗂 Quarterly: 03/05/2026 14:13
+> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:13
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | OCB |
-| organ_code | OCB |
-| current_price | 11250.0 |
-| market_cap | 29959338195000.0 |
-| number_of_shares_mkt_cap | 2663052284.0 |
-| ticker | OCB |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Orient Commercial Joint Stock Bank |
-| en_organ_short_name | OCB Bank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Phương Đông |
-| vi_organ_short_name | Ngân hàng Phương Đông |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 20095688302.631577 |
-| average_match_volume1_month | 1752465.0 |
-| highest_price1_year | 15400.0 |
-| lowest_price1_year | 9177.0 |
-| foreigner_percentage | 0.19640186 |
-| maximum_foreign_percentage | 0.22 |
-| state_percentage | 0.08613442 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Orient Commercial Joint Stock Bank (OCB) was established&nbsp;in 1996. The Bank has its b… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Phương Đ&ocirc;ng (OCB) được th&agrave;nh lập v… |
-| in_cu | False |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 798915685 |
-| free_float_percentage | 0.2999999999 |
-| listing_date | 2021-01-28T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 29959338195000 |
+| 52w_high | 14600 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 9315 |
+| 52w_low_date | 2025-05-12 |
+| foreign_ownership | 19.672 |
+| dividend | 700 |
+| beta | 0.67 |
+| eps | 1667 |
+| eps_forward | 4.304506531371244 |
+| bvps | 13105.53 |
+| pe | 6.75 |
+| pb | 0.86 |
+| price_chg_1m | -1.32 |
+| price_chg_ytd | 21.35 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.06222222222222222 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,10 +40,10 @@
 | MA5 | 11.21 |
 | MA10 | 11.29 |
 | EMA20 | 11.311 |
-| EMA50 | 11.341 |
+| EMA50 | 11.337 |
 | Slope MA20 (5p, %) | -0.56 |
 | ATR(14) | 0.222 |
-| RSI(14) | 47.6 |
+| RSI(14) | 47.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -78,78 +58,33 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    11.875 | 5.51        | 5             |
-| 🔴 Kháng cự     |    11.65  | 3.09        | 4             |
-| 🔴 Kháng cự     |    11.35  | 0.92        | 1             |
+| 🔴 Kháng cự    |    11.875 | 5.49        | 5             |
+| 🔴 Kháng cự    |    11.65  | 3.06        | 4             |
+| 🔴 Kháng cự    |    11.35  | 0.91        | 1             |
 | ▶ Giá hiện tại |    11.25  | —           | —             |
-| 🟢 Hỗ trợ       |    10.722 | 2.45        | 2             |
-| 🟢 Hỗ trợ       |    10.4   | 1.06        | 1             |
+| 🟢 Hỗ trợ      |    10.722 | 2.44        | 2             |
+| 🟢 Hỗ trợ      |    10.4   | 1.06        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | OCB |
-| year | 2021 |
-| quarter | 1 |
-| ratio_ttm_id | 2761013 |
-| ratio_type | RATIO_TTM |
-| organ_code | OCB |
-| year_report | 2021 |
-| number_of_shares_mkt_cap | 1095906343 |
-| market_cap | 30027833798200.0 |
-| dividend_yield | 0.0 |
-| pe | 7.9711078048 |
-| pb | 1.6263455165 |
-| ps | 3.7268746753 |
-| price_to_cash_flow | 15.2862363476 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 7.6819107486 |
-| roe | 0.2178494541 |
-| roa | 0.0256823189 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.7042068879 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.5695434802 |
-| after_tax_profit_margin | 0.4544283441 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0387631183 |
-| average_yield_on_earning_assets | 0.0822358882 |
-| average_cost_of_financing | -0.0492504669 |
-| non_and_interest_income | 0.5007929528 |
-| cost_to_income | -0.2844425414 |
-| loans_growth | 0.0426308817 |
-| deposit_growth | 0.0596642581 |
-| equity_to_liabilities | 0.1301759462 |
-| equity_to_loans | 0.198440964 |
-| total_equity_total_asset | 0.115182018 |
-| ldr_loan_deposit_ratio | 1.0072509205 |
-| npl | 0.0169402494 |
-| loans_loss_reserves_to_np_ls | -0.6322935582 |
-| loans_loss_reserve_to_loans | 0.0107112106 |
-| provision_to_outstanding_loans | -0.0128109036 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.2844425414 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.0973481956 |
-| nob66 | 8687286177622.0 |
-| nob69 | 234479385387.0 |
-| nob70 | 70520034307.0 |
-| bsb113 | 92372391066741.0 |
-| ratio_year_id | nan |
+| pe | 6.75 |
+| pb | 0.86 |
+| roe | 12.28 |
+| roe_pct_rank | 52 |
+| roa | 1.33 |
+| roa_pct_rank | 37 |
+| eps | 1667 |
+| bvps | 13105.53 |
+| beta | 0.67 |
+| dividend | 700 |
+| yield | 0.06222222222222222 |
+| pe_pct_rank | 36 |
+| pb_pct_rank | 36 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +101,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| OCB: Nghị quyết HĐQT số 45/2026 ngày 24/04/2026                                                                           | 2026-04-24T18:51:20 |                    |
-| OCB: Nghị quyết HĐQT số 46/2026 ngày 24/04/2026                                                                           | 2026-04-24T18:49:47 |                    |
-| OCB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                                        | 2026-04-22T16:41:47 |                    |
-| OCB: Thông báo thay đổi nhân sự                                                                                           | 2026-04-15T18:09:29 |                    |
-| OCB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-15T18:08:42 |                    |
-| OCB: Thông báo nhận được Công văn của NHNN Chi nhánh Khu vực 6 về việc thay đổi địa điểm Chi nhánh Hải Phòng - PGD Lê Ch… | 2026-04-13T16:42:31 |                    |
-| OCB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Nguyễn Việt Triều                         | 2026-04-10T18:39:40 |                    |
-| OCB: Nhắc nhở chậm công bố thông tin Báo cáo thường niên năm 2025                                                         | 2026-04-10T09:09:49 |                    |
-| OCB: Báo cáo thường niên năm 2025                                                                                         | 2026-04-09T10:23:07 |                    |
-| OCB: Nghị quyết HĐQT số 40/2026 ngày 07/04/2026                                                                           | 2026-04-08T17:35:51 |                    |
+| title                                                                             | publishtime             | url                                                                                                       |
+|:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| OCB tri ân khách hàng mừng sinh nhật tuổi 30                                      | 2026-05-06T08:50:43.477 | /2026/05/ocb-tri-an-khach-hang-mung-sinh-nhat-tuoi-30-757-1438271.htm                                     |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng     | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm       |
+| OCB: Nghị quyết HĐQT số 46/2026 ngày 24/04/2026                                   | 2026-04-24T18:54:52     | /2026/04/ocb-nghi-quyet-hdqt-so-46-2026-ngay-24-04-2026-737-1433844.htm                                   |
+| OCB: Nghị quyết HĐQT số 45/2026 ngày 24/04/2026                                   | 2026-04-24T18:54:51     | /2026/04/ocb-nghi-quyet-hdqt-so-45-2026-ngay-24-04-2026-737-1433845.htm                                   |
+| Thẻ OCB mang đến loạt ưu đãi trong dịp lễ                                         | 2026-04-24T15:17:00     | /2026/04/the-ocb-mang-den-loat-uu-dai-trong-dip-le-757-1433258.htm                                        |
+| OCB và NGF Partner ký kết hợp tác chiến lược hỗ trợ doanh nghiệp SME Việt Nam     | 2026-04-24T08:02:00     | /2026/04/ocb-va-ngf-partner-ky-ket-hop-tac-chien-luoc-ho-tro-doanh-nghiep-sme-viet-nam-757-1432700.htm    |
+| Lợi nhuận quý 1/2026 OCB đạt 1,224 tỷ đồng, ghi nhận tăng trưởng ấn tượng         | 2026-04-22T17:17:00     | /2026/04/loi-nhuan-quy-12026-ocb-dat-1224-ty-dong-ghi-nhan-tang-truong-an-tuong-737-1432082.htm           |
+| OCB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                | 2026-04-22T16:41:47     | /2026/04/ocb-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1432133.htm                |
+| OCB đẩy mạnh hoạt động cộng đồng, tiếp sức cho nhiều trẻ em mắc bệnh tim bẩm sinh | 2026-04-22T08:32:00     | /2026/04/ocb-day-manh-hoat-dong-cong-dong-tiep-suc-cho-nhieu-tre-em-mac-benh-tim-bam-sinh-757-1431563.htm |
+| OCB: BCTC Hợp nhất quý 1 năm 2026                                                 | 2026-04-22T00:00:00     | /2026/04/ocb-bctc-hop-nhat-quy-1-nam-2026-737-1432139.htm                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-15T00:00:00 | nan                 | nan                 |
-| 2026-04-10T00:00:00 | nan                 | nan                 |
-| 2026-02-13T00:00:00 | 2026-03-16T00:00:00 | 2026-03-13T00:00:00 |
-| 2025-10-22T00:00:00 | nan                 | nan                 |
-| 2025-10-03T00:00:00 | nan                 | nan                 |
-| 2025-10-03T00:00:00 | nan                 | nan                 |
-| 2025-10-01T00:00:00 | nan                 | nan                 |
-| 2025-09-24T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | 2025-08-11T00:00:00 | 2025-08-08T00:00:00 |
-| 2025-07-15T00:00:00 | nan                 | nan                 |
-| 2025-07-09T00:00:00 | nan                 | nan                 |
-| 2025-07-08T00:00:00 | 2025-07-18T00:00:00 | 2025-07-17T00:00:00 |
-| 2025-07-03T00:00:00 | nan                 | nan                 |
-| 2025-06-16T00:00:00 | nan                 | nan                 |
-| 2025-05-13T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | -0.77% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

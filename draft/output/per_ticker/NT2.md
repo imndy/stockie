@@ -1,6 +1,6 @@
 # NT2 — CTCP Điện lực Dầu khí Nhơn Trạch 2
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 08/05/2026 21:59  |  🗂 Quarterly: 03/05/2026 14:13
+> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:13
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NT2 |
-| organ_code | NT2 |
-| current_price | 24350.0 |
-| market_cap | 7009781306150.0 |
-| number_of_shares_mkt_cap | 287876029.0 |
-| ticker | NT2 |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 26-Feb-26 |
-| en_organ_name | PetroVietnam Power Nhon Trach 2 Joint Stock Company |
-| en_organ_short_name | Nhon Trach 2 Power |
-| vi_organ_name | Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2 |
-| vi_organ_short_name | Điện lực Nhơn Trạch 2 |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Utilities |
-| sector_vn | Điện, nước & xăng dầu khí đốt |
-| average_match_value1_month | 21329171184.210526 |
-| average_match_volume1_month | 844454.0 |
-| highest_price1_year | 29450.0 |
-| lowest_price1_year | 17033.0 |
-| foreigner_percentage | 0.1140661 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.61848845 |
-| analyst | Loc Pham |
-| upside_to_target_percent | 0.2443531828 |
-| dividend_per_share_tsr | 2500.0 |
-| projected_tsr_percentage | 0.3470225873 |
-| target_price | 30300.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Nhon Trach 2 Power Joint Stock Company (NT2) was established in 2007 to implement the investment and construct… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Điện lực Dầu kh&iacute; Nhơn Trạch 2 (NT2) được th&agrave;nh lập năm 2007 để thực hiện đ… |
-| in_cu | True |
-| icb_code_lv2 | 7500 |
-| icb_code_lv4 | 7535 |
-| free_float | 86362808 |
-| free_float_percentage | 0.2999999976 |
-| listing_date | 2010-01-22T00:00:00 |
-| prev_insight | {'targetPrice': 28600.0, 'rating': 'BUY', 'ratingAsOf': '10-Dec-25', 'analyst': 'Loc Pham', 'version': '20260226'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 6621148667000 |
+| 52w_high | 28900 |
+| 52w_high_date | 2026-03-02 |
+| 52w_low | 17324 |
+| 52w_low_date | 2025-06-13 |
+| foreign_ownership | 11.4411 |
+| dividend | 700 |
+| beta | 0.62 |
+| eps | 3969 |
+| eps_forward | 25.146386046079332 |
+| bvps | 17505 |
+| pe | 6.13 |
+| pb | 1.39 |
+| price_chg_1m | -10.51 |
+| price_chg_ytd | 27.09 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.030434782608695653 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,9 +40,9 @@
 | MA5 | 24.15 |
 | MA10 | 24.38 |
 | EMA20 | 25.012 |
-| EMA50 | 25.644 |
+| EMA50 | 25.646 |
 | Slope MA20 (5p, %) | -2.34 |
-| ATR(14) | 0.764 |
+| ATR(14) | 0.763 |
 | RSI(14) | 29.7 |
 | RSI nhận xét | Quá bán |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
@@ -78,9 +58,9 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    25.2   | 1.07        | 1             |
-| 🔴 Kháng cự     |    24.732 | 2.45        | 2             |
-| 🔴 Kháng cự     |    23.993 | 2.72        | 3             |
+| 🔴 Kháng cự    |    25.2   | 1.07        | 1             |
+| 🔴 Kháng cự    |    24.732 | 2.44        | 2             |
+| 🔴 Kháng cự    |    23.993 | 2.7         | 3             |
 | ▶ Giá hiện tại |    23     | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
@@ -88,66 +68,21 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NT2 |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2697982 |
-| ratio_type | RATIO_TTM |
-| organ_code | NT2 |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 287876029 |
-| market_cap | 7715077577200.0 |
-| dividend_yield | 0.0 |
-| pe | 9.9023232594 |
-| pb | 1.4779025189 |
-| ps | 1.1000630953 |
-| price_to_cash_flow | 4.4734940258 |
-| ev_to_ebitda | 5.7372512568 |
-| cash_ratio | 0.0921721245 |
-| quick_ratio | 1.3661542597 |
-| current_ratio | 1.454891622 |
-| owners_equity | 0.5129708065 |
-| debt_per_equity | 0.7208125929 |
-| debt_to_equity | 1.0788097607 |
-| roe | 0.1572405076 |
-| roa | 0.0759029567 |
-| day_sale_outstanding | 92.1083206995 |
-| days_inventory_outstanding | 17.1271685122 |
-| days_payable_outstanding | 59.8645518433 |
-| gross_margin | 0.1948082823 |
-| ebit_margin | 0.1798558797 |
-| pre_tax_profit_margin | 0.116989474 |
-| after_tax_profit_margin | 0.1110914143 |
-| asset_turnover | 0.6832477312 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 1261384070316.0 |
-| ebitda | 1954207868681.0 |
-| roic | 0.1404168605 |
-| cash_cycle | 167.5547981306 |
-| fixed_asset_turnover | 1.1072507723 |
-| financial_leverage | 1.0788097607 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 6.13 |
+| pb | 1.39 |
+| roe | 22.42 |
+| roe_pct_rank | 73 |
+| roa | 11.22 |
+| roa_pct_rank | 72 |
+| eps | 3969 |
+| bvps | 17505 |
+| beta | 0.62 |
+| dividend | 700 |
+| yield | 0.030434782608695653 |
+| pe_pct_rank | 35 |
+| pb_pct_rank | 56 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -164,48 +99,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                      | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------|:--------------------|:-------------------|
-| NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026                     | 2026-04-21T17:56:48 |                    |
-| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026 | 2026-04-07T16:20:24 |                    |
-| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                               | 2026-04-07T16:20:00 |                    |
-| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026             | 2026-04-03T18:18:54 |                    |
-| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026           | 2026-04-03T18:17:19 |                    |
-| NT2: Báo cáo thường niên năm 2025                                               | 2026-03-19T17:09:02 |                    |
-| NT2: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                  | 2026-03-03T17:38:57 |                    |
-| NT2: Nghị quyết HĐQT về việc triệu tập họp ĐHĐCĐ thường niên năm 2026           | 2026-02-26T17:56:49 |                    |
-| NT2: Báo cáo tình hình quản trị Công ty năm 2025                                | 2026-01-28T08:26:47 |                    |
-| NT2: Quyết định của HĐQT về việc tạm giao kế hoạch SXKD năm 2026                | 2025-12-26T16:55:04 |                    |
+| title                                                                           | publishtime             | url                                                                                                     |
+|:--------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------|
+| NT2: Tài liệu họp ĐHĐCĐ thường niên năm 2026                                    | 2026-05-07T17:40:54     | /2026/05/nt2-tai-lieu-hop-dhdcd-thuong-nien-nam-2026-737-1439674.htm                                    |
+| NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026                     | 2026-04-21T17:58:47     | /2026/04/nt2-bo-sung-bctc-quy-1-2026-kem-giai-trinh-kqkd-quy-1-2026-737-1431518.htm                     |
+| NT2: BCTC Tóm tắt quý 1 năm 2026                                                | 2026-04-20T00:00:00     | /2026/04/nt2-bctc-tom-tat-quy-1-nam-2026-737-1430000.htm                                                |
+| MCH, NT2 và PNJ có triển vọng gì?                                               | 2026-04-13T12:01:35.44  | /2026/04/mch-nt2-va-pnj-co-trien-vong-gi-145-1426686.htm                                                |
+| NT2: Thông báo về ngày đăng ký cuối cùng tổ chức họp ĐHĐCĐ thường niên năm 2026 | 2026-04-07T16:33:33     | /2026/04/nt2-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-hop-dhdcd-thuong-nien-nam-2026-737-1424218.htm |
+| NT2: Thông báo về việc hủy ngày đăng ký cuối cùng                               | 2026-04-07T16:33:32     | /2026/04/nt2-thong-bao-ve-viec-huy-ngay-dang-ky-cuoi-cung-737-1424217.htm                               |
+| NT2: Nghị quyết HĐQT về việc điều chỉnh kế hoạch tổ chức ĐHĐCĐTN 2026           | 2026-04-03T18:20:59     | /2026/04/nt2-nghi-quyet-hdqt-ve-viec-dieu-chinh-ke-hoach-to-chuc-dhdcdtn-2026-737-1422891.htm           |
+| NT2: CBTT ngày ĐKCC thực hiện quyền chốt DSCĐ tham dự ĐHĐCĐ TN 2026             | 2026-04-03T18:20:57     | /2026/04/nt2-cbtt-ngay-dkcc-thuc-hien-quyen-chot-dscd-tham-du-dhdcd-tn-2026-737-1422885.htm             |
+| Phân tích kỹ thuật phiên chiều 25/03: Phục hồi mạnh                             | 2026-03-25T13:05:40.627 | /2026/03/phan-tich-ky-thuat-phien-chieu-2503-phuc-hoi-manh-585-1416131.htm                              |
+| NT2: Báo cáo thường niên năm 2025                                               | 2026-03-19T17:10:23     | /2026/03/nt2-bao-cao-thuong-nien-nam-2025-737-1414161.htm                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-07T00:00:00 | 2026-04-24T00:00:00 | 2026-04-23T00:00:00 |
-| 2025-10-14T00:00:00 | 2025-10-22T00:00:00 | 2025-10-21T00:00:00 |
-| 2025-07-16T00:00:00 | nan                 | nan                 |
-| 2025-07-16T00:00:00 | nan                 | nan                 |
-| 2025-05-06T00:00:00 | nan                 | nan                 |
-| 2025-04-14T00:00:00 | 2025-04-28T00:00:00 | 2025-04-25T00:00:00 |
-| 2025-02-19T00:00:00 | nan                 | nan                 |
-| 2025-01-14T00:00:00 | 2025-01-20T00:00:00 | 2025-01-17T00:00:00 |
-| 2024-04-09T00:00:00 | 2024-04-25T00:00:00 | 2024-04-24T00:00:00 |
-| 2024-03-06T00:00:00 | 2024-03-15T00:00:00 | 2024-03-14T00:00:00 |
-| 2023-09-07T00:00:00 | 2023-09-15T00:00:00 | 2023-09-14T00:00:00 |
-| 2023-07-20T00:00:00 | nan                 | nan                 |
-| 2023-06-06T00:00:00 | nan                 | nan                 |
-| 2023-03-17T00:00:00 | 2023-03-24T00:00:00 | 2023-03-23T00:00:00 |
-| 2023-03-07T00:00:00 | 2023-03-17T00:00:00 | 2023-03-16T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Tiện ích |
-| % Ngành hôm nay | -1.28% |
-| % Cổ phiếu hôm nay | -5.54% |
-| RS (CP − Ngành) | -4.26% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # STB — Ngân hàng TMCP Sài Gòn Thương Tín
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 22:01  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 09/05/2026 13:38  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | STB |
-| organ_code | STB |
-| current_price | 73700.0 |
-| market_cap | 138940398269200.0 |
-| number_of_shares_mkt_cap | 1885215716.0 |
-| ticker | STB |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 08-Dec-25 |
-| en_organ_name | SaiGon Thuong Tin Commercial Joint Stock Bank |
-| en_organ_short_name | Sacombank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín |
-| vi_organ_short_name | Sacombank |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 497108377568.4211 |
-| average_match_volume1_month | 7345940.0 |
-| highest_price1_year | 73700.0 |
-| lowest_price1_year | 38750.0 |
-| foreigner_percentage | 0.12395455 |
-| maximum_foreign_percentage | 0.3 |
-| state_percentage | 4.332e-05 |
-| analyst | Nga Ho |
-| upside_to_target_percent | -0.2483039349 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | -0.2483039349 |
-| target_price | 55400.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Saigon Thuong Tin Commercial Joint Stock Bank (STB) was established in 1991 on the basi… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần S&agrave;i G&ograve;n Thương T&iacute;n (STB) được th&agrave;nh lập&… |
-| in_cu | True |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 1790954930 |
-| free_float_percentage | 0.9499999999 |
-| listing_date | 2006-07-12T00:00:00 |
-| prev_insight | {'targetPrice': 62400.0, 'rating': 'O-PF', 'ratingAsOf': '25-Aug-25', 'analyst': 'Nga Ho', 'version': '20251209'} |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 138563355126000 |
+| 52w_high | 73700 |
+| 52w_high_date | 2026-05-07 |
+| 52w_low | 39000 |
+| 52w_low_date | 2025-05-19 |
+| foreign_ownership | 12.438 |
+| dividend | 0 |
+| beta | 0.64 |
+| eps | 2454 |
+| eps_forward | 17.153137720843738 |
+| bvps | 32609.85 |
+| pe | 30.03 |
+| pb | 2.26 |
+| price_chg_1m | 10.86 |
+| price_chg_ytd | 84.91 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,16 +40,16 @@
 | MA5 | 69.78 |
 | MA10 | 68.13 |
 | EMA20 | 67.179 |
-| EMA50 | 64.637 |
+| EMA50 | 64.655 |
 | Slope MA20 (5p, %) | 3.02 |
-| ATR(14) | 2.553 |
-| RSI(14) | 69.3 |
+| ATR(14) | 2.552 |
+| RSI(14) | 69.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 1.943 |
-| MACD Signal | 1.197 |
+| MACD Signal | 1.196 |
 | MACD Histogram | 0.746 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 9432045 |
@@ -80,75 +59,30 @@
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | ▶ Giá hiện tại |    73.5   | —           | —             |
-| 🟢 Hỗ trợ       |    70.2   | 1.02        | 1             |
-| 🟢 Hỗ trợ       |    68.973 | 2.43        | 2             |
-| 🟢 Hỗ trợ       |    66.4   | 0.78        | 1             |
+| 🟢 Hỗ trợ      |    70.2   | 1.02        | 1             |
+| 🟢 Hỗ trợ      |    68.973 | 2.42        | 2             |
+| 🟢 Hỗ trợ      |    66.4   | 0.77        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | STB |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698794 |
-| ratio_type | RATIO_TTM |
-| organ_code | STB |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 1803653429 |
-| market_cap | 19840187719000.0 |
-| dividend_yield | 0.0 |
-| pe | 14.599354914 |
-| pb | 0.8760872981 |
-| ps | 2.1322910411 |
-| price_to_cash_flow | 3.7035796968 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 15.1066898162 |
-| roe | 0.0589797935 |
-| roa | 0.0036998247 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.2805915848 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.1808820207 |
-| after_tax_profit_margin | 0.1460537835 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0191316062 |
-| average_yield_on_earning_assets | 0.0744633436 |
-| average_cost_of_financing | -0.0505996485 |
-| non_and_interest_income | 0.4017286188 |
-| cost_to_income | -0.7504701328 |
-| loans_growth | 0.0291296307 |
-| deposit_growth | 0.0605739705 |
-| equity_to_liabilities | 0.0661958385 |
-| equity_to_loans | 0.103165706 |
-| total_equity_total_asset | 0.0620860035 |
-| ldr_loan_deposit_ratio | 0.6763487045 |
-| npl | 0.0401141325 |
-| loans_loss_reserves_to_np_ls | -0.3093332056 |
-| loans_loss_reserve_to_loans | 0.0124086332 |
-| provision_to_outstanding_loans | -0.004151306 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.7504701328 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.1506548582 |
-| nob66 | 50253979000000.0 |
-| nob69 | 486166000000.0 |
-| nob70 | 367218000000.0 |
-| bsb113 | 339234749000000.0 |
-| ratio_year_id | nan |
+| pe | 30.03 |
+| pb | 2.26 |
+| roe | 10.34 |
+| roe_pct_rank | 48 |
+| roa | 0.71 |
+| roa_pct_rank | 30 |
+| eps | 2454 |
+| bvps | 32609.85 |
+| beta | 0.64 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 85 |
+| pb_pct_rank | 80 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -165,48 +99,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                              | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| Sacombank (STB): Chi phí dự phòng tăng mạnh trong quý đầu năm 2026                                      | 2026-05-04T16:41:00 |                    |
-| STB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước                                    | 2026-04-29T15:49:57 |                    |
-| STB: CBTT về việc sửa đổi nội dung Giấy phép thành lập và hoạt động                                     | 2026-04-28T09:46:12 |                    |
-| STB: Đính chính thông tin ngày có hiệu lực thay đổi nhân sự cấp cao                                     | 2026-04-24T18:06:37 |                    |
-| STB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm tài chính 2025                                    | 2026-04-24T16:37:47 |                    |
-| STB: Thông báo thay đổi nhân sự                                                                         | 2026-04-24T09:35:07 |                    |
-| STB: Thông báo thay đổi nhân sự                                                                         | 2026-04-23T17:17:55 |                    |
-| STB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm tài chính 2025                                    | 2026-04-23T16:59:28 |                    |
-| Ông Nguyễn Đức Thụy được bầu làm Phó chủ tịch thường trực HĐQT Sacombank (STB)                          | 2026-04-22T21:10:00 |                    |
-| Sacombank (STB): Ông Nguyễn Đức Thụy trúng cử thành viên HĐQT, rút tờ trình gia hạn tái cơ cấu đến 2030 | 2026-04-22T07:18:00 |                    |
+| title                                                                                    | publishtime             | url                                                                                                            |
+|:-----------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------------------------------------------|
+| SACOMBANK thay đổi nhân sự cấp cao                                                       | 2026-05-08T19:34:07.847 | /2026/05/sacombank-thay-doi-nhan-su-cap-cao-214-1440422.htm                                                    |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng            | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm            |
+| Tăng thu ngoài lãi, củng cố dự phòng, Sacombank lãi trước thuế 2,106 tỷ đồng trong quý 1 | 2026-05-01T11:12:00     | /2026/05/tang-thu-ngoai-lai-cung-co-du-phong-sacombank-lai-truoc-thue-2106-ty-dong-trong-quy-1-737-1436363.htm |
+| STB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước                     | 2026-04-29T15:49:57     | /2026/04/stb-giai-trinh-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436312.htm                   |
+| STB: BCTC quý 1 năm 2026                                                                 | 2026-04-29T00:00:00     | /2026/04/stb-bctc-quy-1-nam-2026-737-1435589.htm                                                               |
+| STB: BCTC Hợp nhất quý 1 năm 2026                                                        | 2026-04-29T00:00:00     | /2026/04/stb-bctc-hop-nhat-quy-1-nam-2026-737-1435590.htm                                                      |
+| STB: CBTT về việc sửa đổi nội dung Giấy phép thành lập và hoạt động                      | 2026-04-28T09:46:12     | /2026/04/stb-cbtt-ve-viec-sua-doi-noi-dung-giay-phep-thanh-lap-va-hoat-dong-830-1434329.htm                    |
+| SACOMBANK và Vingroup ký kết hợp tác chiến lược toàn diện                                | 2026-04-24T18:15:33.007 | /2026/04/sacombank-va-vingroup-ky-ket-hop-tac-chien-luoc-toan-dien-757-1433603.htm                             |
+| STB: Đính chính thông tin ngày có hiệu lực thay đổi nhân sự cấp cao                      | 2026-04-24T18:06:37     | /2026/04/stb-dinh-chinh-thong-tin-ngay-co-hieu-luc-thay-doi-nhan-su-cap-cao-214-1433764.htm                    |
+| STB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm tài chính 2025                     | 2026-04-24T16:37:47     | /2026/04/stb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-tai-chinh-2025-737-1433592.htm                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-02-26T00:00:00 | 2026-03-16T00:00:00 | 2026-03-13T00:00:00 |
-| 2025-12-17T00:00:00 | nan                 | nan                 |
-| 2025-11-04T00:00:00 | nan                 | nan                 |
-| 2025-03-07T00:00:00 | nan                 | nan                 |
-| 2025-02-27T00:00:00 | 2025-03-10T00:00:00 | 2025-03-07T00:00:00 |
-| 2024-04-05T00:00:00 | nan                 | nan                 |
-| 2024-03-01T00:00:00 | 2024-03-14T00:00:00 | 2024-03-13T00:00:00 |
-| 2023-11-08T00:00:00 | nan                 | nan                 |
-| 2023-11-08T00:00:00 | nan                 | nan                 |
-| 2023-10-23T00:00:00 | nan                 | nan                 |
-| 2023-10-23T00:00:00 | nan                 | nan                 |
-| 2023-10-23T00:00:00 | nan                 | nan                 |
-| 2023-07-05T00:00:00 | nan                 | nan                 |
-| 2023-05-29T00:00:00 | nan                 | nan                 |
-| 2023-05-29T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | -0.27% |
-| RS (CP − Ngành) | -1.04% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

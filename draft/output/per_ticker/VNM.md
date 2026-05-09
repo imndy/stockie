@@ -1,6 +1,6 @@
 # VNM — CTCP Sữa Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 08/05/2026 22:03  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VNM |
-| organ_code | VNM |
-| current_price | 61500.0 |
-| market_cap | 128532259867500.0 |
-| number_of_shares_mkt_cap | 2089955445.0 |
-| ticker | VNM |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 24-Apr-25 |
-| en_organ_name | Vietnam Dairy Products Joint Stock Company |
-| en_organ_short_name | Vinamilk |
-| vi_organ_name | Công ty Cổ phần Sữa Việt Nam |
-| vi_organ_short_name | VINAMILK |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 235517106631.57895 |
-| average_match_volume1_month | 3812518.0 |
-| highest_price1_year | 75500.0 |
-| lowest_price1_year | 52058.0 |
-| foreigner_percentage | 0.48917208 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.36073812 |
-| analyst | Vinh Bui |
-| upside_to_target_percent | 0.1430894309 |
-| dividend_per_share_tsr | 4000.0 |
-| projected_tsr_percentage | 0.2081300813 |
-| target_price | 70300.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Vietnam Dairy Products Joint Stock Company (VNM), formerly known&nbsp;as Southern Coffe… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Sữa Việt Nam (VNM) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Sữa &ndash; C&agrav… |
-| in_cu | True |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3577 |
-| free_float | 835982178 |
-| free_float_percentage | 0.4 |
-| listing_date | 2006-01-19T00:00:00 |
-| prev_insight | {'targetPrice': 78200.0, 'rating': 'BUY', 'ratingAsOf': '31-Dec-24', 'analyst': 'Ha Huynh', 'version': '20250424'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 127278286600500 |
+| 52w_high | 73400 |
+| 52w_high_date | 2026-01-20 |
+| 52w_low | 52196 |
+| 52w_low_date | 2025-06-02 |
+| foreign_ownership | 48.9388 |
+| dividend | 4850 |
+| beta | 0.5 |
+| eps | 4914 |
+| eps_forward | 13.078177731372103 |
+| bvps | 17554 |
+| pe | 12.51 |
+| pb | 3.50 |
+| price_chg_1m | -1.46 |
+| price_chg_ytd | 14.31 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.07963875205254516 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,16 +40,16 @@
 | MA5 | 61.18 |
 | MA10 | 61.32 |
 | EMA20 | 61.442 |
-| EMA50 | 62.342 |
+| EMA50 | 62.382 |
 | Slope MA20 (5p, %) | -0.27 |
-| ATR(14) | 1.186 |
-| RSI(14) | 44.2 |
+| ATR(14) | 1.187 |
+| RSI(14) | 44.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.299 |
-| MACD Signal | -0.345 |
+| MACD | -0.3 |
+| MACD Signal | -0.347 |
 | MACD Histogram | 0.046 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 5471913 |
@@ -79,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    68.1   | 0.92        | 1             |
-| 🔴 Kháng cự     |    66.1   | 0.81        | 1             |
-| 🔴 Kháng cự     |    64     | 1.31        | 1             |
+| 🔴 Kháng cự    |    68.1   | 0.91        | 1             |
+| 🔴 Kháng cự    |    66.1   | 0.81        | 1             |
+| 🔴 Kháng cự    |    64     | 1.31        | 1             |
 | ▶ Giá hiện tại |    60.9   | —           | —             |
-| 🟢 Hỗ trợ       |    60.3   | 1.44        | 1             |
-| 🟢 Hỗ trợ       |    59.687 | 4.34        | 4             |
-| 🟢 Hỗ trợ       |    58.1   | 1.06        | 1             |
+| 🟢 Hỗ trợ      |    60.3   | 1.44        | 1             |
+| 🟢 Hỗ trợ      |    59.687 | 4.33        | 4             |
+| 🟢 Hỗ trợ      |    58.1   | 1.06        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VNM |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699032 |
-| ratio_type | RATIO_TTM |
-| organ_code | VNM |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 1451246749 |
-| market_cap | 244535077206500.0 |
-| dividend_yield | 0.0 |
-| pe | 24.3040995019 |
-| pb | 9.475260474 |
-| ps | 4.784279157 |
-| price_to_cash_flow | 33.9653220213 |
-| ev_to_ebitda | 19.7428589098 |
-| cash_ratio | 0.1192301426 |
-| quick_ratio | 1.8481373413 |
-| current_ratio | 2.3661573688 |
-| owners_equity | 0.0102796134 |
-| debt_per_equity | 0.0696268191 |
-| debt_to_equity | 0.3437602641 |
-| roe | 0.4067648156 |
-| roa | 0.3013748512 |
-| day_sale_outstanding | 26.0371893576 |
-| days_inventory_outstanding | 54.6555461942 |
-| days_payable_outstanding | 47.4967231708 |
-| gross_margin | 0.4676320431 |
-| ebit_margin | 0.2167064956 |
-| pre_tax_profit_margin | 0.2333947367 |
-| after_tax_profit_margin | 0.1961608484 |
-| asset_turnover | 1.5309154517 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 11076347740772.0 |
-| ebitda | 12450184651001.0 |
-| roic | 0.3938748037 |
-| cash_cycle | 135.3772476319 |
-| fixed_asset_turnover | 5.4397857918 |
-| financial_leverage | 0.3437602641 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 12.51 |
+| pb | 3.50 |
+| roe | 26.65 |
+| roe_pct_rank | 82 |
+| roa | 17.37 |
+| roa_pct_rank | 94 |
+| eps | 4914 |
+| bvps | 17554 |
+| beta | 0.5 |
+| dividend | 4850 |
+| yield | 0.07963875205254516 |
+| pe_pct_rank | 50 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -168,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                 | public_date         | news_source_link   |
-|:-----------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VNM: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                                                        | 2026-05-06T10:42:53 |                    |
-| VNM: Giải trình KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước                                       | 2026-04-29T19:28:55 |                    |
-| VNM: Quy chế nội bộ về quản trị công ty                                                                    | 2026-04-24T09:06:10 |                    |
-| VNM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                     | 2026-04-24T09:05:40 |                    |
-| VNM: Điều lệ công ty                                                                                       | 2026-04-24T09:05:15 |                    |
-| VNM: Các tài liệu họp sau ĐHĐCĐ thường niên năm 2026                                                       | 2026-04-23T17:43:39 |                    |
-| VNM: Thông báo hoàn thành Báo cáo phát triển bền vững năm 2025                                             | 2026-04-23T10:15:00 |                    |
-| ĐHCĐ Vinamilk (VNM): Lợi nhuận quý I bứt tốc, vẫn giữ kế hoạch năm thận trọng                              | 2026-04-22T11:39:00 |                    |
-| VNM: Báo cáo về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn                          | 2026-04-22T08:51:00 |                    |
-| VNM: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ PLATINUM VICTORY PTE.LTD | 2026-04-08T17:41:11 |                    |
+| title                                                                                                            | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VNM: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                                                              | 2026-05-06T10:42:53     | /2026/05/vnm-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn-830-1438425.htm                                               |
+| Nội địa tạo xu hướng tiêu dùng, xuất khẩu vượt “tường lửa” Trung Đông giúp doanh thu quý 1 của Vinamilk khởi sắc | 2026-05-05T14:11:23.813 | /2026/05/noi-dia-tao-xu-huong-tieu-dung-xuat-khau-vuot-tuong-lua-trung-dong-giup-doanh-thu-quy-1-cua-vinamilk-khoi-sac-7… |
+| Vinamilk bứt tốc quý 1 với lợi nhuận ròng tăng 55%, bình quân 27 tỷ đồng/ngày                                    | 2026-04-30T21:43:07.28  | /2026/04/vinamilk-but-toc-quy-1-voi-loi-nhuan-rong-tang-55-binh-quan-27-ty-dongngay-737-1436378.htm                       |
+| VNM: Giải trình KQKD HN và Riêng quý 1/2026 so với cùng kỳ năm trước                                             | 2026-04-29T19:28:55     | /2026/04/vnm-giai-trinh-kqkd-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436217.htm                              |
+| VNM: BCTC Hợp nhất quý 1 năm 2026                                                                                | 2026-04-29T00:00:00     | /2026/04/vnm-bctc-hop-nhat-quy-1-nam-2026-737-1435991.htm                                                                 |
+| VNM: BCTC quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00     | /2026/04/vnm-bctc-quy-1-nam-2026-737-1435992.htm                                                                          |
+| VNM: Điều lệ công ty                                                                                             | 2026-04-24T09:13:54     | /2026/04/vnm-dieu-le-cong-ty-737-1433085.htm                                                                              |
+| VNM: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                           | 2026-04-24T09:13:53     | /2026/04/vnm-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1433086.htm                                            |
+| VNM: Quy chế nội bộ về quản trị công ty                                                                          | 2026-04-24T09:13:51     | /2026/04/vnm-quy-che-noi-bo-ve-quan-tri-cong-ty-143-1433087.htm                                                           |
+| VNM: Các tài liệu họp sau ĐHĐCĐ thường niên năm 2026                                                             | 2026-04-23T17:43:39     | /2026/04/vnm-cac-tai-lieu-hop-sau-dhdcd-thuong-nien-nam-2026-737-1432863.htm                                              |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-22T00:00:00 | nan                 | nan                 |
-| 2026-04-22T00:00:00 | nan                 | nan                 |
-| 2026-04-22T00:00:00 | nan                 | nan                 |
-| 2026-04-08T00:00:00 | nan                 | nan                 |
-| 2026-04-08T00:00:00 | nan                 | nan                 |
-| 2026-03-04T00:00:00 | nan                 | nan                 |
-| 2026-02-27T00:00:00 | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
-| 2026-02-02T00:00:00 | nan                 | nan                 |
-| 2026-01-13T00:00:00 | nan                 | nan                 |
-| 2025-12-26T00:00:00 | nan                 | nan                 |
-| 2025-12-24T00:00:00 | nan                 | nan                 |
-| 2025-12-17T00:00:00 | nan                 | nan                 |
-| 2025-12-11T00:00:00 | nan                 | nan                 |
-| 2025-11-13T00:00:00 | nan                 | nan                 |
-| 2025-11-07T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.76% |
-| % Cổ phiếu hôm nay | -0.98% |
-| RS (CP − Ngành) | -0.22% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

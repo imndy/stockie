@@ -1,6 +1,6 @@
 # HCM — CTCP Chứng khoán Thành phố Hồ Chí Minh
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:07
+> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:07
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HCM |
-| organ_code | HCM |
-| current_price | 28200.0 |
-| market_cap | 30454778122200.0 |
-| number_of_shares_mkt_cap | 1079956671.0 |
-| ticker | HCM |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Ho Chi Minh City Securities Corporation |
-| en_organ_short_name | HSC Securities |
-| vi_organ_name | Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh |
-| vi_organ_short_name | Chứng khoán HSC |
-| com_type_code | CK |
-| com_group_code | VNINDEX |
-| sector | Financial Services |
-| sector_vn | Dịch vụ tài chính |
-| average_match_value1_month | 411700727110.5263 |
-| average_match_volume1_month | 15392792.0 |
-| highest_price1_year | 29895.0 |
-| lowest_price1_year | 19100.0 |
-| foreigner_percentage | 0.34799282 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.11254508 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Ho Chi Minh City Securities Corporation (HCM)&nbsp;was&nbsp;established in 2003&nbsp;th… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Chứng kho&aacute;n Th&agrave;nh Phố Hồ Ch&iacute; Minh (HCM) được th&agrave;nh lập … |
-| in_cu | False |
-| icb_code_lv2 | 8700 |
-| icb_code_lv4 | 8777 |
-| free_float | 647974002 |
-| free_float_percentage | 0.5999999994 |
-| listing_date | 2009-05-19T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 30184788954450 |
+| 52w_high | 29207 |
+| 52w_high_date | 2025-09-04 |
+| 52w_low | 19100 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 34.8836 |
+| dividend | 800 |
+| beta | 1 |
+| eps | 1403 |
+| eps_forward | 16.555416615297908 |
+| bvps | 13335.7 |
+| pe | 20.09 |
+| pb | 2.11 |
+| price_chg_1m | 10.91 |
+| price_chg_ytd | 40.06 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.028622540250447227 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,7 +40,7 @@
 | MA5 | 27.51 |
 | MA10 | 27.13 |
 | EMA20 | 26.502 |
-| EMA50 | 25.011 |
+| EMA50 | 25.017 |
 | Slope MA20 (5p, %) | 2.77 |
 | ATR(14) | 1.022 |
 | RSI(14) | 65.4 |
@@ -70,7 +48,7 @@
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.039 |
+| MACD | 1.038 |
 | MACD Signal | 1.025 |
 | MACD Histogram | 0.013 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
@@ -80,77 +58,32 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     28.4  | 1.39        | 1             |
+| 🔴 Kháng cự    |     28.4  | 1.38        | 1             |
 | ▶ Giá hiện tại |     27.95 | —           | —             |
-| 🟢 Hỗ trợ       |     27.04 | 0.74        | 1             |
-| 🟢 Hỗ trợ       |     25.8  | 1.43        | 1             |
-| 🟢 Hỗ trợ       |     25.75 | 1.04        | 1             |
+| 🟢 Hỗ trợ      |     27.04 | 0.73        | 1             |
+| 🟢 Hỗ trợ      |     25.8  | 1.43        | 1             |
+| 🟢 Hỗ trợ      |     25.75 | 1.04        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HCM |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698747 |
-| ratio_type | RATIO_TTM |
-| organ_code | HCM |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 129554168 |
-| market_cap | 6931147988000.0 |
-| dividend_yield | 0.0 |
-| pe | 8.846959457 |
-| pb | 2.2873706136 |
-| ps | 3.2114208261 |
-| price_to_cash_flow | -5.1580028797 |
-| ev_to_ebitda | 8.7494000841 |
-| cash_ratio | 0.1444788635 |
-| quick_ratio | 1.8940602343 |
-| current_ratio | 1.8940602343 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.6115709973 |
-| debt_to_equity | 1.0495377831 |
-| roe | 0.2871888153 |
-| roa | 0.1390420665 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 1.0836771203 |
-| gross_margin | 0.5171550509 |
-| ebit_margin | 0.4532410889 |
-| pre_tax_profit_margin | 0.4548176059 |
-| after_tax_profit_margin | 0.3631578221 |
-| asset_turnover | 0.382869535 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 978221551023.0 |
-| ebitda | 990560683111.0 |
-| roic | 0.2000048617 |
-| cash_cycle | 66.4848909523 |
-| fixed_asset_turnover | 71.7072769117 |
-| financial_leverage | 1.0495377831 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 20.09 |
+| pb | 2.11 |
+| roe | 9.43 |
+| roe_pct_rank | 46 |
+| roa | 3.03 |
+| roa_pct_rank | 43 |
+| eps | 1403 |
+| bvps | 13335.7 |
+| beta | 1 |
+| dividend | 800 |
+| yield | 0.028622540250447227 |
+| pe_pct_rank | 65 |
+| pb_pct_rank | 76 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +100,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                       | public_date         | news_source_link   |
-|:-------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| Chứng khoán HSC (HCM) lên kế hoạch phát hành thêm gần 270 triệu cổ phiếu với giá 10.000 đồng/CP  | 2026-05-06T17:49:00 |                    |
-| HCM: Nghị quyết HĐQT thông qua bô Hồ sơ đăng ký chào bán thêm cổ phiếu cho cổ đông hiện hữu      | 2026-05-05T17:29:06 |                    |
-| HCM: Nghị quyết HĐQT thông qua việc triển khai phương án phát hành cổ phiếu cho cổ đông hiện hữu | 2026-05-05T17:27:49 |                    |
-| HCM: Thông báo thay đổi nhân sự nhiệm kỳ 2026-2030                                               | 2026-04-24T18:08:46 |                    |
-| HCM: Quy chế nội bộ về quản trị công ty sửa đổi, bổ sung năm 2026                                | 2026-04-24T16:21:49 |                    |
-| HCM: Quy chế hoạt động của HĐQT sửa đổi, bổ sung năm 2026                                        | 2026-04-24T16:21:00 |                    |
-| HCM: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo                    | 2026-04-24T16:19:15 |                    |
-| HCM: Điều lệ sửa đổi, bổ sung ban hành tháng 04/2026                                             | 2026-04-24T16:18:29 |                    |
-| HSC đặt mục tiêu lợi nhuận 2.302 tỷ đồng, tăng vốn điều lệ lên 15.800 tỷ đồng                    | 2026-04-23T22:02:00 |                    |
-| Tổng giám đốc HSC (HCM): Cần tăng vốn chủ sở hữu lên 30.000 tỷ đồng đến 2030                     | 2026-04-23T20:15:00 |                    |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HCM: Báo cáo kết quả giao dịch CCQ của tổ chức có liên quan với người nội bộ của công ty quản lý quỹ | Report on results… | 2026-05-08T00:00:00     | /2026/05/hcm-bao-cao-ket-qua-giao-dich-ccq-cua-to-chuc-co-lien-quan-voi-nguoi-noi-bo-cua-cong-ty-quan-ly-quy-|-report-on… |
+| HCM: Nghị quyết HĐQT thông qua và ban hành Quy chế hoạt động của Ủy ban kiểm toán và Quy chế kiểm toán nội bộ             | 2026-05-07T17:40:56     | /2026/05/hcm-nghi-quyet-hdqt-thong-qua-va-ban-hanh-quy-che-hoat-dong-cua-uy-ban-kiem-toan-va-quy-che-kiem-toan-noi-bo-73… |
+| HCM: CBTT - Nghị quyết HĐQT thông qua và ban hành Quy chế hoạt động Ủy ban kiểm toán và Quy chế Kiểm toán nội bộ | The B… | 2026-05-07T00:00:00     | /2026/05/hcm-cbtt-nghi-quyet-hdqt-thong-qua-va-ban-hanh-quy-che-hoat-dong-uy-ban-kiem-toan-va-quy-che-kiem-toan-noi-bo-|… |
+| HSC khởi động chương trình tăng vốn lên gấp rưỡi, cổ phiếu tăng kịch trần                                                 | 2026-05-06T17:59:46.53  | /2026/05/hsc-khoi-dong-chuong-trinh-tang-von-len-gap-ruoi-co-phieu-tang-kich-tran-764-1438768.htm                         |
+| LPBank ký kết hợp tác với Thuế TP.HCM, thúc đẩy chuyển đổi số hộ kinh doanh và cá nhân kinh doanh                         | 2026-05-06T08:00:00     | /2026/05/lpbank-ky-ket-hop-tac-voi-thue-tphcm-thuc-day-chuyen-doi-so-ho-kinh-doanh-va-ca-nhan-kinh-doanh-757-1438120.htm  |
+| HCM: Nghị quyết HĐQT thông qua việc triển khai phương án phát hành cổ phiếu cho cổ đông hiện hữu                          | 2026-05-05T17:39:41     | /2026/05/hcm-nghi-quyet-hdqt-thong-qua-viec-trien-khai-phuong-an-phat-hanh-co-phieu-cho-co-dong-hien-huu-737-1438147.htm  |
+| HCM: Nghị quyết HĐQT thông qua bô Hồ sơ đăng ký chào bán thêm cổ phiếu cho cổ đông hiện hữu                               | 2026-05-05T17:39:40     | /2026/05/hcm-nghi-quyet-hdqt-thong-qua-bo-ho-so-dang-ky-chao-ban-them-co-phieu-cho-co-dong-hien-huu-737-1438148.htm       |
+| HCM: CBTT - Nghị quyết HĐQT thông qua việc triển khai Phương án phát hành cổ phiếu cho cổ đông hiện hữu | The Board Reso… | 2026-05-05T00:00:00     | /2026/05/hcm-cbtt-nghi-quyet-hdqt-thong-qua-viec-trien-khai-phuong-an-phat-hanh-co-phieu-cho-co-dong-hien-huu-|-the-boar… |
+| Đón sóng hạ tầng Đông Bắc TPHCM, căn hộ Bespoke dần chiếm ưu thế                                                          | 2026-04-28T08:02:00     | /2026/04/don-song-ha-tang-dong-bac-tphcm-can-ho-bespoke-dan-chiem-uu-the-4222-1434113.htm                                 |
+| Kiểm tra hàng loạt tiệm vàng ở TPHCM, nhiều cơ sở bị xử phạt                                                              | 2026-04-26T09:49:26.083 | /2026/04/kiem-tra-hang-loat-tiem-vang-o-tphcm-nhieu-co-so-bi-xu-phat-759-1434087.htm                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-05-05T00:00:00 | nan                 | nan                 |
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-03-09T00:00:00 | 2026-03-25T00:00:00 | 2026-03-24T00:00:00 |
-| 2026-02-26T00:00:00 | nan                 | nan                 |
-| 2026-02-09T00:00:00 | nan                 | nan                 |
-| 2026-01-26T00:00:00 | 2026-02-06T00:00:00 | 2026-02-05T00:00:00 |
-| 2025-12-31T00:00:00 | nan                 | nan                 |
-| 2025-12-16T00:00:00 | nan                 | nan                 |
-| 2025-11-25T00:00:00 | nan                 | nan                 |
-| 2025-10-17T00:00:00 | nan                 | nan                 |
-| 2025-09-30T00:00:00 | nan                 | nan                 |
-| 2025-09-30T00:00:00 | nan                 | nan                 |
-| 2025-09-30T00:00:00 | nan                 | nan                 |
-| 2025-09-30T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.26% |
-| % Cổ phiếu hôm nay | -0.89% |
-| RS (CP − Ngành) | -0.63% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

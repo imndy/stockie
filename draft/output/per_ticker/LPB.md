@@ -1,6 +1,6 @@
 # LPB — Ngân hàng TMCP Lộc Phát Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 21:58  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | LPB |
-| organ_code | LVB |
-| current_price | 51200.0 |
-| market_cap | 152948843520000.0 |
-| number_of_shares_mkt_cap | 2987282100.0 |
-| ticker | LPB |
-| tag | None |
-| rating | U-PF |
-| rating_as_of | 18-Nov-25 |
-| en_organ_name | Fortune Vietnam Joint Stock Commercial Bank |
-| en_organ_short_name | LPBank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam |
-| vi_organ_short_name | LPBank |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 68925513323.6842 |
-| average_match_volume1_month | 1433029.0 |
-| highest_price1_year | 54700.0 |
-| lowest_price1_year | 30507.0 |
-| foreigner_percentage | 0.00918466 |
-| maximum_foreign_percentage | 0.05 |
-| state_percentage | 0.06537248 |
-| analyst | Quan Vu |
-| upside_to_target_percent | -0.232421875 |
-| dividend_per_share_tsr | 1000.0 |
-| projected_tsr_percentage | -0.212890625 |
-| target_price | 39300.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">Fortune Vietnam Joint Stock Commercial Bank (LPB) was established in 2008, o… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Lộc Ph&aacute;t Việt Nam (LPB) được th&agrave;n… |
-| in_cu | True |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 2837917995 |
-| free_float_percentage | 0.95 |
-| listing_date | 2017-10-05T00:00:00 |
-| prev_insight | {'targetPrice': 29800.0, 'rating': 'SELL', 'ratingAsOf': '18-Aug-25', 'analyst': 'Quan Vu', 'version': '20251118'} |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 154741212780000 |
+| 52w_high | 53900 |
+| 52w_high_date | 2025-10-29 |
+| 52w_low | 31200 |
+| 52w_low_date | 2025-06-06 |
+| foreign_ownership | 0.9348 |
+| dividend | 2500 |
+| beta | 0.36 |
+| eps | 3738 |
+| eps_forward | 10.208842612347116 |
+| bvps | 16560.76 |
+| pe | 13.70 |
+| pb | 3.09 |
+| price_chg_1m | 7.92 |
+| price_chg_ytd | 61.18 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.04826254826254826 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,16 +40,16 @@
 | MA5 | 49.5 |
 | MA10 | 48.02 |
 | EMA20 | 47.504 |
-| EMA50 | 45.512 |
+| EMA50 | 45.48 |
 | Slope MA20 (5p, %) | 3.17 |
 | ATR(14) | 1.726 |
-| RSI(14) | 73.0 |
+| RSI(14) | 73.2 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.496 |
-| MACD Signal | 1.145 |
+| MACD | 1.497 |
+| MACD Signal | 1.146 |
 | MACD Histogram | 0.351 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 1661918 |
@@ -80,75 +59,30 @@
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | ▶ Giá hiện tại |     51.8  | —           | —             |
-| 🟢 Hỗ trợ       |     50.1  | 1.32        | 1             |
-| 🟢 Hỗ trợ       |     46.8  | 0.55        | 1             |
-| 🟢 Hỗ trợ       |     45.15 | 1.43        | 1             |
+| 🟢 Hỗ trợ      |     50.1  | 1.32        | 1             |
+| 🟢 Hỗ trợ      |     45.15 | 1.43        | 1             |
+| 🟢 Hỗ trợ      |     45    | 0.76        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | LPB |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699148 |
-| ratio_type | RATIO_TTM |
-| organ_code | LVB |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 749999428 |
-| market_cap | 7991243905340.0 |
-| dividend_yield | 0.0 |
-| pe | 5.1517399635 |
-| pb | 0.8273936721 |
-| ps | 1.5697108106 |
-| price_to_cash_flow | 0.6742814064 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 16.5803859734 |
-| roe | 0.155510569 |
-| roa | 0.0092051081 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.4220108735 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.3547410655 |
-| after_tax_profit_margin | 0.2818270711 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0349714386 |
-| average_yield_on_earning_assets | 0.081467346 |
-| average_cost_of_financing | -0.0481607654 |
-| non_and_interest_income | 0.0070952839 |
-| cost_to_income | -0.5277043518 |
-| loans_growth | 0.0746951667 |
-| deposit_growth | 0.1253080161 |
-| equity_to_liabilities | 0.0603122268 |
-| equity_to_loans | 0.0893155818 |
-| total_equity_total_asset | 0.0568815725 |
-| ldr_loan_deposit_ratio | 0.749135247 |
-| npl | 0.0106682665 |
-| loans_loss_reserves_to_np_ls | -1.0462485567 |
-| loans_loss_reserve_to_loans | 0.0111616584 |
-| provision_to_outstanding_loans | -0.0034578597 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.5277043518 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.2182834473 |
-| nob66 | 31269727000000.0 |
-| nob69 | 237573000000.0 |
-| nob70 | 1765000000.0 |
-| bsb113 | 144349310000000.0 |
-| ratio_year_id | nan |
+| pe | 13.70 |
+| pb | 3.09 |
+| roe | 25.23 |
+| roe_pct_rank | 79 |
+| roa | 2.05 |
+| roa_pct_rank | 37 |
+| eps | 3738 |
+| bvps | 16560.76 |
+| beta | 0.36 |
+| dividend | 2500 |
+| yield | 0.04826254826254826 |
+| pe_pct_rank | 52 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -165,48 +99,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| LPBank (LPB) chi gần 9.000 tỷ đồng cổ tức                                                                                 | 2026-05-06T15:22:00 |                    |
-| LPB: Thông báo nhận được công văn của NHNN khu vực 4 về việc chấp thuận thay đổi địa điểm đặt trụ sở Chi nhánh Yên Bái -… | 2026-05-05T17:31:01 |                    |
-| LPB: Nghị quyết HĐQT về việc phê duyệt triển khai và thực hiện kế hoạch chi trả cổ tức năm 2025 bằng tiền mặt             | 2026-05-04T17:25:32 |                    |
-| LPB: Thông báo về việc chi trả cổ tức năm 2025 bằng tiền mặt cho cổ đông                                                  | 2026-05-04T17:23:34 |                    |
-| LPB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng tiền                                | 2026-05-04T17:21:51 |                    |
-| LPB: Nghị quyết HĐQT về việc thay đồi tên gọi Phòng GD An Phú và Phòng GD Bình Tân                                        | 2026-05-04T11:06:03 |                    |
-| LPB: Thông báo thay đổi nhân sự - miễn nhiệm Phó TGĐ                                                                      | 2026-05-04T10:57:39 |                    |
-| LPB: Thông báo công văn của NHNN về chấp thuận cho LPB thay đổi địa điểm Phòng GD Hội An                                  | 2026-05-04T10:56:03 |                    |
-| LPB: Thông báo thay đổi nhân sự - HĐQT và BKS                                                                             | 2026-05-04T10:56:00 |                    |
-| LPB: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                                                 | 2026-04-29T10:52:31 |                    |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| LPB: Thông báo nhận được công văn của NHNN khu vực 10 về việc chấp thuận thay đổi địa điểm PGD Diên Khánh và PGD La Gi    | 2026-05-08T15:48:04 | /2026/05/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-10-ve-viec-chap-thuan-thay-doi-dia-diem-pgd-dien-khanh-va-pgd… |
+| LPB: Nghị quyết HĐQT số 884a/2026 ngày 07/05/2026                                                                         | 2026-05-08T15:38:14 | /2026/05/lpb-nghi-quyet-hdqt-so-884a-2026-ngay-07-05-2026-737-1440051.htm                                                 |
+| LPB: Thông báo ngày ĐKCC chi trả cổ tức năm 2025 bằng tiền mặt                                                            | 2026-05-08T09:49:06 | /2026/05/lpb-thong-bao-ngay-dkcc-chi-tra-co-tuc-nam-2025-bang-tien-mat-738-1439838.htm                                    |
+| LPB: Thông báo thay đổi nhân sự                                                                                           | 2026-05-07T17:30:38 | /2026/05/lpb-thong-bao-thay-doi-nhan-su-214-1439668.htm                                                                   |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                                             | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
+| LPB: Thông báo nhận được công văn của NHNN khu vực 4 về việc chấp thuận thay đổi địa điểm đặt trụ sở Chi nhánh Yên Bái -… | 2026-05-05T17:39:38 | /2026/05/lpb-thong-bao-nhan-duoc-cong-van-cua-nhnn-khu-vuc-4-ve-viec-chap-thuan-thay-doi-dia-diem-dat-tru-so-chi-nhanh-y… |
+| LPB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng tiền                                | 2026-05-04T17:35:22 | /2026/05/lpb-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-tien-737-1437412.htm        |
+| LPB: Thông báo về việc chi trả cổ tức năm 2025 bằng tiền mặt cho cổ đông                                                  | 2026-05-04T17:35:21 | /2026/05/lpb-thong-bao-ve-viec-chi-tra-co-tuc-nam-2025-bang-tien-mat-cho-co-dong-738-1437414.htm                          |
+| LPB: Nghị quyết HĐQT về việc phê duyệt triển khai và thực hiện kế hoạch chi trả cổ tức năm 2025 bằng tiền mặt             | 2026-05-04T17:35:21 | /2026/05/lpb-nghi-quyet-hdqt-ve-viec-phe-duyet-trien-khai-va-thuc-hien-ke-hoach-chi-tra-co-tuc-nam-2025-bang-tien-mat-73… |
+| LPB: Nghị quyết HĐQT về việc thay đồi tên gọi Phòng GD An Phú và Phòng GD Bình Tân                                        | 2026-05-04T11:06:03 | /2026/05/lpb-nghi-quyet-hdqt-ve-viec-thay-doi-ten-goi-phong-gd-an-phu-va-phong-gd-binh-tan-737-1436926.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-05-06T00:00:00 | nan                 | nan                 |
-| 2026-01-09T00:00:00 | 2026-01-15T00:00:00 | 2026-01-14T00:00:00 |
-| 2025-11-12T00:00:00 | 2025-11-25T00:00:00 | 2025-11-24T00:00:00 |
-| 2025-05-13T00:00:00 | 2025-05-20T00:00:00 | 2025-05-19T00:00:00 |
-| 2025-02-04T00:00:00 | nan                 | nan                 |
-| 2025-01-15T00:00:00 | 2025-02-03T00:00:00 | 2025-01-24T00:00:00 |
-| 2024-12-24T00:00:00 | 2024-12-30T00:00:00 | 2024-12-27T00:00:00 |
-| 2024-11-14T00:00:00 | nan                 | nan                 |
-| 2024-07-18T00:00:00 | nan                 | nan                 |
-| 2024-06-07T00:00:00 | 2024-07-01T00:00:00 | 2024-06-28T00:00:00 |
-| 2024-05-24T00:00:00 | nan                 | nan                 |
-| 2024-05-17T00:00:00 | nan                 | nan                 |
-| 2024-04-23T00:00:00 | nan                 | nan                 |
-| 2024-04-19T00:00:00 | nan                 | nan                 |
-| 2024-04-15T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | +1.17% |
-| RS (CP − Ngành) | +0.40% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # GEX — CTCP Tập đoàn GELEX
 **Sàn:** HOSE  |  **Ngành:** Thiết bị điện
-> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:05
+> 📅 Daily: 09/05/2026 13:30  |  🗂 Quarterly: 03/05/2026 14:05
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GEX |
-| organ_code | GELEX |
-| current_price | 31400.0 |
-| market_cap | 41086224083600.0 |
-| number_of_shares_mkt_cap | 1308478474.0 |
-| ticker | GEX |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 30-Dec-25 |
-| en_organ_name | Gelex Group Joint Stock Company |
-| en_organ_short_name | Gelex Group JSC |
-| vi_organ_name | Công ty Cổ phần Tập đoàn Gelex |
-| vi_organ_short_name | Tập đoàn Gelex |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Industrial Goods & Services |
-| sector_vn | Hàng & Dịch vụ Công nghiệp |
-| average_match_value1_month | 418916563663.1579 |
-| average_match_volume1_month | 11212129.0 |
-| highest_price1_year | 45313.0 |
-| lowest_price1_year | 18948.0 |
-| foreigner_percentage | 0.07644113 |
-| maximum_foreign_percentage | 0.5 |
-| state_percentage | 0.0 |
-| analyst | Tuan Do |
-| upside_to_target_percent | 0.1863057325 |
-| dividend_per_share_tsr | 500.0 |
-| projected_tsr_percentage | 0.2022292994 |
-| target_price | 37250.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Established in 1990, Gelex Group Joint Stock Company (GEX) is the leading enterprise in the electrical eq… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Được th&agrave;nh lập từ năm 1990, C&ocirc;ng ty Cổ phần Tập đo&agrave;n Gelex (GEX) l&agrave; doanh nghi… |
-| in_cu | True |
-| icb_code_lv2 | 2700 |
-| icb_code_lv4 | 2737 |
-| free_float | 915934931 |
-| free_float_percentage | 0.6999999994 |
-| listing_date | 2015-10-26T00:00:00 |
-| prev_insight | {'targetPrice': 52300.0, 'rating': 'M-PF', 'ratingAsOf': '21-Aug-25', 'analyst': 'Tuan Do', 'version': '20251231_edit'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 30230364758000 |
+| 52w_high | 45098 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 19077 |
+| 52w_low_date | 2025-05-13 |
+| foreign_ownership | 8.0891 |
+| dividend | 800 |
+| beta | 1.35 |
+| eps | 1732 |
+| eps_forward | 7.838262202351978 |
+| bvps | 37608 |
+| pe | 18.13 |
+| pb | 0.83 |
+| price_chg_1m | 19.96 |
+| price_chg_ytd | 72.68 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.023880597014925373 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,16 +40,16 @@
 | MA5 | 29.762 |
 | MA10 | 28.565 |
 | EMA20 | 28.154 |
-| EMA50 | 26.907 |
+| EMA50 | 26.893 |
 | Slope MA20 (5p, %) | 4.7 |
-| ATR(14) | 1.326 |
-| RSI(14) | 76.6 |
+| ATR(14) | 1.325 |
+| RSI(14) | 76.7 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 1.259 |
-| MACD Signal | 0.807 |
+| MACD Signal | 0.808 |
 | MACD Histogram | 0.452 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 9796625 |
@@ -81,75 +59,30 @@
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | ▶ Giá hiện tại |     33.5  | —           | —             |
-| 🟢 Hỗ trợ       |     30.9  | 0.62        | 1             |
-| 🟢 Hỗ trợ       |     29.93 | 0.72        | 1             |
-| 🟢 Hỗ trợ       |     29.14 | 1.33        | 1             |
+| 🟢 Hỗ trợ      |     30.9  | 0.62        | 1             |
+| 🟢 Hỗ trợ      |     29.93 | 0.71        | 1             |
+| 🟢 Hỗ trợ      |     29.14 | 1.33        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GEX |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698970 |
-| ratio_type | RATIO_TTM |
-| organ_code | GELEX |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 338800000 |
-| market_cap | 11519200000000.0 |
-| dividend_yield | 0.0 |
-| pe | 11.8094013853 |
-| pb | 1.9316461477 |
-| ps | 0.9600077292 |
-| price_to_cash_flow | -35.118018774 |
-| ev_to_ebitda | 6.8142802094 |
-| cash_ratio | 0.407444134 |
-| quick_ratio | 0.9960561639 |
-| current_ratio | 1.4146986042 |
-| owners_equity | 0.3806561768 |
-| debt_per_equity | 0.8089512585 |
-| debt_to_equity | 1.1617345988 |
-| roe | 0.1229169865 |
-| roa | 0.0559117124 |
-| day_sale_outstanding | 62.0672192611 |
-| days_inventory_outstanding | 72.1704964295 |
-| days_payable_outstanding | 32.8304043751 |
-| gross_margin | 0.1587603246 |
-| ebit_margin | 0.0930325607 |
-| pre_tax_profit_margin | 0.1082739779 |
-| after_tax_profit_margin | 0.0887920099 |
-| asset_turnover | 0.8532569963 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 1116304214169.0 |
-| ebitda | 2345950395793.0 |
-| roic | 0.0872688751 |
-| cash_cycle | 192.1267724923 |
-| fixed_asset_turnover | 3.8642522934 |
-| financial_leverage | 1.1617345988 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 18.13 |
+| pb | 0.83 |
+| roe | 11.08 |
+| roe_pct_rank | 50 |
+| roa | 2.32 |
+| roa_pct_rank | 38 |
+| eps | 1732 |
+| bvps | 37608 |
+| beta | 1.35 |
+| dividend | 800 |
+| yield | 0.023880597014925373 |
+| pe_pct_rank | 61 |
+| pb_pct_rank | 35 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +99,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| GEX: Thông báo về ngày đăng ký cuối cùng trả cổ tức năm 2025 bằng cổ phiếu, nhận cổ phiếu phát hành để tăng vốn cổ phần … | 2026-04-24T18:54:59 |                    |
-| GEX: Thông báo về ngày đăng ký cuối cùng và xác nhận danh sách người sở hữu chứng khoán từ VSDC                           | 2026-04-24T09:33:56 |                    |
-| GEX: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu và nhận cổ phiếu phát hàn… | 2026-04-20T17:46:24 |                    |
-| GEX: Nghị quyết HĐQT về việc chốt DSCĐ và thông báo phát hành                                                             | 2026-04-20T14:06:27 |                    |
-| GEX: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức và tăng VCP từ NVCSH của GEX      | 2026-04-17T19:21:35 |                    |
-| GEX: Nghị quyết HĐQT số 18/2026 ngày 08/04/2026                                                                           | 2026-04-09T14:08:41 |                    |
-| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 21                                                             | 2026-04-08T08:49:24 |                    |
-| GEX: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 20                                                             | 2026-04-03T18:13:53 |                    |
-| GEX: Giấy ủy quyền thực hiện CBTT                                                                                         | 2026-04-03T17:33:58 |                    |
-| GEX: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-03T11:11:42 |                    |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Doanh thu và lợi nhuận GELEX tăng trưởng 2 chữ số quý đầu năm                                                             | 2026-04-29T12:37:00     | /2026/04/doanh-thu-va-loi-nhuan-gelex-tang-truong-2-chu-so-quy-dau-nam-737-1435408.htm                                    |
+| GEX: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00     | /2026/04/gex-bctc-hop-nhat-quy-1-nam-2026-737-1435522.htm                                                                 |
+| GEX: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00     | /2026/04/gex-bctc-quy-1-nam-2026-737-1435523.htm                                                                          |
+| GEX: Thông báo về ngày đăng ký cuối cùng trả cổ tức năm 2025 bằng cổ phiếu, nhận cổ phiếu phát hành để tăng vốn cổ phần … | 2026-04-24T18:54:59     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-tra-co-tuc-nam-2025-bang-co-phieu-nhan-co-phieu-phat-hanh-de-tang-von-c… |
+| GEX: Thông báo về ngày đăng ký cuối cùng và xác nhận danh sách người sở hữu chứng khoán từ VSDC                           | 2026-04-24T09:42:48     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-va-xac-nhan-danh-sach-nguoi-so-huu-chung-khoan-tu-vsdc-737-1433117.htm   |
+| GEX: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng cổ phiếu và nhận cổ phiếu phát hàn… | 2026-04-20T17:51:05     | /2026/04/gex-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-co-phieu-va-nhan-co-phieu-… |
+| GEX: Nghị quyết HĐQT về việc chốt DSCĐ và thông báo phát hành                                                             | 2026-04-20T14:06:27     | /2026/04/gex-nghi-quyet-hdqt-ve-viec-chot-dscd-va-thong-bao-phat-hanh-737-1430216.htm                                     |
+| GEX: Thông báo công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức và tăng VCP từ NVCSH của GEX      | 2026-04-17T19:22:39     | /2026/04/gex-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-phat-hanh-co-phieu-de-tra-co-tuc-va-tang-vcp-tu-nvcsh-cua… |
+| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                                               | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                          |
+| Phân tích kỹ thuật phiên chiều 10/04: Tăng trưởng trở lại                                                                 | 2026-04-10T13:22:29.263 | /2026/04/phan-tich-ky-thuat-phien-chieu-1004-tang-truong-tro-lai-585-1426019.htm                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-24T00:00:00 | 2026-05-06T00:00:00 | 2026-05-05T00:00:00 |
-| 2026-04-24T00:00:00 | 2026-05-06T00:00:00 | 2026-05-05T00:00:00 |
-| 2026-02-06T00:00:00 | 2026-02-24T00:00:00 | 2026-02-23T00:00:00 |
-| 2025-10-17T00:00:00 | nan                 | nan                 |
-| 2025-09-05T00:00:00 | 2025-09-11T00:00:00 | 2025-09-10T00:00:00 |
-| 2025-08-05T00:00:00 | nan                 | nan                 |
-| 2025-06-20T00:00:00 | nan                 | nan                 |
-| 2025-05-05T00:00:00 | 2025-05-15T00:00:00 | 2025-05-14T00:00:00 |
-| 2025-04-22T00:00:00 | 2025-04-28T00:00:00 | 2025-04-25T00:00:00 |
-| 2025-02-18T00:00:00 | 2025-02-25T00:00:00 | 2025-02-24T00:00:00 |
-| 2024-10-25T00:00:00 | nan                 | nan                 |
-| 2024-08-30T00:00:00 | 2024-08-29T00:00:00 | 2024-08-29T00:00:00 |
-| 2024-08-29T00:00:00 | nan                 | nan                 |
-| 2024-08-29T00:00:00 | nan                 | nan                 |
-| 2024-08-29T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Thiết bị điện |
-| % Ngành hôm nay | +5.15% |
-| % Cổ phiếu hôm nay | +6.69% |
-| RS (CP − Ngành) | +1.54% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

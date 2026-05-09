@@ -1,6 +1,6 @@
 # GMD — CTCP Gemadept
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:06
+> 📅 Daily: 09/05/2026 13:30  |  🗂 Quarterly: 03/05/2026 14:06
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GMD |
-| organ_code | GMD |
-| current_price | 79500.0 |
-| market_cap | 33906361165500.0 |
-| number_of_shares_mkt_cap | 426495109.0 |
-| ticker | GMD |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 26-Feb-26 |
-| en_organ_name | Gemadept Corporation |
-| en_organ_short_name | Gemadept |
-| vi_organ_name | Công ty Cổ phần Gemadept |
-| vi_organ_short_name | Gemadept |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Industrial Goods & Services |
-| sector_vn | Hàng & Dịch vụ Công nghiệp |
-| average_match_value1_month | 104769393110.52632 |
-| average_match_volume1_month | 1390223.0 |
-| highest_price1_year | 89500.0 |
-| lowest_price1_year | 50229.0 |
-| foreigner_percentage | 0.41892403 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | Huy Hoang |
-| upside_to_target_percent | 0.1811320755 |
-| dividend_per_share_tsr | 2300.0 |
-| projected_tsr_percentage | 0.2100628931 |
-| target_price | 93900.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Gemadept Corporation (GMD), formerly known as General Forwarding and Agency Corporation, was established … |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Gemadept (GMD) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ phần Đại l&yacu… |
-| in_cu | True |
-| icb_code_lv2 | 2700 |
-| icb_code_lv4 | 2777 |
-| free_float | 405170353 |
-| free_float_percentage | 0.9499999987 |
-| listing_date | 2002-04-22T00:00:00 |
-| prev_insight | {'targetPrice': 78200.0, 'rating': 'BUY', 'ratingAsOf': '21-Nov-25', 'analyst': 'Huy Hoang', 'version': '20260226'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 34418155296300 |
+| 52w_high | 84400 |
+| 52w_high_date | 2026-02-27 |
+| 52w_low | 51390 |
+| 52w_low_date | 2025-05-22 |
+| foreign_ownership | 41.9955 |
+| dividend | 2000 |
+| beta | 0.78 |
+| eps | 4221 |
+| eps_forward | 16.95316448408002 |
+| bvps | 36504 |
+| pe | 18.83 |
+| pb | 2.18 |
+| price_chg_1m | 9.65 |
+| price_chg_ytd | 57.33 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.024783147459727387 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,16 +40,16 @@
 | MA5 | 78.26 |
 | MA10 | 76.43 |
 | EMA20 | 76.086 |
-| EMA50 | 74.511 |
+| EMA50 | 74.536 |
 | Slope MA20 (5p, %) | 2.12 |
-| ATR(14) | 2.147 |
-| RSI(14) | 68.0 |
+| ATR(14) | 2.148 |
+| RSI(14) | 67.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 1.077 |
-| MACD Signal | 0.351 |
+| MACD | 1.076 |
+| MACD Signal | 0.35 |
 | MACD Histogram | 0.726 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 2114293 |
@@ -80,77 +58,32 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    89.5   | 1.01        | 1             |
+| 🔴 Kháng cự    |    89.5   | 1.01        | 1             |
 | ▶ Giá hiện tại |    80.7   | —           | —             |
-| 🟢 Hỗ trợ       |    80.407 | 2.38        | 2             |
-| 🟢 Hỗ trợ       |    75.422 | 2.24        | 2             |
-| 🟢 Hỗ trợ       |    73.2   | 1.4         | 1             |
+| 🟢 Hỗ trợ      |    80.407 | 2.37        | 2             |
+| 🟢 Hỗ trợ      |    75.422 | 2.23        | 2             |
+| 🟢 Hỗ trợ      |    73.2   | 1.39        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GMD |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698971 |
-| ratio_type | RATIO_TTM |
-| organ_code | GMD |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 288276957 |
-| market_cap | 7538442425550.0 |
-| dividend_yield | 0.2485659656 |
-| pe | 4.140172577 |
-| pb | 1.3190433791 |
-| ps | 2.0089059008 |
-| price_to_cash_flow | 7.9920619146 |
-| ev_to_ebitda | 10.2605769165 |
-| cash_ratio | 0.3753691075 |
-| quick_ratio | 0.9705248828 |
-| current_ratio | 1.0216964193 |
-| owners_equity | 0.2496803797 |
-| debt_per_equity | 0.3169303611 |
-| debt_to_equity | 0.5473660908 |
-| roe | 0.2462884979 |
-| roa | 0.1596488675 |
-| day_sale_outstanding | 50.3720984306 |
-| days_inventory_outstanding | 13.971354161 |
-| days_payable_outstanding | 67.9347308792 |
-| gross_margin | 0.2755487725 |
-| ebit_margin | 0.1541038331 |
-| pre_tax_profit_margin | 0.5434811582 |
-| after_tax_profit_margin | 0.4667252543 |
-| asset_turnover | 0.3575193921 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 578276400384.0 |
-| ebitda | 886843691856.0 |
-| roic | 0.0689362606 |
-| cash_cycle | 193.4318863247 |
-| fixed_asset_turnover | 1.2748426611 |
-| financial_leverage | 0.5473660908 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 18.83 |
+| pb | 2.18 |
+| roe | 15.54 |
+| roe_pct_rank | 59 |
+| roa | 8.88 |
+| roa_pct_rank | 64 |
+| eps | 4221 |
+| bvps | 36504 |
+| beta | 0.78 |
+| dividend | 2000 |
+| yield | 0.024783147459727387 |
+| pe_pct_rank | 63 |
+| pb_pct_rank | 78 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +100,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| ĐHĐCĐ Gemadept (GMD): Hai kịch bản kế hoạch kinh doanh 2026, tiếp tục mở rộng hệ sinh thái cảng - logistics               | 2026-05-06T14:09:00 |                    |
-| GMD: Nghị quyết HĐQT về việc điều chỉnh và bổ sung tài liệu trình ĐHĐCĐTN 2026                                            | 2026-05-05T10:18:21 |                    |
-| GMD: CBTT ban hành Nghị quyết HĐQT về việc góp vốn thành lập công ty liên doanh và cử người đại diện quản lý phần vốn gó… | 2026-04-28T14:57:56 |                    |
-| GMD: Báo cáo phát triển bền vững năm 2025                                                                                 | 2026-04-20T13:43:01 |                    |
-| GMD: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T13:42:29 |                    |
-| GMD: Nghị quyết HĐQT về việc chuyển nhượng cổ phần tại FCC                                                                | 2026-04-16T16:53:23 |                    |
-| Gemadept (GMD) muốn trả cổ tức tiền mặt tỷ lệ 22% và thưởng cổ phiếu tỷ lệ 50%                                            | 2026-04-16T15:11:00 |                    |
-| GMD: Nghị quyết HĐQT về việc thông qua chương trình và các tài liệu trình ĐHĐCĐ thường niên 2026                          | 2026-04-16T13:25:32 |                    |
-| GMD: CBTT nội dung Nghị quyết HĐQT số 057 về việc chuyển nhượng cổ phần                                                   | 2026-04-07T11:10:03 |                    |
-| Gemadept (GMD) đặt mục tiêu lợi nhuận trước thuế năm 2026 đạt 2.800 tỷ đồng                                               | 2026-04-03T16:57:00 |                    |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| GMD: Thông báo thay đổi nhân sự - Miễn nhiệm thành viên HĐQT                                                              | 2026-05-08T18:09:09     | /2026/05/gmd-thong-bao-thay-doi-nhan-su-mien-nhiem-thanh-vien-hdqt-214-1440380.htm                                        |
+| GMD: Báo cáo thay đổi phương án sử dụng số tiền thu được từ đợt chào bán                                                  | 2026-05-08T18:08:10     | /2026/05/gmd-bao-cao-thay-doi-phuong-an-su-dung-so-tien-thu-duoc-tu-dot-chao-ban-739-1440388.htm                          |
+| GMD: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-05-08T08:39:12     | /2026/05/gmd-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1439796.htm                                            |
+| Vì sao Gemadept chưa lo mất lợi thế trước cuộc đua cảng biển ở Cái Mép và Lạch Huyện?                                     | 2026-05-06T18:31:17.933 | /2026/05/vi-sao-gemadept-chua-lo-mat-loi-the-truoc-cuoc-dua-cang-bien-o-cai-mep-va-lach-huyen-737-1438822.htm             |
+| GMD: Nghị quyết HĐQT về việc điều chỉnh và bổ sung tài liệu trình ĐHĐCĐTN 2026                                            | 2026-05-05T10:25:15     | /2026/05/gmd-nghi-quyet-hdqt-ve-viec-dieu-chinh-va-bo-sung-tai-lieu-trinh-dhdcdtn-2026-737-1437734.htm                    |
+| GMD: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                                                 | 2026-04-29T00:00:00     | /2026/04/gmd-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1436878.htm                                                         |
+| GMD: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-29T00:00:00     | /2026/04/gmd-bctc-tom-tat-quy-1-nam-2026-737-1436879.htm                                                                  |
+| GMD: CBTT ban hành Nghị quyết HĐQT về việc góp vốn thành lập công ty liên doanh và cử người đại diện quản lý phần vốn gó… | 2026-04-28T14:57:56     | /2026/04/gmd-cbtt-ban-hanh-nghi-quyet-hdqt-ve-viec-gop-von-thanh-lap-cong-ty-lien-doanh-va-cu-nguoi-dai-dien-quan-ly-pha… |
+| Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại GMD, HAG và HPG                                                       | 2026-04-20T15:02:00     | /2026/04/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-gmd-hag-va-hpg-739-1430155.htm                                |
+| GMD: Báo cáo phát triển bền vững năm 2025                                                                                 | 2026-04-20T13:43:01     | /2026/04/gmd-bao-cao-phat-trien-ben-vung-nam-2025-830-1430162.htm                                                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-17T00:00:00 | 2026-03-30T00:00:00 | 2026-03-27T00:00:00 |
-| 2026-02-12T00:00:00 | nan                 | nan                 |
-| 2026-01-28T00:00:00 | nan                 | nan                 |
-| 2026-01-22T00:00:00 | nan                 | nan                 |
-| 2025-12-29T00:00:00 | nan                 | nan                 |
-| 2025-10-24T00:00:00 | nan                 | nan                 |
-| 2025-10-20T00:00:00 | nan                 | nan                 |
-| 2025-10-20T00:00:00 | nan                 | nan                 |
-| 2025-10-20T00:00:00 | nan                 | nan                 |
-| 2025-10-06T00:00:00 | nan                 | nan                 |
-| 2025-10-06T00:00:00 | 2025-10-02T00:00:00 | 2025-10-02T00:00:00 |
-| 2025-10-06T00:00:00 | nan                 | nan                 |
-| 2025-10-06T00:00:00 | nan                 | nan                 |
-| 2025-10-06T00:00:00 | nan                 | nan                 |
-| 2025-10-06T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Vận tải - kho bãi |
-| % Ngành hôm nay | -1.58% |
-| % Cổ phiếu hôm nay | +1.51% |
-| RS (CP − Ngành) | +3.09% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # VND — CTCP Chứng khoán VNDIRECT
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 08/05/2026 22:03  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VND |
-| organ_code | VND |
-| current_price | 16650.0 |
-| market_cap | 25346293468200.0 |
-| number_of_shares_mkt_cap | 1522299908.0 |
-| ticker | VND |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | VNDIRECT Securities Corporation |
-| en_organ_short_name | VNDIRECT |
-| vi_organ_name | Công ty Cổ phần Chứng khoán VNDIRECT |
-| vi_organ_short_name | Chứng khoán VNDIRECT |
-| com_type_code | CK |
-| com_group_code | VNINDEX |
-| sector | Financial Services |
-| sector_vn | Dịch vụ tài chính |
-| average_match_value1_month | 161139795010.5263 |
-| average_match_volume1_month | 9663009.0 |
-| highest_price1_year | 27350.0 |
-| lowest_price1_year | 14056.0 |
-| foreigner_percentage | 0.0946835 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">VNDIRECT Securities Corporation (VND) was established in 2006. The Company h… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n VNDIRECT (VND)&nbsp;được th&agrave;nh lập v&agrave;o năm 2006. C&ocir… |
-| in_cu | False |
-| icb_code_lv2 | 8700 |
-| icb_code_lv4 | 8777 |
-| free_float | 1141724931 |
-| free_float_percentage | 0.75 |
-| listing_date | 2010-03-30T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 25041833486600 |
+| 52w_high | 26800 |
+| 52w_high_date | 2025-09-03 |
+| 52w_low | 14300 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 9.5882 |
+| dividend | 500 |
+| beta | 1.05 |
+| eps | 1435 |
+| eps_forward | 13.775130305286671 |
+| bvps | 14089.37 |
+| pe | 11.60 |
+| pb | 1.18 |
+| price_chg_1m | -2.37 |
+| price_chg_ytd | 13.89 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.030395136778115502 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,10 +40,10 @@
 | MA5 | 16.39 |
 | MA10 | 16.31 |
 | EMA20 | 16.393 |
-| EMA50 | 16.723 |
+| EMA50 | 16.727 |
 | Slope MA20 (5p, %) | 0.08 |
-| ATR(14) | 0.482 |
-| RSI(14) | 50.3 |
+| ATR(14) | 0.481 |
+| RSI(14) | 50.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
@@ -79,78 +58,33 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     18.3  | 1.3         | 2             |
-| 🔴 Kháng cự     |     17.55 | 0.92        | 1             |
-| 🔴 Kháng cự     |     17.2  | 1.34        | 1             |
+| 🔴 Kháng cự    |     18.3  | 1.28        | 2             |
+| 🔴 Kháng cự    |     17.55 | 0.91        | 1             |
+| 🔴 Kháng cự    |     17.2  | 1.34        | 1             |
 | ▶ Giá hiện tại |     16.45 | —           | —             |
-| 🟢 Hỗ trợ       |     15.9  | 1.44        | 1             |
-| 🟢 Hỗ trợ       |     14.3  | 1.17        | 1             |
+| 🟢 Hỗ trợ      |     15.9  | 1.44        | 1             |
+| 🟢 Hỗ trợ      |     14.3  | 1.16        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VND |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698131 |
-| ratio_type | RATIO_TTM |
-| organ_code | VND |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 216489735 |
-| market_cap | 3875166256500.0 |
-| dividend_yield | 0.0 |
-| pe | 7.0974271139 |
-| pb | 1.0487363782 |
-| ps | 2.7469564044 |
-| price_to_cash_flow | -1.6711547597 |
-| ev_to_ebitda | 11.1693886595 |
-| cash_ratio | 0.1579190744 |
-| quick_ratio | 1.4739384195 |
-| current_ratio | 1.4739384195 |
-| owners_equity | 0.0 |
-| debt_per_equity | 1.8040634837 |
-| debt_to_equity | 2.6684212373 |
-| roe | 0.179252177 |
-| roa | 0.05385773 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 1.3483778862 |
-| gross_margin | 0.7256795166 |
-| ebit_margin | 0.5345172774 |
-| pre_tax_profit_margin | 0.4020399899 |
-| after_tax_profit_margin | 0.3090821983 |
-| asset_turnover | 0.174250508 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 754050305879.0 |
-| ebitda | 769677444087.0 |
-| roic | 0.1016480903 |
-| cash_cycle | 25.7715690951 |
-| fixed_asset_turnover | 24.848837673 |
-| financial_leverage | 2.6684212373 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 11.60 |
+| pb | 1.18 |
+| roe | 9.96 |
+| roe_pct_rank | 47 |
+| roa | 4.22 |
+| roa_pct_rank | 47 |
+| eps | 1435 |
+| bvps | 14089.37 |
+| beta | 1.05 |
+| dividend | 500 |
+| yield | 0.030395136778115502 |
+| pe_pct_rank | 48 |
+| pb_pct_rank | 50 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +101,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                              | public_date         | news_source_link   |
-|:----------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VND: Báo cáo thường niên năm 2025                                                       | 2026-04-20T13:41:12 |                    |
-| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5             | 2026-04-10T15:02:37 |                    |
-| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026               | 2026-04-09T15:26:08 |                    |
-| VND: Nghị quyết HĐQT về việc chào bán và niêm yết chứng quyền có bảo đảm đợt 1 năm 2026 | 2026-04-08T16:28:51 |                    |
-| VND: Báo cáo tỷ lệ an toàn tài chính kiểm toán năm 2025                                 | 2026-03-31T15:44:48 |                    |
-| VND: Thông báo Quyết định của UBCKNN về việc sửa đổi QĐ chấp thuận thành lập CN Đà Nẵng | 2026-03-27T14:06:36 |                    |
-| VND: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                          | 2026-03-13T14:26:57 |                    |
-| VND: CBTT ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                               | 2026-03-06T17:45:47 |                    |
-| VND: Báo cáo tình hình quản trị công ty năm 2025                                        | 2026-01-30T18:47:10 |                    |
-| VND: Thông báo nhận được Quyết định của HNX về việc niêm yết trái phiếu                 | 2026-01-28T15:37:54 |                    |
+| title                                                                                                    | publishtime            | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Tập đoàn I.P.A báo lãi gần trăm tỷ, thoái mạnh vốn nhóm Trung Nam                                        | 2026-05-04T18:04:07.02 | /2026/05/tap-doan-ipa-bao-lai-gan-tram-ty-thoai-manh-von-nhom-trung-nam-737-1437280.htm                                   |
+| 21 công ty chứng khoán báo lỗ trong quý 1                                                                | 2026-04-28T10:42:25.49 | /2026/04/21-cong-ty-chung-khoan-bao-lo-trong-quy-1-737-1434265.htm                                                        |
+| Lãi ròng VNDIRECT tăng 43% trong quý 1                                                                   | 2026-04-21T19:45:00    | /2026/04/lai-rong-vndirect-tang-43-trong-quy-1-737-1431451.htm                                                            |
+| VND: Báo cáo tài chính  riêng lẻ Q1 2026                                                                 | 2026-04-20T17:59:00    | /2026/04/vnd-bao-cao-tai-chinh-rieng-le-q1-2026-737-1430860.htm                                                           |
+| VND: Báo cáo thường niên năm 2025                                                                        | 2026-04-20T13:41:12    | /2026/04/vnd-bao-cao-thuong-nien-nam-2025-737-1430159.htm                                                                 |
+| VND: BCTC Tóm tắt quý 1 năm 2026                                                                         | 2026-04-20T00:00:00    | /2026/04/vnd-bctc-tom-tat-quy-1-nam-2026-737-1431244.htm                                                                  |
+| VND: VNDIRECT công bố Báo cáo thường niên năm 2025                                                       | 2026-04-17T00:00:00    | /2026/04/vnd-vndirect-cong-bo-bao-cao-thuong-nien-nam-2025-737-1429616.htm                                                |
+| VND: Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng thay đổi lần thứ 5                              | 2026-04-10T15:05:14    | /2026/04/vnd-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-1426088.htm                       |
+| VND: Thông báo thời gian, địa điểm và link tài liệu họp ĐHĐCĐ TN năm 2026                                | 2026-04-09T15:32:17    | /2026/04/vnd-thong-bao-thoi-gian-dia-diem-va-link-tai-lieu-hop-dhdcd-tn-nam-2026-737-1425534.htm                          |
+| VND: VNDIRECT công bố nhận được Giấy chứng nhận đăng ký hoạt động Chi nhánh Đà Nẵng (thay đổi lần thứ 5) | 2026-04-09T00:00:00    | /2026/04/vnd-vndirect-cong-bo-nhan-duoc-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-da-nang-thay-doi-lan-thu-5-737-14257… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-13T00:00:00 | 2026-03-30T00:00:00 | 2026-03-27T00:00:00 |
-| 2025-10-14T00:00:00 | nan                 | nan                 |
-| 2025-10-14T00:00:00 | nan                 | nan                 |
-| 2025-09-04T00:00:00 | nan                 | nan                 |
-| 2025-08-19T00:00:00 | 2025-09-03T00:00:00 | 2025-08-29T00:00:00 |
-| 2025-06-19T00:00:00 | 2025-06-25T00:00:00 | 2025-06-24T00:00:00 |
-| 2025-03-20T00:00:00 | 2025-04-08T00:00:00 | 2025-04-04T00:00:00 |
-| 2024-09-05T00:00:00 | 2024-09-11T00:00:00 | 2024-09-10T00:00:00 |
-| 2024-08-23T00:00:00 | nan                 | nan                 |
-| 2024-07-02T00:00:00 | nan                 | nan                 |
-| 2024-07-02T00:00:00 | nan                 | nan                 |
-| 2024-05-24T00:00:00 | 2024-05-30T00:00:00 | 2024-05-29T00:00:00 |
-| 2024-05-24T00:00:00 | 2024-05-30T00:00:00 | 2024-05-29T00:00:00 |
-| 2024-05-04T00:00:00 | 2024-05-16T00:00:00 | 2024-05-15T00:00:00 |
-| 2023-09-18T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.26% |
-| % Cổ phiếu hôm nay | -1.20% |
-| RS (CP − Ngành) | -0.94% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

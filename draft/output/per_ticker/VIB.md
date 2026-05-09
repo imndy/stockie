@@ -1,6 +1,6 @@
 # VIB — Ngân hàng TMCP Quốc tế Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 22:02  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 09/05/2026 13:39  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIB |
-| organ_code | VIB |
-| current_price | 16100.0 |
-| market_cap | 54804491931000.0 |
-| number_of_shares_mkt_cap | 3404005710.0 |
-| ticker | VIB |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 23-May-25 |
-| en_organ_name | Viet Nam International Commercial Joint Stock Bank |
-| en_organ_short_name | VIBBank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam |
-| vi_organ_short_name | VIBBank |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 116460532697.36842 |
-| average_match_volume1_month | 6769806.0 |
-| highest_price1_year | 23513.0 |
-| lowest_price1_year | 14388.0 |
-| foreigner_percentage | 0.04783423 |
-| maximum_foreign_percentage | 0.0499 |
-| state_percentage | 0.0 |
-| analyst | Nga Ho |
-| upside_to_target_percent | 0.149068323 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.149068323 |
-| target_price | 18500.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">Vietnam International Commercial Joint Stock Bank (VIB) was established on 1… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Quốc tế Việt Nam (VIB) được th&agrave;nh lập v&… |
-| in_cu | True |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 2212603711 |
-| free_float_percentage | 0.6499999999 |
-| listing_date | 2017-01-09T00:00:00 |
-| prev_insight | {'targetPrice': 21000.0, 'rating': 'O-PF', 'ratingAsOf': '02-Dec-24', 'analyst': 'Nga Ho', 'version': '20250522'} |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 54634291645500 |
+| 52w_high | 22376 |
+| 52w_high_date | 2025-08-22 |
+| 52w_low | 14822 |
+| 52w_low_date | 2025-06-11 |
+| foreign_ownership | 4.7853 |
+| dividend | 900 |
+| beta | 0.78 |
+| eps | 2343 |
+| eps_forward | 4.744979458070296 |
+| bvps | 14437.13 |
+| pe | 6.87 |
+| pb | 1.12 |
+| price_chg_1m | -1.29 |
+| price_chg_ytd | 9.83 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.056074766355140186 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,10 +40,10 @@
 | MA5 | 16.09 |
 | MA10 | 16.226 |
 | EMA20 | 16.229 |
-| EMA50 | 16.24 |
+| EMA50 | 16.237 |
 | Slope MA20 (5p, %) | -0.56 |
 | ATR(14) | 0.31 |
-| RSI(14) | 46.0 |
+| RSI(14) | 46.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -79,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    16.665 | 3.38        | 3             |
-| 🔴 Kháng cự     |    16.35  | 2.26        | 2             |
-| 🔴 Kháng cự     |    16.346 | 3.58        | 4             |
+| 🔴 Kháng cự    |    16.665 | 3.36        | 3             |
+| 🔴 Kháng cự    |    16.35  | 2.25        | 2             |
+| 🔴 Kháng cự    |    16.346 | 3.56        | 4             |
 | ▶ Giá hiện tại |    16.05  | —           | —             |
-| 🟢 Hỗ trợ       |    15.668 | 3.47        | 3             |
-| 🟢 Hỗ trợ       |    15.36  | 1.17        | 1             |
-| 🟢 Hỗ trợ       |    14.74  | 1.06        | 1             |
+| 🟢 Hỗ trợ      |    15.668 | 3.46        | 3             |
+| 🟢 Hỗ trợ      |    15.36  | 1.16        | 1             |
+| 🟢 Hỗ trợ      |    14.74  | 1.06        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIB |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698122 |
-| ratio_type | RATIO_TTM |
-| organ_code | VIB |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 530574039 |
-| market_cap | 14718654415899.0 |
-| dividend_yield | 0.0 |
-| pe | 10.8404066634 |
-| pb | 1.7099060254 |
-| ps | 3.2812844942 |
-| price_to_cash_flow | 42.1741455026 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 13.8542767582 |
-| roe | 0.1588990692 |
-| roa | 0.0115244262 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.4574352634 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.3945039702 |
-| after_tax_profit_margin | 0.3155176588 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0319354308 |
-| average_yield_on_earning_assets | 0.0635141351 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.1885276974 |
-| cost_to_income | -0.5095202351 |
-| loans_growth | 0.0551282171 |
-| deposit_growth | 0.0856452923 |
-| equity_to_liabilities | 0.0721798776 |
-| equity_to_loans | 0.1086706063 |
-| total_equity_total_asset | 0.0673206792 |
-| ldr_loan_deposit_ratio | 1.1348072573 |
-| npl | 0.0254503095 |
-| loans_loss_reserves_to_np_ls | -0.4604300713 |
-| loans_loss_reserve_to_loans | 0.0117180878 |
-| provision_to_outstanding_loans | -0.0036938372 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.5095202351 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.1530621195 |
-| nob66 | 11148196000000.0 |
-| nob69 | 163584000000.0 |
-| nob70 | 54101000000.0 |
-| bsb113 | 74256655000000.0 |
-| ratio_year_id | nan |
+| pe | 6.87 |
+| pb | 1.12 |
+| roe | 16.41 |
+| roe_pct_rank | 61 |
+| roa | 1.39 |
+| roa_pct_rank | 38 |
+| eps | 2343 |
+| bvps | 14437.13 |
+| beta | 0.78 |
+| dividend | 900 |
+| yield | 0.056074766355140186 |
+| pe_pct_rank | 37 |
+| pb_pct_rank | 48 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -168,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                 | public_date         | news_source_link   |
-|:-----------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VIB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                               | 2026-04-29T14:26:10 |                    |
-| VIB: Báo cáo về thay đổi sở hữu của nhóm cổ đông lớn Nguyễn Thùy Nga                                       | 2026-04-24T17:09:47 |                    |
-| VIB: Báo cáo về thay đổi sở hữu của cổ đông lớn Công ty Cổ phần Unicap                                     | 2026-04-24T17:08:00 |                    |
-| VIB: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền                                 | 2026-04-24T14:18:55 |                    |
-| VIB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đặng Minh Trang            | 2026-04-22T08:49:59 |                    |
-| VIB chi hơn 3.000 tỷ đồng chia cổ tức 2025                                                                 | 2026-04-21T10:58:00 |                    |
-| VIB: Nghị quyết HĐQT số 020.26.BOD ngày 17/04/2026                                                         | 2026-04-17T17:12:46 |                    |
-| VIB: Trích Nghị quyết HĐQT số 020.26.BOD.1 ngày 17/04/2026                                                 | 2026-04-17T17:11:00 |                    |
-| VIB: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                        | 2026-04-15T16:58:34 |                    |
-| VIB: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đặng Minh Trang, Đặng Thị Thu Hà | 2026-04-10T15:13:00 |                    |
+| title                                                                                      | publishtime         | url                                                                                                                |
+|:-------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------|
+| VIB: Nghị quyết HĐQT về việc phê duyệt triển khai và thực hiện phương án tăng vốn năm 2026 | 2026-05-08T15:56:49 | /2026/05/vib-nghi-quyet-hdqt-ve-viec-phe-duyet-trien-khai-va-thuc-hien-phuong-an-tang-von-nam-2026-737-1440074.htm |
+| VIB: Thông báo về chi trả cổ tức bằng tiền năm 2025 cho cổ đông                            | 2026-05-08T15:46:56 | /2026/05/vib-thong-bao-ve-chi-tra-co-tuc-bang-tien-nam-2025-cho-co-dong-738-1440062.htm                            |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng              | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                |
+| CASA tăng 5%, VIB tăng 16% lãi trước thuế quý 1                                            | 2026-04-30T14:02:00 | /2026/04/casa-tang-5-vib-tang-16-lai-truoc-thue-quy-1-737-1436354.htm                                              |
+| VIB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước               | 2026-04-29T14:29:03 | /2026/04/vib-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435526.htm               |
+| VIB: BCTC Hợp nhất quý 1 năm 2026                                                          | 2026-04-29T00:00:00 | /2026/04/vib-bctc-hop-nhat-quy-1-nam-2026-737-1435549.htm                                                          |
+| VIB: BCTC quý 1 năm 2026                                                                   | 2026-04-29T00:00:00 | /2026/04/vib-bctc-quy-1-nam-2026-737-1435550.htm                                                                   |
+| VIB: Báo cáo về thay đổi sở hữu của nhóm cổ đông lớn Nguyễn Thùy Nga                       | 2026-04-24T17:09:47 | /2026/04/vib-bao-cao-ve-thay-doi-so-huu-cua-nhom-co-dong-lon-nguyen-thuy-nga-739-1433955.htm                       |
+| VIB: Báo cáo về thay đổi sở hữu của cổ đông lớn Công ty Cổ phần Unicap                     | 2026-04-24T17:08:34 | /2026/04/vib-bao-cao-ve-thay-doi-so-huu-cua-co-dong-lon-cong-ty-co-phan-unicap-739-1433953.htm                     |
+| VIB: Thông báo về ngày đăng ký cuối cùng chi trả cổ tức năm 2025 bằng tiền                 | 2026-04-24T14:18:55 | /2026/04/vib-thong-bao-ve-ngay-dang-ky-cuoi-cung-chi-tra-co-tuc-nam-2025-bang-tien-737-1433275.htm                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-04-24T00:00:00 | 2026-05-04T00:00:00 | 2026-04-29T00:00:00 |
-| 2026-04-22T00:00:00 | nan                 | nan                 |
-| 2026-04-10T00:00:00 | nan                 | nan                 |
-| 2026-04-09T00:00:00 | nan                 | nan                 |
-| 2026-04-09T00:00:00 | nan                 | nan                 |
-| 2026-01-27T00:00:00 | 2026-03-09T00:00:00 | 2026-03-06T00:00:00 |
-| 2026-01-05T00:00:00 | nan                 | nan                 |
-| 2025-12-29T00:00:00 | nan                 | nan                 |
-| 2025-12-29T00:00:00 | nan                 | nan                 |
-| 2025-08-25T00:00:00 | nan                 | nan                 |
-| 2025-08-07T00:00:00 | nan                 | nan                 |
-| 2025-07-28T00:00:00 | nan                 | nan                 |
-| 2025-07-28T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | -0.31% |
-| RS (CP − Ngành) | -1.08% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # KDC — CTCP Tập đoàn KIDO
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:10
+> 📅 Daily: 09/05/2026 13:33  |  🗂 Quarterly: 03/05/2026 14:10
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | KDC |
-| organ_code | KDC |
-| current_price | 47900.0 |
-| market_cap | 13881722536400.0 |
-| number_of_shares_mkt_cap | 289806316.0 |
-| ticker | KDC |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | KIDO Group Corporation |
-| en_organ_short_name | KIDO Group |
-| vi_organ_name | Công ty Cổ phần Tập đoàn KIDO |
-| vi_organ_short_name | Tập đoàn KIDO |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 27539231813.157894 |
-| average_match_volume1_month | 615679.0 |
-| highest_price1_year | 57619.0 |
-| lowest_price1_year | 38700.0 |
-| foreigner_percentage | 0.15909643 |
-| maximum_foreign_percentage | 0.5 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">KIDO Group Corporation (KDC), formerly known&nbsp;as Kinh Do Food Processing and Constr… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n KIDO&nbsp;(KDC) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty T… |
-| in_cu | False |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3577 |
-| free_float | 130412842 |
-| free_float_percentage | 0.4499999993 |
-| listing_date | 2005-12-12T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 13881722536400 |
+| 52w_high | 57620 |
+| 52w_high_date | 2025-06-20 |
+| 52w_low | 41600 |
+| 52w_low_date | 2026-04-28 |
+| foreign_ownership | 15.9096 |
+| dividend | 1200 |
+| beta | 0.07 |
+| eps | 2223 |
+| eps_forward | 19.831001776095984 |
+| bvps | 25479 |
+| pe | 21.55 |
+| pb | 1.88 |
+| price_chg_1m | -1.84 |
+| price_chg_ytd | -12.42 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.025052192066805846 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -61,8 +39,8 @@
 | Giá đóng cửa | 47.9 |
 | MA5 | 46.95 |
 | MA10 | 45.915 |
-| EMA20 | 47.083 |
-| EMA50 | 48.355 |
+| EMA20 | 47.084 |
+| EMA50 | 48.372 |
 | Slope MA20 (5p, %) | -0.01 |
 | ATR(14) | 1.969 |
 | RSI(14) | 52.1 |
@@ -71,7 +49,7 @@
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
 | MACD | -0.678 |
-| MACD Signal | -0.94 |
+| MACD Signal | -0.941 |
 | MACD Histogram | 0.262 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 375642 |
@@ -80,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    49.503 | 3.79        | 5             |
-| 🔴 Kháng cự     |    49.2   | 1.33        | 1             |
-| 🔴 Kháng cự     |    48.05  | 2.36        | 2             |
+| 🔴 Kháng cự    |    49.503 | 3.75        | 5             |
+| 🔴 Kháng cự    |    49.2   | 1.33        | 1             |
+| 🔴 Kháng cự    |    48.05  | 2.36        | 2             |
 | ▶ Giá hiện tại |    47.9   | —           | —             |
-| 🟢 Hỗ trợ       |    46.907 | 1.73        | 2             |
-| 🟢 Hỗ trợ       |    46     | 1.27        | 1             |
-| 🟢 Hỗ trợ       |    38.7   | 1.44        | 1             |
+| 🟢 Hỗ trợ      |    46.907 | 1.72        | 2             |
+| 🟢 Hỗ trợ      |    46     | 1.27        | 1             |
+| 🟢 Hỗ trợ      |    38.7   | 1.44        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | KDC |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698757 |
-| ratio_type | RATIO_TTM |
-| organ_code | KDC |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 205661141 |
-| market_cap | 6951346565800.0 |
-| dividend_yield | 0.0 |
-| pe | 19.7063169478 |
-| pb | 1.3659527969 |
-| ps | 0.934423989 |
-| price_to_cash_flow | -49.0759702924 |
-| ev_to_ebitda | 41.8117304271 |
-| cash_ratio | 0.3761148647 |
-| quick_ratio | 2.2362910945 |
-| current_ratio | 2.8038815066 |
-| owners_equity | 0.1111242099 |
-| debt_per_equity | 0.2501275714 |
-| debt_to_equity | 0.3719704839 |
-| roe | 0.044535455 |
-| roa | 0.0311681446 |
-| day_sale_outstanding | 30.7715787897 |
-| days_inventory_outstanding | 55.7631602297 |
-| days_payable_outstanding | 23.1895721279 |
-| gross_margin | 0.1970296754 |
-| ebit_margin | -0.014751797 |
-| pre_tax_profit_margin | 0.0737925995 |
-| after_tax_profit_margin | 0.0593386345 |
-| asset_turnover | 0.6573067513 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | -109741246517.0 |
-| ebitda | 197651283625.0 |
-| roic | -0.0112069249 |
-| cash_cycle | 130.1388074601 |
-| fixed_asset_turnover | 2.9687235954 |
-| financial_leverage | 0.3719704839 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 21.55 |
+| pb | 1.88 |
+| roe | 7.83 |
+| roe_pct_rank | 42 |
+| roa | 3.81 |
+| roa_pct_rank | 46 |
+| eps | 2223 |
+| bvps | 25479 |
+| beta | 0.07 |
+| dividend | 1200 |
+| yield | 0.025052192066805846 |
+| pe_pct_rank | 68 |
+| pb_pct_rank | 70 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -169,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                          | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| KDC: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước        | 2026-04-29T18:27:19 |                    |
-| Cổ phiếu KDC "tàu lượn"                                                             | 2026-04-29T14:10:00 |                    |
-| KDC: Phó TGĐ đăng ký mua 2 triệu cổ phiếu                                           | 2026-04-20T16:56:00 |                    |
-| KDC: Báo cáo thường niên năm 2025                                                   | 2026-04-20T15:54:11 |                    |
-| KDC: Thành viên HĐQT đăng ký bán 151.794 cổ phiếu                                   | 2026-04-14T17:36:00 |                    |
-| KDC: Nghị quyết HĐQT về việc thay đổi thời gian tổ chức ĐHĐCĐ thường niên 2026      | 2026-04-02T17:06:55 |                    |
-| KDC: Giải trình biến động lợi nhuận năm 2025 sau kiểm toán so với cùng kỳ năm trước | 2026-04-01T08:52:30 |                    |
-| KDC: CBTT mua lại cổ phiếu VOC                                                      | 2026-03-30T13:26:59 |                    |
-| KDC: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                      | 2026-03-27T19:26:36 |                    |
-| KDC: Nghị quyết HĐQT số KDC04/2026 ngày 25/03/2026                                  | 2026-03-25T17:48:44 |                    |
+| title                                                                        | publishtime             | url                                                                                                  |
+|:-----------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| KIDO sắp mua lại gần 14.5 triệu cp, giá mua tối đa 70,000 đồng/cp            | 2026-05-08T11:05:33.7   | /2026/05/kido-sap-mua-lai-gan-145-trieu-cp-gia-mua-toi-da-70000-dongcp-830-1439850.htm               |
+| KDC: Phương án mua lại cổ phiếu                                              | 2026-05-07T17:30:42     | /2026/05/kdc-phuong-an-mua-lai-co-phieu-739-1439657.htm                                              |
+| KDC: Tài liệu họp ĐHĐCĐ thường niên 2026                                     | 2026-05-07T17:17:57     | /2026/05/kdc-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1439777.htm                                     |
+| KDC: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước | 2026-04-29T18:31:10     | /2026/04/kdc-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436051.htm |
+| Cổ phiếu KDC quay đầu tăng trở lại                                           | 2026-04-29T11:08:44.81  | /2026/04/co-phieu-kdc-quay-dau-tang-tro-lai-830-1435292.htm                                          |
+| KDC: BCTC quý 1 năm 2026                                                     | 2026-04-29T00:00:00     | /2026/04/kdc-bctc-quy-1-nam-2026-737-1435961.htm                                                     |
+| KDC: BCTC Hợp nhất quý 1 năm 2026                                            | 2026-04-29T00:00:00     | /2026/04/kdc-bctc-hop-nhat-quy-1-nam-2026-737-1435962.htm                                            |
+| Vợ Chủ tịch Trần Kim Thành đăng ký mua 2 triệu cp KDC                        | 2026-04-20T19:03:54.407 | /2026/04/vo-chu-tich-tran-kim-thanh-dang-ky-mua-2-trieu-cp-kdc-739-1430714.htm                       |
+| KDC: Báo cáo thường niên năm 2025                                            | 2026-04-20T16:03:22     | /2026/04/kdc-bao-cao-thuong-nien-nam-2025-737-1430467.htm                                            |
+| KDC: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Xuân Liễu      | 2026-04-14T17:36:16     | /2026/04/kdc-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-thi-xuan-lieu-830-1427634.htm      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-20T00:00:00 | nan                 | nan                 |
-| 2026-04-14T00:00:00 | nan                 | nan                 |
-| 2026-03-27T00:00:00 | 2026-04-14T00:00:00 | 2026-04-13T00:00:00 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-02-23T00:00:00 | nan                 | nan                 |
-| 2026-02-12T00:00:00 | nan                 | nan                 |
-| 2026-01-21T00:00:00 | 2026-02-06T00:00:00 | 2026-02-05T00:00:00 |
-| 2026-01-13T00:00:00 | nan                 | nan                 |
-| 2025-12-31T00:00:00 | 2026-01-14T00:00:00 | 2026-01-13T00:00:00 |
-| 2025-10-03T00:00:00 | nan                 | nan                 |
-| 2025-08-22T00:00:00 | nan                 | nan                 |
-| 2025-06-23T00:00:00 | nan                 | nan                 |
-| 2025-05-27T00:00:00 | nan                 | nan                 |
-| 2025-05-21T00:00:00 | nan                 | nan                 |
-| 2025-05-15T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.76% |
-| % Cổ phiếu hôm nay | +0.00% |
-| RS (CP − Ngành) | +0.76% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

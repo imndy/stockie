@@ -1,6 +1,6 @@
 # HHV — CTCP Đầu tư Hạ tầng Giao thông Đèo Cả
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HHV |
-| organ_code | HAMADECO |
-| current_price | 12550.0 |
-| market_cap | 6866937014800.0 |
-| number_of_shares_mkt_cap | 547166296.0 |
-| ticker | HHV |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Deo Ca Traffic Infrastructure Investment Joint Stock Company |
-| en_organ_short_name | Deo Ca Traffic Infrastructure Investment |
-| vi_organ_name | Công ty Cổ phần Đầu tư Hạ tầng Giao thông Đèo Cả |
-| vi_organ_short_name | Đầu tư Hạ tầng Giao thông Đèo Cả |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Construction & Materials |
-| sector_vn | Xây dựng và Vật liệu |
-| average_match_value1_month | 103019391465.78947 |
-| average_match_volume1_month | 8066658.0 |
-| highest_price1_year | 16941.0 |
-| lowest_price1_year | 10750.0 |
-| foreigner_percentage | 0.10293277 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Deo Ca Traffic Infrastructure Investment Joint Stock Company (HHV), formerly&nbsp;known&nbsp;as&nbsp;Thong Nha… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Đầu tư Hạ tầng giao th&ocirc;ng Đ&egrave;o Cả (HHV) c&oacute; tiền th&acirc;n l&agrave; … |
-| in_cu | False |
-| icb_code_lv2 | 2300 |
-| icb_code_lv4 | 2357 |
-| free_float | 437733036 |
-| free_float_percentage | 0.7999999985 |
-| listing_date | 2015-12-18T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 6757503755600 |
+| 52w_high | 16378 |
+| 52w_high_date | 2025-09-29 |
+| 52w_low | 11000 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 10.324 |
+| dividend | 0 |
+| beta | 0.71 |
+| eps | 1293 |
+| eps_forward | 8.964669914424904 |
+| bvps | 25907 |
+| pe | 9.71 |
+| pb | 0.48 |
+| price_chg_1m | -4.26 |
+| price_chg_ytd | 10.51 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,10 +40,10 @@
 | MA5 | 12.62 |
 | MA10 | 12.625 |
 | EMA20 | 12.557 |
-| EMA50 | 12.452 |
+| EMA50 | 12.447 |
 | Slope MA20 (5p, %) | 0.24 |
-| ATR(14) | 0.422 |
-| RSI(14) | 46.7 |
+| ATR(14) | 0.421 |
+| RSI(14) | 46.9 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
@@ -78,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    13.188 | 3.57        | 3             |
-| 🔴 Kháng cự     |    12.853 | 2.97        | 3             |
-| 🔴 Kháng cự     |    12.55  | 1.24        | 1             |
+| 🔴 Kháng cự    |    13.188 | 3.56        | 3             |
+| 🔴 Kháng cự    |    12.853 | 2.95        | 3             |
+| 🔴 Kháng cự    |    12.55  | 1.24        | 1             |
 | ▶ Giá hiện tại |    12.35  | —           | —             |
-| 🟢 Hỗ trợ       |    12.223 | 2.76        | 3             |
-| 🟢 Hỗ trợ       |    11.981 | 1.73        | 2             |
-| 🟢 Hỗ trợ       |    11.65  | 2.55        | 2             |
+| 🟢 Hỗ trợ      |    12.223 | 2.74        | 3             |
+| 🟢 Hỗ trợ      |    11.981 | 1.72        | 2             |
+| 🟢 Hỗ trợ      |    11.65  | 2.55        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HHV |
-| year | 2018 |
-| quarter | 4 |
-| ratio_ttm_id | 2728815 |
-| ratio_type | RATIO_TTM |
-| organ_code | HAMADECO |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 0 |
-| market_cap | 0.0 |
-| dividend_yield | nan |
-| pe | 7.3503980149 |
-| pb | nan |
-| ps | nan |
-| price_to_cash_flow | nan |
-| ev_to_ebitda | nan |
-| cash_ratio | 0.0124240694 |
-| quick_ratio | 0.2961497207 |
-| current_ratio | 0.5955210114 |
-| owners_equity | 0.047414374 |
-| debt_per_equity | 1.0733619726 |
-| debt_to_equity | 2.5526114842 |
-| roe | 0.1611189895 |
-| roa | 0.0288366619 |
-| day_sale_outstanding | 52.7727503999 |
-| days_inventory_outstanding | 86.3220583023 |
-| days_payable_outstanding | 61.8673494324 |
-| gross_margin | 0.0856214486 |
-| ebit_margin | 0.0327385533 |
-| pre_tax_profit_margin | 0.0379559754 |
-| after_tax_profit_margin | 0.0333784826 |
-| asset_turnover | 0.8639296857 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 12921877150.0 |
-| ebitda | 25547135068.0 |
-| roic | 0.0614320999 |
-| cash_cycle | 289.4576889612 |
-| fixed_asset_turnover | 3.7552870806 |
-| financial_leverage | 2.5526114842 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 9.71 |
+| pb | 0.48 |
+| roe | 9.09 |
+| roe_pct_rank | 45 |
+| roa | 1.48 |
+| roa_pct_rank | 38 |
+| eps | 1293 |
+| bvps | 25907 |
+| beta | 0.71 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 43 |
+| pb_pct_rank | 18 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                              | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HHV: Giải trình biến động LNST trên BCTC HN quý 1/2026 so với cùng kỳ năm trước                         | 2026-05-04T08:56:58 |                    |
-| HHV: Thông báo mời họp ĐHĐCĐ thường niên 2026 lần 2                                                     | 2026-04-24T16:17:17 |                    |
-| HHV: Biên bản ghi nhận cuộc họp ĐHĐCĐ thường niên 2026                                                  | 2026-04-24T16:16:40 |                    |
-| HHV: Báo cáo thường niên năm 2025                                                                       | 2026-04-21T08:51:17 |                    |
-| HHV: Danh sách ứng viên bầu làm Kiểm soát viên nhiệm kỳ 2026-2031                                       | 2026-04-13T18:02:00 |                    |
-| HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                  | 2026-04-09T17:51:00 |                    |
-| HHV: Quyết định về việc thay đổi đăng ký niêm yết                                                       | 2026-04-07T11:04:00 |                    |
-| Đèo Cả (HHV) thông qua kế hoạch phát hành hơn 84,8 triệu cổ phiếu để tăng vốn điều lệ lên 6.320 tỷ đồng | 2026-04-06T14:30:00 |                    |
-| HHV: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                | 2026-04-06T09:19:30 |                    |
-| HHV: Thông báo đơn xin từ nhiệm của Kiểm soát viên                                                      | 2026-04-02T18:35:19 |                    |
+| title                                                                                          | publishtime            | url                                                                                                                     |
+|:-----------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------------|
+| HHV: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán                                      | 2026-05-08T18:01:36    | /2026/05/hhv-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-739-1440363.htm                                       |
+| Đại Quang Minh tăng vốn lên tỷ USD, đề xuất mới cho siêu dự án trục đại lộ cảnh quan sông Hồng | 2026-05-06T12:31:07.18 | /2026/05/dai-quang-minh-tang-von-len-ty-usd-de-xuat-moi-cho-sieu-du-an-truc-dai-lo-canh-quan-song-hong-4221-1438484.htm |
+| HHV: Giải trình biến động LNST trên BCTC HN quý 1/2026 so với cùng kỳ năm trước                | 2026-05-04T08:58:10    | /2026/05/hhv-giai-trinh-bien-dong-lnst-tren-bctc-hn-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436755.htm                 |
+| HHV: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-hop-nhat-quy-1-nam-2026-737-1436793.htm                                                               |
+| HHV: BCTC quý 1 năm 2026                                                                       | 2026-04-29T00:00:00    | /2026/04/hhv-bctc-quy-1-nam-2026-737-1436794.htm                                                                        |
+| HHV: Thông báo mời họp ĐHĐCĐ thường niên 2026 lần 2                                            | 2026-04-24T16:17:17    | /2026/04/hhv-thong-bao-moi-hop-dhdcd-thuong-nien-2026-lan-2-737-1433486.htm                                             |
+| HHV: Biên bản ghi nhận cuộc họp ĐHĐCĐ thường niên 2026                                         | 2026-04-24T16:16:40    | /2026/04/hhv-bien-ban-ghi-nhan-cuoc-hop-dhdcd-thuong-nien-2026-737-1433485.htm                                          |
+| HHV ước lợi nhuận sau thuế quý 1 gần 220 tỷ đồng                                               | 2026-04-24T10:39:46.18 | /2026/04/hhv-uoc-loi-nhuan-sau-thue-quy-1-gan-220-ty-dong-737-1433084.htm                                               |
+| HHV: Báo cáo thường niên năm 2025                                                              | 2026-04-21T08:51:17    | /2026/04/hhv-bao-cao-thuong-nien-nam-2025-737-1430938.htm                                                               |
+| Cổ đông lớn đề cử 2 ứng viên vào Ban Kiểm soát Đèo Cả trước thềm ĐHĐCĐ                         | 2026-04-14T11:22:15.84 | /2026/04/co-dong-lon-de-cu-2-ung-vien-vao-ban-kiem-soat-deo-ca-truoc-them-dhdcd-214-1427244.htm                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-09T00:00:00 | nan                 | nan                 |
-| 2026-03-12T00:00:00 | nan                 | nan                 |
-| 2026-03-05T00:00:00 | 2026-03-19T00:00:00 | 2026-03-18T00:00:00 |
-| 2026-02-13T00:00:00 | nan                 | nan                 |
-| 2026-02-13T00:00:00 | nan                 | nan                 |
-| 2026-02-13T00:00:00 | nan                 | nan                 |
-| 2026-02-13T00:00:00 | nan                 | nan                 |
-| 2025-12-19T00:00:00 | 2025-12-26T00:00:00 | 2025-12-25T00:00:00 |
-| 2025-09-04T00:00:00 | nan                 | nan                 |
-| 2025-07-10T00:00:00 | 2025-07-21T00:00:00 | 2025-07-18T00:00:00 |
-| 2025-06-11T00:00:00 | nan                 | nan                 |
-| 2025-05-09T00:00:00 | 2025-05-06T00:00:00 | 2025-05-06T00:00:00 |
-| 2025-03-06T00:00:00 | 2025-03-20T00:00:00 | 2025-03-19T00:00:00 |
-| 2024-08-23T00:00:00 | nan                 | nan                 |
-| 2024-07-10T00:00:00 | 2024-07-22T00:00:00 | 2024-07-19T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | -0.62% |
-| % Cổ phiếu hôm nay | -1.59% |
-| RS (CP − Ngành) | -0.97% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

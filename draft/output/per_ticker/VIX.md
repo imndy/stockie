@@ -1,6 +1,6 @@
 # VIX — CTCP Chứng khoán VIX
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 08/05/2026 22:03  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIX |
-| organ_code | VIX |
-| current_price | 17700.0 |
-| market_cap | 43370093564400.0 |
-| number_of_shares_mkt_cap | 2450287772.0 |
-| ticker | VIX |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | VIX Securities Joint Stock Company |
-| en_organ_short_name | VIX Securities |
-| vi_organ_name | Công ty Cổ phần Chứng khoán VIX |
-| vi_organ_short_name | Chứng khoán VIX |
-| com_type_code | CK |
-| com_group_code | VNINDEX |
-| sector | Financial Services |
-| sector_vn | Dịch vụ tài chính |
-| average_match_value1_month | 651135562378.9474 |
-| average_match_volume1_month | 36912784.0 |
-| highest_price1_year | 34160.0 |
-| lowest_price1_year | 9812.0 |
-| foreigner_percentage | 0.08220691 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p style="text-align: justify;">VIX Securities Joint Stock Company (VIX), formerly known as Vincom Securitie… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">C&ocirc;ng ty Cổ phần Chứng kho&aacute;n VIX (VIX) c&oacute;&nbsp;tiền th&acirc;n l&agrav… |
-| in_cu | False |
-| icb_code_lv2 | 8700 |
-| icb_code_lv4 | 8777 |
-| free_float | 2450287772 |
-| free_float_percentage | 1.0 |
-| listing_date | 2009-12-29T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 28484595358800 |
+| 52w_high | 33419 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 10108 |
+| 52w_low_date | 2025-05-12 |
+| foreign_ownership | 8.9506 |
+| dividend | 0 |
+| beta | 1.23 |
+| eps | 3424 |
+| eps_forward | 5.212750918857789 |
+| bvps | 14099.98 |
+| pe | 5.17 |
+| pb | 1.26 |
+| price_chg_1m | 3.33 |
+| price_chg_ytd | 86.24 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -64,7 +43,7 @@
 | EMA50 | 17.401 |
 | Slope MA20 (5p, %) | 1.05 |
 | ATR(14) | 0.722 |
-| RSI(14) | 63.3 |
+| RSI(14) | 63.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
@@ -79,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    20.459 | 1.56        | 2             |
-| 🔴 Kháng cự     |    19.8   | 0.88        | 1             |
-| 🔴 Kháng cự     |    18.7   | 1.34        | 1             |
+| 🔴 Kháng cự    |    20.459 | 1.55        | 2             |
+| 🔴 Kháng cự    |    19.8   | 0.87        | 1             |
+| 🔴 Kháng cự    |    18.7   | 1.34        | 1             |
 | ▶ Giá hiện tại |    18.6   | —           | —             |
-| 🟢 Hỗ trợ       |    17.4   | 0.92        | 1             |
-| 🟢 Hỗ trợ       |    17.02  | 0.66        | 1             |
-| 🟢 Hỗ trợ       |    16.3   | 2.83        | 2             |
+| 🟢 Hỗ trợ      |    17.4   | 0.91        | 1             |
+| 🟢 Hỗ trợ      |    17.02  | 0.65        | 1             |
+| 🟢 Hỗ trợ      |    16.3   | 2.83        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIX |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699372 |
-| ratio_type | RATIO_TTM |
-| organ_code | VIX |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 80964583 |
-| market_cap | 526269789500.0 |
-| dividend_yield | 0.0 |
-| pe | 3.9765618155 |
-| pb | 0.4845332696 |
-| ps | 1.12904209 |
-| price_to_cash_flow | 2.0112036811 |
-| ev_to_ebitda | 2.2758675478 |
-| cash_ratio | 6.9197927846 |
-| quick_ratio | 13.0929758916 |
-| current_ratio | 13.0929758916 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0212679045 |
-| debt_to_equity | 0.4495054857 |
-| roe | 0.1439755583 |
-| roa | 0.0898599533 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 34.7854682838 |
-| gross_margin | 0.4979466042 |
-| ebit_margin | 0.4509343329 |
-| pre_tax_profit_margin | 0.3498580218 |
-| after_tax_profit_margin | 0.2838449754 |
-| asset_turnover | 0.3164927704 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 210189787031.0 |
-| ebitda | 212869544386.0 |
-| roic | 0.2084382093 |
-| cash_cycle | 160.2994917691 |
-| fixed_asset_turnover | 49.3074152202 |
-| financial_leverage | 0.4495054857 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 5.17 |
+| pb | 1.26 |
+| roe | 28.85 |
+| roe_pct_rank | 87 |
+| roa | 20.12 |
+| roa_pct_rank | 100 |
+| eps | 3424 |
+| bvps | 14099.98 |
+| beta | 1.23 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 32 |
+| pb_pct_rank | 53 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -168,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                              | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| VIX: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                          | 2026-05-07T14:33:41 |                    |
-| VIX: Nghị quyết HĐQT về việc triệu tập họp ĐHĐCĐ thường niên năm 2026                                                   | 2026-05-06T17:19:32 |                    |
-| VIX: Thông báo của UBCKNN về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra công chúng             | 2026-04-23T13:37:42 |                    |
-| VIX: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết và báo cáo kết quả chào bán cổ phiếu                      | 2026-04-22T14:01:06 |                    |
-| VIX: Điều lệ công ty sửa đổi, bổ sung                                                                                   | 2026-04-22T10:43:32 |                    |
-| VIX: Nghị quyết HĐQT về việc thông qua kết quả chào bán cổ phiếu ra công chúng 2025 và sửa đổi, bổ sung điều lệ công ty | 2026-04-21T17:15:36 |                    |
-| Chứng khoán VIX giảm tới 4.321 tỷ đồng nợ vay trong quý I/2026                                                          | 2026-04-20T08:15:00 |                    |
-| VIX: Nghị quyết HĐQT về việc thông qua phương án xử lý cổ phiếu còn dư                                                  | 2026-04-16T17:35:40 |                    |
-| VIX: Báo cáo thường niên năm 2025                                                                                       | 2026-04-09T15:49:08 |                    |
-| VIX: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Cao Thị Hồng                                                   | 2026-04-07T11:09:16 |                    |
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VIX: Nghị quyết của Hội đồng quản trị thông qua việc đăng ký thay đổi nội dung đăng ký doanh nghiệp do thay đổi vốn điều… | 2026-05-08T00:00:00 | /2026/05/vix-nghi-quyet-cua-hoi-dong-quan-tri-thong-qua-viec-dang-ky-thay-doi-noi-dung-dang-ky-doanh-nghiep-do-thay-doi-… |
+| VIX: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ TN 2026                                                            | 2026-05-07T14:33:41 | /2026/05/vix-thong-bao-ngay-dkcc-thuc-hien-quyen-tham-du-dhdcd-tn-2026-737-1439376.htm                                    |
+| VIX: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự Đại hội đồng cổ đông thường niên năm 2026             | 2026-05-07T00:00:00 | /2026/05/vix-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dai-hoi-dong-co-dong-thuong-nien-nam-2026-73… |
+| VIX: Nghị quyết HĐQT về việc triệu tập họp ĐHĐCĐ thường niên năm 2026                                                     | 2026-05-06T17:19:32 | /2026/05/vix-nghi-quyet-hdqt-ve-viec-trieu-tap-hop-dhdcd-thuong-nien-nam-2026-737-1438869.htm                             |
+| VIX: VIX - Nghị quyết của Hội đồng quản trị về việc triệu tập họp Đại hội đồng cổ đông thường niên năm 2026               | 2026-05-06T00:00:00 | /2026/05/vix-vix-nghi-quyet-cua-hoi-dong-quan-tri-ve-viec-trieu-tap-hop-dai-hoi-dong-co-dong-thuong-nien-nam-2026-737-14… |
+| VIX: Thông báo của UBCKNN về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra công chúng               | 2026-04-23T13:38:47 | /2026/04/vix-thong-bao-cua-ubcknn-ve-viec-da-nhan-duoc-tai-lieu-bao-cao-ket-qua-dot-chao-ban-co-phieu-ra-cong-chung-739-… |
+| VIX: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết và báo cáo kết quả chào bán cổ phiếu                        | 2026-04-22T14:07:17 | /2026/04/vix-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-va-bao-cao-ket-qua-chao-ban-co-phieu-739-1431892.h… |
+| VIX: Điều lệ công ty sửa đổi, bổ sung                                                                                     | 2026-04-22T10:43:32 | /2026/04/vix-dieu-le-cong-ty-sua-doi-bo-sung-737-1431837.htm                                                              |
+| VIX: Thông báo của Uỷ ban Chứng khoán Nhà nước về việc đã nhận được tài liệu báo cáo kết quả đợt chào bán cổ phiếu ra cô… | 2026-04-22T00:00:00 | /2026/04/vix-thong-bao-cua-uy-ban-chung-khoan-nha-nuoc-ve-viec-da-nhan-duoc-tai-lieu-bao-cao-ket-qua-dot-chao-ban-co-phi… |
+| VIX: Nghị quyết HĐQT về việc thông qua kết quả chào bán cổ phiếu ra công chúng 2025 và sửa đổi, bổ sung điều lệ công ty   | 2026-04-21T17:15:36 | /2026/04/vix-nghi-quyet-hdqt-ve-viec-thong-qua-ket-qua-chao-ban-co-phieu-ra-cong-chung-2025-va-sua-doi-bo-sung-dieu-le-c… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-07T00:00:00 | nan                 | nan                 |
-| 2026-04-07T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-04-06T00:00:00 | nan                 | nan                 |
-| 2026-02-27T00:00:00 | 2026-03-09T00:00:00 | 2026-03-06T00:00:00 |
-| 2025-09-26T00:00:00 | 2025-10-09T00:00:00 | 2025-10-08T00:00:00 |
-| 2025-07-16T00:00:00 | nan                 | nan                 |
-| 2025-06-12T00:00:00 | 2025-06-19T00:00:00 | 2025-06-18T00:00:00 |
-| 2025-04-02T00:00:00 | 2025-04-16T00:00:00 | 2025-04-15T00:00:00 |
-| 2024-10-18T00:00:00 | nan                 | nan                 |
-| 2024-09-20T00:00:00 | 2024-09-18T00:00:00 | 2024-09-18T00:00:00 |
-| 2024-08-30T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.26% |
-| % Cổ phiếu hôm nay | +5.08% |
-| RS (CP − Ngành) | +5.34% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

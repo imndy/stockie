@@ -1,6 +1,6 @@
 # TPB — Ngân hàng TMCP Tiên Phong
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 22:02  |  🗂 Quarterly: 03/05/2026 14:22
+> 📅 Daily: 09/05/2026 13:38  |  🗂 Quarterly: 03/05/2026 14:22
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TPB |
-| organ_code | TPB |
-| current_price | 16050.0 |
-| market_cap | 44523452311650.0 |
-| number_of_shares_mkt_cap | 2774046873.0 |
-| ticker | TPB |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 27-May-25 |
-| en_organ_name | Tien Phong Commercial Joint Stock Bank |
-| en_organ_short_name | TPBank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Tiên Phong |
-| vi_organ_short_name | TPBank |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 121897564002.63158 |
-| average_match_volume1_month | 7465092.0 |
-| highest_price1_year | 21715.0 |
-| lowest_price1_year | 12143.0 |
-| foreigner_percentage | 0.24467336 |
-| maximum_foreign_percentage | 0.3 |
-| state_percentage | 0.0 |
-| analyst | Nga Ho |
-| upside_to_target_percent | -0.015576324 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | -0.015576324 |
-| target_price | 15800.0 |
-| en_profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Tien Phong Commercial Joint Stock Bank (TPB)&nbsp;was&nbsp;established in 2008. TPB inher… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần Ti&ecirc;n Phong (TPB) được th&agrave;nh lập v&… |
-| in_cu | True |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 1525725780 |
-| free_float_percentage | 0.5499999999 |
-| listing_date | 2018-04-19T00:00:00 |
-| prev_insight | {'targetPrice': 22200.0, 'rating': 'BUY', 'ratingAsOf': '02-Dec-24', 'analyst': 'Nga Ho', 'version': '20250527'} |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 44384749968000 |
+| 52w_high | 21017 |
+| 52w_high_date | 2025-08-21 |
+| 52w_low | 12439 |
+| 52w_low_date | 2025-06-09 |
+| foreign_ownership | 24.503 |
+| dividend | 1000 |
+| beta | 0.87 |
+| eps | 2737 |
+| eps_forward | 4.322661790093698 |
+| bvps | 17315.61 |
+| pe | 5.86 |
+| pb | 0.93 |
+| price_chg_1m | -1.54 |
+| price_chg_ytd | 28.16 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.0625 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -63,7 +43,7 @@
 | EMA50 | 16.375 |
 | Slope MA20 (5p, %) | -0.28 |
 | ATR(14) | 0.325 |
-| RSI(14) | 42.1 |
+| RSI(14) | 42.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -78,78 +58,29 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    16.711 | 2.65        | 2             |
-| 🔴 Kháng cự     |    16.585 | 3.06        | 4             |
-| 🔴 Kháng cự     |    16.15  | 1.4         | 1             |
+| 🔴 Kháng cự    |    16.711 | 2.64        | 2             |
+| 🔴 Kháng cự    |    16.585 | 3.03        | 4             |
+| 🔴 Kháng cự    |    16.15  | 1.39        | 1             |
 | ▶ Giá hiện tại |    16     | —           | —             |
-| 🟢 Hỗ trợ       |    15.677 | 3.42        | 3             |
-| 🟢 Hỗ trợ       |    15.1   | 1.17        | 1             |
+| 🟢 Hỗ trợ      |    15.677 | 3.41        | 3             |
+| 🟢 Hỗ trợ      |    15.1   | 1.16        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TPB |
-| year | 2018 |
-| quarter | 2 |
-| ratio_ttm_id | 2713588 |
-| ratio_type | RATIO_TTM |
-| organ_code | TPB |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 665826019 |
-| market_cap | 16379320067400.0 |
-| dividend_yield | 0.0 |
-| pe | 11.1112176348 |
-| pb | 1.6962244564 |
-| ps | 3.4418854219 |
-| price_to_cash_flow | -2.1205658113 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 12.1036073709 |
-| roe | 0.1737498455 |
-| roa | 0.0107338994 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.4958611606 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.3671587212 |
-| after_tax_profit_margin | 0.2741966394 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0339502874 |
-| average_yield_on_earning_assets | 0.0738039191 |
-| average_cost_of_financing | -0.0412283261 |
-| non_and_interest_income | 0.3722522648 |
-| cost_to_income | -0.4394475603 |
-| loans_growth | 0.0569651781 |
-| deposit_growth | 0.0279453984 |
-| equity_to_liabilities | 0.0826199966 |
-| equity_to_loans | 0.1308971665 |
-| total_equity_total_asset | 0.0763148629 |
-| ldr_loan_deposit_ratio | 0.981379245 |
-| npl | 0.0116943337 |
-| loans_loss_reserves_to_np_ls | -0.9909690088 |
-| loans_loss_reserve_to_loans | 0.0115887222 |
-| provision_to_outstanding_loans | -0.0092905843 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.4394475603 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.1511199532 |
-| nob66 | 10805503000000.0 |
-| nob69 | 32790000000.0 |
-| nob70 | 521417000000.0 |
-| bsb113 | 75170153000000.0 |
-| ratio_year_id | nan |
+| pe | 5.86 |
+| pb | 0.93 |
+| eps | 2737 |
+| bvps | 17315.61 |
+| beta | 0.87 |
+| dividend | 1000 |
+| yield | 0.0625 |
+| pe_pct_rank | 34 |
+| pb_pct_rank | 39 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +97,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                     | public_date         | news_source_link   |
-|:-------------------------------------------------------------------------------|:--------------------|:-------------------|
-| TPB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                         | 2026-04-28T11:04:50 |                    |
-| TPB: Thông báo thay đổi nhân sự                                                | 2026-04-28T11:04:24 |                    |
-| TPB: Link công bố điều lệ và các quy chế                                       | 2026-04-28T11:03:57 |                    |
-| ĐHĐCĐ TPBank (TPB) 2026: Đặt mục tiêu "lãi vạn tỷ”, cổ tức dự kiến 20%         | 2026-04-24T14:12:00 |                    |
-| TPB: Link công bố tài liệu ĐHĐCĐ thường niên 2026 cập nhật                     | 2026-04-23T17:23:24 |                    |
-| TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 được cập nhật | 2026-04-21T17:41:43 |                    |
-| TPB: Link công bố Báo cáo thường niên năm 2025                                 | 2026-04-20T15:59:12 |                    |
-| TPB: Thông báo đường dẫn tài liệu họp ĐHĐCĐ thường niên năm 2026 cập nhật      | 2026-04-15T16:52:34 |                    |
-| TPB: Nghị quyết HĐQT số 10/2026 ngày 07/04/2026                                | 2026-04-08T17:31:13 |                    |
-| TPB: Thông báo mời họp và tài liệu ĐHĐCĐ thường niên năm 2026                  | 2026-04-03T09:12:21 |                    |
+| title                                                                                                    | publishtime         | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| TPB: Thông báo công văn của NHNN về chấp thuận cho TPB thay đổi địa điểm đặt trụ sở Chi nhánh Kiên Giang | 2026-05-08T15:56:47 | /2026/05/tpb-thong-bao-cong-van-cua-nhnn-ve-chap-thuan-cho-tpb-thay-doi-dia-diem-dat-tru-so-chi-nhanh-kien-giang-737-144… |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                            | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
+| Lợi nhuận trước thuế quý 1 TPBank đạt gần 2,106 tỷ đồng                                                  | 2026-05-01T08:17:00 | /2026/05/loi-nhuan-truoc-thue-quy-1-tpbank-dat-gan-2106-ty-dong-737-1436357.htm                                           |
+| TPB: BCTC Hợp nhất quý 1 năm 2026                                                                        | 2026-04-29T00:00:00 | /2026/04/tpb-bctc-hop-nhat-quy-1-nam-2026-737-1435844.htm                                                                 |
+| TPB: BCTC quý 1 năm 2026                                                                                 | 2026-04-29T00:00:00 | /2026/04/tpb-bctc-quy-1-nam-2026-737-1435845.htm                                                                          |
+| TPB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                   | 2026-04-28T11:04:50 | /2026/04/tpb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434453.htm                                            |
+| TPB: Thông báo thay đổi nhân sự                                                                          | 2026-04-28T11:04:24 | /2026/04/tpb-thong-bao-thay-doi-nhan-su-214-1434452.htm                                                                   |
+| TPB: Link công bố điều lệ và các quy chế                                                                 | 2026-04-28T11:03:57 | /2026/04/tpb-link-cong-bo-dieu-le-va-cac-quy-che-737-1434451.htm                                                          |
+| ĐHĐCĐ TPBank: Niềm tin của khách hàng là tài sản quý nhất                                                | 2026-04-24T12:37:00 | /2026/04/dhdcd-tpbank-niem-tin-cua-khach-hang-la-tai-san-quy-nhat-737-1429810.htm                                         |
+| TPB: Link công bố tài liệu ĐHĐCĐ thường niên 2026 cập nhật                                               | 2026-04-23T17:23:24 | /2026/04/tpb-link-cong-bo-tai-lieu-dhdcd-thuong-nien-2026-cap-nhat-737-1432829.htm                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-03-06T00:00:00 | 2026-03-23T00:00:00 | 2026-03-20T00:00:00 |
-| 2025-11-20T00:00:00 | nan                 | nan                 |
-| 2025-10-24T00:00:00 | 2025-10-31T00:00:00 | 2025-10-30T00:00:00 |
-| 2025-07-28T00:00:00 | nan                 | nan                 |
-| 2025-07-25T00:00:00 | nan                 | nan                 |
-| 2025-05-06T00:00:00 | 2025-05-14T00:00:00 | 2025-05-13T00:00:00 |
-| 2025-03-04T00:00:00 | 2025-03-21T00:00:00 | 2025-03-20T00:00:00 |
-| 2024-10-14T00:00:00 | nan                 | nan                 |
-| 2024-10-01T00:00:00 | nan                 | nan                 |
-| 2024-09-13T00:00:00 | 2024-09-24T00:00:00 | 2024-09-23T00:00:00 |
-| 2024-06-13T00:00:00 | 2024-06-21T00:00:00 | 2024-06-20T00:00:00 |
-| 2024-03-08T00:00:00 | 2024-03-22T00:00:00 | 2024-03-21T00:00:00 |
-| 2023-12-08T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | -0.31% |
-| RS (CP − Ngành) | -1.08% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

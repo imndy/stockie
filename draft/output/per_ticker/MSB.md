@@ -1,6 +1,6 @@
 # MSB — Ngân hàng TMCP Hàng hải Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 08/05/2026 21:58  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSB |
-| organ_code | MSB |
-| current_price | 13000.0 |
-| market_cap | 40560000000000.0 |
-| number_of_shares_mkt_cap | 3120000000.0 |
-| ticker | MSB |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | Vietnam Maritime Commercial Joint Stock Bank |
-| en_organ_short_name | MSB Bank |
-| vi_organ_name | Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam |
-| vi_organ_short_name | MSB Bank |
-| com_type_code | NH |
-| com_group_code | VNINDEX |
-| sector | Banks |
-| sector_vn | Ngân hàng |
-| average_match_value1_month | 149766772005.26315 |
-| average_match_volume1_month | 11870267.0 |
-| highest_price1_year | 15624.0 |
-| lowest_price1_year | 9333.0 |
-| foreigner_percentage | 0.23385383 |
-| maximum_foreign_percentage | 0.3 |
-| state_percentage | 0.06387026 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Vietnam Maritime Commercial Joint Stock Bank (MSB) was established in 1991 under operation license No.0001/NH-… |
-| profile | <div style="font-family: Arial; font-size: 10pt; text-align: justify;">Ng&acirc;n h&agrave;ng Thương mại Cổ phần H&agrave;ng Hải Việt Nam (MSB)&nbsp;được th&agr… |
-| in_cu | False |
-| icb_code_lv2 | 8300 |
-| icb_code_lv4 | 8355 |
-| free_float | 2184000000 |
-| free_float_percentage | 0.7 |
-| listing_date | 2020-12-23T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | True |
-| listing | True |
-| bank | True |
+| exchange | HOSE |
+| market_cap | 42120000000000 |
+| 52w_high | 15417 |
+| 52w_high_date | 2025-09-04 |
+| 52w_low | 9500 |
+| 52w_low_date | 2025-05-12 |
+| foreign_ownership | 23.5265 |
+| dividend | 0 |
+| beta | 0.74 |
+| eps | 2061 |
+| eps_forward | 5.07000507000507 |
+| bvps | 14095.48 |
+| pe | 6.31 |
+| pb | 0.92 |
+| price_chg_1m | 11.57 |
+| price_chg_ytd | 43.36 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,15 +40,15 @@
 | MA5 | 12.9 |
 | MA10 | 12.745 |
 | EMA20 | 12.562 |
-| EMA50 | 12.232 |
+| EMA50 | 12.228 |
 | Slope MA20 (5p, %) | 2.02 |
 | ATR(14) | 0.312 |
-| RSI(14) | 76.3 |
+| RSI(14) | 76.4 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.305 |
+| MACD | 0.306 |
 | MACD Signal | 0.258 |
 | MACD Histogram | 0.048 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
@@ -79,75 +59,30 @@
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
 | ▶ Giá hiện tại |    13.5   | —           | —             |
-| 🟢 Hỗ trợ       |    13.1   | 1.33        | 1             |
-| 🟢 Hỗ trợ       |    12.961 | 2.69        | 3             |
-| 🟢 Hỗ trợ       |    12.4   | 2.78        | 2             |
+| 🟢 Hỗ trợ      |    13.1   | 1.33        | 1             |
+| 🟢 Hỗ trợ      |    12.961 | 2.67        | 3             |
+| 🟢 Hỗ trợ      |    12.4   | 2.78        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSB |
-| year | 2020 |
-| quarter | 4 |
-| ratio_ttm_id | 2758201 |
-| ratio_type | RATIO_TTM |
-| organ_code | MSB |
-| year_report | 2020 |
-| number_of_shares_mkt_cap | 1157000000 |
-| market_cap | 24991200000000.0 |
-| dividend_yield | 0.0 |
-| pe | 12.6196831256 |
-| pb | 1.4809758848 |
-| ps | 3.4794667023 |
-| price_to_cash_flow | -4.079874228 |
-| ev_to_ebitda | 0.0 |
-| cash_ratio | 0.0 |
-| quick_ratio | 0.0 |
-| current_ratio | 0.0 |
-| owners_equity | 0.0 |
-| debt_per_equity | 0.0 |
-| debt_to_equity | 9.4710826824 |
-| roe | 0.1267327781 |
-| roa | 0.0120544875 |
-| day_sale_outstanding | 0.0 |
-| days_inventory_outstanding | 0.0 |
-| days_payable_outstanding | 0.0 |
-| gross_margin | 0.5007404128 |
-| ebit_margin | 0.0 |
-| pre_tax_profit_margin | 0.3513151446 |
-| after_tax_profit_margin | 0.2800069057 |
-| asset_turnover | 0.0 |
-| net_interest_margin | 0.0335206718 |
-| average_yield_on_earning_assets | 0.0696473899 |
-| average_cost_of_financing | -0.0355790256 |
-| non_and_interest_income | 0.4893636743 |
-| cost_to_income | -0.4992595872 |
-| loans_growth | 0.2476034482 |
-| deposit_growth | 0.0820740457 |
-| equity_to_liabilities | 0.1055845497 |
-| equity_to_loans | 0.2126883773 |
-| total_equity_total_asset | 0.0955011082 |
-| ldr_loan_deposit_ratio | 0.9066439098 |
-| npl | 0.0196324002 |
-| loans_loss_reserves_to_np_ls | -0.5412083362 |
-| loans_loss_reserve_to_loans | 0.0106252187 |
-| provision_to_outstanding_loans | -0.015017235 |
-| ebit | 0.0 |
-| ebitda | 0.0 |
-| roic | 0.0 |
-| cash_cycle | 0.0 |
-| fixed_asset_turnover | 0.0 |
-| financial_leverage | 0.0 |
-| cir | -0.4992595872 |
-| car | 0.0 |
-| equity | None |
-| casa_ratio | 0.2903754132 |
-| nob66 | 23109310000000.0 |
-| nob69 | 2250132000000.0 |
-| nob70 | 51365000000.0 |
-| bsb113 | 87510188000000.0 |
-| ratio_year_id | nan |
+| pe | 6.31 |
+| pb | 0.92 |
+| roe | 14.2 |
+| roe_pct_rank | 56 |
+| roa | 1.55 |
+| roa_pct_rank | 38 |
+| eps | 2061 |
+| bvps | 14095.48 |
+| beta | 0.74 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 35 |
+| pb_pct_rank | 39 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -164,48 +99,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                  | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| MSB: Quyết định về việc chuyển địa điểm đặt trụ sở Chi nhánh Bắc Ninh (bao gồm ATM)                         | 2026-05-04T17:31:36 |                    |
-| MSB: Thông báo thay đổi nhân sự                                                                             | 2026-04-28T11:09:05 |                    |
-| MSB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                      | 2026-04-28T11:08:35 |                    |
-| MSB: Nghị quyết HĐQT về việc thông qua chủ trương giao kết các hợp đồng, giao dịch phi tín dụng             | 2026-04-24T17:35:11 |                    |
-| MSB: Báo cáo thường niên năm 2025                                                                           | 2026-04-21T14:03:20 |                    |
-| MSB: Nghị quyết HĐQT phê duyệt hạn mức tín dụng cho người có liên quan của người nội bộ                     | 2026-04-16T17:13:37 |                    |
-| MSB: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm Phó TGĐ                                            | 2026-04-15T16:54:51 |                    |
-| MSB: Thông báo nhận được Đơn từ nhiệm thành viên HĐQT nhiệm kỳ 2022-2026                                    | 2026-04-15T16:53:00 |                    |
-| MSB: Link công bố bổ sung tài liệu ĐHĐCĐ thường niên 2026                                                   | 2026-04-15T10:52:42 |                    |
-| MSB: Báo cáo kết quả giao dịch cổ phiếu của cổ đông nhà nước Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam | 2026-04-10T15:01:00 |                    |
+| title                                                                                                | publishtime             | url                                                                                                                       |
+|:-----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| MSB tham gia góp vốn vào VIS Rating                                                                  | 2026-05-07T13:08:57.177 | /2026/05/msb-tham-gia-gop-von-vao-vis-rating-764-1439296.htm                                                              |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                        | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
+| MSB: Quyết định về việc chuyển địa điểm đặt trụ sở Chi nhánh Bắc Ninh (bao gồm ATM)                  | 2026-05-04T17:35:18     | /2026/05/msb-quyet-dinh-ve-viec-chuyen-dia-diem-dat-tru-so-chi-nhanh-bac-ninh-bao-gom-atm-737-1437420.htm                 |
+| Chất lượng nợ vay cải thiện, MSB tăng 16% lãi trước thuế quý 1                                       | 2026-05-01T14:07:00     | /2026/05/chat-luong-no-vay-cai-thien-msb-tang-16-lai-truoc-thue-quy-1-737-1436368.htm                                     |
+| MSB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                               | 2026-04-28T11:16:00     | /2026/04/msb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434463.htm                                            |
+| MSB: Thông báo thay đổi nhân sự                                                                      | 2026-04-28T11:15:58     | /2026/04/msb-thong-bao-thay-doi-nhan-su-214-1434465.htm                                                                   |
+| MSB: Nghị quyết HĐQT về việc thông qua chủ trương giao kết các hợp đồng, giao dịch phi tín dụng      | 2026-04-24T17:35:11     | /2026/04/msb-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-giao-ket-cac-hop-dong-giao-dich-phi-tin-dung-737-1433654.htm    |
+| TGĐ Nguyễn Hoàng Linh: Cổ phiếu MSB thanh khoản tốt nên trả cổ tức bằng cổ phiếu sẽ tốt hơn tiền mặt | 2026-04-24T12:14:00     | /2026/04/tgd-nguyen-hoang-linh-co-phieu-msb-thanh-khoan-tot-nen-tra-co-tuc-bang-co-phieu-se-tot-hon-tien-mat-737-1429805… |
+| MSB: BCTC Hợp nhất quý 1 năm 2026                                                                    | 2026-04-24T00:00:00     | /2026/04/msb-bctc-hop-nhat-quy-1-nam-2026-737-1433456.htm                                                                 |
+| MSB: BCTC quý 1 năm 2026                                                                             | 2026-04-24T00:00:00     | /2026/04/msb-bctc-quy-1-nam-2026-737-1433457.htm                                                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-04-10T00:00:00 | nan                 | nan                 |
-| 2026-04-10T00:00:00 | nan                 | nan                 |
-| 2026-03-30T00:00:00 | nan                 | nan                 |
-| 2026-02-26T00:00:00 | nan                 | nan                 |
-| 2026-01-29T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2026-01-20T00:00:00 | nan                 | nan                 |
-| 2025-11-26T00:00:00 | nan                 | nan                 |
-| 2025-10-10T00:00:00 | nan                 | nan                 |
-| 2025-10-10T00:00:00 | nan                 | nan                 |
-| 2025-08-28T00:00:00 | 2025-09-09T00:00:00 | 2025-09-08T00:00:00 |
-| 2025-07-16T00:00:00 | nan                 | nan                 |
-| 2025-05-21T00:00:00 | nan                 | nan                 |
-| 2025-03-17T00:00:00 | nan                 | nan                 |
-| 2025-03-11T00:00:00 | 2025-03-21T00:00:00 | 2025-03-20T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | +3.85% |
-| RS (CP − Ngành) | +3.08% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

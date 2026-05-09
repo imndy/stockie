@@ -1,6 +1,6 @@
 # HDG — CTCP Tập đoàn Hà Đô
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDG |
-| organ_code | HDG |
-| current_price | 25550.0 |
-| market_cap | 9452555544250.0 |
-| number_of_shares_mkt_cap | 369963035.0 |
-| ticker | HDG |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 23-Mar-26 |
-| en_organ_name | Ha Do Joint Stock Company |
-| en_organ_short_name | HA DO Construction |
-| vi_organ_name | Công ty Cổ phần Tập đoàn Hà Đô |
-| vi_organ_short_name | Tập đoàn Hà Đô |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Real Estate |
-| sector_vn | Bất động sản |
-| average_match_value1_month | 58808877144.73684 |
-| average_match_volume1_month | 2159196.0 |
-| highest_price1_year | 35745.0 |
-| lowest_price1_year | 21381.0 |
-| foreigner_percentage | 0.18938549 |
-| maximum_foreign_percentage | 0.5 |
-| state_percentage | 0.0 |
-| analyst | Tuan Do |
-| upside_to_target_percent | 0.4168297456 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.4168297456 |
-| target_price | 36200.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p><!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--><o:p>Ha Do Joint Stock… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Tập đo&agrave;n H&agrave; Đ&ocirc; (HDG)&nbsp;tiền th&acirc;n l&agrave; x&iacute; nghiệp… |
-| in_cu | True |
-| icb_code_lv2 | 8600 |
-| icb_code_lv4 | 8633 |
-| free_float | 221977821 |
-| free_float_percentage | 0.6 |
-| listing_date | 2010-02-02T00:00:00 |
-| prev_insight | {'targetPrice': 37000.0, 'rating': 'O-PF', 'ratingAsOf': '17-Nov-25', 'analyst': 'Tuan Do', 'version': '20260319'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 9286072178500 |
+| 52w_high | 35058 |
+| 52w_high_date | 2025-10-15 |
+| 52w_low | 21596 |
+| 52w_low_date | 2025-05-12 |
+| foreign_ownership | 18.9489 |
+| dividend | 500 |
+| beta | 0.76 |
+| eps | 1647 |
+| eps_forward | 8.212476535781326 |
+| bvps | 22476 |
+| pe | 15.51 |
+| pb | 1.14 |
+| price_chg_1m | -11.31 |
+| price_chg_ytd | 16.46 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.0199203187250996 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -63,8 +42,8 @@
 | EMA20 | 26.756 |
 | EMA50 | 27.313 |
 | Slope MA20 (5p, %) | -2.94 |
-| ATR(14) | 0.834 |
-| RSI(14) | 31.9 |
+| ATR(14) | 0.832 |
+| RSI(14) | 32.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -79,77 +58,32 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    26.932 | 1.49        | 2             |
-| 🔴 Kháng cự     |    26.85  | 1.28        | 1             |
-| 🔴 Kháng cự     |    25.181 | 2.65        | 3             |
+| 🔴 Kháng cự    |    26.932 | 1.47        | 2             |
+| 🔴 Kháng cự    |    26.85  | 1.28        | 1             |
+| 🔴 Kháng cự    |    25.181 | 2.63        | 3             |
 | ▶ Giá hiện tại |    25.1   | —           | —             |
-| 🟢 Hỗ trợ       |    24.5   | 0.81        | 1             |
+| 🟢 Hỗ trợ      |    24.5   | 0.81        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDG |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699073 |
-| ratio_type | RATIO_TTM |
-| organ_code | HDG |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 75935902 |
-| market_cap | 2581820668000.0 |
-| dividend_yield | 0.0 |
-| pe | 12.2274724434 |
-| pb | 2.0683954015 |
-| ps | 1.1095693395 |
-| price_to_cash_flow | 1.6303640828 |
-| ev_to_ebitda | 8.8105530241 |
-| cash_ratio | 0.2937138109 |
-| quick_ratio | 1.3604230568 |
-| current_ratio | 3.9203760802 |
-| owners_equity | 0.8330578883 |
-| debt_per_equity | 0.9634070672 |
-| debt_to_equity | 3.3304305436 |
-| roe | 0.10817098 |
-| roa | 0.0257772672 |
-| day_sale_outstanding | 53.5954030095 |
-| days_inventory_outstanding | 690.2092436728 |
-| days_payable_outstanding | 68.7790221134 |
-| gross_margin | 0.3254394516 |
-| ebit_margin | 0.1692360176 |
-| pre_tax_profit_margin | 0.1569669953 |
-| after_tax_profit_margin | 0.1345889718 |
-| asset_turnover | 0.2840385936 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 393789763694.0 |
-| ebitda | 476114747424.0 |
-| roic | 0.0977171183 |
-| cash_cycle | 928.2111458224 |
-| fixed_asset_turnover | 2.011941369 |
-| financial_leverage | 3.3304305436 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 15.51 |
+| pb | 1.14 |
+| roe | 11.99 |
+| roe_pct_rank | 52 |
+| roa | 4.94 |
+| roa_pct_rank | 50 |
+| eps | 1647 |
+| bvps | 22476 |
+| beta | 0.76 |
+| dividend | 500 |
+| yield | 0.0199203187250996 |
+| pe_pct_rank | 56 |
+| pb_pct_rank | 49 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +100,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HDG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đào Hữu Khanh     | 2026-05-07T15:40:55 |                    |
-| HDG: Giải trình biến động KQKD trên BCTC quý 1/2026 so với cùng kỳ năm trước                      | 2026-05-04T14:04:56 |                    |
-| HDG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                            | 2026-04-28T14:42:40 |                    |
-| HDG: Báo cáo thường niên năm 2025                                                                 | 2026-04-20T16:49:40 |                    |
-| HDG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Thị Thu Hà | 2026-04-17T15:36:37 |                    |
-| HDG: Bố đẻ kế toán trưởng đăng ký bán 200.000 cổ phiếu                                            | 2026-04-01T18:09:00 |                    |
-| HDG: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-04-01T15:18:07 |                    |
-| HDG: Thông báo mời họp và đường dẫn tài liệu ĐHĐCĐ thường niên năm 2025                           | 2026-03-30T18:08:34 |                    |
-| HDG: Thông báo về ngày đăng ký cuối cùng tham dự ĐHĐCĐ thường niên năm 2025                       | 2026-03-11T10:43:08 |                    |
-| HDG: Mẹ Tổng giám đốc đăng ký mua 5 triệu cổ phiếu                                                | 2026-03-11T10:28:00 |                    |
+| title                                                                                             | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HDG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Đào Hữu Khanh     | 2026-05-07T15:40:55 | /2026/05/hdg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dao-huu-khanh-739-1439498.htm     |
+| HDG: Giải trình biến động KQKD trên BCTC quý 1/2026 so với cùng kỳ năm trước                      | 2026-05-04T14:04:56 | /2026/05/hdg-giai-trinh-bien-dong-kqkd-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1437045.htm                      |
+| HDG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                            | 2026-04-28T14:42:40 | /2026/04/hdg-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434612.htm                                            |
+| HDG: BCTC Hợp nhất quý 1 năm 2026                                                                 | 2026-04-28T00:00:00 | /2026/04/hdg-bctc-hop-nhat-quy-1-nam-2026-737-1437085.htm                                                                 |
+| HDG: BCTC quý 1 năm 2026                                                                          | 2026-04-28T00:00:00 | /2026/04/hdg-bctc-quy-1-nam-2026-737-1437086.htm                                                                          |
+| HDG: Báo cáo thường niên năm 2025                                                                 | 2026-04-20T16:57:56 | /2026/04/hdg-bao-cao-thuong-nien-nam-2025-737-1430619.htm                                                                 |
+| HDG: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Thị Thu Hà | 2026-04-17T15:43:45 | /2026/04/hdg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-thi-thu-ha-739-1429312.ht… |
+| HDG: Thông báo giao dịch cổ phiếu của người có liên quan của Người nội bộ Đào Hữu Khanh           | 2026-04-01T18:09:57 | /2026/04/hdg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-dao-huu-khanh-739-1421189.htm           |
+| HDG: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 so với cùng kỳ năm trước              | 2026-04-01T15:18:07 | /2026/04/hdg-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-so-voi-cung-ky-nam-truoc-737-1420841.htm              |
+| HDG: BCTC Kiểm toán năm 2025                                                                      | 2026-03-31T00:00:00 | /2026/03/hdg-bctc-kiem-toan-nam-2025-737-1420843.htm                                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-05-07T00:00:00 | nan                 | nan                 |
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-04-17T00:00:00 | nan                 | nan                 |
-| 2026-03-11T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2026-03-10T00:00:00 | 2026-03-13T00:00:00 | 2026-03-12T00:00:00 |
-| 2025-12-01T00:00:00 | nan                 | nan                 |
-| 2025-11-05T00:00:00 | nan                 | nan                 |
-| 2025-10-29T00:00:00 | nan                 | nan                 |
-| 2025-09-24T00:00:00 | nan                 | nan                 |
-| 2025-09-18T00:00:00 | nan                 | nan                 |
-| 2025-08-05T00:00:00 | nan                 | nan                 |
-| 2025-08-01T00:00:00 | nan                 | nan                 |
-| 2025-07-24T00:00:00 | nan                 | nan                 |
-| 2025-07-24T00:00:00 | nan                 | nan                 |
-| 2025-07-01T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.70% |
-| % Cổ phiếu hôm nay | -1.76% |
-| RS (CP − Ngành) | -2.46% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

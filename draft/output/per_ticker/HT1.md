@@ -1,6 +1,6 @@
 # HT1 — CTCP Xi Măng Vicem Hà Tiên
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 09/05/2026 13:32  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HT1 |
-| organ_code | HT1 |
-| current_price | 14700.0 |
-| market_cap | 5609371691700.0 |
-| number_of_shares_mkt_cap | 381589911.0 |
-| ticker | HT1 |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | VICEM Ha Tien Cement Joint Stock Company |
-| en_organ_short_name | VICEM Ha Tien |
-| vi_organ_name | Công ty Cổ phần Xi măng VICEM Hà Tiên |
-| vi_organ_short_name | VICEM Hà Tiên |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Construction & Materials |
-| sector_vn | Xây dựng và Vật liệu |
-| average_match_value1_month | 5787755344.736842 |
-| average_match_volume1_month | 381526.0 |
-| highest_price1_year | 21000.0 |
-| lowest_price1_year | 10790.0 |
-| foreigner_percentage | 0.02186602 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.79693561 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">VICEM Ha Tien Cement Joint Stock Company (HT1), formerly&nbsp;known&nbsp;as&nbsp;Ha Tie… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Xi măng VICEM H&agrave; Ti&ecirc;n (HT1) c&oacute; tiền th&acirc;n l&agrave; Nh&agr… |
-| in_cu | False |
-| icb_code_lv2 | 2300 |
-| icb_code_lv4 | 2353 |
-| free_float | 95397477 |
-| free_float_percentage | 0.249999998 |
-| listing_date | 2007-11-13T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 5494894718400 |
+| 52w_high | 20100 |
+| 52w_high_date | 2025-10-22 |
+| 52w_low | 10840 |
+| 52w_low_date | 2025-05-20 |
+| foreign_ownership | 2.1897 |
+| dividend | 100 |
+| beta | 0.77 |
+| eps | 945 |
+| eps_forward | 13.991605036977813 |
+| bvps | 13540 |
+| pe | 15.55 |
+| pb | 1.09 |
+| price_chg_1m | -7.40 |
+| price_chg_ytd | 31.04 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.006944444444444444 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,10 +40,10 @@
 | MA5 | 14.61 |
 | MA10 | 14.8 |
 | EMA20 | 14.939 |
-| EMA50 | 15.252 |
+| EMA50 | 15.26 |
 | Slope MA20 (5p, %) | -1.44 |
 | ATR(14) | 0.456 |
-| RSI(14) | 37.9 |
+| RSI(14) | 38.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -80,9 +58,9 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    15.5   | 1.24        | 1             |
-| 🔴 Kháng cự     |    14.885 | 2.62        | 3             |
-| 🔴 Kháng cự     |    14.455 | 3.31        | 3             |
+| 🔴 Kháng cự    |    15.5   | 1.24        | 1             |
+| 🔴 Kháng cự    |    14.885 | 2.61        | 3             |
+| 🔴 Kháng cự    |    14.455 | 3.3         | 3             |
 | ▶ Giá hiện tại |    14.4   | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
@@ -90,66 +68,17 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HT1 |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2697923 |
-| ratio_type | RATIO_TTM |
-| organ_code | HT1 |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 381541911 |
-| market_cap | 4254192307650.0 |
-| dividend_yield | 0.0 |
-| pe | 9.5451955013 |
-| pb | 0.8084793577 |
-| ps | 0.5218240824 |
-| price_to_cash_flow | 3.6673028498 |
-| ev_to_ebitda | 4.9163954345 |
-| cash_ratio | 0.0860312506 |
-| quick_ratio | 0.2782286496 |
-| current_ratio | 0.5276173929 |
-| owners_equity | 0.4773030942 |
-| debt_per_equity | 0.849225311 |
-| debt_to_equity | 1.0419235231 |
-| roe | 0.0858156029 |
-| roa | 0.0396560225 |
-| day_sale_outstanding | 20.1974846937 |
-| days_inventory_outstanding | 46.0003278899 |
-| days_payable_outstanding | 41.0623977438 |
-| gross_margin | 0.1608374067 |
-| ebit_margin | 0.1219080868 |
-| pre_tax_profit_margin | 0.0682070179 |
-| after_tax_profit_margin | 0.0544808942 |
-| asset_turnover | 0.7253871565 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 993860694485.0 |
-| ebitda | 1723805264300.0 |
-| roic | 0.1019666814 |
-| cash_cycle | 109.628194799 |
-| fixed_asset_turnover | 0.9971325615 |
-| financial_leverage | 1.0419235231 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 15.55 |
+| pb | 1.09 |
+| eps | 945 |
+| bvps | 13540 |
+| beta | 0.77 |
+| dividend | 100 |
+| yield | 0.006944444444444444 |
+| pe_pct_rank | 56 |
+| pb_pct_rank | 46 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +95,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HT1: Nhắc nhở chậm công bố thông tin Điều lệ Công ty sửa đổi bằng tiếng Anh               | 2026-04-24T18:56:08 |                    |
-| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                  | 2026-04-24T17:05:29 |                    |
-| HT1: Điều lệ công ty                                                                      | 2026-04-23T17:15:50 |                    |
-| HT1: Biên bản họp ĐHĐCĐ thường niên 2026                                                  | 2026-04-23T17:15:23 |                    |
-| HT1: Nghị quyết ĐHĐCĐ thường niên 2026                                                    | 2026-04-23T15:32:50 |                    |
-| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                  | 2026-04-21T09:13:09 |                    |
-| HT1: Báo cáo thường niên năm 2025                                                         | 2026-04-07T11:11:33 |                    |
-| HT1: Thông báo thời gian, địa điểm, chương trình và link tài liệu họp ĐHĐCĐ TN năm 2026   | 2026-03-30T14:08:27 |                    |
-| HT1: Quyết định của HĐQT về việc ký hợp đồng với người có liên quan                       | 2026-03-27T16:07:43 |                    |
-| HT1: Quyết định của HĐQT về việc chấp thuận chủ trường ký hợp đồng với Người có liên quan | 2026-03-23T17:12:44 |                    |
+| title                                                                         | publishtime            | url                                                                                                   |
+|:------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------|
+| Xi Măng Vicem Hà Tiên thực hiện gần 20% kế hoạch lợi nhuận sau quý 1          | 2026-04-28T10:26:10.15 | /2026/04/xi-mang-vicem-ha-tien-thuc-hien-gan-20-ke-hoach-loi-nhuan-sau-quy-1-737-1434192.htm          |
+| HT1: Nhắc nhở chậm công bố thông tin Điều lệ Công ty sửa đổi bằng tiếng Anh   | 2026-04-24T19:06:31    | /2026/04/ht1-nhac-nho-cham-cong-bo-thong-tin-dieu-le-cong-ty-sua-doi-bang-tieng-anh-737-1433858.htm   |
+| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-24T17:12:14    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1433949.htm                      |
+| HT1: BCTC Hợp nhất quý 1 năm 2026                                             | 2026-04-24T00:00:00    | /2026/04/ht1-bctc-hop-nhat-quy-1-nam-2026-737-1433623.htm                                             |
+| HT1: Điều lệ công ty                                                          | 2026-04-23T17:15:50    | /2026/04/ht1-dieu-le-cong-ty-737-1432811.htm                                                          |
+| HT1: Biên bản họp ĐHĐCĐ thường niên 2026                                      | 2026-04-23T17:15:23    | /2026/04/ht1-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432809.htm                                      |
+| HT1: Nghị quyết ĐHĐCĐ thường niên 2026                                        | 2026-04-23T15:37:09    | /2026/04/ht1-nghi-quyet-dhdcd-thuong-nien-2026-737-1432643.htm                                        |
+| ĐHĐCĐ Xi Măng Vicem Hà Tiên: Chi phí đầu vào tăng mạnh vì xung đột Trung Đông | 2026-04-22T13:16:00    | /2026/04/dhdcd-xi-mang-vicem-ha-tien-chi-phi-dau-vao-tang-manh-vi-xung-dot-trung-dong-737-1431689.htm |
+| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-21T09:14:21    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430964.htm                      |
+| HT1: BCTC quý 1 năm 2026                                                      | 2026-04-20T00:00:00    | /2026/04/ht1-bctc-quy-1-nam-2026-737-1430970.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-03-11T00:00:00 | 2026-03-24T00:00:00 | 2026-03-23T00:00:00 |
-| 2026-01-08T00:00:00 | 2026-01-15T00:00:00 | 2026-01-14T00:00:00 |
-| 2025-08-29T00:00:00 | 2025-09-15T00:00:00 | 2025-09-12T00:00:00 |
-| 2025-08-18T00:00:00 | nan                 | nan                 |
-| 2025-03-11T00:00:00 | 2025-03-26T00:00:00 | 2025-03-25T00:00:00 |
-| 2024-06-26T00:00:00 | 2024-07-10T00:00:00 | 2024-07-09T00:00:00 |
-| 2024-04-04T00:00:00 | nan                 | nan                 |
-| 2024-03-12T00:00:00 | 2024-03-26T00:00:00 | 2024-03-25T00:00:00 |
-| 2023-10-18T00:00:00 | 2023-11-08T00:00:00 | 2023-11-07T00:00:00 |
-| 2023-02-28T00:00:00 | 2023-03-23T00:00:00 | 2023-03-22T00:00:00 |
-| 2022-09-16T00:00:00 | 2022-09-26T00:00:00 | 2022-09-23T00:00:00 |
-| 2022-08-23T00:00:00 | nan                 | nan                 |
-| 2022-03-31T00:00:00 | nan                 | nan                 |
-| 2022-03-21T00:00:00 | 2022-03-25T00:00:00 | 2022-03-24T00:00:00 |
-| 2021-11-26T00:00:00 | 2021-12-10T00:00:00 | 2021-12-09T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | +0.12% |
-| % Cổ phiếu hôm nay | -2.04% |
-| RS (CP − Ngành) | -2.16% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

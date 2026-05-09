@@ -1,6 +1,6 @@
 # PTB — CTCP Phú Tài
 **Sàn:** HOSE  |  **Ngành:** SX Phụ trợ
-> 📅 Daily: 08/05/2026 22:00  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 09/05/2026 13:36  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PTB |
-| organ_code | PTB |
-| current_price | 50500.0 |
-| market_cap | 4056467242000.0 |
-| number_of_shares_mkt_cap | 80326084.0 |
-| ticker | PTB |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 06-Oct-25 |
-| en_organ_name | Phu Tai Joint Stock Company |
-| en_organ_short_name | Phu Tai Joint Stock Company |
-| vi_organ_name | Công ty Cổ phần Phú Tài |
-| vi_organ_short_name | Công ty Cổ phần Phú Tài |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Basic Resources |
-| sector_vn | Tài nguyên Cơ bản |
-| average_match_value1_month | 6042875278.947368 |
-| average_match_volume1_month | 122064.0 |
-| highest_price1_year | 58000.0 |
-| lowest_price1_year | 40401.0 |
-| foreigner_percentage | 0.16118972 |
-| maximum_foreign_percentage | 0.25 |
-| state_percentage | 0.0 |
-| analyst | Han Nguyen |
-| upside_to_target_percent | 0.0297029703 |
-| dividend_per_share_tsr | 2100.0 |
-| projected_tsr_percentage | 0.0712871287 |
-| target_price | 52000.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Phu Tai Joint Stock Company (PTB), formerly known as Phu Tai State-owned Company, has been put into operation … |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">C&ocirc;ng ty Cổ phần Ph&uacute; T&agrave;i&nbsp; (PTB) c&oacute; tiền th&acirc;n l&agrave; một doanh nghiệp n… |
-| in_cu | True |
-| icb_code_lv2 | 1700 |
-| icb_code_lv4 | 1733 |
-| free_float | 44179346 |
-| free_float_percentage | 0.5499999975 |
-| listing_date | 2011-07-22T00:00:00 |
-| prev_insight | {'targetPrice': 71000.0, 'rating': 'BUY', 'ratingAsOf': '14-Mar-25', 'analyst': 'Han Nguyen', 'version': '20251002'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 4040402025200 |
+| 52w_high | 57900 |
+| 52w_high_date | 2026-02-27 |
+| 52w_low | 40867 |
+| 52w_low_date | 2025-10-03 |
+| foreign_ownership | 16.1289 |
+| dividend | 1500 |
+| beta | 0.82 |
+| eps | 8041 |
+| eps_forward | 5.3374595594957635 |
+| bvps | 45509 |
+| pe | 6.28 |
+| pb | 1.11 |
+| price_chg_1m | 1.51 |
+| price_chg_ytd | 16.97 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.02982107355864811 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,15 +40,15 @@
 | MA5 | 50.2 |
 | MA10 | 49.965 |
 | EMA20 | 49.874 |
-| EMA50 | 49.978 |
+| EMA50 | 49.982 |
 | Slope MA20 (5p, %) | 0.46 |
-| ATR(14) | 1.062 |
-| RSI(14) | 53.6 |
+| ATR(14) | 1.061 |
+| RSI(14) | 53.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.109 |
+| MACD | 0.108 |
 | MACD Signal | -0.038 |
 | MACD Histogram | 0.146 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
@@ -78,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    53     | 0.78        | 1             |
-| 🔴 Kháng cự     |    51     | 0.91        | 1             |
-| 🔴 Kháng cự     |    50.9   | 2.72        | 2             |
+| 🔴 Kháng cự    |    53     | 0.77        | 1             |
+| 🔴 Kháng cự    |    51     | 0.9         | 1             |
+| 🔴 Kháng cự    |    50.9   | 2.72        | 2             |
 | ▶ Giá hiện tại |    50.3   | —           | —             |
-| 🟢 Hỗ trợ       |    49.95  | 1.23        | 1             |
-| 🟢 Hỗ trợ       |    48.8   | 0.81        | 1             |
-| 🟢 Hỗ trợ       |    48.046 | 2.48        | 2             |
+| 🟢 Hỗ trợ      |    49.95  | 1.23        | 1             |
+| 🟢 Hỗ trợ      |    48.8   | 0.81        | 1             |
+| 🟢 Hỗ trợ      |    48.046 | 2.47        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PTB |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699156 |
-| ratio_type | RATIO_TTM |
-| organ_code | PTB |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 48599441 |
-| market_cap | 2867367019000.0 |
-| dividend_yield | 0.0 |
-| pe | 7.1489613763 |
-| pb | 1.36756814 |
-| ps | 0.7126784061 |
-| price_to_cash_flow | 15.1906984611 |
-| ev_to_ebitda | 6.618569573 |
-| cash_ratio | 0.0504353057 |
-| quick_ratio | 0.5458435619 |
-| current_ratio | 1.062851788 |
-| owners_equity | 0.0895045783 |
-| debt_per_equity | 0.9354604934 |
-| debt_to_equity | 1.2370585718 |
-| roe | 0.3510306825 |
-| roa | 0.1512597202 |
-| day_sale_outstanding | 38.160458076 |
-| days_inventory_outstanding | 72.8521595964 |
-| days_payable_outstanding | 21.9073123682 |
-| gross_margin | 0.1812621416 |
-| ebit_margin | 0.1099455468 |
-| pre_tax_profit_margin | 0.1095695911 |
-| after_tax_profit_margin | 0.0933731185 |
-| asset_turnover | 1.6903343495 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 442351321419.0 |
-| ebitda | 589952942370.0 |
-| roic | 0.1956721078 |
-| cash_cycle | 142.3169078189 |
-| fixed_asset_turnover | 4.9242641267 |
-| financial_leverage | 1.2370585718 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 6.28 |
+| pb | 1.11 |
+| roe | 16.29 |
+| roe_pct_rank | 61 |
+| roa | 8.44 |
+| roa_pct_rank | 62 |
+| eps | 8041 |
+| bvps | 45509 |
+| beta | 0.82 |
+| dividend | 1500 |
+| yield | 0.02982107355864811 |
+| pe_pct_rank | 35 |
+| pb_pct_rank | 47 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                        | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| PTB: Quyết định của HĐQT về việc góp vốn đầu tư thành lập Công ty liên doanh                      | 2026-05-06T16:52:42 |                    |
-| PTB: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                          | 2026-05-04T11:11:00 |                    |
-| PTB: Thông báo phát hành cổ phiếu để trả cổ tức                                                   | 2026-04-29T10:55:51 |                    |
-| PTB: Thông báo và Nghị quyết HĐQT về chi trả cổ tức năm 2025                                      | 2026-04-29T10:55:12 |                    |
-| PTB: Em Phó TGĐ đăng ký mua 50.000 cổ phiếu                                                       | 2026-04-28T17:12:00 |                    |
-| PTB: Em gái Thành viên HĐQT đăng ký mua 50.000 cổ phiếu                                           | 2026-04-28T14:59:00 |                    |
-| PTB: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo phát hành cổ phiếu để trả cổ tức | 2026-04-28T13:33:28 |                    |
-| PTB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Lê Thục Trinh     | 2026-04-24T18:34:07 |                    |
-| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Lê Văn Lộc                                     | 2026-04-22T15:12:00 |                    |
-| PTB: Thông báo giao dịch cổ phiếu của người nội bộ Lê Anh Văn                                     | 2026-04-22T15:11:00 |                    |
+| title                                                                                       | publishtime         | url                                                                                                                 |
+|:--------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------|
+| PTB: Thông báo thay đổi nhân sự                                                             | 2026-05-08T10:36:45 | /2026/05/ptb-thong-bao-thay-doi-nhan-su-214-1439890.htm                                                             |
+| PTB: Thông báo ngày ĐKCC thực hiện quyền chi trả cổ tức năm 2025 bằng cổ phiếu và bằng tiền | 2026-05-08T09:49:16 | /2026/05/ptb-thong-bao-ngay-dkcc-thuc-hien-quyen-chi-tra-co-tuc-nam-2025-bang-co-phieu-va-bang-tien-738-1439842.htm |
+| PTB: Quyết định của HĐQT về việc góp vốn đầu tư thành lập Công ty liên doanh                | 2026-05-06T16:52:42 | /2026/05/ptb-quyet-dinh-cua-hdqt-ve-viec-gop-von-dau-tu-thanh-lap-cong-ty-lien-doanh-737-1438820.htm                |
+| PTB: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                    | 2026-05-04T11:11:00 | /2026/05/ptb-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436955.htm                                    |
+| PTB: BCTC quý 1 năm 2026                                                                    | 2026-04-30T00:00:00 | /2026/04/ptb-bctc-quy-1-nam-2026-737-1436896.htm                                                                    |
+| PTB: BCTC Hợp nhất quý 1 năm 2026                                                           | 2026-04-30T00:00:00 | /2026/04/ptb-bctc-hop-nhat-quy-1-nam-2026-737-1436898.htm                                                           |
+| PTB: Thông báo phát hành cổ phiếu để trả cổ tức                                             | 2026-04-29T10:55:51 | /2026/04/ptb-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-738-1435350.htm                                             |
+| PTB: Thông báo và Nghị quyết HĐQT về chi trả cổ tức năm 2025                                | 2026-04-29T10:55:12 | /2026/04/ptb-thong-bao-va-nghi-quyet-hdqt-ve-chi-tra-co-tuc-nam-2025-737-1435349.htm                                |
+| PTB: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Lê Thục Trinh     | 2026-04-28T17:12:08 | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thuc-trinh-739-1434927.htm     |
+| PTB: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Lê Thục Trinh     | 2026-04-28T14:59:48 | /2026/04/ptb-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-le-thuc-trinh-739-1434630.htm     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         |   record_date |   exright_date |
-|:--------------------|--------------:|---------------:|
-| 2026-05-05T00:00:00 |           nan |            nan |
-| 2026-05-05T00:00:00 |           nan |            nan |
-| 2026-04-28T00:00:00 |           nan |            nan |
-| 2026-04-24T00:00:00 |           nan |            nan |
-| 2026-04-22T00:00:00 |           nan |            nan |
-| 2026-04-22T00:00:00 |           nan |            nan |
-| 2026-04-16T00:00:00 |           nan |            nan |
-| 2026-04-16T00:00:00 |           nan |            nan |
-| 2026-04-07T00:00:00 |           nan |            nan |
-| 2026-03-25T00:00:00 |           nan |            nan |
-| 2026-02-27T00:00:00 |           nan |            nan |
-| 2026-02-27T00:00:00 |           nan |            nan |
-| 2026-02-27T00:00:00 |           nan |            nan |
-| 2026-02-27T00:00:00 |           nan |            nan |
-| 2026-02-27T00:00:00 |           nan |            nan |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | SX Phụ trợ |
-| % Ngành hôm nay | +1.43% |
-| % Cổ phiếu hôm nay | -0.40% |
-| RS (CP − Ngành) | -1.83% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

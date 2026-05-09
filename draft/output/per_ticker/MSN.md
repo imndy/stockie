@@ -1,6 +1,6 @@
 # MSN — CTCP Tập đoàn Masan
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 08/05/2026 21:58  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -10,48 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSN |
-| organ_code | MSN |
-| current_price | 81000.0 |
-| market_cap | 117119152017000.0 |
-| number_of_shares_mkt_cap | 1445915457.0 |
-| ticker | MSN |
-| tag | None |
-| rating | BUY |
-| rating_as_of | 21-May-25 |
-| en_organ_name | Masan Group Corporation |
-| en_organ_short_name | Masan Group |
-| vi_organ_name | Công ty Cổ phần Tập đoàn Masan |
-| vi_organ_short_name | Tập đoàn Masan |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 512759072647.3684 |
-| average_match_volume1_month | 6525918.0 |
-| highest_price1_year | 94000.0 |
-| lowest_price1_year | 60700.0 |
-| foreigner_percentage | 0.24828519 |
-| maximum_foreign_percentage | 1.0 |
-| state_percentage | 0.0 |
-| analyst | Vinh Bui |
-| upside_to_target_percent | 0.249382716 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.249382716 |
-| target_price | 101200.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Masan Group Corporation (MSN), formerly known as Masan Maritime Joint Stock Company, was established in 2004. … |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Masan (MSN) c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ ph… |
-| in_cu | True |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3577 |
-| free_float | 867549274 |
-| free_float_percentage | 0.5999999999 |
-| listing_date | 2009-11-05T00:00:00 |
-| prev_insight | {'targetPrice': 108000.0, 'rating': 'BUY', 'ratingAsOf': '25-Nov-24', 'analyst': 'Ha Huynh', 'version': '20250520_edit'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 121943452545400 |
+| 52w_high | 88500 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 62000 |
+| 52w_low_date | 2025-05-12 |
+| foreign_ownership | 25.0181 |
+| dividend | 0 |
+| beta | 0.79 |
+| eps | 3286 |
+| eps_forward | 16.987578095671523 |
+| bvps | 30426 |
+| pe | 24.65 |
+| pb | 2.66 |
+| price_chg_1m | 2.82 |
+| price_chg_ytd | 27.71 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -63,8 +42,8 @@
 | EMA20 | 77.878 |
 | EMA50 | 77.035 |
 | Slope MA20 (5p, %) | 0.79 |
-| ATR(14) | 2.066 |
-| RSI(14) | 61.3 |
+| ATR(14) | 2.064 |
+| RSI(14) | 61.4 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
@@ -79,78 +58,33 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    85.5   | 1.59        | 2             |
-| 🔴 Kháng cự     |    82.229 | 2.34        | 2             |
+| 🔴 Kháng cự    |    85.5   | 1.58        | 2             |
+| 🔴 Kháng cự    |    82.229 | 2.34        | 2             |
 | ▶ Giá hiện tại |    80.2   | —           | —             |
-| 🟢 Hỗ trợ       |    79.5   | 1.3         | 1             |
-| 🟢 Hỗ trợ       |    77.3   | 0.57        | 1             |
-| 🟢 Hỗ trợ       |    75.873 | 3.16        | 3             |
+| 🟢 Hỗ trợ      |    79.5   | 1.3         | 1             |
+| 🟢 Hỗ trợ      |    77.3   | 0.56        | 1             |
+| 🟢 Hỗ trợ      |    75.873 | 3.14        | 3             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | MSN |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2698897 |
-| ratio_type | RATIO_TTM |
-| organ_code | MSN |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 1053249616 |
-| market_cap | 85313218896000.0 |
-| dividend_yield | 0.0 |
-| pe | 24.3516750338 |
-| pb | 6.3136042602 |
-| ps | 2.283863875 |
-| price_to_cash_flow | 18.2574657942 |
-| ev_to_ebitda | 15.2107894953 |
-| cash_ratio | 0.3014867878 |
-| quick_ratio | 0.5667704657 |
-| current_ratio | 0.9037594901 |
-| owners_equity | 1.3102897237 |
-| debt_per_equity | 1.7669833191 |
-| debt_to_equity | 2.1567017109 |
-| roe | 0.1657625086 |
-| roa | 0.0573220527 |
-| day_sale_outstanding | 11.0217646813 |
-| days_inventory_outstanding | 67.9758548164 |
-| days_payable_outstanding | 31.8944367022 |
-| gross_margin | 0.3192014493 |
-| ebit_margin | 0.1328566464 |
-| pre_tax_profit_margin | 0.1327616652 |
-| after_tax_profit_margin | 0.1169151231 |
-| asset_turnover | 0.5815951117 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 4962830000000.0 |
-| ebitda | 7594581000000.0 |
-| roic | 0.0916034133 |
-| cash_cycle | 124.9031693199 |
-| fixed_asset_turnover | 1.2745042865 |
-| financial_leverage | 2.1567017109 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 24.65 |
+| pb | 2.66 |
+| roe | 15.76 |
+| roe_pct_rank | 59 |
+| roa | 2.97 |
+| roa_pct_rank | 43 |
+| eps | 3286 |
+| bvps | 30426 |
+| beta | 0.79 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 75 |
+| pb_pct_rank | 92 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -167,48 +101,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                      | public_date         | news_source_link   |
-|:------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| MSN: Thông cáo báo chí về kết quả kinh doanh quý 1/2026                                         | 2026-05-04T13:23:02 |                    |
-| Masan (MSN) ghi nhận lợi nhuận quý I/2026 cao kỷ lục, tăng gấp đôi so với cùng kỳ năm trước     | 2026-05-04T11:42:00 |                    |
-| MSN: Giải trình biến động lợi nhuận BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước        | 2026-04-28T09:45:24 |                    |
-| MSN: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                             | 2026-04-24T18:44:37 |                    |
-| MSN: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                      | 2026-04-24T18:43:51 |                    |
-| ĐHĐCĐ Masan (MSN): Mảng bán lẻ sẽ bứt phá                                                       | 2026-04-24T15:57:00 |                    |
-| MSN: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Le Danny                               | 2026-04-14T18:01:38 |                    |
-| Vì sao MSN lọt top cổ phiếu được khối ngoại mua ròng mạnh nhất thị trường từ đầu năm đến nay?   | 2026-04-14T13:00:00 |                    |
-| Masan (MSN) lên kế hoạch lãi lên tới 7.900 tỷ đồng trong năm 2026, tiếp tục mở rộng WinCommerce | 2026-04-06T06:58:00 |                    |
-| MSN: Tài liệu họp ĐHĐCĐ thường niên 2026                                                        | 2026-04-03T10:37:36 |                    |
+| title                                                                                    | publishtime             | url                                                                                                              |
+|:-----------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------|
+| CEO Danny Le: Lợi nhuận tăng nhanh hơn doanh thu, Masan lên kế hoạch IPO WinCommerce     | 2026-05-06T22:34:50.207 | /2026/05/ceo-danny-le-loi-nhuan-tang-nhanh-hon-doanh-thu-masan-len-ke-hoach-ipo-wincommerce-737-1439078.htm      |
+| MSN: Thông cáo báo chí về kết quả kinh doanh quý 1/2026                                  | 2026-05-04T13:23:02     | /2026/05/msn-thong-cao-bao-chi-ve-ket-qua-kinh-doanh-quy-1-2026-737-1437002.htm                                  |
+| Masan bước vào chu kỳ tăng trưởng mới với lợi nhuận quý 1 cao nhất lịch sử               | 2026-05-04T11:21:21.34  | /2026/05/masan-buoc-vao-chu-ky-tang-truong-moi-voi-loi-nhuan-quy-1-cao-nhat-lich-su-737-1436839.htm              |
+| MSN: Giải trình biến động lợi nhuận BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước | 2026-04-28T09:45:24     | /2026/04/msn-giai-trinh-bien-dong-loi-nhuan-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1434323.htm |
+| MSN: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                               | 2026-04-24T18:47:37     | /2026/04/msn-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1433832.htm                               |
+| MSN: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                      | 2026-04-24T18:47:37     | /2026/04/msn-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1433833.htm                                      |
+| Tỷ phú Nguyễn Đăng Quang: Đột phá của Masan là xây dựng được nền tảng bán lẻ đỉnh cao    | 2026-04-24T13:17:00     | /2026/04/ty-phu-nguyen-dang-quang-dot-pha-cua-masan-la-xay-dung-duoc-nen-tang-ban-le-dinh-cao-737-1432714.htm    |
+| MSN: BCTC quý 1 năm 2026                                                                 | 2026-04-24T00:00:00     | /2026/04/msn-bctc-quy-1-nam-2026-737-1434266.htm                                                                 |
+| MSN: BCTC Hợp nhất quý 1 năm 2026                                                        | 2026-04-24T00:00:00     | /2026/04/msn-bctc-hop-nhat-quy-1-nam-2026-737-1434267.htm                                                        |
+| Masan Consumer tăng trưởng hai chữ số quý 1: Triển vọng hoàn thành kế hoạch 2026 rõ nét? | 2026-04-20T12:52:00     | /2026/04/masan-consumer-tang-truong-hai-chu-so-quy-1-trien-vong-hoan-thanh-ke-hoach-2026-ro-net-737-1430118.htm  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-24T00:00:00 | nan                 | nan                 |
-| 2026-04-14T00:00:00 | nan                 | nan                 |
-| 2026-03-04T00:00:00 | 2026-03-20T00:00:00 | 2026-03-19T00:00:00 |
-| 2025-09-04T00:00:00 | nan                 | nan                 |
-| 2025-08-15T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | nan                 | nan                 |
-| 2025-07-31T00:00:00 | 2025-07-30T00:00:00 | 2025-07-30T00:00:00 |
-| 2025-03-04T00:00:00 | 2025-03-21T00:00:00 | 2025-03-20T00:00:00 |
-| 2024-11-20T00:00:00 | nan                 | nan                 |
-| 2024-11-01T00:00:00 | nan                 | nan                 |
-| 2024-07-05T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.76% |
-| % Cổ phiếu hôm nay | -0.99% |
-| RS (CP − Ngành) | -0.23% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

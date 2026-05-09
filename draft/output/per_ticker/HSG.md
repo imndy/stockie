@@ -1,6 +1,6 @@
 # HSG — CTCP Tập đoàn Hoa Sen
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 09/05/2026 13:32  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HSG |
-| organ_code | HSG |
-| current_price | 12600.0 |
-| market_cap | 10171690212600.0 |
-| number_of_shares_mkt_cap | 807277001.0 |
-| ticker | HSG |
-| tag | None |
-| rating | M-PF |
-| rating_as_of | 18-Apr-25 |
-| en_organ_name | Hoa Sen Group |
-| en_organ_short_name | Hoa Sen Group |
-| vi_organ_name | Công ty Cổ phần Tập đoàn Hoa Sen |
-| vi_organ_short_name | Tập đoàn Hoa Sen |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Basic Resources |
-| sector_vn | Tài nguyên Cơ bản |
-| average_match_value1_month | 72923962439.47368 |
-| average_match_volume1_month | 4761138.0 |
-| highest_price1_year | 16307.0 |
-| lowest_price1_year | 10500.0 |
-| foreigner_percentage | 0.03922961 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | Huy Hoang |
-| upside_to_target_percent | 0.0714285714 |
-| dividend_per_share_tsr | 500.0 |
-| projected_tsr_percentage | 0.1111111111 |
-| target_price | 13500.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal" style="text-align: justify;">Hoa Sen Group&nbsp;(HSG), the precursor of Hoa Sen joint s… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>C&ocirc;ng ty Cổ phần Tập đo&agrave;n Hoa Sen (HSG), c&oacute; tiền th&acirc;n l&agrave; C&ocirc;ng ty Cổ… |
-| in_cu | True |
-| icb_code_lv2 | 1700 |
-| icb_code_lv4 | 1757 |
-| free_float | 565093900 |
-| free_float_percentage | 0.6999999991 |
-| listing_date | 2008-12-05T00:00:00 |
-| prev_insight | {'targetPrice': 19600.0, 'rating': 'M-PF', 'ratingAsOf': '12-Sep-24', 'analyst': 'Huy Hoang', 'version': '20250421'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 7731229747050 |
+| 52w_high | 16090 |
+| 52w_high_date | 2025-09-04 |
+| 52w_low | 10599 |
+| 52w_low_date | 2026-03-09 |
+| foreign_ownership | 3.9451 |
+| dividend | 0 |
+| beta | 0.72 |
+| eps | 869 |
+| eps_forward | 15.64867483047269 |
+| bvps | 18486 |
+| pe | 14.50 |
+| pb | 0.68 |
+| price_chg_1m | 4.92 |
+| price_chg_ytd | 8.79 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -65,7 +43,7 @@
 | EMA50 | 11.986 |
 | Slope MA20 (5p, %) | 1.54 |
 | ATR(14) | 0.318 |
-| RSI(14) | 58.5 |
+| RSI(14) | 58.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
@@ -80,78 +58,29 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    13.27  | 0.74        | 1             |
-| 🔴 Kháng cự     |    12.871 | 3.8         | 4             |
+| 🔴 Kháng cự    |    13.27  | 0.73        | 1             |
+| 🔴 Kháng cự    |    12.871 | 3.78        | 4             |
 | ▶ Giá hiện tại |    12.45  | —           | —             |
-| 🟢 Hỗ trợ       |    11.906 | 4.04        | 4             |
-| 🟢 Hỗ trợ       |    11.65  | 0.66        | 1             |
-| 🟢 Hỗ trợ       |    11.5   | 1.14        | 1             |
+| 🟢 Hỗ trợ      |    11.906 | 4.02        | 4             |
+| 🟢 Hỗ trợ      |    11.65  | 0.65        | 1             |
+| 🟢 Hỗ trợ      |    11.5   | 1.13        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HSG |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699142 |
-| ratio_type | RATIO_TTM |
-| organ_code | HSG |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 384933528 |
-| market_cap | 4522968954000.0 |
-| dividend_yield | 0.0 |
-| pe | 4.9973821473 |
-| pb | 0.748231345 |
-| ps | 0.1521848169 |
-| price_to_cash_flow | 265.0341718632 |
-| ev_to_ebitda | 7.6728933662 |
-| cash_ratio | 0.0152828488 |
-| quick_ratio | 0.2758482536 |
-| current_ratio | 0.9256935065 |
-| owners_equity | 0.550777938 |
-| debt_per_equity | 2.8545108057 |
-| debt_to_equity | 3.2917320587 |
-| roe | 0.1709384771 |
-| roa | 0.0417472792 |
-| day_sale_outstanding | 18.3705066489 |
-| days_inventory_outstanding | 121.8390779172 |
-| days_payable_outstanding | 24.0304312667 |
-| gross_margin | 0.1485570521 |
-| ebit_margin | 0.0592424588 |
-| pre_tax_profit_margin | 0.0381050936 |
-| after_tax_profit_margin | 0.0304517127 |
-| asset_turnover | 1.3708583272 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 1760699965497.0 |
-| ebitda | 2617834365895.0 |
-| roic | 0.0825515588 |
-| cash_cycle | 174.3827839988 |
-| fixed_asset_turnover | 4.2970737962 |
-| financial_leverage | 3.2917320587 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 14.50 |
+| pb | 0.68 |
+| eps | 869 |
+| bvps | 18486 |
+| beta | 0.72 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 54 |
+| pb_pct_rank | 28 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -168,48 +97,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                 | public_date         | news_source_link   |
-|:-----------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HSG: Giải trình KQKD Cty mẹ quý II  NĐTC 2025-2026 so với cùng kỳ năm trước                                | 2026-05-04T15:47:29 |                    |
-| Hoa Sen (HSG) tăng thêm 3.863,6 tỷ đồng nợ vay trong bối cảnh lợi nhuận đi lùi nửa đầu niên độ 2025 - 2026 | 2026-04-30T07:31:00 |                    |
-| HSG: Giải trình KQKD HN quý 2 niên độ tài chính 2025-2026                                                  | 2026-04-29T18:26:41 |                    |
-| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông                | 2026-04-14T17:25:26 |                    |
-| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu                              | 2026-04-10T15:13:58 |                    |
-| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                                             | 2026-04-03T18:07:37 |                    |
-| Hoa Sen (HSG) sắp trả cổ tức bằng cổ phiếu với tỷ lệ 30%                                                   | 2026-03-17T21:25:00 |                    |
-| HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                                       | 2026-03-17T17:39:31 |                    |
-| HSG: Nghị quyết HĐQT về việc lựa chọn đơn vị kiểm toán BCTC niên độ tài chính 2025-2026                    | 2026-03-12T17:39:05 |                    |
-| HSG: Biên bản và Nghị quyết ĐHĐCĐ thường niên NĐTC 2025-2026                                               | 2026-03-09T17:22:34 |                    |
+| title                                                                                       | publishtime             | url                                                                                                                 |
+|:--------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| HSG: Giải trình KQKD Cty mẹ quý II  NĐTC 2025-2026 so với cùng kỳ năm trước                 | 2026-05-04T15:47:29     | /2026/05/hsg-giai-trinh-kqkd-cty-me-quy-ii-ndtc-20252026-so-voi-cung-ky-nam-truoc-737-1437213.htm                   |
+| Hoa Sen báo lãi giảm hơn 40% trong 3 tháng đầu năm                                          | 2026-05-04T12:04:37.407 | /2026/05/hoa-sen-bao-lai-giam-hon-40-trong-3-thang-dau-nam-737-1436876.htm                                          |
+| HSG: Giải trình KQKD HN quý 2 niên độ tài chính 2025-2026                                   | 2026-04-29T18:31:10     | /2026/04/hsg-giai-trinh-kqkd-hn-quy-2-nien-do-tai-chinh-20252026-737-1436050.htm                                    |
+| HSG: BCTC quý 2 năm 2026                                                                    | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-quy-2-nam-2026-737-1435963.htm                                                                    |
+| HSG: BCTC Hợp nhất quý 2 năm 2026                                                           | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-hop-nhat-quy-2-nam-2026-737-1435964.htm                                                           |
+| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông | 2026-04-14T17:27:28     | /2026/04/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thanh-lap-chi-nhanh-hoa-sen-quy-nhon-dong-737-1427593.htm |
+| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu               | 2026-04-10T15:15:42     | /2026/04/hsg-thong-bao-ngay-dkcc-tra-co-tuc-nien-do-tai-chinh-20242025-bang-co-phieu-738-1426098.htm                |
+| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                              | 2026-04-03T18:12:41     | /2026/04/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-738-1422875.htm                               |
+| Hoa Sen sắp phát hành hơn 186 triệu cổ phiếu để trả cổ tức                                  | 2026-03-18T16:23:08.51  | /2026/03/hoa-sen-sap-phat-hanh-hon-186-trieu-co-phieu-de-tra-co-tuc-738-1413563.htm                                 |
+| HSG: CBTT chi trả cổ tức niên độ tài chính 2024-2025                                        | 2026-03-17T17:40:53     | /2026/03/hsg-cbtt-chi-tra-co-tuc-nien-do-tai-chinh-20242025-738-1413298.htm                                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-10T00:00:00 | 2026-05-05T00:00:00 | 2026-05-04T00:00:00 |
-| 2025-11-19T00:00:00 | 2025-12-08T00:00:00 | 2025-12-05T00:00:00 |
-| 2025-10-23T00:00:00 | nan                 | nan                 |
-| 2025-08-15T00:00:00 | nan                 | nan                 |
-| 2025-03-26T00:00:00 | 2025-04-03T00:00:00 | 2025-04-02T00:00:00 |
-| 2024-12-20T00:00:00 | 2025-01-07T00:00:00 | 2025-01-06T00:00:00 |
-| 2024-11-06T00:00:00 | nan                 | nan                 |
-| 2024-10-10T00:00:00 | 2024-10-09T00:00:00 | 2024-10-09T00:00:00 |
-| 2024-10-09T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
-| 2024-10-08T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | +0.12% |
-| % Cổ phiếu hôm nay | -1.19% |
-| RS (CP − Ngành) | -1.31% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

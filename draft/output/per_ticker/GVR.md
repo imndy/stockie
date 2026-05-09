@@ -1,6 +1,6 @@
 # GVR — Tập đoàn Công nghiệp Cao su Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 08/05/2026 21:56  |  🗂 Quarterly: 03/05/2026 14:06
+> 📅 Daily: 09/05/2026 13:30  |  🗂 Quarterly: 03/05/2026 14:06
 
 ---
 
@@ -10,47 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GVR |
-| organ_code | VNRG |
-| current_price | 35850.0 |
-| market_cap | 143400000000000.0 |
-| number_of_shares_mkt_cap | 4000000000.0 |
-| ticker | GVR |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 31-Dec-25 |
-| en_organ_name | Viet Nam Rubber Group - Joint Stock Company |
-| en_organ_short_name | Viet Nam Rubber Group |
-| vi_organ_name | Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần |
-| vi_organ_short_name | Tập đoàn CN Cao su VN |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Chemicals |
-| sector_vn | Hóa chất |
-| average_match_value1_month | 128079712165.78947 |
-| average_match_volume1_month | 3793258.0 |
-| highest_price1_year | 46500.0 |
-| lowest_price1_year | 24155.0 |
-| foreigner_percentage | 0.00656189 |
-| maximum_foreign_percentage | 0.13 |
-| state_percentage | 0.9677107 |
-| analyst | Anh Pham |
-| upside_to_target_percent | -0.1492329149 |
-| dividend_per_share_tsr | 400.0 |
-| projected_tsr_percentage | -0.1380753138 |
-| target_price | 30500.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Vietnam Rubber Group (GVR), formerly known&nbsp;as Vietnam Group&nbsp;Corporation,&nbsp;was&nbsp;established i… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">Tập đo&agrave;n C&ocirc;ng nghiệp Cao su Việt Nam (GVR) c&oacute; tiền th&acirc;n l&agrave; Tổng C&ocirc;ng ty… |
-| in_cu | True |
-| icb_code_lv2 | 1300 |
-| icb_code_lv4 | 1353 |
-| free_float | 160000000 |
-| free_float_percentage | 0.04 |
-| listing_date | 2018-03-21T00:00:00 |
-| prev_insight | {'targetPrice': 31200.0, 'rating': 'M-PF', 'ratingAsOf': '04-Jul-25', 'analyst': 'Anh Pham', 'version': '20251231_edit'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 142800000000000 |
+| 52w_high | 45750 |
+| 52w_high_date | 2026-03-03 |
+| 52w_low | 24895 |
+| 52w_low_date | 2025-10-20 |
+| foreign_ownership | 0.6642 |
+| dividend | 400 |
+| beta | 0.98 |
+| eps | 1638 |
+| eps_forward | 25.800647715005397 |
+| bvps | 16246 |
+| pe | 21.88 |
+| pb | 2.21 |
+| price_chg_1m | 8.84 |
+| price_chg_ytd | 35.87 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.011204481792717087 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -60,17 +40,17 @@
 | MA5 | 35.72 |
 | MA10 | 34.4 |
 | EMA20 | 34.046 |
-| EMA50 | 33.863 |
+| EMA50 | 33.869 |
 | Slope MA20 (5p, %) | 3.3 |
-| ATR(14) | 1.485 |
+| ATR(14) | 1.484 |
 | RSI(14) | 59.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
 | MACD | 0.599 |
-| MACD Signal | 0.183 |
-| MACD Histogram | 0.416 |
+| MACD Signal | 0.182 |
+| MACD Histogram | 0.417 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
 | KL avg 60 phiên | 5066047 |
 
@@ -78,78 +58,33 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |     46.5  | 1.03        | 1             |
-| 🔴 Kháng cự     |     43.8  | 0.86        | 1             |
+| 🔴 Kháng cự    |     46.5  | 1.03        | 1             |
+| 🔴 Kháng cự    |     43.8  | 0.86        | 1             |
 | ▶ Giá hiện tại |     35.7  | —           | —             |
-| 🟢 Hỗ trợ       |     35.1  | 0.95        | 1             |
-| 🟢 Hỗ trợ       |     34.15 | 2.69        | 2             |
-| 🟢 Hỗ trợ       |     33.5  | 1.23        | 1             |
+| 🟢 Hỗ trợ      |     35.1  | 0.94        | 1             |
+| 🟢 Hỗ trợ      |     34.15 | 2.68        | 2             |
+| 🟢 Hỗ trợ      |     33.5  | 1.23        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | GVR |
-| year | 2018 |
-| quarter | 4 |
-| ratio_ttm_id | 2717363 |
-| ratio_type | RATIO_TTM |
-| organ_code | VNRG |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 4000000000 |
-| market_cap | 58532000000000.0 |
-| dividend_yield | 0.0170846716 |
-| pe | 22.5502639065 |
-| pb | 1.3022958924 |
-| ps | 2.9691633487 |
-| price_to_cash_flow | 54.7899846076 |
-| ev_to_ebitda | 19.287364933 |
-| cash_ratio | 0.5147604838 |
-| quick_ratio | 1.5058518506 |
-| current_ratio | 1.8328696258 |
-| owners_equity | 0.2023802509 |
-| debt_per_equity | 0.2703229325 |
-| debt_to_equity | 0.5596298034 |
-| roe | 0.0523645871 |
-| roa | 0.0335750105 |
-| day_sale_outstanding | 32.562738073 |
-| days_inventory_outstanding | 80.2689814679 |
-| days_payable_outstanding | 25.8059134808 |
-| gross_margin | 0.2290092861 |
-| ebit_margin | 0.1054481407 |
-| pre_tax_profit_margin | 0.2156786084 |
-| after_tax_profit_margin | 0.1691073982 |
-| asset_turnover | 0.2549961924 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 2078730554452.0 |
-| ebitda | 3747297416918.0 |
-| roic | 0.0330126213 |
-| cash_cycle | 169.9290920398 |
-| fixed_asset_turnover | 0.7753412767 |
-| financial_leverage | 0.5596298034 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 21.88 |
+| pb | 2.21 |
+| roe | 10.51 |
+| roe_pct_rank | 48 |
+| roa | 6.62 |
+| roa_pct_rank | 56 |
+| eps | 1638 |
+| bvps | 16246 |
+| beta | 0.98 |
+| dividend | 400 |
+| yield | 0.011204481792717087 |
+| pe_pct_rank | 69 |
+| pb_pct_rank | 79 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -166,48 +101,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                                | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| GVR: Thông báo thay đổi nhân sự                                                                                           | 2026-04-29T19:09:42 |                    |
-| GVR: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-04-22T17:37:19 |                    |
-| GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23 |                    |
-| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:27:27 |                    |
-| Thanh tra Chính phủ kiến nghị Tập đoàn Công nghiệp Cao su Việt Nam nộp bổ sung 894 tỷ đồng tiền thuê đất                  | 2026-03-02T15:02:00 |                    |
-| Thanh tra Chính phủ kiến nghị một tập đoàn Nhà nước nộp bổ sung gần 900 tỷ đồng tiền thuê đất                             | 2026-03-02T15:02:00 |                    |
-| Tập đoàn Cao su Việt Nam (GVR): Lợi nhuận 2025 tăng 32%, cổ phiếu từ đầu năm tăng hơn 60%                                 | 2026-02-03T20:11:00 |                    |
-| GVR: Báo cáo tình hình quản trị công ty năm 2025                                                                          | 2026-01-30T19:04:23 |                    |
-| GVR: CBTT giao dịch năm 2026 giữa công ty mẹ - Tập đoàn và các bên có liên quan                                           | 2026-01-28T16:16:46 |                    |
-| GVR: CBTT thay đổi nhân sự                                                                                                | 2025-11-06T14:49:19 |                    |
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Đồng Nai thúc GVR bàn giao gần 4.3 ngàn ha đất cao su cho loạt dự án giao thông trọng điểm                                | 2026-05-08T16:37:35.72 | /2026/05/dong-nai-thuc-gvr-ban-giao-gan-43-ngan-ha-dat-cao-su-cho-loat-du-an-giao-thong-trong-diem-4222-1440012.htm       |
+| Ông lớn cao su đạt lợi nhuận ròng cao nhất 6 năm                                                                          | 2026-05-04T12:55:23.39 | /2026/05/ong-lon-cao-su-dat-loi-nhuan-rong-cao-nhat-6-nam-737-1436911.htm                                                 |
+| GVR: Thông báo thay đổi nhân sự                                                                                           | 2026-04-29T19:09:42    | /2026/04/gvr-thong-bao-thay-doi-nhan-su-214-1436182.htm                                                                   |
+| GVR: BCTC Tóm tắt quý 1 năm 2026                                                                                          | 2026-04-28T00:00:00    | /2026/04/gvr-bctc-tom-tat-quy-1-nam-2026-737-1435007.htm                                                                  |
+| GVR: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                                                 | 2026-04-28T00:00:00    | /2026/04/gvr-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1435008.htm                                                         |
+| GVR: Thông báo về ngày đăng ký cuối cùng tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-04-22T17:37:19    | /2026/04/gvr-thong-bao-ve-ngay-dang-ky-cuoi-cung-to-chuc-dhdcd-thuong-nien-nam-2026-737-1432251.htm                       |
+| GVR: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T10:11:23    | /2026/04/gvr-bao-cao-thuong-nien-nam-2025-737-1429990.htm                                                                 |
+| GVR: Nghị quyết HĐQT về việc gia hạn thời gian, nội dung, hình thức và thời gian dự kiến tổ chức ĐHĐCĐ thường niên năm 2… | 2026-04-08T17:30:57    | /2026/04/gvr-nghi-quyet-hdqt-ve-viec-gia-han-thoi-gian-noi-dung-hinh-thuc-va-thoi-gian-du-kien-to-chuc-dhdcd-thuong-nien… |
+| GVR: BCTC Tóm tắt năm 2025                                                                                                | 2026-03-30T00:00:00    | /2026/03/gvr-bctc-tom-tat-nam-2025-737-1419160.htm                                                                        |
+| GVR: BCTC Tóm tắt Hợp nhất năm 2025                                                                                       | 2026-03-30T00:00:00    | /2026/03/gvr-bctc-tom-tat-hop-nhat-nam-2025-737-1419161.htm                                                               |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2025-11-04T00:00:00 | 2025-11-14T00:00:00 | 2025-11-13T00:00:00 |
-| 2025-09-26T00:00:00 | 2025-10-09T00:00:00 | 2025-10-08T00:00:00 |
-| 2025-04-22T00:00:00 | 2025-05-16T00:00:00 | 2025-05-15T00:00:00 |
-| 2024-10-30T00:00:00 | 2024-11-15T00:00:00 | 2024-11-14T00:00:00 |
-| 2024-05-03T00:00:00 | 2024-05-14T00:00:00 | 2024-05-13T00:00:00 |
-| 2024-02-16T00:00:00 | 2024-02-28T00:00:00 | 2024-02-27T00:00:00 |
-| 2023-11-02T00:00:00 | 2023-11-17T00:00:00 | 2023-11-16T00:00:00 |
-| 2023-04-20T00:00:00 | 2023-05-16T00:00:00 | 2023-05-15T00:00:00 |
-| 2022-11-28T00:00:00 | nan                 | nan                 |
-| 2022-10-17T00:00:00 | nan                 | nan                 |
-| 2022-10-04T00:00:00 | 2022-10-13T00:00:00 | 2022-10-12T00:00:00 |
-| 2022-09-07T00:00:00 | nan                 | nan                 |
-| 2022-05-24T00:00:00 | nan                 | nan                 |
-| 2022-05-06T00:00:00 | 2022-05-17T00:00:00 | 2022-05-16T00:00:00 |
-| 2022-03-22T00:00:00 | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | SX Nhựa - Hóa chất |
-| % Ngành hôm nay | -0.79% |
-| % Cổ phiếu hôm nay | -0.42% |
-| RS (CP − Ngành) | +0.37% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

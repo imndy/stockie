@@ -1,6 +1,6 @@
 # PAN — CTCP Tập đoàn PAN
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 08/05/2026 21:59  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PAN |
-| organ_code | PAN |
-| current_price | 32850.0 |
-| market_cap | 6862192537500.0 |
-| number_of_shares_mkt_cap | 208894750.0 |
-| ticker | PAN |
-| tag | None |
-| rating | None |
-| rating_as_of | None |
-| en_organ_name | The PAN Group Joint Stock Company |
-| en_organ_short_name | The PAN Group |
-| vi_organ_name | Công ty Cổ phần Tập đoàn PAN |
-| vi_organ_short_name | Tập đoàn PAN |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Food & Beverage |
-| sector_vn | Thực phẩm và đồ uống |
-| average_match_value1_month | 30868450334.210526 |
-| average_match_volume1_month | 954235.0 |
-| highest_price1_year | 35600.0 |
-| lowest_price1_year | 22911.0 |
-| foreigner_percentage | 0.2203834 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | None |
-| upside_to_target_percent | None |
-| dividend_per_share_tsr | None |
-| projected_tsr_percentage | None |
-| target_price | None |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">The PAN Group Joint Stock Company (PAN),&nbsp;formerly known&nbsp;as The Pan Pacific Co… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">C&ocirc;ng ty Cổ phần Tập đo&agrave;n PAN (PAN) c&oacute; tiền th&acirc;n l&agrave; C&o… |
-| in_cu | False |
-| icb_code_lv2 | 3500 |
-| icb_code_lv4 | 3577 |
-| free_float | 114892112 |
-| free_float_percentage | 0.5499999976 |
-| listing_date | 2006-12-22T00:00:00 |
-| prev_insight | None |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 6841303062500 |
+| 52w_high | 35350 |
+| 52w_high_date | 2025-09-15 |
+| 52w_low | 23058 |
+| 52w_low_date | 2025-05-19 |
+| foreign_ownership | 22.0796 |
+| dividend | 500 |
+| beta | 0.41 |
+| eps | 5509 |
+| eps_forward | 3.991727342542457 |
+| bvps | 46118 |
+| pe | 5.96 |
+| pb | 0.71 |
+| price_chg_1m | 1.39 |
+| price_chg_ytd | 42.34 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.015267175572519083 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,9 +40,9 @@
 | MA5 | 32.27 |
 | MA10 | 32.055 |
 | EMA20 | 31.945 |
-| EMA50 | 31.447 |
+| EMA50 | 31.449 |
 | Slope MA20 (5p, %) | 0.79 |
-| ATR(14) | 0.96 |
+| ATR(14) | 0.959 |
 | RSI(14) | 60.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
@@ -80,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    35.15  | 1.01        | 1             |
-| 🔴 Kháng cự     |    33.35  | 2.27        | 2             |
-| 🔴 Kháng cự     |    32.82  | 3.67        | 3             |
+| 🔴 Kháng cự    |    35.15  | 1.01        | 1             |
+| 🔴 Kháng cự    |    33.35  | 2.26        | 2             |
+| 🔴 Kháng cự    |    32.82  | 3.66        | 3             |
 | ▶ Giá hiện tại |    32.75  | —           | —             |
-| 🟢 Hỗ trợ       |    31.3   | 1.44        | 1             |
-| 🟢 Hỗ trợ       |    30.544 | 2.38        | 2             |
-| 🟢 Hỗ trợ       |    29.05  | 0.93        | 1             |
+| 🟢 Hỗ trợ      |    31.3   | 1.44        | 1             |
+| 🟢 Hỗ trợ      |    30.544 | 2.37        | 2             |
+| 🟢 Hỗ trợ      |    29.05  | 0.92        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PAN |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699086 |
-| ratio_type | RATIO_TTM |
-| organ_code | PAN |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 120166630 |
-| market_cap | 6488998020000.0 |
-| dividend_yield | 0.0 |
-| pe | 15.4843037422 |
-| pb | 2.347234015 |
-| ps | 1.2373279582 |
-| price_to_cash_flow | 15.7874831196 |
-| ev_to_ebitda | 15.5095779249 |
-| cash_ratio | 0.5034795438 |
-| quick_ratio | 1.13657624 |
-| current_ratio | 1.8411470349 |
-| owners_equity | 0.0518575087 |
-| debt_per_equity | 0.3209594391 |
-| debt_to_equity | 0.5365507751 |
-| roe | 0.0998724573 |
-| roa | 0.0695095326 |
-| day_sale_outstanding | 36.2148547587 |
-| days_inventory_outstanding | 88.8890759745 |
-| days_payable_outstanding | 18.9739458413 |
-| gross_margin | 0.2097692379 |
-| ebit_margin | 0.0505455874 |
-| pre_tax_profit_margin | 0.1195262829 |
-| after_tax_profit_margin | 0.1120074775 |
-| asset_turnover | 0.8844778628 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 265079451580.0 |
-| ebitda | 452688897935.0 |
-| roic | 0.0427263744 |
-| cash_cycle | 155.8966126721 |
-| fixed_asset_turnover | 3.2699833577 |
-| financial_leverage | 0.5365507751 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 5.96 |
+| pb | 0.71 |
+| roe | 13.07 |
+| roe_pct_rank | 54 |
+| roa | 3.4 |
+| roa_pct_rank | 43 |
+| eps | 5509 |
+| bvps | 46118 |
+| beta | 0.41 |
+| dividend | 500 |
+| yield | 0.015267175572519083 |
+| pe_pct_rank | 34 |
+| pb_pct_rank | 29 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -169,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                  | public_date         | news_source_link   |
-|:--------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| PAN: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp                           | 2026-05-04T15:40:02 |                    |
-| PAN: Điều lệ công ty sửa đổi                                                                | 2026-04-23T13:30:43 |                    |
-| PAN: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo               | 2026-04-23T09:01:27 |                    |
-| Năm 2026, PAN không đặt mục tiêu tăng trưởng bằng mọi giá                                   | 2026-04-21T16:47:00 |                    |
-| Thoái vốn Bibica (BBC), PAN báo lãi quý I/2026 gấp 40 lần so với cùng kỳ                    | 2026-04-20T16:21:00 |                    |
-| PAN: Báo cáo phát triển bền vững năm 2025                                                   | 2026-04-20T13:49:15 |                    |
-| PAN: Báo cáo thường niên năm 2025                                                           | 2026-04-20T13:48:42 |                    |
-| Tập đoàn PAN (PAN) lên kế hoạch lãi 1.780 tỷ đồng năm 2026 và bổ sung lĩnh vực bất động sản | 2026-04-09T14:52:00 |                    |
-| PAN: Thư mời tham dự và tài liệu họp ĐHĐCĐ TN 2026                                          | 2026-04-01T09:13:53 |                    |
-| PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước                 | 2026-03-31T15:38:46 |                    |
+| title                                                                                                                     | publishtime            | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| PAN: Nghị quyết HĐQT thông qua kế hoạch triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở … | 2026-05-08T15:38:37    | /2026/05/pan-nghi-quyet-hdqt-thong-qua-ke-hoach-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von… |
+| PAN: Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp                                                         | 2026-05-04T15:40:02    | /2026/05/pan-giay-xac-nhan-ve-viec-thay-doi-noi-dung-dang-ky-doanh-nghiep-830-1437194.htm                                 |
+| PAN: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-28T00:00:00    | /2026/04/pan-bctc-hop-nhat-quy-1-nam-2026-737-1434784.htm                                                                 |
+| PAN: Điều lệ công ty sửa đổi                                                                                              | 2026-04-23T13:30:43    | /2026/04/pan-dieu-le-cong-ty-sua-doi-737-1432536.htm                                                                      |
+| PAN: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và tài liệu kèm theo                                             | 2026-04-23T09:14:26    | /2026/04/pan-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-tai-lieu-kem-theo-737-1432384.htm                      |
+| Ông Nguyễn Duy Hưng: Tiền trong Tập đoàn PAN không bao giờ “ngủ”                                                          | 2026-04-21T17:14:00    | /2026/04/ong-nguyen-duy-hung-tien-trong-tap-doan-pan-khong-bao-gio-ngu-737-1431211.htm                                    |
+| PAN: Báo cáo phát triển bền vững năm 2025                                                                                 | 2026-04-20T13:49:15    | /2026/04/pan-bao-cao-phat-trien-ben-vung-nam-2025-830-1430153.htm                                                         |
+| PAN: Báo cáo thường niên năm 2025                                                                                         | 2026-04-20T13:48:42    | /2026/04/pan-bao-cao-thuong-nien-nam-2025-737-1430152.htm                                                                 |
+| PAN: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00    | /2026/04/pan-bctc-quy-1-nam-2026-737-1430325.htm                                                                          |
+| PAN Group đặt mục tiêu lợi nhuận tăng 86% nhờ thoái vốn Bibica, muốn chia cổ tức 30%                                      | 2026-04-09T12:34:11.64 | /2026/04/pan-group-dat-muc-tieu-loi-nhuan-tang-86-nho-thoai-von-bibica-muon-chia-co-tuc-30-737-1425377.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date            | record_date         | exright_date        |
-|:-----------------------|:--------------------|:--------------------|
-| 2026-03-06T00:00:00    | 2026-03-25T00:00:00 | 2026-03-24T00:00:00 |
-| 2025-10-10T00:00:00    | nan                 | nan                 |
-| 2025-08-19T00:00:00    | 2025-08-29T00:00:00 | 2025-08-28T00:00:00 |
-| 2025-03-07T00:00:00    | 2025-03-24T00:00:00 | 2025-03-21T00:00:00 |
-| 2024-06-20T00:00:00    | 2024-06-27T00:00:00 | 2024-06-26T00:00:00 |
-| 2024-03-12T00:00:00    | 2024-03-27T00:00:00 | 2024-03-26T00:00:00 |
-| 2023-08-24T00:00:00    | nan                 | nan                 |
-| 2023-07-13T00:00:00    | nan                 | nan                 |
-| 2023-03-16T00:00:00    | 2023-03-24T00:00:00 | 2023-03-23T00:00:00 |
-| 2022-06-06T00:00:00    | nan                 | nan                 |
-| 2022-06-06T00:00:00    | nan                 | nan                 |
-| 2022-03-04T00:00:00    | 2022-03-21T00:00:00 | 2022-03-18T00:00:00 |
-| 2022-01-11T00:00:00    | nan                 | nan                 |
-| 2021-11-29T10:11:41.62 | 2021-12-14T00:00:00 | 2021-12-13T00:00:00 |
-| 2021-11-17T00:00:00    | nan                 | nan                 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Thực phẩm - Đồ uống |
-| % Ngành hôm nay | -0.76% |
-| % Cổ phiếu hôm nay | -0.30% |
-| RS (CP − Ngành) | +0.46% |
-| Nhận xét | CP **mạnh hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 

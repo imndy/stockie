@@ -1,6 +1,6 @@
 # HDC — CTCP Phát triển Nhà Bà Rịa - Vũng Tàu
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 08/05/2026 21:57  |  🗂 Quarterly: 03/05/2026 14:07
+> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:07
 
 ---
 
@@ -10,49 +10,27 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDC |
-| organ_code | HDC |
-| current_price | 18800.0 |
-| market_cap | 3755385934800.0 |
-| number_of_shares_mkt_cap | 199754571.0 |
-| ticker | HDC |
-| tag | None |
-| rating | O-PF |
-| rating_as_of | 09-Jan-26 |
-| en_organ_name | Ba Ria - Vung Tau House Development Joint Stock Company |
-| en_organ_short_name | Ba Ria - Vung Tau House Development |
-| vi_organ_name | Công ty Cổ phần Phát triển Nhà Bà Rịa Vũng Tàu |
-| vi_organ_short_name | Phát triển Nhà BR-VT |
-| com_type_code | CT |
-| com_group_code | VNINDEX |
-| sector | Real Estate |
-| sector_vn | Bất động sản |
-| average_match_value1_month | 51657841155.26316 |
-| average_match_volume1_month | 2722963.0 |
-| highest_price1_year | 37770.0 |
-| lowest_price1_year | 16300.0 |
-| foreigner_percentage | 0.01590194 |
-| maximum_foreign_percentage | 0.49 |
-| state_percentage | 0.0 |
-| analyst | Thuc Than |
-| upside_to_target_percent | 0.3085106383 |
-| dividend_per_share_tsr | 0.0 |
-| projected_tsr_percentage | 0.3085106383 |
-| target_price | 24600.0 |
-| en_profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p class="MsoNormal">Ba Ria - Vung Tau House Development Joint Stock Company (HDC), formerly known as Ba Ria… |
-| profile | <div style="FONT-FAMILY: Arial; FONT-SIZE: 10pt;">
-<p>Công ty Cổ phần Phát triển Nhà Bà Rịa Vũng Tàu (HDC) có tiền thân là Công ty Phát triển Nhà Tỉnh Bà Rịa -… |
-| in_cu | True |
-| icb_code_lv2 | 8600 |
-| icb_code_lv4 | 8633 |
-| free_float | 169791385 |
-| free_float_percentage | 0.8499999982 |
-| listing_date | 2007-10-08T00:00:00 |
-| prev_insight | {'targetPrice': 27100.0, 'rating': 'O-PF', 'ratingAsOf': '21-Mar-25', 'analyst': 'Thuc Than', 'version': '20260109'} |
-| fund_info | None |
-| is_bank | False |
-| listing | True |
-| bank | False |
+| exchange | HOSE |
+| market_cap | 3705447292050 |
+| 52w_high | 37488 |
+| 52w_high_date | 2025-10-16 |
+| 52w_low | 16300 |
+| 52w_low_date | 2026-03-23 |
+| foreign_ownership | 1.6076 |
+| dividend | 0 |
+| beta | 0.91 |
+| eps | 3692 |
+| eps_forward | 7.6174114577213405 |
+| bvps | 14996 |
+| pe | 5.09 |
+| pb | 1.25 |
+| price_chg_1m | -3.39 |
+| price_chg_ytd | -9.05 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -62,10 +40,10 @@
 | MA5 | 18.8 |
 | MA10 | 18.75 |
 | EMA20 | 18.716 |
-| EMA50 | 19.078 |
+| EMA50 | 19.075 |
 | Slope MA20 (5p, %) | 0.23 |
-| ATR(14) | 0.609 |
-| RSI(14) | 47.0 |
+| ATR(14) | 0.608 |
+| RSI(14) | 47.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
@@ -80,79 +58,34 @@
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự     |    20.1   | 0.7         | 1             |
-| 🔴 Kháng cự     |    19.7   | 2.61        | 2             |
-| 🔴 Kháng cự     |    19.4   | 1.22        | 1             |
+| 🔴 Kháng cự    |    20.1   | 0.69        | 1             |
+| 🔴 Kháng cự    |    19.7   | 2.61        | 2             |
+| 🔴 Kháng cự    |    19.4   | 1.22        | 1             |
 | ▶ Giá hiện tại |    18.55  | —           | —             |
-| 🟢 Hỗ trợ       |    18.35  | 2.75        | 2             |
-| 🟢 Hỗ trợ       |    17.55  | 1.28        | 1             |
-| 🟢 Hỗ trợ       |    16.435 | 2.24        | 2             |
+| 🟢 Hỗ trợ      |    18.35  | 2.75        | 2             |
+| 🟢 Hỗ trợ      |    17.55  | 1.28        | 1             |
+| 🟢 Hỗ trợ      |    16.435 | 2.23        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HDC |
-| year | 2018 |
-| quarter | 1 |
-| ratio_ttm_id | 2699224 |
-| ratio_type | RATIO_TTM |
-| organ_code | HDC |
-| year_report | 2018 |
-| number_of_shares_mkt_cap | 49954487 |
-| market_cap | 699362818000.0 |
-| dividend_yield | 0.0 |
-| pe | 7.3507650527 |
-| pb | 0.8836587182 |
-| ps | 1.1901980614 |
-| price_to_cash_flow | 7.0755613102 |
-| ev_to_ebitda | 11.5515470804 |
-| cash_ratio | 0.3498374495 |
-| quick_ratio | 1.3635554519 |
-| current_ratio | 4.2991197638 |
-| owners_equity | 0.5161817543 |
-| debt_per_equity | 0.7071288007 |
-| debt_to_equity | 0.9332511568 |
-| roe | 0.1355170013 |
-| roa | 0.0623967826 |
-| day_sale_outstanding | 95.9484966359 |
-| days_inventory_outstanding | 775.2340008318 |
-| days_payable_outstanding | 27.8296511748 |
-| gross_margin | 0.2166683688 |
-| ebit_margin | 0.1539539264 |
-| pre_tax_profit_margin | 0.1943080719 |
-| after_tax_profit_margin | 0.1612370695 |
-| asset_turnover | 0.3901017633 |
-| net_interest_margin | 0.0 |
-| average_yield_on_earning_assets | 0.0 |
-| average_cost_of_financing | 0.0 |
-| non_and_interest_income | 0.0 |
-| cost_to_income | 0.0 |
-| loans_growth | 0.0 |
-| deposit_growth | 0.0 |
-| equity_to_liabilities | 0.0 |
-| equity_to_loans | 0.0 |
-| total_equity_total_asset | 0.0 |
-| ldr_loan_deposit_ratio | 0.0 |
-| npl | 0.0 |
-| loans_loss_reserves_to_np_ls | 0.0 |
-| loans_loss_reserve_to_loans | 0.0 |
-| provision_to_outstanding_loans | 0.0 |
-| ebit | 90463642392.0 |
-| ebitda | 96521978995.0 |
-| roic | 0.0724614265 |
-| cash_cycle | 1001.1333187798 |
-| fixed_asset_turnover | 12.9744408198 |
-| financial_leverage | 0.9332511568 |
-| cir | 0.0 |
-| car | None |
-| equity | None |
-| casa_ratio | None |
-| nob66 | None |
-| nob69 | None |
-| nob70 | None |
-| bsb113 | 0.0 |
-| ratio_year_id | nan |
+| pe | 5.09 |
+| pb | 1.25 |
+| roe | 24.63 |
+| roe_pct_rank | 78 |
+| roa | 11.66 |
+| roa_pct_rank | 74 |
+| eps | 3692 |
+| bvps | 14996 |
+| beta | 0.91 |
+| dividend | 0 |
+| yield | 0 |
+| pe_pct_rank | 32 |
+| pb_pct_rank | 52 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -169,48 +102,26 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| news_title                                                                                                      | public_date         | news_source_link   |
-|:----------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------|
-| HDC: Quyết định của HĐQT về việc thực hiện giao dịch với tổ chức liên quan                                      | 2026-05-06T17:57:29 |                    |
-| HDC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                          | 2026-04-28T10:21:17 |                    |
-| HDC: Quy chế nội bộ về quản trị công ty                                                                         | 2026-04-28T10:20:46 |                    |
-| HDC: Tài liệu họp ĐHĐCĐ thường niên 2026                                                                        | 2026-04-28T10:20:06 |                    |
-| HDC: Thông báo thay đổi nhân sự                                                                                 | 2026-04-28T10:19:13 |                    |
-| HDC: CBTT bầu Chủ tịch, phó Chủ tịch HĐQT và Trưởng BKS                                                         | 2026-04-28T10:18:00 |                    |
-| HDC: Điều lệ tổ chức và hoạt động                                                                               | 2026-04-28T09:46:45 |                    |
-| Hodeco (HDC) lãi đột biến quý I/2026 nhờ thị trường bất động sản tại TP.HCM sôi động trở lại                    | 2026-04-23T06:41:00 |                    |
-| HDC: Giải trình doanh thu và lợi nhuận quý 1/2026 so với cùng kỳ năm trước                                      | 2026-04-22T16:57:36 |                    |
-| HDC: Thông báo nhận được công văn của Sở Xây dựng TP.HCM xác nhận đủ điều kiện kinh doanh tại Chung cư NOXH CC1 | 2026-04-22T16:08:53 |                    |
+| title                                                                      | publishtime         | url                                                                                                |
+|:---------------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------------|
+| HDC: Thông báo giao dịch cổ phiếu của Người nội bộ Đoàn Hữu Thuận          | 2026-05-08T15:48:03 | /2026/05/hdc-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-doan-huu-thuan-830-1440058.htm          |
+| HDC: Quyết định của HĐQT về việc thực hiện giao dịch với tổ chức liên quan | 2026-05-06T18:02:35 | /2026/05/hdc-quyet-dinh-cua-hdqt-ve-viec-thuc-hien-giao-dich-voi-to-chuc-lien-quan-830-1438938.htm |
+| HDC: Thông báo thay đổi nhân sự                                            | 2026-04-28T10:22:14 | /2026/04/hdc-thong-bao-thay-doi-nhan-su-214-1434367.htm                                            |
+| HDC: Tài liệu họp ĐHĐCĐ thường niên 2026                                   | 2026-04-28T10:22:13 | /2026/04/hdc-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1434368.htm                                   |
+| HDC: Quy chế nội bộ về quản trị công ty                                    | 2026-04-28T10:22:12 | /2026/04/hdc-quy-che-noi-bo-ve-quan-tri-cong-ty-143-1434369.htm                                    |
+| HDC: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                     | 2026-04-28T10:21:17 | /2026/04/hdc-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434384.htm                     |
+| HDC: CBTT bầu Chủ tịch, phó Chủ tịch HĐQT và Trưởng BKS                    | 2026-04-28T10:18:49 | /2026/04/hdc-cbtt-bau-chu-tich-pho-chu-tich-hdqt-va-truong-bks-214-1434361.htm                     |
+| HDC: Điều lệ tổ chức và hoạt động                                          | 2026-04-28T09:46:45 | /2026/04/hdc-dieu-le-to-chuc-va-hoat-dong-737-1434331.htm                                          |
+| Lợi nhuận ròng quý 1 HDC tăng 322%, mở bán 340 căn NOXH                    | 2026-04-27T10:16:00 | /2026/04/loi-nhuan-rong-quy-1-hdc-tang-322-mo-ban-340-can-noxh-737-1434041.htm                     |
+| HDC: Giải trình doanh thu và lợi nhuận quý 1/2026 so với cùng kỳ năm trước | 2026-04-22T16:57:36 | /2026/04/hdc-giai-trinh-doanh-thu-va-loi-nhuan-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1432187.htm |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
-| public_date         | record_date         | exright_date        |
-|:--------------------|:--------------------|:--------------------|
-| 2026-04-28T00:00:00 | nan                 | nan                 |
-| 2026-03-30T00:00:00 | nan                 | nan                 |
-| 2026-03-30T00:00:00 | nan                 | nan                 |
-| 2026-03-30T00:00:00 | nan                 | nan                 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-03-13T00:00:00 | nan                 | nan                 |
-| 2026-03-06T00:00:00 | nan                 | nan                 |
-| 2026-03-06T00:00:00 | nan                 | nan                 |
-| 2026-03-06T00:00:00 | nan                 | nan                 |
-| 2026-02-23T00:00:00 | 2026-03-18T00:00:00 | 2026-03-17T00:00:00 |
-| 2025-12-04T00:00:00 | nan                 | nan                 |
-| 2025-11-05T00:00:00 | 2025-11-12T00:00:00 | 2025-11-11T00:00:00 |
+_Không có dữ liệu_
 
 ## RS vs Ngành
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.70% |
-| % Cổ phiếu hôm nay | -1.33% |
-| RS (CP − Ngành) | -2.03% |
-| Nhận xét | CP **yếu hơn** ngành |
+> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
 
 ## Lịch sử giá (90 phiên gần nhất)
 
