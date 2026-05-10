@@ -1,6 +1,6 @@
 # VNM — CTCP Sữa Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 10/05/2026 16:44  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 17554 |
 | pe | 12.51 |
 | pb | 3.50 |
-| price_chg_1m | -1.46 |
+| price_chg_1m | -3.03 |
 | price_chg_ytd | 14.31 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.76% |
+| % Cổ phiếu hôm nay | -0.98% |
+| RS (CP − Ngành) | -0.22% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

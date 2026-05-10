@@ -1,6 +1,6 @@
 # PNJ — CTCP Vàng bạc Đá quý Phú Nhuận
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 09/05/2026 13:36  |  🗂 Quarterly: 03/05/2026 14:15
+> 📅 Daily: 10/05/2026 15:44  |  🗂 Quarterly: 03/05/2026 14:15
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 42214 |
 | pe | 6.47 |
 | pb | 1.64 |
-| price_chg_1m | -4.37 |
+| price_chg_1m | -3.49 |
 | price_chg_ytd | 41.32 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.13% |
+| % Cổ phiếu hôm nay | +1.45% |
+| RS (CP − Ngành) | +2.58% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

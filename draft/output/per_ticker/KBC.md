@@ -1,6 +1,6 @@
 # KBC — Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:33  |  🗂 Quarterly: 03/05/2026 14:10
+> 📅 Daily: 10/05/2026 15:40  |  🗂 Quarterly: 03/05/2026 14:10
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 28628 |
 | pe | 19.36 |
 | pb | 1.21 |
-| price_chg_1m | -0.88 |
+| price_chg_1m | -1.03 |
 | price_chg_ytd | 38.84 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -2.61% |
+| RS (CP − Ngành) | -3.31% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

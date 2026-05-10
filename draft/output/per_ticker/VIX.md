@@ -1,6 +1,6 @@
 # VIX — CTCP Chứng khoán VIX
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 10/05/2026 16:43  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14099.98 |
 | pe | 5.17 |
 | pb | 1.26 |
-| price_chg_1m | 3.33 |
+| price_chg_1m | 3.05 |
 | price_chg_ytd | 86.24 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -83,7 +83,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 32 |
-| pb_pct_rank | 53 |
+| pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | +5.08% |
+| RS (CP − Ngành) | +5.34% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

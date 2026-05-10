@@ -1,6 +1,6 @@
 # OCB — Ngân hàng TMCP Phương Đông
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:13
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:13
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 13105.53 |
 | pe | 6.75 |
 | pb | 0.86 |
-| price_chg_1m | -1.32 |
+| price_chg_1m | -3.02 |
 | price_chg_ytd | 21.35 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -75,7 +75,7 @@
 | roe | 12.28 |
 | roe_pct_rank | 52 |
 | roa | 1.33 |
-| roa_pct_rank | 37 |
+| roa_pct_rank | 33 |
 | eps | 1667 |
 | bvps | 13105.53 |
 | beta | 0.67 |
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | -0.77% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # STB — Ngân hàng TMCP Sài Gòn Thương Tín
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:38  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 10/05/2026 15:49  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 32609.85 |
 | pe | 30.03 |
 | pb | 2.26 |
-| price_chg_1m | 10.86 |
+| price_chg_1m | 9.87 |
 | price_chg_ytd | 84.91 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -73,7 +73,7 @@
 | roe | 10.34 |
 | roe_pct_rank | 48 |
 | roa | 0.71 |
-| roa_pct_rank | 30 |
+| roa_pct_rank | 35 |
 | eps | 2454 |
 | bvps | 32609.85 |
 | beta | 0.64 |
@@ -118,7 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | -0.27% |
+| RS (CP − Ngành) | -1.04% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

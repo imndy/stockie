@@ -1,6 +1,6 @@
 # MSB — Ngân hàng TMCP Hàng hải Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 10/05/2026 15:41  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14095.48 |
 | pe | 6.31 |
 | pb | 0.92 |
-| price_chg_1m | 11.57 |
+| price_chg_1m | 5.88 |
 | price_chg_ytd | 43.36 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -73,7 +73,7 @@
 | roe | 14.2 |
 | roe_pct_rank | 56 |
 | roa | 1.55 |
-| roa_pct_rank | 38 |
+| roa_pct_rank | 34 |
 | eps | 2061 |
 | bvps | 14095.48 |
 | beta | 0.74 |
@@ -118,7 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +3.85% |
+| RS (CP − Ngành) | +3.08% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

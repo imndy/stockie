@@ -1,6 +1,6 @@
 # VIC — Tập đoàn VINGROUP - CTCP
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:39  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 10/05/2026 16:43  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 19875 |
 | pe | 122.83 |
 | pb | 11.27 |
-| price_chg_1m | 51.47 |
+| price_chg_1m | 48.98 |
 | price_chg_ytd | 490.85 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -97,6 +97,7 @@
 
 | title                                                                                             | publishtime             | url                                                                                                                    |
 |:--------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Lãnh đạo VCBF lý giải việc bán hết VIC nhưng vẫn giữ FPT                                          | 2026-05-10T16:02:00     | /2026/05/lanh-dao-vcbf-ly-giai-viec-ban-het-vic-nhung-van-giu-fpt-3358-1440511.htm                                     |
 | Lãi suất tối đa 6%/năm, nhà đầu tư Vincom Collection Bazaar an tâm trước mọi “cơn bão” thị trường | 2026-05-05T10:54:42.783 | /2026/05/lai-suat-toi-da-6nam-nha-dau-tu-vincom-collection-bazaar-an-tam-truoc-moi-con-bao-thi-truong-4222-1437644.htm |
 | Nhịp đập Thị trường 29/04: Thị trường phân hóa, cổ phiếu VIC và VHM gây áp lực lên chỉ số         | 2026-04-29T16:27:00     | /2026/04/nhip-dap-thi-truong-2904-thi-truong-phan-hoa-co-phieu-vic-va-vhm-gay-ap-luc-len-chi-so-1636-1435267.htm       |
 | Vingroup: Lợi nhuận sau thuế quý 1 hơn 5,600 tỷ đồng                                              | 2026-04-28T15:22:38.337 | /2026/04/vingroup-loi-nhuan-sau-thue-quy-1-hon-5600-ty-dong-737-1434578.htm                                            |
@@ -106,7 +107,6 @@
 | VIC đóng góp hơn 41 điểm cho VN-Index                                                             | 2026-04-26T20:30:00     | /2026/04/vic-dong-gop-hon-41-diem-cho-vn-index-830-1434068.htm                                                         |
 | SACOMBANK và Vingroup ký kết hợp tác chiến lược toàn diện                                         | 2026-04-24T18:15:33.007 | /2026/04/sacombank-va-vingroup-ky-ket-hop-tac-chien-luoc-toan-dien-757-1433603.htm                                     |
 | VIC: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và Thông báo thay đổi nhân sự            | 2026-04-24T09:29:03     | /2026/04/vic-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-thong-bao-thay-doi-nhan-su-737-1433112.htm          |
-| Nhịp đập Thị trường 23/04: Nhóm ngân hàng và VIC duy trì lực đỡ cho VN-Index                      | 2026-04-23T14:02:00     | /2026/04/nhip-dap-thi-truong-2304-nhom-ngan-hang-va-vic-duy-tri-luc-do-cho-vn-index-1636-1432431.htm                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -114,7 +114,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +0.89% |
+| RS (CP − Ngành) | +0.19% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

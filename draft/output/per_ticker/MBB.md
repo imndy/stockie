@@ -1,6 +1,6 @@
 # MBB — Ngân hàng TMCP Quân đội
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 10/05/2026 15:40  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 18590.36 |
 | pe | 6.78 |
 | pb | 1.40 |
-| price_chg_1m | -1.32 |
+| price_chg_1m | -2.06 |
 | price_chg_ytd | 48.37 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -76,14 +76,14 @@
 | roe | 21.14 |
 | roe_pct_rank | 71 |
 | roa | 1.95 |
-| roa_pct_rank | 36 |
+| roa_pct_rank | 39 |
 | eps | 3848 |
 | bvps | 18590.36 |
 | beta | 0.77 |
 | dividend | 300 |
 | yield | 0.011472275334608031 |
 | pe_pct_rank | 36 |
-| pb_pct_rank | 57 |
+| pb_pct_rank | 56 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +0.19% |
+| RS (CP − Ngành) | -0.58% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # POW — Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 09/05/2026 13:36  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 10/05/2026 15:45  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
@@ -74,7 +74,7 @@
 | pe | 11.51 |
 | pb | 1.07 |
 | roe | 7.98 |
-| roe_pct_rank | 42 |
+| roe_pct_rank | 43 |
 | roa | 2.78 |
 | roa_pct_rank | 42 |
 | eps | 1247 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -2.44% |
+| RS (CP − Ngành) | -1.16% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

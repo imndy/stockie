@@ -1,6 +1,6 @@
 # PHR — CTCP Cao su Phước Hòa
 **Sàn:** HOSE  |  **Ngành:** SX Nhựa - Hóa chất
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:15
+> 📅 Daily: 10/05/2026 15:44  |  🗂 Quarterly: 03/05/2026 14:15
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 33364 |
 | pe | 12.59 |
 | pb | 1.94 |
-| price_chg_1m | 0.63 |
+| price_chg_1m | 1.91 |
 | price_chg_ytd | 41.25 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | SX Nhựa - Hóa chất |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -1.24% |
+| RS (CP − Ngành) | -0.45% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

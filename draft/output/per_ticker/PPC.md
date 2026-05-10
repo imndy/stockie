@@ -1,6 +1,6 @@
 # PPC — CTCP Nhiệt điện Phả Lại
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 09/05/2026 13:36  |  🗂 Quarterly: 03/05/2026 14:16
+> 📅 Daily: 10/05/2026 15:45  |  🗂 Quarterly: 03/05/2026 14:16
 
 ---
 
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -0.30% |
+| RS (CP − Ngành) | +0.98% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

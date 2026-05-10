@@ -1,6 +1,6 @@
 # HHV — CTCP Đầu tư Hạ tầng Giao thông Đèo Cả
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 10/05/2026 15:21  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 25907 |
 | pe | 9.71 |
 | pb | 0.48 |
-| price_chg_1m | -4.26 |
+| price_chg_1m | -3.14 |
 | price_chg_ytd | 10.51 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Xây dựng |
+| % Ngành hôm nay | -0.62% |
+| % Cổ phiếu hôm nay | -1.59% |
+| RS (CP − Ngành) | -0.97% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

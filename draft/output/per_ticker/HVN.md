@@ -1,6 +1,6 @@
 # HVN — Tổng Công ty Hàng không Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 09/05/2026 13:41  |  🗂 Quarterly: 03/05/2026 14:27
+> 📅 Daily: 10/05/2026 16:45  |  🗂 Quarterly: 03/05/2026 14:27
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 3610 |
 | pe | 7.25 |
 | pb | 6.29 |
-| price_chg_1m | -0.45 |
+| price_chg_1m | -1.11 |
 | price_chg_ytd | -18.39 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -1.58% |
+| % Cổ phiếu hôm nay | -1.98% |
+| RS (CP − Ngành) | -0.40% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

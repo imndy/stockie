@@ -1,6 +1,6 @@
 # NT2 — CTCP Điện lực Dầu khí Nhơn Trạch 2
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:13
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:13
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 17505 |
 | pe | 6.13 |
 | pb | 1.39 |
-| price_chg_1m | -10.51 |
+| price_chg_1m | -12.21 |
 | price_chg_ytd | 27.09 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -118,7 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -5.54% |
+| RS (CP − Ngành) | -4.26% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

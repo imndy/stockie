@@ -1,13 +1,36 @@
 # IMP — CTCP Dược phẩm Imexpharm
 **Sàn:** HOSE  |  **Ngành:** Chăm sóc sức khỏe
-> 📅 Daily: 09/05/2026 13:33  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 10/05/2026 15:40  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | IMP |
+| exchange | HOSE |
+| market_cap | 7407831072200 |
+| 52w_high | 56700 |
+| 52w_high_date | 2026-03-11 |
+| 52w_low | 46100 |
+| 52w_low_date | 2025-11-21 |
+| foreign_ownership | 72.7488 |
+| dividend | 500 |
+| beta | 0.08 |
+| eps | 2316 |
+| eps_forward | 14.60642437186238 |
+| bvps | 15444 |
+| pe | 20.55 |
+| pb | 3.08 |
+| price_chg_1m | -13.33 |
+| price_chg_ytd | -1.49 |
+| price_chg_1m_rank | 9.39 |
+| price_chg_ytd_rank | 50.84 |
+| yield | 0.010395010395010396 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -43,7 +66,24 @@ _Không có dữ liệu_
 
 ## Tóm tắt chỉ số tài chính
 
-_Không có dữ liệu_
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| symbol | IMP |
+| pe | 20.55 |
+| pb | 3.08 |
+| roe | 15.55 |
+| roe_pct_rank | 59 |
+| roa | 13.21 |
+| roa_pct_rank | 79 |
+| eps | 2316 |
+| bvps | 15444 |
+| beta | 0.08 |
+| dividend | 500 |
+| yield | 0.010395010395010396 |
+| pe_pct_rank | 66 |
+| pb_pct_rank | 100 |
+| financial_date | 12/2025 |
+| source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -60,7 +100,18 @@ _Không có dữ liệu_
 
 ## Tin tức gần nhất (Top 10)
 
-_Không có dữ liệu_
+| title                                                                                                                     | publishtime         | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| IMP: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 35                                                             | 2026-05-07T18:01:01 | /2026/05/imp-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-35-737-1439719.htm                                     |
+| Imexpharm báo lãi tăng 10%, khởi đầu tích cực                                                                             | 2026-05-06T17:30:00 | /2026/05/imexpharm-bao-lai-tang-10-khoi-dau-tich-cuc-737-1438699.htm                                                      |
+| IMP: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư KBA, SK Investm… | 2026-04-29T15:26:33 | /2026/04/imp-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-kba-sk-… |
+| IMP: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư Bình Minh Kim    | 2026-04-29T15:25:03 | /2026/04/imp-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-binh-mi… |
+| IMP: Báo cáo kết quả đợt chào mua công khai cổ phiếu IMP của Lian SGP Holding Pte. Ltd.                                   | 2026-04-28T18:07:21 | /2026/04/imp-bao-cao-ket-qua-dot-chao-mua-cong-khai-co-phieu-imp-cua-lian-sgp-holding-pte-ltd-739-1435074.htm             |
+| IMP: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                                | 2026-04-23T17:49:52 | /2026/04/imp-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432875.htm                                        |
+| IMP: Điều lệ công ty sửa đổi ban hành tháng 04/2026                                                                       | 2026-04-23T17:49:51 | /2026/04/imp-dieu-le-cong-ty-sua-doi-ban-hanh-thang-04-2026-737-1432876.htm                                               |
+| IMP: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                              | 2026-04-20T16:57:55 | /2026/04/imp-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430621.htm                      |
+| IMP: BCTC quý 1 năm 2026                                                                                                  | 2026-04-20T00:00:00 | /2026/04/imp-bctc-quy-1-nam-2026-737-1430679.htm                                                                          |
+| IMP: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ SK Investment Vina III Pte. Ltd., Công ty Cổ… | 2026-04-15T16:47:29 | /2026/04/imp-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-sk-investment-vina-iii-pte-ltd-cong-… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -68,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chăm sóc sức khỏe |
+| % Ngành hôm nay | -0.12% |
+| % Cổ phiếu hôm nay | +1.05% |
+| RS (CP − Ngành) | +1.17% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # HT1 — CTCP Xi Măng Vicem Hà Tiên
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 09/05/2026 13:32  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 10/05/2026 15:21  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 13540 |
 | pe | 15.55 |
 | pb | 1.09 |
-| price_chg_1m | -7.40 |
+| price_chg_1m | -6.19 |
 | price_chg_ytd | 31.04 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -114,7 +114,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.12% |
+| % Cổ phiếu hôm nay | -2.04% |
+| RS (CP − Ngành) | -2.16% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

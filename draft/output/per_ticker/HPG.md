@@ -1,6 +1,6 @@
 # HPG — CTCP Tập đoàn Hòa Phát
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:08
+> 📅 Daily: 10/05/2026 15:21  |  🗂 Quarterly: 03/05/2026 14:08
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 18212 |
 | pe | 9.61 |
 | pb | 1.52 |
-| price_chg_1m | -1.42 |
+| price_chg_1m | -0.54 |
 | price_chg_ytd | 30.39 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.12% |
+| % Cổ phiếu hôm nay | +0.36% |
+| RS (CP − Ngành) | +0.24% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

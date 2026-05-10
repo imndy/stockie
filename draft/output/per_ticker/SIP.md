@@ -1,6 +1,6 @@
 # SIP — CTCP Đầu tư Sài Gòn VRG
 **Sàn:** HOSE  |  **Ngành:** Tiện ích
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 10/05/2026 15:47  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 25506 |
 | pe | 10.00 |
 | pb | 2.31 |
-| price_chg_1m | -4.56 |
+| price_chg_1m | -3.62 |
 | price_chg_ytd | 2.84 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -102,18 +102,18 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                              | publishtime         | url                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SIP: Thông báo ngày ĐKCC chi trả cổ tức đợt 2 năm 2025 bằng tiền                                   | 2026-05-08T10:36:57 | /2026/05/sip-thong-bao-ngay-dkcc-chi-tra-co-tuc-dot-2-nam-2025-bang-tien-738-1439882.htm                                  |
-| SIP: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                 | 2026-05-04T11:12:43 | /2026/05/sip-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1436959.htm                                |
-| Lợi nhuận SIP đi lùi do chi phí leo thang, vẫn giữ “của để dành” gần 14 ngàn tỷ                    | 2026-05-03T14:52:00 | /2026/05/loi-nhuan-sip-di-lui-do-chi-phi-leo-thang-van-giu-cua-de-danh-gan-14-ngan-ty-737-1436371.htm                     |
-| SIP: BCTC Hợp nhất quý 1 năm 2026                                                                  | 2026-04-30T00:00:00 | /2026/04/sip-bctc-hop-nhat-quy-1-nam-2026-737-1436907.htm                                                                 |
-| SIP: BCTC quý 1 năm 2026                                                                           | 2026-04-30T00:00:00 | /2026/04/sip-bctc-quy-1-nam-2026-737-1436908.htm                                                                          |
-| SIP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện nhận cổ tức đợt 23 năm 2025 bằng tiền mặt | 2026-04-29T17:41:55 | /2026/04/sip-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-nhan-co-tuc-dot-23-nam-2025-bang-tien-mat-737-1435915.h… |
-| SIP: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                          | 2026-04-23T10:19:05 | /2026/04/sip-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1432452.htm                          |
-| SIP: Thông báo thay đổi nhân sự                                                                    | 2026-04-23T10:19:04 | /2026/04/sip-thong-bao-thay-doi-nhan-su-214-1432453.htm                                                                   |
-| ĐHĐCĐ SIP: Đồng Nai lên Thành phố mang lại cơ hội lẫn thách thức                                   | 2026-04-21T17:38:00 | /2026/04/dhdcd-sip-dong-nai-len-thanh-pho-mang-lai-co-hoi-lan-thach-thuc-737-1431216.htm                                  |
-| SIP: Báo cáo thường niên năm 2025                                                                  | 2026-04-20T15:56:31 | /2026/04/sip-bao-cao-thuong-nien-nam-2025-737-1430469.htm                                                                 |
+| title                                                                                              | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SIP sắp chi gần ngàn tỷ chia cổ tức đợt 2/2025                                                     | 2026-05-09T09:14:46.483 | /2026/05/sip-sap-chi-gan-ngan-ty-chia-co-tuc-dot-22025-738-1440115.htm                                                    |
+| SIP: Thông báo ngày ĐKCC chi trả cổ tức đợt 2 năm 2025 bằng tiền                                   | 2026-05-08T10:36:57     | /2026/05/sip-thong-bao-ngay-dkcc-chi-tra-co-tuc-dot-2-nam-2025-bang-tien-738-1439882.htm                                  |
+| SIP: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                 | 2026-05-04T11:12:43     | /2026/05/sip-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1436959.htm                                |
+| Lợi nhuận SIP đi lùi do chi phí leo thang, vẫn giữ “của để dành” gần 14 ngàn tỷ                    | 2026-05-03T14:52:00     | /2026/05/loi-nhuan-sip-di-lui-do-chi-phi-leo-thang-van-giu-cua-de-danh-gan-14-ngan-ty-737-1436371.htm                     |
+| SIP: BCTC Hợp nhất quý 1 năm 2026                                                                  | 2026-04-30T00:00:00     | /2026/04/sip-bctc-hop-nhat-quy-1-nam-2026-737-1436907.htm                                                                 |
+| SIP: BCTC quý 1 năm 2026                                                                           | 2026-04-30T00:00:00     | /2026/04/sip-bctc-quy-1-nam-2026-737-1436908.htm                                                                          |
+| SIP: Thông báo và Nghị quyết HĐQT về ngày ĐKCC thực hiện nhận cổ tức đợt 23 năm 2025 bằng tiền mặt | 2026-04-29T17:41:55     | /2026/04/sip-thong-bao-va-nghi-quyet-hdqt-ve-ngay-dkcc-thuc-hien-nhan-co-tuc-dot-23-nam-2025-bang-tien-mat-737-1435915.h… |
+| SIP: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                          | 2026-04-23T10:19:05     | /2026/04/sip-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1432452.htm                          |
+| SIP: Thông báo thay đổi nhân sự                                                                    | 2026-04-23T10:19:04     | /2026/04/sip-thong-bao-thay-doi-nhan-su-214-1432453.htm                                                                   |
+| ĐHĐCĐ SIP: Đồng Nai lên Thành phố mang lại cơ hội lẫn thách thức                                   | 2026-04-21T17:38:00     | /2026/04/dhdcd-sip-dong-nai-len-thanh-pho-mang-lai-co-hoi-lan-thach-thuc-737-1431216.htm                                  |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Tiện ích |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -0.68% |
+| RS (CP − Ngành) | +0.60% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

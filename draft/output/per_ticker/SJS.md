@@ -1,6 +1,6 @@
 # SJS — CTCP SJ Group
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 10/05/2026 15:48  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 12157 |
 | pe | 32.05 |
 | pb | 4.72 |
-| price_chg_1m | 7.59 |
+| price_chg_1m | 5.19 |
 | price_chg_ytd | 61.10 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -75,7 +75,7 @@
 | roe | 8.91 |
 | roe_pct_rank | 45 |
 | roa | 3.38 |
-| roa_pct_rank | 44 |
+| roa_pct_rank | 43 |
 | eps | 1791 |
 | bvps | 12157 |
 | beta | 0.55 |
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -1.22% |
+| RS (CP − Ngành) | -1.92% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

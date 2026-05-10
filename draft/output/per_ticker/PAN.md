@@ -1,6 +1,6 @@
 # PAN — CTCP Tập đoàn PAN
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -76,7 +76,7 @@
 | roe | 13.07 |
 | roe_pct_rank | 54 |
 | roa | 3.4 |
-| roa_pct_rank | 43 |
+| roa_pct_rank | 44 |
 | eps | 5509 |
 | bvps | 46118 |
 | beta | 0.41 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.76% |
+| % Cổ phiếu hôm nay | -0.30% |
+| RS (CP − Ngành) | +0.46% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

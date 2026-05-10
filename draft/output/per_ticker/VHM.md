@@ -1,36 +1,13 @@
 # VHM — CTCP Vinhomes
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:39  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 10/05/2026 16:43  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHM |
-| exchange | HOSE |
-| market_cap | 673615568656000 |
-| 52w_high | 164000 |
-| 52w_high_date | 2026-05-08 |
-| 52w_low | 58000 |
-| 52w_low_date | 2025-05-15 |
-| foreign_ownership | 7.9727 |
-| dividend | 0 |
-| beta | 1.89 |
-| eps | 15585 |
-| eps_forward | 11.05578275626483 |
-| bvps | 66427 |
-| pe | 10.36 |
-| pb | 2.43 |
-| price_chg_1m | 34.43 |
-| price_chg_ytd | 163.67 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
-| yield | 0 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -65,24 +42,7 @@
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | VHM |
-| pe | 10.36 |
-| pb | 2.43 |
-| roe | 17.97 |
-| roe_pct_rank | 64 |
-| roa | 6.09 |
-| roa_pct_rank | 54 |
-| eps | 15585 |
-| bvps | 66427 |
-| beta | 1.89 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 45 |
-| pb_pct_rank | 85 |
-| financial_date | 12/2025 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -99,18 +59,7 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                          | publishtime             | url                                                                                                                    |
-|:-----------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| VHM: HĐQT phê duyệt việc chào bán và phát hành trái phiếu doanh nghiệp theo hình thức riêng lẻ | 2026-05-08T15:56:49     | /2026/05/vhm-hdqt-phe-duyet-viec-chao-ban-va-phat-hanh-trai-phieu-doanh-nghiep-theo-hinh-thuc-rieng-le-739-1440075.htm |
-| VHM: Thông báo thay đổi giấy chứng nhận đăng ký DN lần thứ 40                                  | 2026-05-05T10:25:22     | /2026/05/vhm-thong-bao-thay-doi-giay-chung-nhan-dang-ky-dn-lan-thu-40-830-1437723.htm                                  |
-| Nhịp đập Thị trường 29/04: Thị trường phân hóa, cổ phiếu VIC và VHM gây áp lực lên chỉ số      | 2026-04-29T16:27:00     | /2026/04/nhip-dap-thi-truong-2904-thi-truong-phan-hoa-co-phieu-vic-va-vhm-gay-ap-luc-len-chi-so-1636-1435267.htm       |
-| VHM: BCTC Hợp nhất quý 1 năm 2026                                                              | 2026-04-28T00:00:00     | /2026/04/vhm-bctc-hop-nhat-quy-1-nam-2026-737-1435203.htm                                                              |
-| VHM: BCTC quý 1 năm 2026                                                                       | 2026-04-28T00:00:00     | /2026/04/vhm-bctc-quy-1-nam-2026-737-1435204.htm                                                                       |
-| VHM: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                     | 2026-04-23T09:00:26     | /2026/04/vhm-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432377.htm                                     |
-| Vingroup muốn lãi 35 ngàn tỷ, gấp 3 lần năm ngoái                                              | 2026-04-21T16:54:24.793 | /2026/04/vingroup-muon-lai-35-ngan-ty-gap-3-lan-nam-ngoai-737-1431325.htm                                              |
-| Vinhomes nâng lợi nhuận mục tiêu thêm 10,000 tỷ                                                | 2026-04-20T18:34:31.58  | /2026/04/vinhomes-nang-loi-nhuan-muc-tieu-them-10000-ty-737-1430614.htm                                                |
-| VHM: CBTT điều chỉnh tài liệu họp ĐHĐCĐ thường niên 2026                                       | 2026-04-20T10:03:57     | /2026/04/vhm-cbtt-dieu-chinh-tai-lieu-hop-dhdcd-thuong-nien-2026-737-1429995.htm                                       |
-| Thông điệp 2026 từ lãnh đạo “ông lớn” bất động sản: Tăng tốc hay phòng thủ?                    | 2026-04-16T09:02:00     | /2026/04/thong-diep-2026-tu-lanh-dao-ong-lon-bat-dong-san-tang-toc-hay-phong-thu-737-1428075.htm                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -118,7 +67,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +1.55% |
+| RS (CP − Ngành) | +0.85% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

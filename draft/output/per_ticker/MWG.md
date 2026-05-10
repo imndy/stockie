@@ -1,6 +1,6 @@
 # MWG — CTCP Đầu tư Thế giới Di động
 **Sàn:** HOSE  |  **Ngành:** Bán lẻ
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 24471 |
 | pe | 15.46 |
 | pb | 3.51 |
-| price_chg_1m | 4.83 |
+| price_chg_1m | 3.80 |
 | price_chg_ytd | 42.08 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán lẻ |
+| % Ngành hôm nay | -1.13% |
+| % Cổ phiếu hôm nay | -1.63% |
+| RS (CP − Ngành) | -0.50% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # VPB — Ngân hàng TMCP Việt Nam Thịnh Vượng
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 10/05/2026 16:44  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 23519.86 |
 | pe | 8.49 |
 | pb | 1.20 |
-| price_chg_1m | 3.14 |
+| price_chg_1m | 2.38 |
 | price_chg_ytd | 68.88 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | -0.71% |
+| RS (CP − Ngành) | -1.48% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

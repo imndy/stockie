@@ -1,6 +1,6 @@
 # PC1 — CTCP Tập Đoàn PC1
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 21612 |
 | pe | 6.58 |
 | pb | 0.88 |
-| price_chg_1m | -32.59 |
+| price_chg_1m | -33.82 |
 | price_chg_ytd | -6.39 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -73,7 +73,7 @@
 | roe | 16.44 |
 | roe_pct_rank | 61 |
 | roa | 4.61 |
-| roa_pct_rank | 48 |
+| roa_pct_rank | 49 |
 | eps | 2895 |
 | bvps | 21612 |
 | beta | 0.77 |
@@ -118,7 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Xây dựng |
+| % Ngành hôm nay | -0.62% |
+| % Cổ phiếu hôm nay | -4.99% |
+| RS (CP − Ngành) | -4.37% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

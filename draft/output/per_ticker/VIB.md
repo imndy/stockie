@@ -1,6 +1,6 @@
 # VIB — Ngân hàng TMCP Quốc tế Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:39  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 10/05/2026 16:43  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14437.13 |
 | pe | 6.87 |
 | pb | 1.12 |
-| price_chg_1m | -1.29 |
+| price_chg_1m | -2.99 |
 | price_chg_ytd | 9.83 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | -0.31% |
+| RS (CP − Ngành) | -1.08% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # VPI — CTCP Phát triển Bất động sản Văn Phú
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:26
+> 📅 Daily: 10/05/2026 16:44  |  🗂 Quarterly: 03/05/2026 14:26
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 17350 |
 | pe | 69.32 |
 | pb | 3.52 |
-| price_chg_1m | 8.08 |
+| price_chg_1m | 8.85 |
 | price_chg_ytd | 18.27 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +0.82% |
+| RS (CP − Ngành) | +0.12% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # NAB — Ngân hàng TMCP Nam Á
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14366.63 |
 | pe | 5.13 |
 | pb | 1.01 |
-| price_chg_1m | 10.41 |
+| price_chg_1m | 9.59 |
 | price_chg_ytd | 8.00 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -115,7 +115,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +2.41% |
+| RS (CP − Ngành) | +1.64% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

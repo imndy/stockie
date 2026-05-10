@@ -1,6 +1,6 @@
 # SHB — Ngân hàng TMCP Sài Gòn - Hà Nội
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 10/05/2026 15:47  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 15613.37 |
 | pe | 5.02 |
 | pb | 0.90 |
-| price_chg_1m | -8.06 |
+| price_chg_1m | -7.47 |
 | price_chg_ytd | 31.34 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -71,6 +71,10 @@
 | symbol | SHB |
 | pe | 5.02 |
 | pb | 0.90 |
+| roe | 19.05 |
+| roe_pct_rank | 66 |
+| roa | 1.46 |
+| roa_pct_rank | 34 |
 | eps | 2809 |
 | bvps | 15613.37 |
 | beta | 0.59 |
@@ -115,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +1.06% |
+| RS (CP − Ngành) | +0.29% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

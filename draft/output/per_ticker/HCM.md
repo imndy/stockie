@@ -1,6 +1,6 @@
 # HCM — CTCP Chứng khoán Thành phố Hồ Chí Minh
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:07
+> 📅 Daily: 10/05/2026 15:20  |  🗂 Quarterly: 03/05/2026 14:07
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 13335.7 |
 | pe | 20.09 |
 | pb | 2.11 |
-| price_chg_1m | 10.91 |
+| price_chg_1m | 10.47 |
 | price_chg_ytd | 40.06 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | -0.89% |
+| RS (CP − Ngành) | -0.63% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

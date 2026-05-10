@@ -1,6 +1,6 @@
 # SSI — CTCP Chứng khoán SSI
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 10/05/2026 15:48  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 15923.98 |
 | pe | 13.02 |
 | pb | 1.78 |
-| price_chg_1m | -1.57 |
+| price_chg_1m | -1.05 |
 | price_chg_ytd | 38.71 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | -0.18% |
+| RS (CP − Ngành) | +0.08% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

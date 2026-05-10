@@ -1,6 +1,6 @@
 # PDR — CTCP Phát triển Bất động sản Phát Đạt
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:35  |  🗂 Quarterly: 03/05/2026 14:14
+> 📅 Daily: 10/05/2026 15:44  |  🗂 Quarterly: 03/05/2026 14:14
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 12584 |
 | pe | 26.46 |
 | pb | 1.32 |
-| price_chg_1m | -2.10 |
+| price_chg_1m | -0.30 |
 | price_chg_ytd | 6.07 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -76,7 +76,7 @@
 | roe | 4.38 |
 | roe_pct_rank | 34 |
 | roa | 2.01 |
-| roa_pct_rank | 36 |
+| roa_pct_rank | 40 |
 | eps | 626 |
 | bvps | 12584 |
 | beta | 0.87 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -1.21% |
+| RS (CP − Ngành) | -1.91% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # NLG — CTCP Đầu tư Nam Long
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:13
+> 📅 Daily: 10/05/2026 15:43  |  🗂 Quarterly: 03/05/2026 14:13
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 30737 |
 | pe | 16.45 |
 | pb | 0.88 |
-| price_chg_1m | -9.86 |
+| price_chg_1m | -9.25 |
 | price_chg_ytd | -7.74 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -1.85% |
+| RS (CP − Ngành) | -2.55% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

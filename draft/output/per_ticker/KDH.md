@@ -1,6 +1,6 @@
 # KDH — CTCP Đầu tư và Kinh doanh Nhà Khang Điền
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:33  |  🗂 Quarterly: 03/05/2026 14:10
+> 📅 Daily: 10/05/2026 15:40  |  🗂 Quarterly: 03/05/2026 14:10
 
 ---
 
@@ -81,7 +81,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 68 |
-| pb_pct_rank | 53 |
+| pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +0.21% |
+| RS (CP − Ngành) | -0.49% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

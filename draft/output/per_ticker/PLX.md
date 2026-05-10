@@ -1,6 +1,6 @@
 # PLX — Tập đoàn Xăng Dầu Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Bán buôn
-> 📅 Daily: 09/05/2026 13:36  |  🗂 Quarterly: 03/05/2026 14:15
+> 📅 Daily: 10/05/2026 15:44  |  🗂 Quarterly: 03/05/2026 14:15
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 22733 |
 | pe | 27.90 |
 | pb | 1.66 |
-| price_chg_1m | -4.81 |
+| price_chg_1m | -8.63 |
 | price_chg_ytd | 10.56 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bán buôn |
+| % Ngành hôm nay | -0.46% |
+| % Cổ phiếu hôm nay | -0.27% |
+| RS (CP − Ngành) | +0.19% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

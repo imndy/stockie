@@ -1,6 +1,6 @@
 # HSG — CTCP Tập đoàn Hoa Sen
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 09/05/2026 13:32  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 10/05/2026 15:21  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 18486 |
 | pe | 14.50 |
 | pb | 0.68 |
-| price_chg_1m | 4.92 |
+| price_chg_1m | 5.95 |
 | price_chg_ytd | 8.79 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -78,7 +78,7 @@
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 54 |
-| pb_pct_rank | 28 |
+| pb_pct_rank | 27 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -116,7 +116,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vật liệu xây dựng |
+| % Ngành hôm nay | +0.12% |
+| % Cổ phiếu hôm nay | -1.19% |
+| RS (CP − Ngành) | -1.31% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

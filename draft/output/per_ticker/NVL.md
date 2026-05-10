@@ -1,6 +1,6 @@
 # NVL — CTCP Tập đoàn Đầu tư Địa ốc No Va 
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:41  |  🗂 Quarterly: 03/05/2026 14:27
+> 📅 Daily: 10/05/2026 16:45  |  🗂 Quarterly: 03/05/2026 14:27
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 26808 |
 | pe | 11.00 |
 | pb | 0.62 |
-| price_chg_1m | 2.99 |
+| price_chg_1m | 2.38 |
 | price_chg_ytd | 39.84 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -74,7 +74,7 @@
 | roe | 3.43 |
 | roe_pct_rank | 32 |
 | roa | 0.7 |
-| roa_pct_rank | 35 |
+| roa_pct_rank | 30 |
 | eps | 1505 |
 | bvps | 26808 |
 | beta | 0.83 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | +3.93% |
+| RS (CP − Ngành) | +3.23% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

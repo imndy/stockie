@@ -1,6 +1,6 @@
 # VPL — CTCP Vinpearl
 **Sàn:** HOSE  |  **Ngành:** Dịch vụ lưu trú, ăn uống, giải trí
-> 📅 Daily: 09/05/2026 13:41  |  🗂 Quarterly: 03/05/2026 14:27
+> 📅 Daily: 10/05/2026 16:45  |  🗂 Quarterly: 03/05/2026 14:27
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 21249 |
 | pe | 64.43 |
 | pb | 4.31 |
-| price_chg_1m | 14.38 |
+| price_chg_1m | 12.96 |
 | price_chg_ytd | 28.33 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -74,7 +74,7 @@
 | roe | 3.32 |
 | roe_pct_rank | 32 |
 | roa | 1.38 |
-| roa_pct_rank | 37 |
+| roa_pct_rank | 33 |
 | eps | 1420 |
 | bvps | 21249 |
 | beta | 1.25 |
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Dịch vụ lưu trú, ăn uống, giải trí |
+| % Ngành hôm nay | +0.37% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | -0.37% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

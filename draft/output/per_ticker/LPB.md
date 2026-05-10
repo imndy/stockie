@@ -1,6 +1,6 @@
 # LPB — Ngân hàng TMCP Lộc Phát Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 09/05/2026 13:34  |  🗂 Quarterly: 03/05/2026 14:11
+> 📅 Daily: 10/05/2026 15:40  |  🗂 Quarterly: 03/05/2026 14:11
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 16560.76 |
 | pe | 13.70 |
 | pb | 3.09 |
-| price_chg_1m | 7.92 |
+| price_chg_1m | 5.07 |
 | price_chg_ytd | 61.18 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -73,7 +73,7 @@
 | roe | 25.23 |
 | roe_pct_rank | 79 |
 | roa | 2.05 |
-| roa_pct_rank | 37 |
+| roa_pct_rank | 40 |
 | eps | 3738 |
 | bvps | 16560.76 |
 | beta | 0.36 |
@@ -118,7 +118,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Ngân hàng |
+| % Ngành hôm nay | +0.77% |
+| % Cổ phiếu hôm nay | +1.17% |
+| RS (CP − Ngành) | +0.40% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

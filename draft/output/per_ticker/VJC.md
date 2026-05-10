@@ -1,6 +1,6 @@
 # VJC — CTCP Hàng không Vietjet
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 10/05/2026 16:43  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 43997 |
 | pe | 41.53 |
 | pb | 4.14 |
-| price_chg_1m | 6.14 |
+| price_chg_1m | 5.51 |
 | price_chg_ytd | 96.87 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -76,7 +76,7 @@
 | roe | 10.12 |
 | roe_pct_rank | 47 |
 | roa | 1.78 |
-| roa_pct_rank | 39 |
+| roa_pct_rank | 35 |
 | eps | 4383 |
 | bvps | 43997 |
 | beta | 0.73 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -1.58% |
+| % Cổ phiếu hôm nay | -3.19% |
+| RS (CP − Ngành) | -1.61% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

@@ -1,6 +1,6 @@
 # SCS — CTCP Dịch vụ Hàng hóa Sài Gòn
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:18
+> 📅 Daily: 10/05/2026 15:47  |  🗂 Quarterly: 03/05/2026 14:18
 
 ---
 
@@ -119,7 +119,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Vận tải - kho bãi |
+| % Ngành hôm nay | -1.58% |
+| % Cổ phiếu hôm nay | -0.19% |
+| RS (CP − Ngành) | +1.39% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

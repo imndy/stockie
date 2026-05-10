@@ -1,36 +1,13 @@
 # SBT — CTCP Thành Thành Công - Biên Hòa
 **Sàn:** HOSE  |  **Ngành:** Thực phẩm - Đồ uống
-> 📅 Daily: 09/05/2026 13:37  |  🗂 Quarterly: 03/05/2026 14:18
+> 📅 Daily: 10/05/2026 15:47  |  🗂 Quarterly: 03/05/2026 14:18
 
 ---
 
 <!-- BEGIN:DAILY -->
 ## Thống kê giao dịch
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SBT |
-| exchange | HOSE |
-| market_cap | 17885168008800 |
-| 52w_high | 25365 |
-| 52w_high_date | 2025-10-13 |
-| 52w_low | 16313 |
-| 52w_low_date | 2025-05-12 |
-| foreign_ownership | 19.7174 |
-| dividend | 0 |
-| beta | 0.28 |
-| eps | 952 |
-| eps_forward | 18.806696659045652 |
-| bvps | 14840 |
-| pe | 21.42 |
-| pb | 1.37 |
-| price_chg_1m | -0.76 |
-| price_chg_ytd | 24.69 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
-| yield | 0 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Chỉ báo kỹ thuật (MA5 / MA10 / EMA20 / EMA50 / RSI14 / MACD / ATR14)
 
@@ -67,20 +44,7 @@
 
 ## Tóm tắt chỉ số tài chính
 
-| Chỉ tiêu | Giá trị |
-| --- | --- |
-| symbol | SBT |
-| pe | 21.42 |
-| pb | 1.37 |
-| eps | 952 |
-| bvps | 14840 |
-| beta | 0.28 |
-| dividend | 0 |
-| yield | 0 |
-| pe_pct_rank | 68 |
-| pb_pct_rank | 56 |
-| financial_date | 12/2024 |
-| source | KBS |
+_Không có dữ liệu_
 
 ## Khối lượng & Tỷ lệ lưu hành
 
@@ -97,18 +61,7 @@
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                     | publishtime         | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| SBT: Thông báo nhận được công văn của UBCKNN về tài liệu báo cáo kết quả phát hành cổ phiếu để trả cổ tức của SBT         | 2026-05-07T16:48:46 | /2026/05/sbt-thong-bao-nhan-duoc-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-phat-hanh-co-phieu-de-tra-co-tuc-cua-sb… |
-| SBT: Báo cáo kết quả giao dịch cổ phiếu của tổ chức có liên quan đến Người nội bộ Công ty Cổ phần Đầu tư Thành Thành Côn… | 2026-05-05T17:09:25 | /2026/05/sbt-bao-cao-ket-qua-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-cong-ty-co-phan-dau-tu-thanh-t… |
-| SBT: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành                                               | 2026-05-04T11:02:56 | /2026/05/sbt-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-dang-luu-hanh-741-1436924.htm                       |
-| SBT: Nghị quyết HĐQT về việc tăng vốn điều lệ và các vấn đề liên quan                                                     | 2026-05-04T11:02:19 | /2026/05/sbt-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-cac-van-de-lien-quan-737-1436923.htm                             |
-| SBT: Nghị quyết HĐQT về việc thông qua kết quả phát hành cổ phiếu để trả cổ tức niên độ 2024-2025                         | 2026-05-04T11:01:35 | /2026/05/sbt-nghi-quyet-hdqt-ve-viec-thong-qua-ket-qua-phat-hanh-co-phieu-de-tra-co-tuc-nien-do-20242025-737-1436922.htm  |
-| SBT: Điều lệ công ty                                                                                                      | 2026-05-04T11:00:37 | /2026/05/sbt-dieu-le-cong-ty-737-1436921.htm                                                                              |
-| SBT: Công văn công bố thông tin bất thường                                                                                | 2026-05-04T11:00:08 | /2026/05/sbt-cong-van-cong-bo-thong-tin-bat-thuong-737-1436920.htm                                                        |
-| SBT: Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức                                                                 | 2026-05-04T10:58:38 | /2026/05/sbt-bao-cao-ket-qua-dot-phat-hanh-co-phieu-de-tra-co-tuc-738-1436918.htm                                         |
-| AgriS (SBT) mở rộng động lực tăng trưởng, các mảng ngoài đường đóng góp tích cực trong Quý 3                              | 2026-04-28T11:32:00 | /2026/04/agris-sbt-mo-rong-dong-luc-tang-truong-cac-mang-ngoai-duong-dong-gop-tich-cuc-trong-quy-3-737-1434363.htm        |
-| SBT: Giải trình biến động KQKD quý 3 NĐTC 2025-2026 so với cùng kỳ năm trước                                              | 2026-04-28T09:49:16 | /2026/04/sbt-giai-trinh-bien-dong-kqkd-quy-3-ndtc-20252026-so-voi-cung-ky-nam-truoc-737-1434322.htm                       |
+_Không có dữ liệu_
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -116,7 +69,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Thực phẩm - Đồ uống |
+| % Ngành hôm nay | -0.76% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | +0.76% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

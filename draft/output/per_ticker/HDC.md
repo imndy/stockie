@@ -1,6 +1,6 @@
 # HDC — CTCP Phát triển Nhà Bà Rịa - Vũng Tàu
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 09/05/2026 13:31  |  🗂 Quarterly: 03/05/2026 14:07
+> 📅 Daily: 10/05/2026 15:20  |  🗂 Quarterly: 03/05/2026 14:07
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14996 |
 | pe | 5.09 |
 | pb | 1.25 |
-| price_chg_1m | -3.39 |
+| price_chg_1m | -2.88 |
 | price_chg_ytd | -9.05 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -121,7 +121,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Bất động sản |
+| % Ngành hôm nay | +0.70% |
+| % Cổ phiếu hôm nay | -1.33% |
+| RS (CP − Ngành) | -2.03% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 

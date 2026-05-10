@@ -1,6 +1,6 @@
 # VND — CTCP Chứng khoán VNDIRECT
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 09/05/2026 13:40  |  🗂 Quarterly: 03/05/2026 14:25
+> 📅 Daily: 10/05/2026 16:44  |  🗂 Quarterly: 03/05/2026 14:25
 
 ---
 
@@ -24,7 +24,7 @@
 | bvps | 14089.37 |
 | pe | 11.60 |
 | pb | 1.18 |
-| price_chg_1m | -2.37 |
+| price_chg_1m | -1.79 |
 | price_chg_ytd | 13.89 |
 | price_chg_1m_rank | 9.39 |
 | price_chg_ytd_rank | 50.84 |
@@ -120,7 +120,13 @@ _Không có dữ liệu_
 
 ## RS vs Ngành
 
-> ℹ️ Không lấy được dữ liệu ngành từ KBS hôm nay.
+| Chỉ tiêu | Giá trị |
+| --- | --- |
+| Ngành (KBS) | Chứng khoán |
+| % Ngành hôm nay | -0.26% |
+| % Cổ phiếu hôm nay | -1.20% |
+| RS (CP − Ngành) | -0.94% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
