@@ -1,6 +1,6 @@
 # BVH — Tập đoàn Bảo Việt
 **Sàn:** HOSE  |  **Ngành:** Bảo hiểm
-> 📅 Daily: 10/05/2026 07:22  |  🗂 Quarterly: 03/05/2026 13:57
+> 📅 Daily: 11/05/2026 20:31  |  🗂 Quarterly: 03/05/2026 13:57
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | BVH |
 | exchange | HOSE |
-| market_cap | 48993302424000 |
+| market_cap | 47285960066800 |
 | 52w_high | 86000 |
 | 52w_high_date | 2026-02-25 |
 | 52w_low | 46175 |
 | 52w_low_date | 2025-10-20 |
-| foreign_ownership | 27.2915 |
+| foreign_ownership | 27.286 |
 | dividend | 1055 |
 | beta | 0.9 |
 | eps | 4184 |
-| eps_forward | 22.053104663640926 |
+| eps_forward | 21.65929922321877 |
 | bvps | 35423.9 |
-| pe | 16.06 |
-| pb | 1.90 |
-| price_chg_1m | -17.29 |
-| price_chg_ytd | 39.67 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
-| yield | 0.015984848484848484 |
+| pe | 15.78 |
+| pb | 1.86 |
+| price_chg_1m | -16.62 |
+| price_chg_ytd | 34.81 |
+| price_chg_1m_rank | 9.03 |
+| price_chg_ytd_rank | 49.57 |
+| yield | 0.016562009419152278 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,51 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 66.0 |
-| MA5 | 68.22 |
-| MA10 | 69.62 |
-| EMA20 | 71.882 |
-| EMA50 | 73.711 |
-| Slope MA20 (5p, %) | -3.38 |
-| ATR(14) | 2.911 |
-| RSI(14) | 28.9 |
+| Giá đóng cửa | 63.7 |
+| MA5 | 66.92 |
+| MA10 | 68.91 |
+| EMA20 | 71.103 |
+| EMA50 | 73.335 |
+| Slope MA20 (5p, %) | -3.91 |
+| ATR(14) | 2.954 |
+| RSI(14) | 25.3 |
 | RSI nhận xét | Quá bán |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -2.753 |
-| MACD Signal | -2.167 |
-| MACD Histogram | -0.585 |
+| MACD | -3.056 |
+| MACD Signal | -2.346 |
+| MACD Histogram | -0.71 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 790430 |
+| KL avg 60 phiên | 781573 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    72     | 0.91        | 1             |
-| 🔴 Kháng cự    |    70.5   | 1.08        | 1             |
-| 🔴 Kháng cự    |    67.004 | 2.23        | 2             |
-| ▶ Giá hiện tại |    66     | —           | —             |
+| 🔴 Kháng cự    |    72     | 0.9         | 1             |
+| 🔴 Kháng cự    |    70.5   | 1.07        | 1             |
+| 🔴 Kháng cự    |    67.004 | 2.21        | 2             |
+| ▶ Giá hiện tại |    63.7   | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | BVH |
-| pe | 16.06 |
-| pb | 1.90 |
+| pe | 15.78 |
+| pb | 1.86 |
 | roe | 12.41 |
 | roe_pct_rank | 52 |
 | roa | 1.09 |
-| roa_pct_rank | 32 |
+| roa_pct_rank | 36 |
 | eps | 4184 |
 | bvps | 35423.9 |
 | beta | 0.9 |
 | dividend | 1055 |
-| yield | 0.015984848484848484 |
+| yield | 0.016562009419152278 |
 | pe_pct_rank | 57 |
-| pb_pct_rank | 70 |
+| pb_pct_rank | 69 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -88,29 +88,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-04 |  485500 | -38.6%     | 0.065%         |
-| 2026-05-05 |  665000 | -15.9%     | 0.090%         |
-| 2026-05-06 |  610700 | -22.7%     | 0.082%         |
-| 2026-05-07 |  945800 | +19.7%     | 0.127%         |
-| 2026-05-08 | 1406600 | +78.0%     | 0.189%         |
+| 2026-05-05 |  665000 | -14.9%     | 0.090%         |
+| 2026-05-06 |  610700 | -21.9%     | 0.082%         |
+| 2026-05-07 |  945800 | +21.0%     | 0.127%         |
+| 2026-05-08 | 1406600 | +80.0%     | 0.189%         |
+| 2026-05-11 | 1412000 | +80.7%     | 0.190%         |
 
-- KL trung bình 60 phiên: **790,430**
+- KL trung bình 60 phiên: **781,573**
 - Số CP lưu hành: **742,322,764**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                           | publishtime            | url                                                                                     |
-|:----------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------|
-| Tập đoàn Bảo Việt chi hàng trăm tỷ gom cổ phiếu công nghệ       | 2026-05-05T17:41:00    | /2026/05/tap-doan-bao-viet-chi-hang-tram-ty-gom-co-phieu-cong-nghe-737-1438020.htm      |
-| BVH: CBTT thời gian tổ chức ĐHĐCĐ thường niên năm 2026          | 2026-04-29T19:00:08    | /2026/04/bvh-cbtt-thoi-gian-to-chuc-dhdcd-thuong-nien-nam-2026-737-1436097.htm          |
-| BVH: Nghị quyết HĐQT vềkế hoạch tổ chức ĐHĐCĐTN 2026            | 2026-04-29T19:00:07    | /2026/04/bvh-nghi-quyet-hdqt-veke-hoach-to-chuc-dhdcdtn-2026-737-1436099.htm            |
-| BVH: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                       | 2026-04-29T00:00:00    | /2026/04/bvh-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1435826.htm                       |
-| BVH: BCTC Tóm tắt quý 1 năm 2026                                | 2026-04-29T00:00:00    | /2026/04/bvh-bctc-tom-tat-quy-1-nam-2026-737-1435827.htm                                |
-| BVH: Báo cáo tích hợp 2025                                      | 2026-04-21T17:58:51    | /2026/04/bvh-bao-cao-tich-hop-2025-830-1431514.htm                                      |
-| BVH: Thông báo đường dẫn báo cáo thường niên năm 2025           | 2026-04-21T17:58:49    | /2026/04/bvh-thong-bao-duong-dan-bao-cao-thuong-nien-nam-2025-737-1431517.htm           |
-| BVH: Thông báo giao dịch cổ phiếu của người nội bộ Vũ Thanh Hải | 2026-04-08T16:23:11    | /2026/04/bvh-thong-bao-giao-dich-co-phieu-cua-nguoi-noi-bo-vu-thanh-hai-830-1425024.htm |
-| BVH: Quyết định của HĐQT về việc bổ nhiệm cán bộ                | 2026-04-06T09:29:25    | /2026/04/bvh-quyet-dinh-cua-hdqt-ve-viec-bo-nhiem-can-bo-214-1423187.htm                |
-| Phân tích kỹ thuật phiên chiều 02/04: Điều chỉnh nhẹ            | 2026-04-02T13:04:28.39 | /2026/04/phan-tich-ky-thuat-phien-chieu-0204-dieu-chinh-nhe-585-1421475.htm             |
+| title                                                                                          | publishtime         | url                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| BVH: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-05-11T14:33:11 | /2026/05/bvh-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1440808.htm |
+| BVH: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 | 2026-05-11T13:50:51 | /2026/05/bvh-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-tham-du-dhdcd-thuong-nien-nam-2026-737-1440750.htm |
+| BVH: Kế hoạch tổ chức ĐHĐCĐ thường niên năm 2026                                               | 2026-05-11T13:49:59 | /2026/05/bvh-ke-hoach-to-chuc-dhdcd-thuong-nien-nam-2026-737-1440748.htm                                               |
+| BVH: Nghị quyết HĐQT về kế hoạch tổ chức ĐHĐCĐ thường niên năm 2026                            | 2026-05-11T13:49:01 | /2026/05/bvh-nghi-quyet-hdqt-ve-ke-hoach-to-chuc-dhdcd-thuong-nien-nam-2026-737-1440749.htm                            |
+| Tập đoàn Bảo Việt chi hàng trăm tỷ gom cổ phiếu công nghệ                                      | 2026-05-05T17:41:00 | /2026/05/tap-doan-bao-viet-chi-hang-tram-ty-gom-co-phieu-cong-nghe-737-1438020.htm                                     |
+| BVH: CBTT thời gian tổ chức ĐHĐCĐ thường niên năm 2026                                         | 2026-04-29T19:00:08 | /2026/04/bvh-cbtt-thoi-gian-to-chuc-dhdcd-thuong-nien-nam-2026-737-1436097.htm                                         |
+| BVH: Nghị quyết HĐQT vềkế hoạch tổ chức ĐHĐCĐTN 2026                                           | 2026-04-29T19:00:07 | /2026/04/bvh-nghi-quyet-hdqt-veke-hoach-to-chuc-dhdcdtn-2026-737-1436099.htm                                           |
+| BVH: BCTC Tóm tắt Hợp nhất quý 1 năm 2026                                                      | 2026-04-29T00:00:00 | /2026/04/bvh-bctc-tom-tat-hop-nhat-quy-1-nam-2026-737-1435826.htm                                                      |
+| BVH: BCTC Tóm tắt quý 1 năm 2026                                                               | 2026-04-29T00:00:00 | /2026/04/bvh-bctc-tom-tat-quy-1-nam-2026-737-1435827.htm                                                               |
+| BVH: Báo cáo tích hợp 2025                                                                     | 2026-04-21T17:58:51 | /2026/04/bvh-bao-cao-tich-hop-2025-830-1431514.htm                                                                     |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,16 +121,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bảo hiểm |
-| % Ngành hôm nay | -0.85% |
-| % Cổ phiếu hôm nay | -1.79% |
-| RS (CP − Ngành) | -0.94% |
+| % Ngành hôm nay | -1.97% |
+| % Cổ phiếu hôm nay | -3.48% |
+| RS (CP − Ngành) | -1.51% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| BVH      | 2025-12-22 00:00:00 |   54   |   56   |  53.7 |    56   |   828400 |
 | BVH      | 2025-12-23 00:00:00 |   55.9 |   57.1 |  54.8 |    56   |   584400 |
 | BVH      | 2025-12-24 00:00:00 |   56   |   56   |  54.5 |    56   |   442800 |
 | BVH      | 2025-12-25 00:00:00 |   56   |   56   |  54.6 |    55.3 |   380300 |
@@ -220,21 +219,22 @@ _Không có dữ liệu_
 | BVH      | 2026-05-06 00:00:00 |   69.5 |   69.8 |  68.3 |    68.5 |   610700 |
 | BVH      | 2026-05-07 00:00:00 |   68.2 |   69.4 |  67.2 |    67.2 |   945800 |
 | BVH      | 2026-05-08 00:00:00 |   68.5 |   68.5 |  65.1 |    66   |  1406600 |
+| BVH      | 2026-05-11 00:00:00 |   66   |   66.4 |  62.9 |    63.7 |  1412000 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| BVH      | 2026-05-08 14:23:30 |    65.5 |      200 | Sell         | 472533929 |
-| BVH      | 2026-05-08 14:23:32 |    65.5 |      200 | Sell         | 472534050 |
-| BVH      | 2026-05-08 14:23:34 |    65.5 |      200 | Sell         | 472534115 |
-| BVH      | 2026-05-08 14:23:37 |    65.5 |      100 | Sell         | 472534322 |
-| BVH      | 2026-05-08 14:23:37 |    65.5 |      100 | Sell         | 472534326 |
-| BVH      | 2026-05-08 14:23:41 |    65.5 |      100 | Sell         | 472534553 |
-| BVH      | 2026-05-08 14:23:41 |    65.5 |      200 | Sell         | 472534554 |
-| BVH      | 2026-05-08 14:23:42 |    65.5 |      100 | Sell         | 472534594 |
-| BVH      | 2026-05-08 14:23:42 |    65.5 |      100 | Sell         | 472534595 |
-| BVH      | 2026-05-08 14:23:42 |    65.5 |      100 | Sell         | 472534593 |
+| BVH      | 2026-05-11 14:21:56 |    63   |      600 | Sell         | 473245992 |
+| BVH      | 2026-05-11 14:22:14 |    63.1 |      300 | Sell         | 473247721 |
+| BVH      | 2026-05-11 14:22:14 |    63.4 |      600 | Buy          | 473247676 |
+| BVH      | 2026-05-11 14:22:14 |    63.3 |      100 | Buy          | 473247670 |
+| BVH      | 2026-05-11 14:22:14 |    63.3 |      100 | Buy          | 473247673 |
+| BVH      | 2026-05-11 14:22:14 |    63.4 |      100 | Buy          | 473247674 |
+| BVH      | 2026-05-11 14:22:14 |    63.3 |     2100 | Buy          | 473247672 |
+| BVH      | 2026-05-11 14:22:15 |    63.1 |      100 | Sell         | 473247737 |
+| BVH      | 2026-05-11 14:22:21 |    63.1 |      100 | Sell         | 473248477 |
+| BVH      | 2026-05-11 14:22:21 |    63.1 |      500 | Sell         | 473248478 |
 
 <!-- END:DAILY -->
 

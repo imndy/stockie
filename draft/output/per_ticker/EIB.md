@@ -1,6 +1,6 @@
 # EIB — Ngân hàng TMCP Xuất nhập khẩu Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 10/05/2026 07:26  |  🗂 Quarterly: 03/05/2026 14:03
+> 📅 Daily: 11/05/2026 20:33  |  🗂 Quarterly: 03/05/2026 14:03
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | EIB |
 | exchange | HOSE |
-| market_cap | 41259261445050 |
+| market_cap | 42376893809250 |
 | 52w_high | 31100 |
 | 52w_high_date | 2025-08-19 |
 | 52w_low | 19250 |
 | 52w_low_date | 2025-05-12 |
-| foreign_ownership | 2.9781 |
+| foreign_ownership | 3.0708 |
 | dividend | 0 |
 | beta | 1.1 |
 | eps | 401 |
-| eps_forward | 27.199388167957764 |
+| eps_forward | 27.32274140227957 |
 | bvps | 14191.19 |
-| pe | 54.94 |
-| pb | 1.55 |
-| price_chg_1m | -1.99 |
-| price_chg_ytd | 15.97 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
+| pe | 55.19 |
+| pb | 1.56 |
+| price_chg_1m | -1.52 |
+| price_chg_ytd | 19.11 |
+| price_chg_1m_rank | 9.03 |
+| price_chg_ytd_rank | 49.57 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.15 |
-| MA5 | 21.9 |
-| MA10 | 22.05 |
-| EMA20 | 22.242 |
-| EMA50 | 22.277 |
-| Slope MA20 (5p, %) | -0.92 |
-| ATR(14) | 0.672 |
-| RSI(14) | 48.3 |
+| Giá đóng cửa | 22.75 |
+| MA5 | 22.08 |
+| MA10 | 22.06 |
+| EMA20 | 22.291 |
+| EMA50 | 22.326 |
+| Slope MA20 (5p, %) | -0.45 |
+| ATR(14) | 0.699 |
+| RSI(14) | 55.3 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.165 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.104 |
 | MACD Signal | -0.11 |
-| MACD Histogram | -0.055 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 11105803 |
+| MACD Histogram | 0.006 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 11434212 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    24.089 | 3.26        | 3             |
-| 🔴 Kháng cự    |    23.55  | 1.13        | 1             |
-| 🔴 Kháng cự    |    22.8   | 0.57        | 1             |
-| ▶ Giá hiện tại |    22.15  | —           | —             |
-| 🟢 Hỗ trợ      |    21.8   | 2.55        | 2             |
-| 🟢 Hỗ trợ      |    21.65  | 0.87        | 1             |
-| 🟢 Hỗ trợ      |    21     | 1.16        | 1             |
+| 🔴 Kháng cự    |    24.089 | 3.23        | 3             |
+| 🔴 Kháng cự    |    23.55  | 1.12        | 1             |
+| 🔴 Kháng cự    |    22.8   | 0.56        | 1             |
+| ▶ Giá hiện tại |    22.75  | —           | —             |
+| 🟢 Hỗ trợ      |    21.8   | 2.53        | 2             |
+| 🟢 Hỗ trợ      |    21.65  | 0.86        | 1             |
+| 🟢 Hỗ trợ      |    21     | 1.15        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | EIB |
-| pe | 54.94 |
-| pb | 1.55 |
+| pe | 55.19 |
+| pb | 1.56 |
 | roe | 4.45 |
 | roe_pct_rank | 34 |
 | roa | 0.44 |
@@ -91,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-04 |  4034900 | -63.7%     | 0.217%         |
-| 2026-05-05 |  7106800 | -36.0%     | 0.382%         |
-| 2026-05-06 |  7209400 | -35.1%     | 0.387%         |
-| 2026-05-07 |  9140500 | -17.7%     | 0.491%         |
-| 2026-05-08 | 10698700 | -3.7%      | 0.574%         |
+| 2026-05-05 |  7106800 | -37.8%     | 0.382%         |
+| 2026-05-06 |  7209400 | -36.9%     | 0.387%         |
+| 2026-05-07 |  9140500 | -20.1%     | 0.491%         |
+| 2026-05-08 | 10698700 | -6.4%      | 0.574%         |
+| 2026-05-11 | 25038300 | +119.0%    | 1.344%         |
 
-- KL trung bình 60 phiên: **11,105,803**
+- KL trung bình 60 phiên: **11,434,211**
 - Số CP lưu hành: **1,862,720,607**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime         | url                                                                                                               |
-|:--------------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------------------------------|
-| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng               | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm               |
-| EIB: Quy chế tổ chức và hoạt động của HĐQT                                                  | 2026-05-05T17:35:34 | /2026/05/eib-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1438161.htm                                                |
-| EIB: Điều lệ công ty                                                                        | 2026-05-05T17:26:52 | /2026/05/eib-dieu-le-cong-ty-737-1438124.htm                                                                      |
-| EIB: Quy chế quản trị nội bộ                                                                | 2026-05-05T17:26:51 | /2026/05/eib-quy-che-quan-tri-noi-bo-143-1438125.htm                                                              |
-| Chủ động củng cố bộ đệm tài chính, Eximbank lãi trước thuế quý 1 hơn 338 tỷ đồng            | 2026-04-30T15:02:00 | /2026/04/chu-dong-cung-co-bo-dem-tai-chinh-eximbank-lai-truoc-thue-quy-1-hon-338-ty-dong-737-1436356.htm          |
-| EIB: Thông báo thay đổi nhân sự                                                             | 2026-04-29T10:50:06 | /2026/04/eib-thong-bao-thay-doi-nhan-su-214-1435355.htm                                                           |
-| EIB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                      | 2026-04-29T10:46:22 | /2026/04/eib-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1435351.htm                                    |
-| EIB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                          | 2026-04-28T17:35:45 | /2026/04/eib-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1434989.htm                        |
-| EIB: Danh sách nhân sự dự kiến bầu vào HĐQT, BKS nhiệm kỳ 2025-2030 đã được NHNN chấp thuận | 2026-04-28T15:36:21 | /2026/04/eib-danh-sach-nhan-su-du-kien-bau-vao-hdqt-bks-nhiem-ky-20252030-da-duoc-nhnn-chap-thuan-214-1434770.htm |
-| EIB: Thông báo thay đổi nhân sự                                                             | 2026-04-28T15:34:30 | /2026/04/eib-thong-bao-thay-doi-nhan-su-214-1434764.htm                                                           |
+| title                                                                                             | publishtime         | url                                                                                                                      |
+|:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026 | 2026-05-11T11:02:00 | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                     | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                      |
+| EIB: Quy chế tổ chức và hoạt động của HĐQT                                                        | 2026-05-05T17:35:34 | /2026/05/eib-quy-che-to-chuc-va-hoat-dong-cua-hdqt-143-1438161.htm                                                       |
+| EIB: Điều lệ công ty                                                                              | 2026-05-05T17:26:52 | /2026/05/eib-dieu-le-cong-ty-737-1438124.htm                                                                             |
+| EIB: Quy chế quản trị nội bộ                                                                      | 2026-05-05T17:26:51 | /2026/05/eib-quy-che-quan-tri-noi-bo-143-1438125.htm                                                                     |
+| Chủ động củng cố bộ đệm tài chính, Eximbank lãi trước thuế quý 1 hơn 338 tỷ đồng                  | 2026-04-30T15:02:00 | /2026/04/chu-dong-cung-co-bo-dem-tai-chinh-eximbank-lai-truoc-thue-quy-1-hon-338-ty-dong-737-1436356.htm                 |
+| EIB: Thông báo thay đổi nhân sự                                                                   | 2026-04-29T10:50:06 | /2026/04/eib-thong-bao-thay-doi-nhan-su-214-1435355.htm                                                                  |
+| EIB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                            | 2026-04-29T10:46:22 | /2026/04/eib-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1435351.htm                                           |
+| EIB: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước                                | 2026-04-28T17:35:45 | /2026/04/eib-giai-trinh-bien-dong-lnst-quy-1-2026-so-voi-cung-ky-nam-truoc-830-1434989.htm                               |
+| EIB: Danh sách nhân sự dự kiến bầu vào HĐQT, BKS nhiệm kỳ 2025-2030 đã được NHNN chấp thuận       | 2026-04-28T15:36:21 | /2026/04/eib-danh-sach-nhan-su-du-kien-bau-vao-hdqt-bks-nhiem-ky-20252030-da-duoc-nhnn-chap-thuan-214-1434770.htm        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.77% |
-| % Cổ phiếu hôm nay | +0.45% |
-| RS (CP − Ngành) | -0.32% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.72% |
+| % Cổ phiếu hôm nay | +2.71% |
+| RS (CP − Ngành) | +3.43% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| EIB      | 2025-12-22 00:00:00 |  21.55 |  22.6  | 21.25 |   22.5  | 11028500 |
 | EIB      | 2025-12-23 00:00:00 |  22.75 |  22.75 | 22.25 |   22.45 |  9174500 |
 | EIB      | 2025-12-24 00:00:00 |  22.45 |  22.8  | 22.25 |   22.4  |  4940000 |
 | EIB      | 2025-12-25 00:00:00 |  22.4  |  22.65 | 22    |   22    |  5331700 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | EIB      | 2026-05-06 00:00:00 |  21.5  |  22.25 | 21.5  |   21.95 |  7209400 |
 | EIB      | 2026-05-07 00:00:00 |  22.15 |  22.45 | 22    |   22.05 |  9140500 |
 | EIB      | 2026-05-08 00:00:00 |  22.05 |  22.75 | 22    |   22.15 | 10698700 |
+| EIB      | 2026-05-11 00:00:00 |  22.45 |  23.2  | 22.25 |   22.75 | 25038300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| EIB      | 2026-05-08 14:28:06 |   22.35 |      200 | Buy          | 472559431 |
-| EIB      | 2026-05-08 14:28:15 |   22.35 |      700 | Buy          | 472560310 |
-| EIB      | 2026-05-08 14:28:16 |   22.35 |     5000 | Buy          | 472560446 |
-| EIB      | 2026-05-08 14:28:26 |   22.35 |     6000 | Buy          | 472561732 |
-| EIB      | 2026-05-08 14:28:26 |   22.35 |      800 | Buy          | 472561775 |
-| EIB      | 2026-05-08 14:28:28 |   22.35 |     3000 | Buy          | 472562045 |
-| EIB      | 2026-05-08 14:28:29 |   22.35 |     3400 | Buy          | 472562112 |
-| EIB      | 2026-05-08 14:28:31 |   22.35 |      800 | Buy          | 472562349 |
-| EIB      | 2026-05-08 14:28:31 |   22.35 |     2800 | Buy          | 472562389 |
-| EIB      | 2026-05-08 14:28:33 |   22.35 |      300 | Buy          | 472562597 |
+| EIB      | 2026-05-11 14:28:40 |   22.65 |      300 | Sell         | 473294989 |
+| EIB      | 2026-05-11 14:28:43 |   22.7  |     8100 | Buy          | 473295385 |
+| EIB      | 2026-05-11 14:28:43 |   22.7  |      700 | Buy          | 473295381 |
+| EIB      | 2026-05-11 14:28:43 |   22.7  |      200 | Buy          | 473295383 |
+| EIB      | 2026-05-11 14:28:43 |   22.7  |     1000 | Buy          | 473295384 |
+| EIB      | 2026-05-11 14:28:45 |   22.7  |      100 | Buy          | 473295500 |
+| EIB      | 2026-05-11 14:28:47 |   22.7  |      300 | Buy          | 473295637 |
+| EIB      | 2026-05-11 14:28:47 |   22.65 |      500 | Sell         | 473295662 |
+| EIB      | 2026-05-11 14:28:49 |   22.7  |      200 | Buy          | 473295793 |
+| EIB      | 2026-05-11 14:28:50 |   22.7  |      100 | Buy          | 473295885 |
 
 <!-- END:DAILY -->
 

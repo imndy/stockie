@@ -1,6 +1,6 @@
 # HVN — Tổng Công ty Hàng không Việt Nam - CTCP
 **Sàn:** HOSE  |  **Ngành:** Vận tải - kho bãi
-> 📅 Daily: 10/05/2026 16:45  |  🗂 Quarterly: 03/05/2026 14:27
+> 📅 Daily: 11/05/2026 20:43  |  🗂 Quarterly: 03/05/2026 14:27
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HVN |
 | exchange | HOSE |
-| market_cap | 69230835194750 |
+| market_cap | 67208361357600 |
 | 52w_high | 38250 |
 | 52w_high_date | 2025-09-16 |
 | 52w_low | 19300 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 8.339 |
+| foreign_ownership | 8.3389 |
 | dividend | 0 |
 | beta | 1.02 |
 | eps | 3130 |
-| eps_forward | 13.797798430576407 |
+| eps_forward | 13.524273792084804 |
 | bvps | 3610 |
-| pe | 7.25 |
-| pb | 6.29 |
-| price_chg_1m | -1.11 |
-| price_chg_ytd | -18.39 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
+| pe | 7.11 |
+| pb | 6.16 |
+| price_chg_1m | -4.00 |
+| price_chg_ytd | -20.78 |
+| price_chg_1m_rank | 9.03 |
+| price_chg_ytd_rank | 49.57 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,41 +36,41 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.25 |
-| MA5 | 22.49 |
-| MA10 | 22.555 |
-| EMA20 | 22.506 |
-| EMA50 | 23.117 |
-| Slope MA20 (5p, %) | -0.07 |
-| ATR(14) | 0.471 |
-| RSI(14) | 45.9 |
+| Giá đóng cửa | 21.6 |
+| MA5 | 22.28 |
+| MA10 | 22.435 |
+| EMA20 | 22.42 |
+| EMA50 | 23.064 |
+| Slope MA20 (5p, %) | -0.51 |
+| ATR(14) | 0.491 |
+| RSI(14) | 39.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.056 |
-| MACD Signal | -0.079 |
-| MACD Histogram | 0.023 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1351610 |
+| MACD | -0.124 |
+| MACD Signal | -0.088 |
+| MACD Histogram | -0.036 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 1352292 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     23.35 | 1.35        | 1             |
-| 🔴 Kháng cự    |     22.65 | 1.19        | 1             |
-| 🔴 Kháng cự    |     22.3  | 1.39        | 1             |
-| ▶ Giá hiện tại |     22.25 | —           | —             |
-| 🟢 Hỗ trợ      |     19.3  | 1.16        | 1             |
+| 🔴 Kháng cự    |     23.35 | 1.34        | 1             |
+| 🔴 Kháng cự    |     22.65 | 1.18        | 1             |
+| 🔴 Kháng cự    |     22.3  | 1.38        | 1             |
+| ▶ Giá hiện tại |     21.6  | —           | —             |
+| 🟢 Hỗ trợ      |     19.3  | 1.15        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HVN |
-| pe | 7.25 |
-| pb | 6.29 |
+| pe | 7.11 |
+| pb | 6.16 |
 | roe | -610.54 |
 | roe_pct_rank | 0 |
 | roa | 11.09 |
@@ -87,21 +87,22 @@
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |     KL | vs Avg60   | Turnover (%)   |
-|:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 519300 | -61.6%     | 0.017%         |
-| 2026-05-05 | 347100 | -74.3%     | 0.011%         |
-| 2026-05-06 | 519500 | -61.6%     | 0.017%         |
-| 2026-05-07 | 832100 | -38.4%     | 0.027%         |
-| 2026-05-08 | 696800 | -48.4%     | 0.022%         |
+| Ngày       |      KL | vs Avg60   | Turnover (%)   |
+|:-----------|--------:|:-----------|:---------------|
+| 2026-05-05 |  347100 | -74.3%     | 0.011%         |
+| 2026-05-06 |  519500 | -61.6%     | 0.017%         |
+| 2026-05-07 |  832100 | -38.5%     | 0.027%         |
+| 2026-05-08 |  696800 | -48.5%     | 0.022%         |
+| 2026-05-11 | 1260600 | -6.8%      | 0.041%         |
 
-- KL trung bình 60 phiên: **1,351,610**
+- KL trung bình 60 phiên: **1,352,291**
 - Số CP lưu hành: **3,111,498,211**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                     | publishtime             | url                                                                                                                       |
 |:----------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HVN: Nghị quyết HĐQT về kế hoạch tổ chức ĐHĐCĐ thường niên năm 2026                                       | 2026-05-11T13:55:04     | /2026/05/hvn-nghi-quyet-hdqt-ve-ke-hoach-to-chuc-dhdcd-thuong-nien-nam-2026-737-1440763.htm                               |
 | HVN: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                              | 2026-05-04T14:06:27     | /2026/05/hvn-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1437046.htm                      |
 | Vietnam Airlines báo cáo tài chính quý 1/2026, chủ động thích ứng trước biến động của thị trường quốc tế  | 2026-04-29T17:54:07.237 | /2026/04/vietnam-airlines-bao-cao-tai-chinh-quy-12026-chu-dong-thich-ung-truoc-bien-dong-cua-thi-truong-quoc-te-737-1435… |
 | HVN: BCTC Tóm tắt quý 1 năm 2026                                                                          | 2026-04-29T00:00:00     | /2026/04/hvn-bctc-tom-tat-quy-1-nam-2026-737-1437095.htm                                                                  |
@@ -111,7 +112,6 @@
 | HVN: Giải trình biến động LNST trên BCTC kiểm toán năm 2025 và lộ trình khắc phục tình trạng bị kiểm soát | 2026-04-01T15:19:34     | /2026/04/hvn-giai-trinh-bien-dong-lnst-tren-bctc-kiem-toan-nam-2025-va-lo-trinh-khac-phuc-tinh-trang-bi-kiem-soat-737-14… |
 | HVN: BCTC Tóm tắt Hợp nhất năm 2025                                                                       | 2026-03-31T00:00:00     | /2026/03/hvn-bctc-tom-tat-hop-nhat-nam-2025-737-1420848.htm                                                               |
 | HVN: BCTC Tóm tắt năm 2025                                                                                | 2026-03-31T00:00:00     | /2026/03/hvn-bctc-tom-tat-nam-2025-737-1420849.htm                                                                        |
-| Vietnam Airlines đã dùng hơn 2 ngàn tỷ đồng từ đợt chào bán cổ phiếu để trả nợ                            | 2026-03-21T10:44:09.38  | /2026/03/vietnam-airlines-da-dung-hon-2-ngan-ty-dong-tu-dot-chao-ban-co-phieu-de-tra-no-737-1414718.htm                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,16 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vận tải - kho bãi |
-| % Ngành hôm nay | -1.58% |
-| % Cổ phiếu hôm nay | -1.98% |
-| RS (CP − Ngành) | -0.40% |
+| % Ngành hôm nay | -1.84% |
+| % Cổ phiếu hôm nay | -2.92% |
+| RS (CP − Ngành) | -1.08% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HVN      | 2025-12-22 00:00:00 |  26.15 |  26.95 | 26.1  |   26.7  |  1218700 |
 | HVN      | 2025-12-23 00:00:00 |  26.9  |  26.9  | 26.2  |   26.2  |   830300 |
 | HVN      | 2025-12-24 00:00:00 |  26.3  |  26.55 | 26.1  |   26.15 |   849300 |
 | HVN      | 2025-12-25 00:00:00 |  26.15 |  26.4  | 25.7  |   25.7  |  1588400 |
@@ -221,21 +220,22 @@ _Không có dữ liệu_
 | HVN      | 2026-05-06 00:00:00 |  22.4  |  22.6  | 22.4  |   22.5  |   519500 |
 | HVN      | 2026-05-07 00:00:00 |  22.6  |  22.8  | 22.6  |   22.7  |   832100 |
 | HVN      | 2026-05-08 00:00:00 |  22.7  |  22.7  | 22.25 |   22.25 |   696800 |
+| HVN      | 2026-05-11 00:00:00 |  22.35 |  22.35 | 21.6  |   21.6  |  1260600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      300 | Buy          | 472499648 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      100 | Buy          | 472499651 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      200 | Buy          | 472499652 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |     2000 | Buy          | 472499653 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      100 | Buy          | 472499654 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      100 | Buy          | 472499655 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      200 | Buy          | 472499670 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |     4200 | Buy          | 472499658 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |      200 | Buy          | 472499659 |
-| HVN      | 2026-05-08 14:15:00 |    22.3 |     1000 | Buy          | 472499650 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |      500 | Sell         | 473214194 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |     1000 | Sell         | 473214204 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |      500 | Sell         | 473214196 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |     5000 | Sell         | 473214198 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |    10000 | Sell         | 473214199 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |      300 | Sell         | 473214200 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |     1000 | Sell         | 473214202 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |      100 | Sell         | 473214203 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |      100 | Sell         | 473214195 |
+| HVN      | 2026-05-11 14:15:00 |    21.6 |     3700 | Sell         | 473214201 |
 
 <!-- END:DAILY -->
 

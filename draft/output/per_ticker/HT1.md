@@ -1,6 +1,6 @@
 # HT1 — CTCP Xi Măng Vicem Hà Tiên
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 10/05/2026 15:21  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 11/05/2026 20:35  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | HT1 |
 | exchange | HOSE |
-| market_cap | 5494894718400 |
+| market_cap | 5475815222850 |
 | 52w_high | 20100 |
 | 52w_high_date | 2025-10-22 |
 | 52w_low | 10840 |
 | 52w_low_date | 2025-05-20 |
-| foreign_ownership | 2.1897 |
+| foreign_ownership | 2.1821 |
 | dividend | 100 |
 | beta | 0.77 |
 | eps | 945 |
-| eps_forward | 13.991605036977813 |
+| eps_forward | 13.70606207703949 |
 | bvps | 13540 |
-| pe | 15.55 |
-| pb | 1.09 |
-| price_chg_1m | -6.19 |
-| price_chg_ytd | 31.04 |
-| price_chg_1m_rank | 9.39 |
-| price_chg_ytd_rank | 50.84 |
-| yield | 0.006944444444444444 |
+| pe | 15.23 |
+| pb | 1.06 |
+| price_chg_1m | -6.51 |
+| price_chg_ytd | 30.59 |
+| price_chg_1m_rank | 9.03 |
+| price_chg_ytd_rank | 49.57 |
+| yield | 0.006968641114982578 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,47 +36,47 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.4 |
-| MA5 | 14.61 |
-| MA10 | 14.8 |
-| EMA20 | 14.939 |
-| EMA50 | 15.26 |
-| Slope MA20 (5p, %) | -1.44 |
-| ATR(14) | 0.456 |
-| RSI(14) | 38.0 |
+| Giá đóng cửa | 14.35 |
+| MA5 | 14.55 |
+| MA10 | 14.71 |
+| EMA20 | 14.883 |
+| EMA50 | 15.241 |
+| Slope MA20 (5p, %) | -1.5 |
+| ATR(14) | 0.448 |
+| RSI(14) | 37.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.226 |
-| MACD Signal | -0.187 |
-| MACD Histogram | -0.039 |
+| MACD | -0.246 |
+| MACD Signal | -0.2 |
+| MACD Histogram | -0.046 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 554107 |
+| KL avg 60 phiên | 546817 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    15.5   | 1.24        | 1             |
-| 🔴 Kháng cự    |    14.885 | 2.61        | 3             |
-| 🔴 Kháng cự    |    14.455 | 3.3         | 3             |
-| ▶ Giá hiện tại |    14.4   | —           | —             |
+| 🔴 Kháng cự    |    15.5   | 1.23        | 1             |
+| 🔴 Kháng cự    |    14.885 | 2.57        | 3             |
+| 🔴 Kháng cự    |    14.455 | 3.27        | 3             |
+| ▶ Giá hiện tại |    14.35  | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HT1 |
-| pe | 15.55 |
-| pb | 1.09 |
+| pe | 15.23 |
+| pb | 1.06 |
 | eps | 945 |
 | bvps | 13540 |
 | beta | 0.77 |
 | dividend | 100 |
-| yield | 0.006944444444444444 |
-| pe_pct_rank | 56 |
-| pb_pct_rank | 46 |
+| yield | 0.006968641114982578 |
+| pe_pct_rank | 55 |
+| pb_pct_rank | 45 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -84,29 +84,29 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-04 | 210400 | -62.0%     | 0.055%         |
-| 2026-05-05 | 412200 | -25.6%     | 0.108%         |
-| 2026-05-06 | 308800 | -44.3%     | 0.081%         |
-| 2026-05-07 | 330800 | -40.3%     | 0.087%         |
-| 2026-05-08 | 657100 | +18.6%     | 0.172%         |
+| 2026-05-05 | 412200 | -24.6%     | 0.108%         |
+| 2026-05-06 | 308800 | -43.5%     | 0.081%         |
+| 2026-05-07 | 330800 | -39.5%     | 0.087%         |
+| 2026-05-08 | 657100 | +20.2%     | 0.172%         |
+| 2026-05-11 | 242200 | -55.7%     | 0.063%         |
 
-- KL trung bình 60 phiên: **554,106**
+- KL trung bình 60 phiên: **546,816**
 - Số CP lưu hành: **381,589,911**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                         | publishtime            | url                                                                                                   |
-|:------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------|
-| Xi Măng Vicem Hà Tiên thực hiện gần 20% kế hoạch lợi nhuận sau quý 1          | 2026-04-28T10:26:10.15 | /2026/04/xi-mang-vicem-ha-tien-thuc-hien-gan-20-ke-hoach-loi-nhuan-sau-quy-1-737-1434192.htm          |
-| HT1: Nhắc nhở chậm công bố thông tin Điều lệ Công ty sửa đổi bằng tiếng Anh   | 2026-04-24T19:06:31    | /2026/04/ht1-nhac-nho-cham-cong-bo-thong-tin-dieu-le-cong-ty-sua-doi-bang-tieng-anh-737-1433858.htm   |
-| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-24T17:12:14    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1433949.htm                      |
-| HT1: BCTC Hợp nhất quý 1 năm 2026                                             | 2026-04-24T00:00:00    | /2026/04/ht1-bctc-hop-nhat-quy-1-nam-2026-737-1433623.htm                                             |
-| HT1: Điều lệ công ty                                                          | 2026-04-23T17:15:50    | /2026/04/ht1-dieu-le-cong-ty-737-1432811.htm                                                          |
-| HT1: Biên bản họp ĐHĐCĐ thường niên 2026                                      | 2026-04-23T17:15:23    | /2026/04/ht1-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432809.htm                                      |
-| HT1: Nghị quyết ĐHĐCĐ thường niên 2026                                        | 2026-04-23T15:37:09    | /2026/04/ht1-nghi-quyet-dhdcd-thuong-nien-2026-737-1432643.htm                                        |
-| ĐHĐCĐ Xi Măng Vicem Hà Tiên: Chi phí đầu vào tăng mạnh vì xung đột Trung Đông | 2026-04-22T13:16:00    | /2026/04/dhdcd-xi-mang-vicem-ha-tien-chi-phi-dau-vao-tang-manh-vi-xung-dot-trung-dong-737-1431689.htm |
-| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-21T09:14:21    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430964.htm                      |
-| HT1: BCTC quý 1 năm 2026                                                      | 2026-04-20T00:00:00    | /2026/04/ht1-bctc-quy-1-nam-2026-737-1430970.htm                                                      |
+| title                                                                                               | publishtime            | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HT1: Nghị quyết HĐQT về việc chấp thuận chủ trương ký hợp đồng với Công ty TNHH MTV Xi măng Hạ Long | 2026-05-11T13:57:44    | /2026/05/ht1-nghi-quyet-hdqt-ve-viec-chap-thuan-chu-truong-ky-hop-dong-voi-cong-ty-tnhh-mtv-xi-mang-ha-long-737-1440765.… |
+| Xi Măng Vicem Hà Tiên thực hiện gần 20% kế hoạch lợi nhuận sau quý 1                                | 2026-04-28T10:26:10.15 | /2026/04/xi-mang-vicem-ha-tien-thuc-hien-gan-20-ke-hoach-loi-nhuan-sau-quy-1-737-1434192.htm                              |
+| HT1: Nhắc nhở chậm công bố thông tin Điều lệ Công ty sửa đổi bằng tiếng Anh                         | 2026-04-24T19:06:31    | /2026/04/ht1-nhac-nho-cham-cong-bo-thong-tin-dieu-le-cong-ty-sua-doi-bang-tieng-anh-737-1433858.htm                       |
+| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                            | 2026-04-24T17:12:14    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1433949.htm                                          |
+| HT1: BCTC Hợp nhất quý 1 năm 2026                                                                   | 2026-04-24T00:00:00    | /2026/04/ht1-bctc-hop-nhat-quy-1-nam-2026-737-1433623.htm                                                                 |
+| HT1: Điều lệ công ty                                                                                | 2026-04-23T17:15:50    | /2026/04/ht1-dieu-le-cong-ty-737-1432811.htm                                                                              |
+| HT1: Biên bản họp ĐHĐCĐ thường niên 2026                                                            | 2026-04-23T17:15:23    | /2026/04/ht1-bien-ban-hop-dhdcd-thuong-nien-2026-737-1432809.htm                                                          |
+| HT1: Nghị quyết ĐHĐCĐ thường niên 2026                                                              | 2026-04-23T15:37:09    | /2026/04/ht1-nghi-quyet-dhdcd-thuong-nien-2026-737-1432643.htm                                                            |
+| ĐHĐCĐ Xi Măng Vicem Hà Tiên: Chi phí đầu vào tăng mạnh vì xung đột Trung Đông                       | 2026-04-22T13:16:00    | /2026/04/dhdcd-xi-mang-vicem-ha-tien-chi-phi-dau-vao-tang-manh-vi-xung-dot-trung-dong-737-1431689.htm                     |
+| HT1: Giải trình KQKD quý 1/2026 so với cùng kỳ năm trước                                            | 2026-04-21T09:14:21    | /2026/04/ht1-giai-trinh-kqkd-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1430964.htm                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -117,16 +117,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | +0.12% |
-| % Cổ phiếu hôm nay | -2.04% |
-| RS (CP − Ngành) | -2.16% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -1.28% |
+| % Cổ phiếu hôm nay | -0.35% |
+| RS (CP − Ngành) | +0.93% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HT1      | 2025-12-22 00:00:00 |  16    |  16    | 15.5  |   15.7  |   232000 |
 | HT1      | 2025-12-23 00:00:00 |  15.7  |  15.7  | 15.5  |   15.55 |   138200 |
 | HT1      | 2025-12-24 00:00:00 |  15.55 |  15.65 | 15.45 |   15.5  |    88000 |
 | HT1      | 2025-12-25 00:00:00 |  15.25 |  15.65 | 15.2  |   15.5  |   158300 |
@@ -216,21 +215,22 @@ _Không có dữ liệu_
 | HT1      | 2026-05-06 00:00:00 |  14.6  |  15    | 14.6  |   14.75 |   308800 |
 | HT1      | 2026-05-07 00:00:00 |  14.9  |  15    | 14.7  |   14.7  |   330800 |
 | HT1      | 2026-05-08 00:00:00 |  14.85 |  14.85 | 14.35 |   14.4  |   657100 |
+| HT1      | 2026-05-11 00:00:00 |  14.55 |  14.55 | 14.2  |   14.35 |   242200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HT1      | 2026-05-08 14:01:42 |   14.4  |      300 | Buy          | 472430205 |
-| HT1      | 2026-05-08 14:01:42 |   14.4  |      700 | Buy          | 472430206 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |    10000 | Sell         | 472436297 |
-| HT1      | 2026-05-08 14:03:07 |   14.4  |      100 | Sell         | 472436288 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |      700 | Sell         | 472436289 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |      200 | Sell         | 472436290 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |      100 | Sell         | 472436291 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |      100 | Sell         | 472436292 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |      100 | Sell         | 472436293 |
-| HT1      | 2026-05-08 14:03:07 |   14.35 |     5000 | Sell         | 472436294 |
+| HT1      | 2026-05-11 13:46:45 |   14.35 |      100 | Buy          | 473111377 |
+| HT1      | 2026-05-11 13:48:35 |   14.35 |     1000 | Buy          | 473117389 |
+| HT1      | 2026-05-11 13:50:05 |   14.35 |      300 | Buy          | 473121942 |
+| HT1      | 2026-05-11 13:51:38 |   14.35 |     1000 | Buy          | 473128257 |
+| HT1      | 2026-05-11 13:51:49 |   14.35 |     2600 | Buy          | 473129114 |
+| HT1      | 2026-05-11 13:51:49 |   14.35 |     2400 | Buy          | 473129113 |
+| HT1      | 2026-05-11 13:52:51 |   14.3  |      300 | Sell         | 473134073 |
+| HT1      | 2026-05-11 13:52:51 |   14.3  |     2000 | Sell         | 473134069 |
+| HT1      | 2026-05-11 13:52:51 |   14.3  |      100 | Sell         | 473134070 |
+| HT1      | 2026-05-11 13:52:51 |   14.3  |      100 | Sell         | 473134072 |
 
 <!-- END:DAILY -->
 
