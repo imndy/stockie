@@ -1,6 +1,6 @@
 # ACB — Ngân hàng TMCP Á Châu
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 11/05/2026 20:30  |  🗂 Quarterly: 03/05/2026 13:55
+> 📅 Daily: 12/05/2026 20:35  |  🗂 Quarterly: 03/05/2026 13:55
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | ACB |
 | exchange | HOSE |
-| market_cap | 116858937627250 |
+| market_cap | 116602104797300 |
 | 52w_high | 29450 |
 | 52w_high_date | 2025-08-21 |
-| 52w_low | 20389 |
-| 52w_low_date | 2025-05-12 |
-| foreign_ownership | 26.033 |
+| 52w_low | 20556 |
+| 52w_low_date | 2025-05-13 |
+| foreign_ownership | 25.7707 |
 | dividend | 1000 |
 | beta | 0.71 |
 | eps | 3258 |
-| eps_forward | 6.5679981833808085 |
+| eps_forward | 6.539254208836472 |
 | bvps | 19224.77 |
-| pe | 7.01 |
-| pb | 1.19 |
-| price_chg_1m | -4.61 |
-| price_chg_ytd | 12.74 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
-| yield | 0.04395604395604395 |
+| pe | 6.98 |
+| pb | 1.18 |
+| price_chg_1m | -4.82 |
+| price_chg_ytd | 11.33 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
+| yield | 0.04405286343612335 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,53 +36,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 22.75 |
-| MA5 | 22.84 |
-| MA10 | 23.12 |
-| EMA20 | 23.282 |
-| EMA50 | 23.5 |
-| Slope MA20 (5p, %) | -1.22 |
-| ATR(14) | 0.387 |
-| RSI(14) | 39.5 |
+| Giá đóng cửa | 22.7 |
+| MA5 | 22.86 |
+| MA10 | 23.04 |
+| EMA20 | 23.227 |
+| EMA50 | 23.469 |
+| Slope MA20 (5p, %) | -1.07 |
+| ATR(14) | 0.373 |
+| RSI(14) | 38.8 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.208 |
-| MACD Signal | -0.114 |
-| MACD Histogram | -0.094 |
+| MACD | -0.227 |
+| MACD Signal | -0.137 |
+| MACD Histogram | -0.09 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 13404943 |
+| KL avg 60 phiên | 13353270 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    24.078 | 3.75        | 3             |
-| 🔴 Kháng cự    |    23.65  | 0.58        | 1             |
-| 🔴 Kháng cự    |    22.978 | 2.17        | 2             |
-| ▶ Giá hiện tại |    22.75  | —           | —             |
-| 🟢 Hỗ trợ      |    22.45  | 1.15        | 1             |
-| 🟢 Hỗ trợ      |    21.7   | 1.05        | 1             |
+| 🔴 Kháng cự    |    24.078 | 3.72        | 3             |
+| 🔴 Kháng cự    |    23.65  | 0.57        | 1             |
+| 🔴 Kháng cự    |    22.978 | 2.15        | 2             |
+| ▶ Giá hiện tại |    22.7   | —           | —             |
+| 🟢 Hỗ trợ      |    22.482 | 2.58        | 2             |
+| 🟢 Hỗ trợ      |    21.7   | 1.04        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | ACB |
-| pe | 7.01 |
-| pb | 1.19 |
+| pe | 6.98 |
+| pb | 1.18 |
 | roe | 17.56 |
 | roe_pct_rank | 63 |
 | roa | 1.65 |
-| roa_pct_rank | 35 |
+| roa_pct_rank | 38 |
 | eps | 3258 |
 | bvps | 19224.77 |
 | beta | 0.71 |
 | dividend | 1000 |
-| yield | 0.04395604395604395 |
+| yield | 0.04405286343612335 |
 | pe_pct_rank | 37 |
-| pb_pct_rank | 51 |
+| pb_pct_rank | 50 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -90,19 +90,20 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-05 | 28808700 | +114.9%    | 0.561%         |
-| 2026-05-06 | 19398600 | +44.7%     | 0.378%         |
-| 2026-05-07 | 20236200 | +51.0%     | 0.394%         |
-| 2026-05-08 | 15734200 | +17.4%     | 0.306%         |
-| 2026-05-11 | 12866600 | -4.0%      | 0.250%         |
+| 2026-05-06 | 19398600 | +45.3%     | 0.378%         |
+| 2026-05-07 | 20236200 | +51.5%     | 0.394%         |
+| 2026-05-08 | 15734200 | +17.8%     | 0.306%         |
+| 2026-05-11 | 12866600 | -3.6%      | 0.250%         |
+| 2026-05-12 | 10943200 | -18.0%     | 0.213%         |
 
-- KL trung bình 60 phiên: **13,404,943**
+- KL trung bình 60 phiên: **13,353,270**
 - Số CP lưu hành: **5,136,656,599**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                             | publishtime             | url                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                  | 2026-05-12T13:02:00     | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                |
 | Nhóm Âu Lạc tiếp tục nâng sở hữu tại ACB lên 6%                                                   | 2026-05-11T15:35:20.353 | /2026/05/nhom-au-lac-tiep-tuc-nang-so-huu-tai-acb-len-6-739-1440771.htm                                                  |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026 | 2026-05-11T11:02:00     | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm |
 | ACB: Báo cáo về thay đổi sở hữu của cổ đông lớn Nguyễn Thiên Hương Jenny và NCLQ                  | 2026-05-08T15:56:49     | /2026/05/acb-bao-cao-ve-thay-doi-so-huu-cua-co-dong-lon-nguyen-thien-huong-jenny-va-nclq-739-1440073.htm                 |
@@ -112,7 +113,6 @@
 | ACB: BCTC Hợp nhất quý 1 năm 2026                                                                 | 2026-04-22T00:00:00     | /2026/04/acb-bctc-hop-nhat-quy-1-nam-2026-737-1432592.htm                                                                |
 | ACB: BCTC quý 1 năm 2026                                                                          | 2026-04-22T00:00:00     | /2026/04/acb-bctc-quy-1-nam-2026-737-1432593.htm                                                                         |
 | Bài toán vĩ mô 2026 và cuộc đua vốn chạm mốc tỷ đô của ngân hàng Việt                             | 2026-04-15T09:05:36.527 | /2026/04/bai-toan-vi-mo-2026-va-cuoc-dua-von-cham-moc-ty-do-cua-ngan-hang-viet-757-1427367.htm                           |
-| ACB: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức 2025           | 2026-04-14T17:55:14     | /2026/04/acb-nghi-quyet-hdqt-ve-viec-trien-khai-phuong-an-phat-hanh-co-phieu-de-tra-co-tuc-2025-737-1427674.htm          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.72% |
-| % Cổ phiếu hôm nay | -0.44% |
-| RS (CP − Ngành) | +0.28% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.35% |
+| % Cổ phiếu hôm nay | -0.22% |
+| RS (CP − Ngành) | -0.57% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| ACB      | 2025-12-23 00:00:00 |  24.45 |  24.6  | 23.95 |   24.2  |  8578300 |
 | ACB      | 2025-12-24 00:00:00 |  24.15 |  24.45 | 23.95 |   24.3  |  8709200 |
 | ACB      | 2025-12-25 00:00:00 |  24.3  |  24.6  | 24    |   24    |  7250600 |
 | ACB      | 2025-12-26 00:00:00 |  23.9  |  24.05 | 23.65 |   23.9  |  7831900 |
@@ -222,21 +221,22 @@ _Không có dữ liệu_
 | ACB      | 2026-05-07 00:00:00 |  23.1  |  23.2  | 22.85 |   22.9  | 20236200 |
 | ACB      | 2026-05-08 00:00:00 |  22.9  |  23.05 | 22.85 |   22.85 | 15734200 |
 | ACB      | 2026-05-11 00:00:00 |  23    |  23    | 22.75 |   22.75 | 12866600 |
+| ACB      | 2026-05-12 00:00:00 |  22.8  |  22.85 | 22.65 |   22.7  | 10943200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| ACB      | 2026-05-11 14:27:09 |   22.75 |      700 | Sell         | 473284063 |
-| ACB      | 2026-05-11 14:27:11 |   22.75 |      200 | Sell         | 473284262 |
-| ACB      | 2026-05-11 14:27:14 |   22.75 |      200 | Sell         | 473284476 |
-| ACB      | 2026-05-11 14:27:17 |   22.75 |      100 | Sell         | 473284835 |
-| ACB      | 2026-05-11 14:27:18 |   22.75 |     9700 | Sell         | 473284947 |
-| ACB      | 2026-05-11 14:27:20 |   22.8  |      100 | Buy          | 473285202 |
-| ACB      | 2026-05-11 14:27:20 |   22.75 |      200 | Sell         | 473285232 |
-| ACB      | 2026-05-11 14:27:21 |   22.75 |      300 | Sell         | 473285393 |
-| ACB      | 2026-05-11 14:27:22 |   22.8  |      100 | Buy          | 473285469 |
-| ACB      | 2026-05-11 14:27:23 |   22.75 |      200 | Sell         | 473285602 |
+| ACB      | 2026-05-12 14:26:04 |   22.7  |      100 | Sell         | 473855459 |
+| ACB      | 2026-05-12 14:26:04 |   22.7  |     3000 | Buy          | 473855461 |
+| ACB      | 2026-05-12 14:26:05 |   22.7  |      200 | Buy          | 473855553 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      100 | Sell         | 473855669 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      300 | Sell         | 473855664 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |     1000 | Sell         | 473855665 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      100 | Sell         | 473855667 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      500 | Sell         | 473855672 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      500 | Sell         | 473855668 |
+| ACB      | 2026-05-12 14:26:07 |   22.65 |      500 | Sell         | 473855671 |
 
 <!-- END:DAILY -->
 

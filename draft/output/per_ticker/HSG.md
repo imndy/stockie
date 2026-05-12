@@ -1,6 +1,6 @@
 # HSG — CTCP Tập đoàn Hoa Sen
 **Sàn:** HOSE  |  **Ngành:** Vật liệu xây dựng
-> 📅 Daily: 11/05/2026 20:35  |  🗂 Quarterly: 03/05/2026 14:09
+> 📅 Daily: 12/05/2026 20:40  |  🗂 Quarterly: 03/05/2026 14:09
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | HSG |
 | exchange | HOSE |
-| market_cap | 7513885938900 |
+| market_cap | 7638082400700 |
 | 52w_high | 16090 |
 | 52w_high_date | 2025-09-04 |
 | 52w_low | 10599 |
 | 52w_low_date | 2026-03-09 |
-| foreign_ownership | 3.7643 |
+| foreign_ownership | 3.6679 |
 | dividend | 0 |
-| beta | 0.72 |
+| beta | 0.73 |
 | eps | 869 |
-| eps_forward | 15.462381082490872 |
+| eps_forward | 15.027695670533296 |
 | bvps | 18486 |
-| pe | 14.33 |
-| pb | 0.67 |
-| price_chg_1m | 2.97 |
-| price_chg_ytd | 5.73 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
+| pe | 13.93 |
+| pb | 0.65 |
+| price_chg_1m | 4.67 |
+| price_chg_ytd | 6.77 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,49 +36,49 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 12.1 |
-| MA5 | 12.42 |
-| MA10 | 12.345 |
-| EMA20 | 12.204 |
-| EMA50 | 11.999 |
-| Slope MA20 (5p, %) | 1.07 |
-| ATR(14) | 0.327 |
-| RSI(14) | 49.5 |
+| Giá đóng cửa | 12.3 |
+| MA5 | 12.39 |
+| MA10 | 12.367 |
+| EMA20 | 12.213 |
+| EMA50 | 12.008 |
+| Slope MA20 (5p, %) | 0.85 |
+| ATR(14) | 0.325 |
+| RSI(14) | 53.9 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | TRUNG TÍNH |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.186 |
-| MACD Signal | 0.208 |
-| MACD Histogram | -0.022 |
+| MACD | 0.171 |
+| MACD Signal | 0.201 |
+| MACD Histogram | -0.03 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 4000097 |
+| KL avg 60 phiên | 4022171 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    13.27  | 0.72        | 1             |
-| 🔴 Kháng cự    |    12.871 | 3.74        | 4             |
-| ▶ Giá hiện tại |    12.1   | —           | —             |
-| 🟢 Hỗ trợ      |    11.906 | 3.98        | 4             |
-| 🟢 Hỗ trợ      |    11.65  | 0.64        | 1             |
-| 🟢 Hỗ trợ      |    11.5   | 1.12        | 1             |
+| 🔴 Kháng cự    |    13.27  | 0.71        | 1             |
+| 🔴 Kháng cự    |    12.871 | 3.69        | 4             |
+| ▶ Giá hiện tại |    12.3   | —           | —             |
+| 🟢 Hỗ trợ      |    11.906 | 3.94        | 4             |
+| 🟢 Hỗ trợ      |    11.65  | 0.63        | 1             |
+| 🟢 Hỗ trợ      |    11.5   | 1.11        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | HSG |
-| pe | 14.33 |
-| pb | 0.67 |
+| pe | 13.93 |
+| pb | 0.65 |
 | eps | 869 |
 | bvps | 18486 |
-| beta | 0.72 |
+| beta | 0.73 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 54 |
-| pb_pct_rank | 27 |
+| pe_pct_rank | 53 |
+| pb_pct_rank | 26 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -86,29 +86,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-05 | 2535790 | -36.6%     | 0.408%         |
-| 2026-05-06 | 4564379 | +14.1%     | 0.735%         |
-| 2026-05-07 | 4033679 | +0.8%      | 0.650%         |
-| 2026-05-08 | 2758432 | -31.0%     | 0.444%         |
-| 2026-05-11 | 5929800 | +48.2%     | 0.955%         |
+| 2026-05-06 | 4564379 | +13.5%     | 0.735%         |
+| 2026-05-07 | 4033679 | +0.3%      | 0.650%         |
+| 2026-05-08 | 2758432 | -31.4%     | 0.444%         |
+| 2026-05-11 | 5943150 | +47.8%     | 0.957%         |
+| 2026-05-12 | 3248500 | -19.2%     | 0.523%         |
 
-- KL trung bình 60 phiên: **4,000,096**
+- KL trung bình 60 phiên: **4,022,171**
 - Số CP lưu hành: **620,982,309**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                       | publishtime             | url                                                                                                                 |
-|:--------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Úc điều tra chống bán phá giá thép mạ Việt Nam, Hoa Sen và Nam Kim bị gọi tên               | 2026-05-11T12:15:00.937 | /2026/05/uc-dieu-tra-chong-ban-pha-gia-thep-ma-viet-nam-hoa-sen-va-nam-kim-bi-goi-ten-737-1440681.htm               |
-| HSG: Giải trình KQKD Cty mẹ quý II  NĐTC 2025-2026 so với cùng kỳ năm trước                 | 2026-05-04T15:47:29     | /2026/05/hsg-giai-trinh-kqkd-cty-me-quy-ii-ndtc-20252026-so-voi-cung-ky-nam-truoc-737-1437213.htm                   |
-| Hoa Sen báo lãi giảm hơn 40% trong 3 tháng đầu năm                                          | 2026-05-04T12:04:37.407 | /2026/05/hoa-sen-bao-lai-giam-hon-40-trong-3-thang-dau-nam-737-1436876.htm                                          |
-| HSG: Giải trình KQKD HN quý 2 niên độ tài chính 2025-2026                                   | 2026-04-29T18:31:10     | /2026/04/hsg-giai-trinh-kqkd-hn-quy-2-nien-do-tai-chinh-20252026-737-1436050.htm                                    |
-| HSG: BCTC quý 2 năm 2026                                                                    | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-quy-2-nam-2026-737-1435963.htm                                                                    |
-| HSG: BCTC Hợp nhất quý 2 năm 2026                                                           | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-hop-nhat-quy-2-nam-2026-737-1435964.htm                                                           |
-| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông | 2026-04-14T17:27:28     | /2026/04/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thanh-lap-chi-nhanh-hoa-sen-quy-nhon-dong-737-1427593.htm |
-| HSG: Thông báo ngày ĐKCC trả cổ tức niên độ tài chính 2024-2025 bằng cổ phiếu               | 2026-04-10T15:15:42     | /2026/04/hsg-thong-bao-ngay-dkcc-tra-co-tuc-nien-do-tai-chinh-20242025-bang-co-phieu-738-1426098.htm                |
-| HSG: Thông báo phát hành cổ phiếu để trả cổ tức NĐTC 2024-2025                              | 2026-04-03T18:12:41     | /2026/04/hsg-thong-bao-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-738-1422875.htm                               |
-| Hoa Sen sắp phát hành hơn 186 triệu cổ phiếu để trả cổ tức                                  | 2026-03-18T16:23:08.51  | /2026/03/hoa-sen-sap-phat-hanh-hon-186-trieu-co-phieu-de-tra-co-tuc-738-1413563.htm                                 |
+| title                                                                                                   | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| HSG: Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết đang lưu hành                             | 2026-05-12T13:21:41     | /2026/05/hsg-thong-bao-thay-doi-so-luong-co-phieu-co-quyen-bieu-quyet-dang-luu-hanh-741-1441327.htm                       |
+| HSG: Báo cáo kết quả phát hành cổ phiếu để trả cổ tức  NĐTC 2024-2025                                   | 2026-05-11T18:42:25     | /2026/05/hsg-bao-cao-ket-qua-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-738-1441097.htm                               |
+| HSG: Nghị quyết HĐQT về việc thông qua báo cáo kết quả phát hành cổ phiếu để trả cổ tức  NĐTC 2024-2025 | 2026-05-11T18:42:25     | /2026/05/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-bao-cao-ket-qua-phat-hanh-co-phieu-de-tra-co-tuc-ndtc-20242025-737-144109… |
+| Úc điều tra chống bán phá giá thép mạ Việt Nam, Hoa Sen và Nam Kim bị gọi tên                           | 2026-05-11T12:15:00.937 | /2026/05/uc-dieu-tra-chong-ban-pha-gia-thep-ma-viet-nam-hoa-sen-va-nam-kim-bi-goi-ten-737-1440681.htm                     |
+| HSG: Giải trình KQKD Cty mẹ quý II  NĐTC 2025-2026 so với cùng kỳ năm trước                             | 2026-05-04T15:47:29     | /2026/05/hsg-giai-trinh-kqkd-cty-me-quy-ii-ndtc-20252026-so-voi-cung-ky-nam-truoc-737-1437213.htm                         |
+| Hoa Sen báo lãi giảm hơn 40% trong 3 tháng đầu năm                                                      | 2026-05-04T12:04:37.407 | /2026/05/hoa-sen-bao-lai-giam-hon-40-trong-3-thang-dau-nam-737-1436876.htm                                                |
+| HSG: Giải trình KQKD HN quý 2 niên độ tài chính 2025-2026                                               | 2026-04-29T18:31:10     | /2026/04/hsg-giai-trinh-kqkd-hn-quy-2-nien-do-tai-chinh-20252026-737-1436050.htm                                          |
+| HSG: BCTC quý 2 năm 2026                                                                                | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-quy-2-nam-2026-737-1435963.htm                                                                          |
+| HSG: BCTC Hợp nhất quý 2 năm 2026                                                                       | 2026-04-29T00:00:00     | /2026/04/hsg-bctc-hop-nhat-quy-2-nam-2026-737-1435964.htm                                                                 |
+| HSG: Nghị quyết HĐQT về việc thông qua chủ trương thành lập Chi nhánh Hoa Sen Quy Nhơn Đông             | 2026-04-14T17:27:28     | /2026/04/hsg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thanh-lap-chi-nhanh-hoa-sen-quy-nhon-dong-737-1427593.htm       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,16 +119,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Vật liệu xây dựng |
-| % Ngành hôm nay | -1.28% |
-| % Cổ phiếu hôm nay | -2.81% |
-| RS (CP − Ngành) | -1.53% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | -0.23% |
+| % Cổ phiếu hôm nay | +1.65% |
+| RS (CP − Ngành) | +1.88% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| HSG      | 2025-12-23 00:00:00 |  12.46 |  12.46 | 12.15 |   12.15 |  1671636 |
 | HSG      | 2025-12-24 00:00:00 |  12.15 |  12.23 | 12.11 |   12.23 |  2134609 |
 | HSG      | 2025-12-25 00:00:00 |  12.23 |  12.38 | 12.15 |   12.35 |  2441802 |
 | HSG      | 2025-12-26 00:00:00 |  12.65 |  12.85 | 12.31 |   12.35 |  4461673 |
@@ -217,22 +216,23 @@ _Không có dữ liệu_
 | HSG      | 2026-05-06 00:00:00 |  12.5  |  12.5  | 12.3  |   12.5  |  4564379 |
 | HSG      | 2026-05-07 00:00:00 |  12.85 |  12.85 | 12.55 |   12.6  |  4033679 |
 | HSG      | 2026-05-08 00:00:00 |  12.6  |  12.65 | 12.4  |   12.45 |  2758432 |
-| HSG      | 2026-05-11 00:00:00 |  12.45 |  12.45 | 12    |   12.1  |  5929800 |
+| HSG      | 2026-05-11 00:00:00 |  12.45 |  12.45 | 12    |   12.1  |  5943150 |
+| HSG      | 2026-05-12 00:00:00 |  12    |  12.3  | 12    |   12.3  |  3248500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| HSG      | 2026-05-11 14:26:10 |   12.05 |     1000 | Sell         | 473277065 |
-| HSG      | 2026-05-11 14:26:13 |   12.05 |     4400 | Sell         | 473277497 |
-| HSG      | 2026-05-11 14:26:15 |   12.05 |     1000 | Sell         | 473277656 |
-| HSG      | 2026-05-11 14:26:24 |   12.05 |      500 | Sell         | 473278819 |
-| HSG      | 2026-05-11 14:26:43 |   12.1  |      100 | Buy          | 473280836 |
-| HSG      | 2026-05-11 14:26:43 |   12.05 |      500 | Sell         | 473280928 |
-| HSG      | 2026-05-11 14:26:44 |   12.05 |      600 | Sell         | 473281049 |
-| HSG      | 2026-05-11 14:26:53 |   12.1  |      300 | Buy          | 473282042 |
-| HSG      | 2026-05-11 14:26:58 |   12.05 |      100 | Sell         | 473282729 |
-| HSG      | 2026-05-11 14:26:58 |   12.05 |     5000 | Sell         | 473282728 |
+| HSG      | 2026-05-12 14:20:16 |   12.25 |      400 | Buy          | 473837348 |
+| HSG      | 2026-05-12 14:20:16 |   12.25 |      400 | Buy          | 473837349 |
+| HSG      | 2026-05-12 14:20:18 |   12.25 |      200 | Buy          | 473837532 |
+| HSG      | 2026-05-12 14:20:28 |   12.25 |     2000 | Buy          | 473838148 |
+| HSG      | 2026-05-12 14:20:29 |   12.25 |     1200 | Buy          | 473838179 |
+| HSG      | 2026-05-12 14:20:42 |   12.25 |      900 | Buy          | 473838443 |
+| HSG      | 2026-05-12 14:20:43 |   12.25 |      400 | Buy          | 473838467 |
+| HSG      | 2026-05-12 14:20:49 |   12.25 |      500 | Buy          | 473838847 |
+| HSG      | 2026-05-12 14:21:02 |   12.25 |      500 | Buy          | 473839539 |
+| HSG      | 2026-05-12 14:21:11 |   12.25 |      100 | Buy          | 473840046 |
 
 <!-- END:DAILY -->
 

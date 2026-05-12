@@ -1,6 +1,6 @@
 # SSB — Ngân hàng TMCP Đông Nam Á
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 11/05/2026 20:40  |  🗂 Quarterly: 03/05/2026 14:19
+> 📅 Daily: 12/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:19
 
 ---
 
@@ -11,7 +11,7 @@
 | --- | --- |
 | symbol | SSB |
 | exchange | HOSE |
-| market_cap | 47511500000000 |
+| market_cap | 47084750000000 |
 | 52w_high | 23100 |
 | 52w_high_date | 2025-08-21 |
 | 52w_low | 16300 |
@@ -20,14 +20,14 @@
 | dividend | 0 |
 | beta | 0.26 |
 | eps | 1125 |
-| eps_forward | 6.762304979954596 |
+| eps_forward | 6.722053164597724 |
 | bvps | 14580.59 |
-| pe | 14.93 |
+| pe | 14.84 |
 | pb | 1.15 |
-| price_chg_1m | -2.62 |
-| price_chg_ytd | -10.70 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
+| price_chg_1m | -3.50 |
+| price_chg_ytd | -12.89 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,47 +36,46 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.7 |
-| MA5 | 16.77 |
-| MA10 | 16.73 |
-| EMA20 | 16.789 |
-| EMA50 | 16.871 |
-| Slope MA20 (5p, %) | -0.08 |
-| ATR(14) | 0.22 |
-| RSI(14) | 43.4 |
+| Giá đóng cửa | 16.55 |
+| MA5 | 16.73 |
+| MA10 | 16.715 |
+| EMA20 | 16.766 |
+| EMA50 | 16.856 |
+| Slope MA20 (5p, %) | -0.19 |
+| ATR(14) | 0.215 |
+| RSI(14) | 36.7 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.035 |
-| MACD Signal | -0.034 |
-| MACD Histogram | -0.001 |
+| MACD | -0.05 |
+| MACD Signal | -0.037 |
+| MACD Histogram | -0.013 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 2020232 |
+| KL avg 60 phiên | 2015625 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    17.35  | 1.29        | 1             |
-| 🔴 Kháng cự    |    17.029 | 5.36        | 5             |
-| 🔴 Kháng cự    |    17     | 0.64        | 1             |
-| ▶ Giá hiện tại |    16.7   | —           | —             |
-| 🟢 Hỗ trợ      |    16.65  | 1.27        | 1             |
-| 🟢 Hỗ trợ      |    16.469 | 6.3         | 5             |
-| 🟢 Hỗ trợ      |    15.95  | 1.05        | 1             |
+| 🔴 Kháng cự    |    17.029 | 5.31        | 5             |
+| 🔴 Kháng cự    |    17     | 0.63        | 1             |
+| 🔴 Kháng cự    |    16.65  | 1.26        | 1             |
+| ▶ Giá hiện tại |    16.55  | —           | —             |
+| 🟢 Hỗ trợ      |    16.469 | 6.25        | 5             |
+| 🟢 Hỗ trợ      |    15.95  | 1.04        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SSB |
-| pe | 14.93 |
+| pe | 14.84 |
 | pb | 1.15 |
 | roe | 14.62 |
 | roe_pct_rank | 57 |
 | roa | 1.53 |
-| roa_pct_rank | 34 |
+| roa_pct_rank | 38 |
 | eps | 1125 |
 | bvps | 14580.59 |
 | beta | 0.26 |
@@ -91,19 +90,21 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-05 | 1924000 | -4.8%      | 0.068%         |
-| 2026-05-06 | 1900300 | -5.9%      | 0.067%         |
-| 2026-05-07 | 1894600 | -6.2%      | 0.067%         |
-| 2026-05-08 | 1841300 | -8.9%      | 0.065%         |
-| 2026-05-11 | 2099200 | +3.9%      | 0.074%         |
+| 2026-05-06 | 1900300 | -5.7%      | 0.067%         |
+| 2026-05-07 | 1894600 | -6.0%      | 0.067%         |
+| 2026-05-08 | 1841300 | -8.6%      | 0.065%         |
+| 2026-05-11 | 2099200 | +4.1%      | 0.074%         |
+| 2026-05-12 | 1957200 | -2.9%      | 0.069%         |
 
-- KL trung bình 60 phiên: **2,020,231**
+- KL trung bình 60 phiên: **2,015,625**
 - Số CP lưu hành: **2,845,000,000**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                   | publishtime            | url                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                                        | 2026-05-12T13:02:00    | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                 |
+| SeABank ủng hộ 10 tỷ đồng hưởng ứng Tháng Nhân đạo năm 2026                                                             | 2026-05-12T10:41:16.1  | /2026/05/seabank-ung-ho-10-ty-dong-huong-ung-thang-nhan-dao-nam-2026-735-1441231.htm                                      |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026                       | 2026-05-11T11:02:00    | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm  |
 | SeABank Pickleball Championship 2026: 416 VĐV tranh tài, gây quỹ từ thiện gần 620 triệu đồng cho giáo dục và môi trường | 2026-05-06T18:18:03.99 | /2026/05/seabank-pickleball-championship-2026-416-vdv-tranh-tai-gay-quy-tu-thien-gan-620-trieu-dong-cho-giao-duc-va-moi-… |
 | SeABank lần thứ 7 vào FAST500, củng cố nền tảng tăng trưởng bền vững                                                    | 2026-05-06T14:17:00.91 | /2026/05/seabank-lan-thu-7-vao-fast500-cung-co-nen-tang-tang-truong-ben-vung-757-1438522.htm                              |
@@ -112,8 +113,6 @@
 | SSB: BCTC quý 1 năm 2026                                                                                                | 2026-04-29T00:00:00    | /2026/04/ssb-bctc-quy-1-nam-2026-737-1436200.htm                                                                          |
 | SSB: BCTC Hợp nhất quý 1 năm 2026                                                                                       | 2026-04-29T00:00:00    | /2026/04/ssb-bctc-hop-nhat-quy-1-nam-2026-737-1436201.htm                                                                 |
 | SeABank ghi nhận kết quả quý 1/2026 ổn định, bám sát định hướng kế hoạch năm                                            | 2026-04-28T10:37:00.23 | /2026/04/seabank-ghi-nhan-ket-qua-quy-12026-on-dinh-bam-sat-dinh-huong-ke-hoach-nam-737-1434275.htm                       |
-| SSB: Thông báo thay đổi nhân sự - Miễn nhiệm và bổ nhiệm thành viên BKS                                                 | 2026-04-24T14:12:53    | /2026/04/ssb-thong-bao-thay-doi-nhan-su-mien-nhiem-va-bo-nhiem-thanh-vien-bks-214-1433294.htm                             |
-| SSB: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                                              | 2026-04-23T17:53:05    | /2026/04/ssb-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432896.htm                                        |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.72% |
-| % Cổ phiếu hôm nay | -0.60% |
-| RS (CP − Ngành) | +0.12% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.35% |
+| % Cổ phiếu hôm nay | -0.90% |
+| RS (CP − Ngành) | -1.25% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SSB      | 2025-12-23 00:00:00 |  17.7  |  17.7  | 17.4  |   17.5  |  2662000 |
 | SSB      | 2025-12-24 00:00:00 |  17.6  |  17.6  | 17.2  |   17.5  |  2308400 |
 | SSB      | 2025-12-25 00:00:00 |  17.3  |  17.5  | 17.2  |   17.35 |  2046100 |
 | SSB      | 2025-12-26 00:00:00 |  17.4  |  17.4  | 17.1  |   17.3  |  2094200 |
@@ -223,21 +221,22 @@ _Không có dữ liệu_
 | SSB      | 2026-05-07 00:00:00 |  16.8  |  16.9  | 16.75 |   16.8  |  1894600 |
 | SSB      | 2026-05-08 00:00:00 |  16.8  |  16.85 | 16.65 |   16.8  |  1841300 |
 | SSB      | 2026-05-11 00:00:00 |  16.75 |  16.8  | 16.6  |   16.7  |  2099200 |
+| SSB      | 2026-05-12 00:00:00 |  16.7  |  16.7  | 16.55 |   16.55 |  1957200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SSB      | 2026-05-11 14:16:14 |   16.65 |     1000 | Sell         | 473219306 |
-| SSB      | 2026-05-11 14:16:24 |   16.65 |      600 | Sell         | 473220177 |
-| SSB      | 2026-05-11 14:16:24 |   16.65 |     1900 | Sell         | 473220178 |
-| SSB      | 2026-05-11 14:17:17 |   16.7  |      300 | Buy          | 473224437 |
-| SSB      | 2026-05-11 14:17:17 |   16.7  |      100 | Buy          | 473224467 |
-| SSB      | 2026-05-11 14:18:40 |   16.7  |     1700 | Buy          | 473229637 |
-| SSB      | 2026-05-11 14:19:33 |   16.7  |     1700 | Buy          | 473233526 |
-| SSB      | 2026-05-11 14:20:14 |   16.65 |     1000 | Sell         | 473236516 |
-| SSB      | 2026-05-11 14:20:26 |   16.7  |      200 | Buy          | 473237268 |
-| SSB      | 2026-05-11 14:20:29 |   16.7  |     1600 | Buy          | 473237513 |
+| SSB      | 2026-05-12 14:02:37 |   16.65 |     9800 | Buy          | 473779520 |
+| SSB      | 2026-05-12 14:02:42 |   16.65 |     8900 | Buy          | 473779830 |
+| SSB      | 2026-05-12 14:02:47 |   16.65 |     8500 | Buy          | 473780042 |
+| SSB      | 2026-05-12 14:02:57 |   16.65 |      700 | Buy          | 473780756 |
+| SSB      | 2026-05-12 14:03:02 |   16.65 |     8700 | Sell         | 473781132 |
+| SSB      | 2026-05-12 14:03:07 |   16.65 |    11300 | Sell         | 473781324 |
+| SSB      | 2026-05-12 14:03:12 |   16.65 |     7600 | Sell         | 473781564 |
+| SSB      | 2026-05-12 14:03:18 |   16.65 |     9000 | Sell         | 473781969 |
+| SSB      | 2026-05-12 14:03:24 |   16.7  |      100 | Buy          | 473782220 |
+| SSB      | 2026-05-12 14:03:28 |   16.7  |      200 | Buy          | 473782480 |
 
 <!-- END:DAILY -->
 

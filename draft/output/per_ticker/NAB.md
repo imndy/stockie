@@ -1,6 +1,6 @@
 # NAB — Ngân hàng TMCP Nam Á
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 11/05/2026 20:37  |  🗂 Quarterly: 03/05/2026 14:12
+> 📅 Daily: 12/05/2026 20:42  |  🗂 Quarterly: 03/05/2026 14:12
 
 ---
 
@@ -16,18 +16,18 @@
 | 52w_high_date | 2025-08-22 |
 | 52w_low | 10104 |
 | 52w_low_date | 2026-03-20 |
-| foreign_ownership | 1.0447 |
+| foreign_ownership | 1.0349 |
 | dividend | 0 |
-| beta | 0.49 |
+| beta | 0.48 |
 | eps | 2825 |
-| eps_forward | 4.109350224561462 |
+| eps_forward | 3.459049010573621 |
 | bvps | 14366.63 |
-| pe | 5.26 |
-| pb | 1.03 |
+| pe | 4.42 |
+| pb | 0.87 |
 | price_chg_1m | 10.48 |
-| price_chg_ytd | 8.87 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
+| price_chg_ytd | 8.55 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -37,47 +37,47 @@
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Giá đóng cửa | 12.5 |
-| MA5 | 12.148 |
-| MA10 | 11.953 |
-| EMA20 | 11.706 |
-| EMA50 | 11.471 |
-| Slope MA20 (5p, %) | 2.72 |
-| ATR(14) | 0.251 |
-| RSI(14) | 79.3 |
+| MA5 | 12.282 |
+| MA10 | 12.045 |
+| EMA20 | 11.781 |
+| EMA50 | 11.508 |
+| Slope MA20 (5p, %) | 3.01 |
+| ATR(14) | 0.247 |
+| RSI(14) | 79.5 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.313 |
-| MACD Signal | 0.222 |
+| MACD | 0.337 |
+| MACD Signal | 0.245 |
 | MACD Histogram | 0.092 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 1684555 |
+| KL avg 60 phiên | 1685110 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     12.75 | 0.69        | 1             |
+| 🔴 Kháng cự    |     12.75 | 0.68        | 1             |
 | ▶ Giá hiện tại |     12.5  | —           | —             |
-| 🟢 Hỗ trợ      |     12.12 | 0.55        | 1             |
-| 🟢 Hỗ trợ      |     11.83 | 3.84        | 4             |
-| 🟢 Hỗ trợ      |     11.79 | 3.05        | 5             |
+| 🟢 Hỗ trợ      |     11.83 | 3.8         | 4             |
+| 🟢 Hỗ trợ      |     11.79 | 2.99        | 5             |
+| 🟢 Hỗ trợ      |     11.54 | 1.8         | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | NAB |
-| pe | 5.26 |
-| pb | 1.03 |
+| pe | 4.42 |
+| pb | 0.87 |
 | eps | 2825 |
 | bvps | 14366.63 |
-| beta | 0.49 |
+| beta | 0.48 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 33 |
-| pb_pct_rank | 43 |
+| pe_pct_rank | 31 |
+| pb_pct_rank | 36 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -85,19 +85,21 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-05 | 1558982 | -7.5%      | 0.091%         |
 | 2026-05-06 | 2039047 | +21.0%     | 0.119%         |
-| 2026-05-07 | 2465935 | +46.4%     | 0.144%         |
-| 2026-05-08 | 3413821 | +102.7%    | 0.199%         |
-| 2026-05-11 | 2119900 | +25.8%     | 0.124%         |
+| 2026-05-07 | 2465935 | +46.3%     | 0.144%         |
+| 2026-05-08 | 3413821 | +102.6%    | 0.199%         |
+| 2026-05-11 | 2122022 | +25.9%     | 0.124%         |
+| 2026-05-12 | 1521500 | -9.7%      | 0.089%         |
 
-- KL trung bình 60 phiên: **1,684,554**
+- KL trung bình 60 phiên: **1,685,110**
 - Số CP lưu hành: **1,715,686,480**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                                          | 2026-05-12T13:02:00     | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                 |
+| Nam A Bank và IFC khởi động dự án tư vấn tài trợ chuỗi cung ứng (SCF)                                                     | 2026-05-11T17:44:14.9   | /2026/05/nam-a-bank-va-ifc-khoi-dong-du-an-tu-van-tai-tro-chuoi-cung-ung-scf-757-1440925.htm                              |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026                         | 2026-05-11T11:02:00     | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm  |
 | NAB: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Lâm Kim Khôi                                                     | 2026-05-08T15:50:55     | /2026/05/nab-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-lam-kim-khoi-739-1440072.htm                             |
 | MSB tham gia góp vốn vào VIS Rating                                                                                       | 2026-05-07T13:08:57.177 | /2026/05/msb-tham-gia-gop-von-vao-vis-rating-764-1439296.htm                                                              |
@@ -106,8 +108,6 @@
 | NAB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                                              | 2026-04-29T14:38:16     | /2026/04/nab-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435538.htm                      |
 | NAB: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00     | /2026/04/nab-bctc-hop-nhat-quy-1-nam-2026-737-1435528.htm                                                                 |
 | NAB: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00     | /2026/04/nab-bctc-quy-1-nam-2026-737-1435529.htm                                                                          |
-| NAB: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền nhận cổ phiếu phát hành để tăng vốn cổ phần từ nguồn vốn chủ… | 2026-04-28T15:36:02     | /2026/04/nab-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-phieu-phat-hanh-de-tang-von-co-phan-tu-nguon… |
-| Nam A Bank tiên phong triển khai Trạm Công dân số– bước đi đột phá trong hành trình chuyển đổi số phục vụ cộng đồng       | 2026-04-25T09:00:00     | /2026/04/nam-a-bank-tien-phong-trien-khai-tram-cong-dan-so8211-buoc-di-dot-pha-trong-hanh-trinh-chuyen-doi-so-phuc-vu-co… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -118,16 +118,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.72% |
-| % Cổ phiếu hôm nay | +0.81% |
-| RS (CP − Ngành) | +1.53% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +0.35% |
+| % Cổ phiếu hôm nay | +0.00% |
+| RS (CP − Ngành) | -0.35% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| NAB      | 2025-12-23 00:00:00 |  12.08 |  12.12 | 12    |   12    |  1253107 |
 | NAB      | 2025-12-24 00:00:00 |  12    |  12.08 | 11.96 |   12.08 |  1276344 |
 | NAB      | 2025-12-25 00:00:00 |  12.04 |  12.08 | 11.92 |   11.92 |  1174308 |
 | NAB      | 2025-12-26 00:00:00 |  12    |  12    | 11.79 |   11.83 |  1227092 |
@@ -216,22 +215,23 @@ _Không có dữ liệu_
 | NAB      | 2026-05-06 00:00:00 |  11.83 |  12    | 11.79 |   11.96 |  2039047 |
 | NAB      | 2026-05-07 00:00:00 |  12    |  12.21 | 11.96 |   12.08 |  2465935 |
 | NAB      | 2026-05-08 00:00:00 |  12.04 |  12.42 | 11.96 |   12.37 |  3413821 |
-| NAB      | 2026-05-11 00:00:00 |  12.45 |  12.6  | 12.4  |   12.5  |  2119900 |
+| NAB      | 2026-05-11 00:00:00 |  12.45 |  12.6  | 12.4  |   12.5  |  2122022 |
+| NAB      | 2026-05-12 00:00:00 |  12.5  |  12.6  | 12.4  |   12.5  |  1521500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| NAB      | 2026-05-11 14:09:40 |   12.5  |     2000 | Sell         | 473195830 |
-| NAB      | 2026-05-11 14:09:40 |   12.5  |    10400 | Buy          | 473195846 |
-| NAB      | 2026-05-11 14:09:40 |   12.5  |     1000 | Sell         | 473195831 |
-| NAB      | 2026-05-11 14:09:40 |   12.5  |     2000 | Sell         | 473195832 |
-| NAB      | 2026-05-11 14:09:40 |   12.5  |     3000 | Sell         | 473195833 |
-| NAB      | 2026-05-11 14:09:58 |   12.5  |    20000 | Sell         | 473196690 |
-| NAB      | 2026-05-11 14:10:07 |   12.5  |      300 | Buy          | 473197491 |
-| NAB      | 2026-05-11 14:10:33 |   12.5  |     2000 | Buy          | 473199787 |
-| NAB      | 2026-05-11 14:10:36 |   12.55 |     2000 | Buy          | 473199965 |
-| NAB      | 2026-05-11 14:10:36 |   12.55 |     1000 | Buy          | 473199964 |
+| NAB      | 2026-05-12 13:42:05 |   12.5  |      100 | Buy          | 473714125 |
+| NAB      | 2026-05-12 13:43:05 |   12.5  |      100 | Buy          | 473716986 |
+| NAB      | 2026-05-12 13:44:00 |   12.5  |      100 | Buy          | 473719338 |
+| NAB      | 2026-05-12 13:44:07 |   12.5  |      100 | Buy          | 473719695 |
+| NAB      | 2026-05-12 13:44:29 |   12.45 |     9800 | Sell         | 473721104 |
+| NAB      | 2026-05-12 13:44:29 |   12.45 |      200 | Sell         | 473721103 |
+| NAB      | 2026-05-12 13:44:37 |   12.5  |    10000 | Buy          | 473721444 |
+| NAB      | 2026-05-12 13:45:09 |   12.5  |      200 | Buy          | 473722995 |
+| NAB      | 2026-05-12 13:46:12 |   12.5  |      100 | Buy          | 473725703 |
+| NAB      | 2026-05-12 13:47:14 |   12.5  |      200 | Buy          | 473728393 |
 
 <!-- END:DAILY -->
 

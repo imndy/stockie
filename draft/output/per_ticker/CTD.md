@@ -1,6 +1,6 @@
 # CTD — CTCP Xây dựng Coteccons
 **Sàn:** HOSE  |  **Ngành:** Xây dựng
-> 📅 Daily: 11/05/2026 20:32  |  🗂 Quarterly: 03/05/2026 13:59
+> 📅 Daily: 12/05/2026 20:36  |  🗂 Quarterly: 03/05/2026 13:59
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | CTD |
 | exchange | HOSE |
-| market_cap | 8094030704000 |
+| market_cap | 7870379855600 |
 | 52w_high | 92751 |
 | 52w_high_date | 2025-10-31 |
 | 52w_low | 66404 |
 | 52w_low_date | 2025-08-25 |
 | foreign_ownership | 49 |
 | dividend | 1000 |
-| beta | 0.78 |
+| beta | 0.77 |
 | eps | 7988 |
-| eps_forward | 11.370046146398227 |
+| eps_forward | 11.251608165706578 |
 | bvps | 91693 |
-| pe | 9.61 |
-| pb | 0.84 |
-| price_chg_1m | -2.68 |
-| price_chg_ytd | 8.04 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
-| yield | 0.013157894736842105 |
+| pe | 9.51 |
+| pb | 0.83 |
+| price_chg_1m | -5.37 |
+| price_chg_ytd | 4.92 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
+| yield | 0.013531799729364006 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,49 +36,50 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 76.0 |
-| MA5 | 81.3 |
-| MA10 | 83.92 |
-| EMA20 | 81.549 |
-| EMA50 | 79.897 |
-| Slope MA20 (5p, %) | -0.68 |
-| ATR(14) | 3.515 |
-| RSI(14) | 38.8 |
+| Giá đóng cửa | 73.9 |
+| MA5 | 78.78 |
+| MA10 | 82.64 |
+| EMA20 | 80.821 |
+| EMA50 | 79.682 |
+| Slope MA20 (5p, %) | -2.07 |
+| ATR(14) | 3.469 |
+| RSI(14) | 35.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TRUNG TÍNH |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.476 |
-| MACD Signal | 1.364 |
-| MACD Histogram | -0.888 |
+| MACD | -0.182 |
+| MACD Signal | 1.054 |
+| MACD Histogram | -1.236 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 978100 |
+| KL avg 60 phiên | 994436 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    85.81  | 0.98        | 1             |
-| 🔴 Kháng cự    |    83.377 | 2.08        | 2             |
-| ▶ Giá hiện tại |    76     | —           | —             |
-| 🟢 Hỗ trợ      |    75.223 | 1.28        | 2             |
-| 🟢 Hỗ trợ      |    74.684 | 2.41        | 2             |
-| 🟢 Hỗ trợ      |    71.62  | 2.11        | 2             |
+| 🔴 Kháng cự    |    83.377 | 2.06        | 2             |
+| 🔴 Kháng cự    |    75.14  | 0.72        | 1             |
+| 🔴 Kháng cự    |    74.684 | 2.39        | 2             |
+| ▶ Giá hiện tại |    73.9   | —           | —             |
+| 🟢 Hỗ trợ      |    71.62  | 2.08        | 2             |
+| 🟢 Hỗ trợ      |    70.738 | 1.55        | 2             |
+| 🟢 Hỗ trợ      |    68.86  | 0.66        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CTD |
-| pe | 9.61 |
-| pb | 0.84 |
+| pe | 9.51 |
+| pb | 0.83 |
 | eps | 7988 |
 | bvps | 91693 |
-| beta | 0.78 |
+| beta | 0.77 |
 | dividend | 1000 |
-| yield | 0.013157894736842105 |
+| yield | 0.013531799729364006 |
 | pe_pct_rank | 43 |
-| pb_pct_rank | 35 |
+| pb_pct_rank | 34 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -86,19 +87,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-05 |  590600 | -39.6%     | 0.555%         |
-| 2026-05-06 |  705200 | -27.9%     | 0.662%         |
-| 2026-05-07 | 2707700 | +176.8%    | 2.542%         |
-| 2026-05-08 | 4977700 | +408.9%    | 4.674%         |
-| 2026-05-11 | 1713000 | +75.1%     | 1.608%         |
+| 2026-05-06 |  705200 | -29.1%     | 0.662%         |
+| 2026-05-07 | 2707700 | +172.3%    | 2.542%         |
+| 2026-05-08 | 4977700 | +400.6%    | 4.674%         |
+| 2026-05-11 | 1713000 | +72.3%     | 1.608%         |
+| 2026-05-12 | 1752400 | +76.2%     | 1.645%         |
 
-- KL trung bình 60 phiên: **978,100**
+- KL trung bình 60 phiên: **994,436**
 - Số CP lưu hành: **106,500,404**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                              | publishtime             | url                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| CTD: Báo cáo về ngày không còn cổ đông lớn của nhóm nhà đầu tư nước ngoài có liên quan                             | 2026-05-12T17:33:22     | /2026/05/ctd-bao-cao-ve-ngay-khong-con-co-dong-lon-cua-nhom-nha-dau-tu-nuoc-ngoai-co-lien-quan-737-1441701.htm            |
 | CTD: Thông báo công văn của UBCKNN về tài liệu báo cáo kết quả đợt phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH | 2026-05-08T16:29:03     | /2026/05/ctd-thong-bao-cong-van-cua-ubcknn-ve-tai-lieu-bao-cao-ket-qua-dot-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvc… |
 | Cổ phiếu CTD bất ngờ nằm sàn sau quyết định của tòa án                                                             | 2026-05-07T18:05:33.063 | /2026/05/co-phieu-ctd-bat-ngo-nam-san-sau-quyet-dinh-cua-toa-an-830-1439559.htm                                           |
 | CTD: Thông báo nhận được Quyết định số 1178 của Tòa án ND Khu vực 5 - TP.HCM                                       | 2026-05-06T11:00:03     | /2026/05/ctd-thong-bao-nhan-duoc-quyet-dinh-so-1178-cua-toa-an-nd-khu-vuc-5-tp-hcm-830-1438451.htm                        |
@@ -108,7 +110,6 @@
 | CTD: Báo cáo kết quả đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu                            | 2026-04-28T11:04:55     | /2026/04/ctd-bao-cao-ket-qua-dot-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-739-1434433.htm           |
 | CTD: Thông báo nhận được Đơn xin từ nhiệm các chức danh Phó TGĐ, Giám đốc Tài chính                                | 2026-04-28T11:03:45     | /2026/04/ctd-thong-bao-nhan-duoc-don-xin-tu-nhiem-cac-chuc-danh-pho-tgd-giam-doc-tai-chinh-830-1434450.htm                |
 | Lợi nhuận quý 3 Coteccons gấp đôi cùng kỳ, backlog lập đỉnh gần 65,500 tỷ                                          | 2026-04-27T08:32:00     | /2026/04/loi-nhuan-quy-3-coteccons-gap-doi-cung-ky-backlog-lap-dinh-gan-65500-ty-737-1434117.htm                          |
-| CTD: BCTC quý 3 năm 2026                                                                                           | 2026-04-24T00:00:00     | /2026/04/ctd-bctc-quy-3-nam-2026-737-1433707.htm                                                                          |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,16 +120,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Xây dựng |
-| % Ngành hôm nay | +0.66% |
-| % Cổ phiếu hôm nay | -1.04% |
-| RS (CP − Ngành) | -1.70% |
+| % Ngành hôm nay | +0.53% |
+| % Cổ phiếu hôm nay | -2.76% |
+| RS (CP − Ngành) | -3.29% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CTD      | 2025-12-23 00:00:00 |  72.29 |  75.29 | 72.11 |   73.93 |   633346 |
 | CTD      | 2025-12-24 00:00:00 |  74.57 |  75.05 | 73.91 |   74.57 |   288322 |
 | CTD      | 2025-12-25 00:00:00 |  74.29 |  75.05 | 73.81 |   73.81 |   327646 |
 | CTD      | 2025-12-26 00:00:00 |  73.62 |  73.81 | 71.43 |   71.53 |   581349 |
@@ -218,21 +218,22 @@ _Không có dữ liệu_
 | CTD      | 2026-05-07 00:00:00 |  86.9  |  90.3  | 80.6  |   80.6  |  2707700 |
 | CTD      | 2026-05-08 00:00:00 |  80    |  80.4  | 75    |   76.8  |  4977700 |
 | CTD      | 2026-05-11 00:00:00 |  77.5  |  80.1  | 74.9  |   76    |  1713000 |
+| CTD      | 2026-05-12 00:00:00 |  75.3  |  76.8  | 73.9  |   73.9  |  1752400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CTD      | 2026-05-11 14:25:09 |    75.3 |      400 | Sell         | 473269134 |
-| CTD      | 2026-05-11 14:25:10 |    75.3 |      100 | Sell         | 473269296 |
-| CTD      | 2026-05-11 14:25:10 |    75.3 |      100 | Sell         | 473269307 |
-| CTD      | 2026-05-11 14:25:13 |    75.3 |      100 | Sell         | 473269664 |
-| CTD      | 2026-05-11 14:25:23 |    75.3 |      100 | Sell         | 473270822 |
-| CTD      | 2026-05-11 14:25:29 |    75.3 |      100 | Sell         | 473271575 |
-| CTD      | 2026-05-11 14:25:29 |    75.2 |      600 | Sell         | 473271577 |
-| CTD      | 2026-05-11 14:25:29 |    75.2 |     1500 | Sell         | 473271579 |
-| CTD      | 2026-05-11 14:25:29 |    75.2 |      500 | Sell         | 473271580 |
-| CTD      | 2026-05-11 14:25:29 |    75.2 |      100 | Sell         | 473271597 |
+| CTD      | 2026-05-12 14:24:37 |    74.1 |      200 | Sell         | 473850651 |
+| CTD      | 2026-05-12 14:24:39 |    74.2 |      900 | Buy          | 473850732 |
+| CTD      | 2026-05-12 14:24:39 |    74.2 |      100 | Buy          | 473850730 |
+| CTD      | 2026-05-12 14:24:39 |    74.2 |      500 | Buy          | 473850731 |
+| CTD      | 2026-05-12 14:24:40 |    74.2 |      500 | Sell         | 473850786 |
+| CTD      | 2026-05-12 14:24:44 |    74.2 |      800 | Sell         | 473850998 |
+| CTD      | 2026-05-12 14:24:46 |    74.2 |      200 | Sell         | 473851091 |
+| CTD      | 2026-05-12 14:24:49 |    74.1 |     4400 | Sell         | 473851234 |
+| CTD      | 2026-05-12 14:24:49 |    74.1 |      200 | Sell         | 473851235 |
+| CTD      | 2026-05-12 14:24:49 |    74.1 |     5400 | Sell         | 473851236 |
 
 <!-- END:DAILY -->
 

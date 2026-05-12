@@ -1,6 +1,6 @@
 # VCB — Ngân hàng TMCP Ngoại thương Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 11/05/2026 20:41  |  🗂 Quarterly: 03/05/2026 14:22
+> 📅 Daily: 12/05/2026 20:46  |  🗂 Quarterly: 03/05/2026 14:22
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VCB |
 | exchange | HOSE |
-| market_cap | 503847208168200 |
+| market_cap | 500504938130600 |
 | 52w_high | 76000 |
 | 52w_high_date | 2026-01-14 |
 | 52w_low | 55341 |
 | 52w_low_date | 2025-06-11 |
-| foreign_ownership | 20.0187 |
+| foreign_ownership | 20.0159 |
 | dividend | 450 |
 | beta | 0.79 |
 | eps | 4301 |
-| eps_forward | 16.5339231431342 |
+| eps_forward | 16.42496813065885 |
 | bvps | 28008.67 |
-| pe | 14.11 |
-| pb | 2.17 |
-| price_chg_1m | 0.84 |
-| price_chg_ytd | 7.23 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
-| yield | 0.007462686567164179 |
+| pe | 14.02 |
+| pb | 2.15 |
+| price_chg_1m | 0.17 |
+| price_chg_ytd | 6.52 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
+| yield | 0.007512520868113523 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 60.3 |
+| Giá đóng cửa | 59.9 |
 | MA5 | 60.34 |
-| MA10 | 60.54 |
-| EMA20 | 60.092 |
-| EMA50 | 60.52 |
-| Slope MA20 (5p, %) | 0.29 |
-| ATR(14) | 1.281 |
-| RSI(14) | 51.0 |
+| MA10 | 60.25 |
+| EMA20 | 60.074 |
+| EMA50 | 60.492 |
+| Slope MA20 (5p, %) | 0.26 |
+| ATR(14) | 1.26 |
+| RSI(14) | 49.0 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
-| Giá vs EMA20 | Trên |
+| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
+| Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | 0.151 |
-| MACD Signal | 0.057 |
-| MACD Histogram | 0.094 |
+| MACD | 0.112 |
+| MACD Signal | 0.068 |
+| MACD Histogram | 0.045 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 8794533 |
+| KL avg 60 phiên | 8708875 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |      62.6 | 0.9         | 1             |
-| 🔴 Kháng cự    |      62   | 1.12        | 1             |
-| 🔴 Kháng cự    |      61   | 1.3         | 1             |
-| ▶ Giá hiện tại |      60.3 | —           | —             |
-| 🟢 Hỗ trợ      |      59.2 | 1.38        | 1             |
-| 🟢 Hỗ trợ      |      58.1 | 0.55        | 1             |
-| 🟢 Hỗ trợ      |      57.7 | 3.77        | 3             |
+| 🔴 Kháng cự    |    62.6   | 0.89        | 1             |
+| 🔴 Kháng cự    |    62     | 1.11        | 1             |
+| 🔴 Kháng cự    |    61     | 1.29        | 1             |
+| ▶ Giá hiện tại |    59.9   | —           | —             |
+| 🟢 Hỗ trợ      |    59.2   | 1.37        | 1             |
+| 🟢 Hỗ trợ      |    57.7   | 3.74        | 3             |
+| 🟢 Hỗ trợ      |    57.022 | 3.38        | 4             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VCB |
-| pe | 14.11 |
-| pb | 2.17 |
+| pe | 14.02 |
+| pb | 2.15 |
 | roe | 16.61 |
 | roe_pct_rank | 61 |
 | roa | 1.55 |
@@ -81,9 +81,9 @@
 | bvps | 28008.67 |
 | beta | 0.79 |
 | dividend | 450 |
-| yield | 0.007462686567164179 |
+| yield | 0.007512520868113523 |
 | pe_pct_rank | 53 |
-| pb_pct_rank | 78 |
+| pb_pct_rank | 77 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +91,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-05 | 6407700 | -27.1%     | 0.077%         |
-| 2026-05-06 | 5807400 | -34.0%     | 0.070%         |
-| 2026-05-07 | 6055700 | -31.1%     | 0.072%         |
-| 2026-05-08 | 9970000 | +13.4%     | 0.119%         |
-| 2026-05-11 | 5510000 | -37.3%     | 0.066%         |
+| 2026-05-06 | 5807400 | -33.3%     | 0.070%         |
+| 2026-05-07 | 6055700 | -30.5%     | 0.072%         |
+| 2026-05-08 | 9970000 | +14.5%     | 0.119%         |
+| 2026-05-11 | 5510000 | -36.7%     | 0.066%         |
+| 2026-05-12 | 6549200 | -24.8%     | 0.078%         |
 
-- KL trung bình 60 phiên: **8,794,533**
+- KL trung bình 60 phiên: **8,708,875**
 - Số CP lưu hành: **8,355,675,094**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                             | publishtime             | url                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                  | 2026-05-12T13:02:00     | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026 | 2026-05-11T11:02:00     | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm |
 | VCB: Quyết định của HĐQT về việc thay đổi địa chỉ trụ sở Chi nhánh và các phòng GD                | 2026-05-08T18:11:17     | /2026/05/vcb-quyet-dinh-cua-hdqt-ve-viec-thay-doi-dia-chi-tru-so-chi-nhanh-va-cac-phong-gd-737-1440387.htm               |
 | Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                     | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                      |
@@ -113,7 +114,6 @@
 | VCB: Thông báo thay đổi nhân sự - Bổ nhiệm thành viên BKS                                         | 2026-04-28T15:41:17     | /2026/04/vcb-thong-bao-thay-doi-nhan-su-bo-nhiem-thanh-vien-bks-214-1434781.htm                                          |
 | VCB: Báo cáo phát triển bền vững 2025                                                             | 2026-04-28T15:30:34     | /2026/04/vcb-bao-cao-phat-trien-ben-vung-2025-830-1434748.htm                                                            |
 | VCB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                            | 2026-04-28T09:22:32     | /2026/04/vcb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434347.htm                                           |
-| VCB: Nghị quyết HĐQT về việc cập nhật, bổ sung tài liệu ĐHĐCĐ thường niên năm 2026                | 2026-04-24T09:01:25     | /2026/04/vcb-nghi-quyet-hdqt-ve-viec-cap-nhat-bo-sung-tai-lieu-dhdcd-thuong-nien-nam-2026-737-1433066.htm                |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | -0.72% |
+| % Ngành hôm nay | +0.35% |
 | % Cổ phiếu hôm nay | -0.66% |
-| RS (CP − Ngành) | +0.06% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| RS (CP − Ngành) | -1.01% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCB      | 2025-12-23 00:00:00 |   57.8 |   58.1 |  57   |    57.2 |  3147900 |
 | VCB      | 2025-12-24 00:00:00 |   57.3 |   57.3 |  56.9 |    57   |  4431500 |
 | VCB      | 2025-12-25 00:00:00 |   57   |   57.9 |  57   |    57.1 |  3968100 |
 | VCB      | 2025-12-26 00:00:00 |   57.1 |   57.4 |  56.6 |    57.1 |  3302500 |
@@ -223,21 +222,22 @@ _Không có dữ liệu_
 | VCB      | 2026-05-07 00:00:00 |   60.9 |   61.1 |  60.3 |    60.3 |  6055700 |
 | VCB      | 2026-05-08 00:00:00 |   60.5 |   61.7 |  60.3 |    60.7 |  9970000 |
 | VCB      | 2026-05-11 00:00:00 |   61   |   61.1 |  60.2 |    60.3 |  5510000 |
+| VCB      | 2026-05-12 00:00:00 |   60.3 |   60.5 |  59.5 |    59.9 |  6549200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCB      | 2026-05-11 14:27:39 |    60.3 |      100 | Sell         | 473287587 |
-| VCB      | 2026-05-11 14:27:39 |    60.3 |      200 | Sell         | 473287588 |
-| VCB      | 2026-05-11 14:27:39 |    60.3 |      100 | Sell         | 473287589 |
-| VCB      | 2026-05-11 14:27:40 |    60.3 |      100 | Sell         | 473287608 |
-| VCB      | 2026-05-11 14:27:41 |    60.3 |      600 | Sell         | 473287793 |
-| VCB      | 2026-05-11 14:27:44 |    60.4 |      300 | Buy          | 473288202 |
-| VCB      | 2026-05-11 14:27:44 |    60.4 |      800 | Buy          | 473288205 |
-| VCB      | 2026-05-11 14:27:45 |    60.4 |     1100 | Buy          | 473288314 |
-| VCB      | 2026-05-11 14:27:46 |    60.4 |      900 | Buy          | 473288418 |
-| VCB      | 2026-05-11 14:27:48 |    60.4 |     1000 | Buy          | 473288740 |
+| VCB      | 2026-05-12 14:27:29 |    59.8 |      100 | Buy          | 473860878 |
+| VCB      | 2026-05-12 14:27:31 |    59.8 |     1000 | Buy          | 473860973 |
+| VCB      | 2026-05-12 14:27:32 |    59.8 |      100 | Buy          | 473861033 |
+| VCB      | 2026-05-12 14:27:32 |    59.7 |      500 | Sell         | 473860993 |
+| VCB      | 2026-05-12 14:27:42 |    59.8 |      500 | Buy          | 473861588 |
+| VCB      | 2026-05-12 14:27:44 |    59.8 |      100 | Buy          | 473861747 |
+| VCB      | 2026-05-12 14:27:53 |    59.8 |     1000 | Buy          | 473862168 |
+| VCB      | 2026-05-12 14:27:56 |    59.8 |      400 | Buy          | 473862350 |
+| VCB      | 2026-05-12 14:27:59 |    59.8 |      100 | Buy          | 473862669 |
+| VCB      | 2026-05-12 14:28:00 |    59.8 |      600 | Buy          | 473862928 |
 
 <!-- END:DAILY -->
 

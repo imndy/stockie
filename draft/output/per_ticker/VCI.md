@@ -1,6 +1,6 @@
 # VCI — CTCP Chứng khoán Vietcap
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 11/05/2026 20:41  |  🗂 Quarterly: 03/05/2026 14:23
+> 📅 Daily: 12/05/2026 20:46  |  🗂 Quarterly: 03/05/2026 14:23
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VCI |
 | exchange | HOSE |
-| market_cap | 29494140472500 |
+| market_cap | 29264614087500 |
 | 52w_high | 34986 |
 | 52w_high_date | 2025-08-29 |
 | 52w_low | 23711 |
 | 52w_low_date | 2025-12-12 |
-| foreign_ownership | 19.6288 |
+| foreign_ownership | 19.3799 |
 | dividend | 750 |
-| beta | 0.91 |
+| beta | 0.92 |
 | eps | 1848 |
-| eps_forward | 9.591360014192995 |
+| eps_forward | 9.498957701917533 |
 | bvps | 20373.4 |
-| pe | 14.04 |
-| pb | 1.27 |
-| price_chg_1m | -7.89 |
-| price_chg_ytd | -2.49 |
-| price_chg_1m_rank | 9.03 |
-| price_chg_ytd_rank | 49.57 |
-| yield | 0.029182879377431907 |
+| pe | 13.91 |
+| pb | 1.26 |
+| price_chg_1m | -8.60 |
+| price_chg_ytd | -3.52 |
+| price_chg_1m_rank | 9.35 |
+| price_chg_ytd_rank | 48.15 |
+| yield | 0.029411764705882353 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,54 +36,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.7 |
-| MA5 | 25.93 |
-| MA10 | 26.24 |
-| EMA20 | 26.527 |
-| EMA50 | 26.667 |
-| Slope MA20 (5p, %) | -1.46 |
-| ATR(14) | 0.788 |
-| RSI(14) | 41.8 |
+| Giá đóng cửa | 25.5 |
+| MA5 | 25.91 |
+| MA10 | 26.075 |
+| EMA20 | 26.429 |
+| EMA50 | 26.621 |
+| Slope MA20 (5p, %) | -1.36 |
+| ATR(14) | 0.767 |
+| RSI(14) | 40.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.316 |
-| MACD Signal | -0.169 |
-| MACD Histogram | -0.147 |
+| MACD | -0.356 |
+| MACD Signal | -0.206 |
+| MACD Histogram | -0.15 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 11257194 |
+| KL avg 60 phiên | 11241256 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    26.92  | 0.69        | 1             |
-| 🔴 Kháng cự    |    26.27  | 0.59        | 1             |
-| 🔴 Kháng cự    |    26.05  | 1.27        | 1             |
-| ▶ Giá hiện tại |    25.7   | —           | —             |
-| 🟢 Hỗ trợ      |    25.63  | 1.06        | 1             |
-| 🟢 Hỗ trợ      |    25.11  | 1.79        | 2             |
-| 🟢 Hỗ trợ      |    24.408 | 1.79        | 2             |
+| 🔴 Kháng cự    |    26.27  | 0.58        | 1             |
+| 🔴 Kháng cự    |    26.05  | 1.26        | 1             |
+| 🔴 Kháng cự    |    25.63  | 1.05        | 1             |
+| ▶ Giá hiện tại |    25.5   | —           | —             |
+| 🟢 Hỗ trợ      |    25.11  | 1.77        | 2             |
+| 🟢 Hỗ trợ      |    24.408 | 1.77        | 2             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VCI |
-| pe | 14.04 |
-| pb | 1.27 |
+| pe | 13.91 |
+| pb | 1.26 |
 | roe | 8.67 |
 | roe_pct_rank | 44 |
 | roa | 4.29 |
 | roa_pct_rank | 48 |
 | eps | 1848 |
 | bvps | 20373.4 |
-| beta | 0.91 |
+| beta | 0.92 |
 | dividend | 750 |
-| yield | 0.029182879377431907 |
+| yield | 0.029411764705882353 |
 | pe_pct_rank | 53 |
-| pb_pct_rank | 53 |
+| pb_pct_rank | 52 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,19 +90,21 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-05 |  8345900 | -25.9%     | 0.727%         |
-| 2026-05-06 | 13158800 | +16.9%     | 1.147%         |
-| 2026-05-07 | 10042500 | -10.8%     | 0.875%         |
-| 2026-05-08 |  6295800 | -44.1%     | 0.549%         |
-| 2026-05-11 | 10693500 | -5.0%      | 0.932%         |
+| 2026-05-06 | 13158800 | +17.1%     | 1.147%         |
+| 2026-05-07 | 10042500 | -10.7%     | 0.875%         |
+| 2026-05-08 |  6295800 | -44.0%     | 0.549%         |
+| 2026-05-11 | 10693500 | -4.9%      | 0.932%         |
+| 2026-05-12 |  6732300 | -40.1%     | 0.587%         |
 
-- KL trung bình 60 phiên: **11,257,194**
+- KL trung bình 60 phiên: **11,241,255**
 - Số CP lưu hành: **1,147,631,925**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| VCI: Công bố thông tin về ngày đăng ký cuối cùng để thực hiện chứng quyền tại ngày đáo hạn 26/05/2026 / Notice regarding… | 2026-05-12T00:00:00     | /2026/05/vci-cong-bo-thong-tin-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-chung-quyen-tai-ngay-dao-han-26-05-2026-notice-reg… |
+| VCI: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan của người nội bộ/ Report on result of transaction shares … | 2026-05-12T00:00:00     | /2026/05/vci-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-report-on-result-of-transaction-… |
 | Lãnh đạo mua bán cổ phiếu: Giao dịch đáng chú ý tại CAG, NKG và VCI                                                       | 2026-05-11T15:02:00     | /2026/05/lanh-dao-mua-ban-co-phieu-giao-dich-dang-chu-y-tai-cag-nkg-va-vci-739-1440738.htm                                |
 | Vợ ông Tô Hải đã thoái hết cổ phần tại VCI                                                                                | 2026-05-07T19:01:24.033 | /2026/05/vo-ong-to-hai-da-thoai-het-co-phan-tai-vci-739-1439654.htm                                                       |
 | VCI: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến Người nội bộ Trương Nguyễn Thiên Kim                   | 2026-05-06T16:56:43     | /2026/05/vci-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-truong-nguyen-thien-kim-739-1439… |
@@ -112,8 +113,6 @@
 | VCI: Thông báo thay đổi Giấy chứng nhận đăng ký doanh nghiệp lần 30/Notice of the 30th Amendment to the Enterprise Regis… | 2026-05-05T00:00:00     | /2026/05/vci-thong-bao-thay-doi-giay-chung-nhan-dang-ky-doanh-nghiep-lan-30-notice-of-the-30th-amendment-to-the-enterpri… |
 | VCI: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của Người nội bộ Quỹ đầu tư Bản Việt Discovery                 | 2026-04-29T15:42:17     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-cua-nguoi-noi-bo-quy-dau-tu-ban-viet-discovery-737-14… |
 | VCI: Thông báo giao dịch cổ phiếu của người có liên quan của người nội bộ - VCAM /Notice of the transaction in share of … | 2026-04-29T00:00:00     | /2026/04/vci-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-cua-nguoi-noi-bo-vcam-notice-of-the-transaction-in-shar… |
-| VCI: Nghị quyết HĐQT về việc giao dịch với người có liên quan của người nội bộ                                            | 2026-04-24T18:19:02     | /2026/04/vci-nghi-quyet-hdqt-ve-viec-giao-dich-voi-nguoi-co-lien-quan-cua-nguoi-noi-bo-737-1433787.htm                    |
-| VCI báo lãi sau thuế quý 1 tăng 16%, tự doanh giải ngân thêm vào MCH, MWG, MBB                                            | 2026-04-24T17:02:39.073 | /2026/04/vci-bao-lai-sau-thue-quy-1-tang-16-tu-doanh-giai-ngan-them-vao-mch-mwg-mbb-737-1433427.htm                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,16 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.25% |
-| % Cổ phiếu hôm nay | -0.96% |
-| RS (CP − Ngành) | -0.71% |
+| % Ngành hôm nay | -0.03% |
+| % Cổ phiếu hôm nay | -0.78% |
+| RS (CP − Ngành) | -0.75% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VCI      | 2025-12-23 00:00:00 |  25.55 |  25.59 | 24.86 |   24.86 |  6915914 |
 | VCI      | 2025-12-24 00:00:00 |  24.86 |  25.98 | 24.75 |   25.84 | 12213159 |
 | VCI      | 2025-12-25 00:00:00 |  25.88 |  26.06 | 24.93 |   24.93 |  7879096 |
 | VCI      | 2025-12-26 00:00:00 |  25.01 |  26.02 | 24.72 |   25.8  | 14219056 |
@@ -223,21 +221,22 @@ _Không có dữ liệu_
 | VCI      | 2026-05-07 00:00:00 |  26.55 |  26.75 | 25.9  |   25.9  | 10042500 |
 | VCI      | 2026-05-08 00:00:00 |  25.9  |  26.3  | 25.8  |   25.95 |  6295800 |
 | VCI      | 2026-05-11 00:00:00 |  26    |  26.45 | 25.7  |   25.7  | 10693500 |
+| VCI      | 2026-05-12 00:00:00 |  25.7  |  25.9  | 25.4  |   25.5  |  6732300 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      300 | Sell         | 473292848 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      100 | Sell         | 473292860 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      300 | Sell         | 473292850 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      500 | Sell         | 473292851 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      700 | Sell         | 473292852 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |     1000 | Sell         | 473292853 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      500 | Sell         | 473292854 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      100 | Sell         | 473292855 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |      500 | Sell         | 473292856 |
-| VCI      | 2026-05-11 14:28:17 |    25.7 |     1000 | Sell         | 473292857 |
+| VCI      | 2026-05-12 14:26:30 |   25.5  |     5000 | Sell         | 473857184 |
+| VCI      | 2026-05-12 14:26:30 |   25.5  |     4900 | Sell         | 473857185 |
+| VCI      | 2026-05-12 14:26:35 |   25.55 |      300 | Buy          | 473857458 |
+| VCI      | 2026-05-12 14:26:40 |   25.55 |      100 | Buy          | 473857669 |
+| VCI      | 2026-05-12 14:26:40 |   25.55 |      300 | Buy          | 473857670 |
+| VCI      | 2026-05-12 14:26:43 |   25.5  |      500 | Sell         | 473857912 |
+| VCI      | 2026-05-12 14:26:43 |   25.5  |      100 | Sell         | 473857906 |
+| VCI      | 2026-05-12 14:26:43 |   25.5  |      100 | Sell         | 473857907 |
+| VCI      | 2026-05-12 14:26:43 |   25.5  |      100 | Sell         | 473857908 |
+| VCI      | 2026-05-12 14:26:43 |   25.5  |      200 | Sell         | 473857910 |
 
 <!-- END:DAILY -->
 
