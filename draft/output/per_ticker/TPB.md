@@ -1,6 +1,6 @@
 # TPB — Ngân hàng TMCP Tiên Phong
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 12/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:22
+> 📅 Daily: 14/05/2026 20:52  |  🗂 Quarterly: 03/05/2026 14:22
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | TPB |
 | exchange | HOSE |
-| market_cap | 43829940593400 |
+| market_cap | 43968642937050 |
 | 52w_high | 21017 |
 | 52w_high_date | 2025-08-21 |
 | 52w_low | 12439 |
 | 52w_low_date | 2025-06-09 |
-| foreign_ownership | 24.3784 |
+| foreign_ownership | 24.1783 |
 | dividend | 1000 |
-| beta | 0.88 |
+| beta | 0.89 |
 | eps | 2737 |
-| eps_forward | 4.2418643734564325 |
+| eps_forward | 4.2014656651378 |
 | bvps | 17315.61 |
-| pe | 5.75 |
-| pb | 0.91 |
-| price_chg_1m | -3.07 |
-| price_chg_ytd | 20.56 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.06329113924050633 |
+| pe | 5.70 |
+| pb | 0.90 |
+| price_chg_1m | -3.65 |
+| price_chg_ytd | 20.50 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.06309148264984227 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,47 +36,47 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 15.8 |
-| MA5 | 15.97 |
-| MA10 | 16.12 |
-| EMA20 | 16.142 |
-| EMA50 | 16.332 |
-| Slope MA20 (5p, %) | -0.78 |
-| ATR(14) | 0.328 |
-| RSI(14) | 38.2 |
+| Giá đóng cửa | 15.85 |
+| MA5 | 15.8 |
+| MA10 | 16.01 |
+| EMA20 | 16.067 |
+| EMA50 | 16.29 |
+| Slope MA20 (5p, %) | -1.1 |
+| ATR(14) | 0.331 |
+| RSI(14) | 42.5 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.1 |
-| MACD Signal | -0.053 |
-| MACD Histogram | -0.047 |
+| MACD | -0.134 |
+| MACD Signal | -0.082 |
+| MACD Histogram | -0.052 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 12305933 |
+| KL avg 60 phiên | 12377263 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    16.711 | 2.6         | 2             |
-| 🔴 Kháng cự    |    16.585 | 2.95        | 4             |
-| 🔴 Kháng cự    |    16.15  | 1.37        | 1             |
-| ▶ Giá hiện tại |    15.8   | —           | —             |
-| 🟢 Hỗ trợ      |    15.677 | 3.34        | 3             |
-| 🟢 Hỗ trợ      |    15.1   | 1.14        | 1             |
+| 🔴 Kháng cự    |    16.711 | 2.56        | 2             |
+| 🔴 Kháng cự    |    16.585 | 2.9         | 4             |
+| 🔴 Kháng cự    |    16.15  | 1.35        | 1             |
+| ▶ Giá hiện tại |    15.85  | —           | —             |
+| 🟢 Hỗ trợ      |    15.677 | 3.29        | 3             |
+| 🟢 Hỗ trợ      |    15.1   | 1.12        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | TPB |
-| pe | 5.75 |
-| pb | 0.91 |
+| pe | 5.70 |
+| pb | 0.90 |
 | eps | 2737 |
 | bvps | 17315.61 |
-| beta | 0.88 |
+| beta | 0.89 |
 | dividend | 1000 |
-| yield | 0.06329113924050633 |
+| yield | 0.06309148264984227 |
 | pe_pct_rank | 34 |
 | pb_pct_rank | 38 |
 | financial_date | 12/2025 |
@@ -86,19 +86,21 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-06 |  7676800 | -37.6%     | 0.277%         |
-| 2026-05-07 | 10346200 | -15.9%     | 0.373%         |
-| 2026-05-08 | 12442900 | +1.1%      | 0.449%         |
-| 2026-05-11 | 12446900 | +1.1%      | 0.449%         |
-| 2026-05-12 | 11282100 | -8.3%      | 0.407%         |
+| 2026-05-08 | 12442900 | +0.5%      | 0.449%         |
+| 2026-05-11 | 12446900 | +0.6%      | 0.449%         |
+| 2026-05-12 | 11282100 | -8.8%      | 0.407%         |
+| 2026-05-13 |  7045100 | -43.1%     | 0.254%         |
+| 2026-05-14 | 11037200 | -10.8%     | 0.398%         |
 
-- KL trung bình 60 phiên: **12,305,933**
+- KL trung bình 60 phiên: **12,377,263**
 - Số CP lưu hành: **2,774,046,873**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime         | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Lộ trình phục hồi NIM ngân hàng và bài toán đánh đổi lợi suất - rủi ro                                                    | 2026-05-14T13:02:00 | /2026/05/lo-trinh-phuc-hoi-nim-ngan-hang-va-bai-toan-danh-doi-loi-suat-rui-ro-757-1441923.htm                             |
+| Khả năng hấp thụ rủi ro một số ngân hàng suy giảm                                                                         | 2026-05-13T09:02:00 | /2026/05/kha-nang-hap-thu-rui-ro-mot-so-ngan-hang-suy-giam-757-1440830.htm                                                |
 | Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                                          | 2026-05-12T13:02:00 | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                 |
 | TPB: Nghị quyết HĐQT về việc thông qua hợp đồng/giao dịch điều chỉnh nội dung khoản cấp tín dụng cho CTCP Hải Phòng Inve… | 2026-05-11T18:50:53 | /2026/05/tpb-nghi-quyet-hdqt-ve-viec-thong-qua-hop-dong-giao-dich-dieu-chinh-noi-dung-khoan-cap-tin-dung-cho-ctcp-hai-ph… |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026                         | 2026-05-11T11:02:00 | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm  |
@@ -107,8 +109,6 @@
 | Lợi nhuận trước thuế quý 1 TPBank đạt gần 2,106 tỷ đồng                                                                   | 2026-05-01T08:17:00 | /2026/05/loi-nhuan-truoc-thue-quy-1-tpbank-dat-gan-2106-ty-dong-737-1436357.htm                                           |
 | TPB: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00 | /2026/04/tpb-bctc-hop-nhat-quy-1-nam-2026-737-1435844.htm                                                                 |
 | TPB: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00 | /2026/04/tpb-bctc-quy-1-nam-2026-737-1435845.htm                                                                          |
-| TPB: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-28T11:04:50 | /2026/04/tpb-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434453.htm                                            |
-| TPB: Thông báo thay đổi nhân sự                                                                                           | 2026-04-28T11:04:24 | /2026/04/tpb-thong-bao-thay-doi-nhan-su-214-1434452.htm                                                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -119,17 +119,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.35% |
-| % Cổ phiếu hôm nay | +0.32% |
-| RS (CP − Ngành) | -0.03% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +1.21% |
+| % Cổ phiếu hôm nay | +1.60% |
+| RS (CP − Ngành) | +0.39% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| TPB      | 2025-12-24 00:00:00 |  17.35 |  17.6  | 17.1  |   17.4  |  5933400 |
-| TPB      | 2025-12-25 00:00:00 |  17.45 |  17.55 | 17    |   17    |  6278500 |
 | TPB      | 2025-12-26 00:00:00 |  16.9  |  17.15 | 16.6  |   16.95 |  7454900 |
 | TPB      | 2025-12-29 00:00:00 |  17    |  17.15 | 16.9  |   16.9  |  4987800 |
 | TPB      | 2025-12-30 00:00:00 |  17    |  17.3  | 16.95 |   17.15 |  9182200 |
@@ -218,21 +216,23 @@ _Không có dữ liệu_
 | TPB      | 2026-05-08 00:00:00 |  16.05 |  16.2  | 15.95 |   16    | 12442900 |
 | TPB      | 2026-05-11 00:00:00 |  16.1  |  16.1  | 15.75 |   15.75 | 12446900 |
 | TPB      | 2026-05-12 00:00:00 |  15.8  |  15.85 | 15.5  |   15.8  | 11282100 |
+| TPB      | 2026-05-13 00:00:00 |  15.8  |  15.85 | 15.55 |   15.6  |  7045100 |
+| TPB      | 2026-05-14 00:00:00 |  15.7  |  16    | 15.6  |   15.85 | 11037200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| TPB      | 2026-05-12 14:25:14 |   15.75 |      100 | Sell         | 473852287 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |     3300 | Sell         | 473852295 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |      500 | Sell         | 473852294 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |     2000 | Sell         | 473852293 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |     2900 | Sell         | 473852288 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |      400 | Sell         | 473852291 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |      100 | Sell         | 473852290 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |      300 | Sell         | 473852289 |
-| TPB      | 2026-05-12 14:25:14 |   15.75 |     1000 | Sell         | 473852292 |
-| TPB      | 2026-05-12 14:25:25 |   15.75 |     1000 | Sell         | 473853050 |
+| TPB      | 2026-05-14 14:21:47 |    15.8 |      900 | Sell         | 475107426 |
+| TPB      | 2026-05-14 14:21:47 |    15.8 |     2000 | Sell         | 475107427 |
+| TPB      | 2026-05-14 14:21:49 |    15.8 |      900 | Buy          | 475107534 |
+| TPB      | 2026-05-14 14:21:53 |    15.8 |      200 | Buy          | 475107664 |
+| TPB      | 2026-05-14 14:21:54 |    15.8 |      300 | Buy          | 475107717 |
+| TPB      | 2026-05-14 14:22:03 |    15.8 |      500 | Buy          | 475108243 |
+| TPB      | 2026-05-14 14:22:03 |    15.8 |      100 | Buy          | 475108280 |
+| TPB      | 2026-05-14 14:22:09 |    15.8 |      100 | Buy          | 475108517 |
+| TPB      | 2026-05-14 14:22:16 |    15.8 |    22800 | Buy          | 475108827 |
+| TPB      | 2026-05-14 14:22:20 |    15.8 |      500 | Sell         | 475109015 |
 
 <!-- END:DAILY -->
 

@@ -1,6 +1,6 @@
 # CMG — CTCP Tập đoàn Công nghệ CMC
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 12/05/2026 20:36  |  🗂 Quarterly: 03/05/2026 13:58
+> 📅 Daily: 14/05/2026 20:43  |  🗂 Quarterly: 03/05/2026 13:58
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | CMG |
 | exchange | HOSE |
-| market_cap | 6299969561400 |
+| market_cap | 6497935333200 |
 | 52w_high | 41767 |
 | 52w_high_date | 2025-08-14 |
 | 52w_low | 27000 |
 | 52w_low_date | 2026-05-11 |
-| foreign_ownership | 37.0261 |
+| foreign_ownership | 37.0296 |
 | dividend | 0 |
-| beta | 0.66 |
+| beta | 0.67 |
 | eps | 1898 |
-| eps_forward | 13.564431047475509 |
+| eps_forward | 13.715146948003014 |
 | bvps | 19347 |
-| pe | 14.23 |
-| pb | 1.40 |
-| price_chg_1m | -6.40 |
-| price_chg_ytd | -12.22 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
+| pe | 14.39 |
+| pb | 1.41 |
+| price_chg_1m | -5.26 |
+| price_chg_ytd | -14.98 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,52 +36,53 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 27.05 |
-| MA5 | 27.5 |
-| MA10 | 27.615 |
-| EMA20 | 28.062 |
-| EMA50 | 29.353 |
-| Slope MA20 (5p, %) | -1.39 |
-| ATR(14) | 0.663 |
-| RSI(14) | 33.1 |
+| Giá đóng cửa | 27.9 |
+| MA5 | 27.4 |
+| MA10 | 27.59 |
+| EMA20 | 27.981 |
+| EMA50 | 29.209 |
+| Slope MA20 (5p, %) | -1.3 |
+| ATR(14) | 0.676 |
+| RSI(14) | 45.6 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.586 |
-| MACD Signal | -0.561 |
-| MACD Histogram | -0.024 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 342782 |
+| MACD | -0.515 |
+| MACD Signal | -0.554 |
+| MACD Histogram | 0.039 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 336995 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     29.9  | 1.32        | 1             |
-| 🔴 Kháng cự    |     28.85 | 1.05        | 1             |
-| 🔴 Kháng cự    |     27.7  | 1.26        | 1             |
-| ▶ Giá hiện tại |     27.05 | —           | —             |
-| 🟢 Hỗ trợ      |     27    | 1.15        | 1             |
+| 🔴 Kháng cự    |     29.9  | 1.3         | 1             |
+| 🔴 Kháng cự    |     28.85 | 1.03        | 1             |
+| 🔴 Kháng cự    |     28.45 | 1.44        | 1             |
+| ▶ Giá hiện tại |     27.9  | —           | —             |
+| 🟢 Hỗ trợ      |     27.7  | 1.24        | 1             |
+| 🟢 Hỗ trợ      |     27    | 1.14        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | CMG |
-| pe | 14.23 |
-| pb | 1.40 |
+| pe | 14.39 |
+| pb | 1.41 |
 | roe | 13.04 |
 | roe_pct_rank | 54 |
 | roa | 4.44 |
 | roa_pct_rank | 48 |
 | eps | 1898 |
 | bvps | 19347 |
-| beta | 0.66 |
+| beta | 0.67 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 54 |
-| pb_pct_rank | 56 |
+| pb_pct_rank | 57 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -89,29 +90,29 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-06 | 182100 | -46.9%     | 0.078%         |
-| 2026-05-07 | 381700 | +11.4%     | 0.164%         |
-| 2026-05-08 | 136000 | -60.3%     | 0.058%         |
-| 2026-05-11 | 377900 | +10.2%     | 0.162%         |
-| 2026-05-12 | 226400 | -34.0%     | 0.097%         |
+| 2026-05-08 | 136000 | -59.6%     | 0.058%         |
+| 2026-05-11 | 377900 | +12.1%     | 0.162%         |
+| 2026-05-12 | 226400 | -32.8%     | 0.097%         |
+| 2026-05-13 | 199200 | -40.9%     | 0.086%         |
+| 2026-05-14 | 389700 | +15.6%     | 0.167%         |
 
-- KL trung bình 60 phiên: **342,781**
+- KL trung bình 60 phiên: **336,995**
 - Số CP lưu hành: **232,900,908**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                       | publishtime             | url                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| CMG: Thông báo mua lại cổ phiếu của người lao động                                                          | 2026-05-06T14:28:16     | /2026/05/cmg-thong-bao-mua-lai-co-phieu-cua-nguoi-lao-dong-739-1438574.htm                                                |
-| CMG: Thông báo thay đổi nhân sự                                                                             | 2026-05-04T10:51:38     | /2026/05/cmg-thong-bao-thay-doi-nhan-su-214-1436895.htm                                                                   |
-| CMG: BCTC quý 4 năm 2026                                                                                    | 2026-04-29T00:00:00     | /2026/04/cmg-bctc-quy-4-nam-2026-737-1436825.htm                                                                          |
-| CMG: BCTC Hợp nhất quý 4 năm 2026                                                                           | 2026-04-29T00:00:00     | /2026/04/cmg-bctc-hop-nhat-quy-4-nam-2026-737-1436826.htm                                                                 |
-| CMG: Nghị quyết HĐQT về việc phê duyệt hạn mức sử dụng tín dụng tại các tổ chức tín dụng                    | 2026-04-22T18:07:00     | /2026/04/cmg-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-su-dung-tin-dung-tai-cac-to-chuc-tin-dung-737-1432302.htm          |
-| CMG: Nghị quyết HĐQT số 08/2026 ngày 20/04/2026                                                             | 2026-04-21T18:11:37     | /2026/04/cmg-nghi-quyet-hdqt-so-08-2026-ngay-20-04-2026-737-1431580.htm                                                   |
-| CMG đặt mục tiêu doanh thu tăng 20% trong năm 2026                                                          | 2026-04-02T15:17:55.757 | /2026/04/cmg-dat-muc-tieu-doanh-thu-tang-20-trong-nam-2026-737-1421500.htm                                                |
-| CMG: Nghị quyết HĐQT về việc tăng vốn điều lệ và sửa đổi điều lệ Công ty TNHH An ninh An toàn Thông tin CMC | 2026-03-26T17:43:19     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-tang-von-dieu-le-va-sua-doi-dieu-le-cong-ty-tnhh-an-ninh-an-toan-thong-tin-cmc-737-… |
-| CMG: Nghị quyết HĐQT về việc thông qua chủ trương thực hiện giao dịch với bên liên quan trong năm 2026      | 2026-03-19T16:14:04     | /2026/03/cmg-nghi-quyet-hdqt-ve-viec-thong-qua-chu-truong-thuc-hien-giao-dich-voi-ben-lien-quan-trong-nam-2026-737-14141… |
-| CMG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết                                      | 2026-03-13T18:02:18     | /2026/03/cmg-thong-bao-ve-viec-giao-dich-chung-khoan-thay-doi-dang-ky-niem-yet-741-1412214.htm                            |
+| title                                                                                     | publishtime             | url                                                                                                               |
+|:------------------------------------------------------------------------------------------|:------------------------|:------------------------------------------------------------------------------------------------------------------|
+| CMG: Thông báo giao dịch cổ phiếu của người có liên quan đến người nội bộ Nguyễn Mỹ Hương | 2026-05-13T13:48:03     | /2026/05/cmg-thong-bao-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-nguyen-my-huong-739-1442064.htm |
+| CMG: Thông báo thay đổi nhân sự - Miễn nhiệm Phó Chủ tịch điều hành                       | 2026-05-13T10:53:21     | /2026/05/cmg-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-chu-tich-dieu-hanh-214-1441949.htm                         |
+| CMG: Quyết định số 36/2026 ngày 11/05/2026                                                | 2026-05-13T10:52:07     | /2026/05/cmg-quyet-dinh-so-36-2026-ngay-11-05-2026-830-1441947.htm                                                |
+| CMC sáp nhập CMC Consulting vào CMC TS, nâng vốn điều lệ lên 350 tỷ                       | 2026-05-12T17:55:33.267 | /2026/05/cmc-sap-nhap-cmc-consulting-vao-cmc-ts-nang-von-dieu-le-len-350-ty-737-1441617.htm                       |
+| CMG: Thông báo mua lại cổ phiếu của người lao động                                        | 2026-05-06T14:28:16     | /2026/05/cmg-thong-bao-mua-lai-co-phieu-cua-nguoi-lao-dong-739-1438574.htm                                        |
+| CMG: Thông báo thay đổi nhân sự                                                           | 2026-05-04T10:51:38     | /2026/05/cmg-thong-bao-thay-doi-nhan-su-214-1436895.htm                                                           |
+| CMG: BCTC quý 4 năm 2026                                                                  | 2026-04-29T00:00:00     | /2026/04/cmg-bctc-quy-4-nam-2026-737-1436825.htm                                                                  |
+| CMG: BCTC Hợp nhất quý 4 năm 2026                                                         | 2026-04-29T00:00:00     | /2026/04/cmg-bctc-hop-nhat-quy-4-nam-2026-737-1436826.htm                                                         |
+| CMG: Nghị quyết HĐQT về việc phê duyệt hạn mức sử dụng tín dụng tại các tổ chức tín dụng  | 2026-04-22T18:07:00     | /2026/04/cmg-nghi-quyet-hdqt-ve-viec-phe-duyet-han-muc-su-dung-tin-dung-tai-cac-to-chuc-tin-dung-737-1432302.htm  |
+| CMG: Nghị quyết HĐQT số 08/2026 ngày 20/04/2026                                           | 2026-04-21T18:11:37     | /2026/04/cmg-nghi-quyet-hdqt-so-08-2026-ngay-20-04-2026-737-1431580.htm                                           |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,17 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Công nghệ và thông tin |
-| % Ngành hôm nay | +0.68% |
-| % Cổ phiếu hôm nay | +0.19% |
-| RS (CP − Ngành) | -0.49% |
+| % Ngành hôm nay | +3.93% |
+| % Cổ phiếu hôm nay | +2.20% |
+| RS (CP − Ngành) | -1.73% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| CMG      | 2025-12-24 00:00:00 |  32.64 |  32.64 | 31.77 |   32    |   164739 |
-| CMG      | 2025-12-25 00:00:00 |  31.82 |  32.23 | 31.73 |   31.82 |   234966 |
 | CMG      | 2025-12-26 00:00:00 |  31.82 |  31.86 | 31    |   31.73 |   313420 |
 | CMG      | 2025-12-29 00:00:00 |  31.82 |  32.23 | 31.64 |   32.18 |   284725 |
 | CMG      | 2025-12-30 00:00:00 |  32.36 |  32.64 | 32.14 |   32.41 |   397677 |
@@ -221,21 +220,23 @@ _Không có dữ liệu_
 | CMG      | 2026-05-08 00:00:00 |  28    |  28    | 27.55 |   27.75 |   136000 |
 | CMG      | 2026-05-11 00:00:00 |  27.7  |  27.7  | 26.9  |   27    |   377900 |
 | CMG      | 2026-05-12 00:00:00 |  27    |  27.35 | 26.8  |   27.05 |   226400 |
+| CMG      | 2026-05-13 00:00:00 |  27.1  |  27.35 | 26.9  |   27.3  |   199200 |
+| CMG      | 2026-05-14 00:00:00 |  27.45 |  28.35 | 27.45 |   27.9  |   389700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| CMG      | 2026-05-12 13:17:17 |   26.9  |      300 | Sell         | 473644842 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |     2000 | Sell         | 473644854 |
-| CMG      | 2026-05-12 13:17:17 |   26.9  |     1000 | Sell         | 473644845 |
-| CMG      | 2026-05-12 13:17:17 |   26.9  |     1900 | Sell         | 473644846 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |     5000 | Sell         | 473644848 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |      400 | Sell         | 473644850 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |      100 | Sell         | 473644851 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |      100 | Sell         | 473644853 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |      200 | Sell         | 473644847 |
-| CMG      | 2026-05-12 13:17:17 |   26.85 |      100 | Sell         | 473644855 |
+| CMG      | 2026-05-14 13:18:14 |   27.9  |      100 | Buy          | 474951707 |
+| CMG      | 2026-05-14 13:18:14 |   27.9  |      100 | Buy          | 474951709 |
+| CMG      | 2026-05-14 13:18:14 |   27.9  |      300 | Buy          | 474951710 |
+| CMG      | 2026-05-14 13:18:35 |   27.85 |      900 | Sell         | 474952516 |
+| CMG      | 2026-05-14 13:18:35 |   27.85 |      100 | Sell         | 474952513 |
+| CMG      | 2026-05-14 13:18:35 |   27.85 |     2000 | Sell         | 474952514 |
+| CMG      | 2026-05-14 13:18:35 |   27.85 |     5000 | Sell         | 474952515 |
+| CMG      | 2026-05-14 13:18:47 |   27.85 |      100 | Sell         | 474953022 |
+| CMG      | 2026-05-14 13:18:47 |   27.85 |      100 | Sell         | 474953023 |
+| CMG      | 2026-05-14 13:19:23 |   27.8  |      400 | Sell         | 474954181 |
 
 <!-- END:DAILY -->
 

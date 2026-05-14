@@ -1,6 +1,6 @@
 # DIG — Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 12/05/2026 20:37  |  🗂 Quarterly: 03/05/2026 14:01
+> 📅 Daily: 14/05/2026 20:44  |  🗂 Quarterly: 03/05/2026 14:01
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | DIG |
 | exchange | HOSE |
-| market_cap | 11667716948150 |
+| market_cap | 11827003186350 |
 | 52w_high | 24600 |
 | 52w_high_date | 2025-10-16 |
 | 52w_low | 12600 |
 | 52w_low_date | 2026-03-10 |
-| foreign_ownership | 2.4307 |
+| foreign_ownership | 2.094 |
 | dividend | 0 |
 | beta | 0.92 |
 | eps | 1002 |
-| eps_forward | 19.180736965063183 |
+| eps_forward | 19.446214293299352 |
 | bvps | 12748 |
-| pe | 14.41 |
-| pb | 1.13 |
-| price_chg_1m | 0.69 |
-| price_chg_ytd | 9.23 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
+| pe | 14.61 |
+| pb | 1.15 |
+| price_chg_1m | 0.68 |
+| price_chg_ytd | 7.27 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,54 +36,54 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 14.65 |
-| MA5 | 14.56 |
-| MA10 | 14.485 |
-| EMA20 | 14.407 |
-| EMA50 | 14.526 |
-| Slope MA20 (5p, %) | 0.67 |
-| ATR(14) | 0.502 |
-| RSI(14) | 55.0 |
+| Giá đóng cửa | 14.85 |
+| MA5 | 14.61 |
+| MA10 | 14.595 |
+| EMA20 | 14.471 |
+| EMA50 | 14.544 |
+| Slope MA20 (5p, %) | 0.72 |
+| ATR(14) | 0.492 |
+| RSI(14) | 58.3 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.085 |
-| MACD Signal | 0.067 |
-| MACD Histogram | 0.018 |
+| MACD | 0.114 |
+| MACD Signal | 0.08 |
+| MACD Histogram | 0.034 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 11183138 |
+| KL avg 60 phiên | 11154967 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    15.6   | 0.67        | 1             |
-| 🔴 Kháng cự    |    15.14  | 1.67        | 2             |
-| 🔴 Kháng cự    |    15.131 | 2.71        | 2             |
-| ▶ Giá hiện tại |    14.65  | —           | —             |
-| 🟢 Hỗ trợ      |    14     | 1.09        | 1             |
-| 🟢 Hỗ trợ      |    13.85  | 1.38        | 1             |
-| 🟢 Hỗ trợ      |    13.4   | 1.26        | 1             |
+| 🔴 Kháng cự    |    15.6   | 0.66        | 1             |
+| 🔴 Kháng cự    |    15.14  | 1.65        | 2             |
+| 🔴 Kháng cự    |    15.131 | 2.67        | 2             |
+| ▶ Giá hiện tại |    14.85  | —           | —             |
+| 🟢 Hỗ trợ      |    14.65  | 1.2         | 1             |
+| 🟢 Hỗ trợ      |    14     | 1.07        | 1             |
+| 🟢 Hỗ trợ      |    13.85  | 1.36        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DIG |
-| pe | 14.41 |
-| pb | 1.13 |
+| pe | 14.61 |
+| pb | 1.15 |
 | roe | 6.91 |
 | roe_pct_rank | 40 |
 | roa | 3.45 |
-| roa_pct_rank | 43 |
+| roa_pct_rank | 45 |
 | eps | 1002 |
 | bvps | 12748 |
 | beta | 0.92 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 54 |
-| pb_pct_rank | 48 |
+| pb_pct_rank | 49 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -91,29 +91,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-06 | 10481200 | -6.3%      | 1.316%         |
-| 2026-05-07 |  8825100 | -21.1%     | 1.108%         |
-| 2026-05-08 |  8140500 | -27.2%     | 1.022%         |
-| 2026-05-11 | 10269200 | -8.2%      | 1.289%         |
-| 2026-05-12 | 14794700 | +32.3%     | 1.858%         |
+| 2026-05-08 |  8140500 | -27.0%     | 1.022%         |
+| 2026-05-11 | 10269200 | -7.9%      | 1.289%         |
+| 2026-05-12 | 14794700 | +32.6%     | 1.858%         |
+| 2026-05-13 |  5426900 | -51.3%     | 0.681%         |
+| 2026-05-14 | 12869700 | +15.4%     | 1.616%         |
 
-- KL trung bình 60 phiên: **11,183,138**
+- KL trung bình 60 phiên: **11,154,966**
 - Số CP lưu hành: **796,431,191**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                                                 | publishtime            | url                                                                                                                       |
-|:----------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| DIG: Link công bố điều lệ và các quy chế                                                                              | 2026-05-06T14:29:07    | /2026/05/dig-link-cong-bo-dieu-le-va-cac-quy-che-737-1438575.htm                                                          |
-| DIG tiếp tục lỗ quý 1                                                                                                 | 2026-05-02T15:39:38.93 | /2026/05/dig-tiep-tuc-lo-quy-1-737-1436496.htm                                                                            |
-| DIG: Giải trình BCTC quý 1/2026 so với cùng kỳ năm trước                                                              | 2026-04-29T19:28:33    | /2026/04/dig-giai-trinh-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436158.htm                                          |
-| DIG: BCTC Hợp nhất quý 1 năm 2026                                                                                     | 2026-04-29T00:00:00    | /2026/04/dig-bctc-hop-nhat-quy-1-nam-2026-737-1436219.htm                                                                 |
-| DIG: BCTC quý 1 năm 2026                                                                                              | 2026-04-29T00:00:00    | /2026/04/dig-bctc-quy-1-nam-2026-737-1436220.htm                                                                          |
-| DIG: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán CP riêng lẻ 2021                                            | 2026-04-28T17:14:30    | /2026/04/dig-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-cp-rieng-le-2021-739-1434923.htm                        |
-| DIG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                | 2026-04-28T17:14:04    | /2026/04/dig-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434943.htm                                            |
-| Ông Đinh Hồng Kỳ nói gì về các dự án của DIC Corp?                                                                    | 2026-04-25T07:12:00    | /2026/04/ong-dinh-hong-ky-noi-gi-ve-cac-du-an-cua-dic-corp-737-1433814.htm                                                |
-| ĐHĐCĐ DIG: Sắp khởi công dự án Bắc Vũng Tàu vào quý 3, tính toán đầu tư hạ tầng kết nối đô thị với sân bay Long Thành | 2026-04-24T17:43:00    | /2026/04/dhdcd-dig-sap-khoi-cong-du-an-bac-vung-tau-vao-quy-3-tinh-toan-dau-tu-ha-tang-ket-noi-do-thi-voi-san-bay-long-t… |
-| Tập đoàn DIC mở hệ thống tham dự và bỏ phiếu điện tử ĐHĐCĐ từ ngày 17/4                                               | 2026-04-18T11:05:00    | /2026/04/tap-doan-dic-mo-he-thong-tham-du-va-bo-phieu-dien-tu-dhdcd-tu-ngay-174-737-1429727.htm                           |
+| title                                                                                                                     | publishtime             | url                                                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DIG hoàn tất giải ngân gần 1,500 tỷ đồng và thâu tóm tài sản thương mại từ công ty con                                    | 2026-05-13T16:51:30.423 | /2026/05/dig-hoan-tat-giai-ngan-gan-1500-ty-dong-va-thau-tom-tai-san-thuong-mai-tu-cong-ty-con-737-1442083.htm            |
+| DIG: Báo cáo tình hình sử dụng vốn thu được từ đợt phát hành chứng khoán riêng lẻ tăng vốn điều lệ thêm 750 tỳ đồng đã đ… | 2026-05-13T11:01:17     | /2026/05/dig-bao-cao-tinh-hinh-su-dung-von-thu-duoc-tu-dot-phat-hanh-chung-khoan-rieng-le-tang-von-dieu-le-them-750-ty-d… |
+| DIG: Nghị quyết HĐQT số 144 ngày 11/05/2026                                                                               | 2026-05-13T11:00:47     | /2026/05/dig-nghi-quyet-hdqt-so-144-ngay-11-05-2026-737-1441964.htm                                                       |
+| DIG: Link công bố điều lệ và các quy chế                                                                                  | 2026-05-06T14:29:07     | /2026/05/dig-link-cong-bo-dieu-le-va-cac-quy-che-737-1438575.htm                                                          |
+| DIG tiếp tục lỗ quý 1                                                                                                     | 2026-05-02T15:39:38.93  | /2026/05/dig-tiep-tuc-lo-quy-1-737-1436496.htm                                                                            |
+| DIG: Giải trình BCTC quý 1/2026 so với cùng kỳ năm trước                                                                  | 2026-04-29T19:28:33     | /2026/04/dig-giai-trinh-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436158.htm                                          |
+| DIG: BCTC Hợp nhất quý 1 năm 2026                                                                                         | 2026-04-29T00:00:00     | /2026/04/dig-bctc-hop-nhat-quy-1-nam-2026-737-1436219.htm                                                                 |
+| DIG: BCTC quý 1 năm 2026                                                                                                  | 2026-04-29T00:00:00     | /2026/04/dig-bctc-quy-1-nam-2026-737-1436220.htm                                                                          |
+| DIG: Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán CP riêng lẻ 2021                                                | 2026-04-28T17:14:30     | /2026/04/dig-bao-cao-tien-do-su-dung-von-thu-duoc-tu-dot-chao-ban-cp-rieng-le-2021-739-1434923.htm                        |
+| DIG: Nghị quyết và Biên bản họp ĐHĐCĐ thường niên 2026                                                                    | 2026-04-28T17:14:04     | /2026/04/dig-nghi-quyet-va-bien-ban-hop-dhdcd-thuong-nien-2026-737-1434943.htm                                            |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,17 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.07% |
-| % Cổ phiếu hôm nay | +1.38% |
-| RS (CP − Ngành) | +1.31% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +3.04% |
+| % Cổ phiếu hôm nay | +1.37% |
+| RS (CP − Ngành) | -1.67% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DIG      | 2025-12-24 00:00:00 |  18.15 |  18.7  | 18.1  |   18.2  | 10263500 |
-| DIG      | 2025-12-25 00:00:00 |  18.35 |  18.45 | 17.8  |   17.8  |  8928300 |
 | DIG      | 2025-12-26 00:00:00 |  17.6  |  17.9  | 17.05 |   17.5  | 10865900 |
 | DIG      | 2025-12-29 00:00:00 |  17.6  |  17.75 | 17.3  |   17.4  |  6202200 |
 | DIG      | 2025-12-30 00:00:00 |  17.45 |  17.5  | 17.05 |   17.05 |  8231200 |
@@ -223,21 +221,23 @@ _Không có dữ liệu_
 | DIG      | 2026-05-08 00:00:00 |  14.55 |  14.6  | 14.35 |   14.45 |  8140500 |
 | DIG      | 2026-05-11 00:00:00 |  14.55 |  14.75 | 14.3  |   14.45 | 10269200 |
 | DIG      | 2026-05-12 00:00:00 |  14.45 |  14.95 | 14.45 |   14.65 | 14794700 |
+| DIG      | 2026-05-13 00:00:00 |  14.65 |  14.8  | 14.5  |   14.65 |  5426900 |
+| DIG      | 2026-05-14 00:00:00 |  14.8  |  15.2  | 14.7  |   14.85 | 12869700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      500 | Sell         | 473862868 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |     1000 | Sell         | 473862873 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      200 | Sell         | 473862874 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      500 | Sell         | 473862875 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |     1100 | Sell         | 473862876 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |    15500 | Sell         | 473862877 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |    10000 | Sell         | 473862891 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      200 | Sell         | 473862879 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      400 | Sell         | 473862880 |
-| DIG      | 2026-05-12 14:28:00 |    14.6 |      200 | Sell         | 473862878 |
+| DIG      | 2026-05-14 14:24:52 |   14.8  |    10200 | Buy          | 475115841 |
+| DIG      | 2026-05-14 14:24:52 |   14.8  |      100 | Buy          | 475115844 |
+| DIG      | 2026-05-14 14:24:52 |   14.8  |      500 | Buy          | 475115842 |
+| DIG      | 2026-05-14 14:24:52 |   14.8  |     4800 | Buy          | 475115843 |
+| DIG      | 2026-05-14 14:25:01 |   14.8  |     3000 | Sell         | 475116384 |
+| DIG      | 2026-05-14 14:25:01 |   14.8  |      200 | Sell         | 475116390 |
+| DIG      | 2026-05-14 14:25:11 |   14.85 |      200 | Buy          | 475117215 |
+| DIG      | 2026-05-14 14:25:11 |   14.85 |      300 | Buy          | 475117217 |
+| DIG      | 2026-05-14 14:25:15 |   14.8  |     1000 | Sell         | 475117548 |
+| DIG      | 2026-05-14 14:25:19 |   14.85 |      400 | Buy          | 475117821 |
 
 <!-- END:DAILY -->
 

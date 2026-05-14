@@ -1,6 +1,6 @@
 # FTS — CTCP Chứng khoán FPT
 **Sàn:** HOSE  |  **Ngành:** Chứng khoán
-> 📅 Daily: 12/05/2026 20:39  |  🗂 Quarterly: 03/05/2026 14:05
+> 📅 Daily: 14/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:05
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | FTS |
 | exchange | HOSE |
-| market_cap | 9234171939850 |
+| market_cap | 9268821740750 |
 | 52w_high | 44100 |
 | 52w_high_date | 2025-07-28 |
 | 52w_low | 23950 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 24.8499 |
-| dividend | 500 |
-| beta | 0.84 |
+| foreign_ownership | 24.8733 |
+| dividend | 1000 |
+| beta | 0.89 |
 | eps | 1202 |
-| eps_forward | 16.63191185086719 |
+| eps_forward | 16.663411683918074 |
 | bvps | 13072.36 |
-| pe | 21.97 |
+| pe | 22.01 |
 | pb | 2.02 |
-| price_chg_1m | -4.82 |
-| price_chg_ytd | -22.42 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.018761726078799248 |
+| price_chg_1m | -4.29 |
+| price_chg_ytd | -25.90 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.037383177570093455 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,51 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 26.65 |
-| MA5 | 26.59 |
-| MA10 | 26.37 |
-| EMA20 | 26.784 |
-| EMA50 | 27.802 |
-| Slope MA20 (5p, %) | -0.49 |
-| ATR(14) | 0.86 |
-| RSI(14) | 46.3 |
+| Giá đóng cửa | 26.75 |
+| MA5 | 26.55 |
+| MA10 | 26.445 |
+| EMA20 | 26.752 |
+| EMA50 | 27.713 |
+| Slope MA20 (5p, %) | -0.46 |
+| ATR(14) | 0.831 |
+| RSI(14) | 48.2 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.354 |
-| MACD Signal | -0.395 |
-| MACD Histogram | 0.042 |
+| MACD | -0.301 |
+| MACD Signal | -0.368 |
+| MACD Histogram | 0.067 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 955202 |
+| KL avg 60 phiên | 943742 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    31.335 | 1.52        | 2             |
-| 🔴 Kháng cự    |    29.75  | 1.27        | 1             |
-| 🔴 Kháng cự    |    26.95  | 1.05        | 1             |
-| ▶ Giá hiện tại |    26.65  | —           | —             |
-| 🟢 Hỗ trợ      |    25     | 1.38        | 1             |
-| 🟢 Hỗ trợ      |    23.95  | 1.14        | 1             |
+| 🔴 Kháng cự    |     29.75 | 1.25        | 1             |
+| 🔴 Kháng cự    |     27.2  | 2.86        | 2             |
+| 🔴 Kháng cự    |     26.95 | 1.03        | 1             |
+| ▶ Giá hiện tại |     26.75 | —           | —             |
+| 🟢 Hỗ trợ      |     25    | 1.36        | 1             |
+| 🟢 Hỗ trợ      |     23.95 | 1.12        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | FTS |
-| pe | 21.97 |
+| pe | 22.01 |
 | pb | 2.02 |
 | roe | 9.29 |
-| roe_pct_rank | 45 |
+| roe_pct_rank | 46 |
 | roa | 3.35 |
-| roa_pct_rank | 44 |
+| roa_pct_rank | 42 |
 | eps | 1202 |
 | bvps | 13072.36 |
-| beta | 0.84 |
-| dividend | 500 |
-| yield | 0.018761726078799248 |
+| beta | 0.89 |
+| dividend | 1000 |
+| yield | 0.037383177570093455 |
 | pe_pct_rank | 69 |
 | pb_pct_rank | 74 |
 | financial_date | 12/2025 |
@@ -90,19 +90,21 @@
 
 | Ngày       |     KL | vs Avg60   | Turnover (%)   |
 |:-----------|-------:|:-----------|:---------------|
-| 2026-05-06 | 956500 | +0.1%      | 0.276%         |
-| 2026-05-07 | 529200 | -44.6%     | 0.153%         |
-| 2026-05-08 | 613200 | -35.8%     | 0.177%         |
-| 2026-05-11 | 578900 | -39.4%     | 0.167%         |
-| 2026-05-12 | 660800 | -30.8%     | 0.191%         |
+| 2026-05-08 | 613200 | -35.0%     | 0.177%         |
+| 2026-05-11 | 578900 | -38.7%     | 0.167%         |
+| 2026-05-12 | 660800 | -30.0%     | 0.191%         |
+| 2026-05-13 | 538000 | -43.0%     | 0.155%         |
+| 2026-05-14 | 538400 | -43.0%     | 0.155%         |
 
-- KL trung bình 60 phiên: **955,201**
+- KL trung bình 60 phiên: **943,741**
 - Số CP lưu hành: **346,498,009**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| FTS: Thông báo về việc ký hợp đồng kiểm toán BCTC năm 2026                                                                | 2026-05-13T13:28:18     | /2026/05/fts-thong-bao-ve-viec-ky-hop-dong-kiem-toan-bctc-nam-2026-737-1442041.htm                                        |
+| FTS: Thông báo về ngày đăng ký cuối cùng trả cổ tức năm 2025 bằng tiền và phát hành cổ phiếu từ nguồn vốn chủ sở hữu      | 2026-05-12T17:49:09     | /2026/05/fts-thong-bao-ve-ngay-dang-ky-cuoi-cung-tra-co-tuc-nam-2025-bang-tien-va-phat-hanh-co-phieu-tu-nguon-von-chu-so… |
 | FTS: Nghị quyết HĐQT số 06-2026 ngày 11/05/2026                                                                           | 2026-05-12T11:26:14     | /2026/05/fts-nghi-quyet-hdqt-so-062026-ngay-11-05-2026-737-1441294.htm                                                    |
 | FTS: BCTC Kiểm toán năm 2026                                                                                              | 2026-05-12T00:00:00     | /2026/05/fts-bctc-kiem-toan-nam-2026-737-1441485.htm                                                                      |
 | FTS: Nghị quyết Hội đồng quản trị ngày 11/5/2026 của Công ty Cổ phần Chứng khoán FPT                                      | 2026-05-11T00:00:00     | /2026/05/fts-nghi-quyet-hoi-dong-quan-tri-ngay-11-5-2026-cua-cong-ty-co-phan-chung-khoan-fpt-737-1441154.htm              |
@@ -111,8 +113,6 @@
 | FTS: Quyết định của HĐQT về ngày ĐKCC để thực hiện quyền nhận cổ tức năm 2024 bằng tiền và cổ phiếu phát hành để tăng vố… | 2026-05-07T14:39:46     | /2026/05/fts-quyet-dinh-cua-hdqt-ve-ngay-dkcc-de-thuc-hien-quyen-nhan-co-tuc-nam-2024-bang-tien-va-co-phieu-phat-hanh-de… |
 | FTS: Quyết định HĐQT về Ngày đăng ký cuối cùng để thực hiện quyền nhận cổ tức năm 2025 bằng tiền và cổ phiếu phát hành đ… | 2026-05-06T00:00:00     | /2026/05/fts-quyet-dinh-hdqt-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-nhan-co-tuc-nam-2025-bang-tien-va-co-phieu-pha… |
 | FTS: Bản thông báo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của Công ty Cổ phần Chứng khoán FPT số… | 2026-05-06T00:00:00     | /2026/05/fts-ban-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-cua-cong-ty-co-phan-chung-khoa… |
-| FTS: Thông báo giấy phép điều chỉnh Giấy phép thành lập và hoạt động kinh doanh chứng khoán (người đại diện pháp luật)    | 2026-04-29T11:14:36     | /2026/04/fts-thong-bao-giay-phep-dieu-chinh-giay-phep-thanh-lap-va-hoat-dong-kinh-doanh-chung-khoan-nguoi-dai-dien-phap-… |
-| FTS: Thông báo thay đổi Người đại diện theo pháp luật theo Giấy phép điều chỉnh Giấy phép thành lập và hoạt động số 49/G… | 2026-04-28T00:00:00     | /2026/04/fts-thong-bao-thay-doi-nguoi-dai-dien-theo-phap-luat-theo-giay-phep-dieu-chinh-giay-phep-thanh-lap-va-hoat-dong… |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -123,17 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Chứng khoán |
-| % Ngành hôm nay | -0.03% |
-| % Cổ phiếu hôm nay | +0.95% |
-| RS (CP − Ngành) | +0.98% |
+| % Ngành hôm nay | +0.40% |
+| % Cổ phiếu hôm nay | +1.13% |
+| RS (CP − Ngành) | +0.73% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FTS      | 2025-12-24 00:00:00 |  33.6  |  34.05 | 33.4  |   33.6  |  1205100 |
-| FTS      | 2025-12-25 00:00:00 |  33.65 |  34.55 | 33.5  |   33.5  |  2377100 |
 | FTS      | 2025-12-26 00:00:00 |  33.6  |  34.85 | 33.15 |   34.35 |  3033200 |
 | FTS      | 2025-12-29 00:00:00 |  34.5  |  34.75 | 33.8  |   34.3  |  1172300 |
 | FTS      | 2025-12-30 00:00:00 |  34.65 |  34.65 | 33.6  |   33.6  |  1024400 |
@@ -222,21 +220,23 @@ _Không có dữ liệu_
 | FTS      | 2026-05-08 00:00:00 |  26.8  |  26.8  | 26.3  |   26.5  |   613200 |
 | FTS      | 2026-05-11 00:00:00 |  26.3  |  27    | 26.25 |   26.4  |   578900 |
 | FTS      | 2026-05-12 00:00:00 |  26.6  |  26.95 | 26.15 |   26.65 |   660800 |
+| FTS      | 2026-05-13 00:00:00 |  26.85 |  26.95 | 26.45 |   26.45 |   538000 |
+| FTS      | 2026-05-14 00:00:00 |  26.35 |  27.15 | 26.35 |   26.75 |   538400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FTS      | 2026-05-12 13:59:20 |   26.7  |      100 | Buy          | 473770177 |
-| FTS      | 2026-05-12 14:00:02 |   26.65 |      100 | Sell         | 473772603 |
-| FTS      | 2026-05-12 14:00:02 |   26.65 |      100 | Sell         | 473772604 |
-| FTS      | 2026-05-12 14:01:18 |   26.65 |      500 | Sell         | 473776102 |
-| FTS      | 2026-05-12 14:01:18 |   26.65 |      400 | Sell         | 473776099 |
-| FTS      | 2026-05-12 14:01:18 |   26.65 |      500 | Sell         | 473776100 |
-| FTS      | 2026-05-12 14:01:18 |   26.65 |      300 | Sell         | 473776101 |
-| FTS      | 2026-05-12 14:01:21 |   26.65 |      100 | Buy          | 473776260 |
-| FTS      | 2026-05-12 14:01:30 |   26.7  |      600 | Buy          | 473776593 |
-| FTS      | 2026-05-12 14:01:30 |   26.7  |      200 | Buy          | 473776591 |
+| FTS      | 2026-05-14 13:39:40 |   26.75 |      500 | Sell         | 475002648 |
+| FTS      | 2026-05-14 13:41:19 |   26.75 |      200 | Buy          | 475005966 |
+| FTS      | 2026-05-14 13:43:12 |   26.75 |      100 | Buy          | 475009978 |
+| FTS      | 2026-05-14 13:46:31 |   26.75 |      200 | Sell         | 475017313 |
+| FTS      | 2026-05-14 13:49:45 |   26.8  |      500 | Buy          | 475024803 |
+| FTS      | 2026-05-14 13:49:45 |   26.8  |      500 | Buy          | 475024802 |
+| FTS      | 2026-05-14 13:51:30 |   26.8  |      100 | Buy          | 475029384 |
+| FTS      | 2026-05-14 13:52:31 |   26.8  |      200 | Buy          | 475031859 |
+| FTS      | 2026-05-14 13:52:38 |   26.8  |     1000 | Buy          | 475032112 |
+| FTS      | 2026-05-14 13:52:38 |   26.8  |     4200 | Buy          | 475032108 |
 
 <!-- END:DAILY -->
 

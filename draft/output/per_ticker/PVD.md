@@ -1,6 +1,6 @@
 # PVD — Tổng Công ty cổ phần Khoan và Dịch vụ khoan Dầu khí
 **Sàn:** HOSE  |  **Ngành:** Khai khoáng
-> 📅 Daily: 12/05/2026 20:43  |  🗂 Quarterly: 03/05/2026 14:17
+> 📅 Daily: 14/05/2026 20:50  |  🗂 Quarterly: 03/05/2026 14:17
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | PVD |
 | exchange | HOSE |
-| market_cap | 17704778191100 |
+| market_cap | 18483010199500 |
 | 52w_high | 45000 |
 | 52w_high_date | 2026-03-04 |
 | 52w_low | 17603 |
 | 52w_low_date | 2025-05-23 |
-| foreign_ownership | 10.2714 |
+| foreign_ownership | 9.9577 |
 | dividend | 500 |
-| beta | 0.59 |
+| beta | 0.58 |
 | eps | 2131 |
-| eps_forward | 21.79989986648865 |
+| eps_forward | 23.57309746328438 |
 | bvps | 31386 |
-| pe | 14.71 |
-| pb | 1.00 |
-| price_chg_1m | -6.05 |
-| price_chg_ytd | 73.24 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.015698587127158554 |
+| pe | 15.91 |
+| pb | 1.08 |
+| price_chg_1m | 0.00 |
+| price_chg_ytd | 80.37 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.015037593984962405 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,84 +36,84 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 31.85 |
-| MA5 | 31.62 |
-| MA10 | 31.575 |
-| EMA20 | 32.279 |
-| EMA50 | 33.172 |
-| Slope MA20 (5p, %) | -1.36 |
-| ATR(14) | 1.43 |
-| RSI(14) | 45.5 |
+| Giá đóng cửa | 33.25 |
+| MA5 | 32.23 |
+| MA10 | 32.1 |
+| EMA20 | 32.511 |
+| EMA50 | 33.205 |
+| Slope MA20 (5p, %) | -0.27 |
+| ATR(14) | 1.488 |
+| RSI(14) | 52.4 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
-| Giá vs EMA50 | Dưới |
-| MACD | -0.758 |
-| MACD Signal | -0.844 |
-| MACD Histogram | 0.087 |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
+| Giá vs EMA50 | Trên |
+| MACD | -0.411 |
+| MACD Signal | -0.709 |
+| MACD Histogram | 0.298 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 6520228 |
+| KL avg 60 phiên | 6417303 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |     36.95 | 1.19        | 1             |
-| 🔴 Kháng cự    |     34.8  | 1.3         | 1             |
-| 🔴 Kháng cự    |     32.4  | 1.15        | 1             |
-| ▶ Giá hiện tại |     31.85 | —           | —             |
-| 🟢 Hỗ trợ      |     31.55 | 1.28        | 1             |
-| 🟢 Hỗ trợ      |     31.5  | 0.69        | 1             |
-| 🟢 Hỗ trợ      |     29.5  | 1.41        | 1             |
+| 🔴 Kháng cự    |     45.5  | 0.99        | 1             |
+| 🔴 Kháng cự    |     36.95 | 1.18        | 1             |
+| 🔴 Kháng cự    |     34.8  | 1.28        | 1             |
+| ▶ Giá hiện tại |     33.25 | —           | —             |
+| 🟢 Hỗ trợ      |     32.4  | 1.14        | 1             |
+| 🟢 Hỗ trợ      |     31.55 | 1.26        | 1             |
+| 🟢 Hỗ trợ      |     31.5  | 0.68        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | PVD |
-| pe | 14.71 |
-| pb | 1.00 |
+| pe | 15.91 |
+| pb | 1.08 |
 | roe | 6.34 |
 | roe_pct_rank | 39 |
 | roa | 4 |
 | roa_pct_rank | 47 |
 | eps | 2131 |
 | bvps | 31386 |
-| beta | 0.59 |
+| beta | 0.58 |
 | dividend | 500 |
-| yield | 0.015698587127158554 |
-| pe_pct_rank | 54 |
-| pb_pct_rank | 42 |
+| yield | 0.015037593984962405 |
+| pe_pct_rank | 57 |
+| pb_pct_rank | 46 |
 | financial_date | 12/2025 |
 | source | KBS |
 
 ## Khối lượng & Tỷ lệ lưu hành
 
-| Ngày       |      KL | vs Avg60   | Turnover (%)   |
-|:-----------|--------:|:-----------|:---------------|
-| 2026-05-06 | 4061600 | -37.7%     | 0.731%         |
-| 2026-05-07 | 4438000 | -31.9%     | 0.798%         |
-| 2026-05-08 | 3297300 | -49.4%     | 0.593%         |
-| 2026-05-11 | 2751000 | -57.8%     | 0.495%         |
-| 2026-05-12 | 3195200 | -51.0%     | 0.575%         |
+| Ngày       |       KL | vs Avg60   | Turnover (%)   |
+|:-----------|---------:|:-----------|:---------------|
+| 2026-05-08 |  3297300 | -48.6%     | 0.593%         |
+| 2026-05-11 |  2751000 | -57.1%     | 0.495%         |
+| 2026-05-12 |  3195200 | -50.2%     | 0.575%         |
+| 2026-05-13 | 10681300 | +66.4%     | 1.922%         |
+| 2026-05-14 |  4091200 | -36.2%     | 0.736%         |
 
-- KL trung bình 60 phiên: **6,520,228**
+- KL trung bình 60 phiên: **6,417,303**
 - Số CP lưu hành: **555,880,006**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                    | publishtime            | url                                                                                                            |
-|:-----------------------------------------------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------|
-| PVD: Giải trình BCTC HN và Cty mẹ quý 1/2026 so với cùng kỳ năm trước                    | 2026-04-29T19:24:25    | /2026/04/pvd-giai-trinh-bctc-hn-va-cty-me-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436199.htm                  |
-| PVD: Nghị quyết HĐQT về việc chấp thuận hợp đồng cung cấp giàn khoan với PVEP - Cửu Long | 2026-04-29T11:14:34    | /2026/04/pvd-nghi-quyet-hdqt-ve-viec-chap-thuan-hop-dong-cung-cap-gian-khoan-voi-pvep-cuu-long-737-1435381.htm |
-| PVD: BCTC Hợp nhất quý 1 năm 2026                                                        | 2026-04-29T00:00:00    | /2026/04/pvd-bctc-hop-nhat-quy-1-nam-2026-737-1436207.htm                                                      |
-| PVD: BCTC quý 1 năm 2026                                                                 | 2026-04-29T00:00:00    | /2026/04/pvd-bctc-quy-1-nam-2026-737-1437866.htm                                                               |
-| PVD, GAS, TNG được gọi tên vì điều gì?                                                   | 2026-04-28T12:53:17.13 | /2026/04/pvd-gas-tng-duoc-goi-ten-vi-dieu-gi-145-1434410.htm                                                   |
-| PVD: Báo cáo phát triển bền vững năm 2025                                                | 2026-04-24T16:45:59    | /2026/04/pvd-bao-cao-phat-trien-ben-vung-nam-2025-830-1433552.htm                                              |
-| PVD: Nghị quyết HĐQT số 04/04/2026 ngày 21/04/2026                                       | 2026-04-23T13:34:11    | /2026/04/pvd-nghi-quyet-hdqt-so-04-04-2026-ngay-21-04-2026-737-1432541.htm                                     |
-| PVD: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                               | 2026-04-22T17:24:25    | /2026/04/pvd-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432215.htm                             |
-| PVD: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                            | 2026-04-22T13:53:24    | /2026/04/pvd-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1431871.htm                                            |
-| ĐHĐCĐ PVD: Ước lãi trước thuế quý 1 trên 400 tỷ đồng                                     | 2026-04-21T12:56:00    | /2026/04/dhdcd-pvd-uoc-lai-truoc-thue-quy-1-tren-400-ty-dong-737-1430966.htm                                   |
+| title                                                                                            | publishtime            | url                                                                                                                      |
+|:-------------------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| PVD: Nghị quyết HĐQT về việc chấp thuận Hợp đồng nâng cấp khu nhà ở cho giàn khoan PV Drilling I | 2026-05-13T17:28:21    | /2026/05/pvd-nghi-quyet-hdqt-ve-viec-chap-thuan-hop-dong-nang-cap-khu-nha-o-cho-gian-khoan-pv-drilling-i-737-1442266.htm |
+| PVD: Giải trình BCTC HN và Cty mẹ quý 1/2026 so với cùng kỳ năm trước                            | 2026-04-29T19:24:25    | /2026/04/pvd-giai-trinh-bctc-hn-va-cty-me-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436199.htm                            |
+| PVD: Nghị quyết HĐQT về việc chấp thuận hợp đồng cung cấp giàn khoan với PVEP - Cửu Long         | 2026-04-29T11:14:34    | /2026/04/pvd-nghi-quyet-hdqt-ve-viec-chap-thuan-hop-dong-cung-cap-gian-khoan-voi-pvep-cuu-long-737-1435381.htm           |
+| PVD: BCTC Hợp nhất quý 1 năm 2026                                                                | 2026-04-29T00:00:00    | /2026/04/pvd-bctc-hop-nhat-quy-1-nam-2026-737-1436207.htm                                                                |
+| PVD: BCTC quý 1 năm 2026                                                                         | 2026-04-29T00:00:00    | /2026/04/pvd-bctc-quy-1-nam-2026-737-1437866.htm                                                                         |
+| PVD, GAS, TNG được gọi tên vì điều gì?                                                           | 2026-04-28T12:53:17.13 | /2026/04/pvd-gas-tng-duoc-goi-ten-vi-dieu-gi-145-1434410.htm                                                             |
+| PVD: Báo cáo phát triển bền vững năm 2025                                                        | 2026-04-24T16:45:59    | /2026/04/pvd-bao-cao-phat-trien-ben-vung-nam-2025-830-1433552.htm                                                        |
+| PVD: Nghị quyết HĐQT số 04/04/2026 ngày 21/04/2026                                               | 2026-04-23T13:34:11    | /2026/04/pvd-nghi-quyet-hdqt-so-04-04-2026-ngay-21-04-2026-737-1432541.htm                                               |
+| PVD: Biên bản họp và Nghị quyết ĐHĐCĐ thường niên năm 2026                                       | 2026-04-22T17:24:25    | /2026/04/pvd-bien-ban-hop-va-nghi-quyet-dhdcd-thuong-nien-nam-2026-737-1432215.htm                                       |
+| PVD: Thông báo thay đổi nhân sự (kèm NQ HĐQT)                                                    | 2026-04-22T13:53:24    | /2026/04/pvd-thong-bao-thay-doi-nhan-su-kem-nq-hdqt-214-1431871.htm                                                      |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,17 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Khai khoáng |
-| % Ngành hôm nay | +1.13% |
-| % Cổ phiếu hôm nay | +1.59% |
-| RS (CP − Ngành) | +0.46% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | -0.79% |
+| % Cổ phiếu hôm nay | -1.92% |
+| RS (CP − Ngành) | -1.13% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| PVD      | 2025-12-24 00:00:00 |  27.45 |  27.8  | 27.1  |   27.65 |  5739400 |
-| PVD      | 2025-12-25 00:00:00 |  27.6  |  27.95 | 26.5  |   26.5  |  5158900 |
 | PVD      | 2025-12-26 00:00:00 |  26.45 |  27.55 | 26.45 |   27.35 |  8528900 |
 | PVD      | 2025-12-29 00:00:00 |  27.75 |  28.7  | 27.45 |   28.5  | 10738900 |
 | PVD      | 2025-12-30 00:00:00 |  28.5  |  28.6  | 27.65 |   28.45 |  7041900 |
@@ -223,21 +221,23 @@ _Không có dữ liệu_
 | PVD      | 2026-05-08 00:00:00 |  31.7  |  31.9  | 30.7  |   30.8  |  3297300 |
 | PVD      | 2026-05-11 00:00:00 |  31    |  31.55 | 30.5  |   31.35 |  2751000 |
 | PVD      | 2026-05-12 00:00:00 |  31.9  |  31.9  | 30.95 |   31.85 |  3195200 |
+| PVD      | 2026-05-13 00:00:00 |  32    |  34.05 | 31.6  |   33.9  | 10681300 |
+| PVD      | 2026-05-14 00:00:00 |  34    |  34.2  | 32.9  |   33.25 |  4091200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      500 | Buy          | 473849917 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      100 | Buy          | 473849925 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      100 | Buy          | 473849924 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      100 | Buy          | 473849923 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      300 | Buy          | 473849919 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      100 | Buy          | 473849921 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      100 | Buy          | 473849922 |
-| PVD      | 2026-05-12 14:24:23 |   31.9  |      600 | Buy          | 473849920 |
-| PVD      | 2026-05-12 14:24:25 |   31.85 |      100 | Sell         | 473850042 |
-| PVD      | 2026-05-12 14:24:29 |   31.85 |      200 | Sell         | 473850209 |
+| PVD      | 2026-05-14 14:28:06 |   32.95 |      100 | Buy          | 475134344 |
+| PVD      | 2026-05-14 14:28:14 |   32.95 |     5000 | Buy          | 475135134 |
+| PVD      | 2026-05-14 14:28:15 |   32.9  |      200 | Sell         | 475135205 |
+| PVD      | 2026-05-14 14:28:19 |   32.95 |      500 | Buy          | 475135686 |
+| PVD      | 2026-05-14 14:28:23 |   32.95 |      100 | Buy          | 475136104 |
+| PVD      | 2026-05-14 14:28:25 |   32.9  |      500 | Sell         | 475136344 |
+| PVD      | 2026-05-14 14:28:27 |   32.95 |      500 | Buy          | 475136709 |
+| PVD      | 2026-05-14 14:28:32 |   32.95 |      100 | Buy          | 475137256 |
+| PVD      | 2026-05-14 14:28:34 |   32.95 |     1100 | Buy          | 475137508 |
+| PVD      | 2026-05-14 14:28:37 |   32.95 |      500 | Buy          | 475137868 |
 
 <!-- END:DAILY -->
 

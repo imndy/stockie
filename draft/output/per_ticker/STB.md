@@ -1,6 +1,6 @@
 # STB — Ngân hàng TMCP Sài Gòn Thương Tín
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 12/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 14/05/2026 20:51  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | STB |
 | exchange | HOSE |
-| market_cap | 144784566988800 |
+| market_cap | 138751876697600 |
 | 52w_high | 76800 |
 | 52w_high_date | 2026-05-12 |
 | 52w_low | 39000 |
 | 52w_low_date | 2025-05-19 |
-| foreign_ownership | 12.4198 |
+| foreign_ownership | 12.3069 |
 | dividend | 0 |
-| beta | 0.65 |
+| beta | 0.67 |
 | eps | 2454 |
-| eps_forward | 16.804023655969036 |
+| eps_forward | 17.106589178860446 |
 | bvps | 32609.85 |
-| pe | 29.42 |
-| pb | 2.21 |
-| price_chg_1m | 14.80 |
-| price_chg_ytd | 92.00 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
+| pe | 29.95 |
+| pb | 2.25 |
+| price_chg_1m | 11.35 |
+| price_chg_ytd | 84.00 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,51 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 76.8 |
-| MA5 | 73.02 |
-| MA10 | 69.84 |
-| EMA20 | 68.528 |
-| EMA50 | 65.424 |
-| Slope MA20 (5p, %) | 4.74 |
-| ATR(14) | 2.656 |
-| RSI(14) | 71.8 |
-| RSI nhận xét | Quá mua |
+| Giá đóng cửa | 73.6 |
+| MA5 | 73.92 |
+| MA10 | 71.25 |
+| EMA20 | 69.44 |
+| EMA50 | 66.066 |
+| Slope MA20 (5p, %) | 4.4 |
+| ATR(14) | 2.674 |
+| RSI(14) | 62.3 |
+| RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 2.558 |
-| MACD Signal | 1.612 |
-| MACD Histogram | 0.946 |
+| MACD | 2.661 |
+| MACD Signal | 1.984 |
+| MACD Histogram | 0.677 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 9225558 |
+| KL avg 60 phiên | 9122627 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| ▶ Giá hiện tại |    76.8   | —           | —             |
-| 🟢 Hỗ trợ      |    70.2   | 0.99        | 1             |
-| 🟢 Hỗ trợ      |    68.973 | 2.38        | 2             |
-| 🟢 Hỗ trợ      |    66.4   | 0.75        | 1             |
+| ▶ Giá hiện tại |    73.6   | —           | —             |
+| 🟢 Hỗ trợ      |    70.2   | 0.98        | 1             |
+| 🟢 Hỗ trợ      |    68.973 | 2.34        | 2             |
+| 🟢 Hỗ trợ      |    66.4   | 0.74        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | STB |
-| pe | 29.42 |
-| pb | 2.21 |
+| pe | 29.95 |
+| pb | 2.25 |
 | roe | 10.34 |
 | roe_pct_rank | 48 |
 | roa | 0.71 |
-| roa_pct_rank | 35 |
+| roa_pct_rank | 30 |
 | eps | 2454 |
 | bvps | 32609.85 |
-| beta | 0.65 |
+| beta | 0.67 |
 | dividend | 0 |
 | yield | 0 |
-| pe_pct_rank | 84 |
-| pb_pct_rank | 79 |
+| pe_pct_rank | 85 |
+| pb_pct_rank | 80 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -88,29 +88,29 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-06 |  7606000 | -17.6%     | 0.403%         |
-| 2026-05-07 | 18877100 | +104.6%    | 1.001%         |
-| 2026-05-08 |  4750300 | -48.5%     | 0.252%         |
-| 2026-05-11 |  3266700 | -64.6%     | 0.173%         |
-| 2026-05-12 |  6934600 | -24.8%     | 0.368%         |
+| 2026-05-08 |  4750300 | -47.9%     | 0.252%         |
+| 2026-05-11 |  3266700 | -64.2%     | 0.173%         |
+| 2026-05-12 |  6934600 | -24.0%     | 0.368%         |
+| 2026-05-13 | 10029200 | +9.9%      | 0.532%         |
+| 2026-05-14 |  4387600 | -51.9%     | 0.233%         |
 
-- KL trung bình 60 phiên: **9,225,558**
+- KL trung bình 60 phiên: **9,122,626**
 - Số CP lưu hành: **1,885,215,716**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                             | publishtime             | url                                                                                                                       |
-|:--------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                  | 2026-05-12T13:02:00     | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                 |
-| STB: Thông báo thay đổi nhân sự - Bổ nhiệm 02 Phó Tổng Giám đốc                                   | 2026-05-11T17:57:03     | /2026/05/stb-thong-bao-thay-doi-nhan-su-bo-nhiem-02-pho-tong-giam-doc-214-1441020.htm                                     |
-| SACOMBANK kiện toàn đội ngũ lãnh đạo cấp cao                                                      | 2026-05-11T17:35:01.54  | /2026/05/sacombank-kien-toan-doi-ngu-lanh-dao-cap-cao-757-1440921.htm                                                     |
-| STB: Thông báo thay đổi nhân sự - Miễn nhiệm Phó Tổng Giám đốc                                    | 2026-05-11T14:07:06     | /2026/05/stb-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tong-giam-doc-214-1440798.htm                                      |
-| Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026 | 2026-05-11T11:02:00     | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm  |
-| SACOMBANK công bố khách hàng trúng thưởng chuyến du lịch nghỉ dưỡng xem FIFA World Cup tại Hoa Kỳ | 2026-05-08T19:34:07.847 | /2026/05/sacombank-cong-bo-khach-hang-trung-thuong-chuyen-du-lich-nghi-duong-xem-fifa-world-cup-tai-hoa-ky-214-1440422.h… |
-| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                     | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
-| Tăng thu ngoài lãi, củng cố dự phòng, Sacombank lãi trước thuế 2,106 tỷ đồng trong quý 1          | 2026-05-01T11:12:00     | /2026/05/tang-thu-ngoai-lai-cung-co-du-phong-sacombank-lai-truoc-thue-2106-ty-dong-trong-quy-1-737-1436363.htm            |
-| STB: Giải trình BCTC HN và Riêng quý 1/2026 so với cùng kỳ năm trước                              | 2026-04-29T15:49:57     | /2026/04/stb-giai-trinh-bctc-hn-va-rieng-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1436312.htm                              |
-| STB: BCTC quý 1 năm 2026                                                                          | 2026-04-29T00:00:00     | /2026/04/stb-bctc-quy-1-nam-2026-737-1435589.htm                                                                          |
+| title                                                                                               | publishtime             | url                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Lộ trình phục hồi NIM ngân hàng và bài toán đánh đổi lợi suất - rủi ro                              | 2026-05-14T13:02:00     | /2026/05/lo-trinh-phuc-hoi-nim-ngan-hang-va-bai-toan-danh-doi-loi-suat-rui-ro-757-1441923.htm                             |
+| STB: Nghị quyết HĐQT về việc chấp thuận chủ trương di dời địa điểm Phòng GD Núi Thành - CN Sông Hàn | 2026-05-13T13:44:37     | /2026/05/stb-nghi-quyet-hdqt-ve-viec-chap-thuan-chu-truong-di-doi-dia-diem-phong-gd-nui-thanh-cn-song-han-737-1442063.ht… |
+| Khả năng hấp thụ rủi ro một số ngân hàng suy giảm                                                   | 2026-05-13T09:02:00     | /2026/05/kha-nang-hap-thu-rui-ro-mot-so-ngan-hang-suy-giam-757-1440830.htm                                                |
+| Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                    | 2026-05-12T13:02:00     | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                 |
+| STB: Thông báo thay đổi nhân sự - Bổ nhiệm 02 Phó Tổng Giám đốc                                     | 2026-05-11T17:57:03     | /2026/05/stb-thong-bao-thay-doi-nhan-su-bo-nhiem-02-pho-tong-giam-doc-214-1441020.htm                                     |
+| SACOMBANK kiện toàn đội ngũ lãnh đạo cấp cao                                                        | 2026-05-11T17:35:01.54  | /2026/05/sacombank-kien-toan-doi-ngu-lanh-dao-cap-cao-757-1440921.htm                                                     |
+| STB: Thông báo thay đổi nhân sự - Miễn nhiệm Phó Tổng Giám đốc                                      | 2026-05-11T14:07:06     | /2026/05/stb-thong-bao-thay-doi-nhan-su-mien-nhiem-pho-tong-giam-doc-214-1440798.htm                                      |
+| Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026   | 2026-05-11T11:02:00     | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm  |
+| SACOMBANK công bố khách hàng trúng thưởng chuyến du lịch nghỉ dưỡng xem FIFA World Cup tại Hoa Kỳ   | 2026-05-08T19:34:07.847 | /2026/05/sacombank-cong-bo-khach-hang-trung-thuong-chuyen-du-lich-nghi-duong-xem-fifa-world-cup-tai-hoa-ky-214-1440422.h… |
+| Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                       | 2026-05-05T20:02:00     | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                       |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,17 +121,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.35% |
-| % Cổ phiếu hôm nay | +6.37% |
-| RS (CP − Ngành) | +6.02% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +1.21% |
+| % Cổ phiếu hôm nay | +0.14% |
+| RS (CP − Ngành) | -1.07% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| STB      | 2025-12-24 00:00:00 |   58.8 |   58.8 |  56.6 |    58.7 | 19984100 |
-| STB      | 2025-12-25 00:00:00 |   58.3 |   58.6 |  55.9 |    55.9 | 15350700 |
 | STB      | 2025-12-26 00:00:00 |   55.5 |   57.5 |  53.1 |    57.5 | 17485500 |
 | STB      | 2025-12-29 00:00:00 |   58.2 |   60.4 |  58.1 |    59.9 | 22403400 |
 | STB      | 2025-12-30 00:00:00 |   60.3 |   60.8 |  58.5 |    60   | 19183500 |
@@ -220,21 +218,23 @@ _Không có dữ liệu_
 | STB      | 2026-05-08 00:00:00 |   74   |   74.8 |  72.3 |    73.5 |  4750300 |
 | STB      | 2026-05-11 00:00:00 |   73   |   73.3 |  71.9 |    72.2 |  3266700 |
 | STB      | 2026-05-12 00:00:00 |   72.3 |   76.8 |  71.9 |    76.8 |  6934600 |
+| STB      | 2026-05-13 00:00:00 |   76   |   76.6 |  73.5 |    73.5 | 10029200 |
+| STB      | 2026-05-14 00:00:00 |   73   |   75.1 |  72.8 |    73.6 |  4387600 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| STB      | 2026-05-12 14:28:45 |    75.5 |      300 | Buy          | 473865786 |
-| STB      | 2026-05-12 14:28:45 |    75.5 |      200 | Buy          | 473865787 |
-| STB      | 2026-05-12 14:28:45 |    75.5 |      100 | Buy          | 473865788 |
-| STB      | 2026-05-12 14:28:46 |    75.5 |      400 | Buy          | 473865859 |
-| STB      | 2026-05-12 14:28:46 |    75.7 |      200 | Buy          | 473865860 |
-| STB      | 2026-05-12 14:28:46 |    75.7 |      300 | Buy          | 473865873 |
-| STB      | 2026-05-12 14:28:46 |    75.7 |      300 | Buy          | 473865874 |
-| STB      | 2026-05-12 14:28:47 |    75.7 |      600 | Buy          | 473865957 |
-| STB      | 2026-05-12 14:28:49 |    75.7 |      100 | Buy          | 473866078 |
-| STB      | 2026-05-12 14:28:49 |    75.8 |     4400 | Buy          | 473866079 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      500 | Sell         | 475127557 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      200 | Sell         | 475127569 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |     1600 | Sell         | 475127559 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      700 | Sell         | 475127562 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      200 | Sell         | 475127563 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      500 | Sell         | 475127564 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      200 | Sell         | 475127565 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |     1000 | Sell         | 475127567 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      300 | Sell         | 475127568 |
+| STB      | 2026-05-14 14:27:03 |    73.5 |      100 | Sell         | 475127566 |
 
 <!-- END:DAILY -->
 

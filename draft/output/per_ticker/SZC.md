@@ -1,6 +1,6 @@
 # SZC — CTCP Sonadezi Châu Đức
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 12/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:20
+> 📅 Daily: 14/05/2026 20:51  |  🗂 Quarterly: 03/05/2026 14:20
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | SZC |
 | exchange | HOSE |
-| market_cap | 4652634558550 |
+| market_cap | 4688631731150 |
 | 52w_high | 38635 |
 | 52w_high_date | 2025-08-13 |
 | 52w_low | 25700 |
 | 52w_low_date | 2026-05-11 |
-| foreign_ownership | 3.7265 |
+| foreign_ownership | 3.6881 |
 | dividend | 1000 |
-| beta | 0.91 |
+| beta | 0.92 |
 | eps | 1311 |
-| eps_forward | 82.47488848239787 |
+| eps_forward | 84.40037226019705 |
 | bvps | 17890 |
-| pe | 19.61 |
-| pb | 1.44 |
-| price_chg_1m | -10.40 |
-| price_chg_ytd | -20.61 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.03868471953578337 |
+| pe | 20.07 |
+| pb | 1.47 |
+| price_chg_1m | -9.86 |
+| price_chg_ytd | -20.47 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.03838771593090211 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,51 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 25.85 |
-| MA5 | 26.55 |
-| MA10 | 26.935 |
-| EMA20 | 27.522 |
-| EMA50 | 28.729 |
-| Slope MA20 (5p, %) | -2.44 |
-| ATR(14) | 0.721 |
-| RSI(14) | 29.3 |
-| RSI nhận xét | Quá bán |
+| Giá đóng cửa | 26.05 |
+| MA5 | 26.12 |
+| MA10 | 26.68 |
+| EMA20 | 27.277 |
+| EMA50 | 28.533 |
+| Slope MA20 (5p, %) | -2.71 |
+| ATR(14) | 0.707 |
+| RSI(14) | 33.6 |
+| RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.786 |
-| MACD Signal | -0.629 |
-| MACD Histogram | -0.157 |
+| MACD | -0.798 |
+| MACD Signal | -0.688 |
+| MACD Histogram | -0.11 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 887410 |
+| KL avg 60 phiên | 822243 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    29.655 | 2.49        | 2             |
-| 🔴 Kháng cự    |    28.161 | 1.62        | 2             |
-| 🔴 Kháng cự    |    27.216 | 3.65        | 3             |
-| ▶ Giá hiện tại |    25.85  | —           | —             |
+| 🔴 Kháng cự    |    29.655 | 2.46        | 2             |
+| 🔴 Kháng cự    |    28.161 | 1.59        | 2             |
+| 🔴 Kháng cự    |    27.216 | 3.59        | 3             |
+| ▶ Giá hiện tại |    26.05  | —           | —             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | SZC |
-| pe | 19.61 |
-| pb | 1.44 |
+| pe | 20.07 |
+| pb | 1.47 |
 | roe | 10.94 |
 | roe_pct_rank | 49 |
 | roa | 4.21 |
-| roa_pct_rank | 47 |
+| roa_pct_rank | 46 |
 | eps | 1311 |
 | bvps | 17890 |
-| beta | 0.91 |
+| beta | 0.92 |
 | dividend | 1000 |
-| yield | 0.03868471953578337 |
-| pe_pct_rank | 64 |
-| pb_pct_rank | 57 |
+| yield | 0.03838771593090211 |
+| pe_pct_rank | 65 |
+| pb_pct_rank | 58 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -88,19 +88,20 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-06 |  416400 | -53.1%     | 0.231%         |
-| 2026-05-07 |  647600 | -27.0%     | 0.360%         |
-| 2026-05-08 |  937100 | +5.6%      | 0.521%         |
-| 2026-05-11 | 1329500 | +49.8%     | 0.739%         |
-| 2026-05-12 |  468200 | -47.2%     | 0.260%         |
+| 2026-05-08 |  937100 | +14.0%     | 0.521%         |
+| 2026-05-11 | 1329500 | +61.7%     | 0.739%         |
+| 2026-05-12 |  468200 | -43.1%     | 0.260%         |
+| 2026-05-13 |  439400 | -46.6%     | 0.244%         |
+| 2026-05-14 |  294400 | -64.2%     | 0.164%         |
 
-- KL trung bình 60 phiên: **887,410**
+- KL trung bình 60 phiên: **822,243**
 - Số CP lưu hành: **179,985,863**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                   | publishtime         | url                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| SZC: Nghị quyết HĐQT về việc thay đổi nội dung ĐKDN, con dấu của công ty                                                | 2026-05-14T16:35:03 | /2026/05/szc-nghi-quyet-hdqt-ve-viec-thay-doi-noi-dung-dkdn-con-dau-cua-cong-ty-737-1442612.htm                           |
 | SZC: Thông báo giấy xác nhận thay đổi nội dung ĐKDN                                                                     | 2026-04-28T17:50:29 | /2026/04/szc-thong-bao-giay-xac-nhan-thay-doi-noi-dung-dkdn-830-1435034.htm                                               |
 | SZC: Thông báo thay đổi nhân sự                                                                                         | 2026-04-24T18:10:17 | /2026/04/szc-thong-bao-thay-doi-nhan-su-214-1433763.htm                                                                   |
 | SZC: Quyết định của HĐQT về việc miễn nhiệm và bổ nhiệm Trưởng Ban KTNB                                                 | 2026-04-24T18:09:41 | /2026/04/szc-quyet-dinh-cua-hdqt-ve-viec-mien-nhiem-va-bo-nhiem-truong-ban-ktnb-214-1433762.htm                           |
@@ -110,7 +111,6 @@
 | SZC: BCTC Hợp nhất quý 1 năm 2026                                                                                       | 2026-04-20T00:00:00 | /2026/04/szc-bctc-hop-nhat-quy-1-nam-2026-737-1431026.htm                                                                 |
 | SZC: Nghị quyết, Biên bản họp ĐHĐCĐ thường niên 2026 và tài liệu kèm theo                                               | 2026-04-17T18:59:01 | /2026/04/szc-nghi-quyet-bien-ban-hop-dhdcd-thuong-nien-2026-va-tai-lieu-kem-theo-737-1429632.htm                          |
 | Chuyên gia Grant Thornton Việt Nam: Thông tư 99 tạo ra bước ngoặt trong kế toán ban đầu, nhưng là sự thay đổi cần thiết | 2026-04-08T13:02:00 | /2026/04/chuyen-gia-grant-thornton-viet-nam-thong-tu-99-tao-ra-buoc-ngoat-trong-ke-toan-ban-dau-nhung-la-su-thay-doi-can… |
-| SZC: Báo cáo thường niên năm 2025                                                                                       | 2026-04-08T09:15:02 | /2026/04/szc-bao-cao-thuong-nien-nam-2025-737-1424638.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,17 +121,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.07% |
-| % Cổ phiếu hôm nay | +0.58% |
-| RS (CP − Ngành) | +0.51% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +3.04% |
+| % Cổ phiếu hôm nay | -0.95% |
+| RS (CP − Ngành) | -3.99% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| SZC      | 2025-12-24 00:00:00 |  29.9  |  29.9  | 29.5  |   29.75 |   210600 |
-| SZC      | 2025-12-25 00:00:00 |  29.8  |  29.85 | 29.4  |   29.4  |   252800 |
 | SZC      | 2025-12-26 00:00:00 |  29.65 |  29.65 | 28.3  |   28.9  |   513000 |
 | SZC      | 2025-12-29 00:00:00 |  29    |  29    | 28.7  |   28.7  |   366000 |
 | SZC      | 2025-12-30 00:00:00 |  28.8  |  28.95 | 28.8  |   28.95 |   286000 |
@@ -220,21 +218,23 @@ _Không có dữ liệu_
 | SZC      | 2026-05-08 00:00:00 |  27.25 |  27.3  | 26.45 |   26.7  |   937100 |
 | SZC      | 2026-05-11 00:00:00 |  26.7  |  26.8  | 25.7  |   25.7  |  1329500 |
 | SZC      | 2026-05-12 00:00:00 |  26    |  26.05 | 25.7  |   25.85 |   468200 |
+| SZC      | 2026-05-13 00:00:00 |  25.7  |  26.35 | 25.65 |   26.3  |   439400 |
+| SZC      | 2026-05-14 00:00:00 |  26.3  |  26.55 | 26    |   26.05 |   294400 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| SZC      | 2026-05-12 13:51:27 |   25.95 |     2000 | Buy          | 473745819 |
-| SZC      | 2026-05-12 13:53:13 |   25.95 |      100 | Buy          | 473751413 |
-| SZC      | 2026-05-12 13:55:06 |   25.95 |      100 | Buy          | 473757170 |
-| SZC      | 2026-05-12 13:55:38 |   25.95 |     1000 | Buy          | 473758723 |
-| SZC      | 2026-05-12 13:55:54 |   25.95 |      400 | Buy          | 473759502 |
-| SZC      | 2026-05-12 13:57:00 |   25.95 |      100 | Buy          | 473763116 |
-| SZC      | 2026-05-12 13:58:52 |   25.95 |      100 | Buy          | 473768403 |
-| SZC      | 2026-05-12 13:59:13 |   25.95 |      100 | Buy          | 473769846 |
-| SZC      | 2026-05-12 13:59:52 |   25.9  |      100 | Sell         | 473771919 |
-| SZC      | 2026-05-12 13:59:52 |   25.9  |     2000 | Sell         | 473771920 |
+| SZC      | 2026-05-14 14:15:40 |   26.05 |      200 | Sell         | 475085425 |
+| SZC      | 2026-05-14 14:15:40 |   26.05 |     1400 | Sell         | 475085428 |
+| SZC      | 2026-05-14 14:15:40 |   26.05 |      100 | Sell         | 475085426 |
+| SZC      | 2026-05-14 14:15:40 |   26.05 |      100 | Sell         | 475085427 |
+| SZC      | 2026-05-14 14:15:58 |   26.05 |      200 | Sell         | 475086633 |
+| SZC      | 2026-05-14 14:16:00 |   26.05 |      400 | Sell         | 475086697 |
+| SZC      | 2026-05-14 14:16:00 |   26.05 |      100 | Sell         | 475086700 |
+| SZC      | 2026-05-14 14:16:37 |   26.05 |      200 | Sell         | 475089309 |
+| SZC      | 2026-05-14 14:16:37 |   26.05 |      200 | Sell         | 475089308 |
+| SZC      | 2026-05-14 14:16:37 |   26.05 |      400 | Sell         | 475089307 |
 
 <!-- END:DAILY -->
 

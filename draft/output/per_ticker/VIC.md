@@ -1,6 +1,6 @@
 # VIC — Tập đoàn VINGROUP - CTCP
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 12/05/2026 20:46  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 14/05/2026 20:53  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | VIC |
 | exchange | HOSE |
-| market_cap | 1716835200912000 |
-| 52w_high | 226000 |
-| 52w_high_date | 2026-05-08 |
-| 52w_low | 39800 |
-| 52w_low_date | 2025-05-13 |
-| foreign_ownership | 3.355 |
+| market_cap | 1777156437700800 |
+| 52w_high | 229800 |
+| 52w_high_date | 2026-05-14 |
+| 52w_low | 39900 |
+| 52w_low_date | 2025-05-15 |
+| foreign_ownership | 3.3679 |
 | dividend | 0 |
-| beta | 1.77 |
+| beta | 1.75 |
 | eps | 1824 |
-| eps_forward | 49.27338331377865 |
+| eps_forward | 48.831469562085566 |
 | bvps | 19875 |
-| pe | 122.28 |
-| pb | 11.22 |
-| price_chg_1m | 46.34 |
-| price_chg_ytd | 459.19 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
+| pe | 121.18 |
+| pb | 11.12 |
+| price_chg_1m | 38.85 |
+| price_chg_ytd | 475.94 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,43 +36,43 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 222.0 |
-| MA5 | 222.9 |
-| MA10 | 219.76 |
-| EMA20 | 202.639 |
-| EMA50 | 178.88 |
-| Slope MA20 (5p, %) | 6.97 |
-| ATR(14) | 11.011 |
-| RSI(14) | 71.8 |
+| Giá đóng cửa | 229.8 |
+| MA5 | 224.36 |
+| MA10 | 221.08 |
+| EMA20 | 206.808 |
+| EMA50 | 182.46 |
+| Slope MA20 (5p, %) | 5.88 |
+| ATR(14) | 12.118 |
+| RSI(14) | 74.5 |
 | RSI nhận xét | Quá mua |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 18.265 |
-| MACD Signal | 17.875 |
-| MACD Histogram | 0.39 |
-| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 4278715 |
+| MACD | 17.366 |
+| MACD Signal | 17.71 |
+| MACD Histogram | -0.344 |
+| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
+| KL avg 60 phiên | 4280178 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| ▶ Giá hiện tại |   222     | —           | —             |
-| 🟢 Hỗ trợ      |   190     | 0.65        | 1             |
-| 🟢 Hỗ trợ      |   177.157 | 1.53        | 2             |
-| 🟢 Hỗ trợ      |   167.7   | 0.76        | 1             |
+| ▶ Giá hiện tại |     229.8 | —           | —             |
+| 🟢 Hỗ trợ      |     190   | 0.64        | 1             |
+| 🟢 Hỗ trợ      |     178.5 | 0.96        | 1             |
+| 🟢 Hỗ trợ      |     167.7 | 0.75        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | VIC |
-| pe | 122.28 |
-| pb | 11.22 |
+| pe | 121.18 |
+| pb | 11.12 |
 | eps | 1824 |
 | bvps | 19875 |
-| beta | 1.77 |
+| beta | 1.75 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 100 |
@@ -84,29 +84,29 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-06 | 3130600 | -26.8%     | 0.040%         |
-| 2026-05-07 | 4299400 | +0.5%      | 0.056%         |
-| 2026-05-08 | 3703600 | -13.4%     | 0.048%         |
+| 2026-05-08 | 3703600 | -13.5%     | 0.048%         |
 | 2026-05-11 | 4626200 | +8.1%      | 0.060%         |
 | 2026-05-12 | 4023400 | -6.0%      | 0.052%         |
+| 2026-05-13 | 6456000 | +50.8%     | 0.083%         |
+| 2026-05-14 | 3746700 | -12.5%     | 0.048%         |
 
-- KL trung bình 60 phiên: **4,278,715**
+- KL trung bình 60 phiên: **4,280,178**
 - Số CP lưu hành: **7,733,491,896**
 
 ## Tin tức gần nhất (Top 10)
 
-| title                                                                                             | publishtime             | url                                                                                                                    |
-|:--------------------------------------------------------------------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------|
-| Lãnh đạo VCBF lý giải việc vẫn giữ FPT                                                            | 2026-05-10T16:02:00     | /2026/05/lanh-dao-vcbf-ly-giai-viec-van-giu-fpt-3358-1440511.htm                                                       |
-| Lãi suất tối đa 6%/năm, nhà đầu tư Vincom Collection Bazaar an tâm trước mọi “cơn bão” thị trường | 2026-05-05T10:54:42.783 | /2026/05/lai-suat-toi-da-6nam-nha-dau-tu-vincom-collection-bazaar-an-tam-truoc-moi-con-bao-thi-truong-4222-1437644.htm |
-| Nhịp đập Thị trường 29/04: Thị trường phân hóa, cổ phiếu VIC và VHM gây áp lực lên chỉ số         | 2026-04-29T16:27:00     | /2026/04/nhip-dap-thi-truong-2904-thi-truong-phan-hoa-co-phieu-vic-va-vhm-gay-ap-luc-len-chi-so-1636-1435267.htm       |
-| Vingroup: Lợi nhuận sau thuế quý 1 hơn 5,600 tỷ đồng                                              | 2026-04-28T15:22:38.337 | /2026/04/vingroup-loi-nhuan-sau-thue-quy-1-hon-5600-ty-dong-737-1434578.htm                                            |
-| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINAPEARL        | 2026-04-28T09:16:42     | /2026/04/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinapearl-739-1434239.htm     |
-| VIC: BCTC quý 1 năm 2026                                                                          | 2026-04-28T00:00:00     | /2026/04/vic-bctc-quy-1-nam-2026-737-1434998.htm                                                                       |
-| VIC: BCTC Hợp nhất quý 1 năm 2026                                                                 | 2026-04-28T00:00:00     | /2026/04/vic-bctc-hop-nhat-quy-1-nam-2026-737-1434999.htm                                                              |
-| VIC đóng góp hơn 41 điểm cho VN-Index                                                             | 2026-04-26T20:30:00     | /2026/04/vic-dong-gop-hon-41-diem-cho-vn-index-830-1434068.htm                                                         |
-| SACOMBANK và Vingroup ký kết hợp tác chiến lược toàn diện                                         | 2026-04-24T18:15:33.007 | /2026/04/sacombank-va-vingroup-ky-ket-hop-tac-chien-luoc-toan-dien-757-1433603.htm                                     |
-| VIC: Biên bản họp, Nghị quyết ĐHĐCĐ thường niên năm 2026 và Thông báo thay đổi nhân sự            | 2026-04-24T09:29:03     | /2026/04/vic-bien-ban-hop-nghi-quyet-dhdcd-thuong-nien-nam-2026-va-thong-bao-thay-doi-nhan-su-737-1433112.htm          |
+| title                                                                                                    | publishtime             | url                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Thép Pomina tiếp tục lỗ nặng                                                                             | 2026-05-14T15:44:18.327 | /2026/05/thep-pomina-tiep-tuc-lo-nang-737-1442494.htm                                                                     |
+| Vingroup lập công ty robot phẫu thuật vốn 300 tỷ đồng                                                    | 2026-05-14T10:34:42.533 | /2026/05/vingroup-lap-cong-ty-robot-phau-thuat-von-300-ty-dong-737-1442394.htm                                            |
+| VIC: Nghị quyết HĐQT thông qua việc tham gia góp vốn thành lập công ty con - Công ty Cổ phần Vinsurgical | 2026-05-13T17:41:17     | /2026/05/vic-nghi-quyet-hdqt-thong-qua-viec-tham-gia-gop-von-thanh-lap-cong-ty-con-cong-ty-co-phan-vinsurgical-737-14422… |
+| Lãnh đạo VCBF lý giải việc vẫn giữ FPT                                                                   | 2026-05-10T16:02:00     | /2026/05/lanh-dao-vcbf-ly-giai-viec-van-giu-fpt-3358-1440511.htm                                                          |
+| Lãi suất tối đa 6%/năm, nhà đầu tư Vincom Collection Bazaar an tâm trước mọi “cơn bão” thị trường        | 2026-05-05T10:54:42.783 | /2026/05/lai-suat-toi-da-6nam-nha-dau-tu-vincom-collection-bazaar-an-tam-truoc-moi-con-bao-thi-truong-4222-1437644.htm    |
+| Nhịp đập Thị trường 29/04: Thị trường phân hóa, cổ phiếu VIC và VHM gây áp lực lên chỉ số                | 2026-04-29T16:27:00     | /2026/04/nhip-dap-thi-truong-2904-thi-truong-phan-hoa-co-phieu-vic-va-vhm-gay-ap-luc-len-chi-so-1636-1435267.htm          |
+| Vingroup: Lợi nhuận sau thuế quý 1 hơn 5,600 tỷ đồng                                                     | 2026-04-28T15:22:38.337 | /2026/04/vingroup-loi-nhuan-sau-thue-quy-1-hon-5600-ty-dong-737-1434578.htm                                               |
+| VIC: Thông báo giao dịch cổ phiếu của tổ chức có liên quan đến người nội bộ CTCP VINAPEARL               | 2026-04-28T09:16:42     | /2026/04/vic-thong-bao-giao-dich-co-phieu-cua-to-chuc-co-lien-quan-den-nguoi-noi-bo-ctcp-vinapearl-739-1434239.htm        |
+| VIC: BCTC quý 1 năm 2026                                                                                 | 2026-04-28T00:00:00     | /2026/04/vic-bctc-quy-1-nam-2026-737-1434998.htm                                                                          |
+| VIC: BCTC Hợp nhất quý 1 năm 2026                                                                        | 2026-04-28T00:00:00     | /2026/04/vic-bctc-hop-nhat-quy-1-nam-2026-737-1434999.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -117,17 +117,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.07% |
-| % Cổ phiếu hôm nay | -0.45% |
-| RS (CP − Ngành) | -0.52% |
-| Nhận xét | CP **yếu hơn** ngành |
+| % Ngành hôm nay | +3.04% |
+| % Cổ phiếu hôm nay | +3.98% |
+| RS (CP − Ngành) | +0.94% |
+| Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIC      | 2025-12-24 00:00:00 |  174   |  176.6 | 164   |   169.8 |  8749100 |
-| VIC      | 2025-12-25 00:00:00 |  167.6 |  174.5 | 158   |   158   |  6373600 |
 | VIC      | 2025-12-26 00:00:00 |  147   |  155.2 | 147   |   155   | 15336300 |
 | VIC      | 2025-12-29 00:00:00 |  155   |  159.9 | 155   |   159.7 |  6667000 |
 | VIC      | 2025-12-30 00:00:00 |  159.7 |  163   | 151.6 |   163   |  8091800 |
@@ -216,21 +214,23 @@ _Không có dữ liệu_
 | VIC      | 2026-05-08 00:00:00 |  223.6 |  227.3 | 218   |   226   |  3703600 |
 | VIC      | 2026-05-11 00:00:00 |  225.9 |  230   | 219.5 |   223   |  4626200 |
 | VIC      | 2026-05-12 00:00:00 |  222   |  225.6 | 215.1 |   222   |  4023400 |
+| VIC      | 2026-05-13 00:00:00 |  223   |  224   | 206.5 |   221   |  6456000 |
+| VIC      | 2026-05-14 00:00:00 |  218   |  232   | 211.5 |   229.8 |  3746700 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIC      | 2026-05-12 14:26:52 |     222 |      500 | Sell         | 473858505 |
-| VIC      | 2026-05-12 14:26:53 |     222 |      500 | Sell         | 473858563 |
-| VIC      | 2026-05-12 14:26:53 |     222 |      200 | Sell         | 473858560 |
-| VIC      | 2026-05-12 14:26:53 |     222 |      300 | Sell         | 473858561 |
-| VIC      | 2026-05-12 14:26:54 |     222 |      100 | Sell         | 473858636 |
-| VIC      | 2026-05-12 14:26:55 |     222 |      200 | Sell         | 473858649 |
-| VIC      | 2026-05-12 14:26:56 |     222 |      100 | Sell         | 473858736 |
-| VIC      | 2026-05-12 14:27:00 |     222 |      100 | Sell         | 473858940 |
-| VIC      | 2026-05-12 14:27:00 |     222 |      400 | Sell         | 473858944 |
-| VIC      | 2026-05-12 14:27:01 |     222 |      100 | Sell         | 473859021 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      200 | Buy          | 475137269 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137273 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137274 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137276 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |     1000 | Buy          | 475137271 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      200 | Buy          | 475137275 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      400 | Buy          | 475137270 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137272 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137278 |
+| VIC      | 2026-05-14 14:28:32 |   229.9 |      100 | Buy          | 475137279 |
 
 <!-- END:DAILY -->
 

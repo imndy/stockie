@@ -1,6 +1,6 @@
 # FPT — CTCP FPT
 **Sàn:** HOSE  |  **Ngành:** Công nghệ và thông tin
-> 📅 Daily: 12/05/2026 20:38  |  🗂 Quarterly: 03/05/2026 14:04
+> 📅 Daily: 14/05/2026 20:45  |  🗂 Quarterly: 03/05/2026 14:04
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | FPT |
 | exchange | HOSE |
-| market_cap | 120267602742600 |
+| market_cap | 125889176241900 |
 | 52w_high | 110945 |
 | 52w_high_date | 2025-07-22 |
 | 52w_low | 70000 |
 | 52w_low_date | 2026-05-11 |
-| foreign_ownership | 29.8035 |
+| foreign_ownership | 29.355 |
 | dividend | 2000 |
-| beta | 0.83 |
+| beta | 0.84 |
 | eps | 6010 |
-| eps_forward | 10.254141574538087 |
+| eps_forward | 10.356682990283469 |
 | bvps | 23553 |
-| pe | 11.65 |
-| pb | 2.97 |
-| price_chg_1m | -9.14 |
-| price_chg_ytd | -30.08 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.028328611898016998 |
+| pe | 11.76 |
+| pb | 3.00 |
+| price_chg_1m | -3.02 |
+| price_chg_ytd | -31.45 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.02706359945872801 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,49 +36,51 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 70.6 |
-| MA5 | 71.76 |
-| MA10 | 73.01 |
-| EMA20 | 73.906 |
-| EMA50 | 78.231 |
-| Slope MA20 (5p, %) | -1.99 |
-| ATR(14) | 1.828 |
-| RSI(14) | 35.8 |
+| Giá đóng cửa | 73.9 |
+| MA5 | 71.42 |
+| MA10 | 72.69 |
+| EMA20 | 73.629 |
+| EMA50 | 77.745 |
+| Slope MA20 (5p, %) | -1.82 |
+| ATR(14) | 2.004 |
+| RSI(14) | 48.2 |
 | RSI nhận xét | Bình thường |
-| Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
-| Giá vs EMA20 | Dưới |
+| Tín hiệu EMA | Vừa vượt EMA20 (chú ý) |
+| Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Dưới |
-| MACD | -1.755 |
-| MACD Signal | -1.556 |
-| MACD Histogram | -0.199 |
-| MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 11791710 |
+| MACD | -1.562 |
+| MACD Signal | -1.596 |
+| MACD Histogram | 0.033 |
+| MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
+| KL avg 60 phiên | 12095172 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    75.9   | 1.04        | 1             |
-| 🔴 Kháng cự    |    73.856 | 2.58        | 2             |
-| 🔴 Kháng cự    |    71.6   | 1.14        | 1             |
-| ▶ Giá hiện tại |    70.6   | —           | —             |
+| 🔴 Kháng cự    |    81.3   | 1.08        | 1             |
+| 🔴 Kháng cự    |    79.2   | 1.26        | 1             |
+| 🔴 Kháng cự    |    75.9   | 1.02        | 1             |
+| ▶ Giá hiện tại |    73.9   | —           | —             |
+| 🟢 Hỗ trợ      |    73.856 | 2.54        | 2             |
+| 🟢 Hỗ trợ      |    71.6   | 1.12        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | FPT |
-| pe | 11.65 |
-| pb | 2.97 |
+| pe | 11.76 |
+| pb | 3.00 |
 | roe | 28.25 |
 | roe_pct_rank | 86 |
 | roa | 11.71 |
 | roa_pct_rank | 74 |
 | eps | 6010 |
 | bvps | 23553 |
-| beta | 0.83 |
+| beta | 0.84 |
 | dividend | 2000 |
-| yield | 0.028328611898016998 |
+| yield | 0.02706359945872801 |
 | pe_pct_rank | 48 |
 | pb_pct_rank | 100 |
 | financial_date | 12/2025 |
@@ -88,19 +90,20 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-06 |  9455600 | -19.8%     | 0.555%         |
-| 2026-05-07 | 10186100 | -13.6%     | 0.598%         |
-| 2026-05-08 | 13444300 | +14.0%     | 0.789%         |
-| 2026-05-11 | 16909100 | +43.4%     | 0.993%         |
-| 2026-05-12 |  8533300 | -27.6%     | 0.501%         |
+| 2026-05-08 | 13444300 | +11.2%     | 0.789%         |
+| 2026-05-11 | 16909100 | +39.8%     | 0.993%         |
+| 2026-05-12 |  8533300 | -29.4%     | 0.501%         |
+| 2026-05-13 | 11517600 | -4.8%      | 0.676%         |
+| 2026-05-14 | 21565500 | +78.3%     | 1.266%         |
 
-- KL trung bình 60 phiên: **11,791,710**
+- KL trung bình 60 phiên: **12,095,171**
 - Số CP lưu hành: **1,703,507,121**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                                     | publishtime             | url                                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| FPT báo lợi nhuận ròng 3,360 tỷ sau 4 tháng                                                                               | 2026-05-13T18:30:07.743 | /2026/05/fpt-bao-loi-nhuan-rong-3360-ty-sau-4-thang-737-1442215.htm                                                       |
 | Theo dấu dòng tiền cá mập 12/05: Khối ngoại và tự doanh lại cùng bán ròng, FPT tiếp tục thành tâm điểm                    | 2026-05-12T19:38:00     | /2026/05/theo-dau-dong-tien-ca-map-1205-khoi-ngoai-va-tu-doanh-lai-cung-ban-rong-fpt-tiep-tuc-thanh-tam-diem-830-1441753… |
 | FOX: Thông báo về việc FPT Telecom hiện chưa đáp ứng đủ điều kiện duy trì tư cách công ty đại chúng                       | 2026-05-12T15:19:00     | /2026/05/fox-thong-bao-ve-viec-fpt-telecom-hien-chua-dap-ung-du-dieu-kien-duy-tri-tu-cach-cong-ty-dai-chung-830-1441471.… |
 | Theo dấu dòng tiền cá mập 11/05: FPT tiếp tục thành tâm điểm bán ròng                                                     | 2026-05-11T18:52:44.61  | /2026/05/theo-dau-dong-tien-ca-map-1105-fpt-tiep-tuc-thanh-tam-diem-ban-rong-830-1440923.htm                              |
@@ -110,7 +113,6 @@
 | Theo dấu dòng tiền cá mập 07/05: Dòng tiền ngoại nối dài chuỗi rút ròng khỏi FPT                                          | 2026-05-07T20:32:00     | /2026/05/theo-dau-dong-tien-ca-map-0705-dong-tien-ngoai-noi-dai-chuoi-rut-rong-khoi-fpt-830-1439740.htm                   |
 | FTS: Bản thông báo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của Công ty Cổ phần Chứng khoán FPT số… | 2026-05-06T00:00:00     | /2026/05/fts-ban-thong-bao-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nguon-von-chu-so-huu-cua-cong-ty-co-phan-chung-khoa… |
 | Theo dấu dòng tiền cá mập 05/05: FPT bị bán hơn 400 tỷ qua thỏa thuận                                                     | 2026-05-05T19:42:00     | /2026/05/theo-dau-dong-tien-ca-map-0505-fpt-bi-ban-hon-400-ty-qua-thoa-thuan-830-1438232.htm                              |
-| FPT: Thông báo thay đổi nhân sự                                                                                           | 2026-04-29T18:19:01     | /2026/04/fpt-thong-bao-thay-doi-nhan-su-214-1435995.htm                                                                   |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -121,17 +123,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Công nghệ và thông tin |
-| % Ngành hôm nay | +0.68% |
-| % Cổ phiếu hôm nay | +0.86% |
-| RS (CP − Ngành) | +0.18% |
+| % Ngành hôm nay | +3.93% |
+| % Cổ phiếu hôm nay | +4.53% |
+| RS (CP − Ngành) | +0.60% |
 | Nhận xét | CP **mạnh hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| FPT      | 2025-12-24 00:00:00 |   94.1 |   94.2 |  93.1 |    93.6 |  3901500 |
-| FPT      | 2025-12-25 00:00:00 |   93.6 |   94.8 |  93   |    93   |  4565200 |
 | FPT      | 2025-12-26 00:00:00 |   92.7 |   93   |  91   |    92.5 |  6612400 |
 | FPT      | 2025-12-29 00:00:00 |   92.5 |   94.9 |  92.5 |    94.3 |  6300900 |
 | FPT      | 2025-12-30 00:00:00 |   94.5 |   96.6 |  94.3 |    96.5 |  7271200 |
@@ -220,21 +220,23 @@ _Không có dữ liệu_
 | FPT      | 2026-05-08 00:00:00 |   73.2 |   73.3 |  71.9 |    71.9 | 13444300 |
 | FPT      | 2026-05-11 00:00:00 |   71.7 |   71.7 |  70   |    70   | 16909100 |
 | FPT      | 2026-05-12 00:00:00 |   70.1 |   71.5 |  70   |    70.6 |  8533300 |
+| FPT      | 2026-05-13 00:00:00 |   70.6 |   71.5 |  70   |    70.7 | 11517600 |
+| FPT      | 2026-05-14 00:00:00 |   71.1 |   75.3 |  71   |    73.9 | 21565500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| FPT      | 2026-05-12 14:27:48 |    70.3 |     5900 | Sell         | 473862000 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      100 | Sell         | 473862595 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      200 | Sell         | 473862596 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      100 | Sell         | 473862599 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      100 | Sell         | 473862594 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      300 | Sell         | 473862593 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      400 | Sell         | 473862598 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      100 | Sell         | 473862597 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      500 | Sell         | 473862600 |
-| FPT      | 2026-05-12 14:27:58 |    70.3 |      100 | Sell         | 473862603 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      500 | Sell         | 475135354 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      800 | Sell         | 475135414 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      800 | Sell         | 475135412 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |     3500 | Sell         | 475135361 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      100 | Sell         | 475135356 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      100 | Sell         | 475135358 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      500 | Sell         | 475135360 |
+| FPT      | 2026-05-14 14:28:16 |    73.4 |      200 | Sell         | 475135357 |
+| FPT      | 2026-05-14 14:28:22 |    73.4 |     3600 | Sell         | 475135955 |
+| FPT      | 2026-05-14 14:28:22 |    73.4 |      100 | Sell         | 475135949 |
 
 <!-- END:DAILY -->
 

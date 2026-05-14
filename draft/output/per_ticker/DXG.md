@@ -1,6 +1,6 @@
 # DXG — CTCP Bluemarq Group
 **Sàn:** HOSE  |  **Ngành:** Bất động sản
-> 📅 Daily: 12/05/2026 20:38  |  🗂 Quarterly: 03/05/2026 14:02
+> 📅 Daily: 14/05/2026 20:44  |  🗂 Quarterly: 03/05/2026 14:02
 
 ---
 
@@ -11,23 +11,23 @@
 | --- | --- |
 | symbol | DXG |
 | exchange | HOSE |
-| market_cap | 18020623861800 |
+| market_cap | 17798147024000 |
 | 52w_high | 24200 |
 | 52w_high_date | 2025-09-15 |
 | 52w_low | 13050 |
 | 52w_low_date | 2026-03-23 |
-| foreign_ownership | 20.6906 |
+| foreign_ownership | 20.6737 |
 | dividend | 0 |
-| beta | 0.97 |
+| beta | 0.99 |
 | eps | 220 |
-| eps_forward | 14.576582766208324 |
+| eps_forward | 14.808693956753043 |
 | bvps | 18969 |
-| pe | 71.35 |
-| pb | 0.83 |
-| price_chg_1m | 6.23 |
-| price_chg_ytd | 16.42 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
+| pe | 72.49 |
+| pb | 0.84 |
+| price_chg_1m | 4.23 |
+| price_chg_ytd | 14.29 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
 | yield | 0 |
 | financial_date | 12/2025 |
 | source | KBS |
@@ -36,52 +36,52 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.2 |
-| MA5 | 15.72 |
-| MA10 | 15.46 |
-| EMA20 | 15.245 |
-| EMA50 | 15.03 |
-| Slope MA20 (5p, %) | 2.17 |
-| ATR(14) | 0.569 |
-| RSI(14) | 66.1 |
+| Giá đóng cửa | 16.0 |
+| MA5 | 15.86 |
+| MA10 | 15.675 |
+| EMA20 | 15.378 |
+| EMA50 | 15.112 |
+| Slope MA20 (5p, %) | 2.19 |
+| ATR(14) | 0.552 |
+| RSI(14) | 62.1 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | TĂNG (giá > EMA20 > EMA50) |
 | Giá vs EMA20 | Trên |
 | Giá vs EMA50 | Trên |
-| MACD | 0.312 |
-| MACD Signal | 0.228 |
-| MACD Histogram | 0.084 |
+| MACD | 0.342 |
+| MACD Signal | 0.267 |
+| MACD Histogram | 0.075 |
 | MACD nhận xét | MACD > Signal → ĐÀ TĂNG |
-| KL avg 60 phiên | 17894850 |
+| KL avg 60 phiên | 17842197 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    18.25  | 0.55        | 1             |
-| ▶ Giá hiện tại |    16.2   | —           | —             |
-| 🟢 Hỗ trợ      |    16.129 | 2.36        | 2             |
-| 🟢 Hỗ trợ      |    15.75  | 2.62        | 2             |
-| 🟢 Hỗ trợ      |    15.3   | 0.67        | 1             |
+| 🔴 Kháng cự    |    16.129 | 2.32        | 2             |
+| ▶ Giá hiện tại |    16     | —           | —             |
+| 🟢 Hỗ trợ      |    15.75  | 2.58        | 2             |
+| 🟢 Hỗ trợ      |    15.3   | 0.66        | 1             |
+| 🟢 Hỗ trợ      |    15.2   | 1.2         | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | symbol | DXG |
-| pe | 71.35 |
-| pb | 0.83 |
+| pe | 72.49 |
+| pb | 0.84 |
 | roe | 3.19 |
 | roe_pct_rank | 32 |
 | roa | 0.68 |
 | roa_pct_rank | 35 |
 | eps | 220 |
 | bvps | 18969 |
-| beta | 0.97 |
+| beta | 0.99 |
 | dividend | 0 |
 | yield | 0 |
 | pe_pct_rank | 100 |
-| pb_pct_rank | 34 |
+| pb_pct_rank | 35 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -89,19 +89,20 @@
 
 | Ngày       |       KL | vs Avg60   | Turnover (%)   |
 |:-----------|---------:|:-----------|:---------------|
-| 2026-05-06 | 18990600 | +6.1%      | 1.707%         |
-| 2026-05-07 | 18767800 | +4.9%      | 1.687%         |
-| 2026-05-08 |  9818800 | -45.1%     | 0.883%         |
-| 2026-05-11 | 19396400 | +8.4%      | 1.744%         |
-| 2026-05-12 | 33758900 | +88.7%     | 3.035%         |
+| 2026-05-08 |  9818800 | -45.0%     | 0.883%         |
+| 2026-05-11 | 19396400 | +8.7%      | 1.744%         |
+| 2026-05-12 | 33758900 | +89.2%     | 3.035%         |
+| 2026-05-13 | 15998300 | -10.3%     | 1.438%         |
+| 2026-05-14 | 10359500 | -41.9%     | 0.931%         |
 
-- KL trung bình 60 phiên: **17,894,850**
+- KL trung bình 60 phiên: **17,842,196**
 - Số CP lưu hành: **1,112,384,189**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                                       | publishtime             | url                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| DXG triển khai phát hành hơn 155 triệu cổ phiếu thưởng sau đổi tên                                          | 2026-05-13T12:40:19.2   | /2026/05/dxg-trien-khai-phat-hanh-hon-155-trieu-co-phieu-thuong-sau-doi-ten-764-1441963.htm                               |
 | DXG: Nghị quyết HĐQT về việc thông qua triển khai phương án phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH | 2026-05-08T16:29:04     | /2026/05/dxg-nghi-quyet-hdqt-ve-viec-thong-qua-trien-khai-phuong-an-phat-hanh-co-phieu-de-tang-von-co-phan-tu-nvcsh-737-… |
 | DXG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 32                                               | 2026-05-07T17:37:49     | /2026/05/dxg-giay-chung-nhan-dang-ky-doanh-nghiep-thay-doi-lan-thu-32-737-1439673.htm                                     |
 | DXG: Thông báo thay đổi mẫu con dấu Công ty                                                                 | 2026-05-07T16:59:12     | /2026/05/dxg-thong-bao-thay-doi-mau-con-dau-cong-ty-830-1439609.htm                                                       |
@@ -111,7 +112,6 @@
 | Đất Xanh đạt 80% kế hoạch lợi nhuận năm sau quý 1, cho vay bí ẩn hơn 3.3 ngàn tỷ                            | 2026-05-01T16:19:16.833 | /2026/05/dat-xanh-dat-80-ke-hoach-loi-nhuan-nam-sau-quy-1-cho-vay-bi-an-hon-33-ngan-ty-737-1436413.htm                    |
 | DXG: Báo cáo kết quả giao dịch cổ phiếu của người nội bộ Nguyễn Trường Sơn                                  | 2026-04-29T19:08:09     | /2026/04/dxg-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-noi-bo-nguyen-truong-son-739-1436117.htm                        |
 | DXG: BCTC quý 1 năm 2026                                                                                    | 2026-04-29T00:00:00     | /2026/04/dxg-bctc-quy-1-nam-2026-737-1436872.htm                                                                          |
-| DXG: BCTC Hợp nhất quý 1 năm 2026                                                                           | 2026-04-29T00:00:00     | /2026/04/dxg-bctc-hop-nhat-quy-1-nam-2026-737-1436873.htm                                                                 |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -122,17 +122,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Bất động sản |
-| % Ngành hôm nay | +0.07% |
-| % Cổ phiếu hôm nay | +3.18% |
-| RS (CP − Ngành) | +3.11% |
-| Nhận xét | CP **mạnh hơn** ngành |
+| % Ngành hôm nay | +3.04% |
+| % Cổ phiếu hôm nay | +0.31% |
+| RS (CP − Ngành) | -2.73% |
+| Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| DXG      | 2025-12-24 00:00:00 |  17.8  |  18.25 | 17.7  |   18.15 | 10955300 |
-| DXG      | 2025-12-25 00:00:00 |  18.1  |  18.2  | 17.6  |   17.6  |  9010000 |
 | DXG      | 2025-12-26 00:00:00 |  17.5  |  17.65 | 16.8  |   17.6  | 16044400 |
 | DXG      | 2025-12-29 00:00:00 |  17.7  |  17.75 | 17.3  |   17.65 |  6373200 |
 | DXG      | 2025-12-30 00:00:00 |  17.6  |  17.8  | 17.25 |   17.5  |  8075700 |
@@ -221,21 +219,23 @@ _Không có dữ liệu_
 | DXG      | 2026-05-08 00:00:00 |  15.4  |  15.6  | 15.3  |   15.45 |  9818800 |
 | DXG      | 2026-05-11 00:00:00 |  15.45 |  15.9  | 15.3  |   15.7  | 19396400 |
 | DXG      | 2026-05-12 00:00:00 |  15.75 |  16.5  | 15.75 |   16.2  | 33758900 |
+| DXG      | 2026-05-13 00:00:00 |  16.3  |  16.35 | 15.85 |   15.95 | 15998300 |
+| DXG      | 2026-05-14 00:00:00 |  16    |  16.2  | 15.8  |   16    | 10359500 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| DXG      | 2026-05-12 14:28:47 |   16.25 |     1000 | Sell         | 473865905 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      100 | Sell         | 473865916 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      500 | Sell         | 473865915 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |     1000 | Sell         | 473865914 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      500 | Sell         | 473865913 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      100 | Sell         | 473865912 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      500 | Sell         | 473865906 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |     1600 | Sell         | 473865910 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      700 | Sell         | 473865909 |
-| DXG      | 2026-05-12 14:28:47 |   16.25 |      300 | Sell         | 473865908 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |      500 | Sell         | 475127027 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |      100 | Sell         | 475127031 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |    10000 | Sell         | 475127034 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |     2000 | Sell         | 475127029 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |     1000 | Sell         | 475127032 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |     1000 | Sell         | 475127028 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |      400 | Sell         | 475127030 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |     4000 | Sell         | 475127037 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |      100 | Sell         | 475127038 |
+| DXG      | 2026-05-14 14:26:59 |   15.85 |      200 | Sell         | 475127039 |
 
 <!-- END:DAILY -->
 

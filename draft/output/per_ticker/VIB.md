@@ -1,6 +1,6 @@
 # VIB — Ngân hàng TMCP Quốc tế Việt Nam
 **Sàn:** HOSE  |  **Ngành:** Ngân hàng
-> 📅 Daily: 12/05/2026 20:46  |  🗂 Quarterly: 03/05/2026 14:24
+> 📅 Daily: 14/05/2026 20:53  |  🗂 Quarterly: 03/05/2026 14:24
 
 ---
 
@@ -11,24 +11,24 @@
 | --- | --- |
 | symbol | VIB |
 | exchange | HOSE |
-| market_cap | 54464091360000 |
+| market_cap | 54634291645500 |
 | 52w_high | 22376 |
 | 52w_high_date | 2025-08-22 |
 | 52w_low | 14822 |
 | 52w_low_date | 2025-06-11 |
-| foreign_ownership | 4.7856 |
+| foreign_ownership | 4.7844 |
 | dividend | 900 |
-| beta | 0.78 |
+| beta | 0.79 |
 | eps | 2343 |
 | eps_forward | 4.700771574920573 |
 | bvps | 14437.13 |
 | pe | 6.81 |
 | pb | 1.10 |
-| price_chg_1m | -3.29 |
-| price_chg_ytd | 6.75 |
-| price_chg_1m_rank | 9.35 |
-| price_chg_ytd_rank | 48.15 |
-| yield | 0.05625 |
+| price_chg_1m | -3.82 |
+| price_chg_ytd | 5.04 |
+| price_chg_1m_rank | 7.73 |
+| price_chg_ytd_rank | 47.01 |
+| yield | 0.056074766355140186 |
 | financial_date | 12/2025 |
 | source | KBS |
 
@@ -36,35 +36,35 @@
 
 | Chỉ tiêu | Giá trị |
 | --- | --- |
-| Giá đóng cửa | 16.0 |
-| MA5 | 16.06 |
-| MA10 | 16.15 |
-| EMA20 | 16.183 |
-| EMA50 | 16.226 |
-| Slope MA20 (5p, %) | -0.53 |
-| ATR(14) | 0.297 |
-| RSI(14) | 45.3 |
+| Giá đóng cửa | 16.05 |
+| MA5 | 16.0 |
+| MA10 | 16.07 |
+| EMA20 | 16.15 |
+| EMA50 | 16.207 |
+| Slope MA20 (5p, %) | -0.6 |
+| ATR(14) | 0.288 |
+| RSI(14) | 47.0 |
 | RSI nhận xét | Bình thường |
 | Tín hiệu EMA | GIẢM (giá < EMA20 < EMA50) |
 | Giá vs EMA20 | Dưới |
 | Giá vs EMA50 | Dưới |
-| MACD | -0.05 |
-| MACD Signal | 0.002 |
-| MACD Histogram | -0.052 |
+| MACD | -0.062 |
+| MACD Signal | -0.021 |
+| MACD Histogram | -0.041 |
 | MACD nhận xét | MACD < Signal → ĐÀ XUỐNG |
-| KL avg 60 phiên | 6028036 |
+| KL avg 60 phiên | 5909149 |
 
 ## Vùng hỗ trợ / Kháng cự
 
 | Loại           |   Mức giá | Điểm mạnh   | Số lần chạm   |
 |:---------------|----------:|:------------|:--------------|
-| 🔴 Kháng cự    |    16.665 | 3.3         | 3             |
-| 🔴 Kháng cự    |    16.35  | 2.21        | 2             |
-| 🔴 Kháng cự    |    16.346 | 3.47        | 4             |
-| ▶ Giá hiện tại |    16     | —           | —             |
-| 🟢 Hỗ trợ      |    15.729 | 4.83        | 4             |
-| 🟢 Hỗ trợ      |    15.36  | 1.14        | 1             |
-| 🟢 Hỗ trợ      |    14.74  | 1.04        | 1             |
+| 🔴 Kháng cự    |    16.665 | 3.25        | 3             |
+| 🔴 Kháng cự    |    16.35  | 2.18        | 2             |
+| 🔴 Kháng cự    |    16.346 | 3.42        | 4             |
+| ▶ Giá hiện tại |    16.05  | —           | —             |
+| 🟢 Hỗ trợ      |    15.729 | 4.76        | 4             |
+| 🟢 Hỗ trợ      |    15.36  | 1.12        | 1             |
+| 🟢 Hỗ trợ      |    14.74  | 1.02        | 1             |
 
 ## Tóm tắt chỉ số tài chính
 
@@ -76,12 +76,12 @@
 | roe | 16.41 |
 | roe_pct_rank | 61 |
 | roa | 1.39 |
-| roa_pct_rank | 38 |
+| roa_pct_rank | 33 |
 | eps | 2343 |
 | bvps | 14437.13 |
-| beta | 0.78 |
+| beta | 0.79 |
 | dividend | 900 |
-| yield | 0.05625 |
+| yield | 0.056074766355140186 |
 | pe_pct_rank | 36 |
 | pb_pct_rank | 47 |
 | financial_date | 12/2025 |
@@ -91,19 +91,21 @@
 
 | Ngày       |      KL | vs Avg60   | Turnover (%)   |
 |:-----------|--------:|:-----------|:---------------|
-| 2026-05-06 | 3384077 | -43.9%     | 0.099%         |
-| 2026-05-07 | 4515029 | -25.1%     | 0.133%         |
-| 2026-05-08 | 3845169 | -36.2%     | 0.113%         |
-| 2026-05-11 | 6161384 | +2.2%      | 0.181%         |
-| 2026-05-12 | 2263500 | -62.5%     | 0.066%         |
+| 2026-05-08 | 3845169 | -34.9%     | 0.113%         |
+| 2026-05-11 | 6161384 | +4.3%      | 0.181%         |
+| 2026-05-12 | 2267452 | -61.6%     | 0.067%         |
+| 2026-05-13 | 2835881 | -52.0%     | 0.083%         |
+| 2026-05-14 | 3275200 | -44.6%     | 0.096%         |
 
-- KL trung bình 60 phiên: **6,028,036**
+- KL trung bình 60 phiên: **5,909,149**
 - Số CP lưu hành: **3,404,005,710**
 
 ## Tin tức gần nhất (Top 10)
 
 | title                                                                                             | publishtime         | url                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Lộ trình phục hồi NIM ngân hàng và bài toán đánh đổi lợi suất - rủi ro                            | 2026-05-14T13:02:00 | /2026/05/lo-trinh-phuc-hoi-nim-ngan-hang-va-bai-toan-danh-doi-loi-suat-rui-ro-757-1441923.htm                            |
+| Khả năng hấp thụ rủi ro một số ngân hàng suy giảm                                                 | 2026-05-13T09:02:00 | /2026/05/kha-nang-hap-thu-rui-ro-mot-so-ngan-hang-suy-giam-757-1440830.htm                                               |
 | Lãi suất tiền gửi đầu tháng 5 đồng loạt hạ nhiệt                                                  | 2026-05-12T13:02:00 | /2026/05/lai-suat-tien-gui-dau-thang-5-dong-loat-ha-nhiet-757-1440643.htm                                                |
 | VIB: Báo cáo kết quả giao dịch cổ phiếu của người có liên quan đến người nội bộ Đặng Thị Thu Hà   | 2026-05-11T14:22:23 | /2026/05/vib-bao-cao-ket-qua-giao-dich-co-phieu-cua-nguoi-co-lien-quan-den-nguoi-noi-bo-dang-thi-thu-ha-739-1440813.htm  |
 | Nguồn thu chính dẫn dắt, trích lập dự phòng tạo ranh giới phân hóa lợi nhuận ngân hàng quý 1/2026 | 2026-05-11T11:02:00 | /2026/05/nguon-thu-chinh-dan-dat-trich-lap-du-phong-tao-ranh-gioi-phan-hoa-loi-nhuan-ngan-hang-quy-12026-757-1439784.htm |
@@ -112,8 +114,6 @@
 | Cổ phiếu ngân hàng tháng 4/2026: Vốn hóa tăng vọt, khối ngoại hãm đà bán ròng                     | 2026-05-05T20:02:00 | /2026/05/co-phieu-ngan-hang-thang-42026-von-hoa-tang-vot-khoi-ngoai-ham-da-ban-rong-757-1437535.htm                      |
 | CASA tăng 5%, VIB tăng 16% lãi trước thuế quý 1                                                   | 2026-04-30T14:02:00 | /2026/04/casa-tang-5-vib-tang-16-lai-truoc-thue-quy-1-737-1436354.htm                                                    |
 | VIB: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước                      | 2026-04-29T14:29:03 | /2026/04/vib-giai-trinh-bien-dong-lnst-tren-bctc-quy-1-2026-so-voi-cung-ky-nam-truoc-737-1435526.htm                     |
-| VIB: BCTC Hợp nhất quý 1 năm 2026                                                                 | 2026-04-29T00:00:00 | /2026/04/vib-bctc-hop-nhat-quy-1-nam-2026-737-1435549.htm                                                                |
-| VIB: BCTC quý 1 năm 2026                                                                          | 2026-04-29T00:00:00 | /2026/04/vib-bctc-quy-1-nam-2026-737-1435550.htm                                                                         |
 
 ## Lịch sự kiện (15 gần nhất — AIS/DIV/ISS)
 
@@ -124,17 +124,15 @@ _Không có dữ liệu_
 | Chỉ tiêu | Giá trị |
 | --- | --- |
 | Ngành (KBS) | Ngân hàng |
-| % Ngành hôm nay | +0.35% |
-| % Cổ phiếu hôm nay | +0.31% |
-| RS (CP − Ngành) | -0.04% |
+| % Ngành hôm nay | +1.21% |
+| % Cổ phiếu hôm nay | +0.63% |
+| RS (CP − Ngành) | -0.58% |
 | Nhận xét | CP **yếu hơn** ngành |
 
 ## Lịch sử giá (90 phiên gần nhất)
 
 | ticker   | time                |   open |   high |   low |   close |   volume |
 |:---------|:--------------------|-------:|-------:|------:|--------:|---------:|
-| VIB      | 2025-12-24 00:00:00 |  16.83 |  17.26 | 16.69 |   16.97 |  6460595 |
-| VIB      | 2025-12-25 00:00:00 |  17.02 |  17.21 | 16.88 |   16.88 |  4073005 |
 | VIB      | 2025-12-26 00:00:00 |  16.73 |  16.92 | 16.31 |   16.69 |  8335558 |
 | VIB      | 2025-12-29 00:00:00 |  16.69 |  16.83 | 16.64 |   16.69 |  3560228 |
 | VIB      | 2025-12-30 00:00:00 |  16.69 |  16.88 | 16.69 |   16.78 |  3403041 |
@@ -222,22 +220,24 @@ _Không có dữ liệu_
 | VIB      | 2026-05-07 00:00:00 |  16.2  |  16.3  | 16.1  |   16.1  |  4515029 |
 | VIB      | 2026-05-08 00:00:00 |  16.15 |  16.2  | 16    |   16.05 |  3845169 |
 | VIB      | 2026-05-11 00:00:00 |  16.05 |  16.25 | 15.95 |   15.95 |  6161384 |
-| VIB      | 2026-05-12 00:00:00 |  16.05 |  16.1  | 15.95 |   16    |  2263500 |
+| VIB      | 2026-05-12 00:00:00 |  16.05 |  16.1  | 15.95 |   16    |  2267452 |
+| VIB      | 2026-05-13 00:00:00 |  16.15 |  16.15 | 15.95 |   15.95 |  2835881 |
+| VIB      | 2026-05-14 00:00:00 |  16    |  16.2  | 15.95 |   16.05 |  3275200 |
 
 ## Giao dịch trong ngày (10 lệnh gần nhất)
 
 | ticker   | time                |   price |   volume | match_type   |        id |
 |:---------|:--------------------|--------:|---------:|:-------------|----------:|
-| VIB      | 2026-05-12 14:10:12 |      16 |      200 | Sell         | 473801794 |
-| VIB      | 2026-05-12 14:10:34 |      16 |      500 | Sell         | 473802542 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      100 | Sell         | 473804487 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      500 | Sell         | 473804489 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      500 | Sell         | 473804490 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      600 | Sell         | 473804485 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      200 | Sell         | 473804492 |
-| VIB      | 2026-05-12 14:11:19 |      16 |      100 | Sell         | 473804495 |
-| VIB      | 2026-05-12 14:11:19 |      16 |     1000 | Sell         | 473804496 |
-| VIB      | 2026-05-12 14:11:19 |      16 |     1000 | Sell         | 473804497 |
+| VIB      | 2026-05-14 14:06:13 |   16.05 |      300 | Sell         | 475060971 |
+| VIB      | 2026-05-14 14:06:58 |   16.05 |      300 | Sell         | 475062759 |
+| VIB      | 2026-05-14 14:07:55 |   16.05 |      500 | Sell         | 475064579 |
+| VIB      | 2026-05-14 14:08:13 |   16.05 |      200 | Sell         | 475065193 |
+| VIB      | 2026-05-14 14:08:21 |   16.05 |      100 | Sell         | 475065438 |
+| VIB      | 2026-05-14 14:09:35 |   16.05 |      400 | Sell         | 475068916 |
+| VIB      | 2026-05-14 14:10:35 |   16.05 |      500 | Sell         | 475071034 |
+| VIB      | 2026-05-14 14:11:11 |   16.05 |     1600 | Sell         | 475072449 |
+| VIB      | 2026-05-14 14:11:14 |   16.1  |      100 | Buy          | 475072624 |
+| VIB      | 2026-05-14 14:11:29 |   16.05 |     6900 | Sell         | 475073189 |
 
 <!-- END:DAILY -->
 
